@@ -28,6 +28,8 @@ jobs:
     timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main   # always the newest data, not the commit that triggered the run
 
       - uses: actions/setup-python@v5
         with:
@@ -49,11 +51,18 @@ jobs:
           git add data
           if git diff --cached --quiet; then
             echo "No changes to the boards."
-          else
-            git commit -m "ghost check $(date -u +%Y-%m-%d)"
-            git pull --rebase
-            git push
+            exit 0
           fi
+          git commit -q -m "ghost check $(date -u +%Y-%m-%d)"
+          if ! git pull --rebase -q; then
+            # Another check saved first. Start from its data and check again, so nothing is lost.
+            git rebase --abort
+            git reset --hard origin/main
+            python -m ghostjobs run
+            git add data
+            git diff --cached --quiet || git commit -q -m "ghost check $(date -u +%Y-%m-%d)"
+          fi
+          git push
 
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
