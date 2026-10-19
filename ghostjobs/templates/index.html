@@ -1,0 +1,99 @@
+{% extends "base.html" %}
+{% block style %}
+.hero{padding-block:44px 8px}
+.hero .kicker{font:500 13px/1.3 var(--mono);text-transform:uppercase;letter-spacing:.08em;color:var(--ghost);margin:0 0 18px}
+.hero .big{font:800 clamp(64px,15vw,168px)/.86 var(--display);letter-spacing:-.05em;margin:0;color:var(--text)}
+.hero .big span{color:var(--ghost)}
+.hero p.line{font-size:clamp(19px,2.6vw,25px);line-height:1.4;max-width:760px;margin:22px 0 0;color:#d6d4e2}
+.hero p.line a{text-decoration-color:var(--ghost);text-underline-offset:4px}
+.stats{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:1px;background:var(--line);border:1px solid var(--line);border-radius:14px;overflow:hidden;margin-top:40px}
+.stats div{background:var(--panel);padding:16px 18px;min-width:0}
+.stats b{display:block;font:800 30px/1 var(--display)}
+.stats span{font-size:13px;color:var(--muted)}
+@media (max-width:640px){.stats{grid-template-columns:repeat(2,minmax(0,1fr))}}
+.co a{text-decoration:none;font-weight:600}
+.co a:hover{text-decoration:underline;text-decoration-color:var(--ghost)}
+.oldest{display:grid;gap:10px}
+.ad{display:grid;grid-template-columns:minmax(110px,150px) minmax(0,1fr);gap:16px;align-items:baseline;padding:16px 18px;background:var(--panel);border:1px solid var(--line);border-radius:12px}
+.ad .age{font:800 26px/1 var(--display);color:var(--ghost)}
+.ad .age small{display:block;font:500 11px/1.4 var(--mono);color:var(--muted);letter-spacing:.04em;margin-top:6px}
+.ad h3{font:600 17px/1.35 var(--body);letter-spacing:0;margin:0}
+.ad h3 a{text-decoration:none}
+.ad h3 a:hover{text-decoration:underline;text-decoration-color:var(--ghost)}
+.ad .meta{font-size:14px;color:var(--muted);margin-top:4px}
+@media (max-width:520px){.ad{grid-template-columns:1fr;gap:6px}}
+.said{columns:2 300px;column-gap:24px}
+.said li{break-inside:avoid;margin-bottom:10px;color:#d6d4e2}
+.said li b{color:var(--text)}
+.small-list{display:flex;flex-wrap:wrap;gap:8px}
+.small-list a{font-size:14px;text-decoration:none;padding:6px 10px;border:1px solid var(--line);border-radius:8px;background:var(--panel)}
+{% endblock %}
+{% block content %}
+{% if top %}
+<section class="hero">
+  <p class="kicker">Oldest job ad still online</p>
+  <p class="big">{{ top.age_days | age | replace(" years", "<span> yrs</span>") | replace(" year", "<span> yr</span>") | safe }}</p>
+  <p class="line"><b>{{ top.company }}</b> has been "hiring" a <a href="{{ top.url }}" target="_blank" rel="noopener">{{ top.title }}</a>{% if top.location %} in {{ top.location }}{% endif %} since {{ top.since[:4] }}. The ad is still up tonight.</p>
+</section>
+{% else %}
+<section class="hero"><p class="big">👻</p><p class="line">The first check hasn't run yet.</p></section>
+{% endif %}
+
+<div class="stats">
+  <div><b class="num">{{ n_jobs | num }}</b><span>job ads tracked</span></div>
+  <div><b class="num">{{ n_companies }}</b><span>companies</span></div>
+  <div><b class="num">{{ pct_90 }}%</b><span>up for 3+ months</span></div>
+  <div><b class="num">{{ over_year | num }}</b><span>up for over a year</span></div>
+</div>
+
+<h2 class="section" id="leaderboard">Ghostiest job boards</h2>
+<p class="hint">Companies with {{ min_ranked }}+ open ads, ranked by how much of their board is stale. Click a column to re-sort. <a href="method.html">How the index works</a>.</p>
+<div class="table-wrap">
+<table data-sortable>
+  <thead><tr>
+    <th data-sort>Company</th><th class="r" data-sort>Open ads</th><th class="r" data-sort>Typical age</th>
+    <th class="r" data-sort>3+ months</th><th class="r" data-sort>Oldest</th><th data-sort aria-sort="descending">Ghost index</th>
+  </tr></thead>
+  <tbody>
+  {% for b in ranked %}{% set s = b.summary %}
+  <tr>
+    <td class="co"><a href="{{ b.page }}">{{ b.name }}</a>{% if b.country %} <span class="muted mono" style="font-size:11px">{{ b.country }}</span>{% endif %}</td>
+    <td class="r num" data-v="{{ s.open }}">{{ s.open | num }}</td>
+    <td class="r num" data-v="{{ s.median_age }}">{{ s.median_age | age }}</td>
+    <td class="r num" data-v="{{ s.pct_90 }}">{{ s.pct_90 }}%</td>
+    <td class="r num" data-v="{{ s.oldest }}">{{ s.oldest | age }}</td>
+    <td data-v="{{ s.ghost_index }}"><span style="display:flex;align-items:center;gap:10px"><span class="bar" style="flex:1"><b style="width:{{ s.ghost_index }}%"></b></span><span class="num mono" style="width:2.5em;text-align:right">{{ s.ghost_index }}</span></span></td>
+  </tr>
+  {% endfor %}
+  </tbody>
+</table>
+</div>
+
+<h2 class="section" id="oldest">Oldest ads still up</h2>
+<p class="hint">Dated from the day the company's own hiring system says the ad first went live.</p>
+<div class="oldest">
+{% for j in oldest %}
+  <article class="ad">
+    <div class="age num">{{ j.age_days | age }}<small>since {{ j.since }}</small></div>
+    <div>
+      <h3><a href="{{ j.url }}" target="_blank" rel="noopener">{{ j.title }}</a></h3>
+      <div class="meta"><a href="c/{{ j.company_id }}.html">{{ j.company }}</a>{% if j.location %} · {{ j.location }}{% endif %}</div>
+    </div>
+  </article>
+{% endfor %}
+</div>
+
+{% if evergreen %}
+<h2 class="section">They said it out loud</h2>
+<p class="hint">Ads that admit there may be no job behind them: talent pools, "future opportunities", expressions of interest.</p>
+<ul class="said">
+{% for j in evergreen %}<li><b>{{ j.company }}</b> · <a href="{{ j.url }}" target="_blank" rel="noopener">{{ j.title }}</a></li>{% endfor %}
+</ul>
+{% endif %}
+
+{% if small %}
+<h2 class="section">Smaller boards</h2>
+<p class="hint">Fewer than {{ min_ranked }} open ads, so not ranked.</p>
+<div class="small-list">{% for b in small %}<a href="{{ b.page }}">{{ b.name }} · {{ b.summary.open }}</a>{% endfor %}</div>
+{% endif %}
+{% endblock %}

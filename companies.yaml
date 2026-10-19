@@ -1,0 +1,93 @@
+# Whose job boards we watch.
+#
+# Add a company: find its careers page and check which hiring system it uses —
+#   boards.greenhouse.io/<board> or job-boards.greenhouse.io/<board>  → ats: greenhouse
+#   jobs.lever.co/<board>                                             → ats: lever   (EU boards: board: "eu:<board>")
+#   jobs.ashbyhq.com/<board>                                          → ats: ashby
+#   jobs.smartrecruiters.com/<board>                                  → ats: smartrecruiters
+#   <board>.jobs.personio.de                                          → ats: personio (.com boards: board: "<board>.com")
+# Test it first:  python -m ghostjobs check <ats> <board>
+
+site:
+  title: Ghost Job Tracker
+  url: "https://monanyx.github.io/ghost-job-tracker"
+  repo: "https://github.com/monanyx/ghost-job-tracker"
+
+companies:
+  - { id: affirm, name: "Affirm", ats: greenhouse, board: affirm }
+  - { id: airbnb, name: "Airbnb", ats: greenhouse, board: airbnb }
+  - { id: airtable, name: "Airtable", ats: greenhouse, board: airtable }
+  - { id: anthropic, name: "Anthropic", ats: greenhouse, board: anthropic }
+  - { id: asana, name: "Asana", ats: greenhouse, board: asana }
+  - { id: binance, name: "Binance", ats: lever, board: binance }
+  - { id: bitpanda, name: "Bitpanda", ats: greenhouse, board: bitpanda, country: AT }
+  - { id: bosch, name: "Bosch", ats: smartrecruiters, board: BoschGroup, country: DE }
+  - { id: brex, name: "Brex", ats: greenhouse, board: brex }
+  - { id: celonis, name: "Celonis", ats: greenhouse, board: celonis, country: DE }
+  - { id: chime, name: "Chime", ats: greenhouse, board: chime }
+  - { id: cloudflare, name: "Cloudflare", ats: greenhouse, board: cloudflare }
+  - { id: cohere, name: "Cohere", ats: ashby, board: cohere }
+  - { id: coinbase, name: "Coinbase", ats: greenhouse, board: coinbase }
+  - { id: contentful, name: "Contentful", ats: greenhouse, board: contentful, country: DE }
+  - { id: cursor, name: "Cursor", ats: ashby, board: cursor }
+  - { id: databricks, name: "Databricks", ats: greenhouse, board: databricks }
+  - { id: datadog, name: "Datadog", ats: greenhouse, board: datadog }
+  - { id: discord, name: "Discord", ats: greenhouse, board: discord }
+  - { id: doordash, name: "DoorDash", ats: greenhouse, board: doordashusa }
+  - { id: dropbox, name: "Dropbox", ats: greenhouse, board: dropbox }
+  - { id: duolingo, name: "Duolingo", ats: greenhouse, board: duolingo }
+  - { id: elastic, name: "Elastic", ats: greenhouse, board: elastic }
+  - { id: elevenlabs, name: "ElevenLabs", ats: ashby, board: elevenlabs, country: UK }
+  - { id: epic-games, name: "Epic Games", ats: greenhouse, board: epicgames }
+  - { id: figma, name: "Figma", ats: greenhouse, board: figma }
+  - { id: gitlab, name: "GitLab", ats: greenhouse, board: gitlab }
+  - { id: gostudent, name: "GoStudent", ats: greenhouse, board: gostudent, country: AT }
+  - { id: gusto, name: "Gusto", ats: greenhouse, board: gusto }
+  - { id: harvey, name: "Harvey", ats: ashby, board: harvey }
+  - { id: hellofresh, name: "HelloFresh", ats: greenhouse, board: hellofresh, country: DE }
+  - { id: hokify, name: "hokify", ats: personio, board: hokify, country: AT }
+  - { id: instacart, name: "Instacart", ats: greenhouse, board: instacart }
+  - { id: linear, name: "Linear", ats: ashby, board: linear }
+  - { id: lovable, name: "Lovable", ats: ashby, board: lovable }
+  - { id: lyft, name: "Lyft", ats: greenhouse, board: lyft }
+  - { id: mcdonald-s, name: "McDonald's", ats: smartrecruiters, board: McDonaldsCorporation }
+  - { id: mongodb, name: "MongoDB", ats: greenhouse, board: mongodb }
+  - { id: monzo, name: "Monzo", ats: greenhouse, board: monzo, country: UK }
+  - { id: n26, name: "N26", ats: greenhouse, board: n26, country: DE }
+  - { id: n8n, name: "n8n", ats: ashby, board: n8n }
+  - { id: notion, name: "Notion", ats: ashby, board: notion }
+  - { id: okta, name: "Okta", ats: greenhouse, board: okta }
+  - { id: openai, name: "OpenAI", ats: ashby, board: openai }
+  - { id: palantir, name: "Palantir", ats: lever, board: palantir }
+  - { id: peloton, name: "Peloton", ats: greenhouse, board: peloton }
+  - { id: perplexity, name: "Perplexity", ats: ashby, board: perplexity }
+  - { id: pigment, name: "Pigment", ats: lever, board: pigment, country: FR }
+  - { id: pinterest, name: "Pinterest", ats: greenhouse, board: pinterest }
+  - { id: posthog, name: "PostHog", ats: ashby, board: posthog }
+  - { id: prewave, name: "Prewave", ats: personio, board: prewave, country: AT }
+  - { id: ramp, name: "Ramp", ats: ashby, board: ramp }
+  - { id: reddit, name: "Reddit", ats: greenhouse, board: reddit }
+  - { id: replit, name: "Replit", ats: ashby, board: replit }
+  - { id: riot-games, name: "Riot Games", ats: greenhouse, board: riotgames }
+  - { id: robinhood, name: "Robinhood", ats: greenhouse, board: robinhood }
+  - { id: roblox, name: "Roblox", ats: greenhouse, board: roblox }
+  - { id: runway, name: "Runway", ats: ashby, board: runway }
+  - { id: samsara, name: "Samsara", ats: greenhouse, board: samsara }
+  - { id: scale-ai, name: "Scale AI", ats: greenhouse, board: scaleai }
+  - { id: sentry, name: "Sentry", ats: ashby, board: sentry }
+  - { id: spacex, name: "SpaceX", ats: greenhouse, board: spacex }
+  - { id: spotify, name: "Spotify", ats: lever, board: spotify, country: SE }
+  - { id: squarespace, name: "Squarespace", ats: greenhouse, board: squarespace }
+  - { id: stripe, name: "Stripe", ats: greenhouse, board: stripe }
+  - { id: supabase, name: "Supabase", ats: ashby, board: supabase }
+  - { id: toast, name: "Toast", ats: greenhouse, board: toast }
+  - { id: twilio, name: "Twilio", ats: greenhouse, board: twilio }
+  - { id: twitch, name: "Twitch", ats: greenhouse, board: twitch }
+  - { id: typeform, name: "Typeform", ats: greenhouse, board: typeform, country: ES }
+  - { id: ubisoft, name: "Ubisoft", ats: smartrecruiters, board: Ubisoft2, country: FR }
+  - { id: vanta, name: "Vanta", ats: ashby, board: vanta }
+  - { id: vercel, name: "Vercel", ats: greenhouse, board: vercel }
+  - { id: waymo, name: "Waymo", ats: greenhouse, board: waymo }
+  - { id: wolt, name: "Wolt", ats: greenhouse, board: wolt, country: FI }
+  - { id: zapier, name: "Zapier", ats: ashby, board: zapier }
+  - { id: zoox, name: "Zoox", ats: lever, board: zoox }

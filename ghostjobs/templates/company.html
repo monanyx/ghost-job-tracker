@@ -1,0 +1,68 @@
+{% extends "base.html" %}
+{% block title %}{{ b.name }} job ads · {{ site.title }}{% endblock %}
+{% block description %}{{ b.name }} has {{ b.summary.open }} open job ads. {{ b.summary.pct_90 }}% have been up for more than 3 months; the oldest for {{ b.summary.oldest | age }}.{% endblock %}
+{% block style %}
+.back{display:inline-block;margin:20px 0 22px;color:var(--muted);text-decoration:none;font-size:14px}
+h1.name{font-size:clamp(42px,8vw,76px);font-weight:800}
+.sub{color:#d6d4e2;font-size:19px;margin:14px 0 0;max-width:720px}
+.tiles{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:1px;background:var(--line);border:1px solid var(--line);border-radius:14px;overflow:hidden;margin-top:32px}
+.tiles div{background:var(--panel);padding:14px 16px;min-width:0}
+.tiles b{display:block;font:800 26px/1 var(--display)}
+.tiles span{font-size:13px;color:var(--muted)}
+@media (max-width:640px){.tiles{grid-template-columns:repeat(2,minmax(0,1fr))}}
+.dist{margin-top:28px}
+.dist .track{display:flex;height:14px;border-radius:7px;overflow:hidden;background:var(--panel-2)}
+.dist .track i{display:block;height:100%}
+.dist .legend{display:flex;flex-wrap:wrap;gap:6px 18px;margin-top:10px;font:12px/1.3 var(--mono);color:var(--muted)}
+.dist .legend span::before{content:"";display:inline-block;width:9px;height:9px;border-radius:2px;margin-right:6px;background:var(--c);vertical-align:-1px}
+td.t a{text-decoration:none;font-weight:500}
+td.t a:hover{text-decoration:underline;text-decoration-color:var(--ghost)}
+td .loc{display:block;font-size:13px;color:var(--muted)}
+.chips{display:flex;flex-wrap:wrap;gap:4px}
+.warn{margin-top:20px;padding:12px 14px;border:1px solid rgba(255,184,77,.4);border-radius:10px;color:var(--amber);font-size:14px}
+{% endblock %}
+{% block content %}
+{% set s = b.summary %}
+{% set colors = ["#49d69a", "#8fbf7a", "#ffb84d", "#ff8a4c", "#c9b8ff"] %}
+<a class="back" href="{{ root }}index.html#leaderboard">← Leaderboard</a>
+<h1 class="name">{{ b.name }}</h1>
+<p class="sub">{% if s.open %}{{ s.pct_90 }}% of {{ b.name }}'s {{ s.open | num }} open job ads have been up for more than three months. The oldest has been online for {{ s.oldest | age }}.{% else %}No open ads right now.{% endif %}</p>
+{% if not b.ok %}<div class="warn">Last check failed: {{ b.error }}. Showing the last good data.</div>{% endif %}
+
+<div class="tiles">
+  <div><b class="num">{{ s.open | num }}</b><span>open ads</span></div>
+  <div><b class="num">{{ s.median_age | age }}</b><span>typical age</span></div>
+  <div><b class="num">{{ s.ghosts }}</b><span>ghost score 4+</span></div>
+  <div><b class="num">{{ s.ghost_index }}</b><span>ghost index</span></div>
+</div>
+
+{% if s.open %}
+<div class="dist" aria-label="Ads by age">
+  <div class="track">{% for k in b.buckets %}{% if k.n %}<i style="width:{{ 100 * k.n / s.open }}%;background:{{ colors[loop.index0] }}" title="{{ k.label }}: {{ k.n }}"></i>{% endif %}{% endfor %}</div>
+  <div class="legend">{% for k in b.buckets %}<span style="--c:{{ colors[loop.index0] }}">{{ k.label }} · {{ k.n }}</span>{% endfor %}</div>
+</div>
+
+<h2 class="section">Every open ad</h2>
+<p class="hint">Sorted by ghost score, then age.{% if hidden %} Showing the top {{ rows | length }}; all {{ s.open | num }} are in <a href="{{ root }}api/{{ b.id }}.json">the data file</a>.{% endif %}</p>
+<div class="table-wrap">
+<table data-sortable>
+  <thead><tr><th data-sort>Ad</th><th class="r" data-sort>Up for</th><th data-sort>Signals</th><th data-sort aria-sort="descending">Score</th></tr></thead>
+  <tbody>
+  {% for j in rows %}
+  <tr>
+    <td class="t"><a href="{{ j.url }}" target="_blank" rel="noopener">{{ j.title }}</a><span class="loc">{{ j.location }}{% if j.department %} · {{ j.department }}{% endif %}</span></td>
+    <td class="r num" data-v="{{ j.age_days }}" style="white-space:nowrap">{{ j.age_days | age }}<span class="loc">since {{ j.since }}</span></td>
+    <td><span class="chips">
+      {% if j.evergreen %}<span class="chip hot">says "talent pool"</span>{% endif %}
+      {% if j.reposts %}<span class="chip hot">reposted {{ j.reposts }}×</span>{% endif %}
+      {% if j.redated %}<span class="chip hot">re-dated</span>{% endif %}
+      {% if j.age_days >= 365 %}<span class="chip">1 yr+</span>{% elif j.age_days >= 90 %}<span class="chip">3 mo+</span>{% endif %}
+    </span></td>
+    <td data-v="{{ j.score }}"><span class="pill" data-l="{{ j.label }}">{{ j.label }} {{ j.score }}</span></td>
+  </tr>
+  {% endfor %}
+  </tbody>
+</table>
+</div>
+{% endif %}
+{% endblock %}

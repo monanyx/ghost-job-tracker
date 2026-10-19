@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+{% block title %}How it works · {{ site.title }}{% endblock %}
+{% block style %}
+article.m{max-width:680px}
+article.m h1{font-size:clamp(40px,7vw,64px);font-weight:800;margin:28px 0 18px}
+article.m h2{font-size:26px;margin:44px 0 10px}
+article.m p,article.m li{color:#d6d4e2}
+article.m dt{font-weight:600;margin-top:16px}
+article.m dd{margin:4px 0 0;color:#d6d4e2}
+.score{display:grid;grid-template-columns:auto 1fr;gap:8px 16px;align-items:center}
+{% endblock %}
+{% block content %}
+<article class="m">
+<h1>How it works</h1>
+<p>Most companies run their careers page on a hiring system like Greenhouse, Lever, Ashby, SmartRecruiters or Personio. Those systems publish every open ad as public data, usually with the date it first went live. Every night we read {{ n_companies }} of those boards and remember every ad we've ever seen.</p>
+
+<h2>The signals</h2>
+<dl>
+  <dt>Up for</dt>
+  <dd>The oldest date we can prove: when the hiring system says the ad was first published, or when we first saw it, whichever is earlier. If the same role in the same place was posted before under another ad, we count from that one.</dd>
+  <dt>Reposted</dt>
+  <dd>The ad closed and the same role in the same place came back under a new ad. Reposting resets the date most job sites show you.</dd>
+  <dt>Re-dated</dt>
+  <dd>Same ad, but the hiring system's posting date moved forward, so an old ad now looks new.</dd>
+  <dt>Says "talent pool"</dt>
+  <dd>The ad itself says it's for a talent pool, future opportunities, an expression of interest or an open application.</dd>
+</dl>
+
+<h2>Ghost score</h2>
+<div class="score">
+  <span class="pill" data-l="active">active 0–1</span><span>Nothing unusual.</span>
+  <span class="pill" data-l="stale">stale 2</span><span>Old, or one other signal.</span>
+  <span class="pill" data-l="suspicious">suspicious 3</span><span>Several signals together.</span>
+  <span class="pill" data-l="ghost">ghost 4–5</span><span>Up for a year or more and reposted, re-dated or labelled as a talent pool.</span>
+</div>
+<p>Points: up 3+ months = 1, 6+ months = 2, a year+ = 3. Reposted once = 1, three times = 2. Re-dated = 1. Talent-pool wording = 2. Maximum 5.</p>
+
+<h2>Ghost index</h2>
+<p>One number per company from 0 to 100: half the share of ads older than 3 months, plus 0.3 × the share older than 6 months, plus the share of ads scoring 4+ (weighted 20). Only companies with {{ min_ranked }}+ open ads are ranked, so a single old ad can't top the chart.</p>
+
+<h2>What this does not prove</h2>
+<p>An old ad is not proof there's no job. Some companies keep "evergreen" ads open on purpose because they hire for that role all the time. That's still worth knowing when you're deciding where to spend an evening on a cover letter.</p>
+
+<h2>Add a company</h2>
+<p>It's one line in <code>companies.yaml</code>{% if site.repo %} on <a href="{{ site.repo }}">GitHub</a>{% endif %}. The data behind every page is public in <code>/api/</code>.</p>
+</article>
+{% endblock %}

@@ -1,0 +1,805 @@
+{
+ "history": [
+  {
+   "date": "2026-10-19",
+   "open": 53
+  }
+ ],
+ "jobs": {
+  "06752423-eebb-472c-95b5-c7ff2559fd60": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "software engineer branching @ remote, global",
+   "location": "Remote, Global",
+   "posted_at": "2026-09-02T10:25:03+00:00",
+   "posted_history": [
+    "2026-09-02T10:25:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer - Branching",
+   "url": "https://jobs.ashbyhq.com/supabase/06752423-eebb-472c-95b5-c7ff2559fd60"
+  },
+  "11beb619-0c25-4b11-9818-3f18e278c65b": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "performance engineer benchmarking @ remote, global",
+   "location": "Remote, Global",
+   "posted_at": "2026-07-28T09:49:44+00:00",
+   "posted_history": [
+    "2026-07-28T09:49:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Performance Engineer - Benchmarking",
+   "url": "https://jobs.ashbyhq.com/supabase/11beb619-0c25-4b11-9818-3f18e278c65b"
+  },
+  "142135ae-a15f-4ec7-90bb-cb4e7968bc09": {
+   "closed_at": null,
+   "department": "Support",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "support engineer @ remote, apac",
+   "location": "Remote, APAC",
+   "posted_at": "2025-03-20T18:51:09+00:00",
+   "posted_history": [
+    "2025-03-20T18:51:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Support Engineer (APAC)",
+   "url": "https://jobs.ashbyhq.com/supabase/142135ae-a15f-4ec7-90bb-cb4e7968bc09"
+  },
+  "180257c0-ad46-4fae-b34f-36d8ddc2fe2e": {
+   "closed_at": null,
+   "department": "Partnerships",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "partnerships lead @ remote, singapore",
+   "location": "Remote, Singapore",
+   "posted_at": "2026-07-29T08:46:18+00:00",
+   "posted_history": [
+    "2026-07-29T08:46:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Partnerships Lead (APAC)",
+   "url": "https://jobs.ashbyhq.com/supabase/180257c0-ad46-4fae-b34f-36d8ddc2fe2e"
+  },
+  "1acade7a-0b80-4c6c-9253-7c27a165739d": {
+   "closed_at": null,
+   "department": "Marketing",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "developer relations engineer @ remote, london uk",
+   "location": "Remote, London UK",
+   "posted_at": "2026-08-21T00:33:52+00:00",
+   "posted_history": [
+    "2026-08-21T00:33:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "Developer Relations Engineer (London, UK)",
+   "url": "https://jobs.ashbyhq.com/supabase/1acade7a-0b80-4c6c-9253-7c27a165739d"
+  },
+  "2e718684-4f75-4a99-8d6b-3b6bd44e4228": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "multigres engineer @ remote, global",
+   "location": "Remote, Global",
+   "posted_at": "2025-06-04T00:35:34+00:00",
+   "posted_history": [
+    "2025-06-04T00:35:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Multigres Engineer",
+   "url": "https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228"
+  },
+  "344787f2-d115-4056-87ca-7668fc14be3d": {
+   "closed_at": null,
+   "department": "Partnerships",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "aws gaming gtm segment lead @ remote, amer",
+   "location": "Remote, AMER",
+   "posted_at": "2026-08-28T01:19:05+00:00",
+   "posted_history": [
+    "2026-08-28T01:19:05+00:00"
+   ],
+   "reopened": 0,
+   "title": "AWS Gaming GTM Segment Lead",
+   "url": "https://jobs.ashbyhq.com/supabase/344787f2-d115-4056-87ca-7668fc14be3d"
+  },
+  "3889002e-536e-4046-a330-70e942b0cc96": {
+   "closed_at": null,
+   "department": "Support",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "database support engineer @ remote, emea",
+   "location": "Remote, EMEA",
+   "posted_at": "2025-12-17T21:45:16+00:00",
+   "posted_history": [
+    "2025-12-17T21:45:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Database Support Engineer (EMEA)",
+   "url": "https://jobs.ashbyhq.com/supabase/3889002e-536e-4046-a330-70e942b0cc96"
+  },
+  "3ab0b926-c9b5-4197-aff2-88d5bf009e13": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "software engineer functions @ remote, global",
+   "location": "Remote, Global",
+   "posted_at": "2026-05-13T09:45:06+00:00",
+   "posted_history": [
+    "2026-05-13T09:45:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer - Functions (Compute)",
+   "url": "https://jobs.ashbyhq.com/supabase/3ab0b926-c9b5-4197-aff2-88d5bf009e13"
+  },
+  "3b5d54ca-741b-45ac-bd3f-31605a0d3541": {
+   "closed_at": null,
+   "department": "Business Operations",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "ai platform engineer @ remote, global",
+   "location": "Remote, Global",
+   "posted_at": "2026-07-31T18:56:39+00:00",
+   "posted_history": [
+    "2026-07-31T18:56:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "AI Platform Engineer",
+   "url": "https://jobs.ashbyhq.com/supabase/3b5d54ca-741b-45ac-bd3f-31605a0d3541"
+  },
+  "47bcfdb8-b954-423e-8a9e-85256434575c": {
+   "closed_at": null,
+   "department": "Product",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "product lead infrastructure @ remote, global",
+   "location": "Remote, Global",
+   "posted_at": "2026-06-01T09:46:41+00:00",
+   "posted_history": [
+    "2026-06-01T09:46:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Lead - Infrastructure",
+   "url": "https://jobs.ashbyhq.com/supabase/47bcfdb8-b954-423e-8a9e-85256434575c"
+  },
+  "48950725-e0d9-4025-92d9-f75e1b60ce45": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "postgres deployment engineer @ remote, global",
+   "location": "Remote, Global",
+   "posted_at": "2026-10-06T18:12:33+00:00",
+   "posted_history": [
+    "2026-10-06T18:12:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Postgres Deployment Engineer",
+   "url": "https://jobs.ashbyhq.com/supabase/48950725-e0d9-4025-92d9-f75e1b60ce45"
+  },
+  "4eb14408-51e6-4c58-812a-3782d5c0b045": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "platform engineer compute capacity @ remote, global",
+   "location": "Remote, Global",
+   "posted_at": "2026-09-02T10:03:09+00:00",
+   "posted_history": [
+    "2026-09-02T10:03:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Platform Engineer - Compute Capacity",
+   "url": "https://jobs.ashbyhq.com/supabase/4eb14408-51e6-4c58-812a-3782d5c0b045"
+  },
+  "59083a14-b2b6-4dd8-8037-739aa1ad1e22": {
+   "closed_at": null,
+   "department": "Data + Growth",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "senior data analyst marketing @ remote, global",
+   "location": "Remote, Global",
+   "posted_at": "2026-08-04T19:08:19+00:00",
+   "posted_history": [
+    "2026-08-04T19:08:19+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Data Analyst - Marketing",
+   "url": "https://jobs.ashbyhq.com/supabase/59083a14-b2b6-4dd8-8037-739aa1ad1e22"
+  },
+  "590a0742-97f1-47f4-81a2-567efc939ae2": {
+   "closed_at": null,
+   "department": "Support",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "support engineer @ remote, global",
+   "location": "Remote, Global",
+   "posted_at": "2026-07-31T19:04:49+00:00",
+   "posted_history": [
+    "2026-07-31T19:04:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Support Engineer (EMEA - Weekends)",
+   "url": "https://jobs.ashbyhq.com/supabase/590a0742-97f1-47f4-81a2-567efc939ae2"
+  },
+  "5d09daeb-2d7e-42de-9151-81a1341195c4": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "cloud platform engineer @ remote, global",
+   "location": "Remote, Global",
+   "posted_at": "2026-10-09T08:36:35+00:00",
+   "posted_history": [
+    "2026-10-09T08:36:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Cloud Platform Engineer",
+   "url": "https://jobs.ashbyhq.com/supabase/5d09daeb-2d7e-42de-9151-81a1341195c4"
+  },
+  "621516b5-4d8f-4ee9-8287-2da12e63d023": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "orioledb developer @ remote, amer",
+   "location": "Remote, AMER",
+   "posted_at": "2026-05-19T14:43:21+00:00",
+   "posted_history": [
+    "2026-05-19T14:43:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "OrioleDB Developer (AMER)",
+   "url": "https://jobs.ashbyhq.com/supabase/621516b5-4d8f-4ee9-8287-2da12e63d023"
+  },
+  "62945518-2468-4cf5-9f36-904b60f75183": {
+   "closed_at": null,
+   "department": "Support",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "database support engineer @ remote, apac",
+   "location": "Remote, APAC",
+   "posted_at": "2025-12-17T21:46:32+00:00",
+   "posted_history": [
+    "2025-12-17T21:46:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Database Support Engineer (APAC)",
+   "url": "https://jobs.ashbyhq.com/supabase/62945518-2468-4cf5-9f36-904b60f75183"
+  },
+  "66bab062-b769-43cf-ac3c-a2630257624c": {
+   "closed_at": null,
+   "department": "Success",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "customer solution architect team lead @ remote, amer",
+   "location": "Remote, AMER",
+   "posted_at": "2026-05-29T19:56:24+00:00",
+   "posted_history": [
+    "2026-05-29T19:56:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Solution Architect, Team Lead",
+   "url": "https://jobs.ashbyhq.com/supabase/66bab062-b769-43cf-ac3c-a2630257624c"
+  },
+  "68a397e7-8a1a-4566-ae41-e8c61dd6ed93": {
+   "closed_at": null,
+   "department": "Product",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "product manager strategic partner integrations @ remote, bay area, ca",
+   "location": "Remote, Bay Area, CA",
+   "posted_at": "2026-08-21T11:40:44+00:00",
+   "posted_history": [
+    "2026-08-21T11:40:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Manager - Strategic Partner Integrations (Bay Area based)",
+   "url": "https://jobs.ashbyhq.com/supabase/68a397e7-8a1a-4566-ae41-e8c61dd6ed93"
+  },
+  "6b314e83-6617-49fc-8c73-021ebae9a757": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "platform engineer compute @ remote, global",
+   "location": "Remote, Global",
+   "posted_at": "2026-10-13T16:12:05+00:00",
+   "posted_history": [
+    "2026-10-13T16:12:05+00:00"
+   ],
+   "reopened": 0,
+   "title": "Platform Engineer - Compute",
+   "url": "https://jobs.ashbyhq.com/supabase/6b314e83-6617-49fc-8c73-021ebae9a757"
+  },
+  "6c9de03c-e289-4612-9045-492985d0274b": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "platform engineer edge networking @ remote, global",
+   "location": "Remote, Global",
+   "posted_at": "2026-09-14T13:27:23+00:00",
+   "posted_history": [
+    "2026-09-14T13:27:23+00:00"
+   ],
+   "reopened": 0,
+   "title": "Platform Engineer, Edge & Networking",
+   "url": "https://jobs.ashbyhq.com/supabase/6c9de03c-e289-4612-9045-492985d0274b"
+  },
+  "73ddf93b-fe0c-455d-ba27-cdde0d3fb94f": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "finops data engineer @ remote, global",
+   "location": "Remote, Global",
+   "posted_at": "2026-10-14T16:54:28+00:00",
+   "posted_history": [
+    "2026-10-14T16:54:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "FinOps Data Engineer",
+   "url": "https://jobs.ashbyhq.com/supabase/73ddf93b-fe0c-455d-ba27-cdde0d3fb94f"
+  },
+  "8e4ddc16-6308-432a-acea-55709c15ddc7": {
+   "closed_at": null,
+   "department": "Partnerships",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "aws partner marketing manager @ remote, amer",
+   "location": "Remote, AMER",
+   "posted_at": "2026-09-22T15:00:43+00:00",
+   "posted_history": [
+    "2026-09-22T15:00:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "AWS Partner Marketing Manager",
+   "url": "https://jobs.ashbyhq.com/supabase/8e4ddc16-6308-432a-acea-55709c15ddc7"
+  },
+  "8fa1c7a0-a85c-4562-a1f5-4dd22cadae27": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "platform security engineer @ remote, global",
+   "location": "Remote, Global",
+   "posted_at": "2026-09-02T20:44:27+00:00",
+   "posted_history": [
+    "2026-09-02T20:44:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Platform Security Engineer (AMER/APAC)",
+   "url": "https://jobs.ashbyhq.com/supabase/8fa1c7a0-a85c-4562-a1f5-4dd22cadae27"
+  },
+  "9073c0cd-2545-473a-b2ac-63e4615c69b5": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "platform engineer managed postgres @ remote, global",
+   "location": "Remote, Global",
+   "posted_at": "2026-10-09T17:17:39+00:00",
+   "posted_history": [
+    "2026-10-09T17:17:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Platform Engineer, Managed Postgres",
+   "url": "https://jobs.ashbyhq.com/supabase/9073c0cd-2545-473a-b2ac-63e4615c69b5"
+  },
+  "98ae5c78-eab7-4879-b143-96b98e4d0dbb": {
+   "closed_at": null,
+   "department": "Marketing",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "developer relations engineer @ remote, new york, us",
+   "location": "Remote, New York, US",
+   "posted_at": "2026-08-21T00:23:04+00:00",
+   "posted_history": [
+    "2026-08-21T00:23:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "Developer Relations Engineer (New York, NY)",
+   "url": "https://jobs.ashbyhq.com/supabase/98ae5c78-eab7-4879-b143-96b98e4d0dbb"
+  },
+  "98ef6a11-9898-4960-9931-1264285849f3": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "performance engineer performance analysis tuning @ remote, global",
+   "location": "Remote, Global",
+   "posted_at": "2026-07-28T09:41:57+00:00",
+   "posted_history": [
+    "2026-07-28T09:41:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "Performance Engineer - Performance Analysis & Tuning",
+   "url": "https://jobs.ashbyhq.com/supabase/98ef6a11-9898-4960-9931-1264285849f3"
+  },
+  "99a80436-89ec-412b-b782-1dd462bd16dc": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "engineering manager @ remote, global",
+   "location": "Remote, Global",
+   "posted_at": "2026-06-22T10:24:32+00:00",
+   "posted_history": [
+    "2026-06-22T10:24:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager",
+   "url": "https://jobs.ashbyhq.com/supabase/99a80436-89ec-412b-b782-1dd462bd16dc"
+  },
+  "9a4c9984-07c7-4b47-982f-371de3f6ff50": {
+   "closed_at": null,
+   "department": "Product",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "product manager auth @ remote, global",
+   "location": "Remote, Global",
+   "posted_at": "2026-10-07T02:00:35+00:00",
+   "posted_history": [
+    "2026-10-07T02:00:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Manager - Auth",
+   "url": "https://jobs.ashbyhq.com/supabase/9a4c9984-07c7-4b47-982f-371de3f6ff50"
+  },
+  "9c04bc60-78a1-4529-950d-4704ab475764": {
+   "closed_at": null,
+   "department": "Business Operations",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "head of ai native operations @ remote, global",
+   "location": "Remote, Global",
+   "posted_at": "2026-10-05T14:46:04+00:00",
+   "posted_history": [
+    "2026-10-05T14:46:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "Head of AI Native Operations",
+   "url": "https://jobs.ashbyhq.com/supabase/9c04bc60-78a1-4529-950d-4704ab475764"
+  },
+  "a069c886-1107-408e-88b4-e1aa8d33d4bc": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "account executive @ remote, emea",
+   "location": "Remote, EMEA",
+   "posted_at": "2026-08-26T19:59:56+00:00",
+   "posted_history": [
+    "2026-08-26T19:59:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive (EMEA)",
+   "url": "https://jobs.ashbyhq.com/supabase/a069c886-1107-408e-88b4-e1aa8d33d4bc"
+  },
+  "a1320bbf-bfae-49a8-a1b7-12eeccaf39ca": {
+   "closed_at": null,
+   "department": "Marketing",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "developer relations engineer @ remote, san francisco, ca",
+   "location": "Remote, San Francisco, CA",
+   "posted_at": "2026-08-21T03:26:51+00:00",
+   "posted_history": [
+    "2026-08-21T03:26:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Developer Relations Engineer",
+   "url": "https://jobs.ashbyhq.com/supabase/a1320bbf-bfae-49a8-a1b7-12eeccaf39ca"
+  },
+  "ab8d1463-bc97-417f-97b1-bfc1fe619b3e": {
+   "closed_at": null,
+   "department": "Support",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "database support engineer @ remote, apac",
+   "location": "Remote, APAC",
+   "posted_at": "2026-09-23T13:58:42+00:00",
+   "posted_history": [
+    "2026-09-23T13:58:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Database Support Engineer (Japanese Speaking)",
+   "url": "https://jobs.ashbyhq.com/supabase/ab8d1463-bc97-417f-97b1-bfc1fe619b3e"
+  },
+  "b4a2f5e5-5c51-4c1a-abde-a89de27451c7": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "engineering manager billing @ remote, global",
+   "location": "Remote, Global",
+   "posted_at": "2026-09-12T08:44:14+00:00",
+   "posted_history": [
+    "2026-09-12T08:44:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager, Billing",
+   "url": "https://jobs.ashbyhq.com/supabase/b4a2f5e5-5c51-4c1a-abde-a89de27451c7"
+  },
+  "b566fbf8-2894-4314-9533-8fa920e80c19": {
+   "closed_at": null,
+   "department": "Operations",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "executive assistant to the ceo @ remote, apac",
+   "location": "Remote, APAC",
+   "posted_at": "2026-10-06T14:33:50+00:00",
+   "posted_history": [
+    "2026-10-06T14:33:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Executive Assistant to the CEO",
+   "url": "https://jobs.ashbyhq.com/supabase/b566fbf8-2894-4314-9533-8fa920e80c19"
+  },
+  "b65287c7-2071-4bc6-8717-58c090e2a372": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "sdk engineer python @ remote, global",
+   "location": "Remote, Global",
+   "posted_at": "2026-10-16T15:41:37+00:00",
+   "posted_history": [
+    "2026-10-16T15:41:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "SDK Engineer - Python",
+   "url": "https://jobs.ashbyhq.com/supabase/b65287c7-2071-4bc6-8717-58c090e2a372"
+  },
+  "b75ba81e-54cc-4393-a575-bc41776b0113": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "supalite engineer @ remote, global",
+   "location": "Remote, Global",
+   "posted_at": "2026-07-17T10:25:35+00:00",
+   "posted_history": [
+    "2026-07-17T10:25:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Supalite Engineer",
+   "url": "https://jobs.ashbyhq.com/supabase/b75ba81e-54cc-4393-a575-bc41776b0113"
+  },
+  "bd5ce178-84c9-469e-89f4-493c21b50622": {
+   "closed_at": null,
+   "department": "Product",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "product manager realtime @ remote, global",
+   "location": "Remote, Global",
+   "posted_at": "2026-10-07T23:28:05+00:00",
+   "posted_history": [
+    "2026-10-07T23:28:05+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Manager - Realtime",
+   "url": "https://jobs.ashbyhq.com/supabase/bd5ce178-84c9-469e-89f4-493c21b50622"
+  },
+  "c01f7436-1fdd-4a3e-8b96-8cadc33b006e": {
+   "closed_at": null,
+   "department": "Support",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "support engineer @ remote, emea",
+   "location": "Remote, EMEA",
+   "posted_at": "2025-05-30T20:36:32+00:00",
+   "posted_history": [
+    "2025-05-30T20:36:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Support Engineer (EMEA)",
+   "url": "https://jobs.ashbyhq.com/supabase/c01f7436-1fdd-4a3e-8b96-8cadc33b006e"
+  },
+  "c16bd707-29f2-46fb-8409-7270ff00978b": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "postgres engineer @ remote, amer",
+   "location": "Remote, AMER",
+   "posted_at": "2026-02-27T13:33:39+00:00",
+   "posted_history": [
+    "2026-02-27T13:33:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Postgres Engineer (AMER)",
+   "url": "https://jobs.ashbyhq.com/supabase/c16bd707-29f2-46fb-8409-7270ff00978b"
+  },
+  "c9f78e74-fb9d-4cd0-af0b-b1cec4632331": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "orioledb deployment engineer @ remote, amer",
+   "location": "Remote, AMER",
+   "posted_at": "2026-09-23T19:21:08+00:00",
+   "posted_history": [
+    "2026-09-23T19:21:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "OrioleDB Deployment Engineer (AMER)",
+   "url": "https://jobs.ashbyhq.com/supabase/c9f78e74-fb9d-4cd0-af0b-b1cec4632331"
+  },
+  "cb04ae3a-3a47-4e21-928f-c2456b7b214e": {
+   "closed_at": null,
+   "department": "Partnerships",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "member of technical staff partners @ remote, global",
+   "location": "Remote, Global",
+   "posted_at": "2026-07-14T21:22:38+00:00",
+   "posted_history": [
+    "2026-07-14T21:22:38+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff/ Partners",
+   "url": "https://jobs.ashbyhq.com/supabase/cb04ae3a-3a47-4e21-928f-c2456b7b214e"
+  },
+  "d5573afa-636c-4219-832f-386f498243bf": {
+   "closed_at": null,
+   "department": "Success",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "customer solution architect @ remote, amer",
+   "location": "Remote, AMER",
+   "posted_at": "2024-11-14T17:58:07+00:00",
+   "posted_history": [
+    "2024-11-14T17:58:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Solution Architect (AMER)",
+   "url": "https://jobs.ashbyhq.com/supabase/d5573afa-636c-4219-832f-386f498243bf"
+  },
+  "dcf09dfe-55bc-44ba-b5db-1a2de7f33216": {
+   "closed_at": null,
+   "department": "Support",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "support engineer @ remote, amer",
+   "location": "Remote, AMER",
+   "posted_at": "2026-07-31T22:08:18+00:00",
+   "posted_history": [
+    "2026-07-31T22:08:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Support Engineer (AMER - Weekends)",
+   "url": "https://jobs.ashbyhq.com/supabase/dcf09dfe-55bc-44ba-b5db-1a2de7f33216"
+  },
+  "e4e3ccb7-7b7d-42a2-be0f-26cbb5ae4abd": {
+   "closed_at": null,
+   "department": "Support",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "support engineer @ remote, amer",
+   "location": "Remote, AMER",
+   "posted_at": "2025-01-15T16:41:31+00:00",
+   "posted_history": [
+    "2025-01-15T16:41:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Support Engineer (AMER)",
+   "url": "https://jobs.ashbyhq.com/supabase/e4e3ccb7-7b7d-42a2-be0f-26cbb5ae4abd"
+  },
+  "e569b7f7-fa8f-4139-86f6-4f52b456882d": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "software engineer auth @ remote, global",
+   "location": "Remote, Global",
+   "posted_at": "2026-04-08T14:16:04+00:00",
+   "posted_history": [
+    "2026-04-08T14:16:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer - Auth",
+   "url": "https://jobs.ashbyhq.com/supabase/e569b7f7-fa8f-4139-86f6-4f52b456882d"
+  },
+  "ed6cedb1-b9bf-4609-ac5c-c75c33b31bf3": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "site reliability engineer @ remote, global",
+   "location": "Remote, Global",
+   "posted_at": "2026-10-15T09:15:10+00:00",
+   "posted_history": [
+    "2026-10-15T09:15:10+00:00"
+   ],
+   "reopened": 0,
+   "title": "Site Reliability Engineer",
+   "url": "https://jobs.ashbyhq.com/supabase/ed6cedb1-b9bf-4609-ac5c-c75c33b31bf3"
+  },
+  "f035bda1-b5d3-4c5b-8736-b9c335fe1c3b": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "multigres deployment engineer @ remote, global",
+   "location": "Remote, Global",
+   "posted_at": "2026-04-15T20:52:02+00:00",
+   "posted_history": [
+    "2026-04-15T20:52:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Multigres Deployment Engineer",
+   "url": "https://jobs.ashbyhq.com/supabase/f035bda1-b5d3-4c5b-8736-b9c335fe1c3b"
+  },
+  "f18b1173-51c3-4ff6-bcda-89f8111931f4": {
+   "closed_at": null,
+   "department": "Support",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "database support engineer @ remote, amer",
+   "location": "Remote, AMER",
+   "posted_at": "2025-12-17T21:42:14+00:00",
+   "posted_history": [
+    "2025-12-17T21:42:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Database Support Engineer (AMER)",
+   "url": "https://jobs.ashbyhq.com/supabase/f18b1173-51c3-4ff6-bcda-89f8111931f4"
+  },
+  "f52fd120-5fbe-4e0d-949d-01e217ec77d6": {
+   "closed_at": null,
+   "department": "Success",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "technical account management leader @ remote, global",
+   "location": "Remote, Global",
+   "posted_at": "2026-08-24T22:01:46+00:00",
+   "posted_history": [
+    "2026-08-24T22:01:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Account Management (TAM) Leader",
+   "url": "https://jobs.ashbyhq.com/supabase/f52fd120-5fbe-4e0d-949d-01e217ec77d6"
+  },
+  "f6035bf8-4f44-4425-9944-d5509a3c8652": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "release engineer @ remote, global",
+   "location": "Remote, Global",
+   "posted_at": "2026-07-27T11:06:59+00:00",
+   "posted_history": [
+    "2026-07-27T11:06:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Release Engineer",
+   "url": "https://jobs.ashbyhq.com/supabase/f6035bf8-4f44-4425-9944-d5509a3c8652"
+  },
+  "fab1525f-3d89-4d1c-9094-84d21647415e": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "finops engineer @ remote, global",
+   "location": "Remote, Global",
+   "posted_at": "2026-09-16T18:40:09+00:00",
+   "posted_history": [
+    "2026-09-16T18:40:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "FinOps Engineer",
+   "url": "https://jobs.ashbyhq.com/supabase/fab1525f-3d89-4d1c-9094-84d21647415e"
+  }
+ }
+}

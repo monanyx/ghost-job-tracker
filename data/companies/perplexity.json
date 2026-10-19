@@ -1,0 +1,2020 @@
+{
+ "history": [
+  {
+   "date": "2026-10-19",
+   "open": 134
+  }
+ ],
+ "jobs": {
+  "0190699f-010b-44f2-8399-278899fef018": {
+   "closed_at": null,
+   "department": "Search",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "member of technical staff @ belgrade",
+   "location": "Belgrade",
+   "posted_at": "2025-03-25T21:18:29+00:00",
+   "posted_history": [
+    "2025-03-25T21:18:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff (Machine Learning Engineer, Search)",
+   "url": "https://jobs.ashbyhq.com/perplexity/0190699f-010b-44f2-8399-278899fef018"
+  },
+  "03f8f956-1cb3-4945-81d1-73b7ff048d4e": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "revenue operations analyst @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-08-06T21:32:22+00:00",
+   "posted_history": [
+    "2026-08-06T21:32:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Revenue Operations Analyst",
+   "url": "https://jobs.ashbyhq.com/perplexity/03f8f956-1cb3-4945-81d1-73b7ff048d4e"
+  },
+  "043d6a58-87a1-4e3c-bf47-4dc351b94cf4": {
+   "closed_at": null,
+   "department": "AI Products",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "member of technical staff @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-04-23T21:08:09+00:00",
+   "posted_history": [
+    "2026-04-23T21:08:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff (Software Engineer, Monetization)",
+   "url": "https://jobs.ashbyhq.com/perplexity/043d6a58-87a1-4e3c-bf47-4dc351b94cf4"
+  },
+  "04d73be4-8a69-4e62-9b0d-e9b7968cf860": {
+   "closed_at": null,
+   "department": "Design",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "brand designer growth @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-09-02T16:38:15+00:00",
+   "posted_history": [
+    "2026-09-02T16:38:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Brand Designer, Growth",
+   "url": "https://jobs.ashbyhq.com/perplexity/04d73be4-8a69-4e62-9b0d-e9b7968cf860"
+  },
+  "08f1a218-bdff-4cdd-aefe-0d55529b1ece": {
+   "closed_at": null,
+   "department": "Marketing & Communications",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "associate product marketing manager @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-07-15T00:02:44+00:00",
+   "posted_history": [
+    "2026-07-15T00:02:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Associate Product Marketing Manager",
+   "url": "https://jobs.ashbyhq.com/perplexity/08f1a218-bdff-4cdd-aefe-0d55529b1ece"
+  },
+  "09a2f0e5-c38c-49ee-a5af-9a179e137a44": {
+   "closed_at": null,
+   "department": "Legal",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "commercial counsel senior counsel @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-09-14T21:53:21+00:00",
+   "posted_history": [
+    "2026-09-14T21:53:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Commercial Counsel/Senior Counsel",
+   "url": "https://jobs.ashbyhq.com/perplexity/09a2f0e5-c38c-49ee-a5af-9a179e137a44"
+  },
+  "0c5d5a82-bfed-4786-b411-79073979af07": {
+   "closed_at": null,
+   "department": "AI Research & Systems",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "member of technical staff @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-09-02T16:08:50+00:00",
+   "posted_history": [
+    "2026-09-02T16:08:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff (TPM, Inference)",
+   "url": "https://jobs.ashbyhq.com/perplexity/0c5d5a82-bfed-4786-b411-79073979af07"
+  },
+  "0d722589-0f8c-4500-ae79-d3bba5c8a0ea": {
+   "closed_at": null,
+   "department": "Platform & Infrastructure",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "member of technical staff @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-06-03T15:09:25+00:00",
+   "posted_history": [
+    "2026-06-03T15:09:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff (Software Engineer, Cloud Infrastructure)",
+   "url": "https://jobs.ashbyhq.com/perplexity/0d722589-0f8c-4500-ae79-d3bba5c8a0ea"
+  },
+  "1523826c-80ca-4e32-95f2-ddd6604afd26": {
+   "closed_at": null,
+   "department": "People",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "sr technical sourcer @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-06-19T17:46:22+00:00",
+   "posted_history": [
+    "2026-06-19T17:46:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Technical Sourcer",
+   "url": "https://jobs.ashbyhq.com/perplexity/1523826c-80ca-4e32-95f2-ddd6604afd26"
+  },
+  "182ab2ec-6fb1-409b-a2dc-63c7832b0a13": {
+   "closed_at": null,
+   "department": "Product Management",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "product manager smb growth @ new york city",
+   "location": "New York City",
+   "posted_at": "2026-09-02T16:40:40+00:00",
+   "posted_history": [
+    "2026-09-02T16:40:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Manager, SMB Growth",
+   "url": "https://jobs.ashbyhq.com/perplexity/182ab2ec-6fb1-409b-a2dc-63c7832b0a13"
+  },
+  "18509f15-ab49-450d-8a01-4b280e464ad0": {
+   "closed_at": null,
+   "department": "IT",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "senior corporate it engineer @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-04-02T22:55:16+00:00",
+   "posted_history": [
+    "2026-04-02T22:55:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Corporate IT Engineer",
+   "url": "https://jobs.ashbyhq.com/perplexity/18509f15-ab49-450d-8a01-4b280e464ad0"
+  },
+  "19d8bcfd-e493-4b3a-b8fd-11a2a6502da2": {
+   "closed_at": null,
+   "department": "Search",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "member of technical staff @ belgrade",
+   "location": "Belgrade",
+   "posted_at": "2026-08-12T11:36:20+00:00",
+   "posted_history": [
+    "2026-08-12T11:36:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff (Machine Learning Engineer, Ranking Quality - Search)",
+   "url": "https://jobs.ashbyhq.com/perplexity/19d8bcfd-e493-4b3a-b8fd-11a2a6502da2"
+  },
+  "1a3df802-9238-4827-ab1f-12a9d1e4b81c": {
+   "closed_at": null,
+   "department": "Search",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "member of technical staff @ berlin",
+   "location": "Berlin",
+   "posted_at": "2026-09-23T10:22:32+00:00",
+   "posted_history": [
+    "2026-09-23T10:22:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff (Machine Learning Research Engineer)",
+   "url": "https://jobs.ashbyhq.com/perplexity/1a3df802-9238-4827-ab1f-12a9d1e4b81c"
+  },
+  "229b066a-afb2-4eca-86ac-e20f38d11a19": {
+   "closed_at": null,
+   "department": "Customer Success & Support",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "enterprise customer support specialist @ belgrade",
+   "location": "Belgrade",
+   "posted_at": "2026-09-21T18:15:29+00:00",
+   "posted_history": [
+    "2026-09-21T18:15:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Customer Support Specialist",
+   "url": "https://jobs.ashbyhq.com/perplexity/229b066a-afb2-4eca-86ac-e20f38d11a19"
+  },
+  "25fb9e90-e164-4a50-b35f-535572f35a30": {
+   "closed_at": null,
+   "department": "Legal",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "principal counsel corporate @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-08-17T19:22:50+00:00",
+   "posted_history": [
+    "2026-08-17T19:22:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Counsel, Corporate",
+   "url": "https://jobs.ashbyhq.com/perplexity/25fb9e90-e164-4a50-b35f-535572f35a30"
+  },
+  "27aa1a14-bc59-4613-a65a-38598695076f": {
+   "closed_at": null,
+   "department": "Search",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "member of technical staff @ belgrade",
+   "location": "Belgrade",
+   "posted_at": "2025-03-31T11:10:43+00:00",
+   "posted_history": [
+    "2025-03-31T11:10:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff (Search Engine Developer, Search Core)",
+   "url": "https://jobs.ashbyhq.com/perplexity/27aa1a14-bc59-4613-a65a-38598695076f"
+  },
+  "29625b7a-5470-463b-8446-21fac84e80b9": {
+   "closed_at": null,
+   "department": "API Platform",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "engineering manager @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-09-15T02:58:25+00:00",
+   "posted_history": [
+    "2026-09-15T02:58:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager (API Platform)",
+   "url": "https://jobs.ashbyhq.com/perplexity/29625b7a-5470-463b-8446-21fac84e80b9"
+  },
+  "2be717cb-ad3e-4052-a464-79b107a70406": {
+   "closed_at": null,
+   "department": "Marketing & Communications",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "demand generation lead @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-03-17T20:09:18+00:00",
+   "posted_history": [
+    "2026-03-17T20:09:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Demand Generation Lead",
+   "url": "https://jobs.ashbyhq.com/perplexity/2be717cb-ad3e-4052-a464-79b107a70406"
+  },
+  "2c5fdd71-472a-4c62-bc53-deafb66e7941": {
+   "closed_at": null,
+   "department": "Platform & Infrastructure",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "member of technical staff @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-07-09T23:24:48+00:00",
+   "posted_history": [
+    "2026-07-09T23:24:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff (Software Engineer, Enterprise AI Products)",
+   "url": "https://jobs.ashbyhq.com/perplexity/2c5fdd71-472a-4c62-bc53-deafb66e7941"
+  },
+  "2c6ae16b-d03e-4e33-9d32-362c5388e956": {
+   "closed_at": null,
+   "department": "AI Research & Systems",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "member of technical staff @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-07-30T18:12:04+00:00",
+   "posted_history": [
+    "2026-07-30T18:12:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff (Model Behavior)",
+   "url": "https://jobs.ashbyhq.com/perplexity/2c6ae16b-d03e-4e33-9d32-362c5388e956"
+  },
+  "2df92d4a-48eb-422f-af9c-4a963fd6135c": {
+   "closed_at": null,
+   "department": "Marketing & Communications",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "executive communications manager @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-01-15T00:44:30+00:00",
+   "posted_history": [
+    "2026-01-15T00:44:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Executive Communications Manager",
+   "url": "https://jobs.ashbyhq.com/perplexity/2df92d4a-48eb-422f-af9c-4a963fd6135c"
+  },
+  "2e73bc78-684c-47c5-95df-e9973a10e0b6": {
+   "closed_at": null,
+   "department": "Platform & Infrastructure",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "member of technical staff @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-06-03T15:09:34+00:00",
+   "posted_history": [
+    "2026-06-03T15:09:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff (Software Engineer, Data Platform)",
+   "url": "https://jobs.ashbyhq.com/perplexity/2e73bc78-684c-47c5-95df-e9973a10e0b6"
+  },
+  "3077e11d-8008-4980-a901-84d8b7993bc9": {
+   "closed_at": null,
+   "department": "Workplace",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "sr workplace coordinator @ new york city",
+   "location": "New York City",
+   "posted_at": "2026-09-22T19:41:57+00:00",
+   "posted_history": [
+    "2026-09-22T19:41:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Workplace Coordinator",
+   "url": "https://jobs.ashbyhq.com/perplexity/3077e11d-8008-4980-a901-84d8b7993bc9"
+  },
+  "3163a2c9-f9d3-4596-bf88-0c55298bd027": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "enablement specialist perplexity computer @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-09-08T19:57:32+00:00",
+   "posted_history": [
+    "2026-09-08T19:57:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enablement Specialist, Perplexity Computer",
+   "url": "https://jobs.ashbyhq.com/perplexity/3163a2c9-f9d3-4596-bf88-0c55298bd027"
+  },
+  "31dfcb60-a0df-4983-b3a4-d653cdc0aa8f": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "ai strategist financial services @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-07-23T23:01:27+00:00",
+   "posted_history": [
+    "2026-07-23T23:01:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "AI Strategist, Financial Services",
+   "url": "https://jobs.ashbyhq.com/perplexity/31dfcb60-a0df-4983-b3a4-d653cdc0aa8f"
+  },
+  "32a36cae-ad73-4198-9354-a72b141ff055": {
+   "closed_at": null,
+   "department": "AI Research & Systems",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "member of technical staff @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-08-27T19:43:31+00:00",
+   "posted_history": [
+    "2026-08-27T19:43:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff (Secure Intelligence Institute)",
+   "url": "https://jobs.ashbyhq.com/perplexity/32a36cae-ad73-4198-9354-a72b141ff055"
+  },
+  "375f9fc9-392e-4d0b-9a10-4b2013e05ad4": {
+   "closed_at": null,
+   "department": "Mobile",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "member of technical staff @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-10-16T19:10:26+00:00",
+   "posted_history": [
+    "2026-10-16T19:10:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff (Android Engineer, Computer Growth)",
+   "url": "https://jobs.ashbyhq.com/perplexity/375f9fc9-392e-4d0b-9a10-4b2013e05ad4"
+  },
+  "38caef61-f8b9-4ba9-a640-870a1e77ba54": {
+   "closed_at": null,
+   "department": "Design",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "senior cinematographer brand studio @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-09-11T18:54:31+00:00",
+   "posted_history": [
+    "2026-09-11T18:54:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Cinematographer, Brand Studio",
+   "url": "https://jobs.ashbyhq.com/perplexity/38caef61-f8b9-4ba9-a640-870a1e77ba54"
+  },
+  "39250c5d-1670-4a63-8a66-bfd495c85e6f": {
+   "closed_at": null,
+   "department": "Finance",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "strategic finance lead compute @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-09-01T19:06:08+00:00",
+   "posted_history": [
+    "2026-09-01T19:06:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Finance Lead - Compute",
+   "url": "https://jobs.ashbyhq.com/perplexity/39250c5d-1670-4a63-8a66-bfd495c85e6f"
+  },
+  "39d520eb-6b81-4b61-8b23-5efcdac4cad9": {
+   "closed_at": null,
+   "department": "Design",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "motion designer @ new york city",
+   "location": "New York City",
+   "posted_at": "2026-09-02T16:39:29+00:00",
+   "posted_history": [
+    "2026-09-02T16:39:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Motion Designer",
+   "url": "https://jobs.ashbyhq.com/perplexity/39d520eb-6b81-4b61-8b23-5efcdac4cad9"
+  },
+  "3b349a2f-360e-44e6-a57d-6a87bc3016a7": {
+   "closed_at": null,
+   "department": "Search",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "member of technical staff @ belgrade",
+   "location": "Belgrade",
+   "posted_at": "2026-09-02T10:31:55+00:00",
+   "posted_history": [
+    "2026-09-02T10:31:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff (Search Quality Analyst)",
+   "url": "https://jobs.ashbyhq.com/perplexity/3b349a2f-360e-44e6-a57d-6a87bc3016a7"
+  },
+  "3b6ad2b6-4310-48f1-a71f-dc344c94f2b0": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "sales leader sales development enterprise @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-09-18T20:51:13+00:00",
+   "posted_history": [
+    "2026-09-18T20:51:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales Leader, Sales Development, Enterprise",
+   "url": "https://jobs.ashbyhq.com/perplexity/3b6ad2b6-4310-48f1-a71f-dc344c94f2b0"
+  },
+  "3c656963-876a-458d-bca6-916a42a24c1a": {
+   "closed_at": null,
+   "department": "AI Research & Systems",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "member of technical staff @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2025-09-19T17:05:52+00:00",
+   "posted_history": [
+    "2025-09-19T17:05:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff (Software Engineer, Applied AI)",
+   "url": "https://jobs.ashbyhq.com/perplexity/3c656963-876a-458d-bca6-916a42a24c1a"
+  },
+  "3c9c051f-e6ca-4a70-9abf-1f640e154ee1": {
+   "closed_at": null,
+   "department": "Product Management",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "product manager mobile apps @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-09-02T16:40:38+00:00",
+   "posted_history": [
+    "2026-09-02T16:40:38+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Manager, Mobile Apps",
+   "url": "https://jobs.ashbyhq.com/perplexity/3c9c051f-e6ca-4a70-9abf-1f640e154ee1"
+  },
+  "3d7ef710-b1f6-4a80-af57-946f9bccd35b": {
+   "closed_at": null,
+   "department": "People",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "technical sourcer ai @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-08-12T19:28:41+00:00",
+   "posted_history": [
+    "2026-08-12T19:28:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Sourcer, AI",
+   "url": "https://jobs.ashbyhq.com/perplexity/3d7ef710-b1f6-4a80-af57-946f9bccd35b"
+  },
+  "3f800e42-7c48-4f9a-9b12-43ee23e52516": {
+   "closed_at": null,
+   "department": "Platform & Infrastructure",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "member of technical staff @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-08-27T19:43:05+00:00",
+   "posted_history": [
+    "2026-08-27T19:43:05+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff (Software Engineer, API Platform)",
+   "url": "https://jobs.ashbyhq.com/perplexity/3f800e42-7c48-4f9a-9b12-43ee23e52516"
+  },
+  "441daa65-5fd9-499d-91ac-acecdc1952d2": {
+   "closed_at": null,
+   "department": "People",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "global mobility lead @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-09-24T21:19:14+00:00",
+   "posted_history": [
+    "2026-09-24T21:19:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Global Mobility Lead",
+   "url": "https://jobs.ashbyhq.com/perplexity/441daa65-5fd9-499d-91ac-acecdc1952d2"
+  },
+  "446ec593-aa8d-4ae4-a2c1-859b8373e1d5": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "enterprise sales manager @ new york city",
+   "location": "New York City",
+   "posted_at": "2026-10-08T20:48:00+00:00",
+   "posted_history": [
+    "2026-10-08T20:48:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Sales Manager",
+   "url": "https://jobs.ashbyhq.com/perplexity/446ec593-aa8d-4ae4-a2c1-859b8373e1d5"
+  },
+  "4b5e02a8-6a94-494d-9d49-037f2cfc144d": {
+   "closed_at": null,
+   "department": "AI Products",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "member of tehnical staff @ new york city",
+   "location": "New York City",
+   "posted_at": "2026-10-05T13:27:04+00:00",
+   "posted_history": [
+    "2026-10-05T13:27:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Tehnical Staff (Senior QA Web)",
+   "url": "https://jobs.ashbyhq.com/perplexity/4b5e02a8-6a94-494d-9d49-037f2cfc144d"
+  },
+  "4bab4560-68b4-44ec-8a5c-5a39216f2abb": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "commercial sales manager @ new york city",
+   "location": "New York City",
+   "posted_at": "2026-10-08T20:56:31+00:00",
+   "posted_history": [
+    "2026-10-08T20:56:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Commercial Sales Manager",
+   "url": "https://jobs.ashbyhq.com/perplexity/4bab4560-68b4-44ec-8a5c-5a39216f2abb"
+  },
+  "4c0ac8bb-55bf-4fb0-b7d7-36d69f55e6c8": {
+   "closed_at": null,
+   "department": "AI Products",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "member of technical staff @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-04-22T23:15:33+00:00",
+   "posted_history": [
+    "2026-04-22T23:15:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff (Software Engineer, Computer)",
+   "url": "https://jobs.ashbyhq.com/perplexity/4c0ac8bb-55bf-4fb0-b7d7-36d69f55e6c8"
+  },
+  "4d8f7e23-8c80-4bd8-ad27-3f40cf17197b": {
+   "closed_at": null,
+   "department": "Marketing & Communications",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "director of events and experiences @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-10-02T23:50:34+00:00",
+   "posted_history": [
+    "2026-10-02T23:50:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Director of Events and Experiences",
+   "url": "https://jobs.ashbyhq.com/perplexity/4d8f7e23-8c80-4bd8-ad27-3f40cf17197b"
+  },
+  "4fba58de-a168-4948-9d82-a7d4b38f45f2": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "applied ai architect perplexity computer @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-08-26T22:54:38+00:00",
+   "posted_history": [
+    "2026-08-26T22:54:38+00:00"
+   ],
+   "reopened": 0,
+   "title": "Applied AI Architect, Perplexity Computer",
+   "url": "https://jobs.ashbyhq.com/perplexity/4fba58de-a168-4948-9d82-a7d4b38f45f2"
+  },
+  "5080dab5-7eb7-4cb2-9e2c-c61531fd3ad1": {
+   "closed_at": null,
+   "department": "Finance",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "payroll analyst @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-09-21T22:29:03+00:00",
+   "posted_history": [
+    "2026-09-21T22:29:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Payroll Analyst",
+   "url": "https://jobs.ashbyhq.com/perplexity/5080dab5-7eb7-4cb2-9e2c-c61531fd3ad1"
+  },
+  "5551fd7b-9ede-460e-9b38-4328c476a521": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "account executive api @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-08-10T21:48:58+00:00",
+   "posted_history": [
+    "2026-08-10T21:48:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, API",
+   "url": "https://jobs.ashbyhq.com/perplexity/5551fd7b-9ede-460e-9b38-4328c476a521"
+  },
+  "5930b6bf-b4b1-4134-a183-832d69dd085f": {
+   "closed_at": null,
+   "department": "Legal",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "counsel product @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-09-01T00:38:30+00:00",
+   "posted_history": [
+    "2026-09-01T00:38:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Counsel, Product",
+   "url": "https://jobs.ashbyhq.com/perplexity/5930b6bf-b4b1-4134-a183-832d69dd085f"
+  },
+  "598e1f7d-b802-4de2-99ac-90eb2bc33315": {
+   "closed_at": null,
+   "department": "AI Research & Systems",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "member of technical staff @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-04-13T19:40:16+00:00",
+   "posted_history": [
+    "2026-04-13T19:40:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff (AI Infrastructure Engineer)",
+   "url": "https://jobs.ashbyhq.com/perplexity/598e1f7d-b802-4de2-99ac-90eb2bc33315"
+  },
+  "5a4cec8b-5688-497c-a5ec-884f75d09511": {
+   "closed_at": null,
+   "department": "University Recruiting",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "member of technical staff @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-09-29T04:20:59+00:00",
+   "posted_history": [
+    "2026-09-29T04:20:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff (New Grad)",
+   "url": "https://jobs.ashbyhq.com/perplexity/5a4cec8b-5688-497c-a5ec-884f75d09511"
+  },
+  "5c561bd0-c180-4ee1-b079-647f3c20bdc0": {
+   "closed_at": null,
+   "department": "AI Products",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "member of technical staff @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-09-10T18:49:57+00:00",
+   "posted_history": [
+    "2026-09-10T18:49:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff (Applied AI Engineer, Agent Capabilities)",
+   "url": "https://jobs.ashbyhq.com/perplexity/5c561bd0-c180-4ee1-b079-647f3c20bdc0"
+  },
+  "5ec96ca1-319a-4b85-99ce-e06629099cf9": {
+   "closed_at": null,
+   "department": "Marketing & Communications",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "product marketing manager @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-01-15T00:35:32+00:00",
+   "posted_history": [
+    "2026-01-15T00:35:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Marketing Manager",
+   "url": "https://jobs.ashbyhq.com/perplexity/5ec96ca1-319a-4b85-99ce-e06629099cf9"
+  },
+  "60deb376-51b5-46c6-9e17-55377a5ef34e": {
+   "closed_at": null,
+   "department": "AI Research & Systems",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "member of technical staff @ london",
+   "location": "London",
+   "posted_at": "2026-04-13T19:40:57+00:00",
+   "posted_history": [
+    "2026-04-13T19:40:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff (AI Infrastructure Engineer)",
+   "url": "https://jobs.ashbyhq.com/perplexity/60deb376-51b5-46c6-9e17-55377a5ef34e"
+  },
+  "63785f62-07ac-4dc5-8f68-57779dddb1f3": {
+   "closed_at": null,
+   "department": "Platform & Infrastructure",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "member of technical staff @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-10-16T22:34:13+00:00",
+   "posted_history": [
+    "2026-10-16T22:34:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff (Software Engineer, Enterprise Trust & Governance)",
+   "url": "https://jobs.ashbyhq.com/perplexity/63785f62-07ac-4dc5-8f68-57779dddb1f3"
+  },
+  "656b4b2e-5670-411c-9091-f355983a92a0": {
+   "closed_at": null,
+   "department": "AI Research & Systems",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "engineering manager @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-09-13T15:56:40+00:00",
+   "posted_history": [
+    "2026-09-13T15:56:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager (TLM, Agents)",
+   "url": "https://jobs.ashbyhq.com/perplexity/656b4b2e-5670-411c-9091-f355983a92a0"
+  },
+  "6754c9cc-89c2-4d7f-b966-66de6e8cac4b": {
+   "closed_at": null,
+   "department": "Customer Success & Support",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "technical customer success manager api @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-09-11T00:33:43+00:00",
+   "posted_history": [
+    "2026-09-11T00:33:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Customer Success Manager, API",
+   "url": "https://jobs.ashbyhq.com/perplexity/6754c9cc-89c2-4d7f-b966-66de6e8cac4b"
+  },
+  "69fd6a56-0050-44f7-9ed2-2c3a7320908d": {
+   "closed_at": null,
+   "department": "Security",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "member of technical staff @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-04-02T10:26:17+00:00",
+   "posted_history": [
+    "2026-04-02T10:26:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff (Offensive Security Engineer)",
+   "url": "https://jobs.ashbyhq.com/perplexity/69fd6a56-0050-44f7-9ed2-2c3a7320908d"
+  },
+  "6c9b3c71-85ba-47db-bce5-44fd9fa95d03": {
+   "closed_at": null,
+   "department": "Security",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "member of technical staff @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2025-12-02T23:43:40+00:00",
+   "posted_history": [
+    "2025-12-02T23:43:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff (Software Engineer, Security)",
+   "url": "https://jobs.ashbyhq.com/perplexity/6c9b3c71-85ba-47db-bce5-44fd9fa95d03"
+  },
+  "6e328b72-9f57-49e0-a1a8-4428abf8ff81": {
+   "closed_at": null,
+   "department": "AI Products",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "member of technical staff @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-08-27T19:44:12+00:00",
+   "posted_history": [
+    "2026-08-27T19:44:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff (Software Engineer, Multimodal)",
+   "url": "https://jobs.ashbyhq.com/perplexity/6e328b72-9f57-49e0-a1a8-4428abf8ff81"
+  },
+  "6eedd99c-ff6a-470b-a7cc-3303e1c0b7fc": {
+   "closed_at": null,
+   "department": "Enterprise Operations and Systems",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "sales systems engineer enterprise operations @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-05-19T00:17:09+00:00",
+   "posted_history": [
+    "2026-05-19T00:17:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales Systems Engineer, Enterprise Operations",
+   "url": "https://jobs.ashbyhq.com/perplexity/6eedd99c-ff6a-470b-a7cc-3303e1c0b7fc"
+  },
+  "6f3c5131-2efa-400c-8248-44203a4dbfbb": {
+   "closed_at": null,
+   "department": "Product Management",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "product manager core experience @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-09-02T16:40:29+00:00",
+   "posted_history": [
+    "2026-09-02T16:40:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Manager, Core Experience",
+   "url": "https://jobs.ashbyhq.com/perplexity/6f3c5131-2efa-400c-8248-44203a4dbfbb"
+  },
+  "702c7eb8-9908-407f-bcb5-647a227819d6": {
+   "closed_at": null,
+   "department": "Finance",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "billing operations lead @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-10-06T23:59:41+00:00",
+   "posted_history": [
+    "2026-10-06T23:59:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Billing Operations Lead",
+   "url": "https://jobs.ashbyhq.com/perplexity/702c7eb8-9908-407f-bcb5-647a227819d6"
+  },
+  "71168628-1998-47d3-87a9-be7bc56a430d": {
+   "closed_at": null,
+   "department": "Search",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "internship search machine learning engineer @ london",
+   "location": "London",
+   "posted_at": "2026-04-08T13:33:01+00:00",
+   "posted_history": [
+    "2026-04-08T13:33:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "Internship - Search Machine Learning Engineer",
+   "url": "https://jobs.ashbyhq.com/perplexity/71168628-1998-47d3-87a9-be7bc56a430d"
+  },
+  "71abd198-5a69-4837-aa59-df8eeb9e02eb": {
+   "closed_at": null,
+   "department": "Data Science",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "member of data staff @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-10-05T16:54:33+00:00",
+   "posted_history": [
+    "2026-10-05T16:54:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Data Staff (Analytics Engineer)",
+   "url": "https://jobs.ashbyhq.com/perplexity/71abd198-5a69-4837-aa59-df8eeb9e02eb"
+  },
+  "739411fa-6580-4c8b-9960-035d5fa3c00e": {
+   "closed_at": null,
+   "department": "Search",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "member of technical staff @ belgrade",
+   "location": "Belgrade",
+   "posted_at": "2026-09-25T12:00:43+00:00",
+   "posted_history": [
+    "2026-09-25T12:00:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff (Search Core DevOps Engineer)",
+   "url": "https://jobs.ashbyhq.com/perplexity/739411fa-6580-4c8b-9960-035d5fa3c00e"
+  },
+  "74a5eaeb-0a4b-412b-ac3a-ad73403b3fb7": {
+   "closed_at": null,
+   "department": "Design",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "lead product designer growth @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-09-02T16:37:40+00:00",
+   "posted_history": [
+    "2026-09-02T16:37:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Lead Product Designer, Growth",
+   "url": "https://jobs.ashbyhq.com/perplexity/74a5eaeb-0a4b-412b-ac3a-ad73403b3fb7"
+  },
+  "759fc651-210a-48d5-8a9c-7f7789e20ab1": {
+   "closed_at": null,
+   "department": "People",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "sr business recruiter communications marketing @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-09-14T21:47:37+00:00",
+   "posted_history": [
+    "2026-09-14T21:47:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Business Recruiter, Communications & Marketing",
+   "url": "https://jobs.ashbyhq.com/perplexity/759fc651-210a-48d5-8a9c-7f7789e20ab1"
+  },
+  "76c9b39f-aecc-4247-b5f5-ebcd02dff7c3": {
+   "closed_at": null,
+   "department": "Platform & Infrastructure",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "member of technical staff @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-09-05T09:23:02+00:00",
+   "posted_history": [
+    "2026-09-05T09:23:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff (General Software Engineer, Infrastructure)",
+   "url": "https://jobs.ashbyhq.com/perplexity/76c9b39f-aecc-4247-b5f5-ebcd02dff7c3"
+  },
+  "76e72775-69db-4aea-b03b-a87d5a589f58": {
+   "closed_at": null,
+   "department": "Marketing & Communications",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "virtual events manager @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-09-02T23:46:55+00:00",
+   "posted_history": [
+    "2026-09-02T23:46:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Virtual Events Manager",
+   "url": "https://jobs.ashbyhq.com/perplexity/76e72775-69db-4aea-b03b-a87d5a589f58"
+  },
+  "7755eb0a-0f51-4286-b75e-591e44c741bc": {
+   "closed_at": null,
+   "department": "AI Research & Systems",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "member of technical staff @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-04-13T19:44:45+00:00",
+   "posted_history": [
+    "2026-04-13T19:44:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff (Answer Quality & Evals)",
+   "url": "https://jobs.ashbyhq.com/perplexity/7755eb0a-0f51-4286-b75e-591e44c741bc"
+  },
+  "7795683f-6c5f-40cd-af2d-51294edddd4b": {
+   "closed_at": null,
+   "department": "Platform & Infrastructure",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "member of technical staff @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-06-03T15:09:42+00:00",
+   "posted_history": [
+    "2026-06-03T15:09:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff (Software Engineer, Backend Platform)",
+   "url": "https://jobs.ashbyhq.com/perplexity/7795683f-6c5f-40cd-af2d-51294edddd4b"
+  },
+  "78675022-c4a7-41d2-9259-7c59be4de93c": {
+   "closed_at": null,
+   "department": "AI Products",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "member of technical staff @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-08-11T23:23:02+00:00",
+   "posted_history": [
+    "2026-08-11T23:23:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff (Software Engineer, Design System)",
+   "url": "https://jobs.ashbyhq.com/perplexity/78675022-c4a7-41d2-9259-7c59be4de93c"
+  },
+  "7ae341c4-411e-468c-bc26-bbdd8e55d388": {
+   "closed_at": null,
+   "department": "Design",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "web designer @ new york city",
+   "location": "New York City",
+   "posted_at": "2026-06-03T00:33:38+00:00",
+   "posted_history": [
+    "2026-06-03T00:33:38+00:00"
+   ],
+   "reopened": 0,
+   "title": "Web Designer",
+   "url": "https://jobs.ashbyhq.com/perplexity/7ae341c4-411e-468c-bc26-bbdd8e55d388"
+  },
+  "7dedcdea-42be-4bb0-b603-791146ff73f0": {
+   "closed_at": null,
+   "department": "AI Research & Systems",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "member of technical staff @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-08-26T04:31:31+00:00",
+   "posted_history": [
+    "2026-08-26T04:31:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff (Software Engineer, Model Platform)",
+   "url": "https://jobs.ashbyhq.com/perplexity/7dedcdea-42be-4bb0-b603-791146ff73f0"
+  },
+  "7f880194-7276-4b46-8a50-58b48da8882e": {
+   "closed_at": null,
+   "department": "Product Management",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "product manager ai capabilities @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-09-02T16:40:37+00:00",
+   "posted_history": [
+    "2026-09-02T16:40:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Manager, AI Capabilities",
+   "url": "https://jobs.ashbyhq.com/perplexity/7f880194-7276-4b46-8a50-58b48da8882e"
+  },
+  "82ccb259-a9e7-4fb0-bf9a-04be588e015f": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "business development manager enterprise @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-07-21T23:15:15+00:00",
+   "posted_history": [
+    "2026-07-21T23:15:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Business Development Manager, Enterprise",
+   "url": "https://jobs.ashbyhq.com/perplexity/82ccb259-a9e7-4fb0-bf9a-04be588e015f"
+  },
+  "883bd78f-c9cd-4ae5-afbf-b21f16f06a6f": {
+   "closed_at": null,
+   "department": "Platform & Infrastructure",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "engineering manager @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-10-01T17:25:13+00:00",
+   "posted_history": [
+    "2026-10-01T17:25:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager (Enterprise)",
+   "url": "https://jobs.ashbyhq.com/perplexity/883bd78f-c9cd-4ae5-afbf-b21f16f06a6f"
+  },
+  "89750227-f7fe-4e9f-bcdd-eada353163fd": {
+   "closed_at": null,
+   "department": "Search",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "member of technical staff @ belgrade",
+   "location": "Belgrade",
+   "posted_at": "2026-09-18T11:50:13+00:00",
+   "posted_history": [
+    "2026-09-18T11:50:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff (Search Core, Indexing & Data Pipeline Stream)",
+   "url": "https://jobs.ashbyhq.com/perplexity/89750227-f7fe-4e9f-bcdd-eada353163fd"
+  },
+  "8a976851-9bef-4b07-8d36-567fa9540aef": {
+   "closed_at": null,
+   "department": "AI Research & Systems",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "member of technical staff @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-04-13T19:39:49+00:00",
+   "posted_history": [
+    "2026-04-13T19:39:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff (AI Inference Engineer)",
+   "url": "https://jobs.ashbyhq.com/perplexity/8a976851-9bef-4b07-8d36-567fa9540aef"
+  },
+  "8ede25ea-9212-4007-bb99-feae4d1a3014": {
+   "closed_at": null,
+   "department": "People",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "program manager talent acquisition @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-07-23T23:04:37+00:00",
+   "posted_history": [
+    "2026-07-23T23:04:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Program Manager, Talent Acquisition",
+   "url": "https://jobs.ashbyhq.com/perplexity/8ede25ea-9212-4007-bb99-feae4d1a3014"
+  },
+  "8f2873af-9149-4037-a36f-2dda73cee1a0": {
+   "closed_at": null,
+   "department": "Marketing & Communications",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "internal communications manager @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-07-01T20:14:56+00:00",
+   "posted_history": [
+    "2026-07-01T20:14:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Internal Communications Manager",
+   "url": "https://jobs.ashbyhq.com/perplexity/8f2873af-9149-4037-a36f-2dda73cee1a0"
+  },
+  "8fe61c73-0daf-4432-a47d-44714c1ef764": {
+   "closed_at": null,
+   "department": "AI Research & Systems",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "member of technical staff @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-08-25T20:42:41+00:00",
+   "posted_history": [
+    "2026-08-25T20:42:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff (AI Researcher)",
+   "url": "https://jobs.ashbyhq.com/perplexity/8fe61c73-0daf-4432-a47d-44714c1ef764"
+  },
+  "9246cf02-26fd-4ae8-90c5-639c6e85e9e2": {
+   "closed_at": null,
+   "department": "Search",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "internship search machine learning engineer @ belgrade",
+   "location": "Belgrade",
+   "posted_at": "2026-01-13T21:20:02+00:00",
+   "posted_history": [
+    "2026-01-13T21:20:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Internship - Search Machine Learning Engineer",
+   "url": "https://jobs.ashbyhq.com/perplexity/9246cf02-26fd-4ae8-90c5-639c6e85e9e2"
+  },
+  "94ccf41e-d3e1-41aa-9569-c3bcbffc4184": {
+   "closed_at": null,
+   "department": "Search",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "member of technical staff @ belgrade",
+   "location": "Belgrade",
+   "posted_at": "2025-07-28T10:31:21+00:00",
+   "posted_history": [
+    "2025-07-28T10:31:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff (Backend Software Engineer, Search Crawler)",
+   "url": "https://jobs.ashbyhq.com/perplexity/94ccf41e-d3e1-41aa-9569-c3bcbffc4184"
+  },
+  "971c4e14-6a13-4cd3-a473-015e29541a15": {
+   "closed_at": null,
+   "department": "Legal",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "legal and operations engineering lead @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-08-03T17:43:00+00:00",
+   "posted_history": [
+    "2026-08-03T17:43:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Legal and Operations Engineering Lead",
+   "url": "https://jobs.ashbyhq.com/perplexity/971c4e14-6a13-4cd3-a473-015e29541a15"
+  },
+  "9740bc68-7297-4d69-ae54-3be81ae3745a": {
+   "closed_at": null,
+   "department": "Marketing & Communications",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "social media manager @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-07-01T20:12:00+00:00",
+   "posted_history": [
+    "2026-07-01T20:12:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Social Media Manager",
+   "url": "https://jobs.ashbyhq.com/perplexity/9740bc68-7297-4d69-ae54-3be81ae3745a"
+  },
+  "977b626c-5546-42c6-95c8-4e2350ec41c9": {
+   "closed_at": null,
+   "department": "Governance, Risk & Compliance ",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "governance risk compliance analyst @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-07-08T16:08:06+00:00",
+   "posted_history": [
+    "2026-07-08T16:08:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "Governance, Risk & Compliance Analyst",
+   "url": "https://jobs.ashbyhq.com/perplexity/977b626c-5546-42c6-95c8-4e2350ec41c9"
+  },
+  "9a570310-305d-4f4e-9807-b8862b31194b": {
+   "closed_at": null,
+   "department": "Customer Success & Support",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "enterprise customer success manager @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2025-10-06T22:20:17+00:00",
+   "posted_history": [
+    "2025-10-06T22:20:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Customer Success Manager",
+   "url": "https://jobs.ashbyhq.com/perplexity/9a570310-305d-4f4e-9807-b8862b31194b"
+  },
+  "9ce0fef8-7ead-4c0d-a71e-433bdd5b4d82": {
+   "closed_at": null,
+   "department": "Design",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "lead product designer enterprise @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-09-02T16:37:43+00:00",
+   "posted_history": [
+    "2026-09-02T16:37:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Lead Product Designer, Enterprise",
+   "url": "https://jobs.ashbyhq.com/perplexity/9ce0fef8-7ead-4c0d-a71e-433bdd5b4d82"
+  },
+  "9cec9b33-06f2-4ba1-8c9e-20a598361ca2": {
+   "closed_at": null,
+   "department": "Search",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "member of technical staff @ belgrade",
+   "location": "Belgrade",
+   "posted_at": "2026-10-06T14:05:08+00:00",
+   "posted_history": [
+    "2026-10-06T14:05:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff (Machine Learning Engineer, Search Agent RL)",
+   "url": "https://jobs.ashbyhq.com/perplexity/9cec9b33-06f2-4ba1-8c9e-20a598361ca2"
+  },
+  "9e3a4516-b893-4579-9a6a-3720658e4b6d": {
+   "closed_at": null,
+   "department": "Marketing & Communications",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "solutions product marketing manager @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-08-11T23:52:58+00:00",
+   "posted_history": [
+    "2026-08-11T23:52:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Solutions Product Marketing Manager",
+   "url": "https://jobs.ashbyhq.com/perplexity/9e3a4516-b893-4579-9a6a-3720658e4b6d"
+  },
+  "a14c4626-ed07-4151-a923-3a710fb66de2": {
+   "closed_at": null,
+   "department": "Data Science",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "member of data staff @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-07-23T18:02:24+00:00",
+   "posted_history": [
+    "2026-07-23T18:02:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Data Staff (Data Acceleration)",
+   "url": "https://jobs.ashbyhq.com/perplexity/a14c4626-ed07-4151-a923-3a710fb66de2"
+  },
+  "a172ada5-1a6e-4646-8e0d-26747422af24": {
+   "closed_at": null,
+   "department": "AI Research & Systems",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "member of technical staff @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-09-13T15:51:57+00:00",
+   "posted_history": [
+    "2026-09-13T15:51:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff (AI Software Engineer, Agents)",
+   "url": "https://jobs.ashbyhq.com/perplexity/a172ada5-1a6e-4646-8e0d-26747422af24"
+  },
+  "a5b97109-222d-49e1-b2ac-e101487a5ddd": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "business development representative @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-01-22T00:32:30+00:00",
+   "posted_history": [
+    "2026-01-22T00:32:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Business Development Representative",
+   "url": "https://jobs.ashbyhq.com/perplexity/a5b97109-222d-49e1-b2ac-e101487a5ddd"
+  },
+  "a8c79425-eb48-40e0-8557-93460fa67097": {
+   "closed_at": null,
+   "department": "Product Management",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "product manager platform @ new york city",
+   "location": "New York City",
+   "posted_at": "2026-10-02T22:04:40+00:00",
+   "posted_history": [
+    "2026-10-02T22:04:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Manager, Platform",
+   "url": "https://jobs.ashbyhq.com/perplexity/a8c79425-eb48-40e0-8557-93460fa67097"
+  },
+  "ab076e26-adf1-414f-a006-7b1bdc9247c8": {
+   "closed_at": null,
+   "department": "AI Research & Systems",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "perplexity research fellowship @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-09-20T05:41:25+00:00",
+   "posted_history": [
+    "2026-09-20T05:41:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Perplexity Research Fellowship",
+   "url": "https://jobs.ashbyhq.com/perplexity/ab076e26-adf1-414f-a006-7b1bdc9247c8"
+  },
+  "acd466ba-536f-49da-968a-15b8c53298f8": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "enterprise account executive @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-05-13T20:31:16+00:00",
+   "posted_history": [
+    "2026-05-13T20:31:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Account Executive",
+   "url": "https://jobs.ashbyhq.com/perplexity/acd466ba-536f-49da-968a-15b8c53298f8"
+  },
+  "affd3040-91e4-4e0c-bd2f-4b022c613f91": {
+   "closed_at": null,
+   "department": "AI Research & Systems",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "member of technical staff @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-06-06T04:33:07+00:00",
+   "posted_history": [
+    "2026-06-06T04:33:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff (ML Engineer, Recommendations & User Modeling)",
+   "url": "https://jobs.ashbyhq.com/perplexity/affd3040-91e4-4e0c-bd2f-4b022c613f91"
+  },
+  "b00cbb00-f672-4909-a7be-bbd02c7d7b5f": {
+   "closed_at": null,
+   "department": "AI Products",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "member of technical staff @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-08-26T17:26:55+00:00",
+   "posted_history": [
+    "2026-08-26T17:26:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff (Software Engineer, Desktop Apps)",
+   "url": "https://jobs.ashbyhq.com/perplexity/b00cbb00-f672-4909-a7be-bbd02c7d7b5f"
+  },
+  "b349ec0e-be02-47b0-8595-8de0dbb074c5": {
+   "closed_at": null,
+   "department": "Growth",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "growth manager enterprise lifecycle @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-07-15T23:58:46+00:00",
+   "posted_history": [
+    "2026-07-15T23:58:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "Growth Manager, Enterprise Lifecycle",
+   "url": "https://jobs.ashbyhq.com/perplexity/b349ec0e-be02-47b0-8595-8de0dbb074c5"
+  },
+  "b75db90b-ca13-4a2f-aac4-c7764b631540": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "gtm strategy operations lead @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-07-24T17:20:34+00:00",
+   "posted_history": [
+    "2026-07-24T17:20:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "GTM Strategy & Operations Lead",
+   "url": "https://jobs.ashbyhq.com/perplexity/b75db90b-ca13-4a2f-aac4-c7764b631540"
+  },
+  "b9e1ff15-d52a-46d5-abf0-26460f2a116c": {
+   "closed_at": null,
+   "department": "Search",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "internship machine learning research engineer @ berlin",
+   "location": "Berlin",
+   "posted_at": "2026-09-02T10:35:02+00:00",
+   "posted_history": [
+    "2026-09-02T10:35:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Internship - Machine Learning Research Engineer",
+   "url": "https://jobs.ashbyhq.com/perplexity/b9e1ff15-d52a-46d5-abf0-26460f2a116c"
+  },
+  "be94e89b-89d5-4f2a-a58b-7929c8d97f92": {
+   "closed_at": null,
+   "department": "Search",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "internship search backend infra engineer @ belgrade",
+   "location": "Belgrade",
+   "posted_at": "2026-07-01T12:19:30+00:00",
+   "posted_history": [
+    "2026-07-01T12:19:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Internship - Search Backend Infra Engineer",
+   "url": "https://jobs.ashbyhq.com/perplexity/be94e89b-89d5-4f2a-a58b-7929c8d97f92"
+  },
+  "c20486f5-1e9c-436c-ba67-dc69842c221c": {
+   "closed_at": null,
+   "department": "Search",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "member of technical staff @ belgrade",
+   "location": "Belgrade",
+   "posted_at": "2026-10-08T17:09:26+00:00",
+   "posted_history": [
+    "2026-10-08T17:09:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff (Search Crawler Analyst)",
+   "url": "https://jobs.ashbyhq.com/perplexity/c20486f5-1e9c-436c-ba67-dc69842c221c"
+  },
+  "c5dcc0db-7fdc-4e09-86c7-b6618400df16": {
+   "closed_at": null,
+   "department": "Workplace",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "global workplace business operations lead @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-10-02T23:39:04+00:00",
+   "posted_history": [
+    "2026-10-02T23:39:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "Global Workplace Business Operations Lead",
+   "url": "https://jobs.ashbyhq.com/perplexity/c5dcc0db-7fdc-4e09-86c7-b6618400df16"
+  },
+  "c6c857f3-c0db-4d93-aeed-638b9f9d4eb6": {
+   "closed_at": null,
+   "department": "AI Research & Systems",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "engineering site lead @ london",
+   "location": "London",
+   "posted_at": "2026-08-12T04:48:40+00:00",
+   "posted_history": [
+    "2026-08-12T04:48:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Site Lead",
+   "url": "https://jobs.ashbyhq.com/perplexity/c6c857f3-c0db-4d93-aeed-638b9f9d4eb6"
+  },
+  "cf99602c-3f06-4443-bc8a-e03d0a67ad4c": {
+   "closed_at": null,
+   "department": "Business",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "strategic business operations lead api @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-09-11T00:33:50+00:00",
+   "posted_history": [
+    "2026-09-11T00:33:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Business Operations Lead, API",
+   "url": "https://jobs.ashbyhq.com/perplexity/cf99602c-3f06-4443-bc8a-e03d0a67ad4c"
+  },
+  "d38e4b28-6ced-46b0-bb58-37ba49776e77": {
+   "closed_at": null,
+   "department": "People",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "sr technical recruiter @ london",
+   "location": "London",
+   "posted_at": "2026-08-13T16:26:30+00:00",
+   "posted_history": [
+    "2026-08-13T16:26:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Technical Recruiter (London)",
+   "url": "https://jobs.ashbyhq.com/perplexity/d38e4b28-6ced-46b0-bb58-37ba49776e77"
+  },
+  "d5bc2302-202f-4596-9c4d-8720d1e79064": {
+   "closed_at": null,
+   "department": "Marketing & Communications",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "product marketing manager partnerships @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-07-30T21:04:56+00:00",
+   "posted_history": [
+    "2026-07-30T21:04:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Marketing Manager, Partnerships",
+   "url": "https://jobs.ashbyhq.com/perplexity/d5bc2302-202f-4596-9c4d-8720d1e79064"
+  },
+  "d680e788-14d3-43f6-8ce8-5df486ca32d0": {
+   "closed_at": null,
+   "department": "Data Science",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "member of data staff @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-02-20T22:15:24+00:00",
+   "posted_history": [
+    "2026-02-20T22:15:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Data Staff (Data Scientist)",
+   "url": "https://jobs.ashbyhq.com/perplexity/d680e788-14d3-43f6-8ce8-5df486ca32d0"
+  },
+  "d7e05546-4d42-4f1a-8ccd-c95d2519f5f6": {
+   "closed_at": null,
+   "department": "Marketing & Communications",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "field marketing manager @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-09-02T20:29:50+00:00",
+   "posted_history": [
+    "2026-09-02T20:29:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Field Marketing Manager",
+   "url": "https://jobs.ashbyhq.com/perplexity/d7e05546-4d42-4f1a-8ccd-c95d2519f5f6"
+  },
+  "da212c9c-3c11-4e8e-8f97-e176b4876bea": {
+   "closed_at": null,
+   "department": "Finance",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "global treasury manager investments risk @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-10-19T18:27:06+00:00",
+   "posted_history": [
+    "2026-10-19T18:27:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "Global Treasury Manager, Investments & Risk",
+   "url": "https://jobs.ashbyhq.com/perplexity/da212c9c-3c11-4e8e-8f97-e176b4876bea"
+  },
+  "daa9120e-94ff-46e0-b4bd-4d2d290cb409": {
+   "closed_at": null,
+   "department": "AI Products",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "member of technical staff ai products @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-09-23T21:25:49+00:00",
+   "posted_history": [
+    "2026-09-23T21:25:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff, AI Products (Early Career - Industry)",
+   "url": "https://jobs.ashbyhq.com/perplexity/daa9120e-94ff-46e0-b4bd-4d2d290cb409"
+  },
+  "daafcaba-cc39-487a-b941-d7a407753788": {
+   "closed_at": null,
+   "department": "Platform & Infrastructure",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "member of technical staff @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-06-15T02:43:36+00:00",
+   "posted_history": [
+    "2026-06-15T02:43:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff (Software Engineer, Enterprise Knowledge Platform)",
+   "url": "https://jobs.ashbyhq.com/perplexity/daafcaba-cc39-487a-b941-d7a407753788"
+  },
+  "dd80ab52-34bd-42af-aa5e-6283b7e6c194": {
+   "closed_at": null,
+   "department": "Search",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "member of technical staff @ belgrade",
+   "location": "Belgrade",
+   "posted_at": "2025-03-07T18:29:05+00:00",
+   "posted_history": [
+    "2025-03-07T18:29:05+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff (Backend/Infrastructure Engineer, Search)",
+   "url": "https://jobs.ashbyhq.com/perplexity/dd80ab52-34bd-42af-aa5e-6283b7e6c194"
+  },
+  "dd9c7675-1369-4320-afdb-c8caef22ce3a": {
+   "closed_at": null,
+   "department": "Marketing & Communications",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "product marketing manager api @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-06-17T20:06:47+00:00",
+   "posted_history": [
+    "2026-06-17T20:06:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Marketing Manager, API",
+   "url": "https://jobs.ashbyhq.com/perplexity/dd9c7675-1369-4320-afdb-c8caef22ce3a"
+  },
+  "e0e8188a-9c92-4795-82a5-7384f1b25bc7": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "commercial account executive @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-06-08T16:33:16+00:00",
+   "posted_history": [
+    "2026-06-08T16:33:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Commercial Account Executive",
+   "url": "https://jobs.ashbyhq.com/perplexity/e0e8188a-9c92-4795-82a5-7384f1b25bc7"
+  },
+  "e4777627-ff8f-4257-8612-3a016bb58592": {
+   "closed_at": null,
+   "department": "AI Research & Systems",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "member of technical staff @ london",
+   "location": "London",
+   "posted_at": "2026-04-13T19:39:28+00:00",
+   "posted_history": [
+    "2026-04-13T19:39:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff (AI Inference Engineer)",
+   "url": "https://jobs.ashbyhq.com/perplexity/e4777627-ff8f-4257-8612-3a016bb58592"
+  },
+  "e7ab0be5-68ba-4a2c-abb1-ee33886d955d": {
+   "closed_at": null,
+   "department": "AI Products",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "member of technical staff @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-06-04T19:12:59+00:00",
+   "posted_history": [
+    "2026-06-04T19:12:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff (Software Engineer, Computer Growth)",
+   "url": "https://jobs.ashbyhq.com/perplexity/e7ab0be5-68ba-4a2c-abb1-ee33886d955d"
+  },
+  "ea29039d-3900-43d3-a555-ff790677cbe9": {
+   "closed_at": null,
+   "department": "Legal",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "director litigation @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-08-27T21:40:38+00:00",
+   "posted_history": [
+    "2026-08-27T21:40:38+00:00"
+   ],
+   "reopened": 0,
+   "title": "Director, Litigation",
+   "url": "https://jobs.ashbyhq.com/perplexity/ea29039d-3900-43d3-a555-ff790677cbe9"
+  },
+  "ea87532c-69a0-497d-9cf3-04cc2a6c6410": {
+   "closed_at": null,
+   "department": "AI Products",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "member of technical staff @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-07-09T22:28:24+00:00",
+   "posted_history": [
+    "2026-07-09T22:28:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff (Software Engineer, Integrations)",
+   "url": "https://jobs.ashbyhq.com/perplexity/ea87532c-69a0-497d-9cf3-04cc2a6c6410"
+  },
+  "ebd5d9b3-39c4-498b-85a6-2f565e001d7e": {
+   "closed_at": null,
+   "department": "Marketing & Communications",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "senior editor @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-07-01T20:17:23+00:00",
+   "posted_history": [
+    "2026-07-01T20:17:23+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Editor",
+   "url": "https://jobs.ashbyhq.com/perplexity/ebd5d9b3-39c4-498b-85a6-2f565e001d7e"
+  },
+  "ed4fb057-3f06-419a-8bb2-9c98f370d477": {
+   "closed_at": null,
+   "department": "People",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "recruiting coordinator @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-10-12T16:49:04+00:00",
+   "posted_history": [
+    "2026-10-12T16:49:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "Recruiting Coordinator",
+   "url": "https://jobs.ashbyhq.com/perplexity/ed4fb057-3f06-419a-8bb2-9c98f370d477"
+  },
+  "ef269656-94ef-463a-ae0e-6102ca3a94dd": {
+   "closed_at": null,
+   "department": "People",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "technical recruiter ai @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-10-13T22:05:34+00:00",
+   "posted_history": [
+    "2026-10-13T22:05:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Recruiter, AI",
+   "url": "https://jobs.ashbyhq.com/perplexity/ef269656-94ef-463a-ae0e-6102ca3a94dd"
+  },
+  "f05bd47b-bed8-4f00-9d9c-026c72578e82": {
+   "closed_at": null,
+   "department": "Marketing & Communications",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "writer @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-08-27T17:05:22+00:00",
+   "posted_history": [
+    "2026-08-27T17:05:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Writer",
+   "url": "https://jobs.ashbyhq.com/perplexity/f05bd47b-bed8-4f00-9d9c-026c72578e82"
+  },
+  "f25e190e-0508-4707-b575-fcaed358dc13": {
+   "closed_at": null,
+   "department": "Product Management",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "product manager @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-04-21T17:42:48+00:00",
+   "posted_history": [
+    "2026-04-21T17:42:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Manager (Builder)",
+   "url": "https://jobs.ashbyhq.com/perplexity/f25e190e-0508-4707-b575-fcaed358dc13"
+  },
+  "f3814af2-55a3-49a5-b0cb-67199a2a45fb": {
+   "closed_at": null,
+   "department": "Platform & Infrastructure",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "member of technical staff @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-10-19T01:24:02+00:00",
+   "posted_history": [
+    "2026-10-19T01:24:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff (Software Engineer, Enterprise Agent Evals & Efficiency)",
+   "url": "https://jobs.ashbyhq.com/perplexity/f3814af2-55a3-49a5-b0cb-67199a2a45fb"
+  },
+  "f3c7ce0d-026e-4b5d-b22d-8b6041746c3d": {
+   "closed_at": null,
+   "department": "Finance",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "strategic finance lead gtm @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-10-12T20:15:11+00:00",
+   "posted_history": [
+    "2026-10-12T20:15:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Finance Lead - GTM",
+   "url": "https://jobs.ashbyhq.com/perplexity/f3c7ce0d-026e-4b5d-b22d-8b6041746c3d"
+  },
+  "f45ba174-7e99-4743-9d19-6e4d3e196458": {
+   "closed_at": null,
+   "department": "Platform & Infrastructure",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "member of technical staff @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-08-29T02:33:16+00:00",
+   "posted_history": [
+    "2026-08-29T02:33:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff (Software Engineer, Acceleration)",
+   "url": "https://jobs.ashbyhq.com/perplexity/f45ba174-7e99-4743-9d19-6e4d3e196458"
+  },
+  "f4d81f6b-958c-4bc0-a9aa-9850c3508ca9": {
+   "closed_at": null,
+   "department": "Finance",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "strategic finance lead ai @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-09-01T19:09:29+00:00",
+   "posted_history": [
+    "2026-09-01T19:09:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Finance Lead - AI",
+   "url": "https://jobs.ashbyhq.com/perplexity/f4d81f6b-958c-4bc0-a9aa-9850c3508ca9"
+  },
+  "fa088d92-b08b-43f7-9232-275b0ae08827": {
+   "closed_at": null,
+   "department": "Product Management",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "product manager growth @ new york city",
+   "location": "New York City",
+   "posted_at": "2026-09-02T16:40:35+00:00",
+   "posted_history": [
+    "2026-09-02T16:40:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Manager, Growth",
+   "url": "https://jobs.ashbyhq.com/perplexity/fa088d92-b08b-43f7-9232-275b0ae08827"
+  },
+  "fb1815de-07d9-4933-8746-979dbcb00870": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "ai strategist legal @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-07-23T22:58:54+00:00",
+   "posted_history": [
+    "2026-07-23T22:58:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "AI Strategist, Legal",
+   "url": "https://jobs.ashbyhq.com/perplexity/fb1815de-07d9-4933-8746-979dbcb00870"
+  },
+  "fbbd496b-1d14-4396-b31d-38fbea0dc666": {
+   "closed_at": null,
+   "department": "Design",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "design engineer growth marketing @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-07-27T19:21:50+00:00",
+   "posted_history": [
+    "2026-07-27T19:21:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Design Engineer, Growth & Marketing",
+   "url": "https://jobs.ashbyhq.com/perplexity/fbbd496b-1d14-4396-b31d-38fbea0dc666"
+  },
+  "fcb4cc78-d4bd-4489-8756-7d39e755ac76": {
+   "closed_at": null,
+   "department": "Mobile",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "member of technical staff @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-10-16T19:10:02+00:00",
+   "posted_history": [
+    "2026-10-16T19:10:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff (iOS Engineer, Computer Growth)",
+   "url": "https://jobs.ashbyhq.com/perplexity/fcb4cc78-d4bd-4489-8756-7d39e755ac76"
+  },
+  "fd64d88c-823e-4329-b133-f09754e0f4b8": {
+   "closed_at": null,
+   "department": "Marketing & Communications",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "business operations manager marketing and communications @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-09-29T17:21:13+00:00",
+   "posted_history": [
+    "2026-09-29T17:21:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Business Operations Manager, Marketing and Communications",
+   "url": "https://jobs.ashbyhq.com/perplexity/fd64d88c-823e-4329-b133-f09754e0f4b8"
+  },
+  "fdc2ea75-c198-4a9e-9c0a-df835ed61ed0": {
+   "closed_at": null,
+   "department": "Customer Success & Support",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "scaled enterprise customer success manager @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-05-16T00:19:04+00:00",
+   "posted_history": [
+    "2026-05-16T00:19:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "Scaled Enterprise Customer Success Manager",
+   "url": "https://jobs.ashbyhq.com/perplexity/fdc2ea75-c198-4a9e-9c0a-df835ed61ed0"
+  }
+ }
+}

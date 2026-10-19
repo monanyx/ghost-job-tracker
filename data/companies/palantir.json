@@ -1,0 +1,4600 @@
+{
+ "history": [
+  {
+   "date": "2026-10-19",
+   "open": 306
+  }
+ ],
+ "jobs": {
+  "00c2c97b-8514-4617-9883-e53e486b6dcd": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed enablement engineer customer success @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2024-11-12T16:51:46+00:00",
+   "posted_history": [
+    "2024-11-12T16:51:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Enablement Engineer - Customer Success",
+   "url": "https://jobs.lever.co/palantir/00c2c97b-8514-4617-9883-e53e486b6dcd"
+  },
+  "09846827-b931-4a9f-bd64-c3bb8860187b": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "privacy and civil liberties software engineer internship @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2016-10-06T22:34:11+00:00",
+   "posted_history": [
+    "2016-10-06T22:34:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Privacy and Civil Liberties Software Engineer, Internship",
+   "url": "https://jobs.lever.co/palantir/09846827-b931-4a9f-bd64-c3bb8860187b"
+  },
+  "0a838e66-1ab0-4fc4-b4d3-4671c0352278": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "software engineer new grad defense @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2025-06-19T01:34:22+00:00",
+   "posted_history": [
+    "2025-06-19T01:34:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, New Grad - Defense",
+   "url": "https://jobs.lever.co/palantir/0a838e66-1ab0-4fc4-b4d3-4671c0352278"
+  },
+  "0edf7365-49f0-4263-818a-19409ec4f430": {
+   "closed_at": null,
+   "department": "Product Development",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed software engineer autonomous systems c2 @ seattle, wa",
+   "location": "Seattle, WA",
+   "posted_at": "2026-01-16T17:51:52+00:00",
+   "posted_history": [
+    "2026-01-16T17:51:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Software Engineer - Autonomous Systems C2",
+   "url": "https://jobs.lever.co/palantir/0edf7365-49f0-4263-818a-19409ec4f430"
+  },
+  "0fccbe95-2520-4df3-8600-7897656c06a2": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed infrastructure engineer us government @ honolulu, hi",
+   "location": "Honolulu, HI",
+   "posted_at": "2026-05-04T21:46:12+00:00",
+   "posted_history": [
+    "2026-05-04T21:46:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Infrastructure Engineer - US Government",
+   "url": "https://jobs.lever.co/palantir/0fccbe95-2520-4df3-8600-7897656c06a2"
+  },
+  "10dfc8bc-99ad-4ca2-ab76-853cb90a92c2": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "backend software engineer application development @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2024-03-11T20:25:07+00:00",
+   "posted_history": [
+    "2024-03-11T20:25:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Backend Software Engineer - Application Development",
+   "url": "https://jobs.lever.co/palantir/10dfc8bc-99ad-4ca2-ab76-853cb90a92c2"
+  },
+  "1124402c-2088-40c6-b6aa-b9ef7777519b": {
+   "closed_at": null,
+   "department": "Information Security",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "information security engineer @ seattle, wa",
+   "location": "Seattle, WA",
+   "posted_at": "2025-01-29T21:51:08+00:00",
+   "posted_history": [
+    "2025-01-29T21:51:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "Information Security Engineer",
+   "url": "https://jobs.lever.co/palantir/1124402c-2088-40c6-b6aa-b9ef7777519b"
+  },
+  "12d13a31-5764-4678-8835-809f0deae49b": {
+   "closed_at": null,
+   "department": "Mission Operations",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "industrial security specialist @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-02-05T00:02:01+00:00",
+   "posted_history": [
+    "2026-02-05T00:02:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "Industrial Security Specialist",
+   "url": "https://jobs.lever.co/palantir/12d13a31-5764-4678-8835-809f0deae49b"
+  },
+  "12e94938-55cb-4ad9-9c05-405ebc9ef430": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed software engineer japan government @ tokyo, japan",
+   "location": "Tokyo, Japan",
+   "posted_at": "2025-03-07T15:16:48+00:00",
+   "posted_history": [
+    "2025-03-07T15:16:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Software Engineer - Japan Government",
+   "url": "https://jobs.lever.co/palantir/12e94938-55cb-4ad9-9c05-405ebc9ef430"
+  },
+  "1345438c-ebfc-4fa5-b545-30c1414f317c": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "backend software engineer defense @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2025-02-24T22:18:51+00:00",
+   "posted_history": [
+    "2025-02-24T22:18:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Backend Software Engineer - Defense",
+   "url": "https://jobs.lever.co/palantir/1345438c-ebfc-4fa5-b545-30c1414f317c"
+  },
+  "13f99633-43b5-4459-8e84-25073f257c18": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed software engineer warp speed @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2025-02-07T19:57:42+00:00",
+   "posted_history": [
+    "2025-02-07T19:57:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Software Engineer - Warp Speed",
+   "url": "https://jobs.lever.co/palantir/13f99633-43b5-4459-8e84-25073f257c18"
+  },
+  "144f32bc-21e5-42bd-9710-7165a22d51e1": {
+   "closed_at": null,
+   "department": "Information Security",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "senior identity security engineer @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-05-28T21:15:08+00:00",
+   "posted_history": [
+    "2026-05-28T21:15:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Identity Security Engineer",
+   "url": "https://jobs.lever.co/palantir/144f32bc-21e5-42bd-9710-7165a22d51e1"
+  },
+  "146aba99-2a9a-44ee-9fb3-42dd1e211221": {
+   "closed_at": null,
+   "department": "Information Security",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "senior identity security engineer @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2026-05-28T21:18:02+00:00",
+   "posted_history": [
+    "2026-05-28T21:18:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Identity Security Engineer",
+   "url": "https://jobs.lever.co/palantir/146aba99-2a9a-44ee-9fb3-42dd1e211221"
+  },
+  "14dbdeb9-1537-4ccf-83ac-608287efa00f": {
+   "closed_at": null,
+   "department": "Finance",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "revenue accounting manager @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2026-04-28T16:19:13+00:00",
+   "posted_history": [
+    "2026-04-28T16:19:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Revenue Accounting Manager",
+   "url": "https://jobs.lever.co/palantir/14dbdeb9-1537-4ccf-83ac-608287efa00f"
+  },
+  "15844944-fb69-4b57-9531-e988650b20c6": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "software engineer new grad production infrastructure @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2025-08-19T09:37:18+00:00",
+   "posted_history": [
+    "2025-08-19T09:37:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, New Grad - Production Infrastructure",
+   "url": "https://jobs.lever.co/palantir/15844944-fb69-4b57-9531-e988650b20c6"
+  },
+  "168e1345-913c-4826-a926-a07d5cf10bba": {
+   "closed_at": null,
+   "department": "Legal",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "us government subcontracts manager @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2026-07-21T19:28:45+00:00",
+   "posted_history": [
+    "2026-07-21T19:28:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "US Government Subcontracts Manager",
+   "url": "https://jobs.lever.co/palantir/168e1345-913c-4826-a926-a07d5cf10bba"
+  },
+  "16a1b500-13fe-4c22-ad89-372093b462da": {
+   "closed_at": null,
+   "department": "Business Development",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "deal team business affairs @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2021-09-14T20:57:05+00:00",
+   "posted_history": [
+    "2021-09-14T20:57:05+00:00"
+   ],
+   "reopened": 0,
+   "title": "Deal Team - Business Affairs",
+   "url": "https://jobs.lever.co/palantir/16a1b500-13fe-4c22-ad89-372093b462da"
+  },
+  "18383723-04a2-44ae-ae58-1166a76f0859": {
+   "closed_at": null,
+   "department": "Legal",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "legal operations specialist @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2025-02-25T00:45:29+00:00",
+   "posted_history": [
+    "2025-02-25T00:45:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Legal Operations Specialist",
+   "url": "https://jobs.lever.co/palantir/18383723-04a2-44ae-ae58-1166a76f0859"
+  },
+  "18d901fc-93bb-4d18-9f04-c72031e20d79": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "software engineer new grad defense @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2025-06-19T01:37:46+00:00",
+   "posted_history": [
+    "2025-06-19T01:37:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, New Grad - Defense",
+   "url": "https://jobs.lever.co/palantir/18d901fc-93bb-4d18-9f04-c72031e20d79"
+  },
+  "1a53939d-8ffa-4570-b31a-6d0bc53fdb59": {
+   "closed_at": null,
+   "department": "Echo",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "deployment strategist korea forward deployed @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2024-10-03T13:05:13+00:00",
+   "posted_history": [
+    "2024-10-03T13:05:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Deployment Strategist - Korea Forward Deployed",
+   "url": "https://jobs.lever.co/palantir/1a53939d-8ffa-4570-b31a-6d0bc53fdb59"
+  },
+  "1a581b97-ce5b-4b4c-84b0-dd54cf8cfe14": {
+   "closed_at": null,
+   "department": "Legal",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "corporate counsel @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2022-07-29T14:26:42+00:00",
+   "posted_history": [
+    "2022-07-29T14:26:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Corporate Counsel",
+   "url": "https://jobs.lever.co/palantir/1a581b97-ce5b-4b4c-84b0-dd54cf8cfe14"
+  },
+  "1a84bb07-812d-487c-a3b7-8a78b8c8b083": {
+   "closed_at": null,
+   "department": "Finance",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "u s indirect tax manager @ palo alto, ca",
+   "location": "Palo Alto, CA",
+   "posted_at": "2026-08-18T09:41:29+00:00",
+   "posted_history": [
+    "2026-08-18T09:41:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "U.S. Indirect Tax Manager",
+   "url": "https://jobs.lever.co/palantir/1a84bb07-812d-487c-a3b7-8a78b8c8b083"
+  },
+  "1a935143-e857-480c-bc5a-ad625d754eb6": {
+   "closed_at": null,
+   "department": "Design",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "product designer internship @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2019-10-10T01:00:30+00:00",
+   "posted_history": [
+    "2019-10-10T01:00:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Designer, Internship",
+   "url": "https://jobs.lever.co/palantir/1a935143-e857-480c-bc5a-ad625d754eb6"
+  },
+  "1b690123-1766-4e75-a0ef-0f58afa864b4": {
+   "closed_at": null,
+   "department": "Recruiting Operations",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "data engineer talent acquisition operations @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-10-07T23:35:44+00:00",
+   "posted_history": [
+    "2026-10-07T23:35:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Data Engineer - Talent Acquisition Operations",
+   "url": "https://jobs.lever.co/palantir/1b690123-1766-4e75-a0ef-0f58afa864b4"
+  },
+  "1b694ba4-dfda-46b3-ae07-6392bcabb75c": {
+   "closed_at": null,
+   "department": "Legal",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "risk and compliance specialist global trade @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2025-01-22T00:19:30+00:00",
+   "posted_history": [
+    "2025-01-22T00:19:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Risk and Compliance Specialist - Global Trade",
+   "url": "https://jobs.lever.co/palantir/1b694ba4-dfda-46b3-ae07-6392bcabb75c"
+  },
+  "1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed software engineer internship @ paris, france",
+   "location": "Paris, France",
+   "posted_at": "2026-05-06T11:47:58+00:00",
+   "posted_history": [
+    "2026-05-06T11:47:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Software Engineer, Internship",
+   "url": "https://jobs.lever.co/palantir/1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a"
+  },
+  "1bb19522-3936-4adc-9ced-c3df8b5900b9": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed software engineer @ seoul, south korea",
+   "location": "Seoul, South Korea",
+   "posted_at": "2022-04-22T15:31:39+00:00",
+   "posted_history": [
+    "2022-04-22T15:31:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Software Engineer",
+   "url": "https://jobs.lever.co/palantir/1bb19522-3936-4adc-9ced-c3df8b5900b9"
+  },
+  "1e77a5e8-9843-4516-a186-7c24f0ff07a0": {
+   "closed_at": null,
+   "department": "Information Security",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "information security engineer infrastructure security @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-04-16T00:16:17+00:00",
+   "posted_history": [
+    "2026-04-16T00:16:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Information Security Engineer - Infrastructure Security",
+   "url": "https://jobs.lever.co/palantir/1e77a5e8-9843-4516-a186-7c24f0ff07a0"
+  },
+  "1ef0cb77-03a2-4b60-b61d-ace924ef06e7": {
+   "closed_at": null,
+   "department": "Legal",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "corporate counsel @ palo alto, ca",
+   "location": "Palo Alto, CA",
+   "posted_at": "2022-04-29T18:05:11+00:00",
+   "posted_history": [
+    "2022-04-29T18:05:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Corporate Counsel",
+   "url": "https://jobs.lever.co/palantir/1ef0cb77-03a2-4b60-b61d-ace924ef06e7"
+  },
+  "1f007e36-a620-4d15-bf0b-70dc3f3439d8": {
+   "closed_at": null,
+   "department": "Echo",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "deployment strategist spain @ madrid, spain",
+   "location": "Madrid, Spain",
+   "posted_at": "2026-06-29T12:13:51+00:00",
+   "posted_history": [
+    "2026-06-29T12:13:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Deployment Strategist - Spain",
+   "url": "https://jobs.lever.co/palantir/1f007e36-a620-4d15-bf0b-70dc3f3439d8"
+  },
+  "20f220d8-02bb-404f-bbf1-1022ff3df6b7": {
+   "closed_at": null,
+   "department": "Finance",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "international accountant @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2025-10-02T20:40:30+00:00",
+   "posted_history": [
+    "2025-10-02T20:40:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "International Accountant",
+   "url": "https://jobs.lever.co/palantir/20f220d8-02bb-404f-bbf1-1022ff3df6b7"
+  },
+  "211f99dc-269e-4f25-84d3-d73dea782080": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "site reliability engineer us government @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2020-04-22T19:23:16+00:00",
+   "posted_history": [
+    "2020-04-22T19:23:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Site Reliability Engineer - US Government",
+   "url": "https://jobs.lever.co/palantir/211f99dc-269e-4f25-84d3-d73dea782080"
+  },
+  "2127f3af-1fb3-4aa3-9aa1-eb06967e0166": {
+   "closed_at": null,
+   "department": "Information Security",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "information security engineer insider risk @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-04-14T14:31:19+00:00",
+   "posted_history": [
+    "2026-04-14T14:31:19+00:00"
+   ],
+   "reopened": 0,
+   "title": "Information Security Engineer - Insider Risk",
+   "url": "https://jobs.lever.co/palantir/2127f3af-1fb3-4aa3-9aa1-eb06967e0166"
+  },
+  "22053072-4c22-49c4-8299-28e107ceeb98": {
+   "closed_at": null,
+   "department": "Business Development",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed security engineer us government @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2026-03-09T20:23:36+00:00",
+   "posted_history": [
+    "2026-03-09T20:23:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Security Engineer - US Government",
+   "url": "https://jobs.lever.co/palantir/22053072-4c22-49c4-8299-28e107ceeb98"
+  },
+  "24060586-7ba8-47c0-bfc1-f1dd5b82d8bd": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "sales @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-01-09T15:50:00+00:00",
+   "posted_history": [
+    "2026-01-09T15:50:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales",
+   "url": "https://jobs.lever.co/palantir/24060586-7ba8-47c0-bfc1-f1dd5b82d8bd"
+  },
+  "2458ba08-de79-4e8f-b553-060f9568727e": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "software engineer new grad @ singapore, singapore",
+   "location": "Singapore, Singapore",
+   "posted_at": "2024-09-24T20:57:24+00:00",
+   "posted_history": [
+    "2024-09-24T20:57:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, New Grad",
+   "url": "https://jobs.lever.co/palantir/2458ba08-de79-4e8f-b553-060f9568727e"
+  },
+  "250f623c-9afb-4c91-b0c0-25d4e83005ec": {
+   "closed_at": null,
+   "department": "Product Support",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "product reliability engineer defense @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-01-27T23:14:13+00:00",
+   "posted_history": [
+    "2026-01-27T23:14:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Reliability Engineer - Defense",
+   "url": "https://jobs.lever.co/palantir/250f623c-9afb-4c91-b0c0-25d4e83005ec"
+  },
+  "25378ba0-db78-4c70-8174-a05ce514fc65": {
+   "closed_at": null,
+   "department": "Design",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "product designer new grad us government @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2024-01-02T22:21:00+00:00",
+   "posted_history": [
+    "2024-01-02T22:21:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Designer, New Grad - US Government",
+   "url": "https://jobs.lever.co/palantir/25378ba0-db78-4c70-8174-a05ce514fc65"
+  },
+  "26032bad-d713-429d-8b04-2de7db93b5c3": {
+   "closed_at": null,
+   "department": "Finance",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "procurement operations analyst @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2021-08-11T22:56:52+00:00",
+   "posted_history": [
+    "2021-08-11T22:56:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "Procurement Operations Analyst",
+   "url": "https://jobs.lever.co/palantir/26032bad-d713-429d-8b04-2de7db93b5c3"
+  },
+  "26176860-7b27-412a-9959-d8b8705acf53": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "senior software engineer substrate @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2025-08-08T21:32:30+00:00",
+   "posted_history": [
+    "2025-08-08T21:32:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Substrate",
+   "url": "https://jobs.lever.co/palantir/26176860-7b27-412a-9959-d8b8705acf53"
+  },
+  "26e23f5d-083b-45aa-b223-1a6e43d960bf": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed software engineer internship uk government @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2021-07-01T22:17:59+00:00",
+   "posted_history": [
+    "2021-07-01T22:17:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Software Engineer, Internship - UK Government",
+   "url": "https://jobs.lever.co/palantir/26e23f5d-083b-45aa-b223-1a6e43d960bf"
+  },
+  "27bf5707-96fa-460e-8a5b-53bc192ca87b": {
+   "closed_at": null,
+   "department": "Product Development",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed software engineer edge autonomous systems @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2025-10-07T17:15:18+00:00",
+   "posted_history": [
+    "2025-10-07T17:15:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Software Engineer  - Edge Autonomous Systems",
+   "url": "https://jobs.lever.co/palantir/27bf5707-96fa-460e-8a5b-53bc192ca87b"
+  },
+  "289ad049-7b4e-41e3-8a39-146fbeb6fb64": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed software engineer us government @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2020-04-15T21:27:49+00:00",
+   "posted_history": [
+    "2020-04-15T21:27:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Software Engineer - US Government",
+   "url": "https://jobs.lever.co/palantir/289ad049-7b4e-41e3-8a39-146fbeb6fb64"
+  },
+  "29630180-0f10-4826-801f-12e226d3c7f1": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed software engineer us government @ laurel, md",
+   "location": "Laurel, MD",
+   "posted_at": "2026-10-13T16:40:52+00:00",
+   "posted_history": [
+    "2026-10-13T16:40:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Software Engineer - US Government",
+   "url": "https://jobs.lever.co/palantir/29630180-0f10-4826-801f-12e226d3c7f1"
+  },
+  "2a41a2e2-55a4-4641-a3bf-101b7616dd63": {
+   "closed_at": null,
+   "department": "Legal",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "contract operations @ palo alto, ca",
+   "location": "Palo Alto, CA",
+   "posted_at": "2026-09-25T15:29:37+00:00",
+   "posted_history": [
+    "2026-09-25T15:29:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Contract Operations",
+   "url": "https://jobs.lever.co/palantir/2a41a2e2-55a4-4641-a3bf-101b7616dd63"
+  },
+  "2aa14e4f-d406-486e-9aa8-6ff3358d70a0": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed software engineer new grad commercial @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2025-08-01T12:23:17+00:00",
+   "posted_history": [
+    "2025-08-01T12:23:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Software Engineer, New Grad - Commercial",
+   "url": "https://jobs.lever.co/palantir/2aa14e4f-d406-486e-9aa8-6ff3358d70a0"
+  },
+  "2ad0ab10-34c3-410d-883b-8052864a95cd": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed software engineer internship commercial @ seoul, south korea",
+   "location": "Seoul, South Korea",
+   "posted_at": "2026-08-10T13:49:27+00:00",
+   "posted_history": [
+    "2026-08-10T13:49:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Software Engineer, Internship - Commercial",
+   "url": "https://jobs.lever.co/palantir/2ad0ab10-34c3-410d-883b-8052864a95cd"
+  },
+  "2add8e90-c65a-4684-8c0d-6dfa7a541871": {
+   "closed_at": null,
+   "department": "Business Development",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "deal team business affairs @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2021-09-14T21:32:26+00:00",
+   "posted_history": [
+    "2021-09-14T21:32:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Deal Team - Business Affairs",
+   "url": "https://jobs.lever.co/palantir/2add8e90-c65a-4684-8c0d-6dfa7a541871"
+  },
+  "2bc07b65-3f3a-4565-8d7c-d015bed92166": {
+   "closed_at": null,
+   "department": "Legal",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "contract operations @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2026-09-25T15:29:56+00:00",
+   "posted_history": [
+    "2026-09-25T15:29:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Contract Operations",
+   "url": "https://jobs.lever.co/palantir/2bc07b65-3f3a-4565-8d7c-d015bed92166"
+  },
+  "2bfdcb53-7abd-42a4-9eaf-ebe07450f798": {
+   "closed_at": null,
+   "department": "Echo",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "deployment strategist japan government @ tokyo, japan",
+   "location": "Tokyo, Japan",
+   "posted_at": "2025-08-08T09:29:49+00:00",
+   "posted_history": [
+    "2025-08-08T09:29:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Deployment Strategist - Japan Government",
+   "url": "https://jobs.lever.co/palantir/2bfdcb53-7abd-42a4-9eaf-ebe07450f798"
+  },
+  "2cd25c0b-088d-4a5c-9b96-1165a33fe652": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "senior backend software engineer infrastructure @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2026-04-06T14:22:09+00:00",
+   "posted_history": [
+    "2026-04-06T14:22:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Backend Software Engineer - Infrastructure",
+   "url": "https://jobs.lever.co/palantir/2cd25c0b-088d-4a5c-9b96-1165a33fe652"
+  },
+  "2d8a194e-40fa-4ccd-bb93-c40f9ce869d7": {
+   "closed_at": null,
+   "department": "Echo",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "deployment strategist build to apply us government @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2026-02-04T22:53:06+00:00",
+   "posted_history": [
+    "2026-02-04T22:53:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "Deployment Strategist, Build to Apply - US Government",
+   "url": "https://jobs.lever.co/palantir/2d8a194e-40fa-4ccd-bb93-c40f9ce869d7"
+  },
+  "2d8b7eaa-5c08-44ef-a0f0-5a96cee2794d": {
+   "closed_at": null,
+   "department": "Design",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "product designer @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2013-01-31T00:00:00+00:00",
+   "posted_history": [
+    "2013-01-31T00:00:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Designer",
+   "url": "https://jobs.lever.co/palantir/2d8b7eaa-5c08-44ef-a0f0-5a96cee2794d"
+  },
+  "2da4be12-bc7a-4950-87db-e9d68d955ff7": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "full stack software engineer application development @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2024-02-17T00:49:42+00:00",
+   "posted_history": [
+    "2024-02-17T00:49:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Full Stack Software Engineer - Application Development",
+   "url": "https://jobs.lever.co/palantir/2da4be12-bc7a-4950-87db-e9d68d955ff7"
+  },
+  "2e193bdf-e668-49c1-ba32-66cc1aa131a4": {
+   "closed_at": null,
+   "department": "Echo",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "deployment strategist @ seoul, south korea",
+   "location": "Seoul, South Korea",
+   "posted_at": "2022-04-22T15:42:59+00:00",
+   "posted_history": [
+    "2022-04-22T15:42:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Deployment Strategist",
+   "url": "https://jobs.lever.co/palantir/2e193bdf-e668-49c1-ba32-66cc1aa131a4"
+  },
+  "2e6b0ac8-83e9-4be5-a3aa-cf319f751728": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed software engineer new grad commercial @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2025-06-13T23:45:06+00:00",
+   "posted_history": [
+    "2025-06-13T23:45:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Software Engineer, New Grad - Commercial",
+   "url": "https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728"
+  },
+  "2f3a0a57-8f77-44d2-99c3-18aef115374f": {
+   "closed_at": null,
+   "department": "Echo",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "deployment strategist uk government @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2022-01-13T14:49:03+00:00",
+   "posted_history": [
+    "2022-01-13T14:49:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Deployment Strategist - UK Government",
+   "url": "https://jobs.lever.co/palantir/2f3a0a57-8f77-44d2-99c3-18aef115374f"
+  },
+  "30c2563d-9a16-4dd7-81e8-b6f646384199": {
+   "closed_at": null,
+   "department": "Echo",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "deployment strategist us government @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2020-05-09T00:52:07+00:00",
+   "posted_history": [
+    "2020-05-09T00:52:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Deployment Strategist - US Government",
+   "url": "https://jobs.lever.co/palantir/30c2563d-9a16-4dd7-81e8-b6f646384199"
+  },
+  "315f695d-04d1-4a9a-848e-cb2bec7a997e": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed software engineer internship us government @ honolulu, hi",
+   "location": "Honolulu, HI",
+   "posted_at": "2025-12-11T22:26:14+00:00",
+   "posted_history": [
+    "2025-12-11T22:26:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Software Engineer, Internship - US Government",
+   "url": "https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e"
+  },
+  "32295454-6629-4f47-b11e-bbd7f5d41acb": {
+   "closed_at": null,
+   "department": "Design",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "product designer new grad us government @ palo alto, ca",
+   "location": "Palo Alto, CA",
+   "posted_at": "2024-08-15T22:43:39+00:00",
+   "posted_history": [
+    "2024-08-15T22:43:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Designer, New Grad - US Government",
+   "url": "https://jobs.lever.co/palantir/32295454-6629-4f47-b11e-bbd7f5d41acb"
+  },
+  "33243fb5-6907-40c7-930c-968b25d825d0": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed infrastructure engineer new grad us government @ palo alto, ca",
+   "location": "Palo Alto, CA",
+   "posted_at": "2025-10-29T20:26:17+00:00",
+   "posted_history": [
+    "2025-10-29T20:26:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
+   "url": "https://jobs.lever.co/palantir/33243fb5-6907-40c7-930c-968b25d825d0"
+  },
+  "341d5cae-a473-4813-9a6c-0f67fcc1b253": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed software engineer new grad commercial @ seoul, south korea",
+   "location": "Seoul, South Korea",
+   "posted_at": "2026-08-10T14:02:48+00:00",
+   "posted_history": [
+    "2026-08-10T14:02:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Software Engineer, New Grad - Commercial",
+   "url": "https://jobs.lever.co/palantir/341d5cae-a473-4813-9a6c-0f67fcc1b253"
+  },
+  "34b3a697-6e22-4751-befd-0b7921abbd5f": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed software engineer intel @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2021-10-18T09:03:40+00:00",
+   "posted_history": [
+    "2021-10-18T09:03:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Software Engineer - Intel",
+   "url": "https://jobs.lever.co/palantir/34b3a697-6e22-4751-befd-0b7921abbd5f"
+  },
+  "3531977a-9b2f-40a0-a486-4eeb38e75fc1": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "software engineer internship @ singapore, singapore",
+   "location": "Singapore, Singapore",
+   "posted_at": "2026-01-14T15:28:44+00:00",
+   "posted_history": [
+    "2026-01-14T15:28:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Internship",
+   "url": "https://jobs.lever.co/palantir/3531977a-9b2f-40a0-a486-4eeb38e75fc1"
+  },
+  "36703f67-6fae-445c-9277-f946121faaa0": {
+   "closed_at": null,
+   "department": "Information Security",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "information security engineer @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2025-01-29T21:51:36+00:00",
+   "posted_history": [
+    "2025-01-29T21:51:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Information Security Engineer",
+   "url": "https://jobs.lever.co/palantir/36703f67-6fae-445c-9277-f946121faaa0"
+  },
+  "373367a9-3160-49d8-b7af-2efec062fad1": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "software engineer internship production infrastructure @ seattle, wa",
+   "location": "Seattle, WA",
+   "posted_at": "2025-06-26T20:05:13+00:00",
+   "posted_history": [
+    "2025-06-26T20:05:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Internship - Production Infrastructure",
+   "url": "https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1"
+  },
+  "373eb939-6f57-4836-8479-be79a5e07249": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "software engineer internship @ denver, co",
+   "location": "Denver, CO",
+   "posted_at": "2024-08-29T04:34:48+00:00",
+   "posted_history": [
+    "2024-08-29T04:34:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Internship",
+   "url": "https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249"
+  },
+  "37964982-9b4c-471e-a1d8-fb8f45d7f116": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "software engineer internship production infrastructure @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2025-06-26T20:04:34+00:00",
+   "posted_history": [
+    "2025-06-26T20:04:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Internship - Production Infrastructure",
+   "url": "https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116"
+  },
+  "38758e88-5884-4a11-98ac-d23cab51bc7a": {
+   "closed_at": null,
+   "department": "Mission Operations",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "site reliability operations analyst us government @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2020-04-13T18:07:36+00:00",
+   "posted_history": [
+    "2020-04-13T18:07:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Site Reliability Operations Analyst - US Government",
+   "url": "https://jobs.lever.co/palantir/38758e88-5884-4a11-98ac-d23cab51bc7a"
+  },
+  "395a4483-fc3d-4b77-a500-501923fd0976": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed software engineer internship aus government @ sydney, australia",
+   "location": "Sydney, Australia",
+   "posted_at": "2026-05-29T12:46:59+00:00",
+   "posted_history": [
+    "2026-05-29T12:46:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Software Engineer, Internship - AUS Government",
+   "url": "https://jobs.lever.co/palantir/395a4483-fc3d-4b77-a500-501923fd0976"
+  },
+  "397fb983-47b7-4a53-a7df-f080f43f7720": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "software engineer edge @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2025-11-04T20:51:15+00:00",
+   "posted_history": [
+    "2025-11-04T20:51:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer - Edge",
+   "url": "https://jobs.lever.co/palantir/397fb983-47b7-4a53-a7df-f080f43f7720"
+  },
+  "39c57909-ae76-4c86-9290-9fb50c689c4f": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "senior software engineer network infrastructure @ seattle, wa",
+   "location": "Seattle, WA",
+   "posted_at": "2024-02-27T19:14:08+00:00",
+   "posted_history": [
+    "2024-02-27T19:14:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Network Infrastructure",
+   "url": "https://jobs.lever.co/palantir/39c57909-ae76-4c86-9290-9fb50c689c4f"
+  },
+  "3ab9e715-1ea9-4c6c-ad50-7340eac14e86": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "software engineer internship production infrastructure @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2025-08-19T09:41:27+00:00",
+   "posted_history": [
+    "2025-08-19T09:41:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Internship - Production Infrastructure",
+   "url": "https://jobs.lever.co/palantir/3ab9e715-1ea9-4c6c-ad50-7340eac14e86"
+  },
+  "3b4ae28e-c4f2-4654-83b4-64366bfe72fa": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "software engineer core interfaces @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-06-11T22:04:51+00:00",
+   "posted_history": [
+    "2026-06-11T22:04:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer - Core Interfaces",
+   "url": "https://jobs.lever.co/palantir/3b4ae28e-c4f2-4654-83b4-64366bfe72fa"
+  },
+  "3c0c9552-f4ae-4467-b032-5809d2d62724": {
+   "closed_at": null,
+   "department": "Legal",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "legal operations specialist @ palo alto, ca",
+   "location": "Palo Alto, CA",
+   "posted_at": "2026-09-03T17:34:05+00:00",
+   "posted_history": [
+    "2026-09-03T17:34:05+00:00"
+   ],
+   "reopened": 0,
+   "title": "Legal Operations Specialist",
+   "url": "https://jobs.lever.co/palantir/3c0c9552-f4ae-4467-b032-5809d2d62724"
+  },
+  "3c84af24-b7aa-483e-b2c3-e1d83494fe15": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "software engineer developer productivity @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2022-11-08T23:58:24+00:00",
+   "posted_history": [
+    "2022-11-08T23:58:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer - Developer Productivity",
+   "url": "https://jobs.lever.co/palantir/3c84af24-b7aa-483e-b2c3-e1d83494fe15"
+  },
+  "3d06b4bc-6a7b-4f73-b5c5-4544354e3d0f": {
+   "closed_at": null,
+   "department": "Business Development",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "edge infrastructure engineer @ warsaw, poland",
+   "location": "Warsaw, Poland",
+   "posted_at": "2026-05-01T09:11:21+00:00",
+   "posted_history": [
+    "2026-05-01T09:11:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Edge Infrastructure Engineer",
+   "url": "https://jobs.lever.co/palantir/3d06b4bc-6a7b-4f73-b5c5-4544354e3d0f"
+  },
+  "3d0d9d92-0321-4459-a17d-fa1a76636a43": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed software engineer tactical edge @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2026-03-02T20:11:08+00:00",
+   "posted_history": [
+    "2026-03-02T20:11:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Software Engineer - Tactical Edge",
+   "url": "https://jobs.lever.co/palantir/3d0d9d92-0321-4459-a17d-fa1a76636a43"
+  },
+  "3db7e40a-28e0-4ad1-96c5-93de5bc96aa9": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed infrastructure engineer internship us government @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2026-07-10T22:42:13+00:00",
+   "posted_history": [
+    "2026-07-10T22:42:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Infrastructure Engineer, Internship - US Government",
+   "url": "https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9"
+  },
+  "3e53ec44-d8f3-4b0b-b77f-c481e9cd06fd": {
+   "closed_at": null,
+   "department": "Administrative",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "usg administrative business partner @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-05-13T16:25:19+00:00",
+   "posted_history": [
+    "2026-05-13T16:25:19+00:00"
+   ],
+   "reopened": 0,
+   "title": "USG Administrative Business Partner",
+   "url": "https://jobs.lever.co/palantir/3e53ec44-d8f3-4b0b-b77f-c481e9cd06fd"
+  },
+  "3f662628-2877-42fb-8866-a2b709de17ca": {
+   "closed_at": null,
+   "department": "Echo",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "deployment strategist build to apply us government @ fayetteville, nc",
+   "location": "Fayetteville, NC",
+   "posted_at": "2026-02-11T00:05:30+00:00",
+   "posted_history": [
+    "2026-02-11T00:05:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Deployment Strategist, Build to Apply - US Government",
+   "url": "https://jobs.lever.co/palantir/3f662628-2877-42fb-8866-a2b709de17ca"
+  },
+  "4056c8f6-0e6a-43f7-b387-4a97bd3dbb19": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "software engineer query engines @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2026-09-22T11:06:34+00:00",
+   "posted_history": [
+    "2026-09-22T11:06:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer – Query Engines",
+   "url": "https://jobs.lever.co/palantir/4056c8f6-0e6a-43f7-b387-4a97bd3dbb19"
+  },
+  "40d0499b-e2ec-42cc-8a19-c454ed510195": {
+   "closed_at": null,
+   "department": "Technical Operations",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "support engineer @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2026-05-19T18:31:18+00:00",
+   "posted_history": [
+    "2026-05-19T18:31:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Support Engineer",
+   "url": "https://jobs.lever.co/palantir/40d0499b-e2ec-42cc-8a19-c454ed510195"
+  },
+  "4186c7e2-1fc4-4049-81fb-fa98efb9d1de": {
+   "closed_at": null,
+   "department": "Recruiting",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "talent coordinator @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2024-12-16T18:55:27+00:00",
+   "posted_history": [
+    "2024-12-16T18:55:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Talent Coordinator",
+   "url": "https://jobs.lever.co/palantir/4186c7e2-1fc4-4049-81fb-fa98efb9d1de"
+  },
+  "4255e21c-d0f2-4f57-b5db-1f65830d6425": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "web application developer defense @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2024-01-30T19:26:33+00:00",
+   "posted_history": [
+    "2024-01-30T19:26:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Web Application Developer - Defense",
+   "url": "https://jobs.lever.co/palantir/4255e21c-d0f2-4f57-b5db-1f65830d6425"
+  },
+  "44129013-01e0-4699-8fc1-7a189bb37b63": {
+   "closed_at": null,
+   "department": "Design",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "product designer internship @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2019-01-29T17:51:33+00:00",
+   "posted_history": [
+    "2019-01-29T17:51:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Designer, Internship",
+   "url": "https://jobs.lever.co/palantir/44129013-01e0-4699-8fc1-7a189bb37b63"
+  },
+  "44d3394e-003e-4609-b864-ff141e233635": {
+   "closed_at": null,
+   "department": "Echo",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "deployment strategist us government @ norfolk, va",
+   "location": "Norfolk, VA",
+   "posted_at": "2026-10-12T21:47:02+00:00",
+   "posted_history": [
+    "2026-10-12T21:47:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Deployment Strategist - US Government",
+   "url": "https://jobs.lever.co/palantir/44d3394e-003e-4609-b864-ff141e233635"
+  },
+  "45241c61-11af-45b5-86a0-a5302c028d6d": {
+   "closed_at": null,
+   "department": "Legal",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "commercial contracts specialist @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2022-03-23T22:06:43+00:00",
+   "posted_history": [
+    "2022-03-23T22:06:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Commercial Contracts Specialist",
+   "url": "https://jobs.lever.co/palantir/45241c61-11af-45b5-86a0-a5302c028d6d"
+  },
+  "4775e970-ade8-4a0d-8145-9255dc4cbac9": {
+   "closed_at": null,
+   "department": "Echo",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "deployment strategist us government @ laurel, md",
+   "location": "Laurel, MD",
+   "posted_at": "2026-10-13T16:52:36+00:00",
+   "posted_history": [
+    "2026-10-13T16:52:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Deployment Strategist - US Government",
+   "url": "https://jobs.lever.co/palantir/4775e970-ade8-4a0d-8145-9255dc4cbac9"
+  },
+  "484658a9-d6da-4d5f-9ab3-7c9f6ae3cd71": {
+   "closed_at": null,
+   "department": "Recruiting",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "talent strategist @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2025-07-22T19:58:55+00:00",
+   "posted_history": [
+    "2025-07-22T19:58:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Talent Strategist",
+   "url": "https://jobs.lever.co/palantir/484658a9-d6da-4d5f-9ab3-7c9f6ae3cd71"
+  },
+  "4a245bf7-0467-4436-ac22-7bad194c1a12": {
+   "closed_at": null,
+   "department": "People",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "people relations specialist @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-05-06T19:06:29+00:00",
+   "posted_history": [
+    "2026-05-06T19:06:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "People Relations Specialist",
+   "url": "https://jobs.lever.co/palantir/4a245bf7-0467-4436-ac22-7bad194c1a12"
+  },
+  "4abf26b4-795c-420a-bf22-1ab98db268b4": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "software engineer new grad infrastructure @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2025-06-26T01:01:09+00:00",
+   "posted_history": [
+    "2025-06-26T01:01:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, New Grad - Infrastructure",
+   "url": "https://jobs.lever.co/palantir/4abf26b4-795c-420a-bf22-1ab98db268b4"
+  },
+  "4bfef5e0-6689-4db8-9ffe-ab6df6836845": {
+   "closed_at": null,
+   "department": "Information Security",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "information security engineer infrastructure security @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2026-04-16T00:15:51+00:00",
+   "posted_history": [
+    "2026-04-16T00:15:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Information Security Engineer - Infrastructure Security",
+   "url": "https://jobs.lever.co/palantir/4bfef5e0-6689-4db8-9ffe-ab6df6836845"
+  },
+  "4c0fb3a1-8256-4d14-9a27-23727235752e": {
+   "closed_at": null,
+   "department": "Design",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "product designer new grad @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2017-08-10T19:39:38+00:00",
+   "posted_history": [
+    "2017-08-10T19:39:38+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Designer, New Grad",
+   "url": "https://jobs.lever.co/palantir/4c0fb3a1-8256-4d14-9a27-23727235752e"
+  },
+  "4c956604-f861-4140-a7d2-3e39fc834c1c": {
+   "closed_at": null,
+   "department": "Finance",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "senior manager corporate accounting @ denver, co",
+   "location": "Denver, CO",
+   "posted_at": "2022-01-19T14:42:19+00:00",
+   "posted_history": [
+    "2022-01-19T14:42:19+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Corporate Accounting",
+   "url": "https://jobs.lever.co/palantir/4c956604-f861-4140-a7d2-3e39fc834c1c"
+  },
+  "4cba9c95-d16f-440d-83e7-2352480f689f": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed enablement engineer customer success @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2024-11-13T10:59:47+00:00",
+   "posted_history": [
+    "2024-11-13T10:59:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Enablement Engineer - Customer Success",
+   "url": "https://jobs.lever.co/palantir/4cba9c95-d16f-440d-83e7-2352480f689f"
+  },
+  "4d29249a-d7e8-4c39-880d-3b35d7b2f6f6": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed software engineer internship commercial @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2016-02-24T23:37:05+00:00",
+   "posted_history": [
+    "2016-02-24T23:37:05+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Software Engineer, Internship - Commercial",
+   "url": "https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6"
+  },
+  "4d3986f0-4c01-4327-a0e4-e7d9bc7bc0c3": {
+   "closed_at": null,
+   "department": "Information Security",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "compliance analyst @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2025-06-17T16:03:55+00:00",
+   "posted_history": [
+    "2025-06-17T16:03:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Compliance Analyst",
+   "url": "https://jobs.lever.co/palantir/4d3986f0-4c01-4327-a0e4-e7d9bc7bc0c3"
+  },
+  "4d5a144e-87ea-45e2-a68c-3fad590629af": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "software engineer new grad production infrastructure @ seattle, wa",
+   "location": "Seattle, WA",
+   "posted_at": "2025-06-26T19:54:49+00:00",
+   "posted_history": [
+    "2025-06-26T19:54:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, New Grad - Production Infrastructure",
+   "url": "https://jobs.lever.co/palantir/4d5a144e-87ea-45e2-a68c-3fad590629af"
+  },
+  "4df4cca5-e361-498b-806d-05f21638c93a": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "software engineer hosted model infrastructure @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-06-03T19:38:18+00:00",
+   "posted_history": [
+    "2026-06-03T19:38:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer - Hosted Model Infrastructure",
+   "url": "https://jobs.lever.co/palantir/4df4cca5-e361-498b-806d-05f21638c93a"
+  },
+  "4e7d0732-f477-4c7a-aac9-abd62f8c9987": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "senior front end software engineer application development @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2024-08-07T02:11:24+00:00",
+   "posted_history": [
+    "2024-08-07T02:11:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Front End Software Engineer - Application Development",
+   "url": "https://jobs.lever.co/palantir/4e7d0732-f477-4c7a-aac9-abd62f8c9987"
+  },
+  "4e99e055-96c7-497e-8099-3318e1ce0626": {
+   "closed_at": null,
+   "department": "Echo",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "deployment strategist @ vilnius, lithuania",
+   "location": "Vilnius, Lithuania",
+   "posted_at": "2022-01-26T23:54:21+00:00",
+   "posted_history": [
+    "2022-01-26T23:54:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Deployment Strategist",
+   "url": "https://jobs.lever.co/palantir/4e99e055-96c7-497e-8099-3318e1ce0626"
+  },
+  "5168e8fd-fec1-4fea-b7a1-81bdaea65850": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed software engineer @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2009-12-05T00:00:00+00:00",
+   "posted_history": [
+    "2009-12-05T00:00:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Software Engineer",
+   "url": "https://jobs.lever.co/palantir/5168e8fd-fec1-4fea-b7a1-81bdaea65850"
+  },
+  "5174e95b-2e0a-46f8-8db7-e2c837a0ac94": {
+   "closed_at": null,
+   "department": "Mission Operations",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "site reliability operations analyst commercial @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2023-11-28T00:21:36+00:00",
+   "posted_history": [
+    "2023-11-28T00:21:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Site Reliability Operations Analyst - Commercial",
+   "url": "https://jobs.lever.co/palantir/5174e95b-2e0a-46f8-8db7-e2c837a0ac94"
+  },
+  "51ea4a3b-7764-4c87-96e4-310e19c856d5": {
+   "closed_at": null,
+   "department": "Technical Operations",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "devops engineer @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2018-06-28T16:26:03+00:00",
+   "posted_history": [
+    "2018-06-28T16:26:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "DevOps Engineer",
+   "url": "https://jobs.lever.co/palantir/51ea4a3b-7764-4c87-96e4-310e19c856d5"
+  },
+  "53fb4c05-f949-4146-a046-5c063c36a628": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed software engineer spain @ madrid, spain",
+   "location": "Madrid, Spain",
+   "posted_at": "2026-06-29T11:38:59+00:00",
+   "posted_history": [
+    "2026-06-29T11:38:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Software Engineer - Spain",
+   "url": "https://jobs.lever.co/palantir/53fb4c05-f949-4146-a046-5c063c36a628"
+  },
+  "55005ee7-4e06-4520-b569-f6e8f26745cb": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "senior software engineer network infrastructure @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2024-02-27T19:16:55+00:00",
+   "posted_history": [
+    "2024-02-27T19:16:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Network Infrastructure",
+   "url": "https://jobs.lever.co/palantir/55005ee7-4e06-4520-b569-f6e8f26745cb"
+  },
+  "5614a901-ef96-4b9c-928d-4a9c338c8aad": {
+   "closed_at": null,
+   "department": "Information Security",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "offensive security engineer @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2026-08-14T15:54:38+00:00",
+   "posted_history": [
+    "2026-08-14T15:54:38+00:00"
+   ],
+   "reopened": 0,
+   "title": "Offensive Security Engineer",
+   "url": "https://jobs.lever.co/palantir/5614a901-ef96-4b9c-928d-4a9c338c8aad"
+  },
+  "57699414-b373-4a5e-9be8-6fb7de41ea72": {
+   "closed_at": null,
+   "department": "Product Support",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "product reliability engineer defense @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2026-01-27T00:29:39+00:00",
+   "posted_history": [
+    "2026-01-27T00:29:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Reliability Engineer - Defense",
+   "url": "https://jobs.lever.co/palantir/57699414-b373-4a5e-9be8-6fb7de41ea72"
+  },
+  "57a3f928-e7d3-4037-8196-b38e2f867152": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed software engineer uk government @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2023-01-11T17:48:32+00:00",
+   "posted_history": [
+    "2023-01-11T17:48:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Software Engineer - UK Government",
+   "url": "https://jobs.lever.co/palantir/57a3f928-e7d3-4037-8196-b38e2f867152"
+  },
+  "599b1907-aba1-4303-837b-66e69a521636": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed software engineer internship commercial @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2025-08-01T12:15:20+00:00",
+   "posted_history": [
+    "2025-08-01T12:15:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Software Engineer, Internship - Commercial",
+   "url": "https://jobs.lever.co/palantir/599b1907-aba1-4303-837b-66e69a521636"
+  },
+  "5a28f3a5-8655-47f2-ab19-a79b8a319da8": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed infrastructure engineer new grad us government @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2025-10-29T20:27:12+00:00",
+   "posted_history": [
+    "2025-10-29T20:27:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
+   "url": "https://jobs.lever.co/palantir/5a28f3a5-8655-47f2-ab19-a79b8a319da8"
+  },
+  "5a99fe16-1bda-4313-ace2-a11ea6e58f0c": {
+   "closed_at": null,
+   "department": "Product Development",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed reliability engineer @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2026-04-22T19:15:03+00:00",
+   "posted_history": [
+    "2026-04-22T19:15:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Reliability Engineer",
+   "url": "https://jobs.lever.co/palantir/5a99fe16-1bda-4313-ace2-a11ea6e58f0c"
+  },
+  "5b0f37e6-8569-4a62-9e38-c5a4edc67dcf": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed software engineer us government @ norfolk, va",
+   "location": "Norfolk, VA",
+   "posted_at": "2026-10-12T21:27:12+00:00",
+   "posted_history": [
+    "2026-10-12T21:27:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Software Engineer - US Government",
+   "url": "https://jobs.lever.co/palantir/5b0f37e6-8569-4a62-9e38-c5a4edc67dcf"
+  },
+  "5b1eac37-708b-4eb2-94f0-d2abe7945989": {
+   "closed_at": null,
+   "department": "Information Security",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "offensive security engineer @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2025-07-28T14:02:05+00:00",
+   "posted_history": [
+    "2025-07-28T14:02:05+00:00"
+   ],
+   "reopened": 0,
+   "title": "Offensive Security Engineer",
+   "url": "https://jobs.lever.co/palantir/5b1eac37-708b-4eb2-94f0-d2abe7945989"
+  },
+  "5b4f55a5-e883-445e-853d-7e0d40eec055": {
+   "closed_at": null,
+   "department": "Finance",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "senior revenue accountant @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2025-05-16T21:41:24+00:00",
+   "posted_history": [
+    "2025-05-16T21:41:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Revenue Accountant",
+   "url": "https://jobs.lever.co/palantir/5b4f55a5-e883-445e-853d-7e0d40eec055"
+  },
+  "5c4c65c5-77da-4d36-856c-4ade87631019": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "year at palantir forward deployed software engineer internship usg @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2026-04-23T21:17:05+00:00",
+   "posted_history": [
+    "2026-04-23T21:17:05+00:00"
+   ],
+   "reopened": 0,
+   "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - USG",
+   "url": "https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019"
+  },
+  "5c7bb70c-83ea-43e7-8055-0c8f319f4333": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "year at palantir forward deployed software engineer internship usg @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-03-20T19:05:22+00:00",
+   "posted_history": [
+    "2026-03-20T19:05:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - USG",
+   "url": "https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333"
+  },
+  "5d8286d6-992a-404b-94af-99c173d40299": {
+   "closed_at": null,
+   "department": "Echo",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "deployment strategist new grad intel us government @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2026-06-15T16:42:57+00:00",
+   "posted_history": [
+    "2026-06-15T16:42:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "Deployment Strategist, New Grad - Intel, US Government",
+   "url": "https://jobs.lever.co/palantir/5d8286d6-992a-404b-94af-99c173d40299"
+  },
+  "5eed9e3f-28b6-407f-b0be-ed26bc349895": {
+   "closed_at": null,
+   "department": "People",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "people relations specialist @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2026-05-06T19:07:00+00:00",
+   "posted_history": [
+    "2026-05-06T19:07:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "People Relations Specialist",
+   "url": "https://jobs.lever.co/palantir/5eed9e3f-28b6-407f-b0be-ed26bc349895"
+  },
+  "5f39f83b-ef08-4ee8-afda-a2c77440598f": {
+   "closed_at": null,
+   "department": "Echo",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "deployment strategist us government @ fayetteville, nc",
+   "location": "Fayetteville, NC",
+   "posted_at": "2026-01-12T22:44:40+00:00",
+   "posted_history": [
+    "2026-01-12T22:44:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Deployment Strategist - US Government",
+   "url": "https://jobs.lever.co/palantir/5f39f83b-ef08-4ee8-afda-a2c77440598f"
+  },
+  "5f3f9547-2aea-4ac2-995d-e8fa53b16e39": {
+   "closed_at": null,
+   "department": "Business Development",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "operations analyst us government security @ palo alto, ca",
+   "location": "Palo Alto, CA",
+   "posted_at": "2026-10-09T00:39:27+00:00",
+   "posted_history": [
+    "2026-10-09T00:39:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Operations Analyst - US Government Security",
+   "url": "https://jobs.lever.co/palantir/5f3f9547-2aea-4ac2-995d-e8fa53b16e39"
+  },
+  "5f7a90e7-f927-47bf-90ed-52d17c58ae02": {
+   "closed_at": null,
+   "department": "Design",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "product designer new grad us government @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2024-11-21T19:29:33+00:00",
+   "posted_history": [
+    "2024-11-21T19:29:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Designer, New Grad - US Government",
+   "url": "https://jobs.lever.co/palantir/5f7a90e7-f927-47bf-90ed-52d17c58ae02"
+  },
+  "61eaa54c-e1b7-4064-afad-f7df3d48d652": {
+   "closed_at": null,
+   "department": "Business Development",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "neurodivergent fellowship @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2025-12-07T22:42:55+00:00",
+   "posted_history": [
+    "2025-12-07T22:42:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Neurodivergent Fellowship",
+   "url": "https://jobs.lever.co/palantir/61eaa54c-e1b7-4064-afad-f7df3d48d652"
+  },
+  "636fc05c-d348-4a06-be51-597cb9e07488": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed ai engineer @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2024-03-22T20:44:35+00:00",
+   "posted_history": [
+    "2024-03-22T20:44:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed AI Engineer",
+   "url": "https://jobs.lever.co/palantir/636fc05c-d348-4a06-be51-597cb9e07488"
+  },
+  "655f9937-a4ce-4e7d-80e2-a6659af07329": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "year at palantir software engineer internship @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-03-20T19:07:35+00:00",
+   "posted_history": [
+    "2026-03-20T19:07:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Year at Palantir - Software Engineer, Internship",
+   "url": "https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329"
+  },
+  "66955c3b-c530-4c4a-9d48-63b4aad61b9c": {
+   "closed_at": null,
+   "department": "Finance",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "procurement operations analyst @ denver, co",
+   "location": "Denver, CO",
+   "posted_at": "2021-12-03T21:50:48+00:00",
+   "posted_history": [
+    "2021-12-03T21:50:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "Procurement Operations Analyst",
+   "url": "https://jobs.lever.co/palantir/66955c3b-c530-4c4a-9d48-63b4aad61b9c"
+  },
+  "67110929-adea-41c3-851a-8882e222d9e4": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "software engineer edge ai systems @ seattle, wa",
+   "location": "Seattle, WA",
+   "posted_at": "2026-07-22T22:12:20+00:00",
+   "posted_history": [
+    "2026-07-22T22:12:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer - Edge AI Systems",
+   "url": "https://jobs.lever.co/palantir/67110929-adea-41c3-851a-8882e222d9e4"
+  },
+  "678d05bc-ea79-45ad-bdce-7a06a7cd9a54": {
+   "closed_at": null,
+   "department": "Finance",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "revenue accounting manager @ palo alto, ca",
+   "location": "Palo Alto, CA",
+   "posted_at": "2026-04-28T16:17:23+00:00",
+   "posted_history": [
+    "2026-04-28T16:17:23+00:00"
+   ],
+   "reopened": 0,
+   "title": "Revenue Accounting Manager",
+   "url": "https://jobs.lever.co/palantir/678d05bc-ea79-45ad-bdce-7a06a7cd9a54"
+  },
+  "689e6869-01bc-40f1-b580-adb33a020065": {
+   "closed_at": null,
+   "department": "Product Development",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed reliability engineer @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-02-10T14:31:06+00:00",
+   "posted_history": [
+    "2026-02-10T14:31:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Reliability Engineer",
+   "url": "https://jobs.lever.co/palantir/689e6869-01bc-40f1-b580-adb33a020065"
+  },
+  "68d690cf-fc8a-4755-9b69-abe13f93d262": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "senior software engineer substrate @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2024-02-27T19:23:01+00:00",
+   "posted_history": [
+    "2024-02-27T19:23:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Substrate",
+   "url": "https://jobs.lever.co/palantir/68d690cf-fc8a-4755-9b69-abe13f93d262"
+  },
+  "6a104c4e-35d4-4a1f-98ef-bec00ae4b458": {
+   "closed_at": null,
+   "department": "Echo",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "deployment strategist build to apply us government @ san diego, ca",
+   "location": "San Diego, CA",
+   "posted_at": "2026-02-11T00:06:55+00:00",
+   "posted_history": [
+    "2026-02-11T00:06:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Deployment Strategist, Build to Apply - US Government",
+   "url": "https://jobs.lever.co/palantir/6a104c4e-35d4-4a1f-98ef-bec00ae4b458"
+  },
+  "6a82fd06-5754-46c2-8214-9ca4cd89fb9d": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "web application developer defense @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2024-03-05T18:34:47+00:00",
+   "posted_history": [
+    "2024-03-05T18:34:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Web Application Developer - Defense",
+   "url": "https://jobs.lever.co/palantir/6a82fd06-5754-46c2-8214-9ca4cd89fb9d"
+  },
+  "6ed76ce8-4156-4b60-b120-403538bd66cd": {
+   "closed_at": null,
+   "department": "Administrative",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "administrative business partner @ singapore, singapore",
+   "location": "Singapore, Singapore",
+   "posted_at": "2026-08-11T17:38:11+00:00",
+   "posted_history": [
+    "2026-08-11T17:38:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Administrative Business Partner",
+   "url": "https://jobs.lever.co/palantir/6ed76ce8-4156-4b60-b120-403538bd66cd"
+  },
+  "6f5cf287-1d3e-4c10-abf6-18cf4c955ded": {
+   "closed_at": null,
+   "department": "Echo",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "deployment strategist us government @ honolulu, hi",
+   "location": "Honolulu, HI",
+   "posted_at": "2022-04-11T18:06:00+00:00",
+   "posted_history": [
+    "2022-04-11T18:06:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Deployment Strategist - US Government",
+   "url": "https://jobs.lever.co/palantir/6f5cf287-1d3e-4c10-abf6-18cf4c955ded"
+  },
+  "6fe5515f-f677-4d98-8ac2-1775a425f5e7": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "backend software engineer infrastructure @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2025-08-06T19:28:07+00:00",
+   "posted_history": [
+    "2025-08-06T19:28:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Backend Software Engineer - Infrastructure",
+   "url": "https://jobs.lever.co/palantir/6fe5515f-f677-4d98-8ac2-1775a425f5e7"
+  },
+  "701a9307-0619-45d3-b077-cabe9897cd12": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed infrastructure engineer new grad us government @ honolulu, hi",
+   "location": "Honolulu, HI",
+   "posted_at": "2026-08-31T16:27:36+00:00",
+   "posted_history": [
+    "2026-08-31T16:27:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
+   "url": "https://jobs.lever.co/palantir/701a9307-0619-45d3-b077-cabe9897cd12"
+  },
+  "70facf19-1508-4fb9-bee9-d731aafada56": {
+   "closed_at": null,
+   "department": "Echo",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "deployment strategist build to apply us government @ honolulu, hi",
+   "location": "Honolulu, HI",
+   "posted_at": "2026-02-11T00:06:16+00:00",
+   "posted_history": [
+    "2026-02-11T00:06:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Deployment Strategist, Build to Apply - US Government",
+   "url": "https://jobs.lever.co/palantir/70facf19-1508-4fb9-bee9-d731aafada56"
+  },
+  "7177acab-5c64-4005-9b28-93f33b3e172a": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "senior backend software engineer application development @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-04-06T14:20:37+00:00",
+   "posted_history": [
+    "2026-04-06T14:20:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Backend Software Engineer - Application Development",
+   "url": "https://jobs.lever.co/palantir/7177acab-5c64-4005-9b28-93f33b3e172a"
+  },
+  "71ed917e-850a-484b-9454-fa66bdf24540": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "software engineer frontend developer productivity @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2024-02-23T19:19:45+00:00",
+   "posted_history": [
+    "2024-02-23T19:19:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer - Frontend Developer Productivity",
+   "url": "https://jobs.lever.co/palantir/71ed917e-850a-484b-9454-fa66bdf24540"
+  },
+  "721fe5ca-73b8-4223-826e-93a528194821": {
+   "closed_at": null,
+   "department": "Information Security",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "platform engineer identity infrastructure @ palo alto, ca",
+   "location": "Palo Alto, CA",
+   "posted_at": "2026-08-04T21:07:54+00:00",
+   "posted_history": [
+    "2026-08-04T21:07:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Platform Engineer - Identity Infrastructure",
+   "url": "https://jobs.lever.co/palantir/721fe5ca-73b8-4223-826e-93a528194821"
+  },
+  "72e51928-07f0-4be0-aae5-0ae6956a4846": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed infrastructure engineer uk government @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2025-08-07T07:32:41+00:00",
+   "posted_history": [
+    "2025-08-07T07:32:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Infrastructure Engineer - UK Government",
+   "url": "https://jobs.lever.co/palantir/72e51928-07f0-4be0-aae5-0ae6956a4846"
+  },
+  "73d1a90c-162d-4cb6-9e0c-4c8de9561ad0": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed software engineer nato @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2026-07-23T12:53:46+00:00",
+   "posted_history": [
+    "2026-07-23T12:53:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Software Engineer - NATO",
+   "url": "https://jobs.lever.co/palantir/73d1a90c-162d-4cb6-9e0c-4c8de9561ad0"
+  },
+  "74748e0e-a0bc-4c53-a636-ef14e36d9b5e": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed infrastructure engineer us government @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2023-09-14T01:31:59+00:00",
+   "posted_history": [
+    "2023-09-14T01:31:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Infrastructure Engineer - US Government",
+   "url": "https://jobs.lever.co/palantir/74748e0e-a0bc-4c53-a636-ef14e36d9b5e"
+  },
+  "74aed644-d963-4c5d-b7a0-149bc35f9c50": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "mixed reality developer @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2023-06-15T14:45:11+00:00",
+   "posted_history": [
+    "2023-06-15T14:45:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Mixed Reality Developer",
+   "url": "https://jobs.lever.co/palantir/74aed644-d963-4c5d-b7a0-149bc35f9c50"
+  },
+  "75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "year at palantir forward deployed software engineer internship commercial @ chicago, il",
+   "location": "Chicago, IL",
+   "posted_at": "2026-06-24T19:13:14+00:00",
+   "posted_history": [
+    "2026-06-24T19:13:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial",
+   "url": "https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3"
+  },
+  "76161763-bafa-4ebb-a2ce-2a25e315b7d7": {
+   "closed_at": null,
+   "department": "Design",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "product designer new grad @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2025-08-12T16:38:56+00:00",
+   "posted_history": [
+    "2025-08-12T16:38:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Designer, New Grad",
+   "url": "https://jobs.lever.co/palantir/76161763-bafa-4ebb-a2ce-2a25e315b7d7"
+  },
+  "76a60923-bb49-40f5-b061-7c7eb1299602": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "software engineer internship @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2021-07-01T22:03:51+00:00",
+   "posted_history": [
+    "2021-07-01T22:03:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Internship",
+   "url": "https://jobs.lever.co/palantir/76a60923-bb49-40f5-b061-7c7eb1299602"
+  },
+  "774cf5c9-bf6a-4d77-bf60-d50ef1beb1a0": {
+   "closed_at": null,
+   "department": "Echo",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "deployment strategist internship @ paris, france",
+   "location": "Paris, France",
+   "posted_at": "2026-05-11T16:31:48+00:00",
+   "posted_history": [
+    "2026-05-11T16:31:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "Deployment Strategist, Internship",
+   "url": "https://jobs.lever.co/palantir/774cf5c9-bf6a-4d77-bf60-d50ef1beb1a0"
+  },
+  "79c3f906-622b-4261-8fc6-8af0028caa27": {
+   "closed_at": null,
+   "department": "Echo",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "deployment strategist @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2013-03-08T00:00:00+00:00",
+   "posted_history": [
+    "2013-03-08T00:00:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Deployment Strategist",
+   "url": "https://jobs.lever.co/palantir/79c3f906-622b-4261-8fc6-8af0028caa27"
+  },
+  "7a9600be-cdcb-4311-bb5c-65b6939b5956": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "software engineer hosted model infrastructure @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2026-06-03T19:38:40+00:00",
+   "posted_history": [
+    "2026-06-03T19:38:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer - Hosted Model Infrastructure",
+   "url": "https://jobs.lever.co/palantir/7a9600be-cdcb-4311-bb5c-65b6939b5956"
+  },
+  "7d69cf8a-06fd-4f05-bd84-27149db29c4d": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "software engineer internship @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2022-06-30T21:19:00+00:00",
+   "posted_history": [
+    "2022-06-30T21:19:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Internship",
+   "url": "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d"
+  },
+  "7d75bed5-45d8-4876-840a-2d92ea79c98d": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "software engineer new grad infrastructure @ palo alto, ca",
+   "location": "Palo Alto, CA",
+   "posted_at": "2025-08-19T09:45:38+00:00",
+   "posted_history": [
+    "2025-08-19T09:45:38+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, New Grad - Infrastructure",
+   "url": "https://jobs.lever.co/palantir/7d75bed5-45d8-4876-840a-2d92ea79c98d"
+  },
+  "7d91ca36-1e23-4603-b0f1-82a835e27d3f": {
+   "closed_at": null,
+   "department": "Mission Operations",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "site reliability operations analyst us government @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2020-04-13T18:15:01+00:00",
+   "posted_history": [
+    "2020-04-13T18:15:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "Site Reliability Operations Analyst - US Government",
+   "url": "https://jobs.lever.co/palantir/7d91ca36-1e23-4603-b0f1-82a835e27d3f"
+  },
+  "7dc7e7c3-39bf-4f4e-a8eb-e38a4a0af238": {
+   "closed_at": null,
+   "department": "Finance",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "mobility tax analyst @ palo alto, ca",
+   "location": "Palo Alto, CA",
+   "posted_at": "2026-05-28T20:55:51+00:00",
+   "posted_history": [
+    "2026-05-28T20:55:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Mobility Tax Analyst",
+   "url": "https://jobs.lever.co/palantir/7dc7e7c3-39bf-4f4e-a8eb-e38a4a0af238"
+  },
+  "7eb0dedb-37ee-4175-b29f-10a9e4340076": {
+   "closed_at": null,
+   "department": "Product Development",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "technical program manager @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2021-05-07T21:20:47+00:00",
+   "posted_history": [
+    "2021-05-07T21:20:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Program Manager (TPM)",
+   "url": "https://jobs.lever.co/palantir/7eb0dedb-37ee-4175-b29f-10a9e4340076"
+  },
+  "7fa0ceca-c30e-48de-9b27-f98469c374f3": {
+   "closed_at": null,
+   "department": "Business Development",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "meritocracy fellowship @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2025-04-09T13:05:08+00:00",
+   "posted_history": [
+    "2025-04-09T13:05:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "Meritocracy Fellowship",
+   "url": "https://jobs.lever.co/palantir/7fa0ceca-c30e-48de-9b27-f98469c374f3"
+  },
+  "802add74-04cf-479c-9479-ff3043940e29": {
+   "closed_at": null,
+   "department": "Echo",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "deployment strategist us government @ kitsap, wa",
+   "location": "Kitsap, WA",
+   "posted_at": "2026-09-24T14:53:54+00:00",
+   "posted_history": [
+    "2026-09-24T14:53:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Deployment Strategist - US Government",
+   "url": "https://jobs.lever.co/palantir/802add74-04cf-479c-9479-ff3043940e29"
+  },
+  "832e4652-5088-4e5b-aeac-1e82ec3ebad4": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "software engineer apollo systems @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2025-11-10T21:27:18+00:00",
+   "posted_history": [
+    "2025-11-10T21:27:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer - Apollo Systems",
+   "url": "https://jobs.lever.co/palantir/832e4652-5088-4e5b-aeac-1e82ec3ebad4"
+  },
+  "838bce97-415d-4cdc-95ea-904005feb131": {
+   "closed_at": null,
+   "department": "Technical Operations",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "support engineer @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-05-19T18:25:52+00:00",
+   "posted_history": [
+    "2026-05-19T18:25:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "Support Engineer",
+   "url": "https://jobs.lever.co/palantir/838bce97-415d-4cdc-95ea-904005feb131"
+  },
+  "84131e3f-455e-47fc-9c11-898d95f09048": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed software engineer us government @ san diego, ca",
+   "location": "San Diego, CA",
+   "posted_at": "2025-07-29T19:30:16+00:00",
+   "posted_history": [
+    "2025-07-29T19:30:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Software Engineer - US Government",
+   "url": "https://jobs.lever.co/palantir/84131e3f-455e-47fc-9c11-898d95f09048"
+  },
+  "842d6bc5-823c-4a77-8839-3f0f427bcd8c": {
+   "closed_at": null,
+   "department": "Echo",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "deployment strategist build to apply us government @ colorado springs, co",
+   "location": "Colorado Springs, CO",
+   "posted_at": "2026-02-11T17:06:56+00:00",
+   "posted_history": [
+    "2026-02-11T17:06:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Deployment Strategist, Build to Apply - US Government",
+   "url": "https://jobs.lever.co/palantir/842d6bc5-823c-4a77-8839-3f0f427bcd8c"
+  },
+  "8704b8c0-80b3-48b1-a82c-939994a0316c": {
+   "closed_at": null,
+   "department": "Global Security and Investigations",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "security systems engineer @ denver, co",
+   "location": "Denver, CO",
+   "posted_at": "2018-11-13T19:28:20+00:00",
+   "posted_history": [
+    "2018-11-13T19:28:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Security Systems Engineer",
+   "url": "https://jobs.lever.co/palantir/8704b8c0-80b3-48b1-a82c-939994a0316c"
+  },
+  "88f8f593-af1f-4d27-9042-454c24a64d3f": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "senior software engineer autonomous systems @ seattle, wa",
+   "location": "Seattle, WA",
+   "posted_at": "2025-10-07T17:05:52+00:00",
+   "posted_history": [
+    "2025-10-07T17:05:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer - Autonomous Systems",
+   "url": "https://jobs.lever.co/palantir/88f8f593-af1f-4d27-9042-454c24a64d3f"
+  },
+  "89a77547-8b74-45b2-8590-f04b16e19a59": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "senior software engineer network infrastructure @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2025-08-08T21:32:00+00:00",
+   "posted_history": [
+    "2025-08-08T21:32:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Network Infrastructure",
+   "url": "https://jobs.lever.co/palantir/89a77547-8b74-45b2-8590-f04b16e19a59"
+  },
+  "8a95dba1-b814-4243-be14-eba1df340ceb": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "senior software engineer observability @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2022-10-17T16:50:25+00:00",
+   "posted_history": [
+    "2022-10-17T16:50:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer - Observability",
+   "url": "https://jobs.lever.co/palantir/8a95dba1-b814-4243-be14-eba1df340ceb"
+  },
+  "8aba5995-653d-4805-96e8-24488e6abf37": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed software engineer japan forward deployed @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2024-10-03T13:41:24+00:00",
+   "posted_history": [
+    "2024-10-03T13:41:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Software Engineer - Japan Forward Deployed",
+   "url": "https://jobs.lever.co/palantir/8aba5995-653d-4805-96e8-24488e6abf37"
+  },
+  "8aec0fba-0ac9-48a5-8f54-f2d8465d6698": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "software engineer mission manager @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2025-08-08T21:32:54+00:00",
+   "posted_history": [
+    "2025-08-08T21:32:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer - Mission Manager",
+   "url": "https://jobs.lever.co/palantir/8aec0fba-0ac9-48a5-8f54-f2d8465d6698"
+  },
+  "8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "software engineer internship defense tech @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2024-08-05T23:27:08+00:00",
+   "posted_history": [
+    "2024-08-05T23:27:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Internship - Defense Tech",
+   "url": "https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e"
+  },
+  "8c95f750-9d42-456e-91fd-464ad87e4b83": {
+   "closed_at": null,
+   "department": "Echo",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "deployment strategist warp speed @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2025-02-07T22:41:07+00:00",
+   "posted_history": [
+    "2025-02-07T22:41:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Deployment Strategist - Warp Speed",
+   "url": "https://jobs.lever.co/palantir/8c95f750-9d42-456e-91fd-464ad87e4b83"
+  },
+  "8f308f3e-43d2-49c9-accd-cc7af0f1565c": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "software engineer apollo platform @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2022-08-10T22:59:02+00:00",
+   "posted_history": [
+    "2022-08-10T22:59:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer - Apollo Platform",
+   "url": "https://jobs.lever.co/palantir/8f308f3e-43d2-49c9-accd-cc7af0f1565c"
+  },
+  "8f362a1f-1eff-4327-94c1-ff46e2101c69": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed infrastructure engineer internship us government @ palo alto, ca",
+   "location": "Palo Alto, CA",
+   "posted_at": "2026-07-10T22:43:13+00:00",
+   "posted_history": [
+    "2026-07-10T22:43:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Infrastructure Engineer, Internship - US Government",
+   "url": "https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69"
+  },
+  "8f7bbffa-92aa-4d25-9586-943b3322a27d": {
+   "closed_at": null,
+   "department": "Design",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "product designer internship us government @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2025-08-12T18:31:27+00:00",
+   "posted_history": [
+    "2025-08-12T18:31:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Designer, Internship - US Government",
+   "url": "https://jobs.lever.co/palantir/8f7bbffa-92aa-4d25-9586-943b3322a27d"
+  },
+  "909875b4-1940-41bd-b08d-a269c7235100": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed software engineer aus government @ sydney, australia",
+   "location": "Sydney, Australia",
+   "posted_at": "2024-09-05T10:44:25+00:00",
+   "posted_history": [
+    "2024-09-05T10:44:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Software Engineer - AUS Government",
+   "url": "https://jobs.lever.co/palantir/909875b4-1940-41bd-b08d-a269c7235100"
+  },
+  "90aa8748-3fef-4e2b-9ea9-c4dc5f37f0d2": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed software engineer @ abu dhabi, united arab emirates",
+   "location": "Abu Dhabi, United Arab Emirates",
+   "posted_at": "2022-10-05T17:24:59+00:00",
+   "posted_history": [
+    "2022-10-05T17:24:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Software Engineer",
+   "url": "https://jobs.lever.co/palantir/90aa8748-3fef-4e2b-9ea9-c4dc5f37f0d2"
+  },
+  "91117724-9389-48dc-912f-98e48d4d45d8": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed infrastructure engineer new grad us government @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2025-10-29T18:27:22+00:00",
+   "posted_history": [
+    "2025-10-29T18:27:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
+   "url": "https://jobs.lever.co/palantir/91117724-9389-48dc-912f-98e48d4d45d8"
+  },
+  "9265acce-12cd-4179-8c50-55d15963532b": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "software engineer new grad infrastructure @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2025-06-26T01:13:54+00:00",
+   "posted_history": [
+    "2025-06-26T01:13:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, New Grad - Infrastructure",
+   "url": "https://jobs.lever.co/palantir/9265acce-12cd-4179-8c50-55d15963532b"
+  },
+  "94984771-0704-446c-88c6-91ce748f6d92": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "software engineer new grad @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2021-07-01T20:24:57+00:00",
+   "posted_history": [
+    "2021-07-01T20:24:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, New Grad",
+   "url": "https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92"
+  },
+  "95a76f41-97a4-4696-ade3-9c5a47a569c7": {
+   "closed_at": null,
+   "department": "Product Development",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "technical writer @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2021-08-12T01:08:01+00:00",
+   "posted_history": [
+    "2021-08-12T01:08:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Writer",
+   "url": "https://jobs.lever.co/palantir/95a76f41-97a4-4696-ade3-9c5a47a569c7"
+  },
+  "95e0d2b0-437a-4096-a5c6-0f247f426c90": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "privacy civil liberties engineer new grad @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-06-25T19:00:58+00:00",
+   "posted_history": [
+    "2026-06-25T19:00:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Privacy & Civil Liberties Engineer - New Grad",
+   "url": "https://jobs.lever.co/palantir/95e0d2b0-437a-4096-a5c6-0f247f426c90"
+  },
+  "9675791e-59c3-4677-ac62-0c80c38da2eb": {
+   "closed_at": null,
+   "department": "Legal",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "commercial contracts specialist @ palo alto, ca",
+   "location": "Palo Alto, CA",
+   "posted_at": "2022-03-24T19:38:53+00:00",
+   "posted_history": [
+    "2022-03-24T19:38:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "Commercial Contracts Specialist",
+   "url": "https://jobs.lever.co/palantir/9675791e-59c3-4677-ac62-0c80c38da2eb"
+  },
+  "96a0ce26-cf84-4fa8-934b-acc4363620b2": {
+   "closed_at": null,
+   "department": "Product Development",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed engineer mixed reality @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2025-02-07T18:53:43+00:00",
+   "posted_history": [
+    "2025-02-07T18:53:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Engineer - Mixed Reality",
+   "url": "https://jobs.lever.co/palantir/96a0ce26-cf84-4fa8-934b-acc4363620b2"
+  },
+  "96e4295f-3af7-48e5-a2c8-74622eaf5587": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "web application developer defense @ palo alto, ca",
+   "location": "Palo Alto, CA",
+   "posted_at": "2024-03-05T18:36:22+00:00",
+   "posted_history": [
+    "2024-03-05T18:36:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Web Application Developer - Defense",
+   "url": "https://jobs.lever.co/palantir/96e4295f-3af7-48e5-a2c8-74622eaf5587"
+  },
+  "9804d4d1-bd2f-42d5-ae3e-3e3e51aa3830": {
+   "closed_at": null,
+   "department": "Legal",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "corporate counsel @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2024-03-01T20:44:25+00:00",
+   "posted_history": [
+    "2024-03-01T20:44:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Corporate Counsel",
+   "url": "https://jobs.lever.co/palantir/9804d4d1-bd2f-42d5-ae3e-3e3e51aa3830"
+  },
+  "98b81271-9e15-40b7-8dce-0c62f24702f9": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed software engineer @ vilnius, lithuania",
+   "location": "Vilnius, Lithuania",
+   "posted_at": "2022-01-26T23:55:32+00:00",
+   "posted_history": [
+    "2022-01-26T23:55:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Software Engineer",
+   "url": "https://jobs.lever.co/palantir/98b81271-9e15-40b7-8dce-0c62f24702f9"
+  },
+  "98bbe55b-f591-4272-a486-d82404d2c576": {
+   "closed_at": null,
+   "department": "Business Development",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "site reliability operations analyst uk government @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2024-08-27T14:04:29+00:00",
+   "posted_history": [
+    "2024-08-27T14:04:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Site Reliability Operations Analyst - UK Government",
+   "url": "https://jobs.lever.co/palantir/98bbe55b-f591-4272-a486-d82404d2c576"
+  },
+  "98c244fc-444b-43ba-b152-30227191170b": {
+   "closed_at": null,
+   "department": "Global Security and Investigations",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "security systems engineer @ seattle, wa",
+   "location": "Seattle, WA",
+   "posted_at": "2026-09-23T20:22:09+00:00",
+   "posted_history": [
+    "2026-09-23T20:22:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Security Systems Engineer",
+   "url": "https://jobs.lever.co/palantir/98c244fc-444b-43ba-b152-30227191170b"
+  },
+  "99ab8dbd-fd69-4216-8c2a-09a202a1cb17": {
+   "closed_at": null,
+   "department": "People",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "people partner @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2020-08-04T23:52:53+00:00",
+   "posted_history": [
+    "2020-08-04T23:52:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "People Partner",
+   "url": "https://jobs.lever.co/palantir/99ab8dbd-fd69-4216-8c2a-09a202a1cb17"
+  },
+  "9d0cf52c-089a-41fd-93ee-3d501c8c14d8": {
+   "closed_at": null,
+   "department": "Legal",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "contract operations @ denver, co",
+   "location": "Denver, CO",
+   "posted_at": "2026-09-25T15:29:21+00:00",
+   "posted_history": [
+    "2026-09-25T15:29:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Contract Operations",
+   "url": "https://jobs.lever.co/palantir/9d0cf52c-089a-41fd-93ee-3d501c8c14d8"
+  },
+  "9db71277-3a9a-481b-a2a3-25c3125b0e8a": {
+   "closed_at": null,
+   "department": "Design",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "product designer internship us government @ palo alto, ca",
+   "location": "Palo Alto, CA",
+   "posted_at": "2026-07-31T21:35:37+00:00",
+   "posted_history": [
+    "2026-07-31T21:35:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Designer, Internship - US Government",
+   "url": "https://jobs.lever.co/palantir/9db71277-3a9a-481b-a2a3-25c3125b0e8a"
+  },
+  "a114f925-b5cb-4076-bf68-c77310754aec": {
+   "closed_at": null,
+   "department": "Recruiting",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "talent coordinator @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2024-12-18T01:41:21+00:00",
+   "posted_history": [
+    "2024-12-18T01:41:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Talent Coordinator",
+   "url": "https://jobs.lever.co/palantir/a114f925-b5cb-4076-bf68-c77310754aec"
+  },
+  "a194220b-684a-4b4e-b918-1f70154b464c": {
+   "closed_at": null,
+   "department": "Business Development",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed site reliability engineer us government @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2025-05-29T22:37:51+00:00",
+   "posted_history": [
+    "2025-05-29T22:37:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Site Reliability Engineer - US Government",
+   "url": "https://jobs.lever.co/palantir/a194220b-684a-4b4e-b918-1f70154b464c"
+  },
+  "a237973c-cb29-41fe-9c80-416e6f42e087": {
+   "closed_at": null,
+   "department": "Administrative",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "administrative business partner shipos @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2026-06-18T08:34:20+00:00",
+   "posted_history": [
+    "2026-06-18T08:34:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Administrative Business Partner - ShipOS",
+   "url": "https://jobs.lever.co/palantir/a237973c-cb29-41fe-9c80-416e6f42e087"
+  },
+  "a2e9ab0f-4dd1-4744-92b9-edc7ae393c58": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed software engineer us government @ kitsap, wa",
+   "location": "Kitsap, WA",
+   "posted_at": "2026-09-24T14:50:21+00:00",
+   "posted_history": [
+    "2026-09-24T14:50:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Software Engineer - US Government",
+   "url": "https://jobs.lever.co/palantir/a2e9ab0f-4dd1-4744-92b9-edc7ae393c58"
+  },
+  "a39bf84c-6648-4871-bd07-9b882d401c4c": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed software engineer korea forward deployed @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2024-10-03T13:32:57+00:00",
+   "posted_history": [
+    "2024-10-03T13:32:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Software Engineer - Korea Forward Deployed",
+   "url": "https://jobs.lever.co/palantir/a39bf84c-6648-4871-bd07-9b882d401c4c"
+  },
+  "a3eaa0ef-3378-495f-8308-edbd9a93d26c": {
+   "closed_at": null,
+   "department": "Communications",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "web design engineer @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-06-23T20:45:30+00:00",
+   "posted_history": [
+    "2026-06-23T20:45:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Web Design Engineer",
+   "url": "https://jobs.lever.co/palantir/a3eaa0ef-3378-495f-8308-edbd9a93d26c"
+  },
+  "a468565d-8502-4baf-8788-b7ffe233b725": {
+   "closed_at": null,
+   "department": "Business Development",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "operations analyst us government security @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2026-10-16T14:07:56+00:00",
+   "posted_history": [
+    "2026-10-16T14:07:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Operations Analyst - US Government Security",
+   "url": "https://jobs.lever.co/palantir/a468565d-8502-4baf-8788-b7ffe233b725"
+  },
+  "a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "software engineer internship defense tech @ palo alto, ca",
+   "location": "Palo Alto, CA",
+   "posted_at": "2024-08-05T23:26:42+00:00",
+   "posted_history": [
+    "2024-08-05T23:26:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Internship - Defense Tech",
+   "url": "https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d"
+  },
+  "a49d4181-a289-435a-b581-7f5af0497c8e": {
+   "closed_at": null,
+   "department": "Echo",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "deployment strategist internship us government @ honolulu, hi",
+   "location": "Honolulu, HI",
+   "posted_at": "2025-12-11T22:31:15+00:00",
+   "posted_history": [
+    "2025-12-11T22:31:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Deployment Strategist, Internship - US Government",
+   "url": "https://jobs.lever.co/palantir/a49d4181-a289-435a-b581-7f5af0497c8e"
+  },
+  "a576c5ef-2a51-4522-9c98-bca5ac2abbb3": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "software engineer query engines @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-09-25T10:28:07+00:00",
+   "posted_history": [
+    "2026-09-25T10:28:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer – Query Engines",
+   "url": "https://jobs.lever.co/palantir/a576c5ef-2a51-4522-9c98-bca5ac2abbb3"
+  },
+  "a5f93bb6-4f13-4451-80a4-f63090830269": {
+   "closed_at": null,
+   "department": "Administrative",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "administrative business partner shipos @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-06-18T08:33:52+00:00",
+   "posted_history": [
+    "2026-06-18T08:33:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "Administrative Business Partner - ShipOS",
+   "url": "https://jobs.lever.co/palantir/a5f93bb6-4f13-4451-80a4-f63090830269"
+  },
+  "a753a9e7-a361-426b-9c25-3cf2488c1730": {
+   "closed_at": null,
+   "department": "Product Development",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "platform intelligence engineer @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2025-12-15T21:11:27+00:00",
+   "posted_history": [
+    "2025-12-15T21:11:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Platform Intelligence Engineer",
+   "url": "https://jobs.lever.co/palantir/a753a9e7-a361-426b-9c25-3cf2488c1730"
+  },
+  "a7a77fc5-9f68-4ded-aad7-4814d96cb316": {
+   "closed_at": null,
+   "department": "Business Development",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "deal team business affairs @ palo alto, ca",
+   "location": "Palo Alto, CA",
+   "posted_at": "2021-09-14T21:26:12+00:00",
+   "posted_history": [
+    "2021-09-14T21:26:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Deal Team - Business Affairs",
+   "url": "https://jobs.lever.co/palantir/a7a77fc5-9f68-4ded-aad7-4814d96cb316"
+  },
+  "a80afc2b-2564-4a98-84c2-34cdcc0402df": {
+   "closed_at": null,
+   "department": "Information Security",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "platform engineer identity infrastructure @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2026-08-04T21:07:28+00:00",
+   "posted_history": [
+    "2026-08-04T21:07:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Platform Engineer - Identity Infrastructure",
+   "url": "https://jobs.lever.co/palantir/a80afc2b-2564-4a98-84c2-34cdcc0402df"
+  },
+  "a8174f9c-6f46-46b4-8e15-d1ff9e37c9eb": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "backend software engineer defense @ palo alto, ca",
+   "location": "Palo Alto, CA",
+   "posted_at": "2025-02-24T22:19:12+00:00",
+   "posted_history": [
+    "2025-02-24T22:19:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Backend Software Engineer - Defense",
+   "url": "https://jobs.lever.co/palantir/a8174f9c-6f46-46b4-8e15-d1ff9e37c9eb"
+  },
+  "a8eb96f4-e39b-4c0f-b42e-610165b88f34": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed software engineer @ munich, germany",
+   "location": "Munich, Germany",
+   "posted_at": "2021-02-12T23:39:20+00:00",
+   "posted_history": [
+    "2021-02-12T23:39:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Software Engineer",
+   "url": "https://jobs.lever.co/palantir/a8eb96f4-e39b-4c0f-b42e-610165b88f34"
+  },
+  "a90eb029-19cc-413c-bd51-b8411053d7d4": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed enablement engineer customer success @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2025-10-16T14:28:21+00:00",
+   "posted_history": [
+    "2025-10-16T14:28:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Enablement Engineer - Customer Success",
+   "url": "https://jobs.lever.co/palantir/a90eb029-19cc-413c-bd51-b8411053d7d4"
+  },
+  "a92b55d0-1d36-4884-8e65-f456450b3a74": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "senior backend software engineer application development @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2026-04-06T14:20:18+00:00",
+   "posted_history": [
+    "2026-04-06T14:20:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Backend Software Engineer - Application Development",
+   "url": "https://jobs.lever.co/palantir/a92b55d0-1d36-4884-8e65-f456450b3a74"
+  },
+  "a9788f77-d6d2-4ef9-9d57-7002d587b84f": {
+   "closed_at": null,
+   "department": "Global Security and Investigations",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "security systems engineer @ palo alto, ca",
+   "location": "Palo Alto, CA",
+   "posted_at": "2016-12-08T22:18:29+00:00",
+   "posted_history": [
+    "2016-12-08T22:18:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Security Systems Engineer",
+   "url": "https://jobs.lever.co/palantir/a9788f77-d6d2-4ef9-9d57-7002d587b84f"
+  },
+  "aa77156e-de75-4f36-9d2a-4ec04f97b3c6": {
+   "closed_at": null,
+   "department": "Legal",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "risk and compliance specialist global trade @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2025-01-22T00:19:05+00:00",
+   "posted_history": [
+    "2025-01-22T00:19:05+00:00"
+   ],
+   "reopened": 0,
+   "title": "Risk and Compliance Specialist - Global Trade",
+   "url": "https://jobs.lever.co/palantir/aa77156e-de75-4f36-9d2a-4ec04f97b3c6"
+  },
+  "aaee4d20-7f1b-48b1-ad23-d52ffbf42a49": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "backend software engineer infrastructure foundations @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2026-03-26T12:35:39+00:00",
+   "posted_history": [
+    "2026-03-26T12:35:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Backend Software Engineer - Infrastructure, Foundations",
+   "url": "https://jobs.lever.co/palantir/aaee4d20-7f1b-48b1-ad23-d52ffbf42a49"
+  },
+  "ab7e3425-81d5-4705-a7b5-cd60c8a45cdb": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "backend software engineer application development @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2024-03-11T21:04:42+00:00",
+   "posted_history": [
+    "2024-03-11T21:04:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Backend Software Engineer - Application Development",
+   "url": "https://jobs.lever.co/palantir/ab7e3425-81d5-4705-a7b5-cd60c8a45cdb"
+  },
+  "ac0dc094-2480-43c2-8495-26ade227ff4f": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed software engineer internship france @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-03-10T12:26:55+00:00",
+   "posted_history": [
+    "2026-03-10T12:26:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Software Engineer, Internship - France",
+   "url": "https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f"
+  },
+  "ac978161-6f46-4f6b-ad9e-a258e642751c": {
+   "closed_at": null,
+   "department": "Administrative",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "administrative business partner @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2024-03-25T21:50:16+00:00",
+   "posted_history": [
+    "2024-03-25T21:50:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Administrative Business Partner",
+   "url": "https://jobs.lever.co/palantir/ac978161-6f46-4f6b-ad9e-a258e642751c"
+  },
+  "afea07a8-2721-45e6-a9ca-6580f3f9783c": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "software engineer apollo platform @ seattle, wa",
+   "location": "Seattle, WA",
+   "posted_at": "2022-08-10T22:58:00+00:00",
+   "posted_history": [
+    "2022-08-10T22:58:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer - Apollo Platform",
+   "url": "https://jobs.lever.co/palantir/afea07a8-2721-45e6-a9ca-6580f3f9783c"
+  },
+  "b0ae5f2e-ef97-437b-b2e1-a3098ecc154f": {
+   "closed_at": null,
+   "department": "Finance",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "senior manager corporate accounting @ palo alto, ca",
+   "location": "Palo Alto, CA",
+   "posted_at": "2022-01-19T14:35:04+00:00",
+   "posted_history": [
+    "2022-01-19T14:35:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Corporate Accounting",
+   "url": "https://jobs.lever.co/palantir/b0ae5f2e-ef97-437b-b2e1-a3098ecc154f"
+  },
+  "b0e1823a-fbe7-4c9d-a4d3-a1e738db2589": {
+   "closed_at": null,
+   "department": "Information Security",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "information security engineer insider risk @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2026-04-14T14:32:19+00:00",
+   "posted_history": [
+    "2026-04-14T14:32:19+00:00"
+   ],
+   "reopened": 0,
+   "title": "Information Security Engineer - Insider Risk",
+   "url": "https://jobs.lever.co/palantir/b0e1823a-fbe7-4c9d-a4d3-a1e738db2589"
+  },
+  "b11a97bd-ac86-4cf8-a008-ffe1772a190a": {
+   "closed_at": null,
+   "department": "Product Development",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "technical writer @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2021-08-12T01:08:45+00:00",
+   "posted_history": [
+    "2021-08-12T01:08:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Writer",
+   "url": "https://jobs.lever.co/palantir/b11a97bd-ac86-4cf8-a008-ffe1772a190a"
+  },
+  "b229baac-494b-4a0d-9a13-2e38806e06f3": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "software engineer internship infrastructure @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2025-06-26T15:01:02+00:00",
+   "posted_history": [
+    "2025-06-26T15:01:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Internship - Infrastructure",
+   "url": "https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3"
+  },
+  "b4aa51a2-bc43-4d67-bf55-12db7feefb3a": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed software engineer new grad uk government @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2021-07-01T17:35:48+00:00",
+   "posted_history": [
+    "2021-07-01T17:35:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Software Engineer, New Grad - UK Government",
+   "url": "https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a"
+  },
+  "b5362bc1-8a07-44e2-9ddc-cb4236aa0f20": {
+   "closed_at": null,
+   "department": "Information Security",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "technical program manager security @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-07-20T14:50:36+00:00",
+   "posted_history": [
+    "2026-07-20T14:50:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Program Manager - Security",
+   "url": "https://jobs.lever.co/palantir/b5362bc1-8a07-44e2-9ddc-cb4236aa0f20"
+  },
+  "b57f08e9-546c-4b9b-8d21-db0ebbc11363": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed infrastructure engineer us government @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2023-09-14T01:23:51+00:00",
+   "posted_history": [
+    "2023-09-14T01:23:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Infrastructure Engineer - US Government",
+   "url": "https://jobs.lever.co/palantir/b57f08e9-546c-4b9b-8d21-db0ebbc11363"
+  },
+  "b5ad6660-8145-4be5-97e2-3799f2912f5b": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "senior backend software engineer infrastructure @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-04-06T14:21:34+00:00",
+   "posted_history": [
+    "2026-04-06T14:21:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Backend Software Engineer - Infrastructure",
+   "url": "https://jobs.lever.co/palantir/b5ad6660-8145-4be5-97e2-3799f2912f5b"
+  },
+  "b72abc17-293d-47e0-a094-c1ab0016b794": {
+   "closed_at": null,
+   "department": "Product Support",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "incident management engineer @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2022-06-28T09:21:31+00:00",
+   "posted_history": [
+    "2022-06-28T09:21:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Incident Management Engineer",
+   "url": "https://jobs.lever.co/palantir/b72abc17-293d-47e0-a094-c1ab0016b794"
+  },
+  "b80d45be-7fe8-4a11-b159-65551320c61f": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "senior software engineer substrate @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2024-02-27T19:25:01+00:00",
+   "posted_history": [
+    "2024-02-27T19:25:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Substrate",
+   "url": "https://jobs.lever.co/palantir/b80d45be-7fe8-4a11-b159-65551320c61f"
+  },
+  "b81be534-e1d6-4946-8121-1e1360d4d030": {
+   "closed_at": null,
+   "department": "Echo",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "deployment strategist @ oslo, norway",
+   "location": "Oslo, Norway",
+   "posted_at": "2026-06-25T11:39:38+00:00",
+   "posted_history": [
+    "2026-06-25T11:39:38+00:00"
+   ],
+   "reopened": 0,
+   "title": "Deployment Strategist",
+   "url": "https://jobs.lever.co/palantir/b81be534-e1d6-4946-8121-1e1360d4d030"
+  },
+  "b908b3e4-81f9-47b3-9088-ee8dd3932003": {
+   "closed_at": null,
+   "department": "Information Security",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "technical program manager security @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2026-07-20T15:01:24+00:00",
+   "posted_history": [
+    "2026-07-20T15:01:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Program Manager - Security",
+   "url": "https://jobs.lever.co/palantir/b908b3e4-81f9-47b3-9088-ee8dd3932003"
+  },
+  "ba8fdce3-7f60-45f6-8323-d74cc18c4320": {
+   "closed_at": null,
+   "department": "Echo",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "deployment strategist japan commercial @ tokyo, japan",
+   "location": "Tokyo, Japan",
+   "posted_at": "2026-05-15T15:04:24+00:00",
+   "posted_history": [
+    "2026-05-15T15:04:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Deployment Strategist - Japan Commercial",
+   "url": "https://jobs.lever.co/palantir/ba8fdce3-7f60-45f6-8323-d74cc18c4320"
+  },
+  "bb7af139-064c-4a59-a784-9ba8c4324d21": {
+   "closed_at": null,
+   "department": "Information Security",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "senior identity security engineer @ palo alto, ca",
+   "location": "Palo Alto, CA",
+   "posted_at": "2026-05-28T21:17:02+00:00",
+   "posted_history": [
+    "2026-05-28T21:17:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Identity Security Engineer",
+   "url": "https://jobs.lever.co/palantir/bb7af139-064c-4a59-a784-9ba8c4324d21"
+  },
+  "bba1ecbc-e56d-48b0-b33a-aefcbffbd655": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "senior software engineer autonomous systems @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-02-03T17:34:18+00:00",
+   "posted_history": [
+    "2026-02-03T17:34:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer - Autonomous Systems",
+   "url": "https://jobs.lever.co/palantir/bba1ecbc-e56d-48b0-b33a-aefcbffbd655"
+  },
+  "bc087dba-1e41-49e0-83bd-36832122363d": {
+   "closed_at": null,
+   "department": "Echo",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "deployment strategist @ chicago, il",
+   "location": "Chicago, IL",
+   "posted_at": "2022-04-27T11:43:28+00:00",
+   "posted_history": [
+    "2022-04-27T11:43:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Deployment Strategist",
+   "url": "https://jobs.lever.co/palantir/bc087dba-1e41-49e0-83bd-36832122363d"
+  },
+  "bc803bd5-7793-452d-9ae5-9301ee24615a": {
+   "closed_at": null,
+   "department": "Information Security",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "defensive security analyst @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2026-01-08T11:51:58+00:00",
+   "posted_history": [
+    "2026-01-08T11:51:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Defensive Security Analyst",
+   "url": "https://jobs.lever.co/palantir/bc803bd5-7793-452d-9ae5-9301ee24615a"
+  },
+  "bd16f7ad-3bee-48fd-9902-b3ee9698b608": {
+   "closed_at": null,
+   "department": "Product Development",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "technical program manager defense @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2025-03-10T08:02:29+00:00",
+   "posted_history": [
+    "2025-03-10T08:02:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Program Manager (TPM) - Defense",
+   "url": "https://jobs.lever.co/palantir/bd16f7ad-3bee-48fd-9902-b3ee9698b608"
+  },
+  "bd500579-5e1c-441f-b42f-66822d07dbba": {
+   "closed_at": null,
+   "department": "Legal",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "legal operations specialist @ denver, co",
+   "location": "Denver, CO",
+   "posted_at": "2026-09-03T17:35:02+00:00",
+   "posted_history": [
+    "2026-09-03T17:35:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Legal Operations Specialist",
+   "url": "https://jobs.lever.co/palantir/bd500579-5e1c-441f-b42f-66822d07dbba"
+  },
+  "bdcfb29f-4f27-42de-933f-7f83a359b9f0": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "software engineer internship @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2021-07-01T22:00:40+00:00",
+   "posted_history": [
+    "2021-07-01T22:00:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Internship",
+   "url": "https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0"
+  },
+  "be4ab5cb-9caa-4c2a-97b9-c73805fca4fc": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed software engineer us government federal health and civilian @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-05-07T17:41:25+00:00",
+   "posted_history": [
+    "2026-05-07T17:41:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Software Engineer - US Government - Federal Health and Civilian",
+   "url": "https://jobs.lever.co/palantir/be4ab5cb-9caa-4c2a-97b9-c73805fca4fc"
+  },
+  "bf3792b7-f485-47a3-ad8c-97c2d793207b": {
+   "closed_at": null,
+   "department": "Legal",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "contract operations @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-09-25T15:29:01+00:00",
+   "posted_history": [
+    "2026-09-25T15:29:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "Contract Operations",
+   "url": "https://jobs.lever.co/palantir/bf3792b7-f485-47a3-ad8c-97c2d793207b"
+  },
+  "c0b60d64-1244-4270-9d55-14115c97c24b": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "software engineer mission manager @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2025-03-27T23:35:36+00:00",
+   "posted_history": [
+    "2025-03-27T23:35:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer - Mission Manager",
+   "url": "https://jobs.lever.co/palantir/c0b60d64-1244-4270-9d55-14115c97c24b"
+  },
+  "c288bb43-3c63-4557-bd96-600ef0d1b7a6": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "software engineer defense applications @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-06-11T22:13:37+00:00",
+   "posted_history": [
+    "2026-06-11T22:13:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer - Defense Applications",
+   "url": "https://jobs.lever.co/palantir/c288bb43-3c63-4557-bd96-600ef0d1b7a6"
+  },
+  "c2d11af1-5b84-4be0-92ac-36113fb8f2b5": {
+   "closed_at": null,
+   "department": "Design",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "product designer us government @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2025-04-03T18:13:34+00:00",
+   "posted_history": [
+    "2025-04-03T18:13:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Designer - US Government",
+   "url": "https://jobs.lever.co/palantir/c2d11af1-5b84-4be0-92ac-36113fb8f2b5"
+  },
+  "c34b424e-caf2-455a-b104-ae1096ccca29": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "software engineer new grad @ denver, co",
+   "location": "Denver, CO",
+   "posted_at": "2020-10-27T18:32:40+00:00",
+   "posted_history": [
+    "2020-10-27T18:32:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, New Grad",
+   "url": "https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29"
+  },
+  "c38bb622-6f8e-43a1-8ae7-32291da328a8": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "senior software engineer substrate @ seattle, wa",
+   "location": "Seattle, WA",
+   "posted_at": "2024-02-27T19:20:10+00:00",
+   "posted_history": [
+    "2024-02-27T19:20:10+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Substrate",
+   "url": "https://jobs.lever.co/palantir/c38bb622-6f8e-43a1-8ae7-32291da328a8"
+  },
+  "c3f40e41-6258-4233-a7f9-091bf67df30b": {
+   "closed_at": null,
+   "department": "Technical Operations",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "devops engineer @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2018-06-28T16:02:25+00:00",
+   "posted_history": [
+    "2018-06-28T16:02:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "DevOps Engineer",
+   "url": "https://jobs.lever.co/palantir/c3f40e41-6258-4233-a7f9-091bf67df30b"
+  },
+  "c44510a1-9537-4c52-ae81-51546979fe47": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "full stack software engineer application development @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2024-02-22T20:38:06+00:00",
+   "posted_history": [
+    "2024-02-22T20:38:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "Full Stack Software Engineer - Application Development",
+   "url": "https://jobs.lever.co/palantir/c44510a1-9537-4c52-ae81-51546979fe47"
+  },
+  "c62264f5-5da8-40fe-9b44-f7f0f0012e11": {
+   "closed_at": null,
+   "department": "Product Development",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed software engineer autonomous systems c2 @ palo alto, ca",
+   "location": "Palo Alto, CA",
+   "posted_at": "2026-01-16T17:52:11+00:00",
+   "posted_history": [
+    "2026-01-16T17:52:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Software Engineer - Autonomous Systems C2",
+   "url": "https://jobs.lever.co/palantir/c62264f5-5da8-40fe-9b44-f7f0f0012e11"
+  },
+  "c6f9eaaf-b397-476f-8b7d-c511cfb7e5c6": {
+   "closed_at": null,
+   "department": "Information Security",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "compliance analyst @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2025-06-17T16:03:12+00:00",
+   "posted_history": [
+    "2025-06-17T16:03:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Compliance Analyst",
+   "url": "https://jobs.lever.co/palantir/c6f9eaaf-b397-476f-8b7d-c511cfb7e5c6"
+  },
+  "c80690ca-704b-46c2-9d95-e4f6e98ce4e2": {
+   "closed_at": null,
+   "department": "Product Development",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "production engineer database operations @ singapore, singapore",
+   "location": "Singapore, Singapore",
+   "posted_at": "2025-02-06T21:21:28+00:00",
+   "posted_history": [
+    "2025-02-06T21:21:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Production Engineer - Database Operations",
+   "url": "https://jobs.lever.co/palantir/c80690ca-704b-46c2-9d95-e4f6e98ce4e2"
+  },
+  "c9426c38-9c6f-44bc-acad-bb2e6ed315f6": {
+   "closed_at": null,
+   "department": "Product Development",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "technical writer @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2021-08-12T01:09:29+00:00",
+   "posted_history": [
+    "2021-08-12T01:09:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Writer",
+   "url": "https://jobs.lever.co/palantir/c9426c38-9c6f-44bc-acad-bb2e6ed315f6"
+  },
+  "cadc0eb2-2703-43e4-8e4f-41edf5b071c6": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed infrastructure engineer new grad uk government @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2026-08-31T07:29:41+00:00",
+   "posted_history": [
+    "2026-08-31T07:29:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Infrastructure Engineer, New Grad - UK Government",
+   "url": "https://jobs.lever.co/palantir/cadc0eb2-2703-43e4-8e4f-41edf5b071c6"
+  },
+  "cbe90327-3e6e-451c-a54c-1d3cbcef5aeb": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed software engineer new grad us government @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2022-06-30T22:59:08+00:00",
+   "posted_history": [
+    "2022-06-30T22:59:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Software Engineer, New Grad - US Government",
+   "url": "https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb"
+  },
+  "cd2423c6-da68-430c-8be5-0ae7eea36497": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "software engineer environment platform @ seattle, wa",
+   "location": "Seattle, WA",
+   "posted_at": "2024-09-05T13:56:40+00:00",
+   "posted_history": [
+    "2024-09-05T13:56:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer - Environment Platform",
+   "url": "https://jobs.lever.co/palantir/cd2423c6-da68-430c-8be5-0ae7eea36497"
+  },
+  "ce8ca664-60dc-4f9a-8986-3c96673bcfdf": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed software engineer us government @ honolulu, hi",
+   "location": "Honolulu, HI",
+   "posted_at": "2022-04-07T21:32:31+00:00",
+   "posted_history": [
+    "2022-04-07T21:32:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Software Engineer - US Government",
+   "url": "https://jobs.lever.co/palantir/ce8ca664-60dc-4f9a-8986-3c96673bcfdf"
+  },
+  "cf08f44c-bf75-45ed-9fab-f4836e51013e": {
+   "closed_at": null,
+   "department": "Information Security",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "platform engineer identity infrastructure @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-07-28T19:52:46+00:00",
+   "posted_history": [
+    "2026-07-28T19:52:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "Platform Engineer - Identity Infrastructure",
+   "url": "https://jobs.lever.co/palantir/cf08f44c-bf75-45ed-9fab-f4836e51013e"
+  },
+  "cf76738e-3030-42fa-92ac-a9446df956fc": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "software engineer core interfaces @ palo alto, ca",
+   "location": "Palo Alto, CA",
+   "posted_at": "2026-01-13T21:22:02+00:00",
+   "posted_history": [
+    "2026-01-13T21:22:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer - Core Interfaces",
+   "url": "https://jobs.lever.co/palantir/cf76738e-3030-42fa-92ac-a9446df956fc"
+  },
+  "d1ac83d0-e923-42a5-8e6d-58dd0cab25ca": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed software engineer new grad us government @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2022-06-30T22:50:16+00:00",
+   "posted_history": [
+    "2022-06-30T22:50:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Software Engineer, New Grad - US Government",
+   "url": "https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca"
+  },
+  "d2a87a1d-63f4-4dcd-b0d0-f6be91fed4d3": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "senior front end software engineer application development @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2024-08-06T19:18:21+00:00",
+   "posted_history": [
+    "2024-08-06T19:18:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Front End Software Engineer - Application Development",
+   "url": "https://jobs.lever.co/palantir/d2a87a1d-63f4-4dcd-b0d0-f6be91fed4d3"
+  },
+  "d33e0c31-ac7e-4f57-ba74-36f2df6ae2f5": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "backend software engineer defense @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2025-02-24T22:19:35+00:00",
+   "posted_history": [
+    "2025-02-24T22:19:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Backend Software Engineer - Defense",
+   "url": "https://jobs.lever.co/palantir/d33e0c31-ac7e-4f57-ba74-36f2df6ae2f5"
+  },
+  "d372c805-d0cd-4a10-9522-fbecc78d6f3e": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "software engineer new grad @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2021-07-01T20:30:14+00:00",
+   "posted_history": [
+    "2021-07-01T20:30:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, New Grad",
+   "url": "https://jobs.lever.co/palantir/d372c805-d0cd-4a10-9522-fbecc78d6f3e"
+  },
+  "d40d5d19-8f9e-4e6b-b4d3-b7457c90adec": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "senior software engineer autonomous systems @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2026-07-22T19:45:57+00:00",
+   "posted_history": [
+    "2026-07-22T19:45:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer - Autonomous Systems",
+   "url": "https://jobs.lever.co/palantir/d40d5d19-8f9e-4e6b-b4d3-b7457c90adec"
+  },
+  "d5486403-c050-4920-b2e0-91b69b61ebb2": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed software engineer internship commercial @ chicago, il",
+   "location": "Chicago, IL",
+   "posted_at": "2026-06-30T20:01:06+00:00",
+   "posted_history": [
+    "2026-06-30T20:01:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Software Engineer, Internship - Commercial",
+   "url": "https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2"
+  },
+  "d5d83a8f-cb96-41cc-9612-c7224fbb2fbc": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "software engineer environment platform @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2024-09-05T13:55:18+00:00",
+   "posted_history": [
+    "2024-09-05T13:55:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer - Environment Platform",
+   "url": "https://jobs.lever.co/palantir/d5d83a8f-cb96-41cc-9612-c7224fbb2fbc"
+  },
+  "d5f11334-3a73-4094-b7e0-d05b54e475b8": {
+   "closed_at": null,
+   "department": "Echo",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "deployment strategist new grad commercial @ seoul, south korea",
+   "location": "Seoul, South Korea",
+   "posted_at": "2026-08-10T14:13:54+00:00",
+   "posted_history": [
+    "2026-08-10T14:13:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Deployment Strategist, New Grad - Commercial",
+   "url": "https://jobs.lever.co/palantir/d5f11334-3a73-4094-b7e0-d05b54e475b8"
+  },
+  "d7030550-f80f-422c-965f-3120db433dea": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "senior software engineer autonomous systems @ palo alto, ca",
+   "location": "Palo Alto, CA",
+   "posted_at": "2026-07-22T19:46:17+00:00",
+   "posted_history": [
+    "2026-07-22T19:46:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer - Autonomous Systems",
+   "url": "https://jobs.lever.co/palantir/d7030550-f80f-422c-965f-3120db433dea"
+  },
+  "d770616f-1422-4420-972c-f95c31ca58e7": {
+   "closed_at": null,
+   "department": "Finance",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "revenue accounting manager @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-04-28T22:14:11+00:00",
+   "posted_history": [
+    "2026-04-28T22:14:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Revenue Accounting Manager",
+   "url": "https://jobs.lever.co/palantir/d770616f-1422-4420-972c-f95c31ca58e7"
+  },
+  "d83fac1c-353e-4b77-a586-3276b1090b6e": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed software engineer us government @ fayetteville, nc",
+   "location": "Fayetteville, NC",
+   "posted_at": "2026-01-12T22:44:10+00:00",
+   "posted_history": [
+    "2026-01-12T22:44:10+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Software Engineer - US Government",
+   "url": "https://jobs.lever.co/palantir/d83fac1c-353e-4b77-a586-3276b1090b6e"
+  },
+  "d879b190-b6a1-41e1-9eca-bf94d36037e1": {
+   "closed_at": null,
+   "department": "Finance",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "mobility tax analyst @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2022-04-07T16:26:35+00:00",
+   "posted_history": [
+    "2022-04-07T16:26:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Mobility Tax Analyst",
+   "url": "https://jobs.lever.co/palantir/d879b190-b6a1-41e1-9eca-bf94d36037e1"
+  },
+  "dab396d4-2f14-4796-aac0-0d82883dccf0": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed software engineer @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2014-01-23T00:00:00+00:00",
+   "posted_history": [
+    "2014-01-23T00:00:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Software Engineer",
+   "url": "https://jobs.lever.co/palantir/dab396d4-2f14-4796-aac0-0d82883dccf0"
+  },
+  "dc02f308-bbcc-4163-b4fb-3f68efb2ce24": {
+   "closed_at": null,
+   "department": "Design",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "product designer us government @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2019-05-14T22:45:59+00:00",
+   "posted_history": [
+    "2019-05-14T22:45:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Designer - US Government",
+   "url": "https://jobs.lever.co/palantir/dc02f308-bbcc-4163-b4fb-3f68efb2ce24"
+  },
+  "e0857612-4181-4f8e-8421-2609e7951b7b": {
+   "closed_at": null,
+   "department": "Administrative",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "usg administrative business partner @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2026-05-13T16:25:41+00:00",
+   "posted_history": [
+    "2026-05-13T16:25:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "USG Administrative Business Partner",
+   "url": "https://jobs.lever.co/palantir/e0857612-4181-4f8e-8421-2609e7951b7b"
+  },
+  "e0ab8226-b928-4e3a-bf87-08fe7b1ea595": {
+   "closed_at": null,
+   "department": "Echo",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "deployment strategist @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2022-11-29T21:07:20+00:00",
+   "posted_history": [
+    "2022-11-29T21:07:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Deployment Strategist",
+   "url": "https://jobs.lever.co/palantir/e0ab8226-b928-4e3a-bf87-08fe7b1ea595"
+  },
+  "e168a922-a2f0-45d0-912c-678d66e15118": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "software engineer mission manager @ seattle, wa",
+   "location": "Seattle, WA",
+   "posted_at": "2025-03-27T23:35:09+00:00",
+   "posted_history": [
+    "2025-03-27T23:35:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer - Mission Manager",
+   "url": "https://jobs.lever.co/palantir/e168a922-a2f0-45d0-912c-678d66e15118"
+  },
+  "e1a6c138-98bf-45e2-97f7-2c70371cc38a": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "software engineer new grad production infrastructure @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2025-06-26T19:53:39+00:00",
+   "posted_history": [
+    "2025-06-26T19:53:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, New Grad - Production Infrastructure",
+   "url": "https://jobs.lever.co/palantir/e1a6c138-98bf-45e2-97f7-2c70371cc38a"
+  },
+  "e27af7ab-41fc-40c9-b31d-02c6cb1c505c": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "software engineer internship @ palo alto, ca",
+   "location": "Palo Alto, CA",
+   "posted_at": "2021-07-01T21:52:15+00:00",
+   "posted_history": [
+    "2021-07-01T21:52:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Internship",
+   "url": "https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c"
+  },
+  "e2a3c133-7964-4e64-ba17-84a8b0b19506": {
+   "closed_at": null,
+   "department": "Echo",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "deployment strategist us government @ miami, fl",
+   "location": "Miami, FL",
+   "posted_at": "2026-09-02T20:46:05+00:00",
+   "posted_history": [
+    "2026-09-02T20:46:05+00:00"
+   ],
+   "reopened": 0,
+   "title": "Deployment Strategist - US Government",
+   "url": "https://jobs.lever.co/palantir/e2a3c133-7964-4e64-ba17-84a8b0b19506"
+  },
+  "e2a8360a-710a-4185-b2a9-3b7d9fe590b1": {
+   "closed_at": null,
+   "department": "Information Security",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "information security engineer @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2025-01-29T21:50:23+00:00",
+   "posted_history": [
+    "2025-01-29T21:50:23+00:00"
+   ],
+   "reopened": 0,
+   "title": "Information Security Engineer",
+   "url": "https://jobs.lever.co/palantir/e2a8360a-710a-4185-b2a9-3b7d9fe590b1"
+  },
+  "e47d4410-2542-47d8-b558-b5295fc28821": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "software engineer apollo systems @ seattle, wa",
+   "location": "Seattle, WA",
+   "posted_at": "2025-11-10T21:27:52+00:00",
+   "posted_history": [
+    "2025-11-10T21:27:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer - Apollo Systems",
+   "url": "https://jobs.lever.co/palantir/e47d4410-2542-47d8-b558-b5295fc28821"
+  },
+  "e500bcf3-19d8-4d3c-b340-4d76e4a55b40": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed software engineer new grad commercial @ chicago, il",
+   "location": "Chicago, IL",
+   "posted_at": "2026-06-29T14:44:20+00:00",
+   "posted_history": [
+    "2026-06-29T14:44:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Software Engineer, New Grad - Commercial",
+   "url": "https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40"
+  },
+  "e5b8c2f0-aa26-4615-ba92-f4b5c175c112": {
+   "closed_at": null,
+   "department": "Echo",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "deployment strategist intel @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2021-10-18T08:41:00+00:00",
+   "posted_history": [
+    "2021-10-18T08:41:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Deployment Strategist - Intel",
+   "url": "https://jobs.lever.co/palantir/e5b8c2f0-aa26-4615-ba92-f4b5c175c112"
+  },
+  "e65e0d73-1d91-4696-809f-7810ecd474d1": {
+   "closed_at": null,
+   "department": "Echo",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "deployment strategist @ singapore, singapore",
+   "location": "Singapore, Singapore",
+   "posted_at": "2016-04-08T15:51:10+00:00",
+   "posted_history": [
+    "2016-04-08T15:51:10+00:00"
+   ],
+   "reopened": 0,
+   "title": "Deployment Strategist",
+   "url": "https://jobs.lever.co/palantir/e65e0d73-1d91-4696-809f-7810ecd474d1"
+  },
+  "e6789b17-62fb-4226-a079-f8c17ff19e2d": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "year at palantir forward deployed software engineer internship commercial @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-03-20T19:02:47+00:00",
+   "posted_history": [
+    "2026-03-20T19:02:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial",
+   "url": "https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d"
+  },
+  "e6be4159-c8d1-481d-ad15-13274861b795": {
+   "closed_at": null,
+   "department": "Core Operations",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "workplace operations analyst @ abu dhabi, united arab emirates",
+   "location": "Abu Dhabi, United Arab Emirates",
+   "posted_at": "2026-07-29T16:32:24+00:00",
+   "posted_history": [
+    "2026-07-29T16:32:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Workplace Operations Analyst",
+   "url": "https://jobs.lever.co/palantir/e6be4159-c8d1-481d-ad15-13274861b795"
+  },
+  "e7100322-be11-40c8-9dba-7a21b7302c08": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed software engineer us government federal health and civilian @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2026-05-07T17:42:12+00:00",
+   "posted_history": [
+    "2026-05-07T17:42:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Software Engineer - US Government - Federal Health and Civilian",
+   "url": "https://jobs.lever.co/palantir/e7100322-be11-40c8-9dba-7a21b7302c08"
+  },
+  "e82b696e-a085-4bbf-8bcb-6d2c4f8cf2f7": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed software engineer us government @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2020-06-02T19:49:49+00:00",
+   "posted_history": [
+    "2020-06-02T19:49:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Software Engineer - US Government",
+   "url": "https://jobs.lever.co/palantir/e82b696e-a085-4bbf-8bcb-6d2c4f8cf2f7"
+  },
+  "e9aecd15-c7e9-4803-9928-fc0b67e70f5b": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "software engineer hosted model infrastructure @ palo alto, ca",
+   "location": "Palo Alto, CA",
+   "posted_at": "2026-06-03T19:36:18+00:00",
+   "posted_history": [
+    "2026-06-03T19:36:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer - Hosted Model Infrastructure",
+   "url": "https://jobs.lever.co/palantir/e9aecd15-c7e9-4803-9928-fc0b67e70f5b"
+  },
+  "ead4e034-e6e1-4993-86d1-ad9b8e2933a5": {
+   "closed_at": null,
+   "department": "Echo",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "deployment strategist us government @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2020-08-19T16:10:52+00:00",
+   "posted_history": [
+    "2020-08-19T16:10:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "Deployment Strategist - US Government",
+   "url": "https://jobs.lever.co/palantir/ead4e034-e6e1-4993-86d1-ad9b8e2933a5"
+  },
+  "ec006383-f48c-452c-a124-88657b5e3277": {
+   "closed_at": null,
+   "department": "Echo",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "deployment strategist build to apply us government @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-02-11T00:04:38+00:00",
+   "posted_history": [
+    "2026-02-11T00:04:38+00:00"
+   ],
+   "reopened": 0,
+   "title": "Deployment Strategist, Build to Apply - US Government",
+   "url": "https://jobs.lever.co/palantir/ec006383-f48c-452c-a124-88657b5e3277"
+  },
+  "ee898794-f9cc-45f1-8a40-9a49e7db62bd": {
+   "closed_at": null,
+   "department": "Finance",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "senior revenue accountant @ palo alto, ca",
+   "location": "Palo Alto, CA",
+   "posted_at": "2025-05-16T21:36:56+00:00",
+   "posted_history": [
+    "2025-05-16T21:36:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Revenue Accountant",
+   "url": "https://jobs.lever.co/palantir/ee898794-f9cc-45f1-8a40-9a49e7db62bd"
+  },
+  "ef725594-42dd-4f0d-ba8e-df8179dbc6cb": {
+   "closed_at": null,
+   "department": "Information Security",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "information security engineer internship @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2022-08-03T19:25:24+00:00",
+   "posted_history": [
+    "2022-08-03T19:25:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Information Security Engineer, Internship",
+   "url": "https://jobs.lever.co/palantir/ef725594-42dd-4f0d-ba8e-df8179dbc6cb"
+  },
+  "ef824a5d-0932-4f96-9347-2e66cd5a7b83": {
+   "closed_at": null,
+   "department": "Recruiting",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "talent strategist @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2024-11-05T12:36:50+00:00",
+   "posted_history": [
+    "2024-11-05T12:36:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Talent Strategist",
+   "url": "https://jobs.lever.co/palantir/ef824a5d-0932-4f96-9347-2e66cd5a7b83"
+  },
+  "f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "software engineer internship defense tech @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2024-08-05T23:26:16+00:00",
+   "posted_history": [
+    "2024-08-05T23:26:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Internship - Defense Tech",
+   "url": "https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7"
+  },
+  "f221738b-e97c-4ce3-a12a-17ada2b855e4": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "software engineer internship infrastructure @ palo alto, ca",
+   "location": "Palo Alto, CA",
+   "posted_at": "2025-08-19T09:48:43+00:00",
+   "posted_history": [
+    "2025-08-19T09:48:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Internship - Infrastructure",
+   "url": "https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4"
+  },
+  "f362d7aa-360d-4059-ab38-f482742693b3": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "software engineer new grad defense @ palo alto, ca",
+   "location": "Palo Alto, CA",
+   "posted_at": "2025-06-19T01:36:20+00:00",
+   "posted_history": [
+    "2025-06-19T01:36:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, New Grad - Defense",
+   "url": "https://jobs.lever.co/palantir/f362d7aa-360d-4059-ab38-f482742693b3"
+  },
+  "f70cdff7-c62f-4b73-a136-909e5e3d1891": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "backend software engineer infrastructure @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2024-02-20T18:13:10+00:00",
+   "posted_history": [
+    "2024-02-20T18:13:10+00:00"
+   ],
+   "reopened": 0,
+   "title": "Backend Software Engineer - Infrastructure",
+   "url": "https://jobs.lever.co/palantir/f70cdff7-c62f-4b73-a136-909e5e3d1891"
+  },
+  "f75cb0d2-6608-450b-848e-0f27937c930d": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "software engineer apollo platform @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2022-08-15T17:14:55+00:00",
+   "posted_history": [
+    "2022-08-15T17:14:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer - Apollo Platform",
+   "url": "https://jobs.lever.co/palantir/f75cb0d2-6608-450b-848e-0f27937c930d"
+  },
+  "f7dbfdf1-0bb1-4c11-ac15-6a139cee3410": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "software engineer defense applications @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2026-01-26T23:21:59+00:00",
+   "posted_history": [
+    "2026-01-26T23:21:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer - Defense Applications",
+   "url": "https://jobs.lever.co/palantir/f7dbfdf1-0bb1-4c11-ac15-6a139cee3410"
+  },
+  "fa060d94-f85d-4d02-be58-b81787fe57e5": {
+   "closed_at": null,
+   "department": "Design",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "product designer internship us government @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2024-08-19T09:22:15+00:00",
+   "posted_history": [
+    "2024-08-19T09:22:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Designer, Internship - US Government",
+   "url": "https://jobs.lever.co/palantir/fa060d94-f85d-4d02-be58-b81787fe57e5"
+  },
+  "fa93a1f8-dc95-40d0-b5ca-f2aebaab0806": {
+   "closed_at": null,
+   "department": "Echo",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "deployment strategist japan forward deployed @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2024-10-03T13:18:40+00:00",
+   "posted_history": [
+    "2024-10-03T13:18:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Deployment Strategist - Japan Forward Deployed",
+   "url": "https://jobs.lever.co/palantir/fa93a1f8-dc95-40d0-b5ca-f2aebaab0806"
+  },
+  "fb2d3222-dbd8-4e03-8d39-47b820e9509c": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "backend software engineer infrastructure foundations @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2024-02-20T17:22:27+00:00",
+   "posted_history": [
+    "2024-02-20T17:22:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Backend Software Engineer - Infrastructure, Foundations",
+   "url": "https://jobs.lever.co/palantir/fb2d3222-dbd8-4e03-8d39-47b820e9509c"
+  },
+  "fbca0358-083a-4222-bdbb-3bd729b48382": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed software engineer new grad intel us government @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2026-06-15T16:08:02+00:00",
+   "posted_history": [
+    "2026-06-15T16:08:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Software Engineer, New Grad - Intel, US Government",
+   "url": "https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382"
+  },
+  "fbdcd64f-651c-4b34-97ef-61419eb7d4e6": {
+   "closed_at": null,
+   "department": "People",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "people relations specialist @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2026-05-22T15:30:14+00:00",
+   "posted_history": [
+    "2026-05-22T15:30:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "People Relations Specialist",
+   "url": "https://jobs.lever.co/palantir/fbdcd64f-651c-4b34-97ef-61419eb7d4e6"
+  },
+  "fd3603a9-7016-45c6-9c8d-04c9279ab85e": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "software engineer internship infrastructure @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2025-06-26T15:15:08+00:00",
+   "posted_history": [
+    "2025-06-26T15:15:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Internship - Infrastructure",
+   "url": "https://jobs.lever.co/palantir/fd3603a9-7016-45c6-9c8d-04c9279ab85e"
+  },
+  "fd952b52-7b9c-4056-a3dd-0bc41fcfe603": {
+   "closed_at": null,
+   "department": "Business Development",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "neurodivergent fellowship @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2025-12-07T23:17:15+00:00",
+   "posted_history": [
+    "2025-12-07T23:17:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Neurodivergent Fellowship",
+   "url": "https://jobs.lever.co/palantir/fd952b52-7b9c-4056-a3dd-0bc41fcfe603"
+  },
+  "fdbc68df-8817-49dc-96f3-18a53f4fcd4c": {
+   "closed_at": null,
+   "department": "Global Security and Investigations",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "security systems engineer @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2018-08-23T18:23:40+00:00",
+   "posted_history": [
+    "2018-08-23T18:23:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Security Systems Engineer",
+   "url": "https://jobs.lever.co/palantir/fdbc68df-8817-49dc-96f3-18a53f4fcd4c"
+  },
+  "fef637bd-60f6-4603-b749-14e609c473a5": {
+   "closed_at": null,
+   "department": "Recruiting",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "talent strategist @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2024-11-05T12:32:16+00:00",
+   "posted_history": [
+    "2024-11-05T12:32:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Talent Strategist",
+   "url": "https://jobs.lever.co/palantir/fef637bd-60f6-4603-b749-14e609c473a5"
+  },
+  "ff1029bd-bb6d-4d78-a03e-5f9744d0b798": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "forward deployed ai engineer @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2024-05-09T14:33:01+00:00",
+   "posted_history": [
+    "2024-05-09T14:33:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed AI Engineer",
+   "url": "https://jobs.lever.co/palantir/ff1029bd-bb6d-4d78-a03e-5f9744d0b798"
+  },
+  "ff2c33a1-f707-4fc2-b003-4ba878812edf": {
+   "closed_at": null,
+   "department": "Finance",
+   "evergreen": false,
+   "first_seen": "2026-10-19T21:35:52+00:00",
+   "fp": "international tax manager @ palo alto, ca",
+   "location": "Palo Alto, CA",
+   "posted_at": "2022-11-04T21:40:36+00:00",
+   "posted_history": [
+    "2022-11-04T21:40:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "International Tax Manager",
+   "url": "https://jobs.lever.co/palantir/ff2c33a1-f707-4fc2-b003-4ba878812edf"
+  }
+ }
+}

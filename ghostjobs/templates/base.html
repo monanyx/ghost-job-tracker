@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% block title %}{{ site.title }}{% endblock %}</title>
+<meta name="description" content="{% block description %}How long have the world's biggest companies really been 'hiring'? We check {{ n_companies }} job boards every night and show which ads never close.{% endblock %}">
+<meta property="og:title" content="{{ self.title() }}">
+<meta property="og:description" content="{{ self.description() }}">
+<meta name="twitter:card" content="summary">
+<meta name="theme-color" content="#0c0b10">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>👻</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,800&family=Instrument+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+/* Layout: one narrow column of evidence — a big number, then the receipts. */
+:root{
+  --bg:#0c0b10; --panel:#14131b; --panel-2:#1a1924; --line:#272533; --text:#ecebf3; --muted:#8c89a0;
+  --ghost:#c9b8ff; --ghost-dim:rgba(201,184,255,.14); --amber:#ffb84d; --orange:#ff8a4c; --green:#49d69a;
+  --display:"Bricolage Grotesque",system-ui,sans-serif; --body:"Instrument Sans",system-ui,sans-serif;
+  --mono:"JetBrains Mono",ui-monospace,monospace;
+  color-scheme:dark;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font:16px/1.6 var(--body);
+  background-image:radial-gradient(900px 420px at 10% -8%,rgba(201,184,255,.08),transparent 60%)}
+a{color:inherit}
+.wrap{max-width:1000px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.demo-bar{background:var(--ghost);color:#140f24;font:600 13px/1.4 var(--body);text-align:center;padding-block:8px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+nav.top{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;padding-block:20px}
+.logo{font:800 18px/1 var(--display);letter-spacing:-.02em;text-decoration:none;display:flex;align-items:center;gap:9px}
+.logo i{font-style:normal;font-size:20px}
+nav.top .links{display:flex;gap:18px;font-size:14px;color:var(--muted)}
+nav.top .links a{text-decoration:none}
+nav.top .links a:hover{color:var(--text)}
+h1,h2,h3{font-family:var(--display);letter-spacing:-.025em;line-height:1.05;margin:0;text-wrap:balance}
+h2.section{font-size:clamp(26px,4vw,34px);margin:64px 0 6px}
+.hint{color:var(--muted);font-size:15px;margin:0 0 20px;max-width:640px}
+.muted{color:var(--muted)}
+.num{font-variant-numeric:tabular-nums}
+.mono{font-family:var(--mono)}
+.pill{display:inline-flex;align-items:center;gap:6px;font:500 12px/1 var(--mono);text-transform:uppercase;letter-spacing:.06em;
+  padding:5px 8px;border-radius:999px;border:1px solid var(--line);white-space:nowrap}
+.pill[data-l="active"]{color:var(--muted)}
+.pill[data-l="stale"]{color:var(--amber);border-color:rgba(255,184,77,.35)}
+.pill[data-l="suspicious"]{color:var(--orange);border-color:rgba(255,138,76,.4)}
+.pill[data-l="ghost"]{color:var(--ghost);border-color:rgba(201,184,255,.5);background:var(--ghost-dim);box-shadow:0 0 14px rgba(201,184,255,.18)}
+.chip{display:inline-block;font:500 11px/1 var(--mono);padding:4px 6px;border-radius:5px;background:var(--panel-2);border:1px solid var(--line);color:var(--muted);white-space:nowrap}
+.chip.hot{color:var(--ghost);border-color:rgba(201,184,255,.4)}
+.table-wrap{overflow-x:auto;border:1px solid var(--line);border-radius:14px;background:var(--panel)}
+table{width:100%;border-collapse:collapse;font-size:14px}
+th{font:500 11px/1 var(--mono);text-transform:uppercase;letter-spacing:.07em;color:var(--muted);text-align:left;padding:12px 14px;border-bottom:1px solid var(--line);background:var(--panel-2);white-space:nowrap}
+th[data-sort]{cursor:pointer;user-select:none}
+th[data-sort]:hover{color:var(--text)}
+th[aria-sort]::after{content:" ↓";color:var(--ghost)}
+th[aria-sort="ascending"]::after{content:" ↑"}
+td{padding:11px 14px;border-top:1px solid var(--line);vertical-align:top}
+tr:first-child td{border-top:0}
+td.r,th.r{text-align:right}
+tbody tr:hover{background:rgba(255,255,255,.015)}
+.bar{display:block;height:6px;border-radius:3px;background:var(--panel-2);min-width:80px;overflow:hidden}
+.bar b{display:block;height:100%;background:linear-gradient(90deg,var(--amber),var(--ghost));border-radius:3px}
+footer{margin:80px 0 40px;padding-top:24px;border-top:1px solid var(--line);font-size:14px;color:var(--muted);display:flex;flex-wrap:wrap;gap:8px 24px;justify-content:space-between}
+footer a{color:var(--muted)}
+:focus-visible{outline:2px solid var(--ghost);outline-offset:2px}
+{% block style %}{% endblock %}
+</style>
+</head>
+<body>
+{% if site.demo %}<div class="demo-bar">Demo with made-up companies. The real tracker reads real job boards every night.</div>{% endif %}
+<div class="wrap">
+  <nav class="top">
+    <a class="logo" href="{{ root }}index.html"><i>👻</i>{{ site.title }}</a>
+    <div class="links">
+      <a href="{{ root }}index.html#leaderboard">Leaderboard</a>
+      <a href="{{ root }}index.html#oldest">Oldest ads</a>
+      <a href="{{ root }}method.html">How it works</a>
+      {% if site.repo %}<a href="{{ site.repo }}">GitHub</a>{% endif %}
+    </div>
+  </nav>
+  {% block content %}{% endblock %}
+  <footer>
+    <span>An old ad isn't proof a job is fake. It's proof the ad is old.</span>
+    <span>{% if last_run %}Last checked {{ last_run }} · {% endif %}{{ n_jobs | num }} ads · {{ n_companies }} companies{% if site.repo %} · <a href="{{ site.repo }}">Add a company</a>{% endif %}</span>
+  </footer>
+</div>
+<script>
+// Click a column header to sort. Cells carry data-v for numeric sorting.
+document.querySelectorAll('table[data-sortable]').forEach(table => {
+  table.querySelectorAll('th[data-sort]').forEach((th, _, all) => th.addEventListener('click', () => {
+    const idx = [...th.parentNode.children].indexOf(th);
+    const asc = th.getAttribute('aria-sort') === 'descending';
+    all.forEach(h => h.removeAttribute('aria-sort'));
+    th.setAttribute('aria-sort', asc ? 'ascending' : 'descending');
+    const body = table.tBodies[0];
+    const val = tr => { const c = tr.children[idx]; return c.dataset.v !== undefined ? +c.dataset.v : c.textContent.trim().toLowerCase(); };
+    [...body.rows].sort((a, b) => { const x = val(a), y = val(b); return (x > y ? 1 : x < y ? -1 : 0) * (asc ? 1 : -1); })
+      .forEach(r => body.appendChild(r));
+  }));
+});
+</script>
+{% block script %}{% endblock %}
+</body>
+</html>
