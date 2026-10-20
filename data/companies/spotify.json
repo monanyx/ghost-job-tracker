@@ -3,9 +3,28 @@
   {
    "date": "2026-10-19",
    "open": 82
+  },
+  {
+   "date": "2026-10-20",
+   "open": 82
   }
  ],
  "jobs": {
+  "03437e2a-2d5e-4593-9e97-11271014932e": {
+   "closed_at": null,
+   "department": "Platform",
+   "evergreen": false,
+   "first_seen": "2026-10-20T08:53:12+00:00",
+   "fp": "product manager data platform @ toronto",
+   "location": "Toronto",
+   "posted_at": "2026-04-14T09:50:37+00:00",
+   "posted_history": [
+    "2026-04-14T09:50:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Manager - Data Platform",
+   "url": "https://jobs.lever.co/spotify/03437e2a-2d5e-4593-9e97-11271014932e"
+  },
   "05b8d6ee-0773-4255-b8b9-ae73d74a5ee5": {
    "closed_at": null,
    "department": "Personalization",
@@ -427,7 +446,7 @@
    "url": "https://jobs.lever.co/spotify/6eb9ce0e-5372-4a4f-b2fa-d005f9426750"
   },
   "71eb64a0-ce99-4166-8462-bad3901a967c": {
-   "closed_at": null,
+   "closed_at": "2026-10-20T08:53:12+00:00",
    "department": "Platform",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

@@ -3,6 +3,10 @@
   {
    "date": "2026-10-19",
    "open": 727
+  },
+  {
+   "date": "2026-10-20",
+   "open": 726
   }
  ],
  "jobs": {
@@ -952,7 +956,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=7612192"
   },
   "7618977": {
-   "closed_at": null,
+   "closed_at": "2026-10-20T08:53:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2872,7 +2876,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8045862"
   },
   "8047395": {
-   "closed_at": null,
+   "closed_at": "2026-10-20T08:53:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3052,7 +3056,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8055930"
   },
   "8062305": {
-   "closed_at": null,
+   "closed_at": "2026-10-20T08:53:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5362,7 +5366,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8155580"
   },
   "8155639": {
-   "closed_at": null,
+   "closed_at": "2026-10-20T08:53:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6352,7 +6356,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8175673"
   },
   "8175818": {
-   "closed_at": null,
+   "closed_at": "2026-10-20T08:53:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6905,6 +6909,21 @@
    "reopened": 0,
    "title": "Sales Program Manager, APAC",
    "url": "https://stripe.com/jobs/search?gh_jid=8184893"
+  },
+  "8185012": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-20T08:53:12+00:00",
+   "fp": "software engineer payin @ bengaluru",
+   "location": "Bengaluru",
+   "posted_at": "2026-10-20T08:52:23+00:00",
+   "posted_history": [
+    "2026-10-20T08:52:23+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Payin",
+   "url": "https://stripe.com/jobs/search?gh_jid=8185012"
   },
   "8186367": {
    "closed_at": null,
@@ -9156,6 +9175,21 @@
    "title": "Software Engineer, Storage Integrations",
    "url": "https://stripe.com/jobs/search?gh_jid=8231178"
   },
+  "8231202": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-20T08:53:12+00:00",
+   "fp": "technical program manager @ bucharest, romania",
+   "location": "Bucharest, Romania",
+   "posted_at": "2026-10-06T06:15:40+00:00",
+   "posted_history": [
+    "2026-10-06T06:15:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Program Manager",
+   "url": "https://stripe.com/jobs/search?gh_jid=8231202"
+  },
   "8231223": {
    "closed_at": null,
    "department": "",
@@ -10431,6 +10465,21 @@
    "title": "Software Engineer",
    "url": "https://stripe.com/jobs/search?gh_jid=8267736"
   },
+  "8267829": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-20T08:53:12+00:00",
+   "fp": "sales manager startups hunter @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-10-19T22:05:28+00:00",
+   "posted_history": [
+    "2026-10-19T22:05:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales Manager, Startups - Hunter",
+   "url": "https://stripe.com/jobs/search?gh_jid=8267829"
+  },
   "8267839": {
    "closed_at": null,
    "department": "",
@@ -10745,6 +10794,21 @@
    "reopened": 0,
    "title": "Specialist Solutions Architecture, Link",
    "url": "https://stripe.com/jobs/search?gh_jid=8279202"
+  },
+  "8282169": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-20T08:53:12+00:00",
+   "fp": "engineering manager money as a service @ singapore",
+   "location": "Singapore",
+   "posted_at": "2026-10-20T07:14:37+00:00",
+   "posted_history": [
+    "2026-10-20T07:14:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager, Money as a Service (MaaS)",
+   "url": "https://stripe.com/jobs/search?gh_jid=8282169"
   },
   "8282390": {
    "closed_at": null,

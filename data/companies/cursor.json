@@ -3,6 +3,10 @@
   {
    "date": "2026-10-19",
    "open": 133
+  },
+  {
+   "date": "2026-10-20",
+   "open": 134
   }
  ],
  "jobs": {
@@ -41,8 +45,8 @@
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "software engineer pretraining data @ san francisco",
-   "location": "San Francisco",
+   "fp": "software engineer pretraining data @ palo alto, ca",
+   "location": "Palo Alto, CA",
    "posted_at": "2026-08-24T20:53:14+00:00",
    "posted_history": [
     "2026-08-24T20:53:14+00:00"
@@ -266,8 +270,8 @@
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "software engineer ml platform @ san francisco",
-   "location": "San Francisco",
+   "fp": "software engineer ml platform @ palo alto, ca",
+   "location": "Palo Alto, CA",
    "posted_at": "2026-08-31T20:14:53+00:00",
    "posted_history": [
     "2026-08-31T20:14:53+00:00"
@@ -485,6 +489,21 @@
    "reopened": 0,
    "title": "Software Engineer, Agent Evaluation and Quality",
    "url": "https://jobs.ashbyhq.com/cursor/2bbe9f02-83a5-4173-98be-9085d1cb5693"
+  },
+  "2bc45647-93ff-497e-8db9-9b4f42d17240": {
+   "closed_at": null,
+   "department": "Marketing",
+   "evergreen": false,
+   "first_seen": "2026-10-20T08:53:12+00:00",
+   "fp": "integrated campaigns manager amer @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-10-19T23:56:30+00:00",
+   "posted_history": [
+    "2026-10-19T23:56:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Integrated Campaigns Manager, AMER",
+   "url": "https://jobs.ashbyhq.com/cursor/2bc45647-93ff-497e-8db9-9b4f42d17240"
   },
   "2ca532ac-da2a-4f45-ba60-fe4de80ca821": {
    "closed_at": null,
@@ -772,7 +791,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/4a1f9223-627b-4582-a038-0d7005d7a31d"
   },
   "4eb9c1a5-0c02-4c35-abea-62a6fe704eeb": {
-   "closed_at": null,
+   "closed_at": "2026-10-20T08:53:12+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1226,14 +1245,14 @@
    "department": "Marketing",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "integrated campaigns amer @ san francisco",
+   "fp": "senior integrated campaigns manager amer @ san francisco",
    "location": "San Francisco",
    "posted_at": "2026-07-31T23:21:13+00:00",
    "posted_history": [
     "2026-07-31T23:21:13+00:00"
    ],
    "reopened": 0,
-   "title": "Integrated Campaigns, AMER",
+   "title": "Senior Integrated Campaigns Manager, AMER",
    "url": "https://jobs.ashbyhq.com/cursor/90f3ffbe-8174-4dc1-a0f5-ca9cb48fdda7"
   },
   "919b3d00-fef8-4038-8b71-165fae5d54e7": {
@@ -1281,6 +1300,21 @@
    "title": "Software Engineer, Security",
    "url": "https://jobs.ashbyhq.com/cursor/94cc6684-9dbf-43f9-8ffc-405614e64ddd"
   },
+  "98dbc051-5dfc-4760-8c14-bbaf8529256c": {
+   "closed_at": null,
+   "department": "Marketing",
+   "evergreen": false,
+   "first_seen": "2026-10-20T08:53:12+00:00",
+   "fp": "lifecycle growth manager @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-10-19T22:00:14+00:00",
+   "posted_history": [
+    "2026-10-19T22:00:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Lifecycle Growth Manager",
+   "url": "https://jobs.ashbyhq.com/cursor/98dbc051-5dfc-4760-8c14-bbaf8529256c"
+  },
   "99641cfd-8523-4f55-8100-958d72b5924b": {
    "closed_at": null,
    "department": "Marketing",
@@ -1301,8 +1335,8 @@
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "research engineer synthetic data @ san francisco",
-   "location": "San Francisco",
+   "fp": "research engineer synthetic data @ palo alto, ca",
+   "location": "Palo Alto, CA",
    "posted_at": "2026-09-15T21:25:43+00:00",
    "posted_history": [
     "2026-09-15T21:25:43+00:00"
@@ -1466,8 +1500,8 @@
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "software engineer rl data @ san francisco",
-   "location": "San Francisco",
+   "fp": "software engineer rl data @ palo alto, ca",
+   "location": "Palo Alto, CA",
    "posted_at": "2026-10-12T20:53:44+00:00",
    "posted_history": [
     "2026-10-12T20:53:44+00:00"
@@ -1612,7 +1646,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/c43bdded-80a1-4705-a0ec-8217d771528c"
   },
   "c4be0272-542c-4bf1-b890-8785d3044bed": {
-   "closed_at": null,
+   "closed_at": "2026-10-20T08:53:12+00:00",
    "department": "Solutions",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1676,8 +1710,8 @@
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "software engineer rl environments @ san francisco",
-   "location": "San Francisco",
+   "fp": "software engineer rl environments @ palo alto, ca",
+   "location": "Palo Alto, CA",
    "posted_at": "2026-09-16T00:33:21+00:00",
    "posted_history": [
     "2026-09-16T00:33:21+00:00"
@@ -1970,6 +2004,21 @@
    "reopened": 0,
    "title": "Field Marketing Manager, Healthcare / SLED",
    "url": "https://jobs.ashbyhq.com/cursor/fa719d62-14b9-44c7-b54f-a4435cc62dec"
+  },
+  "fa7a821b-ca2b-43fe-8942-07f215a060c7": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-20T08:53:12+00:00",
+   "fp": "software engineer research tooling @ palo alto, ca",
+   "location": "Palo Alto, CA",
+   "posted_at": "2026-10-20T01:56:55+00:00",
+   "posted_history": [
+    "2026-10-20T01:56:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Research Tooling",
+   "url": "https://jobs.ashbyhq.com/cursor/fa7a821b-ca2b-43fe-8942-07f215a060c7"
   },
   "fb97e304-9d99-4b07-9474-1290121a87d5": {
    "closed_at": null,

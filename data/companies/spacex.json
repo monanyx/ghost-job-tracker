@@ -3,6 +3,10 @@
   {
    "date": "2026-10-19",
    "open": 2768
+  },
+  {
+   "date": "2026-10-20",
+   "open": 2772
   }
  ],
  "jobs": {
@@ -1237,7 +1241,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8483195002?gh_jid=8483195002"
   },
   "8483305002": {
-   "closed_at": null,
+   "closed_at": "2026-10-20T08:53:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2362,7 +2366,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8509293002?gh_jid=8509293002"
   },
   "8510348002": {
-   "closed_at": null,
+   "closed_at": "2026-10-20T08:53:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7582,7 +7586,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8568159002?gh_jid=8568159002"
   },
   "8568201002": {
-   "closed_at": null,
+   "closed_at": "2026-10-20T08:53:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -14902,7 +14906,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8633899002?gh_jid=8633899002"
   },
   "8633901002": {
-   "closed_at": null,
+   "closed_at": "2026-10-20T08:53:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -24427,7 +24431,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8719821002?gh_jid=8719821002"
   },
   "8719838002": {
-   "closed_at": null,
+   "closed_at": "2026-10-20T08:53:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -28072,7 +28076,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8758321002?gh_jid=8758321002"
   },
   "8758375002": {
-   "closed_at": null,
+   "closed_at": "2026-10-20T08:53:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -29977,7 +29981,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8783284002?gh_jid=8783284002"
   },
   "8783361002": {
-   "closed_at": null,
+   "closed_at": "2026-10-20T08:53:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -35587,7 +35591,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8843951002?gh_jid=8843951002"
   },
   "8843963002": {
-   "closed_at": null,
+   "closed_at": "2026-10-20T08:53:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -38931,6 +38935,21 @@
    "title": "IT Windows System Engineer - Top Secret Clearance",
    "url": "https://boards.greenhouse.io/spacex/jobs/8877633002?gh_jid=8877633002"
   },
+  "8877821002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-20T08:53:12+00:00",
+   "fp": "benefits analyst @ hawthorne, ca",
+   "location": "Hawthorne, CA",
+   "posted_at": "2026-10-19T23:09:06+00:00",
+   "posted_history": [
+    "2026-10-19T23:09:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "Benefits Analyst (Workers Compensation)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8877821002?gh_jid=8877821002"
+  },
   "8877827002": {
    "closed_at": null,
    "department": "",
@@ -40866,6 +40885,36 @@
    "title": "New Graduate Engineer, Infrastructure",
    "url": "https://boards.greenhouse.io/spacex/jobs/8893406002?gh_jid=8893406002"
   },
+  "8893521002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-20T08:53:12+00:00",
+   "fp": "microelectronics process engineer @ redmond, wa",
+   "location": "Redmond, WA",
+   "posted_at": "2026-10-19T23:29:43+00:00",
+   "posted_history": [
+    "2026-10-19T23:29:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Microelectronics Process Engineer (Optical Products)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8893521002?gh_jid=8893521002"
+  },
+  "8893540002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-20T08:53:12+00:00",
+   "fp": "automation controls engineer @ redmond, wa",
+   "location": "Redmond, WA",
+   "posted_at": "2026-10-19T23:29:52+00:00",
+   "posted_history": [
+    "2026-10-19T23:29:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "Automation & Controls Engineer (Starlink Optical Products)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8893540002?gh_jid=8893540002"
+  },
   "8893577002": {
    "closed_at": null,
    "department": "",
@@ -41436,6 +41485,36 @@
    "title": "Pilot",
    "url": "https://boards.greenhouse.io/spacex/jobs/8896660002?gh_jid=8896660002"
   },
+  "8896681002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-20T08:53:12+00:00",
+   "fp": "lead electrician @ college station, tx",
+   "location": "College Station, TX",
+   "posted_at": "2026-10-19T22:03:46+00:00",
+   "posted_history": [
+    "2026-10-19T22:03:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "Lead Electrician (College Station)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8896681002?gh_jid=8896681002"
+  },
+  "8896689002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-20T08:53:12+00:00",
+   "fp": "rigger 2nd shift @ hawthorne, ca",
+   "location": "Hawthorne, CA",
+   "posted_at": "2026-10-19T22:18:30+00:00",
+   "posted_history": [
+    "2026-10-19T22:18:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Rigger (Critical Movement Team) - 2nd Shift",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8896689002?gh_jid=8896689002"
+  },
   "8899128002": {
    "closed_at": null,
    "department": "",
@@ -41481,6 +41560,51 @@
    "title": "Strategic Connectivity Manager (Starlink)",
    "url": "https://boards.greenhouse.io/spacex/jobs/8899810002?gh_jid=8899810002"
   },
+  "8900309002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-20T08:53:12+00:00",
+   "fp": "smt specialist @ redmond, wa",
+   "location": "Redmond, WA",
+   "posted_at": "2026-10-19T23:23:26+00:00",
+   "posted_history": [
+    "2026-10-19T23:23:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "SMT Specialist",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8900309002?gh_jid=8900309002"
+  },
+  "8900388002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-20T08:53:12+00:00",
+   "fp": "mechanical engineer @ hawthorne, ca",
+   "location": "Hawthorne, CA",
+   "posted_at": "2026-10-19T23:31:25+00:00",
+   "posted_history": [
+    "2026-10-19T23:31:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Mechanical Engineer (Starshield)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8900388002?gh_jid=8900388002"
+  },
+  "8900641002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-20T08:53:12+00:00",
+   "fp": "new graduate engineer electrical @ hawthorne, ca",
+   "location": "Hawthorne, CA",
+   "posted_at": "2026-10-19T22:41:10+00:00",
+   "posted_history": [
+    "2026-10-19T22:41:10+00:00"
+   ],
+   "reopened": 0,
+   "title": "New Graduate Engineer, Electrical (Starshield)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8900641002?gh_jid=8900641002"
+  },
   "8900987002": {
    "closed_at": null,
    "department": "",
@@ -41525,6 +41649,66 @@
    "reopened": 0,
    "title": "Supervisor, Facilities",
    "url": "https://boards.greenhouse.io/spacex/jobs/8901106002?gh_jid=8901106002"
+  },
+  "8901124002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-20T08:53:12+00:00",
+   "fp": "hris compliance analyst @ hawthorne, ca",
+   "location": "Hawthorne, CA",
+   "posted_at": "2026-10-19T22:51:47+00:00",
+   "posted_history": [
+    "2026-10-19T22:51:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "HRIS Compliance Analyst",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8901124002?gh_jid=8901124002"
+  },
+  "8901126002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-20T08:53:12+00:00",
+   "fp": "industrial maintenance technician 2nd shift level 4 5 @ woodinville, wa",
+   "location": "Woodinville, WA",
+   "posted_at": "2026-10-19T23:40:43+00:00",
+   "posted_history": [
+    "2026-10-19T23:40:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Industrial Maintenance Technician (Starlink) - 2nd Shift - Level 4/5",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8901126002?gh_jid=8901126002"
+  },
+  "8901133002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-20T08:53:12+00:00",
+   "fp": "manager starshield supply chain @ hawthorne, ca",
+   "location": "Hawthorne, CA",
+   "posted_at": "2026-10-19T23:03:09+00:00",
+   "posted_history": [
+    "2026-10-19T23:03:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Starshield Supply Chain",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8901133002?gh_jid=8901133002"
+  },
+  "8901356002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-20T08:53:12+00:00",
+   "fp": "material transfer driver weekend shift @ hawthorne, ca",
+   "location": "Hawthorne, CA",
+   "posted_at": "2026-10-19T23:23:50+00:00",
+   "posted_history": [
+    "2026-10-19T23:23:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Material Transfer Driver - Weekend Shift",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8901356002?gh_jid=8901356002"
   }
  }
 }

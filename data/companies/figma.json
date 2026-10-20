@@ -3,6 +3,10 @@
   {
    "date": "2026-10-19",
    "open": 141
+  },
+  {
+   "date": "2026-10-20",
+   "open": 141
   }
  ],
  "jobs": {
@@ -1236,6 +1240,21 @@
    "title": "Manager, Software Engineering - Data Platform",
    "url": "https://boards.greenhouse.io/figma/jobs/6135721004?gh_jid=6135721004"
   },
+  "6138981004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-20T08:53:12+00:00",
+   "fp": "manager software engineering ai infrastructure @ san francisco, ca • new york, ny • united states",
+   "location": "San Francisco, CA • New York, NY • United States",
+   "posted_at": "2026-10-19T23:44:50+00:00",
+   "posted_history": [
+    "2026-10-19T23:44:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Software Engineering - AI Infrastructure",
+   "url": "https://boards.greenhouse.io/figma/jobs/6138981004?gh_jid=6138981004"
+  },
   "6142506004": {
    "closed_at": null,
    "department": "",
@@ -1657,7 +1676,7 @@
    "url": "https://boards.greenhouse.io/figma/jobs/6191697004?gh_jid=6191697004"
   },
   "6193623004": {
-   "closed_at": null,
+   "closed_at": "2026-10-20T08:53:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

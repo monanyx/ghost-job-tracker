@@ -3,6 +3,10 @@
   {
    "date": "2026-10-19",
    "open": 172
+  },
+  {
+   "date": "2026-10-20",
+   "open": 178
   }
  ],
  "jobs": {
@@ -967,7 +971,7 @@
    "url": "https://www.riotgames.com/en/work-with-us/job/8056379?gh_jid=8056379"
   },
   "8063747": {
-   "closed_at": null,
+   "closed_at": "2026-10-20T08:53:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2421,6 +2425,21 @@
    "title": "Staff Software Engineer, Engine Performance  - Central Technology, Unreal Ecosystem",
    "url": "https://www.riotgames.com/en/work-with-us/job/8275281?gh_jid=8275281"
   },
+  "8279467": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-20T08:53:12+00:00",
+   "fp": "game producer gameplay wild rift @ shanghai, china",
+   "location": "Shanghai, China",
+   "posted_at": "2026-10-20T04:39:00+00:00",
+   "posted_history": [
+    "2026-10-20T04:39:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Game Producer, Gameplay - Wild Rift",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8279467?gh_jid=8279467"
+  },
   "8279634": {
    "closed_at": null,
    "department": "",
@@ -2585,6 +2604,96 @@
    "reopened": 0,
    "title": "Senior Software Engineer, Engine & Tools - Unpublished R&D Product",
    "url": "https://www.riotgames.com/en/work-with-us/job/8287462?gh_jid=8287462"
+  },
+  "8293677": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-20T08:53:12+00:00",
+   "fp": "brand manager unpublished r d product @ los angeles, usa",
+   "location": "Los Angeles, USA",
+   "posted_at": "2026-10-19T23:26:51+00:00",
+   "posted_history": [
+    "2026-10-19T23:26:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Brand Manager - Unpublished R&D  Product",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8293677?gh_jid=8293677"
+  },
+  "8293695": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-20T08:53:12+00:00",
+   "fp": "senior software engineer social store unpublished r d product @ sydney, australia",
+   "location": "Sydney, Australia",
+   "posted_at": "2026-10-20T02:46:09+00:00",
+   "posted_history": [
+    "2026-10-20T02:46:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Social & Store, Unpublished R&D Product",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8293695?gh_jid=8293695"
+  },
+  "8293709": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-20T08:53:12+00:00",
+   "fp": "senior software engineer engine tools unpublished r d product @ sydney, australia",
+   "location": "Sydney, Australia",
+   "posted_at": "2026-10-20T02:46:03+00:00",
+   "posted_history": [
+    "2026-10-20T02:46:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Engine & Tools, Unpublished R&D Product",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8293709?gh_jid=8293709"
+  },
+  "8293711": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-20T08:53:12+00:00",
+   "fp": "senior software engineer automation build systems unpublished r d product @ sydney, australia",
+   "location": "Sydney, Australia",
+   "posted_at": "2026-10-20T02:46:14+00:00",
+   "posted_history": [
+    "2026-10-20T02:46:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer - Automation & Build Systems,  Unpublished R&D Product",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8293711?gh_jid=8293711"
+  },
+  "8302215": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-20T08:53:12+00:00",
+   "fp": "senior technical game designer unpublished r d product @ shanghai, china",
+   "location": "Shanghai, China",
+   "posted_at": "2026-10-20T04:32:14+00:00",
+   "posted_history": [
+    "2026-10-20T04:32:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Technical Game Designer - Unpublished R&D Product",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8302215?gh_jid=8302215"
+  },
+  "8302722": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-20T08:53:12+00:00",
+   "fp": "manager quality assurance valorant @ sydney, australia",
+   "location": "Sydney, Australia",
+   "posted_at": "2026-10-20T07:43:06+00:00",
+   "posted_history": [
+    "2026-10-20T07:43:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Quality Assurance - VALORANT",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8302722?gh_jid=8302722"
   }
  }
 }

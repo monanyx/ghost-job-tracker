@@ -3,6 +3,10 @@
   {
    "date": "2026-10-19",
    "open": 666
+  },
+  {
+   "date": "2026-10-20",
+   "open": 666
   }
  ],
  "jobs": {
@@ -1746,6 +1750,21 @@
    "title": "Enterprise Account Executive, Federal Partners Sales",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5160180008"
   },
+  "5161402008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-20T08:53:12+00:00",
+   "fp": "data scientist growth @ new york city, ny | seattle, wa; san francisco, ca",
+   "location": "New York City, NY | Seattle, WA; San Francisco, CA",
+   "posted_at": "2026-03-23T20:37:20+00:00",
+   "posted_history": [
+    "2026-03-23T20:37:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Data Scientist, Growth",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5161402008"
+  },
   "5162711008": {
    "closed_at": null,
    "department": "",
@@ -2542,7 +2561,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5237030008"
   },
   "5237973008": {
-   "closed_at": null,
+   "closed_at": "2026-10-20T08:53:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6667,7 +6686,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5414608008"
   },
   "5414793008": {
-   "closed_at": null,
+   "closed_at": "2026-10-20T08:53:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -9532,7 +9551,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5451889008"
   },
   "5452316008": {
-   "closed_at": null,
+   "closed_at": "2026-10-20T08:53:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -9816,6 +9835,21 @@
    "title": "Technical Program Manager, Science Strategy & Communications",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5455454008"
   },
+  "5455961008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-20T08:53:12+00:00",
+   "fp": "applied ai demo engineer @ san francisco, ca | new york city, ny",
+   "location": "San Francisco, CA | New York City, NY",
+   "posted_at": "2026-10-19T22:38:51+00:00",
+   "posted_history": [
+    "2026-10-19T22:38:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Applied AI Demo Engineer",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5455961008"
+  },
   "5456016008": {
    "closed_at": null,
    "department": "",
@@ -9995,6 +10029,21 @@
    "reopened": 0,
    "title": "Audit, Security GRC",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5457137008"
+  },
+  "5458044008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-20T08:53:12+00:00",
+   "fp": "staff software engineer vectordb @ new york city, ny | seattle, wa; san francisco, ca | new york city, ny | seattle, wa",
+   "location": "New York City, NY | Seattle, WA; San Francisco, CA | New York City, NY | Seattle, WA",
+   "posted_at": "2026-10-20T06:30:45+00:00",
+   "posted_history": [
+    "2026-10-20T06:30:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff+ Software Engineer, VectorDB",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5458044008"
   }
  }
 }

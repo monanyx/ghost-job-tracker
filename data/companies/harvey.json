@@ -3,6 +3,10 @@
   {
    "date": "2026-10-19",
    "open": 341
+  },
+  {
+   "date": "2026-10-20",
+   "open": 341
   }
  ],
  "jobs": {
@@ -1115,6 +1119,21 @@
    "reopened": 0,
    "title": "Staff Software Engineer, Frontend",
    "url": "https://jobs.ashbyhq.com/harvey/3931a1b7-573d-4bd8-8fed-3fa8132c3201"
+  },
+  "39d6ae01-e28c-441c-9593-5b1d2923b075": {
+   "closed_at": null,
+   "department": "Go to Market",
+   "evergreen": false,
+   "first_seen": "2026-10-20T08:53:12+00:00",
+   "fp": "senior deal desk analyst apac @ sydney",
+   "location": "Sydney",
+   "posted_at": "2026-10-20T02:55:24+00:00",
+   "posted_history": [
+    "2026-10-20T02:55:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Deal Desk Analyst, APAC",
+   "url": "https://jobs.ashbyhq.com/harvey/39d6ae01-e28c-441c-9593-5b1d2923b075"
   },
   "3a34578d-d42e-45bb-ac5c-0c3357e8cbb7": {
    "closed_at": null,
@@ -2857,7 +2876,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/8da5efb4-4659-4ff7-aca9-b9a88c040ba3"
   },
   "8e420b36-6711-49dd-8a64-f246270af7d3": {
-   "closed_at": null,
+   "closed_at": "2026-10-20T08:53:12+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

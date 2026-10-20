@@ -3,6 +3,10 @@
   {
    "date": "2026-10-19",
    "open": 901
+  },
+  {
+   "date": "2026-10-20",
+   "open": 898
   }
  ],
  "jobs": {
@@ -817,7 +821,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7274908002"
   },
   "7293607002": {
-   "closed_at": null,
+   "closed_at": "2026-10-20T08:53:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1597,7 +1601,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7925560002"
   },
   "7932280002": {
-   "closed_at": null,
+   "closed_at": "2026-10-20T08:53:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4297,7 +4301,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461258002"
   },
   "8462016002": {
-   "closed_at": null,
+   "closed_at": "2026-10-20T08:53:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -8936,14 +8940,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "pre sales engineering manager @ london, united kingdom",
+   "fp": "pre sales engineering manager x2 new roles @ london, united kingdom",
    "location": "London, United Kingdom",
    "posted_at": "2026-08-12T15:05:51+00:00",
    "posted_history": [
     "2026-08-12T15:05:51+00:00"
    ],
    "reopened": 0,
-   "title": "Pre-sales Engineering Manager (Retail & CPG)",
+   "title": "Pre-sales Engineering Manager (Retail & CPG) x2 New roles",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8686919002"
   },
   "8687202002": {
@@ -10837,7 +10841,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8782711002"
   },
   "8782816002": {
-   "closed_at": null,
+   "closed_at": "2026-10-20T08:53:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -12995,6 +12999,21 @@
    "reopened": 0,
    "title": "Director, Enterprise Sales, Public Sector",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8882379002"
+  },
+  "8882485002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-20T08:53:12+00:00",
+   "fp": "solutions engineer @ sao paulo, brazil",
+   "location": "Sao Paulo, Brazil",
+   "posted_at": "2026-10-20T03:44:59+00:00",
+   "posted_history": [
+    "2026-10-20T03:44:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Solutions Engineer",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8882485002"
   },
   "8883465002": {
    "closed_at": null,

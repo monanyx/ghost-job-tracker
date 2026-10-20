@@ -3,6 +3,10 @@
   {
    "date": "2026-10-19",
    "open": 227
+  },
+  {
+   "date": "2026-10-20",
+   "open": 227
   }
  ],
  "jobs": {
@@ -307,7 +311,7 @@
    "url": "https://www.coinbase.com/careers/positions/7822885?gh_jid=7822885"
   },
   "7847431": {
-   "closed_at": null,
+   "closed_at": "2026-10-20T08:53:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1646,14 +1650,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior software engineer frontend @ remote - usa",
+   "fp": "senior software engineer mobile @ remote - usa",
    "location": "Remote - USA",
    "posted_at": "2026-08-28T19:54:28+00:00",
    "posted_history": [
     "2026-08-28T19:54:28+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Software Engineer, Frontend (Platform - Identity)",
+   "title": "Senior Software Engineer, Mobile (Platform - Identity)",
    "url": "https://www.coinbase.com/careers/positions/8165015?gh_jid=8165015"
   },
   "8165389": {
@@ -3410,6 +3414,21 @@
    "reopened": 0,
    "title": "Senior Product Designer, Developer Foundations",
    "url": "https://www.coinbase.com/careers/positions/8301285?gh_jid=8301285"
+  },
+  "8302189": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-20T08:53:12+00:00",
+   "fp": "staff software enginer backend payments platform @ remote - usa",
+   "location": "Remote - USA",
+   "posted_at": "2026-10-19T22:14:33+00:00",
+   "posted_history": [
+    "2026-10-19T22:14:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Enginer, Backend - Payments Platform",
+   "url": "https://www.coinbase.com/careers/positions/8302189?gh_jid=8302189"
   }
  }
 }

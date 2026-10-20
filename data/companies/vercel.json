@@ -3,6 +3,10 @@
   {
    "date": "2026-10-19",
    "open": 93
+  },
+  {
+   "date": "2026-10-20",
+   "open": 94
   }
  ],
  "jobs": {
@@ -461,14 +465,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior manager solutions architect @ remote - australia",
+   "fp": "senior manager solutions architecture @ remote - australia",
    "location": "Remote - Australia",
    "posted_at": "2026-05-21T18:14:15+00:00",
    "posted_history": [
     "2026-05-21T18:14:15+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Manager, Solutions Architect",
+   "title": "Senior Manager, Solutions Architecture",
    "url": "https://job-boards.greenhouse.io/vercel/jobs/5995789004"
   },
   "5999792004": {
@@ -1151,8 +1155,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "strategic product partnerships lead @ hybrid - san francisco",
-   "location": "Hybrid - San Francisco",
+   "fp": "strategic product partnerships lead @ hybrid - san francisco, new york city, austin",
+   "location": "Hybrid - San Francisco, New York City, Austin",
    "posted_at": "2026-09-11T15:38:04+00:00",
    "posted_history": [
     "2026-09-11T15:38:04+00:00"
@@ -1400,6 +1404,21 @@
    "reopened": 0,
    "title": "GTM Engineer",
    "url": "https://job-boards.greenhouse.io/vercel/jobs/6225825004"
+  },
+  "6228301004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-20T08:53:12+00:00",
+   "fp": "product manager storage @ remote - united states",
+   "location": "Remote - United States",
+   "posted_at": "2026-10-20T08:04:32+00:00",
+   "posted_history": [
+    "2026-10-20T08:04:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Manager, Storage",
+   "url": "https://job-boards.greenhouse.io/vercel/jobs/6228301004"
   }
  }
 }

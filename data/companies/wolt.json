@@ -3,6 +3,10 @@
   {
    "date": "2026-10-19",
    "open": 205
+  },
+  {
+   "date": "2026-10-20",
+   "open": 204
   }
  ],
  "jobs": {
@@ -2163,7 +2167,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8188448"
   },
   "8190750": {
-   "closed_at": null,
+   "closed_at": "2026-10-20T08:53:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2178,7 +2182,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8190750"
   },
   "8190754": {
-   "closed_at": null,
+   "closed_at": "2026-10-20T08:53:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2208,7 +2212,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8190985"
   },
   "8192043": {
-   "closed_at": null,
+   "closed_at": "2026-10-20T08:53:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2792,6 +2796,21 @@
    "title": "Engineering Manager - Chat Platform",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8256322"
   },
+  "8258327": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-20T08:53:12+00:00",
+   "fp": "platform hiring specialist high volume hiring team @ belgrade, serbia; bratislava, slovakia; prague, czechia",
+   "location": "Belgrade, Serbia; Bratislava, Slovakia; Prague, Czechia",
+   "posted_at": "2026-10-20T06:54:08+00:00",
+   "posted_history": [
+    "2026-10-20T06:54:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "Platform Hiring Specialist (Czech & Slovak speaking) – High-Volume Hiring Team",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8258327"
+  },
   "8258732": {
    "closed_at": null,
    "department": "",
@@ -3076,6 +3095,21 @@
    "reopened": 0,
    "title": "Wolt Benefits Marketing Manager - Maternity leave replacement",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8299523"
+  },
+  "8300558": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-20T08:53:12+00:00",
+   "fp": "ad ops specialist @ athens, greece",
+   "location": "Athens, Greece",
+   "posted_at": "2026-10-20T06:56:42+00:00",
+   "posted_history": [
+    "2026-10-20T06:56:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Ad Ops Specialist",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8300558"
   }
  }
 }

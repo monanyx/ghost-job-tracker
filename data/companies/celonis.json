@@ -3,6 +3,10 @@
   {
    "date": "2026-10-19",
    "open": 201
+  },
+  {
+   "date": "2026-10-20",
+   "open": 201
   }
  ],
  "jobs": {
@@ -1417,7 +1421,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7817395003?gh_jid=7817395003"
   },
   "7818825003": {
-   "closed_at": null,
+   "closed_at": "2026-10-20T08:53:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2825,6 +2829,21 @@
    "reopened": 0,
    "title": "Senior Solutions Engineer - Process Intelligence (Retail/Manufacturing)",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8016353003?gh_jid=8016353003"
+  },
+  "8016369003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-20T08:53:12+00:00",
+   "fp": "client value partner financial services @ paris, france",
+   "location": "Paris, France",
+   "posted_at": "2026-10-20T08:28:35+00:00",
+   "posted_history": [
+    "2026-10-20T08:28:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Client Value Partner – Financial Services",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/8016369003?gh_jid=8016369003"
   },
   "8016417003": {
    "closed_at": null,
