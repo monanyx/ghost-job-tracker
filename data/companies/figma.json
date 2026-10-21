@@ -7,6 +7,10 @@
   {
    "date": "2026-10-20",
    "open": 141
+  },
+  {
+   "date": "2026-10-21",
+   "open": 141
   }
  ],
  "jobs": {
@@ -791,7 +795,7 @@
    "url": "https://boards.greenhouse.io/figma/jobs/6008752004?gh_jid=6008752004"
   },
   "6010279004": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -939,6 +943,21 @@
    "reopened": 0,
    "title": "Manager, Product Management - Roundtripping",
    "url": "https://boards.greenhouse.io/figma/jobs/6104919004?gh_jid=6104919004"
+  },
+  "6105673004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "product marketing manager figma weave @ tel aviv, israel",
+   "location": "Tel Aviv, Israel",
+   "posted_at": "2026-07-09T14:24:34+00:00",
+   "posted_history": [
+    "2026-07-09T14:24:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Marketing Manager - Figma Weave (Tel Aviv, Israel)",
+   "url": "https://boards.greenhouse.io/figma/jobs/6105673004?gh_jid=6105673004"
   },
   "6105678004": {
    "closed_at": null,
@@ -1110,14 +1129,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "program manager scale onboarding @ london, england",
+   "fp": "senior program manager scale onboarding @ london, england",
    "location": "London, England",
    "posted_at": "2026-08-04T20:52:51+00:00",
    "posted_history": [
     "2026-08-04T20:52:51+00:00"
    ],
    "reopened": 0,
-   "title": "Program Manager, Scale Onboarding (London, United Kingdom)",
+   "title": "Senior Program Manager, Scale Onboarding (London, United Kingdom)",
    "url": "https://boards.greenhouse.io/figma/jobs/6130540004?gh_jid=6130540004"
   },
   "6130557004": {
@@ -1196,7 +1215,7 @@
    "url": "https://boards.greenhouse.io/figma/jobs/6132643004?gh_jid=6132643004"
   },
   "6133181004": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1226,7 +1245,7 @@
    "url": "https://boards.greenhouse.io/figma/jobs/6135656004?gh_jid=6135656004"
   },
   "6135721004": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2095,6 +2114,21 @@
    "title": "Manager, Software Engineering - Production Engineering",
    "url": "https://boards.greenhouse.io/figma/jobs/6223657004?gh_jid=6223657004"
   },
+  "6223693004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "manager solutions consulting @ new york, ny • united states",
+   "location": "New York, NY • United States",
+   "posted_at": "2026-10-20T17:46:17+00:00",
+   "posted_history": [
+    "2026-10-20T17:46:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Solutions Consulting",
+   "url": "https://boards.greenhouse.io/figma/jobs/6223693004?gh_jid=6223693004"
+  },
   "6223879004": {
    "closed_at": null,
    "department": "",
@@ -2139,6 +2173,21 @@
    "reopened": 0,
    "title": "Senior Solutions Consultant (Seoul, South Korea)",
    "url": "https://boards.greenhouse.io/figma/jobs/6225172004?gh_jid=6225172004"
+  },
+  "6226427004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "manager recruiting @ london, england",
+   "location": "London, England",
+   "posted_at": "2026-10-20T13:57:48+00:00",
+   "posted_history": [
+    "2026-10-20T13:57:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Recruiting (London, United Kingdom)",
+   "url": "https://boards.greenhouse.io/figma/jobs/6226427004?gh_jid=6226427004"
   }
  }
 }

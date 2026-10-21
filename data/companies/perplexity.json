@@ -7,9 +7,28 @@
   {
    "date": "2026-10-20",
    "open": 133
+  },
+  {
+   "date": "2026-10-21",
+   "open": 134
   }
  ],
  "jobs": {
+  "0113c03a-69d0-489d-bd11-451d11a9f64b": {
+   "closed_at": null,
+   "department": "Platform & Infrastructure",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "software engineer enterprise knowledge platform @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-10-21T04:36:18+00:00",
+   "posted_history": [
+    "2026-10-21T04:36:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Enterprise Knowledge Platform",
+   "url": "https://jobs.ashbyhq.com/perplexity/0113c03a-69d0-489d-bd11-451d11a9f64b"
+  },
   "0190699f-010b-44f2-8399-278899fef018": {
    "closed_at": null,
    "department": "Search",
@@ -686,7 +705,7 @@
    "url": "https://jobs.ashbyhq.com/perplexity/5551fd7b-9ede-460e-9b38-4328c476a521"
   },
   "5930b6bf-b4b1-4134-a183-832d69dd085f": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "Legal",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -849,6 +868,21 @@
    "reopened": 0,
    "title": "Member of Technical Staff (Software Engineer, Security)",
    "url": "https://jobs.ashbyhq.com/perplexity/6c9b3c71-85ba-47db-bce5-44fd9fa95d03"
+  },
+  "6dd1dba6-8dba-4bfe-a393-a43a8a55bb0c": {
+   "closed_at": null,
+   "department": "Workplace",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "sr workplace coordinator @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-10-20T17:13:03+00:00",
+   "posted_history": [
+    "2026-10-20T17:13:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Workplace Coordinator",
+   "url": "https://jobs.ashbyhq.com/perplexity/6dd1dba6-8dba-4bfe-a393-a43a8a55bb0c"
   },
   "6e328b72-9f57-49e0-a1a8-4428abf8ff81": {
    "closed_at": null,

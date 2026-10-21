@@ -7,6 +7,10 @@
   {
    "date": "2026-10-20",
    "open": 229
+  },
+  {
+   "date": "2026-10-21",
+   "open": 232
   }
  ],
  "jobs": {
@@ -120,8 +124,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "business development representative @ remote, france; remote, ireland; remote, netherlands; remote, spain; remote, united kingdom",
-   "location": "Remote, France; Remote, Ireland; Remote, Netherlands; Remote, Spain; Remote, United Kingdom",
+   "fp": "business development representative @ remote, france; remote, ireland; remote, spain; remote, united kingdom",
+   "location": "Remote, France; Remote, Ireland; Remote, Spain; Remote, United Kingdom",
    "posted_at": "2026-05-01T15:28:37+00:00",
    "posted_history": [
     "2026-05-01T15:28:37+00:00"
@@ -735,14 +739,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "intermediate senior backend engineer plan spec driven development @ remote, united kingdom",
+   "fp": "backend engineer plan spec driven development @ remote, united kingdom",
    "location": "Remote, United Kingdom",
    "posted_at": "2026-08-12T08:18:04+00:00",
    "posted_history": [
     "2026-08-12T08:18:04+00:00"
    ],
    "reopened": 0,
-   "title": "Intermediate-Senior Backend Engineer (Ruby), Plan: Spec-Driven Development",
+   "title": "Backend Engineer (Ruby), Plan: Spec-Driven Development",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8682860002"
   },
   "8684061002": {
@@ -1320,14 +1324,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "intermediate senior backend engineer plan spec driven development @ remote, poland",
+   "fp": "backend engineer plan spec driven development @ remote, poland",
    "location": "Remote, Poland",
    "posted_at": "2026-08-26T11:08:19+00:00",
    "posted_history": [
     "2026-08-26T11:08:19+00:00"
    ],
    "reopened": 0,
-   "title": "Intermediate-Senior Backend Engineer (Ruby), Plan: Spec-Driven Development",
+   "title": "Backend Engineer (Ruby), Plan: Spec-Driven Development",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8749950002"
   },
   "8749951002": {
@@ -2020,6 +2024,21 @@
    "title": "Staff Enterprise Architect",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8828009002"
   },
+  "8831322002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "commercial account executive @ remote, france",
+   "location": "Remote, France",
+   "posted_at": "2026-10-20T12:42:47+00:00",
+   "posted_history": [
+    "2026-10-20T12:42:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Commercial Account Executive",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8831322002"
+  },
   "8831350002": {
    "closed_at": null,
    "department": "",
@@ -2111,7 +2130,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8842630002"
   },
   "8843512002": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2310,14 +2329,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "associate renewals manager @ remote, canada; remote, united states",
+   "fp": "associate renewals manager smb @ remote, canada; remote, united states",
    "location": "Remote, Canada; Remote, United States",
    "posted_at": "2026-09-29T22:06:03+00:00",
    "posted_history": [
     "2026-09-29T22:06:03+00:00"
    ],
    "reopened": 0,
-   "title": "Associate Renewals Manager",
+   "title": "Associate Renewals Manager, SMB",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8857185002"
   },
   "8857335002": {
@@ -2980,6 +2999,21 @@
    "title": "SMB Account Executive, Growth",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8871878002"
   },
+  "8872259002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "corporate development director @ remote, united states",
+   "location": "Remote, United States",
+   "posted_at": "2026-10-20T18:21:59+00:00",
+   "posted_history": [
+    "2026-10-20T18:21:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Corporate Development Director",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8872259002"
+  },
   "8872433002": {
    "closed_at": null,
    "department": "",
@@ -3195,8 +3229,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "business development representative italian speaking @ remote ireland; remote, france; remote, netherlands; remote, spain; remote, united kingdom",
-   "location": "Remote Ireland; Remote, France; Remote, Netherlands; Remote, Spain; Remote, United Kingdom",
+   "fp": "business development representative italian speaking @ remote ireland; remote, france; remote, spain; remote, united kingdom",
+   "location": "Remote Ireland; Remote, France; Remote, Spain; Remote, United Kingdom",
    "posted_at": "2026-10-15T15:01:26+00:00",
    "posted_history": [
     "2026-10-15T15:01:26+00:00"
@@ -3279,6 +3313,21 @@
    "reopened": 0,
    "title": "Field CTO",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8884627002"
+  },
+  "8885115002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "renewals manager emea @ remote ireland",
+   "location": "Remote Ireland",
+   "posted_at": "2026-10-20T12:44:42+00:00",
+   "posted_history": [
+    "2026-10-20T12:44:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Renewals Manager EMEA",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8885115002"
   },
   "8885535002": {
    "closed_at": null,
@@ -3429,6 +3478,21 @@
    "reopened": 0,
    "title": "Principal Engineer, Monetization Engineering",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8895468002"
+  },
+  "8895511002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "strategic account executive chicago @ remote, united states",
+   "location": "Remote, United States",
+   "posted_at": "2026-10-20T19:26:58+00:00",
+   "posted_history": [
+    "2026-10-20T19:26:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Account Executive - Chicago",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8895511002"
   },
   "8896290002": {
    "closed_at": null,

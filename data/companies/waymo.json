@@ -7,6 +7,10 @@
   {
    "date": "2026-10-20",
    "open": 366
+  },
+  {
+   "date": "2026-10-21",
+   "open": 365
   }
  ],
  "jobs": {
@@ -60,14 +64,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "machine learning engineer simulation realism @ mountain view, ca, usa",
+   "fp": "machine learning engineer simulation @ mountain view, ca, usa",
    "location": "Mountain View, CA, USA",
    "posted_at": "2025-03-13T16:54:13+00:00",
    "posted_history": [
     "2025-03-13T16:54:13+00:00"
    ],
    "reopened": 0,
-   "title": "Machine Learning Engineer, Simulation Realism",
+   "title": "Machine Learning Engineer, Simulation",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=6688617"
   },
   "6773081": {
@@ -776,7 +780,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=7509005"
   },
   "7510368": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1091,7 +1095,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=7762871"
   },
   "7773691": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2756,7 +2760,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8084419"
   },
   "8089198": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2829,6 +2833,21 @@
    "reopened": 0,
    "title": "Staff SoC Design Engineer",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8102997"
+  },
+  "8104309": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "emergency services liaison spain @ madrid, spain",
+   "location": "Madrid, Spain ",
+   "posted_at": "2026-10-21T07:37:46+00:00",
+   "posted_history": [
+    "2026-10-21T07:37:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "Emergency Services Liaison, Spain",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8104309"
   },
   "8106385": {
    "closed_at": null,
@@ -2966,7 +2985,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8113098"
   },
   "8113233": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3054,6 +3073,21 @@
    "reopened": 0,
    "title": "Perception Machine Learning Engineer - Continuous Learning",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8127006"
+  },
+  "8128596": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "diagnostics engineer @ mountain view, ca, usa",
+   "location": "Mountain View, CA, USA ",
+   "posted_at": "2026-08-28T16:10:07+00:00",
+   "posted_history": [
+    "2026-08-28T16:10:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Diagnostics Engineer",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8128596"
   },
   "8131378": {
    "closed_at": null,
@@ -3265,6 +3299,21 @@
    "title": "Senior Machine Learning Engineer, Multimodal Perception",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8157152"
   },
+  "8157161": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "legal counsel spain @ madrid, spain",
+   "location": "Madrid, Spain ",
+   "posted_at": "2026-10-20T20:07:26+00:00",
+   "posted_history": [
+    "2026-10-20T20:07:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Legal Counsel - Spain",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8157161"
+  },
   "8157298": {
    "closed_at": null,
    "department": "",
@@ -3309,6 +3358,21 @@
    "reopened": 0,
    "title": "Legal Counsel - Canada",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8157449"
+  },
+  "8157766": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "head of real estate and transactions @ singapore",
+   "location": "Singapore",
+   "posted_at": "2026-10-12T18:33:27+00:00",
+   "posted_history": [
+    "2026-10-12T18:33:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Head of Real Estate and Transactions",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8157766"
   },
   "8157888": {
    "closed_at": null,
@@ -4245,8 +4309,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "product quality engineer vehicle systems @ mountain view, ca, usa",
-   "location": "Mountain View, CA, USA",
+   "fp": "product quality engineer vehicle systems @ mountain view, ca, usa; novi, mi, usa",
+   "location": "Mountain View, CA, USA; Novi, MI, USA",
    "posted_at": "2026-09-22T20:10:12+00:00",
    "posted_history": [
     "2026-09-22T20:10:12+00:00"
@@ -4616,7 +4680,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8238145"
   },
   "8238525": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5096,7 +5160,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8257205"
   },
   "8257237": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5364,6 +5428,21 @@
    "reopened": 0,
    "title": "Major Event Management Lead",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8281630"
+  },
+  "8281938": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "head of people development culture @ mountain view, ca, usa",
+   "location": "Mountain View, CA, USA",
+   "posted_at": "2026-10-20T12:13:26+00:00",
+   "posted_history": [
+    "2026-10-20T12:13:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Head of People Development & Culture",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8281938"
   },
   "8283558": {
    "closed_at": null,

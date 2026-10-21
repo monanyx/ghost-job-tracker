@@ -7,6 +7,10 @@
   {
    "date": "2026-10-20",
    "open": 182
+  },
+  {
+   "date": "2026-10-21",
+   "open": 178
   }
  ],
  "jobs": {
@@ -371,7 +375,7 @@
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4611776005"
   },
   "4612282005": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -611,7 +615,7 @@
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4650514005"
   },
   "4651559005": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -671,7 +675,7 @@
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4654897005"
   },
   "4655240005": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -686,7 +690,7 @@
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4655240005"
   },
   "4655244005": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1510,6 +1514,21 @@
    "title": "Staff/Senior Machine Learning Research Engineer, Intelligent Systems",
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4714527005"
   },
+  "4714727005": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "product leadership enterprise core platform @ san francisco, ca; new york, ny",
+   "location": "San Francisco, CA; New York, NY",
+   "posted_at": "2026-09-09T18:53:14+00:00",
+   "posted_history": [
+    "2026-09-09T18:53:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Leadership, Enterprise Core Platform",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4714727005"
+  },
   "4715325005": {
    "closed_at": null,
    "department": "",
@@ -1601,7 +1620,7 @@
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4717648005"
   },
   "4717701005": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1616,7 +1635,7 @@
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4717701005"
   },
   "4718258005": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1916,7 +1935,7 @@
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4723000005"
   },
   "4723290005": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2170,6 +2189,21 @@
    "title": "Senior Data Analyst, Public Sector",
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4729899005"
   },
+  "4729979005": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "senior infrastructure software engineer apps platform @ london, uk",
+   "location": "London, UK",
+   "posted_at": "2026-09-02T18:15:03+00:00",
+   "posted_history": [
+    "2026-09-02T18:15:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Infrastructure Software Engineer, Apps Platform",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4729979005"
+  },
   "4730306005": {
    "closed_at": null,
    "department": "",
@@ -2385,14 +2419,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "payroll specialist @ san francisco, ca",
-   "location": "San Francisco, CA",
+   "fp": "us payroll specialist @ mexico city, mx",
+   "location": "Mexico City, MX",
    "posted_at": "2026-09-18T19:00:20+00:00",
    "posted_history": [
     "2026-09-18T19:00:20+00:00"
    ],
    "reopened": 0,
-   "title": "Payroll Specialist",
+   "title": "US Payroll Specialist",
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4734728005"
   },
   "4735208005": {
@@ -2445,14 +2479,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "enterprise account executive defence security @ london, uk",
+   "fp": "public sector lead defence security @ london, uk",
    "location": "London, UK",
    "posted_at": "2026-09-30T14:09:26+00:00",
    "posted_history": [
     "2026-09-30T14:09:26+00:00"
    ],
    "reopened": 0,
-   "title": "Enterprise Account Executive, Defence & Security",
+   "title": "Public Sector Lead, Defence & Security",
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4736243005"
   },
   "4736426005": {
@@ -2565,14 +2599,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "enterprise account executive public sector @ london, uk",
+   "fp": "public sector lead central local government @ london, uk",
    "location": "London, UK",
    "posted_at": "2026-10-06T20:38:07+00:00",
    "posted_history": [
     "2026-10-06T20:38:07+00:00"
    ],
    "reopened": 0,
-   "title": "Enterprise Account Executive, Public Sector",
+   "title": "Public Sector Lead, Central & Local Government",
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4740975005"
   },
   "4741059005": {
@@ -2724,6 +2758,21 @@
    "reopened": 0,
    "title": "Safety Research Scholar - Human Frontier Labs",
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4744402005"
+  },
+  "4745021005": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "infrastructure software engineer apps platform @ london, uk",
+   "location": "London, UK",
+   "posted_at": "2026-10-20T10:20:20+00:00",
+   "posted_history": [
+    "2026-10-20T10:20:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Infrastructure Software Engineer, Apps Platform",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4745021005"
   },
   "4745295005": {
    "closed_at": null,

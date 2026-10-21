@@ -7,6 +7,10 @@
   {
    "date": "2026-10-20",
    "open": 94
+  },
+  {
+   "date": "2026-10-21",
+   "open": 94
   }
  ],
  "jobs": {
@@ -326,7 +330,7 @@
    "url": "https://job-boards.greenhouse.io/vercel/jobs/5806749004"
   },
   "5818258004": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -352,7 +356,7 @@
     "2026-03-10T15:06:00+00:00"
    ],
    "reopened": 0,
-   "title": "Business Development Representative , Startups",
+   "title": "Business Development Representative, Startups",
    "url": "https://job-boards.greenhouse.io/vercel/jobs/5822513004"
   },
   "5825469004": {
@@ -465,8 +469,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior manager solutions architecture @ remote - australia",
-   "location": "Remote - Australia",
+   "fp": "senior manager solutions architecture @ hybrid - sydney",
+   "location": "Hybrid - Sydney",
    "posted_at": "2026-05-21T18:14:15+00:00",
    "posted_history": [
     "2026-05-21T18:14:15+00:00"
@@ -780,14 +784,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "sr manager accounting @ hybrid - india",
+   "fp": "senior manager accounting @ hybrid - india",
    "location": "Hybrid - India",
    "posted_at": "2026-07-21T16:17:34+00:00",
    "posted_history": [
     "2026-07-21T16:17:34+00:00"
    ],
    "reopened": 0,
-   "title": "Sr. Manager, Accounting (India)",
+   "title": "Senior Manager, Accounting (India)",
    "url": "https://job-boards.greenhouse.io/vercel/jobs/6121468004"
   },
   "6122437004": {
@@ -967,7 +971,7 @@
     "2026-08-12T16:23:41+00:00"
    ],
    "reopened": 0,
-   "title": "Scaled Commercial Account Executive, Install base",
+   "title": "Scaled Commercial Account Executive, Install Base",
    "url": "https://job-boards.greenhouse.io/vercel/jobs/6142097004"
   },
   "6142959004": {
@@ -1065,14 +1069,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "it ops engineer @ hybrid - new york city",
+   "fp": "it operations engineer @ hybrid - new york city",
    "location": "Hybrid - New York City",
    "posted_at": "2026-09-08T18:13:22+00:00",
    "posted_history": [
     "2026-09-08T18:13:22+00:00"
    ],
    "reopened": 0,
-   "title": "IT Ops Engineer",
+   "title": "IT Operations Engineer",
    "url": "https://job-boards.greenhouse.io/vercel/jobs/6179794004"
   },
   "6181755004": {
@@ -1419,6 +1423,21 @@
    "reopened": 0,
    "title": "Product Manager, Storage",
    "url": "https://job-boards.greenhouse.io/vercel/jobs/6228301004"
+  },
+  "6228758004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "director of engineering @ hybrid - san francisco, new york city",
+   "location": "Hybrid - San Francisco, New York City",
+   "posted_at": "2026-10-20T15:54:35+00:00",
+   "posted_history": [
+    "2026-10-20T15:54:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Director of Engineering",
+   "url": "https://job-boards.greenhouse.io/vercel/jobs/6228758004"
   }
  }
 }

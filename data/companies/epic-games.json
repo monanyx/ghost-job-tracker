@@ -7,6 +7,10 @@
   {
    "date": "2026-10-20",
    "open": 139
+  },
+  {
+   "date": "2026-10-21",
+   "open": 139
   }
  ],
  "jobs": {
@@ -671,7 +675,7 @@
    "url": "https://epicgames.com/careers/jobs/6119876004?gh_jid=6119876004"
   },
   "6121292004": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -731,7 +735,7 @@
    "url": "https://epicgames.com/careers/jobs/6122985004?gh_jid=6122985004"
   },
   "6130892004": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1720,6 +1724,21 @@
    "title": "Senior Rendering Programmer",
    "url": "https://epicgames.com/careers/jobs/6208074004?gh_jid=6208074004"
   },
+  "6208101004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "qa engineer @ cary,north carolina,united states",
+   "location": "Cary,North Carolina,United States",
+   "posted_at": "2026-10-20T21:46:29+00:00",
+   "posted_history": [
+    "2026-10-20T21:46:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "QA Engineer",
+   "url": "https://epicgames.com/careers/jobs/6208101004?gh_jid=6208101004"
+  },
   "6208110004": {
    "closed_at": null,
    "department": "",
@@ -2094,6 +2113,21 @@
    "reopened": 0,
    "title": "Senior Tools Programmer, UI & AI Workflows",
    "url": "https://epicgames.com/careers/jobs/6229262004?gh_jid=6229262004"
+  },
+  "6230312004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "qa engineer @ blank,blank,multiple locations",
+   "location": "BLANK,BLANK,Multiple Locations",
+   "posted_at": "2026-10-20T21:46:30+00:00",
+   "posted_history": [
+    "2026-10-20T21:46:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "QA Engineer",
+   "url": "https://epicgames.com/careers/jobs/6230312004?gh_jid=6230312004"
   }
  }
 }

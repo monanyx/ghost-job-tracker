@@ -7,6 +7,10 @@
   {
    "date": "2026-10-20",
    "open": 153
+  },
+  {
+   "date": "2026-10-21",
+   "open": 155
   }
  ],
  "jobs": {
@@ -446,7 +450,7 @@
    "url": "https://job-boards.greenhouse.io/reddit/jobs/7974605"
   },
   "7976852": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -705,14 +709,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior growth manager uk @ london, united kingdom",
-   "location": "London, United Kingdom",
+   "fp": "community manager uk @ remote - ireland",
+   "location": "Remote - Ireland",
    "posted_at": "2026-06-26T13:15:02+00:00",
    "posted_history": [
     "2026-06-26T13:15:02+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Growth Manager,  UK",
+   "title": "Community Manager,  UK",
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8030230"
   },
   "8031491": {
@@ -1721,7 +1725,7 @@
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8198102"
   },
   "8201359": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1899,6 +1903,21 @@
    "reopened": 0,
    "title": "Senior Product Manager, Notifications",
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8237639"
+  },
+  "8238227": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "staff product manager youth @ remote - united states",
+   "location": "Remote - United States",
+   "posted_at": "2026-10-20T17:36:03+00:00",
+   "posted_history": [
+    "2026-10-20T17:36:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Product Manager, Youth",
+   "url": "https://job-boards.greenhouse.io/reddit/jobs/8238227"
   },
   "8240716": {
    "closed_at": null,
@@ -2242,7 +2261,7 @@
     "2026-10-19T18:38:16+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Client Partner, Mid Market Sales (Goods)",
+   "title": "Senior Client Partner, Mid-Market Sales (Goods)",
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8293700"
   },
   "8299781": {
@@ -2304,6 +2323,51 @@
    "reopened": 0,
    "title": "Staff Community Product Marketing Manager, Trust & Safety",
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8302227"
+  },
+  "8303790": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "client account manager mid market sales @ toronto, canada",
+   "location": "Toronto, Canada",
+   "posted_at": "2026-10-20T18:36:16+00:00",
+   "posted_history": [
+    "2026-10-20T18:36:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Client Account Manager, Mid-Market Sales (Goods)",
+   "url": "https://job-boards.greenhouse.io/reddit/jobs/8303790"
+  },
+  "8303798": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "senior software engineer web platform @ remote - united states",
+   "location": "Remote - United States",
+   "posted_at": "2026-10-20T16:54:32+00:00",
+   "posted_history": [
+    "2026-10-20T16:54:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Web Platform",
+   "url": "https://job-boards.greenhouse.io/reddit/jobs/8303798"
+  },
+  "8304463": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "senior machine learning engineer ads ml efficiency @ remote - united states",
+   "location": "Remote - United States",
+   "posted_at": "2026-10-20T20:57:26+00:00",
+   "posted_history": [
+    "2026-10-20T20:57:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Machine Learning Engineer, Ads ML Efficiency",
+   "url": "https://job-boards.greenhouse.io/reddit/jobs/8304463"
   }
  }
 }

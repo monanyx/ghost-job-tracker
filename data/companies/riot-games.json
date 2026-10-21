@@ -7,6 +7,10 @@
   {
    "date": "2026-10-20",
    "open": 178
+  },
+  {
+   "date": "2026-10-21",
+   "open": 176
   }
  ],
  "jobs": {
@@ -262,7 +266,7 @@
     "2025-12-10T07:19:44+00:00"
    ],
    "reopened": 0,
-   "title": "Manager, Software Engineering, Publishing Engagement - Publishing Platform",
+   "title": "Manager, Software Engineering, Publishing Engagement - Publishing Platform (based in Seoul, South Korea)",
    "url": "https://www.riotgames.com/en/work-with-us/job/7454356?gh_jid=7454356"
   },
   "7459632": {
@@ -356,7 +360,7 @@
    "url": "https://www.riotgames.com/en/work-with-us/job/7648785?gh_jid=7648785"
   },
   "7648959": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1196,7 +1200,7 @@
    "url": "https://www.riotgames.com/en/work-with-us/job/8082802?gh_jid=8082802"
   },
   "8082804": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1211,7 +1215,7 @@
    "url": "https://www.riotgames.com/en/work-with-us/job/8082804?gh_jid=8082804"
   },
   "8092958": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1299,6 +1303,21 @@
    "reopened": 0,
    "title": "Principal Software Engineer - DevOps / Site Reliability Engineer",
    "url": "https://www.riotgames.com/en/work-with-us/job/8108097?gh_jid=8108097"
+  },
+  "8113272": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "senior software engineer data foundations core integrations and architecture @ los angeles, usa",
+   "location": "Los Angeles, USA",
+   "posted_at": "2026-10-20T18:01:26+00:00",
+   "posted_history": [
+    "2026-10-20T18:01:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer -  Data Foundations, Core Integrations and Architecture",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8113272?gh_jid=8113272"
   },
   "8114848": {
    "closed_at": null,
@@ -1391,7 +1410,7 @@
    "url": "https://www.riotgames.com/en/work-with-us/job/8124193?gh_jid=8124193"
   },
   "8124195": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2186,7 +2205,7 @@
    "url": "https://www.riotgames.com/en/work-with-us/job/8240678?gh_jid=8240678"
   },
   "8244020": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2276,7 +2295,7 @@
    "url": "https://www.riotgames.com/en/work-with-us/job/8257953?gh_jid=8257953"
   },
   "8259795": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2580,14 +2599,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "software engineer ii valorant personalization @ sydney, australia",
+   "fp": "senior software engineer valorant personalization @ sydney, australia",
    "location": "Sydney, Australia",
    "posted_at": "2026-10-16T03:59:13+00:00",
    "posted_history": [
     "2026-10-16T03:59:13+00:00"
    ],
    "reopened": 0,
-   "title": "Software Engineer II, VALORANT, Personalization",
+   "title": "Senior Software Engineer, VALORANT, Personalization",
    "url": "https://www.riotgames.com/en/work-with-us/job/8287413?gh_jid=8287413"
   },
   "8287462": {
@@ -2679,6 +2698,51 @@
    "reopened": 0,
    "title": "Senior Technical Game Designer - Unpublished R&D Product",
    "url": "https://www.riotgames.com/en/work-with-us/job/8302215?gh_jid=8302215"
+  },
+  "8302320": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "senior game designer combat unpublished r d product @ shanghai, china",
+   "location": "Shanghai, China",
+   "posted_at": "2026-10-21T02:51:51+00:00",
+   "posted_history": [
+    "2026-10-21T02:51:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Game Designer, Combat – Unpublished R&D Product",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8302320?gh_jid=8302320"
+  },
+  "8302340": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "senior game designer level unpublished r d product @ shanghai, china",
+   "location": "Shanghai, China",
+   "posted_at": "2026-10-21T02:54:03+00:00",
+   "posted_history": [
+    "2026-10-21T02:54:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Game Designer, Level - Unpublished R&D Product",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8302340?gh_jid=8302340"
+  },
+  "8302720": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "senior visual design artist league of legends wild rift @ shanghai, china",
+   "location": "Shanghai, China",
+   "posted_at": "2026-10-21T03:05:32+00:00",
+   "posted_history": [
+    "2026-10-21T03:05:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Visual Design Artist - League of Legends: Wild Rift",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8302720?gh_jid=8302720"
   },
   "8302722": {
    "closed_at": null,

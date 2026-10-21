@@ -7,11 +7,15 @@
   {
    "date": "2026-10-20",
    "open": 109
+  },
+  {
+   "date": "2026-10-21",
+   "open": 104
   }
  ],
  "jobs": {
   "6887013": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -41,7 +45,7 @@
    "url": "https://www.asana.com/jobs/apply/6981655?gh_jid=6981655"
   },
   "7160487": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -101,7 +105,7 @@
    "url": "https://www.asana.com/jobs/apply/7392983?gh_jid=7392983"
   },
   "7568914": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -266,7 +270,7 @@
    "url": "https://www.asana.com/jobs/apply/7867211?gh_jid=7867211"
   },
   "7898640": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -461,7 +465,7 @@
    "url": "https://www.asana.com/jobs/apply/7978671?gh_jid=7978671"
   },
   "8001349": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1061,7 +1065,7 @@
    "url": "https://www.asana.com/jobs/apply/8194522?gh_jid=8194522"
   },
   "8194540": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1155,14 +1159,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "workday integration engineer @ vancouver, bc",
+   "fp": "workday integration developer @ vancouver, bc",
    "location": "Vancouver, BC",
    "posted_at": "2026-10-07T16:10:40+00:00",
    "posted_history": [
     "2026-10-07T16:10:40+00:00"
    ],
    "reopened": 0,
-   "title": "Workday Integration Engineer",
+   "title": "Workday Integration Developer",
    "url": "https://www.asana.com/jobs/apply/8214792?gh_jid=8214792"
   },
   "8214906": {
@@ -1470,14 +1474,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior product manager integrations platform @ vancouver, bc",
+   "fp": "lead product manager apis and mcp @ vancouver, bc",
    "location": "Vancouver, BC",
    "posted_at": "2026-10-06T22:14:35+00:00",
    "posted_history": [
     "2026-10-06T22:14:35+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Product Manager, Integrations Platform",
+   "title": "Lead Product Manager, APIs and MCP",
    "url": "https://www.asana.com/jobs/apply/8260059?gh_jid=8260059"
   },
   "8264089": {
@@ -1659,6 +1663,21 @@
    "reopened": 0,
    "title": "Commercial Counsel",
    "url": "https://www.asana.com/jobs/apply/8293698?gh_jid=8293698"
+  },
+  "8303385": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "head of global campaigns @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-10-20T14:37:33+00:00",
+   "posted_history": [
+    "2026-10-20T14:37:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Head of Global Campaigns",
+   "url": "https://www.asana.com/jobs/apply/8303385?gh_jid=8303385"
   }
  }
 }

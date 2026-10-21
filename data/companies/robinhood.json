@@ -7,6 +7,10 @@
   {
    "date": "2026-10-20",
    "open": 151
+  },
+  {
+   "date": "2026-10-21",
+   "open": 156
   }
  ],
  "jobs": {
@@ -1245,14 +1249,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "manager global indirect tax @ menlo park, ca; new york, ny",
+   "fp": "global indirect tax lead @ menlo park, ca; new york, ny",
    "location": "Menlo Park, CA; New York, NY",
    "posted_at": "2026-10-12T17:44:10+00:00",
    "posted_history": [
     "2026-10-12T17:44:10+00:00"
    ],
    "reopened": 0,
-   "title": "Manager, Global Indirect Tax",
+   "title": "Global Indirect Tax Lead",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8179979?t=gh_src=&gh_jid=8179979"
   },
   "8180757": {
@@ -2160,8 +2164,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "cashiering support associate @ westlake, tx",
-   "location": "Westlake, TX",
+   "fp": "cashiering support associate @ clearwater, fl; westlake, tx",
+   "location": "Clearwater, FL; Westlake, TX",
    "posted_at": "2026-10-07T18:36:44+00:00",
    "posted_history": [
     "2026-10-07T18:36:44+00:00"
@@ -2184,6 +2188,21 @@
    "reopened": 0,
    "title": "Senior Product Designer, Crypto",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8262776?t=gh_src=&gh_jid=8262776"
+  },
+  "8265728": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "senior product manager advisor marketplace @ menlo park, ca; new york, ny",
+   "location": "Menlo Park, CA; New York, NY",
+   "posted_at": "2026-10-20T14:04:39+00:00",
+   "posted_history": [
+    "2026-10-20T14:04:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Manager, Advisor Marketplace",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8265728?t=gh_src=&gh_jid=8265728"
   },
   "8266107": {
    "closed_at": null,
@@ -2274,6 +2293,66 @@
    "reopened": 0,
    "title": "Senior iOS Engineer, Crypto Perpetuals",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8289388?t=gh_src=&gh_jid=8289388"
+  },
+  "8301728": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "technical program manager @ menlo park, ca; new york, ny; toronto, canada",
+   "location": "Menlo Park, CA; New York, NY; Toronto, Canada",
+   "posted_at": "2026-10-20T16:22:21+00:00",
+   "posted_history": [
+    "2026-10-20T16:22:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Program Manager",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8301728?t=gh_src=&gh_jid=8301728"
+  },
+  "8302220": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "staff ios engineer trading tools @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-10-20T21:19:26+00:00",
+   "posted_history": [
+    "2026-10-20T21:19:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff iOS Engineer, Trading Tools",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8302220?t=gh_src=&gh_jid=8302220"
+  },
+  "8302496": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "campus operations manager @ menlo park, ca",
+   "location": "Menlo Park, CA",
+   "posted_at": "2026-10-20T20:57:13+00:00",
+   "posted_history": [
+    "2026-10-20T20:57:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Campus Operations Manager",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8302496?t=gh_src=&gh_jid=8302496"
+  },
+  "8304315": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "customer experience associate @ denver, co; westlake, tx",
+   "location": "Denver, CO; Westlake, TX",
+   "posted_at": "2026-10-20T21:39:44+00:00",
+   "posted_history": [
+    "2026-10-20T21:39:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Experience Associate",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8304315?t=gh_src=&gh_jid=8304315"
   }
  }
 }

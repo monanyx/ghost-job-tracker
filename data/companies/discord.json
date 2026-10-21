@@ -7,6 +7,10 @@
   {
    "date": "2026-10-20",
    "open": 46
+  },
+  {
+   "date": "2026-10-21",
+   "open": 45
   }
  ],
  "jobs": {
@@ -596,7 +600,7 @@
    "url": "https://job-boards.greenhouse.io/discord/jobs/8821508002"
   },
   "8827890002": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

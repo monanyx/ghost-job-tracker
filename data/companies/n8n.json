@@ -7,6 +7,10 @@
   {
    "date": "2026-10-20",
    "open": 42
+  },
+  {
+   "date": "2026-10-21",
+   "open": 40
   }
  ],
  "jobs": {
@@ -84,6 +88,21 @@
    "reopened": 0,
    "title": "Mid-Market Account Executive (US)",
    "url": "https://jobs.ashbyhq.com/n8n/1fbf28aa-39c9-4ce4-a29a-238a725d8014"
+  },
+  "2ac306a9-1d24-4b19-8261-32902b7dd423": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "engineering manager remote europe @ berlin office",
+   "location": "Berlin Office",
+   "posted_at": "2026-10-20T16:37:33+00:00",
+   "posted_history": [
+    "2026-10-20T16:37:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager | Remote | Europe",
+   "url": "https://jobs.ashbyhq.com/n8n/2ac306a9-1d24-4b19-8261-32902b7dd423"
   },
   "3129949a-eae6-48c6-8c66-8d3e060a195c": {
    "closed_at": null,
@@ -176,7 +195,7 @@
    "url": "https://jobs.ashbyhq.com/n8n/49e569f0-503e-4e42-a1ba-7e63684e90d3"
   },
   "4b44cb99-be47-425c-bba6-8f9976c71ca8": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -191,7 +210,7 @@
    "url": "https://jobs.ashbyhq.com/n8n/4b44cb99-be47-425c-bba6-8f9976c71ca8"
   },
   "4b79d2f5-2cac-4cd2-a4b2-830b6cb4d57d": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "Other",
    "evergreen": true,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -236,7 +255,7 @@
    "url": "https://jobs.ashbyhq.com/n8n/5bd16c97-aaa4-499b-81a4-9599852fe6e9"
   },
   "5d1a70e5-d4f2-4d11-81a6-ee49a333f3d4": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

@@ -7,6 +7,10 @@
   {
    "date": "2026-10-20",
    "open": 134
+  },
+  {
+   "date": "2026-10-21",
+   "open": 134
   }
  ],
  "jobs": {
@@ -339,6 +343,21 @@
    "reopened": 0,
    "title": "AI Deployment Manager",
    "url": "https://jobs.ashbyhq.com/cursor/193c326d-2ffc-4c11-8bba-73d243fd178b"
+  },
+  "1a584899-847d-4e5b-8181-fb889fe4e06e": {
+   "closed_at": null,
+   "department": "Marketing",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "community operations lead @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-10-20T15:19:43+00:00",
+   "posted_history": [
+    "2026-10-20T15:19:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Community Operations Lead",
+   "url": "https://jobs.ashbyhq.com/cursor/1a584899-847d-4e5b-8181-fb889fe4e06e"
   },
   "1b422774-a090-455f-a8f8-64f68d7f86e5": {
    "closed_at": null,
@@ -1826,7 +1845,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/d4308a8f-81b7-4f67-b3ae-111bb0d87197"
   },
   "d7f1bf1f-b684-4994-9b70-9ce7c78bacd2": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

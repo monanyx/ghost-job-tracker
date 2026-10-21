@@ -7,6 +7,10 @@
   {
    "date": "2026-10-20",
    "open": 82
+  },
+  {
+   "date": "2026-10-21",
+   "open": 82
   }
  ],
  "jobs": {
@@ -206,7 +210,7 @@
    "url": "https://jobs.lever.co/spotify/223f9722-3579-4ff2-b123-e4cc7b0c1a64"
   },
   "2344260b-477c-4086-b5a5-842dc4c587f0": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "Subscriptions R&D",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -460,6 +464,21 @@
    "title": "Backend Engineer - Platform Security",
    "url": "https://jobs.lever.co/spotify/71eb64a0-ce99-4166-8462-bad3901a967c"
   },
+  "73a83f73-2f59-4c82-bac3-7dfc5d3355ad": {
+   "closed_at": null,
+   "department": "Experience",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "principal product manager core experience platform @ london",
+   "location": "London",
+   "posted_at": "2026-10-05T07:14:59+00:00",
+   "posted_history": [
+    "2026-10-05T07:14:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Product Manager - Core Experience Platform",
+   "url": "https://jobs.lever.co/spotify/73a83f73-2f59-4c82-bac3-7dfc5d3355ad"
+  },
   "77526d53-3811-4336-9c0d-72f6ac0242c7": {
    "closed_at": null,
    "department": "Music Marketing",
@@ -570,8 +589,8 @@
    "department": "Company Planning",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "data scientist company planning execution @ stockholm",
-   "location": "Stockholm",
+   "fp": "data scientist company planning execution @ london",
+   "location": "London",
    "posted_at": "2026-08-19T14:19:57+00:00",
    "posted_history": [
     "2026-08-19T14:19:57+00:00"
@@ -761,7 +780,7 @@
    "url": "https://jobs.lever.co/spotify/9fd98cde-6a1b-419c-a27a-daae7a7483f0"
   },
   "a343f789-bb7f-41eb-bd85-d7c6b45bda67": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "Personalization",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -789,6 +808,21 @@
    "reopened": 0,
    "title": "Senior Applied Research Scientist - Personalization",
    "url": "https://jobs.lever.co/spotify/a4c49acb-a095-4452-ad9e-69e4b778c256"
+  },
+  "a57db22d-dc0d-4f36-9a2e-34acdf1ec046": {
+   "closed_at": null,
+   "department": "Subscriptions R&D",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "senior product manager subscriptions @ london",
+   "location": "London",
+   "posted_at": "2026-09-08T13:34:30+00:00",
+   "posted_history": [
+    "2026-09-08T13:34:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Manager - Subscriptions (Premium Desirability)",
+   "url": "https://jobs.lever.co/spotify/a57db22d-dc0d-4f36-9a2e-34acdf1ec046"
   },
   "a6f8c9a6-821e-45d9-85c8-e5783ec03eaf": {
    "closed_at": null,

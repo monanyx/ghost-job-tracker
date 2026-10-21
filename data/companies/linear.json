@@ -7,6 +7,10 @@
   {
    "date": "2026-10-20",
    "open": 28
+  },
+  {
+   "date": "2026-10-21",
+   "open": 29
   }
  ],
  "jobs": {
@@ -39,6 +43,21 @@
    "reopened": 0,
    "title": "Product Engineer",
    "url": "https://jobs.ashbyhq.com/linear/0c7c2e26-0a98-42cf-a47c-9a3999fb513b"
+  },
+  "0dbd1790-2652-49fc-861f-7451ae4eb1cf": {
+   "closed_at": null,
+   "department": "GTM",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "customer success manager apac @ singapore",
+   "location": "Singapore",
+   "posted_at": "2026-10-21T01:03:50+00:00",
+   "posted_history": [
+    "2026-10-21T01:03:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Success Manager, APAC",
+   "url": "https://jobs.ashbyhq.com/linear/0dbd1790-2652-49fc-861f-7451ae4eb1cf"
   },
   "12f8f208-0b9c-4569-bb3d-41c8a197029e": {
    "closed_at": null,
@@ -176,7 +195,7 @@
    "url": "https://jobs.ashbyhq.com/linear/6dd5500a-4bd4-4f57-ba09-7b07acefecf4"
   },
   "820d0d5a-0930-475c-b494-23e18ad2aa68": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "GTM",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -399,6 +418,21 @@
    "reopened": 0,
    "title": "Senior / Staff Fullstack Engineer",
    "url": "https://jobs.ashbyhq.com/linear/d3bc1ced-3ce4-4086-a050-555055dbb1ff"
+  },
+  "d8890a6d-ce76-4c3d-aacc-34c1ed150d91": {
+   "closed_at": null,
+   "department": "GTM",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "solutions engineer apac @ singapore",
+   "location": "Singapore",
+   "posted_at": "2026-10-21T00:50:15+00:00",
+   "posted_history": [
+    "2026-10-21T00:50:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Solutions Engineer, APAC",
+   "url": "https://jobs.ashbyhq.com/linear/d8890a6d-ce76-4c3d-aacc-34c1ed150d91"
   },
   "eac7f181-d658-4943-9430-51bae2bcd110": {
    "closed_at": null,

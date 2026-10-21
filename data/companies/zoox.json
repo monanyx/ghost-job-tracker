@@ -7,6 +7,10 @@
   {
    "date": "2026-10-20",
    "open": 239
+  },
+  {
+   "date": "2026-10-21",
+   "open": 237
   }
  ],
  "jobs": {
@@ -22,7 +26,7 @@
     "2026-04-17T15:58:31+00:00"
    ],
    "reopened": 0,
-   "title": "Engineering Manager,  Performance Optimization",
+   "title": "Engineering Manager, Performance Optimization",
    "url": "https://jobs.lever.co/zoox/000392a0-3844-47c4-b580-d56d9a97620c"
   },
   "00bede24-f74d-4447-ace1-48638965382e": {
@@ -356,7 +360,7 @@
    "url": "https://jobs.lever.co/zoox/18f1de8e-0f9f-48a5-aca6-406e1206dc47"
   },
   "1c9dae67-e486-4e39-b6a5-ccac4d93b2df": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "Business Applications",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -461,7 +465,7 @@
    "url": "https://jobs.lever.co/zoox/20289d99-c867-4022-85a3-0c5a69a04faf"
   },
   "205dea93-1a08-4b7e-b3b4-46783a3fb047": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "PEx Business Partners",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1240,6 +1244,21 @@
    "title": "Senior/Staff Cost Engineer",
    "url": "https://jobs.lever.co/zoox/4f5492ab-a8d0-4d28-9d77-67a1d033ea81"
   },
+  "4f5ce2df-d9ef-4fac-98a6-a80e0cf54252": {
+   "closed_at": null,
+   "department": "Indirect Procurement",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "strategic sourcing manager it software services @ foster city, ca",
+   "location": "Foster City, CA",
+   "posted_at": "2026-10-20T20:30:52+00:00",
+   "posted_history": [
+    "2026-10-20T20:30:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Sourcing Manager, IT Software & Services",
+   "url": "https://jobs.lever.co/zoox/4f5ce2df-d9ef-4fac-98a6-a80e0cf54252"
+  },
   "4fcf2e08-0703-4246-a8f7-064cc221be3f": {
    "closed_at": null,
    "department": "Autonomy Software",
@@ -1586,7 +1605,7 @@
    "url": "https://jobs.lever.co/zoox/6e83599a-480e-4fe8-bac7-3b9da512558d"
   },
   "6e8794f4-7098-4ba2-a04c-938a1096e91b": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "Manufacturing Test & Diagnostics",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2400,14 +2419,14 @@
    "department": "Direct Procurement",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "manager procurement strategic partnerships chassis @ foster city, ca",
+   "fp": "manager procurement strategic partnerships @ foster city, ca",
    "location": "Foster City, CA",
    "posted_at": "2026-07-08T20:01:29+00:00",
    "posted_history": [
     "2026-07-08T20:01:29+00:00"
    ],
    "reopened": 0,
-   "title": "Manager, Procurement & Strategic Partnerships - Chassis",
+   "title": "Manager, Procurement & Strategic Partnerships",
    "url": "https://jobs.lever.co/zoox/a50dec1e-ad55-415f-880c-2f1bd8291311"
   },
   "a76e2e49-4f41-40d6-9bda-b15c24d7590b": {
@@ -2621,7 +2640,7 @@
    "url": "https://jobs.lever.co/zoox/b30b28b0-fea9-4420-a61e-10309c3f7c52"
   },
   "b346616d-9891-4c68-a8ac-22bd97feac01": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "Software Platforms and Product",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2889,6 +2908,21 @@
    "reopened": 0,
    "title": "Contract Student Worker – AI Validation and Benchmarking Engineer (40hrs / week Full-Time)",
    "url": "https://jobs.lever.co/zoox/cc43bf88-ed84-408f-a557-3d1c7263ddff"
+  },
+  "ccddfb39-ba95-485c-b18e-b9c3cb08dcec": {
+   "closed_at": null,
+   "department": "Communications",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "senior executive operations program manager @ foster city, ca",
+   "location": "Foster City, CA",
+   "posted_at": "2026-10-20T23:22:48+00:00",
+   "posted_history": [
+    "2026-10-20T23:22:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Executive Operations Program Manager",
+   "url": "https://jobs.lever.co/zoox/ccddfb39-ba95-485c-b18e-b9c3cb08dcec"
   },
   "cfb9dff3-844f-443e-9be8-46133eb9e656": {
    "closed_at": null,

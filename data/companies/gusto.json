@@ -7,6 +7,10 @@
   {
    "date": "2026-10-20",
    "open": 101
+  },
+  {
+   "date": "2026-10-21",
+   "open": 100
   }
  ],
  "jobs": {
@@ -235,6 +239,21 @@
    "title": "Principal Product Manager, Unified Service Platform",
    "url": "https://job-boards.greenhouse.io/gusto/jobs/7868243"
   },
+  "7899871": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "ai operations program manager benefits @ denver, co - hybrid",
+   "location": "Denver, CO - Hybrid",
+   "posted_at": "2026-05-21T16:37:07+00:00",
+   "posted_history": [
+    "2026-05-21T16:37:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "AI Operations Program Manager, Benefits",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/7899871"
+  },
   "7905578": {
    "closed_at": null,
    "department": "",
@@ -330,8 +349,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:43:50+00:00",
-   "fp": "customer experience specialist health insurance benefits @ denver, co - hybrid",
-   "location": "Denver, CO - Hybrid",
+   "fp": "customer experience specialist health insurance benefits @ denver, co - hybrid; phoenix, az - hybrid",
+   "location": "Denver, CO - Hybrid; Phoenix, AZ - Hybrid",
    "posted_at": "2026-06-04T21:01:07+00:00",
    "posted_history": [
     "2026-06-04T21:01:07+00:00"
@@ -405,8 +424,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "hr consultant @ denver, co - hybrid",
-   "location": "Denver, CO - Hybrid",
+   "fp": "hr consultant @ colorado, co - remote; scottsdale, az - hybrid; texas, tx - remote; utah, ut - remote",
+   "location": "Colorado, CO - Remote; Scottsdale, AZ - Hybrid; Texas, TX - Remote; Utah, UT - Remote",
    "posted_at": "2026-07-01T21:54:35+00:00",
    "posted_history": [
     "2026-07-01T21:54:35+00:00"
@@ -806,7 +825,7 @@
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8142994"
   },
   "8143038": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -821,7 +840,7 @@
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8143038"
   },
   "8143042": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

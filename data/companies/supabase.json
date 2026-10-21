@@ -7,6 +7,10 @@
   {
    "date": "2026-10-20",
    "open": 53
+  },
+  {
+   "date": "2026-10-21",
+   "open": 55
   }
  ],
  "jobs": {
@@ -56,7 +60,7 @@
    "url": "https://jobs.ashbyhq.com/supabase/142135ae-a15f-4ec7-90bb-cb4e7968bc09"
   },
   "180257c0-ad46-4fae-b34f-36d8ddc2fe2e": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "Partnerships",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -279,6 +283,21 @@
    "reopened": 0,
    "title": "Database Support Engineer (APAC)",
    "url": "https://jobs.ashbyhq.com/supabase/62945518-2468-4cf5-9f36-904b60f75183"
+  },
+  "62dfb104-ae18-46ce-a9ef-836f024c3d6d": {
+   "closed_at": null,
+   "department": "Marketing",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "head of communications @ remote, amer",
+   "location": "Remote, AMER",
+   "posted_at": "2026-10-20T20:16:50+00:00",
+   "posted_history": [
+    "2026-10-20T20:16:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Head of Communications (New Media)",
+   "url": "https://jobs.ashbyhq.com/supabase/62dfb104-ae18-46ce-a9ef-836f024c3d6d"
   },
   "66bab062-b769-43cf-ac3c-a2630257624c": {
    "closed_at": null,
@@ -670,6 +689,21 @@
    "title": "Customer Solution Architect (AMER)",
    "url": "https://jobs.ashbyhq.com/supabase/d5573afa-636c-4219-832f-386f498243bf"
   },
+  "d6af503b-acc4-40c9-83d8-d4fe0dcc2dd5": {
+   "closed_at": null,
+   "department": "Marketing",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "growth marketer creators channels @ remote, amer",
+   "location": "Remote, AMER",
+   "posted_at": "2026-10-20T18:32:12+00:00",
+   "posted_history": [
+    "2026-10-20T18:32:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Growth Marketer, Creators & Channels",
+   "url": "https://jobs.ashbyhq.com/supabase/d6af503b-acc4-40c9-83d8-d4fe0dcc2dd5"
+  },
   "dcf09dfe-55bc-44ba-b5db-1a2de7f33216": {
    "closed_at": null,
    "department": "Support",
@@ -744,6 +778,21 @@
    "reopened": 0,
    "title": "Multigres Deployment Engineer",
    "url": "https://jobs.ashbyhq.com/supabase/f035bda1-b5d3-4c5b-8736-b9c335fe1c3b"
+  },
+  "f0f277ac-b96c-478a-81ca-7bd80612533f": {
+   "closed_at": null,
+   "department": "Partnerships",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "partnerships manager ecosystem @ remote, amer",
+   "location": "Remote, AMER",
+   "posted_at": "2026-10-20T21:47:59+00:00",
+   "posted_history": [
+    "2026-10-20T21:47:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Partnerships Manager, Ecosystem",
+   "url": "https://jobs.ashbyhq.com/supabase/f0f277ac-b96c-478a-81ca-7bd80612533f"
   },
   "f18b1173-51c3-4ff6-bcda-89f8111931f4": {
    "closed_at": null,

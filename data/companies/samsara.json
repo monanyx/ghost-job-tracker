@@ -7,6 +7,10 @@
   {
    "date": "2026-10-20",
    "open": 265
+  },
+  {
+   "date": "2026-10-21",
+   "open": 285
   }
  ],
  "jobs": {
@@ -71,7 +75,7 @@
    "url": "https://www.samsara.com/company/careers/roles/7266397?gh_jid=7266397"
   },
   "7266439": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -345,8 +349,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "account executive mid market @ remote - us",
-   "location": "Remote - US",
+   "fp": "account executive mid market @ remote - sf bay area; san francisco, ca, united states",
+   "location": "Remote - SF Bay Area; San Francisco, CA, United States",
    "posted_at": "2026-02-12T19:44:08+00:00",
    "posted_history": [
     "2026-02-12T19:44:08+00:00"
@@ -1210,6 +1214,21 @@
    "title": "Software Engineer - Data Platform",
    "url": "https://www.samsara.com/company/careers/roles/7992889?gh_jid=7992889"
   },
+  "7993670": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "senior trial success manager @ remote - us",
+   "location": "Remote - US",
+   "posted_at": "2026-06-11T20:10:44+00:00",
+   "posted_history": [
+    "2026-06-11T20:10:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Trial Success Manager",
+   "url": "https://www.samsara.com/company/careers/roles/7993670?gh_jid=7993670"
+  },
   "7997916": {
    "closed_at": null,
    "department": "",
@@ -2021,7 +2040,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8115078?gh_jid=8115078"
   },
   "8120538": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2141,7 +2160,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8129161?gh_jid=8129161"
   },
   "8130819": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2169,6 +2188,51 @@
    "reopened": 0,
    "title": "Enterprise Customer Success Manager",
    "url": "https://www.samsara.com/company/careers/roles/8132327?gh_jid=8132327"
+  },
+  "8132379": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "manager mid market @ remote - us",
+   "location": "Remote - US",
+   "posted_at": "2026-08-19T21:22:36+00:00",
+   "posted_history": [
+    "2026-08-19T21:22:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Mid Market (Central)",
+   "url": "https://www.samsara.com/company/careers/roles/8132379?gh_jid=8132379"
+  },
+  "8132381": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "manager mid market @ remote - us",
+   "location": "Remote - US",
+   "posted_at": "2026-08-19T21:22:40+00:00",
+   "posted_history": [
+    "2026-08-19T21:22:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Mid Market (East)",
+   "url": "https://www.samsara.com/company/careers/roles/8132381?gh_jid=8132381"
+  },
+  "8132385": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "manager mid market @ remote - us",
+   "location": "Remote - US",
+   "posted_at": "2026-08-19T21:22:45+00:00",
+   "posted_history": [
+    "2026-08-19T21:22:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Mid Market (West)",
+   "url": "https://www.samsara.com/company/careers/roles/8132385?gh_jid=8132385"
   },
   "8139049": {
    "closed_at": null,
@@ -2471,7 +2535,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8162294?gh_jid=8162294"
   },
   "8162344": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2516,7 +2580,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8168295?gh_jid=8168295"
   },
   "8169431": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3345,8 +3409,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior software engineer ii devex @ remote - nyc",
-   "location": "Remote - NYC",
+   "fp": "senior software engineer ii devex @ remote - us",
+   "location": "Remote - US",
    "posted_at": "2026-09-30T03:13:07+00:00",
    "posted_history": [
     "2026-09-30T03:13:07+00:00"
@@ -3506,7 +3570,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8247432?gh_jid=8247432"
   },
   "8249717": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3714,6 +3778,21 @@
    "reopened": 0,
    "title": "Staff Software Engineer, Maps Services",
    "url": "https://www.samsara.com/company/careers/roles/8267637?gh_jid=8267637"
+  },
+  "8268030": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "principal r d learning products enablement @ remote - us",
+   "location": "Remote - US",
+   "posted_at": "2026-10-20T22:38:36+00:00",
+   "posted_history": [
+    "2026-10-20T22:38:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal, R&D Learning Products & Enablement",
+   "url": "https://www.samsara.com/company/careers/roles/8268030?gh_jid=8268030"
   },
   "8274767": {
    "closed_at": null,
@@ -3985,6 +4064,21 @@
    "title": "People Partner",
    "url": "https://www.samsara.com/company/careers/roles/8288505?gh_jid=8288505"
   },
+  "8300580": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "senior strategy ops lead post sale product adoption @ remote - sf bay area",
+   "location": "Remote - SF Bay Area",
+   "posted_at": "2026-10-20T23:49:10+00:00",
+   "posted_history": [
+    "2026-10-20T23:49:10+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Strategy & Ops Lead, Post-Sale Product Adoption",
+   "url": "https://www.samsara.com/company/careers/roles/8300580?gh_jid=8300580"
+  },
   "8302004": {
    "closed_at": null,
    "department": "",
@@ -3999,6 +4093,306 @@
    "reopened": 0,
    "title": "Senior AI Data & Analytics Engineer II",
    "url": "https://www.samsara.com/company/careers/roles/8302004?gh_jid=8302004"
+  },
+  "8304132": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "account executive mid market @ dallas, texas, united states; remote - tx",
+   "location": "Dallas, Texas, United States; Remote - TX",
+   "posted_at": "2026-10-20T18:38:26+00:00",
+   "posted_history": [
+    "2026-10-20T18:38:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, Mid Market (TOLA)",
+   "url": "https://www.samsara.com/company/careers/roles/8304132?gh_jid=8304132"
+  },
+  "8304185": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "account executive mid market @ remote - mi; remote - ok",
+   "location": "Remote - MI; Remote - OK",
+   "posted_at": "2026-10-20T19:10:39+00:00",
+   "posted_history": [
+    "2026-10-20T19:10:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, Mid Market (TOLA)",
+   "url": "https://www.samsara.com/company/careers/roles/8304185?gh_jid=8304185"
+  },
+  "8304206": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "account executive mid market @ remote - al; remote - mo",
+   "location": "Remote - AL; Remote - MO",
+   "posted_at": "2026-10-20T19:26:01+00:00",
+   "posted_history": [
+    "2026-10-20T19:26:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, Mid Market (TOLA)",
+   "url": "https://www.samsara.com/company/careers/roles/8304206?gh_jid=8304206"
+  },
+  "8304217": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "account executive mid market @ remote - houston",
+   "location": "Remote - Houston",
+   "posted_at": "2026-10-20T19:31:39+00:00",
+   "posted_history": [
+    "2026-10-20T19:31:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, Mid Market (TOLA)",
+   "url": "https://www.samsara.com/company/careers/roles/8304217?gh_jid=8304217"
+  },
+  "8304388": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "account executive mid market @ remote - ca",
+   "location": "Remote - CA",
+   "posted_at": "2026-10-20T20:24:25+00:00",
+   "posted_history": [
+    "2026-10-20T20:24:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, Mid Market (West)",
+   "url": "https://www.samsara.com/company/careers/roles/8304388?gh_jid=8304388"
+  },
+  "8304392": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "account executive mid market @ phoenix, arizona, united states; remote - az",
+   "location": "Phoenix, Arizona, United States; Remote - AZ",
+   "posted_at": "2026-10-20T20:27:01+00:00",
+   "posted_history": [
+    "2026-10-20T20:27:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, Mid Market (West)",
+   "url": "https://www.samsara.com/company/careers/roles/8304392?gh_jid=8304392"
+  },
+  "8304430": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "account executive mid market @ remote - denver; remote - seattle",
+   "location": "Remote - Denver; Remote - Seattle",
+   "posted_at": "2026-10-20T20:39:57+00:00",
+   "posted_history": [
+    "2026-10-20T20:39:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, Mid Market (West)",
+   "url": "https://www.samsara.com/company/careers/roles/8304430?gh_jid=8304430"
+  },
+  "8304442": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "account executive mid market @ remote - id; remote - nm; remote - ut",
+   "location": "Remote - ID; Remote - NM; Remote - UT",
+   "posted_at": "2026-10-20T20:48:42+00:00",
+   "posted_history": [
+    "2026-10-20T20:48:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, Mid Market (West)",
+   "url": "https://www.samsara.com/company/careers/roles/8304442?gh_jid=8304442"
+  },
+  "8304486": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "account executive mid market @ atlanta, georgia, united states; remote - sc",
+   "location": "Atlanta, Georgia, United States; Remote - SC",
+   "posted_at": "2026-10-20T20:58:00+00:00",
+   "posted_history": [
+    "2026-10-20T20:58:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, Mid Market (Southeast)",
+   "url": "https://www.samsara.com/company/careers/roles/8304486?gh_jid=8304486"
+  },
+  "8304491": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "account executive mid market @ remote - fl; remote - nc",
+   "location": "Remote - FL; Remote - NC",
+   "posted_at": "2026-10-20T21:02:36+00:00",
+   "posted_history": [
+    "2026-10-20T21:02:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, Mid Market (Southeast)",
+   "url": "https://www.samsara.com/company/careers/roles/8304491?gh_jid=8304491"
+  },
+  "8304492": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "account executive mid market @ remote - ky; remote - tn",
+   "location": "Remote - KY; Remote - TN",
+   "posted_at": "2026-10-20T21:04:54+00:00",
+   "posted_history": [
+    "2026-10-20T21:04:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, Mid Market (Southeast)",
+   "url": "https://www.samsara.com/company/careers/roles/8304492?gh_jid=8304492"
+  },
+  "8304495": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "account executive mid market @ remote - va metro; remote - wv metro",
+   "location": "Remote - VA Metro; Remote - WV Metro",
+   "posted_at": "2026-10-20T21:09:46+00:00",
+   "posted_history": [
+    "2026-10-20T21:09:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, Mid Market (Southeast)",
+   "url": "https://www.samsara.com/company/careers/roles/8304495?gh_jid=8304495"
+  },
+  "8304534": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "account executive mid market @ remote - nj; remote - ny",
+   "location": "Remote - NJ; Remote - NY",
+   "posted_at": "2026-10-20T21:19:15+00:00",
+   "posted_history": [
+    "2026-10-20T21:19:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, Mid Market (Northeast)",
+   "url": "https://www.samsara.com/company/careers/roles/8304534?gh_jid=8304534"
+  },
+  "8304547": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "account executive mid market @ remote - ma; remote - ri",
+   "location": "Remote - MA; Remote - RI",
+   "posted_at": "2026-10-20T21:22:06+00:00",
+   "posted_history": [
+    "2026-10-20T21:22:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, Mid Market (Northeast)",
+   "url": "https://www.samsara.com/company/careers/roles/8304547?gh_jid=8304547"
+  },
+  "8304559": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "account executive mid market @ remote - dc; remote - md",
+   "location": "Remote - DC; Remote - MD",
+   "posted_at": "2026-10-20T21:25:45+00:00",
+   "posted_history": [
+    "2026-10-20T21:25:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, Mid Market (Northeast)",
+   "url": "https://www.samsara.com/company/careers/roles/8304559?gh_jid=8304559"
+  },
+  "8304565": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "account executive mid market @ philadelphia, pennsylvania, united states",
+   "location": "Philadelphia, Pennsylvania, United States",
+   "posted_at": "2026-10-20T21:28:20+00:00",
+   "posted_history": [
+    "2026-10-20T21:28:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, Mid Market (Northeast)",
+   "url": "https://www.samsara.com/company/careers/roles/8304565?gh_jid=8304565"
+  },
+  "8304572": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "account executive mid market @ remote - ct; remote - nh",
+   "location": "Remote - CT; Remote - NH",
+   "posted_at": "2026-10-20T21:30:32+00:00",
+   "posted_history": [
+    "2026-10-20T21:30:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, Mid Market (Northeast)",
+   "url": "https://www.samsara.com/company/careers/roles/8304572?gh_jid=8304572"
+  },
+  "8304611": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "account executive mid market @ remote - chicago; remote - in",
+   "location": "Remote - Chicago; Remote - IN",
+   "posted_at": "2026-10-20T21:41:00+00:00",
+   "posted_history": [
+    "2026-10-20T21:41:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, Mid Market (Midwest)",
+   "url": "https://www.samsara.com/company/careers/roles/8304611?gh_jid=8304611"
+  },
+  "8304615": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "account executive mid market @ remote - mi; remote - oh",
+   "location": "Remote - MI; Remote - OH",
+   "posted_at": "2026-10-20T21:42:58+00:00",
+   "posted_history": [
+    "2026-10-20T21:42:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, Mid Market (Midwest)",
+   "url": "https://www.samsara.com/company/careers/roles/8304615?gh_jid=8304615"
+  },
+  "8304697": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "principal r d learning products enablement @ canada",
+   "location": "Canada",
+   "posted_at": "2026-10-20T22:38:39+00:00",
+   "posted_history": [
+    "2026-10-20T22:38:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal, R&D Learning Products & Enablement",
+   "url": "https://www.samsara.com/company/careers/roles/8304697?gh_jid=8304697"
   }
  }
 }

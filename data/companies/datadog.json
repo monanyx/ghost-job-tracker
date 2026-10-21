@@ -7,6 +7,10 @@
   {
    "date": "2026-10-20",
    "open": 432
+  },
+  {
+   "date": "2026-10-21",
+   "open": 435
   }
  ],
  "jobs": {
@@ -1120,6 +1124,21 @@
    "title": "Key Accounts Executive",
    "url": "https://careers.datadoghq.com/detail/7409236/?gh_jid=7409236"
   },
+  "7409247": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "key accounts executive @ california, usa, remote; colorado, usa, remote; washington, usa, remote",
+   "location": "California, USA, Remote; Colorado, USA, Remote; Washington, USA, Remote",
+   "posted_at": "2026-01-21T18:57:00+00:00",
+   "posted_history": [
+    "2026-01-21T18:57:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Key Accounts Executive",
+   "url": "https://careers.datadoghq.com/detail/7409247/?gh_jid=7409247"
+  },
   "7410254": {
    "closed_at": null,
    "department": "",
@@ -2186,7 +2205,7 @@
    "url": "https://careers.datadoghq.com/detail/7964141/?gh_jid=7964141"
   },
   "7965428": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2996,7 +3015,7 @@
    "url": "https://careers.datadoghq.com/detail/8082007/?gh_jid=8082007"
   },
   "8082391": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3161,7 +3180,7 @@
    "url": "https://careers.datadoghq.com/detail/8095166/?gh_jid=8095166"
   },
   "8095826": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4785,8 +4804,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior deal desk analyst @ san francisco, california, usa",
-   "location": "San Francisco, California, USA",
+   "fp": "senior deal desk analyst @ denver, colorado, usa; san francisco, california, usa",
+   "location": "Denver, Colorado, USA; San Francisco, California, USA",
    "posted_at": "2026-09-21T15:54:26+00:00",
    "posted_history": [
     "2026-09-21T15:54:26+00:00"
@@ -5250,14 +5269,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "enablement designer recruiting @ new york, new york, usa",
+   "fp": "program manager recruiting enablement @ new york, new york, usa",
    "location": "New York, New York, USA",
    "posted_at": "2026-09-30T19:17:48+00:00",
    "posted_history": [
     "2026-09-30T19:17:48+00:00"
    ],
    "reopened": 0,
-   "title": "Enablement Designer, Recruiting",
+   "title": "Program Manager, Recruiting Enablement",
    "url": "https://careers.datadoghq.com/detail/8226352/?gh_jid=8226352"
   },
   "8226522": {
@@ -5422,7 +5441,7 @@
     "2026-09-30T19:16:45+00:00"
    ],
    "reopened": 0,
-   "title": "Recruiting Operations Program Manager (NYC)",
+   "title": "Recruiting Operations Program Manager",
    "url": "https://careers.datadoghq.com/detail/8237428/?gh_jid=8237428"
   },
   "8237641": {
@@ -6385,6 +6404,21 @@
    "title": "Manager II, Developer Advocacy",
    "url": "https://careers.datadoghq.com/detail/8282140/?gh_jid=8282140"
   },
+  "8282212": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "enterprise customer success manager boston new york @ boston, massachusetts, usa; new york, new york, usa",
+   "location": "Boston, Massachusetts, USA; New York, New York, USA",
+   "posted_at": "2026-10-21T07:40:06+00:00",
+   "posted_history": [
+    "2026-10-21T07:40:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Customer Success Manager - Boston/New York",
+   "url": "https://careers.datadoghq.com/detail/8282212/?gh_jid=8282212"
+  },
   "8282504": {
    "closed_at": null,
    "department": "",
@@ -6399,6 +6433,21 @@
    "reopened": 0,
    "title": "Product Manager II - RUM",
    "url": "https://careers.datadoghq.com/detail/8282504/?gh_jid=8282504"
+  },
+  "8282537": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "learning technology specialist @ new york, new york, usa",
+   "location": "New York, New York, USA",
+   "posted_at": "2026-10-20T17:29:28+00:00",
+   "posted_history": [
+    "2026-10-20T17:29:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Learning Technology Specialist",
+   "url": "https://careers.datadoghq.com/detail/8282537/?gh_jid=8282537"
   },
   "8282552": {
    "closed_at": null,
@@ -6429,6 +6478,21 @@
    "reopened": 0,
    "title": "Senior Security Engineer, Security Incident Response Team",
    "url": "https://careers.datadoghq.com/detail/8286919/?gh_jid=8286919"
+  },
+  "8287316": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "sales development representative summer 2027 graduates @ boston, massachusetts, usa",
+   "location": "Boston, Massachusetts, USA",
+   "posted_at": "2026-10-21T00:03:02+00:00",
+   "posted_history": [
+    "2026-10-21T00:03:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales Development Representative - Summer 2027 Graduates (Boston)",
+   "url": "https://careers.datadoghq.com/detail/8287316/?gh_jid=8287316"
   },
   "8289036": {
    "closed_at": null,
@@ -6489,6 +6553,36 @@
    "reopened": 0,
    "title": "Senior Security Engineer - Platform Trust & Safety",
    "url": "https://careers.datadoghq.com/detail/8292699/?gh_jid=8292699"
+  },
+  "8303221": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "director enterprise sales @ san francisco, california, usa",
+   "location": "San Francisco, California, USA",
+   "posted_at": "2026-10-20T18:18:11+00:00",
+   "posted_history": [
+    "2026-10-20T18:18:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Director, Enterprise Sales",
+   "url": "https://careers.datadoghq.com/detail/8303221/?gh_jid=8303221"
+  },
+  "8304107": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "staff software engineer watchdog anomaly detection @ new york, new york, usa",
+   "location": "New York, New York, USA",
+   "posted_at": "2026-10-20T18:24:36+00:00",
+   "posted_history": [
+    "2026-10-20T18:24:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer - Watchdog Anomaly Detection",
+   "url": "https://careers.datadoghq.com/detail/8304107/?gh_jid=8304107"
   }
  }
 }

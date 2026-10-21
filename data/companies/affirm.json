@@ -7,6 +7,10 @@
   {
    "date": "2026-10-20",
    "open": 215
+  },
+  {
+   "date": "2026-10-21",
+   "open": 219
   }
  ],
  "jobs": {
@@ -176,7 +180,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7727322003"
   },
   "7740654003": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2875,6 +2879,36 @@
    "title": "Software Engineer II, Backend (Online Storage)",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8012043003"
   },
+  "8012093003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "senior program manager i @ remote us",
+   "location": "Remote US",
+   "posted_at": "2026-10-20T21:21:23+00:00",
+   "posted_history": [
+    "2026-10-20T21:21:23+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Program Manager I",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8012093003"
+  },
+  "8012095003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "senior program manager i @ remote canada",
+   "location": "Remote Canada",
+   "posted_at": "2026-10-20T21:21:26+00:00",
+   "posted_history": [
+    "2026-10-20T21:21:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Program Manager I",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8012095003"
+  },
   "8012129003": {
    "closed_at": null,
    "department": "",
@@ -3069,6 +3103,51 @@
    "reopened": 0,
    "title": "Software Engineer I, Fullstack (Search)",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8017342003"
+  },
+  "8017503003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "senior software engineer backend @ remote us",
+   "location": "Remote US",
+   "posted_at": "2026-10-20T16:15:39+00:00",
+   "posted_history": [
+    "2026-10-20T16:15:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Backend (Identity Data)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8017503003"
+  },
+  "8017505003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "senior software engineer backend @ remote canada",
+   "location": "Remote Canada",
+   "posted_at": "2026-10-20T16:15:40+00:00",
+   "posted_history": [
+    "2026-10-20T16:15:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Backend (Identity Data)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8017505003"
+  },
+  "8017509003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "software engineer ii backend @ remote canada",
+   "location": "Remote Canada",
+   "posted_at": "2026-10-20T18:53:29+00:00",
+   "posted_history": [
+    "2026-10-20T18:53:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer II, Backend (Purchasing Power - Core)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8017509003"
   },
   "8020318003": {
    "closed_at": null,

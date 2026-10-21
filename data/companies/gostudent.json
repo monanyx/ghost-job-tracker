@@ -7,6 +7,10 @@
   {
    "date": "2026-10-20",
    "open": 28
+  },
+  {
+   "date": "2026-10-21",
+   "open": 28
   }
  ],
  "jobs": {
@@ -416,7 +420,7 @@
    "url": "https://www.gostudent.org/en-gb/job-position/?gh_jid=5010010101"
   },
   "5010173101": {
-   "closed_at": null,
+   "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -435,15 +439,30 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-20T08:53:12+00:00",
-   "fp": "copy of centre manager piola @ milan, italy",
+   "fp": "centre manager piola @ milan, italy",
    "location": "Milan, Italy",
    "posted_at": "2026-10-20T08:24:03+00:00",
    "posted_history": [
     "2026-10-20T08:24:03+00:00"
    ],
    "reopened": 0,
-   "title": "Copy of Centre Manager- Piola  (Fixed Term - Part Time)",
+   "title": "Centre Manager- Piola  (Fixed Term - Part Time)",
    "url": "https://www.gostudent.org/en-gb/job-position/?gh_jid=5010733101"
+  },
+  "5011129101": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "lernquadrat center manager in grieskirchen @ grieskirchen, upper austria, austria",
+   "location": "Grieskirchen, Upper Austria, Austria",
+   "posted_at": "2026-10-20T13:16:58+00:00",
+   "posted_history": [
+    "2026-10-20T13:16:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "LernQuadrat - Center Manager (w/m/d) in Grieskirchen (Oberösterreich)",
+   "url": "https://www.gostudent.org/en-gb/job-position/?gh_jid=5011129101"
   }
  }
 }

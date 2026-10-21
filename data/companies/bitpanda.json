@@ -7,6 +7,10 @@
   {
    "date": "2026-10-20",
    "open": 31
+  },
+  {
+   "date": "2026-10-21",
+   "open": 33
   }
  ],
  "jobs": {
@@ -474,6 +478,36 @@
    "reopened": 0,
    "title": "Associate, Tax",
    "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5005854101"
+  },
+  "5009828101": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "intern web3 @ vienna, vienna, austria",
+   "location": "Vienna, Vienna, Austria",
+   "posted_at": "2026-10-20T15:51:15+00:00",
+   "posted_history": [
+    "2026-10-20T15:51:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Intern, Web3",
+   "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5009828101"
+  },
+  "5011135101": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-21T08:53:29+00:00",
+   "fp": "specialist procurement @ vienna, vienna, austria",
+   "location": "Vienna, Vienna, Austria",
+   "posted_at": "2026-10-21T06:53:33+00:00",
+   "posted_history": [
+    "2026-10-21T06:53:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Specialist, Procurement",
+   "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5011135101"
   }
  }
 }
