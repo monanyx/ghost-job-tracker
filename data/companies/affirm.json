@@ -11,6 +11,10 @@
   {
    "date": "2026-10-21",
    "open": 219
+  },
+  {
+   "date": "2026-10-22",
+   "open": 224
   }
  ],
  "jobs": {
@@ -225,7 +229,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7749582003"
   },
   "7764109003": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -454,14 +458,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior software engineer backend @ remote us",
+   "fp": "senior software engineer @ remote us",
    "location": "Remote US",
    "posted_at": "2026-07-10T18:56:39+00:00",
    "posted_history": [
     "2026-07-10T18:56:39+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Software Engineer, Backend (Lake Analytics)",
+   "title": "Senior Software Engineer",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7799631003"
   },
   "7799633003": {
@@ -469,14 +473,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior software engineer backend @ remote canada",
+   "fp": "senior software engineer @ remote canada",
    "location": "Remote Canada",
    "posted_at": "2026-07-10T18:56:40+00:00",
    "posted_history": [
     "2026-07-10T18:56:40+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Software Engineer, Backend (Lake Analytics)",
+   "title": "Senior Software Engineer",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7799633003"
   },
   "7799933003": {
@@ -2715,7 +2719,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8009665003"
   },
   "8010489003": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2939,6 +2943,36 @@
    "title": "Manager, Software Engineering (Identity)",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8012584003"
   },
+  "8012914003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "platform marketing lead @ remote us",
+   "location": "Remote US",
+   "posted_at": "2026-10-21T13:20:50+00:00",
+   "posted_history": [
+    "2026-10-21T13:20:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Platform Marketing Lead",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8012914003"
+  },
+  "8012916003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "platform marketing lead @ remote canada",
+   "location": "Remote Canada",
+   "posted_at": "2026-10-21T13:20:52+00:00",
+   "posted_history": [
+    "2026-10-21T13:20:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "Platform Marketing Lead",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8012916003"
+  },
   "8013442003": {
    "closed_at": null,
    "department": "",
@@ -3073,6 +3107,36 @@
    "reopened": 0,
    "title": "Software Engineer II, Fullstack (Ads Platform)",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8016868003"
+  },
+  "8017284003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "senior software engineer backend @ remote us",
+   "location": "Remote US",
+   "posted_at": "2026-10-21T18:00:02+00:00",
+   "posted_history": [
+    "2026-10-21T18:00:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Backend (Workload Safety)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8017284003"
+  },
+  "8017286003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "senior software engineer backend @ remote canada",
+   "location": "Remote Canada",
+   "posted_at": "2026-10-21T18:00:04+00:00",
+   "posted_history": [
+    "2026-10-21T18:00:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Backend (Workload Safety)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8017286003"
   },
   "8017340003": {
    "closed_at": null,
@@ -3269,6 +3333,21 @@
    "title": "Machine Learning Engineer II (ROA + LTV ML)",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8033261003"
   },
+  "8033589003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "senior software engineer backend @ remote canada",
+   "location": "Remote Canada",
+   "posted_at": "2026-10-21T18:00:26+00:00",
+   "posted_history": [
+    "2026-10-21T18:00:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Backend (Cost Engineering)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8033589003"
+  },
   "8034649003": {
    "closed_at": null,
    "department": "",
@@ -3313,6 +3392,36 @@
    "reopened": 0,
    "title": "Director, Enterprise Sales",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8034821003"
+  },
+  "8037635003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "contract management specialist ii @ remote us",
+   "location": "Remote US",
+   "posted_at": "2026-10-21T21:34:07+00:00",
+   "posted_history": [
+    "2026-10-21T21:34:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Contract Management Specialist II",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8037635003"
+  },
+  "8039471003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "analyst early career @ new york, new york, united states; san francisco, california, united states",
+   "location": "New York, New York, United States; San Francisco, California, United States",
+   "posted_at": "2026-10-21T21:16:19+00:00",
+   "posted_history": [
+    "2026-10-21T21:16:19+00:00"
+   ],
+   "reopened": 0,
+   "title": "Analyst, Early Career (Full Stack)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8039471003"
   }
  }
 }

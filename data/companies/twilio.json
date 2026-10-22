@@ -11,6 +11,10 @@
   {
    "date": "2026-10-21",
    "open": 132
+  },
+  {
+   "date": "2026-10-22",
+   "open": 130
   }
  ],
  "jobs": {
@@ -180,7 +184,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/7904293"
   },
   "7917665": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -315,7 +319,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/7996774"
   },
   "7996776": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1380,7 +1384,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8226571"
   },
   "8235979": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1995,7 +1999,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8267928"
   },
   "8280140": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2069,6 +2073,21 @@
    "title": "Fraud Specialist, Supplier Operations & Governance",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8292798"
   },
+  "8300856": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "technical account manager @ remote - colombia",
+   "location": "Remote - Colombia",
+   "posted_at": "2026-10-21T19:13:07+00:00",
+   "posted_history": [
+    "2026-10-21T19:13:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Account Manager",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8300856"
+  },
   "8301926": {
    "closed_at": null,
    "department": "",
@@ -2083,6 +2102,21 @@
    "reopened": 0,
    "title": "Executive Business Partner",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8301926"
+  },
+  "8303973": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "legal services manager @ remote - united kingdom",
+   "location": "Remote - United Kingdom",
+   "posted_at": "2026-10-21T09:44:12+00:00",
+   "posted_history": [
+    "2026-10-21T09:44:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Legal Services Manager",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8303973"
   }
  }
 }

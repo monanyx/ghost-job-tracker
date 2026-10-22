@@ -11,6 +11,10 @@
   {
    "date": "2026-10-21",
    "open": 81
+  },
+  {
+   "date": "2026-10-22",
+   "open": 78
   }
  ],
  "jobs": {
@@ -675,7 +679,7 @@
    "url": "https://jobs.ashbyhq.com/lovable/7ee5ea78-9858-43c3-92b1-1d9a263414e1"
   },
   "7fe39289-1f7f-47d4-8002-d3aeeaaaabc6": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "EPD",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -735,7 +739,7 @@
    "url": "https://jobs.ashbyhq.com/lovable/87f4e6eb-c8ca-496c-a3d3-ff0dda4d8d8c"
   },
   "8dd92c40-b45d-41b2-ae6b-1680b0a05d92": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "FDN",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -870,7 +874,7 @@
    "url": "https://jobs.ashbyhq.com/lovable/ac61dda2-bff0-4f22-adca-a48b0b2f560c"
   },
   "ac86ab57-ff2e-4a49-83f8-51dd6bbc2cbf": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "FDN",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

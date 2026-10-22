@@ -11,11 +11,15 @@
   {
    "date": "2026-10-21",
    "open": 12
+  },
+  {
+   "date": "2026-10-22",
+   "open": 11
   }
  ],
  "jobs": {
   "7811563": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

@@ -11,6 +11,10 @@
   {
    "date": "2026-10-21",
    "open": 732
+  },
+  {
+   "date": "2026-10-22",
+   "open": 725
   }
  ],
  "jobs": {
@@ -1290,7 +1294,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=7747640"
   },
   "7767222": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1470,7 +1474,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=7819426"
   },
   "7825578": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1695,7 +1699,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=7896151"
   },
   "7896538": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1729,8 +1733,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "staff product manager sail core @ new york, us - remote, toronto",
-   "location": "New York, US - Remote, Toronto",
+   "fp": "staff product manager sail core @ new york, us - remote (east coast), toronto",
+   "location": "New York, US - Remote (East Coast), Toronto",
    "posted_at": "2026-05-12T02:05:58+00:00",
    "posted_history": [
     "2026-05-12T02:05:58+00:00"
@@ -2174,6 +2178,21 @@
    "title": "Product Designer, Design Systems",
    "url": "https://stripe.com/jobs/search?gh_jid=7983076"
   },
+  "7983456": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "machine learning engineer radar @ seattle, south san francisco",
+   "location": "Seattle, South San Francisco ",
+   "posted_at": "2026-06-23T20:59:46+00:00",
+   "posted_history": [
+    "2026-06-23T20:59:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "Machine Learning Engineer, Radar",
+   "url": "https://stripe.com/jobs/search?gh_jid=7983456"
+  },
   "7983725": {
    "closed_at": null,
    "department": "",
@@ -2190,7 +2209,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=7983725"
   },
   "7983854": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2745,7 +2764,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8040825"
   },
   "8041076": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2850,7 +2869,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8043083"
   },
   "8044158": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3285,7 +3304,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8074199"
   },
   "8074892": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3814,14 +3833,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
-   "fp": "enterprise services sales executive professional services @ london",
+   "fp": "professional services account executive @ london",
    "location": "London",
    "posted_at": "2026-10-20T09:43:20+00:00",
    "posted_history": [
     "2026-10-20T09:43:20+00:00"
    ],
    "reopened": 0,
-   "title": "Enterprise Services Sales Executive - Professional Services",
+   "title": "Professional Services Account Executive",
    "url": "https://stripe.com/jobs/search?gh_jid=8098866"
   },
   "8102337": {
@@ -4080,7 +4099,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8114397"
   },
   "8115908": {
-   "closed_at": "2026-10-21T08:53:29+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4090,7 +4109,7 @@
    "posted_history": [
     "2026-08-11T22:40:46+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Risk Operations Associate",
    "url": "https://stripe.com/jobs/search?gh_jid=8115908"
   },
@@ -4335,7 +4354,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8125473"
   },
   "8126047": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4905,7 +4924,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8142077"
   },
   "8142302": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5340,7 +5359,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8154531"
   },
   "8155164": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5355,7 +5374,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8155164"
   },
   "8155376": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5610,7 +5629,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8162185"
   },
   "8162189": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6690,7 +6709,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8177513"
   },
   "8177634": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7170,7 +7189,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8188323"
   },
   "8189015": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -8159,6 +8178,21 @@
    "title": "Product Manager - Developer Experience, Bridge",
    "url": "https://stripe.com/jobs/search?gh_jid=8204227"
   },
+  "8204649": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "head of product sales payouts @ sf, nyc",
+   "location": "SF, NYC",
+   "posted_at": "2026-10-21T16:33:12+00:00",
+   "posted_history": [
+    "2026-10-21T16:33:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Head of Product Sales, Payouts",
+   "url": "https://stripe.com/jobs/search?gh_jid=8204649"
+  },
   "8204652": {
    "closed_at": null,
    "department": "",
@@ -8400,7 +8434,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8209649"
   },
   "8209967": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -9570,7 +9604,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8237505"
   },
   "8237526": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -9853,6 +9887,21 @@
    "reopened": 0,
    "title": "Account Executive, Velocity Scaled Grower (Italian or Spanish fluency)",
    "url": "https://stripe.com/jobs/search?gh_jid=8241345"
+  },
+  "8241571": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "junior commercial associate works in progress @ london",
+   "location": "London",
+   "posted_at": "2026-10-05T12:48:25+00:00",
+   "posted_history": [
+    "2026-10-05T12:48:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Junior Commercial Associate — Works in Progress",
+   "url": "https://stripe.com/jobs/search?gh_jid=8241571"
   },
   "8241855": {
    "closed_at": null,
@@ -10244,6 +10293,21 @@
    "title": "Staff Software Engineer, Link - Consumer Preference",
    "url": "https://stripe.com/jobs/search?gh_jid=8257354"
   },
+  "8257500": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "partner marketing leader alliances channel @ seattle or san francisco",
+   "location": "Seattle or San Francisco",
+   "posted_at": "2026-10-06T17:17:17+00:00",
+   "posted_history": [
+    "2026-10-06T17:17:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Partner Marketing Leader, Alliances & Channel",
+   "url": "https://stripe.com/jobs/search?gh_jid=8257500"
+  },
   "8257892": {
    "closed_at": null,
    "department": "",
@@ -10319,8 +10383,23 @@
    "title": "Account Executive, SMB Hunter (Central Eastern Europe)",
    "url": "https://stripe.com/jobs/search?gh_jid=8258364"
   },
-  "8258815": {
+  "8258697": {
    "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "account executive product sales payouts @ new york or san francisco",
+   "location": "New York or San Francisco ",
+   "posted_at": "2026-10-19T11:52:49+00:00",
+   "posted_history": [
+    "2026-10-19T11:52:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, Product Sales - Payouts",
+   "url": "https://stripe.com/jobs/search?gh_jid=8258697"
+  },
+  "8258815": {
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -10961,11 +11040,11 @@
     "2026-10-16T19:27:40+00:00"
    ],
    "reopened": 0,
-   "title": "Indirect Tax Advisory Consultant",
+   "title": "Indirect Tax (VAT/GST) Advisory Consultant",
    "url": "https://stripe.com/jobs/search?gh_jid=8282721"
   },
   "8282859": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -11039,6 +11118,36 @@
    "title": "Staff Software Engineer, Radar",
    "url": "https://stripe.com/jobs/search?gh_jid=8287912"
   },
+  "8287916": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "credit risk analyst commercial underwriter @ singapore",
+   "location": "Singapore",
+   "posted_at": "2026-10-22T05:05:56+00:00",
+   "posted_history": [
+    "2026-10-22T05:05:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Credit Risk Analyst Commercial Underwriter",
+   "url": "https://stripe.com/jobs/search?gh_jid=8287916"
+  },
+  "8288334": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "operations program manager consumer support @ nyc",
+   "location": "NYC",
+   "posted_at": "2026-10-22T02:54:11+00:00",
+   "posted_history": [
+    "2026-10-22T02:54:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Operations Program Manager, Consumer Support",
+   "url": "https://stripe.com/jobs/search?gh_jid=8288334"
+  },
   "8288538": {
    "closed_at": null,
    "department": "",
@@ -11055,7 +11164,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8288538"
   },
   "8288561": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -11156,7 +11265,7 @@
     "2026-10-21T04:38:00+00:00"
    ],
    "reopened": 0,
-   "title": "Recruiting Coordinator (Fixed Term Contract)",
+   "title": "Recruiting Coordinator",
    "url": "https://stripe.com/jobs/search?gh_jid=8301264"
   },
   "8301379": {
@@ -11173,6 +11282,51 @@
    "reopened": 0,
    "title": "Backend / API Engineer, Radar",
    "url": "https://stripe.com/jobs/search?gh_jid=8301379"
+  },
+  "8301646": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "product manager radar @ san francisco, seattle new york, us - remote",
+   "location": "San Francisco, Seattle New York, US - Remote",
+   "posted_at": "2026-10-21T14:57:13+00:00",
+   "posted_history": [
+    "2026-10-21T14:57:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Manager, Radar",
+   "url": "https://stripe.com/jobs/search?gh_jid=8301646"
+  },
+  "8301946": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "engineering manager sandboxes @ seattle",
+   "location": "Seattle",
+   "posted_at": "2026-10-21T15:05:39+00:00",
+   "posted_history": [
+    "2026-10-21T15:05:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager, Sandboxes",
+   "url": "https://stripe.com/jobs/search?gh_jid=8301946"
+  },
+  "8304725": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "product designer risk @ us / canada",
+   "location": "US / Canada",
+   "posted_at": "2026-10-21T19:01:54+00:00",
+   "posted_history": [
+    "2026-10-21T19:01:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Designer, Risk",
+   "url": "https://stripe.com/jobs/search?gh_jid=8304725"
   },
   "8304836": {
    "closed_at": null,
@@ -11203,6 +11357,21 @@
    "reopened": 0,
    "title": "Account Executive, Velocity Platforms (Hunter)",
    "url": "https://stripe.com/jobs/search?gh_jid=8304841"
+  },
+  "8306158": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "product manager radar fraud and abuse prevention @ san francisco, seattle, new york, us-remote",
+   "location": "San Francisco, Seattle, New York, US-Remote",
+   "posted_at": "2026-10-21T14:57:56+00:00",
+   "posted_history": [
+    "2026-10-21T14:57:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Manager, Radar - Fraud and Abuse Prevention",
+   "url": "https://stripe.com/jobs/search?gh_jid=8306158"
   }
  }
 }

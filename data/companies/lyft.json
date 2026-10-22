@@ -11,6 +11,10 @@
   {
    "date": "2026-10-21",
    "open": 180
+  },
+  {
+   "date": "2026-10-22",
+   "open": 175
   }
  ],
  "jobs": {
@@ -150,7 +154,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8555335002?gh_jid=8555335002"
   },
   "8578280002": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -255,7 +259,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8594167002?gh_jid=8594167002"
   },
   "8594179002": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -270,7 +274,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8594179002?gh_jid=8594179002"
   },
   "8594365002": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -540,7 +544,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8648040002?gh_jid=8648040002"
   },
   "8648043002": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -735,7 +739,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8693500002?gh_jid=8693500002"
   },
   "8693503002": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -990,7 +994,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8743515002?gh_jid=8743515002"
   },
   "8746134002": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1200,7 +1204,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002"
   },
   "8772571002": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1710,7 +1714,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8797859002?gh_jid=8797859002"
   },
   "8802198002": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1755,7 +1759,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8802332002?gh_jid=8802332002"
   },
   "8806560002": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1995,7 +1999,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8827588002?gh_jid=8827588002"
   },
   "8828273002": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2833,6 +2837,81 @@
    "reopened": 0,
    "title": "Software Engineer, Growth Platforms",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8901107002?gh_jid=8901107002"
+  },
+  "8901115002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "engineering manager lyft business @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-10-21T20:31:39+00:00",
+   "posted_history": [
+    "2026-10-21T20:31:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager, Lyft Business",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8901115002?gh_jid=8901115002"
+  },
+  "8902977002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "creative project manager manifold @ u.s. anywhere",
+   "location": "U.S. Anywhere",
+   "posted_at": "2026-10-21T15:12:28+00:00",
+   "posted_history": [
+    "2026-10-21T15:12:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Creative Project Manager, Manifold",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8902977002?gh_jid=8902977002"
+  },
+  "8905089002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "lead executive support @ nashville, tn",
+   "location": "Nashville, TN",
+   "posted_at": "2026-10-21T18:18:58+00:00",
+   "posted_history": [
+    "2026-10-21T18:18:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Lead, Executive Support",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8905089002?gh_jid=8905089002"
+  },
+  "8905092002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "social media team lead @ toronto, canada",
+   "location": "Toronto, Canada",
+   "posted_at": "2026-10-21T16:50:21+00:00",
+   "posted_history": [
+    "2026-10-21T16:50:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Social Media Team Lead (Overnight)",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8905092002?gh_jid=8905092002"
+  },
+  "8907156002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "data scientist decisions payments @ toronto, canada",
+   "location": "Toronto, Canada",
+   "posted_at": "2026-10-21T20:44:05+00:00",
+   "posted_history": [
+    "2026-10-21T20:44:05+00:00"
+   ],
+   "reopened": 0,
+   "title": "Data Scientist, Decisions - Payments",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8907156002?gh_jid=8907156002"
   }
  }
 }

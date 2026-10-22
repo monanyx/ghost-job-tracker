@@ -11,6 +11,10 @@
   {
    "date": "2026-10-21",
    "open": 263
+  },
+  {
+   "date": "2026-10-22",
+   "open": 265
   }
  ],
  "jobs": {
@@ -915,7 +919,7 @@
    "url": "https://www.brex.com/careers/8504609002?gh_jid=8504609002"
   },
   "8519256002": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -930,7 +934,7 @@
    "url": "https://www.brex.com/careers/8519256002?gh_jid=8519256002"
   },
   "8523177002": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -945,7 +949,7 @@
    "url": "https://www.brex.com/careers/8523177002?gh_jid=8523177002"
   },
   "8523203002": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4018,6 +4022,81 @@
    "reopened": 0,
    "title": "Engineering Manager, Salesforce",
    "url": "https://www.brex.com/careers/8904121002?gh_jid=8904121002"
+  },
+  "8907499002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "fraud strategy associate @ vancouver, british columbia, canada",
+   "location": "Vancouver, British Columbia, Canada",
+   "posted_at": "2026-10-21T20:35:57+00:00",
+   "posted_history": [
+    "2026-10-21T20:35:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "Fraud Strategy Associate",
+   "url": "https://www.brex.com/careers/8907499002?gh_jid=8907499002"
+  },
+  "8907553002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "fraud strategy associate @ salt lake city, utah, united states",
+   "location": "Salt Lake City, Utah, United States",
+   "posted_at": "2026-10-21T20:37:12+00:00",
+   "posted_history": [
+    "2026-10-21T20:37:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Fraud Strategy Associate",
+   "url": "https://www.brex.com/careers/8907553002?gh_jid=8907553002"
+  },
+  "8907563002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "fraud strategy associate @ san francisco, california, united states",
+   "location": "San Francisco, California, United States",
+   "posted_at": "2026-10-21T20:52:37+00:00",
+   "posted_history": [
+    "2026-10-21T20:52:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Fraud Strategy Associate",
+   "url": "https://www.brex.com/careers/8907563002?gh_jid=8907563002"
+  },
+  "8907584002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "fraud strategy associate @ new york, new york, united states",
+   "location": "New York, New York, United States",
+   "posted_at": "2026-10-21T21:21:03+00:00",
+   "posted_history": [
+    "2026-10-21T21:21:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Fraud Strategy Associate",
+   "url": "https://www.brex.com/careers/8907584002?gh_jid=8907584002"
+  },
+  "8907623002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "fraud strategy associate @ seattle, washington, united states",
+   "location": "Seattle, Washington, United States",
+   "posted_at": "2026-10-21T21:23:43+00:00",
+   "posted_history": [
+    "2026-10-21T21:23:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Fraud Strategy Associate",
+   "url": "https://www.brex.com/careers/8907623002?gh_jid=8907623002"
   }
  }
 }

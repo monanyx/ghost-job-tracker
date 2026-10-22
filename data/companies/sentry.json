@@ -11,6 +11,10 @@
   {
    "date": "2026-10-21",
    "open": 45
+  },
+  {
+   "date": "2026-10-22",
+   "open": 43
   }
  ],
  "jobs": {
@@ -555,7 +559,7 @@
    "url": "https://jobs.ashbyhq.com/sentry/c796cd46-d80c-4ea8-9b0d-0eecbfc1353e"
   },
   "c8f08641-a748-44fd-80b9-d3283848606b": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "Customer Success ",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -615,7 +619,7 @@
    "url": "https://jobs.ashbyhq.com/sentry/ee7542d4-f478-4aa0-8da9-3583845d8269"
   },
   "ee90f315-6ff3-4e63-a11d-1dcfa2a863b4": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "Engineering ",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

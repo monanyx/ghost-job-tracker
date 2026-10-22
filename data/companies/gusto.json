@@ -11,6 +11,10 @@
   {
    "date": "2026-10-21",
    "open": 100
+  },
+  {
+   "date": "2026-10-22",
+   "open": 99
   }
  ],
  "jobs": {
@@ -510,7 +514,7 @@
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8013480"
   },
   "8022493": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -585,7 +589,7 @@
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8040766"
   },
   "8069947": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -645,7 +649,7 @@
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8077301"
   },
   "8078212": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1094,6 +1098,21 @@
    "title": "Staff Product Mobile Engineer, Business Money",
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8192093"
   },
+  "8203030": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "premier account partner @ atlanta, ga - hybrid; scottsdale, az - hybrid",
+   "location": "Atlanta, GA - Hybrid; Scottsdale, AZ - Hybrid",
+   "posted_at": "2026-09-15T21:58:37+00:00",
+   "posted_history": [
+    "2026-09-15T21:58:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Premier Account Partner",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8203030"
+  },
   "8204399": {
    "closed_at": null,
    "department": "",
@@ -1320,7 +1339,7 @@
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8241804"
   },
   "8241810": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1394,6 +1413,21 @@
    "title": "Senior Lifecycle Marketing Manager",
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8247940"
   },
+  "8248245": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "retirement onboarding specialist @ denver, co - hybrid",
+   "location": "Denver, CO - Hybrid",
+   "posted_at": "2026-10-05T19:38:19+00:00",
+   "posted_history": [
+    "2026-10-05T19:38:19+00:00"
+   ],
+   "reopened": 0,
+   "title": "Retirement Onboarding Specialist (New Plans)",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8248245"
+  },
   "8250243": {
    "closed_at": null,
    "department": "",
@@ -1423,6 +1457,21 @@
    "reopened": 0,
    "title": "Finance Intern (Summer 2027)",
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8257115"
+  },
+  "8257486": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "workday system developer @ denver, co - hybrid; new york, ny - hybrid; san francisco, ca - hybrid",
+   "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+   "posted_at": "2026-10-21T14:35:39+00:00",
+   "posted_history": [
+    "2026-10-21T14:35:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Workday System Developer",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8257486"
   },
   "8257865": {
    "closed_at": null,

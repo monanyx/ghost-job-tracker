@@ -11,6 +11,10 @@
   {
    "date": "2026-10-21",
    "open": 58
+  },
+  {
+   "date": "2026-10-22",
+   "open": 56
   }
  ],
  "jobs": {
@@ -120,7 +124,7 @@
    "url": "https://job-boards.greenhouse.io/twitch/jobs/8623401002"
   },
   "8633655002": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -135,7 +139,7 @@
    "url": "https://job-boards.greenhouse.io/twitch/jobs/8633655002"
   },
   "8635691002": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -150,7 +154,7 @@
    "url": "https://job-boards.greenhouse.io/twitch/jobs/8635691002"
   },
   "8635694002": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -709,14 +713,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "customer success manager @ san francisco, ca",
+   "fp": "product operations manager @ san francisco, ca",
    "location": "San Francisco, CA",
    "posted_at": "2026-10-19T20:28:07+00:00",
    "posted_history": [
     "2026-10-19T20:28:07+00:00"
    ],
    "reopened": 0,
-   "title": "Customer Success Manager",
+   "title": "Product Operations Manager",
    "url": "https://job-boards.greenhouse.io/twitch/jobs/8900429002"
   },
   "8900702002": {
@@ -724,14 +728,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "customer success manager @ seattle, wa",
+   "fp": "product operations manager @ seattle, wa",
    "location": "Seattle, WA",
    "posted_at": "2026-10-19T20:28:13+00:00",
    "posted_history": [
     "2026-10-19T20:28:13+00:00"
    ],
    "reopened": 0,
-   "title": "Customer Success Manager",
+   "title": "Product Operations Manager",
    "url": "https://job-boards.greenhouse.io/twitch/jobs/8900702002"
   },
   "8900705002": {
@@ -739,14 +743,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "customer success manager @ new york city",
+   "fp": "product operations manager @ new york city",
    "location": "New York City",
    "posted_at": "2026-10-19T20:28:12+00:00",
    "posted_history": [
     "2026-10-19T20:28:12+00:00"
    ],
    "reopened": 0,
-   "title": "Customer Success Manager",
+   "title": "Product Operations Manager",
    "url": "https://job-boards.greenhouse.io/twitch/jobs/8900705002"
   },
   "8900708002": {
@@ -754,14 +758,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "customer success manager @ los angeles, ca",
+   "fp": "product operations manager @ los angeles, ca",
    "location": "Los Angeles, CA",
    "posted_at": "2026-10-19T20:28:16+00:00",
    "posted_history": [
     "2026-10-19T20:28:16+00:00"
    ],
    "reopened": 0,
-   "title": "Customer Success Manager",
+   "title": "Product Operations Manager",
    "url": "https://job-boards.greenhouse.io/twitch/jobs/8900708002"
   },
   "8900777002": {
@@ -883,6 +887,21 @@
    "reopened": 0,
    "title": "Sr. Product Manager, Premium Content Experience",
    "url": "https://job-boards.greenhouse.io/twitch/jobs/8903142002"
+  },
+  "8906750002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "software engineer i @ seattle, wa",
+   "location": "Seattle, WA",
+   "posted_at": "2026-10-21T20:56:21+00:00",
+   "posted_history": [
+    "2026-10-21T20:56:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer I",
+   "url": "https://job-boards.greenhouse.io/twitch/jobs/8906750002"
   }
  }
 }

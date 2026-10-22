@@ -11,9 +11,28 @@
   {
    "date": "2026-10-21",
    "open": 156
+  },
+  {
+   "date": "2026-10-22",
+   "open": 161
   }
  ],
  "jobs": {
+  "02d5b86d-00e5-4204-b61a-8419c3cc1c10": {
+   "closed_at": null,
+   "department": "Growth",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "b2b marketing singapore ne asia @ remote",
+   "location": "Remote",
+   "posted_at": "2026-10-21T12:20:47+00:00",
+   "posted_history": [
+    "2026-10-21T12:20:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "B2B Marketing - Singapore & NE Asia",
+   "url": "https://jobs.ashbyhq.com/elevenlabs/02d5b86d-00e5-4204-b61a-8419c3cc1c10"
+  },
   "03e6b7b2-3337-47ac-a230-2d8390a8cb4e": {
    "closed_at": null,
    "department": "Revenue",
@@ -404,6 +423,21 @@
    "title": "Enterprise Solutions Engineer - USA",
    "url": "https://jobs.ashbyhq.com/elevenlabs/275f43d0-b62d-401d-830c-7c1ac0e688aa"
   },
+  "277de6ad-3db5-4b96-afb5-cec3d797e788": {
+   "closed_at": null,
+   "department": "Revenue",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "enterprise account executive india @ india",
+   "location": "India",
+   "posted_at": "2026-10-21T09:15:02+00:00",
+   "posted_history": [
+    "2026-10-21T09:15:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Account Executive - India",
+   "url": "https://jobs.ashbyhq.com/elevenlabs/277de6ad-3db5-4b96-afb5-cec3d797e788"
+  },
   "2a99d0a0-adae-41b5-a7ef-f1d3faee60a7": {
    "closed_at": null,
    "department": "Engineering & Product",
@@ -411,9 +445,10 @@
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "site reliability engineer @ london",
    "location": "London",
-   "posted_at": "2026-10-13T09:53:19+00:00",
+   "posted_at": "2026-10-21T11:57:45+00:00",
    "posted_history": [
-    "2026-10-13T09:53:19+00:00"
+    "2026-10-13T09:53:19+00:00",
+    "2026-10-21T11:57:45+00:00"
    ],
    "reopened": 0,
    "title": "Site Reliability Engineer",
@@ -538,6 +573,21 @@
    "reopened": 0,
    "title": "Account Executive - Spain - Mid-Market",
    "url": "https://jobs.ashbyhq.com/elevenlabs/347282a4-74ff-4e56-a92d-3c4249ee6c28"
+  },
+  "34dbe44c-9815-40b2-81f4-91c607fd84b2": {
+   "closed_at": null,
+   "department": "Engineering & Product",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "full stack engineer enterprise @ united kingdom",
+   "location": "United Kingdom",
+   "posted_at": "2026-10-22T07:30:30+00:00",
+   "posted_history": [
+    "2026-10-22T07:30:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Full-Stack Engineer - Enterprise",
+   "url": "https://jobs.ashbyhq.com/elevenlabs/34dbe44c-9815-40b2-81f4-91c607fd84b2"
   },
   "34e9eed1-3fd4-4a25-8f02-dff7f12bebf6": {
    "closed_at": null,
@@ -749,6 +799,21 @@
    "title": "Adoption Strategist - ANZ",
    "url": "https://jobs.ashbyhq.com/elevenlabs/3f35aa7c-92a7-45c5-96b4-55969309bbe2"
   },
+  "41b892ba-b530-44cb-9ae1-178908fc324c": {
+   "closed_at": null,
+   "department": "Engineering & Product",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "data scientist product analytics @ united kingdom",
+   "location": "United Kingdom",
+   "posted_at": "2026-10-21T13:48:37+00:00",
+   "posted_history": [
+    "2026-10-21T13:48:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Data Scientist - Product Analytics",
+   "url": "https://jobs.ashbyhq.com/elevenlabs/41b892ba-b530-44cb-9ae1-178908fc324c"
+  },
   "4389da7f-b5c9-4660-aaf2-d097f4caba07": {
    "closed_at": null,
    "department": "Engineering & Product",
@@ -825,7 +890,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/507e390a-eaeb-4000-936e-83e3e498c760"
   },
   "51858d8d-38ac-450b-a069-797509f465ef": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "Engineering & Product",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -945,7 +1010,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/687394d7-fbf8-49ed-822e-c0690191330c"
   },
   "69694001-b760-4939-9a02-e75c046b89d3": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "Growth",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1380,17 +1445,18 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/9a2a69a5-cba1-47e5-ac4a-9fa5b78b7da7"
   },
   "9aca205e-b2bc-405b-85d6-3d2aadbe49b1": {
-   "closed_at": "2026-10-21T08:53:29+00:00",
+   "closed_at": null,
    "department": "Engineering & Product",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "it engineer @ united states",
-   "location": "United States",
-   "posted_at": "2026-10-06T10:47:04+00:00",
+   "fp": "it engineer @ remote",
+   "location": "Remote",
+   "posted_at": "2026-10-21T12:25:35+00:00",
    "posted_history": [
-    "2026-10-06T10:47:04+00:00"
+    "2026-10-06T10:47:04+00:00",
+    "2026-10-21T12:25:35+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "IT Engineer",
    "url": "https://jobs.ashbyhq.com/elevenlabs/9aca205e-b2bc-405b-85d6-3d2aadbe49b1"
   },
@@ -1526,7 +1592,7 @@
     "2026-10-14T17:46:58+00:00"
    ],
    "reopened": 0,
-   "title": "Safety Engineer (Backnd Leaning)",
+   "title": "Safety Engineer (Backend Leaning)",
    "url": "https://jobs.ashbyhq.com/elevenlabs/a787e8ee-f1c4-422d-95f8-61ffd4eefb95"
   },
   "a89a7892-3d9d-40ab-a3f1-1c6ed1f7b84f": {
@@ -1648,6 +1714,21 @@
    "reopened": 0,
    "title": "Account Executive - Digital Natives - Strategic",
    "url": "https://jobs.ashbyhq.com/elevenlabs/b89ff518-824e-4736-a4c7-c68ea3b6b62f"
+  },
+  "b8a111fa-9fd5-44d0-97ed-8fd1280be4ef": {
+   "closed_at": null,
+   "department": "Growth",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "applied ai engineer @ united kingdom",
+   "location": "United Kingdom",
+   "posted_at": "2026-10-21T14:47:12+00:00",
+   "posted_history": [
+    "2026-10-21T14:47:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Applied AI Engineer",
+   "url": "https://jobs.ashbyhq.com/elevenlabs/b8a111fa-9fd5-44d0-97ed-8fd1280be4ef"
   },
   "b92059ea-d71f-4eef-a184-8510265752fb": {
    "closed_at": null,
@@ -2159,6 +2240,21 @@
    "title": "Global Events Lead",
    "url": "https://jobs.ashbyhq.com/elevenlabs/e815e2a8-e3bd-4e41-bbc3-ebe57277927b"
   },
+  "ea5ed1d0-332d-4777-ba7a-4662c6f0b4d2": {
+   "closed_at": null,
+   "department": "Revenue",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "enterprise account executive japan @ japan",
+   "location": "Japan",
+   "posted_at": "2026-10-21T11:23:02+00:00",
+   "posted_history": [
+    "2026-10-21T11:23:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Account Executive - Japan",
+   "url": "https://jobs.ashbyhq.com/elevenlabs/ea5ed1d0-332d-4777-ba7a-4662c6f0b4d2"
+  },
   "ec04799b-6567-4032-8d6c-3c27261618e1": {
    "closed_at": null,
    "department": "Engineering & Product",
@@ -2254,14 +2350,14 @@
    "department": "Engineering & Product",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "account executive gaming media @ united states",
-   "location": "United States",
+   "fp": "account executive enterprise localization specialist @ los angeles",
+   "location": "Los Angeles",
    "posted_at": "2026-08-27T21:07:17+00:00",
    "posted_history": [
     "2026-08-27T21:07:17+00:00"
    ],
    "reopened": 0,
-   "title": "Account Executive - Gaming & Media",
+   "title": "Account Executive - Enterprise - Localization Specialist",
    "url": "https://jobs.ashbyhq.com/elevenlabs/ef819b07-d617-42c7-873f-798d1a7d4024"
   },
   "f090d901-2305-4e72-b09d-32b7e2e0ca49": {

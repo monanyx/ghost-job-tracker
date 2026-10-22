@@ -11,6 +11,10 @@
   {
    "date": "2026-10-21",
    "open": 67
+  },
+  {
+   "date": "2026-10-22",
+   "open": 68
   }
  ],
  "jobs": {
@@ -329,8 +333,23 @@
    "title": "Senior Product Marketing Manager",
    "url": "https://job-boards.greenhouse.io/monzo/jobs/7861991"
   },
-  "7991227": {
+  "7966820": {
    "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "product marketing lead @ cardiff, london or remote (uk)",
+   "location": "Cardiff, London or Remote (UK)",
+   "posted_at": "2026-05-29T15:19:46+00:00",
+   "posted_history": [
+    "2026-05-29T15:19:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Marketing Lead",
+   "url": "https://job-boards.greenhouse.io/monzo/jobs/7966820"
+  },
+  "7991227": {
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -435,7 +454,7 @@
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8050756"
   },
   "8059461": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1093,6 +1112,36 @@
    "reopened": 0,
    "title": "Senior Growth Marketing Executive, Business Banking EU",
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8300323"
+  },
+  "8305634": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "strategy commercial manager @ madrid",
+   "location": "Madrid",
+   "posted_at": "2026-10-21T11:27:29+00:00",
+   "posted_history": [
+    "2026-10-21T11:27:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategy & Commercial Manager",
+   "url": "https://job-boards.greenhouse.io/monzo/jobs/8305634"
+  },
+  "8305679": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "prudential risk manager @ cardiff, london or remote (uk)",
+   "location": "Cardiff, London or Remote (UK)",
+   "posted_at": "2026-10-21T14:04:17+00:00",
+   "posted_history": [
+    "2026-10-21T14:04:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Prudential Risk Manager",
+   "url": "https://job-boards.greenhouse.io/monzo/jobs/8305679"
   }
  }
 }

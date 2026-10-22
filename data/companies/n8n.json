@@ -11,9 +11,28 @@
   {
    "date": "2026-10-21",
    "open": 40
+  },
+  {
+   "date": "2026-10-22",
+   "open": 43
   }
  ],
  "jobs": {
+  "01e97911-afbc-4d4b-bdc7-ea6cd5e51662": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "enterprise sales leader @ london office",
+   "location": "London Office",
+   "posted_at": "2026-10-21T17:06:27+00:00",
+   "posted_history": [
+    "2026-10-21T17:06:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Sales Leader (UK-based)",
+   "url": "https://jobs.ashbyhq.com/n8n/01e97911-afbc-4d4b-bdc7-ea6cd5e51662"
+  },
   "062fa075-dbda-4bbf-b264-ac339d5ab9de": {
    "closed_at": null,
    "department": "Sales",
@@ -238,6 +257,21 @@
    "reopened": 0,
    "title": "Field Marketing Lead, US",
    "url": "https://jobs.ashbyhq.com/n8n/569612ef-9772-4351-9ea7-56c359225301"
+  },
+  "58ff2bb3-d077-4d99-9ce3-d60739f09e6a": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "deployment strategist remote us east coast @ boston",
+   "location": "Boston",
+   "posted_at": "2026-10-21T09:30:25+00:00",
+   "posted_history": [
+    "2026-10-21T09:30:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Deployment Strategist | Remote | US East Coast",
+   "url": "https://jobs.ashbyhq.com/n8n/58ff2bb3-d077-4d99-9ce3-d60739f09e6a"
   },
   "5bd16c97-aaa4-499b-81a4-9599852fe6e9": {
    "closed_at": null,
@@ -508,6 +542,21 @@
    "reopened": 0,
    "title": "Internal Context Engineer",
    "url": "https://jobs.ashbyhq.com/n8n/d16d63fa-2198-4bde-8b00-b8bf30f19644"
+  },
+  "d25034a8-b0be-4c2d-bffe-194b7caff736": {
+   "closed_at": null,
+   "department": "Marketing",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "head of demand generation @ berlin office",
+   "location": "Berlin Office",
+   "posted_at": "2026-10-22T04:31:42+00:00",
+   "posted_history": [
+    "2026-10-22T04:31:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Head of Demand Generation",
+   "url": "https://jobs.ashbyhq.com/n8n/d25034a8-b0be-4c2d-bffe-194b7caff736"
   },
   "d350543e-b663-4d36-8dc9-72cd02957818": {
    "closed_at": null,

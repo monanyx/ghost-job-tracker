@@ -11,6 +11,10 @@
   {
    "date": "2026-10-21",
    "open": 230
+  },
+  {
+   "date": "2026-10-22",
+   "open": 228
   }
  ],
  "jobs": {
@@ -424,14 +428,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "business operations senior associate institutional @ remote - usa",
+   "fp": "business operations senior associate @ remote - usa",
    "location": "Remote - USA",
    "posted_at": "2026-07-07T14:02:41+00:00",
    "posted_history": [
     "2026-07-07T14:02:41+00:00"
    ],
    "reopened": 0,
-   "title": "Business Operations Senior Associate, Institutional",
+   "title": "Business Operations, Senior Associate",
    "url": "https://www.coinbase.com/careers/positions/7980600?gh_jid=7980600"
   },
   "7984814": {
@@ -510,7 +514,7 @@
    "url": "https://www.coinbase.com/careers/positions/7993445?gh_jid=7993445"
   },
   "7994501": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1275,7 +1279,7 @@
    "url": "https://www.coinbase.com/careers/positions/8122777?gh_jid=8122777"
   },
   "8124224": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1410,7 +1414,7 @@
    "url": "https://www.coinbase.com/careers/positions/8146039?gh_jid=8146039"
   },
   "8147663": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2158,6 +2162,21 @@
    "reopened": 0,
    "title": "Policy Intern",
    "url": "https://www.coinbase.com/careers/positions/8175556?gh_jid=8175556"
+  },
+  "8175873": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "software engineer intern @ hybrid - singapore",
+   "location": "Hybrid - Singapore",
+   "posted_at": "2026-10-22T03:19:03+00:00",
+   "posted_history": [
+    "2026-10-22T03:19:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer Intern",
+   "url": "https://www.coinbase.com/careers/positions/8175873?gh_jid=8175873"
   },
   "8177619": {
    "closed_at": null,
@@ -3405,7 +3424,7 @@
    "url": "https://www.coinbase.com/careers/positions/8287662?gh_jid=8287662"
   },
   "8287668": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3508,6 +3527,21 @@
    "reopened": 0,
    "title": "Software Engineer - Crypto Data Foundations",
    "url": "https://www.coinbase.com/careers/positions/8304038?gh_jid=8304038"
+  },
+  "8311335": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "sr manager infrastructure sales @ remote - usa",
+   "location": "Remote - USA",
+   "posted_at": "2026-10-22T00:27:21+00:00",
+   "posted_history": [
+    "2026-10-22T00:27:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr Manager, Infrastructure Sales",
+   "url": "https://www.coinbase.com/careers/positions/8311335?gh_jid=8311335"
   }
  }
 }

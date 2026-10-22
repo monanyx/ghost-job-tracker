@@ -11,6 +11,10 @@
   {
    "date": "2026-10-21",
    "open": 141
+  },
+  {
+   "date": "2026-10-22",
+   "open": 139
   }
  ],
  "jobs": {
@@ -900,7 +904,7 @@
    "url": "https://boards.greenhouse.io/figma/jobs/6073106004?gh_jid=6073106004"
   },
   "6100482004": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -960,7 +964,7 @@
    "url": "https://boards.greenhouse.io/figma/jobs/6105673004?gh_jid=6105673004"
   },
   "6105678004": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1095,7 +1099,7 @@
    "url": "https://boards.greenhouse.io/figma/jobs/6124232004?gh_jid=6124232004"
   },
   "6126728004": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1590,7 +1594,7 @@
    "url": "https://boards.greenhouse.io/figma/jobs/6180053004?gh_jid=6180053004"
   },
   "6180116004": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2070,7 +2074,7 @@
    "url": "https://boards.greenhouse.io/figma/jobs/6220093004?gh_jid=6220093004"
   },
   "6221563004": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2083,6 +2087,21 @@
    "reopened": 0,
    "title": "Director, Product Communications",
    "url": "https://boards.greenhouse.io/figma/jobs/6221563004?gh_jid=6221563004"
+  },
+  "6222861004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "community support specialist @ bengaluru, india",
+   "location": "Bengaluru, India",
+   "posted_at": "2026-10-21T10:40:13+00:00",
+   "posted_history": [
+    "2026-10-21T10:40:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Community Support Specialist (Bengaluru, India)",
+   "url": "https://boards.greenhouse.io/figma/jobs/6222861004?gh_jid=6222861004"
   },
   "6223155004": {
    "closed_at": null,
@@ -2188,6 +2207,36 @@
    "reopened": 0,
    "title": "Manager, Recruiting (London, United Kingdom)",
    "url": "https://boards.greenhouse.io/figma/jobs/6226427004?gh_jid=6226427004"
+  },
+  "6227402004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "product builder ai insights @ san francisco, ca • new york, ny • united states",
+   "location": "San Francisco, CA • New York, NY • United States",
+   "posted_at": "2026-10-21T23:27:20+00:00",
+   "posted_history": [
+    "2026-10-21T23:27:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Builder, AI Insights",
+   "url": "https://boards.greenhouse.io/figma/jobs/6227402004?gh_jid=6227402004"
+  },
+  "6228774004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "product manager figma pattern library @ san francisco, ca • new york, ny • united states",
+   "location": "San Francisco, CA • New York, NY • United States",
+   "posted_at": "2026-10-21T16:20:35+00:00",
+   "posted_history": [
+    "2026-10-21T16:20:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Manager, Figma Pattern Library",
+   "url": "https://boards.greenhouse.io/figma/jobs/6228774004?gh_jid=6228774004"
   }
  }
 }

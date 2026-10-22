@@ -11,6 +11,10 @@
   {
    "date": "2026-10-21",
    "open": 21
+  },
+  {
+   "date": "2026-10-22",
+   "open": 22
   }
  ],
  "jobs": {
@@ -45,7 +49,7 @@
    "url": "https://jobs.dropbox.com/listing/8038748?gh_jid=8038748"
   },
   "8048847": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -60,7 +64,7 @@
    "url": "https://jobs.dropbox.com/listing/8048847?gh_jid=8048847"
   },
   "8048848": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -120,7 +124,7 @@
    "url": "https://jobs.dropbox.com/listing/8075216?gh_jid=8075216"
   },
   "8137895": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -135,7 +139,7 @@
    "url": "https://jobs.dropbox.com/listing/8137895?gh_jid=8137895"
   },
   "8137896": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -239,6 +243,36 @@
    "title": "Senior Manager, APJ Field & Channel Marketing",
    "url": "https://jobs.dropbox.com/listing/8208317?gh_jid=8208317"
   },
+  "8234201": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "senior program manager employee experience @ remote - us: select locations",
+   "location": "Remote - US: Select locations",
+   "posted_at": "2026-10-01T14:15:45+00:00",
+   "posted_history": [
+    "2026-10-01T14:15:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Program Manager,  Employee Experience",
+   "url": "https://jobs.dropbox.com/listing/8234201?gh_jid=8234201"
+  },
+  "8234202": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "senior program manager employee experience @ remote - canada: select locations",
+   "location": "Remote - Canada: Select locations",
+   "posted_at": "2026-10-01T14:15:47+00:00",
+   "posted_history": [
+    "2026-10-01T14:15:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Program Manager, Employee Experience",
+   "url": "https://jobs.dropbox.com/listing/8234202?gh_jid=8234202"
+  },
   "8249475": {
    "closed_at": null,
    "department": "",
@@ -253,6 +287,36 @@
    "reopened": 0,
    "title": "Customer Success Manager — Japanese & Korean Speaking (Remote)",
    "url": "https://jobs.dropbox.com/listing/8249475?gh_jid=8249475"
+  },
+  "8279631": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "senior manager lifecycle marketing @ remote - us: select locations",
+   "location": "Remote - US: Select locations",
+   "posted_at": "2026-10-21T18:14:33+00:00",
+   "posted_history": [
+    "2026-10-21T18:14:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Lifecycle Marketing",
+   "url": "https://jobs.dropbox.com/listing/8279631?gh_jid=8279631"
+  },
+  "8279632": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "senior manager lifecycle marketing @ remote - canada: select locations",
+   "location": "Remote - Canada: Select locations",
+   "posted_at": "2026-10-21T18:14:34+00:00",
+   "posted_history": [
+    "2026-10-21T18:14:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Lifecycle Marketing",
+   "url": "https://jobs.dropbox.com/listing/8279632?gh_jid=8279632"
   },
   "8280093": {
    "closed_at": null,
@@ -328,6 +392,21 @@
    "reopened": 0,
    "title": "Executive Assistant to the Chief Business Officer",
    "url": "https://jobs.dropbox.com/listing/8286536?gh_jid=8286536"
+  },
+  "8296377": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "learning experience designer @ remote - ireland",
+   "location": "Remote - Ireland",
+   "posted_at": "2026-10-21T20:20:37+00:00",
+   "posted_history": [
+    "2026-10-21T20:20:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Learning Experience Designer",
+   "url": "https://jobs.dropbox.com/listing/8296377?gh_jid=8296377"
   }
  }
 }

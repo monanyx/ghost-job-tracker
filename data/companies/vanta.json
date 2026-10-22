@@ -11,6 +11,10 @@
   {
    "date": "2026-10-21",
    "open": 85
+  },
+  {
+   "date": "2026-10-22",
+   "open": 84
   }
  ],
  "jobs": {
@@ -1185,7 +1189,7 @@
    "url": "https://jobs.ashbyhq.com/vanta/f19964fc-3df1-4ffd-bac2-0deedb1266a2"
   },
   "f2661895-d4fb-4b7e-95c9-14b13964e6a9": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "Product Management",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

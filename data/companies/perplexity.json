@@ -11,11 +11,15 @@
   {
    "date": "2026-10-21",
    "open": 134
+  },
+  {
+   "date": "2026-10-22",
+   "open": 127
   }
  ],
  "jobs": {
   "0113c03a-69d0-489d-bd11-451d11a9f64b": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "Platform & Infrastructure",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -45,7 +49,7 @@
    "url": "https://jobs.ashbyhq.com/perplexity/0190699f-010b-44f2-8399-278899fef018"
   },
   "03f8f956-1cb3-4945-81d1-73b7ff048d4e": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -225,7 +229,7 @@
    "url": "https://jobs.ashbyhq.com/perplexity/1a3df802-9238-4827-ab1f-12a9d1e4b81c"
   },
   "229b066a-afb2-4eca-86ac-e20f38d11a19": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "Customer Success & Support",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -270,7 +274,7 @@
    "url": "https://jobs.ashbyhq.com/perplexity/27aa1a14-bc59-4613-a65a-38598695076f"
   },
   "29625b7a-5470-463b-8446-21fac84e80b9": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "API Platform",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -495,7 +499,7 @@
    "url": "https://jobs.ashbyhq.com/perplexity/3b349a2f-360e-44e6-a57d-6a87bc3016a7"
   },
   "3b6ad2b6-4310-48f1-a71f-dc344c94f2b0": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -900,7 +904,7 @@
    "url": "https://jobs.ashbyhq.com/perplexity/6e328b72-9f57-49e0-a1a8-4428abf8ff81"
   },
   "6eedd99c-ff6a-470b-a7cc-3303e1c0b7fc": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "Enterprise Operations and Systems",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1031,7 +1035,7 @@
     "2026-09-05T09:23:02+00:00"
    ],
    "reopened": 0,
-   "title": "Member of Technical Staff (General Software Engineer, Infrastructure)",
+   "title": "Member of Technical Staff (Software Engineer, Infrastructure & Platform)",
    "url": "https://jobs.ashbyhq.com/perplexity/76c9b39f-aecc-4247-b5f5-ebcd02dff7c3"
   },
   "76e72775-69db-4aea-b03b-a87d5a589f58": {
@@ -1515,7 +1519,7 @@
    "url": "https://jobs.ashbyhq.com/perplexity/b349ec0e-be02-47b0-8595-8de0dbb074c5"
   },
   "b75db90b-ca13-4a2f-aac4-c7764b631540": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

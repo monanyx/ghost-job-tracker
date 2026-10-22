@@ -11,11 +11,15 @@
   {
    "date": "2026-10-21",
    "open": 54
+  },
+  {
+   "date": "2026-10-22",
+   "open": 52
   }
  ],
  "jobs": {
   "0170f630-f7c9-4471-8d2f-8c55fb184206": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -360,7 +364,7 @@
    "url": "https://jobs.ashbyhq.com/replit/6481ec1e-527c-4c1f-a041-2fb5021e7bd5"
   },
   "659a8e1e-69ba-44c0-a632-96665051a3e8": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

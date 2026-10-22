@@ -11,6 +11,10 @@
   {
    "date": "2026-10-21",
    "open": 155
+  },
+  {
+   "date": "2026-10-22",
+   "open": 156
   }
  ],
  "jobs": {
@@ -285,7 +289,7 @@
    "url": "https://job-boards.greenhouse.io/reddit/jobs/7772274"
   },
   "7792848": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -705,7 +709,7 @@
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8029641"
   },
   "8030230": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1048,6 +1052,21 @@
    "reopened": 0,
    "title": "Senior Software Engineer - Messaging",
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8106246"
+  },
+  "8110339": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "senior data scientist safety enforcement @ remote - united states",
+   "location": "Remote - United States",
+   "posted_at": "2026-10-21T23:07:25+00:00",
+   "posted_history": [
+    "2026-10-21T23:07:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Data Scientist, Safety Enforcement",
+   "url": "https://job-boards.greenhouse.io/reddit/jobs/8110339"
   },
   "8120503": {
    "closed_at": null,
@@ -1695,7 +1714,7 @@
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8194576"
   },
   "8196302": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1753,6 +1772,21 @@
    "reopened": 0,
    "title": "Staff Machine Learning Engineer, AI Security",
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8203478"
+  },
+  "8204924": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "staff backend engineer user safety @ remote - united states",
+   "location": "Remote - United States",
+   "posted_at": "2026-10-21T20:01:38+00:00",
+   "posted_history": [
+    "2026-10-21T20:01:38+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Backend Engineer, User Safety",
+   "url": "https://job-boards.greenhouse.io/reddit/jobs/8204924"
   },
   "8205402": {
    "closed_at": null,
@@ -2249,6 +2283,21 @@
    "title": "Senior Client Account Manager, Large Customer Sales (Financial Services)",
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8288965"
   },
+  "8289345": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "principal data scientist user ecosystem @ remote - united states",
+   "location": "Remote - United States",
+   "posted_at": "2026-10-21T14:16:31+00:00",
+   "posted_history": [
+    "2026-10-21T14:16:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Data Scientist, User Ecosystem",
+   "url": "https://job-boards.greenhouse.io/reddit/jobs/8289345"
+  },
   "8293700": {
    "closed_at": null,
    "department": "",
@@ -2368,6 +2417,21 @@
    "reopened": 0,
    "title": "Senior Machine Learning Engineer, Ads ML Efficiency",
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8304463"
+  },
+  "8311209": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "staff software engineer ios platform @ remote - united states",
+   "location": "Remote - United States",
+   "posted_at": "2026-10-21T22:00:43+00:00",
+   "posted_history": [
+    "2026-10-21T22:00:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer, iOS Platform",
+   "url": "https://job-boards.greenhouse.io/reddit/jobs/8311209"
   }
  }
 }

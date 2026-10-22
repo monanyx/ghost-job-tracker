@@ -11,6 +11,10 @@
   {
    "date": "2026-10-21",
    "open": 134
+  },
+  {
+   "date": "2026-10-22",
+   "open": 131
   }
  ],
  "jobs": {
@@ -615,7 +619,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/36e69353-0452-4bf6-9f35-b1e7307959a7"
   },
   "3752886b-a6e2-402c-ba2a-47d0659ff335": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1019,6 +1023,21 @@
    "title": "Account Executive, Commercial",
    "url": "https://jobs.ashbyhq.com/cursor/6ab9bead-274e-4bf4-b2ee-1f3669e4aa9b"
   },
+  "6acdd80a-3a1b-4701-a607-ca10d86c6847": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "data scientist marketing @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-10-22T03:54:31+00:00",
+   "posted_history": [
+    "2026-10-22T03:54:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Data Scientist, Marketing",
+   "url": "https://jobs.ashbyhq.com/cursor/6acdd80a-3a1b-4701-a607-ca10d86c6847"
+  },
   "6c80d6e2-5e59-418e-9ea6-15dface61698": {
    "closed_at": null,
    "department": "Design",
@@ -1110,7 +1129,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/736ebf73-beb1-417f-87a3-a74176399ba6"
   },
   "74a6ac48-d85f-45a0-9775-3cdb8b713e1a": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1500,7 +1519,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/aa50a09b-2413-44a0-a1b1-04381b03cc30"
   },
   "aca52072-00b0-4c2b-9371-18689910cd14": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1965,7 +1984,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/e57836e8-c864-4817-aaa2-1b1263f0a352"
   },
   "e5d8ed7a-b93d-464f-a8d1-a4fa60e808d5": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

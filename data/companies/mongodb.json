@@ -11,6 +11,10 @@
   {
    "date": "2026-10-21",
    "open": 397
+  },
+  {
+   "date": "2026-10-22",
+   "open": 386
   }
  ],
  "jobs": {
@@ -193,6 +197,21 @@
    "reopened": 0,
    "title": "Enterprise Account Executive, Growth",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=6987968"
+  },
+  "7027834": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "enterprise account executive growth @ boston",
+   "location": "Boston",
+   "posted_at": "2026-10-21T18:09:40+00:00",
+   "posted_history": [
+    "2026-10-21T18:09:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Account Executive, Growth",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=7027834"
   },
   "7027846": {
    "closed_at": null,
@@ -435,7 +454,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=7219459"
   },
   "7227836": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -870,7 +889,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=7599693"
   },
   "7607210": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1035,7 +1054,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=7719062"
   },
   "7721659": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1695,7 +1714,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=7993984"
   },
   "7996557": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1740,7 +1759,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=7997764"
   },
   "8002480": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1980,7 +1999,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8043909"
   },
   "8044218": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2115,7 +2134,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8053367"
   },
   "8054102": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2130,7 +2149,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8054102"
   },
   "8054272": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2159,6 +2178,21 @@
    "title": "Technical Services Engineer",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8055356"
   },
+  "8055422": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "senior solutions architect @ mumbai",
+   "location": "Mumbai",
+   "posted_at": "2026-07-13T09:24:35+00:00",
+   "posted_history": [
+    "2026-07-13T09:24:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Solutions Architect",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8055422"
+  },
   "8055471": {
    "closed_at": null,
    "department": "",
@@ -2175,7 +2209,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8055471"
   },
   "8056742": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2209,14 +2243,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "software engineer 3 atlas growth 2 @ dublin, ireland",
+   "fp": "software engineer 3 atlas growth 3 @ dublin, ireland",
    "location": "Dublin, Ireland",
    "posted_at": "2026-07-16T15:04:19+00:00",
    "posted_history": [
     "2026-07-16T15:04:19+00:00"
    ],
    "reopened": 0,
-   "title": "Software Engineer 3, Atlas Growth 2",
+   "title": "Software Engineer 3, Atlas Growth 3",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8064448"
   },
   "8065483": {
@@ -2355,7 +2389,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8072506"
   },
   "8072839": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2805,7 +2839,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8119756"
   },
   "8119841": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2820,7 +2854,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8119841"
   },
   "8119843": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2925,7 +2959,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8122751"
   },
   "8126598": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3195,7 +3229,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8141592"
   },
   "8143286": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3679,14 +3713,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior manager marketing @ gurugram",
+   "fp": "marketing manager @ gurugram",
    "location": "Gurugram",
    "posted_at": "2026-09-16T04:34:20+00:00",
    "posted_history": [
     "2026-09-16T04:34:20+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Manager, Marketing",
+   "title": "Marketing Manager",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8167173"
   },
   "8168951": {
@@ -3754,14 +3788,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "marketing manager @ gurugram",
+   "fp": "marketing lead @ gurugram",
    "location": "Gurugram",
    "posted_at": "2026-09-22T15:48:32+00:00",
    "posted_history": [
     "2026-09-22T15:48:32+00:00"
    ],
    "reopened": 0,
-   "title": "Marketing Manager",
+   "title": "Marketing Lead",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8170634"
   },
   "8172166": {
@@ -5460,7 +5494,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8258712"
   },
   "8259719": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5614,14 +5648,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "digital customer success manager @ bengaluru; gurugram",
+   "fp": "digital success manager @ bengaluru; gurugram",
    "location": "Bengaluru; Gurugram",
    "posted_at": "2026-10-15T15:10:28+00:00",
    "posted_history": [
     "2026-10-15T15:10:28+00:00"
    ],
    "reopened": 0,
-   "title": "Digital Customer Success Manager",
+   "title": "Digital Success Manager",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8266013"
   },
   "8266850": {
@@ -5985,7 +6019,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8281679"
   },
   "8287148": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -6004,8 +6038,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
-   "fp": "senior software engineer query @ dublin, ireland",
-   "location": "Dublin, Ireland",
+   "fp": "senior software engineer query @ cork, ireland; dublin, ireland",
+   "location": "Cork, Ireland; Dublin, Ireland",
    "posted_at": "2026-10-21T07:16:02+00:00",
    "posted_history": [
     "2026-10-21T07:16:02+00:00"
@@ -6044,6 +6078,36 @@
    "title": "Manager, Client Platform Engineering",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8300746"
   },
+  "8300961": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "regulatory compliance program manager @ dublin, ireland",
+   "location": "Dublin, Ireland",
+   "posted_at": "2026-10-20T13:10:21+00:00",
+   "posted_history": [
+    "2026-10-20T13:10:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Regulatory Compliance Program Manager",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8300961"
+  },
+  "8304447": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "manager solutions architecture @ gurugram",
+   "location": "Gurugram",
+   "posted_at": "2026-10-21T11:19:10+00:00",
+   "posted_history": [
+    "2026-10-21T11:19:10+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Solutions Architecture",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8304447"
+  },
   "8305331": {
    "closed_at": null,
    "department": "",
@@ -6058,6 +6122,21 @@
    "reopened": 0,
    "title": "Senior Software Engineer, App Modernization",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8305331"
+  },
+  "8305915": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "account development representative english speaking @ dublin, ireland",
+   "location": "Dublin, Ireland",
+   "posted_at": "2026-10-22T07:55:06+00:00",
+   "posted_history": [
+    "2026-10-22T07:55:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Development Representative - English Speaking (SDR/BDR)",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8305915"
   }
  }
 }

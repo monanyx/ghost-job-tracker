@@ -11,6 +11,10 @@
   {
    "date": "2026-10-21",
    "open": 104
+  },
+  {
+   "date": "2026-10-22",
+   "open": 105
   }
  ],
  "jobs": {
@@ -359,6 +363,21 @@
    "title": "Backend Software Engineer",
    "url": "https://www.asana.com/jobs/apply/7964297?gh_jid=7964297"
   },
+  "7964316": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "senior infrastructure engineer @ warsaw",
+   "location": "Warsaw",
+   "posted_at": "2026-10-06T09:46:54+00:00",
+   "posted_history": [
+    "2026-10-06T09:46:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Infrastructure Engineer (Software-Focused)",
+   "url": "https://www.asana.com/jobs/apply/7964316?gh_jid=7964316"
+  },
   "7964361": {
    "closed_at": null,
    "department": "",
@@ -574,14 +593,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior product manager ai suite @ new york city",
+   "fp": "senior product manager ai context @ new york city",
    "location": "New York City",
    "posted_at": "2026-08-12T20:01:14+00:00",
    "posted_history": [
     "2026-08-12T20:01:14+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Product Manager, AI Suite",
+   "title": "Senior Product Manager, AI Context",
    "url": "https://www.asana.com/jobs/apply/8044815?gh_jid=8044815"
   },
   "8054355": {
@@ -1260,7 +1279,7 @@
    "url": "https://www.asana.com/jobs/apply/8227390?gh_jid=8227390"
   },
   "8227428": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1678,6 +1697,21 @@
    "reopened": 0,
    "title": "Head of Global Campaigns",
    "url": "https://www.asana.com/jobs/apply/8303385?gh_jid=8303385"
+  },
+  "8311992": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "engineering manager client management @ warsaw",
+   "location": "Warsaw",
+   "posted_at": "2026-10-22T07:23:21+00:00",
+   "posted_history": [
+    "2026-10-22T07:23:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager, Client Management",
+   "url": "https://www.asana.com/jobs/apply/8311992?gh_jid=8311992"
   }
  }
 }

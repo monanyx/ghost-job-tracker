@@ -11,6 +11,10 @@
   {
    "date": "2026-10-21",
    "open": 45
+  },
+  {
+   "date": "2026-10-22",
+   "open": 44
   }
  ],
  "jobs": {
@@ -165,7 +169,7 @@
    "url": "https://job-boards.greenhouse.io/discord/jobs/8604768002"
   },
   "8637688002": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -555,7 +559,7 @@
    "url": "https://job-boards.greenhouse.io/discord/jobs/8811982002"
   },
   "8815116002": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -718,6 +722,21 @@
    "reopened": 0,
    "title": "Engineering Manager, Notifications",
    "url": "https://job-boards.greenhouse.io/discord/jobs/8885940002"
+  },
+  "8904389002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "public affairs advisor @ san francisco bay area",
+   "location": "San Francisco Bay Area",
+   "posted_at": "2026-10-21T20:02:34+00:00",
+   "posted_history": [
+    "2026-10-21T20:02:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Public Affairs Advisor",
+   "url": "https://job-boards.greenhouse.io/discord/jobs/8904389002"
   }
  }
 }

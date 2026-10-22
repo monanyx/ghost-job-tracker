@@ -11,6 +11,10 @@
   {
    "date": "2026-10-21",
    "open": 62
+  },
+  {
+   "date": "2026-10-22",
+   "open": 61
   }
  ],
  "jobs": {
@@ -90,7 +94,7 @@
    "url": "https://careers.duolingo.com/jobs/8489189002?gh_jid=8489189002"
   },
   "8489240002": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -450,7 +454,7 @@
    "url": "https://careers.duolingo.com/jobs/8705196002?gh_jid=8705196002"
   },
   "8708178002": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -973,6 +977,21 @@
    "reopened": 0,
    "title": "Senior Engineering Manager, Data Platform",
    "url": "https://careers.duolingo.com/jobs/8900546002?gh_jid=8900546002"
+  },
+  "8906062002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "social media content creator @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-10-21T18:35:39+00:00",
+   "posted_history": [
+    "2026-10-21T18:35:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Social Media Content Creator",
+   "url": "https://careers.duolingo.com/jobs/8906062002?gh_jid=8906062002"
   }
  }
 }

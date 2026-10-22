@@ -11,6 +11,10 @@
   {
    "date": "2026-10-21",
    "open": 396
+  },
+  {
+   "date": "2026-10-22",
+   "open": 396
   }
  ],
  "jobs": {
@@ -223,6 +227,21 @@
    "reopened": 0,
    "title": "Staff Software Engineer, Core Infrastructure",
    "url": "https://www.okta.com/company/careers/opportunity/7273087?gh_jid=7273087"
+  },
+  "7307866": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "staff site reliability engineer core idaas @ bengaluru, india",
+   "location": "Bengaluru, India",
+   "posted_at": "2026-06-18T06:51:51+00:00",
+   "posted_history": [
+    "2026-06-18T06:51:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Site Reliability Engineer - Core iDaaS",
+   "url": "https://www.okta.com/company/careers/opportunity/7307866?gh_jid=7307866"
   },
   "7317857": {
    "closed_at": null,
@@ -674,6 +693,21 @@
    "title": "Area Vice President, Strategic Sales",
    "url": "https://www.okta.com/company/careers/opportunity/7774234?gh_jid=7774234"
   },
+  "7780376": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "senior software engineer java @ bengaluru, india",
+   "location": "Bengaluru, India",
+   "posted_at": "2026-10-22T07:41:58+00:00",
+   "posted_history": [
+    "2026-10-22T07:41:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer - Java",
+   "url": "https://www.okta.com/company/careers/opportunity/7780376?gh_jid=7780376"
+  },
   "7780488": {
    "closed_at": null,
    "department": "",
@@ -1110,7 +1144,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8011328?gh_jid=8011328"
   },
   "8013137": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1260,7 +1294,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8036362?gh_jid=8036362"
   },
   "8036380": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1294,14 +1328,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "sr product manager agentic security @ bellevue, washington; chicago, illinois; new york, new york; washington, dc",
-   "location": "Bellevue, Washington; Chicago, Illinois; New York, New York; Washington, DC",
+   "fp": "senior product manager agentic security @ chicago, illinois; new york, new york; seattle, washington; washington, dc",
+   "location": "Chicago, Illinois; New York, New York; Seattle, Washington; Washington, DC",
    "posted_at": "2026-07-01T17:15:28+00:00",
    "posted_history": [
     "2026-07-01T17:15:28+00:00"
    ],
    "reopened": 0,
-   "title": "Sr. Product Manager - Agentic Security",
+   "title": "Senior Product Manager - Agentic Security (Auth0)",
    "url": "https://www.okta.com/company/careers/opportunity/8038929?gh_jid=8038929"
   },
   "8039085": {
@@ -1369,14 +1403,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "sr product manager agentic security @ toronto, ontario, canada",
+   "fp": "senior product manager agentic security @ toronto, ontario, canada",
    "location": "Toronto, Ontario, Canada",
    "posted_at": "2026-07-01T17:15:27+00:00",
    "posted_history": [
     "2026-07-01T17:15:27+00:00"
    ],
    "reopened": 0,
-   "title": "Sr. Product Manager - Agentic Security",
+   "title": "Senior Product Manager - Agentic Security (Auth0)",
    "url": "https://www.okta.com/company/careers/opportunity/8041551?gh_jid=8041551"
   },
   "8041857": {
@@ -1519,8 +1553,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior product manager okta device access @ toronto, ontario, canada",
-   "location": "Toronto, Ontario, Canada",
+   "fp": "senior product manager okta device access @ bellevue, washington; chicago, illinois; new york, new york; toronto, ontario, canada; washington, dc",
+   "location": "Bellevue, Washington; Chicago, Illinois; New York, New York; Toronto, Ontario, Canada; Washington, DC",
    "posted_at": "2026-07-17T17:55:08+00:00",
    "posted_history": [
     "2026-07-17T17:55:08+00:00"
@@ -1950,7 +1984,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8094082?gh_jid=8094082"
   },
   "8094752": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2055,7 +2089,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8103816?gh_jid=8103816"
   },
   "8103955": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2355,7 +2389,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8130437?gh_jid=8130437"
   },
   "8131237": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2460,7 +2494,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8138453?gh_jid=8138453"
   },
   "8139374": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2580,7 +2614,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8142155?gh_jid=8142155"
   },
   "8143749": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2790,7 +2824,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8159623?gh_jid=8159623"
   },
   "8160050": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3135,7 +3169,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8193328?gh_jid=8193328"
   },
   "8194325": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3660,7 +3694,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8213700?gh_jid=8213700"
   },
   "8213721": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4215,7 +4249,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8239247?gh_jid=8239247"
   },
   "8239380": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5329,14 +5363,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "staff product security engineer offensive security team @ dublin, ireland",
+   "fp": "staff product security engineer offensive security @ dublin, ireland",
    "location": "Dublin, Ireland",
    "posted_at": "2026-10-19T18:28:39+00:00",
    "posted_history": [
     "2026-10-19T18:28:39+00:00"
    ],
    "reopened": 0,
-   "title": "Staff Product Security Engineer, Offensive Security Team",
+   "title": "Staff Product Security Engineer, Offensive Security",
    "url": "https://www.okta.com/company/careers/opportunity/8281124?gh_jid=8281124"
   },
   "8281409": {
@@ -5638,6 +5672,21 @@
    "reopened": 0,
    "title": "Commercial Account Executive",
    "url": "https://www.okta.com/company/careers/opportunity/8288348?gh_jid=8288348"
+  },
+  "8288466": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "commercial account executive @ bengaluru, india",
+   "location": "Bengaluru, India",
+   "posted_at": "2026-10-21T09:00:45+00:00",
+   "posted_history": [
+    "2026-10-21T09:00:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Commercial Account Executive",
+   "url": "https://www.okta.com/company/careers/opportunity/8288466?gh_jid=8288466"
   },
   "8288480": {
    "closed_at": null,
@@ -5969,6 +6018,21 @@
    "title": "Senior Director, R&D Planning & Operations",
    "url": "https://www.okta.com/company/careers/opportunity/8293675?gh_jid=8293675"
   },
+  "8299819": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "enterprise regional sales manager indonesia @ singapore",
+   "location": "Singapore",
+   "posted_at": "2026-10-19T01:49:58+00:00",
+   "posted_history": [
+    "2026-10-19T01:49:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Regional Sales Manager - Indonesia",
+   "url": "https://www.okta.com/company/careers/opportunity/8299819?gh_jid=8299819"
+  },
   "8299845": {
    "closed_at": null,
    "department": "",
@@ -6013,6 +6077,21 @@
    "reopened": 0,
    "title": "Staff Security Risk Analyst",
    "url": "https://www.okta.com/company/careers/opportunity/8299856?gh_jid=8299856"
+  },
+  "8300291": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "partner strategy operations manager emea @ dublin, ireland",
+   "location": "Dublin, Ireland",
+   "posted_at": "2026-10-21T10:42:10+00:00",
+   "posted_history": [
+    "2026-10-21T10:42:10+00:00"
+   ],
+   "reopened": 0,
+   "title": "Partner Strategy & Operations Manager - EMEA",
+   "url": "https://www.okta.com/company/careers/opportunity/8300291?gh_jid=8300291"
   },
   "8300397": {
    "closed_at": null,
@@ -6104,6 +6183,21 @@
    "title": "Specialist AI GTM Strategy and Activation - Technical Market Engagement",
    "url": "https://www.okta.com/company/careers/opportunity/8304001?gh_jid=8304001"
   },
+  "8304288": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "senior data analyst @ chicago, illinois; new york, new york; seattle, washington; washington, dc",
+   "location": "Chicago, Illinois; New York, New York; Seattle, Washington; Washington, DC",
+   "posted_at": "2026-10-21T15:55:12+00:00",
+   "posted_history": [
+    "2026-10-21T15:55:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Data Analyst (Auth0)",
+   "url": "https://www.okta.com/company/careers/opportunity/8304288?gh_jid=8304288"
+  },
   "8304868": {
    "closed_at": null,
    "department": "",
@@ -6119,6 +6213,21 @@
    "title": "Sales Development Representative (Singapore)",
    "url": "https://www.okta.com/company/careers/opportunity/8304868?gh_jid=8304868"
   },
+  "8305245": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "partner strategy and operations manager apj @ bengaluru, india",
+   "location": "Bengaluru, India",
+   "posted_at": "2026-10-21T15:52:47+00:00",
+   "posted_history": [
+    "2026-10-21T15:52:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Partner Strategy and Operations Manager, APJ",
+   "url": "https://www.okta.com/company/careers/opportunity/8305245?gh_jid=8305245"
+  },
   "8305257": {
    "closed_at": null,
    "department": "",
@@ -6133,6 +6242,66 @@
    "reopened": 0,
    "title": "Senior Regional Alliances Manager",
    "url": "https://www.okta.com/company/careers/opportunity/8305257?gh_jid=8305257"
+  },
+  "8305392": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "csp cloud desk support desk @ bengaluru, india",
+   "location": "Bengaluru, India",
+   "posted_at": "2026-10-21T16:07:56+00:00",
+   "posted_history": [
+    "2026-10-21T16:07:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "CSP Cloud Desk Support Desk",
+   "url": "https://www.okta.com/company/careers/opportunity/8305392?gh_jid=8305392"
+  },
+  "8305423": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "senior software engineer @ bengaluru, india",
+   "location": "Bengaluru, India",
+   "posted_at": "2026-10-21T12:10:26+00:00",
+   "posted_history": [
+    "2026-10-21T12:10:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer (Core Frontier)",
+   "url": "https://www.okta.com/company/careers/opportunity/8305423?gh_jid=8305423"
+  },
+  "8306330": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "sr customer success manager @ toronto, ontario, canada",
+   "location": "Toronto, Ontario, Canada",
+   "posted_at": "2026-10-21T17:23:17+00:00",
+   "posted_history": [
+    "2026-10-21T17:23:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Customer Success Manager",
+   "url": "https://www.okta.com/company/careers/opportunity/8306330?gh_jid=8306330"
+  },
+  "8311034": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "employee relations compliance manager @ san francisco, california",
+   "location": "San Francisco, California",
+   "posted_at": "2026-10-21T21:07:58+00:00",
+   "posted_history": [
+    "2026-10-21T21:07:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Employee Relations & Compliance Manager",
+   "url": "https://www.okta.com/company/careers/opportunity/8311034?gh_jid=8311034"
   }
  }
 }

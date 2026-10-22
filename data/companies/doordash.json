@@ -11,6 +11,10 @@
   {
    "date": "2026-10-21",
    "open": 458
+  },
+  {
+   "date": "2026-10-22",
+   "open": 457
   }
  ],
  "jobs": {
@@ -720,7 +724,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/6813973"
   },
   "6819210": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1213,6 +1217,21 @@
    "reopened": 0,
    "title": "Advanced Specialist, MXO Merchant Sentiment",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7468130"
+  },
+  "7473132": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "regional merchant lead dallas @ dallas, tx",
+   "location": "Dallas, TX",
+   "posted_at": "2025-12-18T16:43:45+00:00",
+   "posted_history": [
+    "2025-12-18T16:43:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Regional Merchant Lead - Dallas",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7473132"
   },
   "7490108": {
    "closed_at": null,
@@ -1830,7 +1849,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7891543"
   },
   "7891795": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2295,7 +2314,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8020898"
   },
   "8021716": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2640,7 +2659,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8070780"
   },
   "8070981": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3900,7 +3919,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8156042"
   },
   "8156324": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5010,7 +5029,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8208468"
   },
   "8209032": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5284,8 +5303,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "associate manager sales strategy planning @ san francisco, ca; new york city, ny; atlanta, ga; chicago, il; denver, co; washington d.c.; austin, tx; phoenix, az; los angeles, ca; seattle, wa; boston, ma; united states - remote",
-   "location": "San Francisco, CA; New York City, NY; Atlanta, GA; Chicago, IL; Denver, CO;  Washington D.C.; Austin, TX; Phoenix, AZ; Los Angeles, CA; Seattle, WA; Boston, MA; United States - Remote",
+   "fp": "associate manager sales strategy planning @ san francisco, ca; new york, ny; atlanta, ga; chicago, il; denver, co; washington d.c.; austin, tx; phoenix, az; los angeles, ca; seattle, wa; boston, ma",
+   "location": "San Francisco, CA; New York, NY; Atlanta, GA; Chicago, IL; Denver, CO;  Washington D.C.; Austin, TX; Phoenix, AZ; Los Angeles, CA; Seattle, WA; Boston, MA",
    "posted_at": "2026-09-23T13:45:41+00:00",
    "posted_history": [
     "2026-09-23T13:45:41+00:00"
@@ -5430,7 +5449,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8233039"
   },
   "8233051": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6814,8 +6833,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
-   "fp": "associate strategy operations merchant onboarding experience @ new york, ny; san francisco, ca; seattle, wa; chicago, il; los angeles, ca; washington, d.c",
-   "location": "New York, NY; San Francisco, CA; Seattle, WA; Chicago, IL; Los Angeles, CA; Washington, D.C",
+   "fp": "associate strategy operations merchant onboarding experience @ new york, ny; san francisco, ca; los angeles, ca; chicago, il; washington, d.c.; austin, tx; denver, co - remote",
+   "location": "New York, NY; San Francisco, CA; Los Angeles, CA; Chicago, IL; Washington, D.C.; Austin, TX; Denver, CO - Remote",
    "posted_at": "2026-10-17T04:53:39+00:00",
    "posted_history": [
     "2026-10-17T04:53:39+00:00"
@@ -7048,6 +7067,81 @@
    "reopened": 0,
    "title": "Software Engineer, Reliability Platform",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8304878"
+  },
+  "8305750": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "associate manager new verticals consumer gtm @ new york city, ny; san francisco, sf; chicago, il; washington, d.c., seattle, wa; los angeles, la; phoenix, az",
+   "location": "New York City, NY; San Francisco, SF; Chicago, IL; Washington, D.C., Seattle, WA; Los Angeles, LA; Phoenix, AZ",
+   "posted_at": "2026-10-21T18:55:54+00:00",
+   "posted_history": [
+    "2026-10-21T18:55:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Associate Manager, New Verticals - Consumer GTM",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8305750"
+  },
+  "8305939": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "solutions architect grocery retail services @ new york, ny; san francisco, ca; seattle, wa; los angeles, ca; washington, d.c., chicago, il; tempe, az",
+   "location": "New York, NY; San Francisco, CA; Seattle, WA; Los Angeles, CA; Washington, D.C., Chicago, IL; Tempe, AZ",
+   "posted_at": "2026-10-21T14:17:29+00:00",
+   "posted_history": [
+    "2026-10-21T14:17:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Solutions Architect - Grocery & Retail Services",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8305939"
+  },
+  "8306624": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "associate manager customer success @ los angeles, ca",
+   "location": "Los Angeles, CA",
+   "posted_at": "2026-10-21T18:28:21+00:00",
+   "posted_history": [
+    "2026-10-21T18:28:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Associate Manager, Customer Success",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8306624"
+  },
+  "8306636": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "mechanical engineer engineer chassis vehicle dynamic @ oakland, ca",
+   "location": "Oakland, CA",
+   "posted_at": "2026-10-21T17:27:25+00:00",
+   "posted_history": [
+    "2026-10-21T17:27:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Mechanical Engineer - Engineer, Chassis & Vehicle Dynamic",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8306636"
+  },
+  "8310956": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "associate new verticals fulfillment strategy operations @ new york, ny; san francisco, ca; washington, d.c; seattle, wa; los angeles, ca; chicago, il; phoenix, az",
+   "location": "New York, NY; San Francisco, CA; Washington, D.C; Seattle, WA; Los Angeles, CA; Chicago, IL; Phoenix, AZ",
+   "posted_at": "2026-10-21T21:55:28+00:00",
+   "posted_history": [
+    "2026-10-21T21:55:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Associate, New Verticals - Fulfillment Strategy & Operations",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8310956"
   }
  }
 }

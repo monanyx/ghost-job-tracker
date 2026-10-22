@@ -11,6 +11,10 @@
   {
    "date": "2026-10-21",
    "open": 232
+  },
+  {
+   "date": "2026-10-22",
+   "open": 232
   }
  ],
  "jobs": {
@@ -465,7 +469,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8633807002"
   },
   "8636539002": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -949,8 +953,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "fullstack engineer ai engineering duo client sdk @ remote, canada; remote, united states",
-   "location": "Remote, Canada; Remote, United States",
+   "fp": "fullstack engineer ai engineering duo client sdk @ remote, canada",
+   "location": "Remote, Canada",
    "posted_at": "2026-08-21T01:22:41+00:00",
    "posted_history": [
     "2026-08-21T01:22:41+00:00"
@@ -1485,7 +1489,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8770702002"
   },
   "8773006002": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2010,7 +2014,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8827981002"
   },
   "8828009002": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2280,7 +2284,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8853813002"
   },
   "8853843002": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2794,14 +2798,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior partner solutions architect strategic partnerships @ remote, canada; remote, united states",
+   "fp": "senior partner solutions manager strategic partnerships @ remote, canada; remote, united states",
    "location": "Remote, Canada; Remote, United States",
    "posted_at": "2026-10-15T19:52:29+00:00",
    "posted_history": [
     "2026-10-15T19:52:29+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Partner Solutions Architect, Strategic Partnerships",
+   "title": "Senior Partner Solutions Manager, Strategic Partnerships",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8863314002"
   },
   "8864819002": {
@@ -2850,7 +2854,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8867725002"
   },
   "8867756002": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3004,8 +3008,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
-   "fp": "corporate development director @ remote, united states",
-   "location": "Remote, United States",
+   "fp": "corporate development director @ remote ireland; remote, france; remote, germany; remote, israel; remote, netherlands; remote, spain; remote, united kingdom",
+   "location": "Remote Ireland; Remote, France; Remote, Germany; Remote, Israel; Remote, Netherlands; Remote, Spain; Remote, United Kingdom",
    "posted_at": "2026-10-20T18:21:59+00:00",
    "posted_history": [
     "2026-10-20T18:21:59+00:00"
@@ -3028,6 +3032,21 @@
    "reopened": 0,
    "title": "Business Development Representative",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8872433002"
+  },
+  "8872457002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "business development representative german speaking uk i @ remote ireland; remote, united kingdom",
+   "location": "Remote Ireland; Remote, United Kingdom",
+   "posted_at": "2026-10-07T17:32:58+00:00",
+   "posted_history": [
+    "2026-10-07T17:32:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Business Development Representative, German Speaking - UK/I",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8872457002"
   },
   "8872500002": {
    "closed_at": null,
@@ -3060,7 +3079,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8875275002"
   },
   "8875518002": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3194,6 +3213,21 @@
    "title": "Regional Sales Director, Enterprise - Southeast",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8879798002"
   },
+  "8880947002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "senior solutions architect @ remote, singapore",
+   "location": "Remote, Singapore",
+   "posted_at": "2026-10-22T02:59:14+00:00",
+   "posted_history": [
+    "2026-10-22T02:59:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Solutions Architect",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8880947002"
+  },
   "8880999002": {
    "closed_at": null,
    "department": "",
@@ -3299,6 +3333,21 @@
    "title": "Regional Director - Public Sector, UK/I",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8883078002"
   },
+  "8883597002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "senior director dedicated infrastructure platforms @ remote, canada; remote, united kingdom; remote, united states",
+   "location": "Remote, Canada; Remote, United Kingdom; Remote, United States",
+   "posted_at": "2026-10-21T16:41:42+00:00",
+   "posted_history": [
+    "2026-10-21T16:41:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Director, Dedicated Infrastructure & Platforms",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8883597002"
+  },
   "8884627002": {
    "closed_at": null,
    "department": "",
@@ -3359,6 +3408,21 @@
    "title": "Staff Solutions Architect, AI Subject Matter Expert",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8886426002"
   },
+  "8886626002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "sr manager solutions architect smb @ remote, united states",
+   "location": "Remote, United States",
+   "posted_at": "2026-10-21T23:40:27+00:00",
+   "posted_history": [
+    "2026-10-21T23:40:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Manager, Solutions Architect - SMB",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8886626002"
+  },
   "8886648002": {
    "closed_at": null,
    "department": "",
@@ -3418,6 +3482,21 @@
    "reopened": 0,
    "title": "Cloud Platform Engineer",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8889193002"
+  },
+  "8890389002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "senior solutions architect japan @ remote, japan",
+   "location": "Remote, Japan",
+   "posted_at": "2026-10-22T02:47:13+00:00",
+   "posted_history": [
+    "2026-10-22T02:47:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Solutions Architect - Japan",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8890389002"
   },
   "8891301002": {
    "closed_at": null,
@@ -3508,6 +3587,21 @@
    "reopened": 0,
    "title": "Manager, Customer Success",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8896290002"
+  },
+  "8907028002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "partner program manager @ remote, united states",
+   "location": "Remote, United States",
+   "posted_at": "2026-10-21T23:46:48+00:00",
+   "posted_history": [
+    "2026-10-21T23:46:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "Partner Program Manager",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8907028002"
   }
  }
 }

@@ -11,6 +11,10 @@
   {
    "date": "2026-10-21",
    "open": 116
+  },
+  {
+   "date": "2026-10-22",
+   "open": 113
   }
  ],
  "jobs": {
@@ -135,7 +139,7 @@
    "url": "https://jobs.ashbyhq.com/cohere/1599cc22-313e-49c9-ac69-b365f5f8f227"
   },
   "16fb6df4-a1ca-43e4-aabe-5e409fe9ede8": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "PR & Communications",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -494,6 +498,21 @@
    "title": "VP of Sales - Public Sector",
    "url": "https://jobs.ashbyhq.com/cohere/49a6485c-c449-4e07-8001-cafc97a39a13"
   },
+  "529b2dd6-4be3-49db-97cd-781f4897540b": {
+   "closed_at": null,
+   "department": "Engineering & Infra",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "senior software engineer agent infrastructure @ toronto",
+   "location": "Toronto",
+   "posted_at": "2026-10-22T01:52:35+00:00",
+   "posted_history": [
+    "2026-10-22T01:52:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Agent Infrastructure",
+   "url": "https://jobs.ashbyhq.com/cohere/529b2dd6-4be3-49db-97cd-781f4897540b"
+  },
   "52a2b83b-7537-4e88-af7b-e4e9630a96e0": {
    "closed_at": null,
    "department": "Engineering & Infra",
@@ -585,7 +604,7 @@
    "url": "https://jobs.ashbyhq.com/cohere/597e18f5-c33c-4350-8bcd-05a751cece3a"
   },
   "5adf044a-a601-467a-bb92-807850b4f7ec": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "Business Operations",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1065,7 +1084,7 @@
    "url": "https://jobs.ashbyhq.com/cohere/9baccd88-c051-474f-bfe8-6867fca54cee"
   },
   "9c5e1ab3-883b-4d15-885c-76400da7ca11": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "Engineering & Infra",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1545,7 +1564,7 @@
    "url": "https://jobs.ashbyhq.com/cohere/e824f0bd-72e6-4a9b-aecb-e604e3ca8ac2"
   },
   "e88931c0-d3fa-4e81-accc-45db823ea616": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "Engineering & Infra",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

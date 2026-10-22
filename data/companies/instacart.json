@@ -11,6 +11,10 @@
   {
    "date": "2026-10-21",
    "open": 125
+  },
+  {
+   "date": "2026-10-22",
+   "open": 124
   }
  ],
  "jobs": {
@@ -270,7 +274,7 @@
    "url": "https://instacart.careers/job/?gh_jid=7960988"
   },
   "7963838": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -345,7 +349,7 @@
    "url": "https://instacart.careers/job/?gh_jid=8029661"
   },
   "8053797": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -570,7 +574,7 @@
    "url": "https://instacart.careers/job/?gh_jid=8120471"
   },
   "8122997": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -585,7 +589,7 @@
    "url": "https://instacart.careers/job/?gh_jid=8122997"
   },
   "8123029": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1888,6 +1892,51 @@
    "reopened": 0,
    "title": "Senior Software Engineer - Ads Manager",
    "url": "https://instacart.careers/job/?gh_jid=8304487"
+  },
+  "8304521": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "associate manager cross functional influencer campaigns @ united states - remote",
+   "location": "United States - Remote",
+   "posted_at": "2026-10-21T20:37:52+00:00",
+   "posted_history": [
+    "2026-10-21T20:37:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "Associate Manager, Cross-Functional Influencer Campaigns",
+   "url": "https://instacart.careers/job/?gh_jid=8304521"
+  },
+  "8304802": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "associate manager influencer marketing @ united states - remote",
+   "location": "United States - Remote",
+   "posted_at": "2026-10-21T20:38:12+00:00",
+   "posted_history": [
+    "2026-10-21T20:38:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Associate Manager, Influencer Marketing",
+   "url": "https://instacart.careers/job/?gh_jid=8304802"
+  },
+  "8304832": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "social content producer @ united states - remote",
+   "location": "United States - Remote",
+   "posted_at": "2026-10-21T20:38:36+00:00",
+   "posted_history": [
+    "2026-10-21T20:38:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Social Content Producer",
+   "url": "https://instacart.careers/job/?gh_jid=8304832"
   }
  }
 }

@@ -11,6 +11,10 @@
   {
    "date": "2026-10-21",
    "open": 70
+  },
+  {
+   "date": "2026-10-22",
+   "open": 73
   }
  ],
  "jobs": {
@@ -45,7 +49,7 @@
    "url": "https://boards.greenhouse.io/chime/jobs/8342899002?gh_jid=8342899002"
   },
   "8397325002": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1019,6 +1023,21 @@
    "title": "Senior Compensation Partner",
    "url": "https://boards.greenhouse.io/chime/jobs/8879659002?gh_jid=8879659002"
   },
+  "8879740002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "director of communications content chime enterprise @ san francisco, ca, usa",
+   "location": "San Francisco, CA, USA",
+   "posted_at": "2026-10-21T22:06:18+00:00",
+   "posted_history": [
+    "2026-10-21T22:06:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Director of Communications & Content, Chime Enterprise",
+   "url": "https://boards.greenhouse.io/chime/jobs/8879740002?gh_jid=8879740002"
+  },
   "8881989002": {
    "closed_at": null,
    "department": "",
@@ -1078,6 +1097,51 @@
    "reopened": 0,
    "title": "Manager, CRM",
    "url": "https://boards.greenhouse.io/chime/jobs/8892862002?gh_jid=8892862002"
+  },
+  "8895837002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "program manager omx soto @ remote, usa",
+   "location": "Remote, USA",
+   "posted_at": "2026-10-21T22:31:25+00:00",
+   "posted_history": [
+    "2026-10-21T22:31:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Program Manager, OMX SOTO",
+   "url": "https://boards.greenhouse.io/chime/jobs/8895837002?gh_jid=8895837002"
+  },
+  "8900226002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "director growth engineering @ san francisco, ca, usa",
+   "location": "San Francisco, CA, USA",
+   "posted_at": "2026-10-21T16:59:18+00:00",
+   "posted_history": [
+    "2026-10-21T16:59:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Director, Growth Engineering",
+   "url": "https://boards.greenhouse.io/chime/jobs/8900226002?gh_jid=8900226002"
+  },
+  "8907828002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "regional physical security lead @ san francisco, ca, usa",
+   "location": "San Francisco, CA, USA",
+   "posted_at": "2026-10-22T00:00:53+00:00",
+   "posted_history": [
+    "2026-10-22T00:00:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "Regional Physical Security Lead",
+   "url": "https://boards.greenhouse.io/chime/jobs/8907828002?gh_jid=8907828002"
   }
  }
 }

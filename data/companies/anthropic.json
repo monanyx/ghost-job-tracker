@@ -11,6 +11,10 @@
   {
    "date": "2026-10-21",
    "open": 674
+  },
+  {
+   "date": "2026-10-22",
+   "open": 678
   }
  ],
  "jobs": {
@@ -919,8 +923,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "technical cyber threat investigator @ remote-friendly (travel-required) | san francisco, ca | washington, dc",
-   "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Washington, DC",
+   "fp": "technical cyber threat investigator @ san francisco, ca; san francisco, ca | new york city, ny | washington, dc",
+   "location": "San Francisco, CA; San Francisco, CA | New York City, NY | Washington, DC",
    "posted_at": "2026-01-14T04:58:23+00:00",
    "posted_history": [
     "2026-01-14T04:58:23+00:00"
@@ -1129,14 +1133,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "ai outcomes manager @ new york city, ny; san francisco, ca; seattle, wa",
+   "fp": "ai outcomes manager strategic tech @ new york city, ny; san francisco, ca; seattle, wa",
    "location": "New York City, NY; San Francisco, CA; Seattle, WA",
    "posted_at": "2026-01-23T22:55:09+00:00",
    "posted_history": [
     "2026-01-23T22:55:09+00:00"
    ],
    "reopened": 0,
-   "title": "AI Outcomes Manager",
+   "title": "AI Outcomes Manager, Strategic Tech",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5082455008"
   },
   "5097186008": {
@@ -2535,7 +2539,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5231205008"
   },
   "5231612008": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3255,7 +3259,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5310731008"
   },
   "5310996008": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3439,8 +3443,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "red team engineer safeguards @ remote-friendly (travel required) | san francisco, ca",
-   "location": "Remote-Friendly (Travel Required) | San Francisco, CA",
+   "fp": "red team engineer safeguards @ san francisco, ca",
+   "location": "San Francisco, CA",
    "posted_at": "2026-07-10T22:50:56+00:00",
    "posted_history": [
     "2026-07-10T22:50:56+00:00"
@@ -3570,7 +3574,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5350448008"
   },
   "5354765008": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5156,7 +5160,7 @@
     "2026-10-19T16:48:34+00:00"
    ],
    "reopened": 0,
-   "title": "Head of GTM Programs EMEA",
+   "title": "Head of GTM Programs, EMEA",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390992008"
   },
   "5391004008": {
@@ -5209,14 +5213,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "customer success manager financial services @ san francisco, ca | seattle, wa | new york city, ny | washington, dc",
+   "fp": "ai outcomes manager financial services @ san francisco, ca | seattle, wa | new york city, ny | washington, dc",
    "location": "San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC",
    "posted_at": "2026-08-17T14:04:09+00:00",
    "posted_history": [
     "2026-08-17T14:04:09+00:00"
    ],
    "reopened": 0,
-   "title": "Customer Success Manager, Financial Services",
+   "title": "AI Outcomes Manager, Financial Services",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391062008"
   },
   "5391102008": {
@@ -6824,6 +6828,21 @@
    "title": "Lead Technical Instructor",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5415537008"
   },
+  "5415822008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "product manager product support experience @ san francisco, ca | new york city, ny",
+   "location": "San Francisco, CA | New York City, NY",
+   "posted_at": "2026-10-21T23:16:00+00:00",
+   "posted_history": [
+    "2026-10-21T23:16:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Manager (Technical), Product Support Experience",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5415822008"
+  },
   "5415864008": {
    "closed_at": null,
    "department": "",
@@ -6945,7 +6964,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5416829008"
   },
   "5416979008": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7020,7 +7039,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5418323008"
   },
   "5418402008": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7200,7 +7219,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5421263008"
   },
   "5421539008": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7363,6 +7382,21 @@
    "reopened": 0,
    "title": "IT Operations Engineer, Asset Management",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5423737008"
+  },
+  "5423931008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "copywriter developer @ san francisco, ca | new york city, ny",
+   "location": "San Francisco, CA | New York City, NY",
+   "posted_at": "2026-09-16T19:39:40+00:00",
+   "posted_history": [
+    "2026-09-16T19:39:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Copywriter, Developer",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5423931008"
   },
   "5424078008": {
    "closed_at": null,
@@ -9644,6 +9678,21 @@
    "title": "Partner Marketing Lead, Resellers",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5451134008"
   },
+  "5451376008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "customer success manager @ munich, germany",
+   "location": "Munich, Germany",
+   "posted_at": "2026-10-21T14:57:15+00:00",
+   "posted_history": [
+    "2026-10-21T14:57:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer  Success Manager",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5451376008"
+  },
   "5451889008": {
    "closed_at": null,
    "department": "",
@@ -9840,7 +9889,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5453573008"
   },
   "5453809008": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -9868,6 +9917,36 @@
    "reopened": 0,
    "title": "Manager, Sales Development, Enterprise",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5454142008"
+  },
+  "5454169008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "enterprise account executive industrial @ london, uk",
+   "location": "London, UK",
+   "posted_at": "2026-10-21T09:02:14+00:00",
+   "posted_history": [
+    "2026-10-21T09:02:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Account Executive, Industrial",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5454169008"
+  },
+  "5454188008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "enterprise account executive professional services @ london, uk",
+   "location": "London, UK",
+   "posted_at": "2026-10-21T08:57:05+00:00",
+   "posted_history": [
+    "2026-10-21T08:57:05+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Account Executive, Professional Services",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5454188008"
   },
   "5454315008": {
    "closed_at": null,
@@ -10214,6 +10293,36 @@
    "title": "Audit, Security GRC",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5457137008"
   },
+  "5457708008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "engineering manager finance engineering @ san francisco, ca | seattle, wa",
+   "location": "San Francisco, CA | Seattle, WA",
+   "posted_at": "2026-10-22T00:28:41+00:00",
+   "posted_history": [
+    "2026-10-22T00:28:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager, Finance Engineering",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5457708008"
+  },
+  "5457716008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "staff software engineer finance engineering @ san francisco, ca | seattle, wa",
+   "location": "San Francisco, CA | Seattle, WA",
+   "posted_at": "2026-10-22T00:29:11+00:00",
+   "posted_history": [
+    "2026-10-22T00:29:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer, Finance Engineering",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5457716008"
+  },
   "5458044008": {
    "closed_at": null,
    "department": "",
@@ -10289,6 +10398,21 @@
    "title": "Corporate Development, Deal Lead",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5459016008"
   },
+  "5459098008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "research engineer chip design rl @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-10-21T19:04:35+00:00",
+   "posted_history": [
+    "2026-10-21T19:04:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Research Engineer, Chip Design RL",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5459098008"
+  },
   "5459274008": {
    "closed_at": null,
    "department": "",
@@ -10303,6 +10427,51 @@
    "reopened": 0,
    "title": "Financial Data and Controls Lead, Billing Platform",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5459274008"
+  },
+  "5459290008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "audit operations lead @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-10-21T17:47:08+00:00",
+   "posted_history": [
+    "2026-10-21T17:47:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "Audit Operations Lead",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5459290008"
+  },
+  "5459422008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "workplace coordinator @ zürich, ch",
+   "location": "Zürich, CH",
+   "posted_at": "2026-10-21T16:04:48+00:00",
+   "posted_history": [
+    "2026-10-21T16:04:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "Workplace Coordinator",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5459422008"
+  },
+  "5460216008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "technical program manager agent safety security @ san francisco, ca | new york city, ny",
+   "location": "San Francisco, CA | New York City, NY",
+   "posted_at": "2026-10-21T20:14:58+00:00",
+   "posted_history": [
+    "2026-10-21T20:14:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Program Manager, Agent Safety & Security",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5460216008"
   }
  }
 }

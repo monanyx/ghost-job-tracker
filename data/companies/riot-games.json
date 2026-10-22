@@ -11,6 +11,10 @@
   {
    "date": "2026-10-21",
    "open": 176
+  },
+  {
+   "date": "2026-10-22",
+   "open": 177
   }
  ],
  "jobs": {
@@ -2130,7 +2134,7 @@
    "url": "https://www.riotgames.com/en/work-with-us/job/8233687?gh_jid=8233687"
   },
   "8233725": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2698,6 +2702,36 @@
    "reopened": 0,
    "title": "Senior Technical Game Designer - Unpublished R&D Product",
    "url": "https://www.riotgames.com/en/work-with-us/job/8302215?gh_jid=8302215"
+  },
+  "8302239": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "manager software engineering valorant player dynamics @ los angeles, usa",
+   "location": "Los Angeles, USA",
+   "posted_at": "2026-10-21T22:55:48+00:00",
+   "posted_history": [
+    "2026-10-21T22:55:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Software Engineering - VALORANT, Player Dynamics",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8302239?gh_jid=8302239"
+  },
+  "8302241": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "senior game designer unpublished r d product @ shanghai, china",
+   "location": "Shanghai, China",
+   "posted_at": "2026-10-22T03:47:48+00:00",
+   "posted_history": [
+    "2026-10-22T03:47:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Game Designer - Unpublished R&D Product",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8302241?gh_jid=8302241"
   },
   "8302320": {
    "closed_at": null,

@@ -11,6 +11,10 @@
   {
    "date": "2026-10-21",
    "open": 94
+  },
+  {
+   "date": "2026-10-22",
+   "open": 94
   }
  ],
  "jobs": {
@@ -870,7 +874,7 @@
    "url": "https://job-boards.greenhouse.io/vercel/jobs/6129441004"
   },
   "6131210004": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1050,7 +1054,7 @@
    "url": "https://job-boards.greenhouse.io/vercel/jobs/6163582004"
   },
   "6163585004": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1425,7 +1429,7 @@
    "url": "https://job-boards.greenhouse.io/vercel/jobs/6228301004"
   },
   "6228758004": {
-   "closed_at": null,
+   "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -1438,6 +1442,51 @@
    "reopened": 0,
    "title": "Director of Engineering",
    "url": "https://job-boards.greenhouse.io/vercel/jobs/6228758004"
+  },
+  "6230763004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "customer support engineer @ remote - australia",
+   "location": "Remote - Australia",
+   "posted_at": "2026-10-21T17:00:26+00:00",
+   "posted_history": [
+    "2026-10-21T17:00:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Support Engineer",
+   "url": "https://job-boards.greenhouse.io/vercel/jobs/6230763004"
+  },
+  "6231045004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "engineering director vercel for platforms @ hybrid - san francisco",
+   "location": "Hybrid - San Francisco",
+   "posted_at": "2026-10-21T16:40:43+00:00",
+   "posted_history": [
+    "2026-10-21T16:40:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Director, Vercel for Platforms",
+   "url": "https://job-boards.greenhouse.io/vercel/jobs/6231045004"
+  },
+  "6231047004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-22T08:55:54+00:00",
+   "fp": "internal comms @ hybrid - san francisco",
+   "location": "Hybrid - San Francisco",
+   "posted_at": "2026-10-21T21:23:25+00:00",
+   "posted_history": [
+    "2026-10-21T21:23:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Internal Comms",
+   "url": "https://job-boards.greenhouse.io/vercel/jobs/6231047004"
   }
  }
 }
