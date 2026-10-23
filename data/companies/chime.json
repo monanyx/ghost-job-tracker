@@ -15,6 +15,10 @@
   {
    "date": "2026-10-22",
    "open": 73
+  },
+  {
+   "date": "2026-10-23",
+   "open": 74
   }
  ],
  "jobs": {
@@ -799,7 +803,7 @@
    "url": "https://boards.greenhouse.io/chime/jobs/8842932002?gh_jid=8842932002"
   },
   "8845902002": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1028,8 +1032,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
-   "fp": "director of communications content chime enterprise @ san francisco, ca, usa",
-   "location": "San Francisco, CA, USA",
+   "fp": "director of communications content chime enterprise @ new york, ny, usa",
+   "location": "New York, NY, USA",
    "posted_at": "2026-10-21T22:06:18+00:00",
    "posted_history": [
     "2026-10-21T22:06:18+00:00"
@@ -1068,6 +1072,21 @@
    "title": "Program Manager, Performance Effectiveness",
    "url": "https://boards.greenhouse.io/chime/jobs/8882463002?gh_jid=8882463002"
   },
+  "8882465002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "staff data scientist marketing analytics @ san francisco, ca, usa",
+   "location": "San Francisco, CA, USA",
+   "posted_at": "2026-10-22T22:27:19+00:00",
+   "posted_history": [
+    "2026-10-22T22:27:19+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Data Scientist, Marketing Analytics",
+   "url": "https://boards.greenhouse.io/chime/jobs/8882465002?gh_jid=8882465002"
+  },
   "8892857002": {
    "closed_at": null,
    "department": "",
@@ -1084,7 +1103,7 @@
    "url": "https://boards.greenhouse.io/chime/jobs/8892857002?gh_jid=8892857002"
   },
   "8892862002": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1097,6 +1116,21 @@
    "reopened": 0,
    "title": "Manager, CRM",
    "url": "https://boards.greenhouse.io/chime/jobs/8892862002?gh_jid=8892862002"
+  },
+  "8895833002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "senior associate strategic finance @ san francisco, ca, usa",
+   "location": "San Francisco, CA, USA",
+   "posted_at": "2026-10-22T17:56:30+00:00",
+   "posted_history": [
+    "2026-10-22T17:56:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Associate, Strategic Finance (Growth)",
+   "url": "https://boards.greenhouse.io/chime/jobs/8895833002?gh_jid=8895833002"
   },
   "8895837002": {
    "closed_at": null,
@@ -1127,6 +1161,21 @@
    "reopened": 0,
    "title": "Director, Growth Engineering",
    "url": "https://boards.greenhouse.io/chime/jobs/8900226002?gh_jid=8900226002"
+  },
+  "8907786002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "sr crm manager @ san francisco, ca, usa",
+   "location": "San Francisco, CA, USA",
+   "posted_at": "2026-10-22T20:25:23+00:00",
+   "posted_history": [
+    "2026-10-22T20:25:23+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. CRM Manager",
+   "url": "https://boards.greenhouse.io/chime/jobs/8907786002?gh_jid=8907786002"
   },
   "8907828002": {
    "closed_at": null,

@@ -15,6 +15,10 @@
   {
    "date": "2026-10-22",
    "open": 131
+  },
+  {
+   "date": "2026-10-23",
+   "open": 127
   }
  ],
  "jobs": {
@@ -499,7 +503,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/2ba388d9-8cb1-4738-a9a2-37d97fc17216"
   },
   "2bbe9f02-83a5-4173-98be-9085d1cb5693": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -589,7 +593,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/34cecd0c-c392-4454-8ef5-261310541011"
   },
   "3551cdaa-cf08-4c04-adbe-a968185bc769": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -993,6 +997,21 @@
    "title": "Field Engineer",
    "url": "https://jobs.ashbyhq.com/cursor/64a6cb18-493b-4d18-9f22-c661ae533bfa"
   },
+  "6868de4a-f753-4f10-8dc5-f7aabef03b56": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "software engineer compute infra @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-10-22T19:53:00+00:00",
+   "posted_history": [
+    "2026-10-22T19:53:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Compute Infra",
+   "url": "https://jobs.ashbyhq.com/cursor/6868de4a-f753-4f10-8dc5-f7aabef03b56"
+  },
   "6960dfef-6dc1-4dbb-887b-0fc9e6e4292e": {
    "closed_at": null,
    "department": "Solutions",
@@ -1024,7 +1043,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/6ab9bead-274e-4bf4-b2ee-1f3669e4aa9b"
   },
   "6acdd80a-3a1b-4701-a607-ca10d86c6847": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -1069,7 +1088,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/6d576a09-f30d-4e5e-bb58-5d7ef56cb511"
   },
   "6e6f5bc2-eb32-40e2-bba9-cfa56479600d": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1309,7 +1328,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/919b3d00-fef8-4038-8b71-165fae5d54e7"
   },
   "9287df8c-4138-4d75-ae92-cc98d3963856": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1337,6 +1356,21 @@
    "reopened": 0,
    "title": "Software Engineer, Security",
    "url": "https://jobs.ashbyhq.com/cursor/94cc6684-9dbf-43f9-8ffc-405614e64ddd"
+  },
+  "9764046f-8303-4fca-8386-4e743dfc8722": {
+   "closed_at": null,
+   "department": "Solutions",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "field engineer commercial @ singapore",
+   "location": "Singapore",
+   "posted_at": "2026-10-22T10:42:46+00:00",
+   "posted_history": [
+    "2026-10-22T10:42:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "Field Engineer, Commercial",
+   "url": "https://jobs.ashbyhq.com/cursor/9764046f-8303-4fca-8386-4e743dfc8722"
   },
   "98dbc051-5dfc-4760-8c14-bbaf8529256c": {
    "closed_at": null,
@@ -1504,7 +1538,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/a750c967-7c4d-4704-a528-dcb63afc5f64"
   },
   "aa50a09b-2413-44a0-a1b1-04381b03cc30": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1609,7 +1643,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/b6d90b7f-7586-46e8-bab6-8d87b881906c"
   },
   "be14443e-1c17-4619-a428-4c02a7c0a7e6": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1997,6 +2031,21 @@
    "reopened": 0,
    "title": "Engineering Manager, Core Services",
    "url": "https://jobs.ashbyhq.com/cursor/e5d8ed7a-b93d-464f-a8d1-a4fa60e808d5"
+  },
+  "ef96e7fc-5d91-48b2-a8af-26dca8caab77": {
+   "closed_at": null,
+   "department": "Solutions",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "field engineer commercial @ australia",
+   "location": "Australia",
+   "posted_at": "2026-10-22T10:42:28+00:00",
+   "posted_history": [
+    "2026-10-22T10:42:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Field Engineer, Commercial",
+   "url": "https://jobs.ashbyhq.com/cursor/ef96e7fc-5d91-48b2-a8af-26dca8caab77"
   },
   "f2cf204b-f469-4997-9508-f218c5869706": {
    "closed_at": null,

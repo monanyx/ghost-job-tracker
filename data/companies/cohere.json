@@ -15,6 +15,10 @@
   {
    "date": "2026-10-22",
    "open": 113
+  },
+  {
+   "date": "2026-10-23",
+   "open": 114
   }
  ],
  "jobs": {
@@ -490,27 +494,43 @@
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "vp of sales public sector @ toronto",
    "location": "Toronto",
-   "posted_at": "2026-10-15T19:57:15+00:00",
+   "posted_at": "2026-10-22T19:56:14+00:00",
    "posted_history": [
-    "2026-10-15T19:57:15+00:00"
+    "2026-10-15T19:57:15+00:00",
+    "2026-10-22T19:56:14+00:00"
    ],
    "reopened": 0,
    "title": "VP of Sales - Public Sector",
    "url": "https://jobs.ashbyhq.com/cohere/49a6485c-c449-4e07-8001-cafc97a39a13"
+  },
+  "4ef5101e-b083-49cd-808a-54c754d159e5": {
+   "closed_at": null,
+   "department": "Analytics & Data Insights",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "senior staff data engineer @ toronto",
+   "location": "Toronto",
+   "posted_at": "2026-10-22T10:15:04+00:00",
+   "posted_history": [
+    "2026-10-22T10:15:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Staff Data Engineer",
+   "url": "https://jobs.ashbyhq.com/cohere/4ef5101e-b083-49cd-808a-54c754d159e5"
   },
   "529b2dd6-4be3-49db-97cd-781f4897540b": {
    "closed_at": null,
    "department": "Engineering & Infra",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
-   "fp": "senior software engineer agent infrastructure @ toronto",
+   "fp": "staff senior staff software engineer agent infrastructure @ toronto",
    "location": "Toronto",
    "posted_at": "2026-10-22T01:52:35+00:00",
    "posted_history": [
     "2026-10-22T01:52:35+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Software Engineer, Agent Infrastructure",
+   "title": "Staff/Senior Staff Software Engineer, Agent Infrastructure",
    "url": "https://jobs.ashbyhq.com/cohere/529b2dd6-4be3-49db-97cd-781f4897540b"
   },
   "52a2b83b-7537-4e88-af7b-e4e9630a96e0": {
@@ -1293,6 +1313,21 @@
    "title": "Senior Account Executive",
    "url": "https://jobs.ashbyhq.com/cohere/bdcdc6d1-2379-40fe-bfb6-d61768043b37"
   },
+  "be14b338-eac9-4099-9599-1e15cfdd11be": {
+   "closed_at": null,
+   "department": "People Operations",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "manager executive assistants revenue @ new york",
+   "location": "New York",
+   "posted_at": "2026-10-22T17:25:24+00:00",
+   "posted_history": [
+    "2026-10-22T17:25:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Executive Assistants, Revenue (EST)",
+   "url": "https://jobs.ashbyhq.com/cohere/be14b338-eac9-4099-9599-1e15cfdd11be"
+  },
   "c0cab8c2-7215-449b-92c8-44b48c313514": {
    "closed_at": null,
    "department": "Revenue",
@@ -1744,7 +1779,7 @@
    "url": "https://jobs.ashbyhq.com/cohere/fdf2e205-0c85-4940-9450-aa024379746a"
   },
   "fe2e2971-e2c0-43fd-9ab1-187571776a5d": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "Product Management & Program Management",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

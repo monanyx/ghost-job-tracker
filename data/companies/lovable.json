@@ -15,6 +15,10 @@
   {
    "date": "2026-10-22",
    "open": 78
+  },
+  {
+   "date": "2026-10-23",
+   "open": 78
   }
  ],
  "jobs": {
@@ -458,14 +462,14 @@
    "department": "EPD",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "ai ops engineer @ stockholm",
+   "fp": "member of technical staff applied ai @ stockholm",
    "location": "Stockholm",
    "posted_at": "2026-10-05T21:35:33+00:00",
    "posted_history": [
     "2026-10-05T21:35:33+00:00"
    ],
    "reopened": 0,
-   "title": "AI Ops Engineer (Marketing)",
+   "title": "Member of Technical Staff, Applied AI (Marketing)",
    "url": "https://jobs.ashbyhq.com/lovable/5757fd07-a192-4986-8cdc-1cded652d49d"
   },
   "58a2e1f6-0448-4310-931e-f3c5496149f5": {
@@ -488,8 +492,8 @@
    "department": "EPD",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "ai research engineer post training @ stockholm",
-   "location": "Stockholm",
+   "fp": "ai research engineer post training @ london",
+   "location": "London",
    "posted_at": "2026-04-28T16:14:42+00:00",
    "posted_history": [
     "2026-04-28T16:14:42+00:00"
@@ -648,6 +652,21 @@
    "title": "Research Engineering Lead",
    "url": "https://jobs.ashbyhq.com/lovable/79e04665-0e50-45f8-92e3-9237bcb4e0bc"
   },
+  "7a823e19-49ed-46d4-ba41-4b34b2d53935": {
+   "closed_at": null,
+   "department": "GTM",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "organic search growth marketer @ london",
+   "location": "London",
+   "posted_at": "2026-10-22T16:49:57+00:00",
+   "posted_history": [
+    "2026-10-22T16:49:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "Organic Search Growth Marketer",
+   "url": "https://jobs.ashbyhq.com/lovable/7a823e19-49ed-46d4-ba41-4b34b2d53935"
+  },
   "7ebba78c-4404-4e07-b783-c434a60e749a": {
    "closed_at": null,
    "department": "EPD",
@@ -799,7 +818,7 @@
    "url": "https://jobs.ashbyhq.com/lovable/920b4099-00bc-4d5e-9469-2c955ef3a662"
   },
   "933f4857-6a41-4b78-bbcb-c9895b18055a": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "GTM",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -835,9 +854,10 @@
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "corporate communications public affairs @ stockholm",
    "location": "Stockholm",
-   "posted_at": "2026-09-11T13:45:00+00:00",
+   "posted_at": "2026-10-22T16:12:58+00:00",
    "posted_history": [
-    "2026-09-11T13:45:00+00:00"
+    "2026-09-11T13:45:00+00:00",
+    "2026-10-22T16:12:58+00:00"
    ],
    "reopened": 0,
    "title": "Corporate Communications & Public Affairs (Europe)",
@@ -1030,9 +1050,10 @@
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "analytics engineer @ boston",
    "location": "Boston",
-   "posted_at": "2026-08-09T17:16:36+00:00",
+   "posted_at": "2026-10-22T17:19:19+00:00",
    "posted_history": [
-    "2026-08-09T17:16:36+00:00"
+    "2026-08-09T17:16:36+00:00",
+    "2026-10-22T17:19:19+00:00"
    ],
    "reopened": 0,
    "title": "Analytics Engineer",

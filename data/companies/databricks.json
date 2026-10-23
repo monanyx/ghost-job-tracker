@@ -15,6 +15,10 @@
   {
    "date": "2026-10-22",
    "open": 898
+  },
+  {
+   "date": "2026-10-23",
+   "open": 898
   }
  ],
  "jobs": {
@@ -557,6 +561,21 @@
    "reopened": 0,
    "title": "Software Engineering Intern (2027 Start) - Amsterdam",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866534002"
+  },
+  "6866538002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "data science intern @ mountain view, california; san francisco, california",
+   "location": "Mountain View, California; San Francisco, California",
+   "posted_at": "2023-08-17T21:41:34+00:00",
+   "posted_history": [
+    "2023-08-17T21:41:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Data Science Intern (2027 Start)",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002"
   },
   "6883068002": {
    "closed_at": null,
@@ -2104,7 +2123,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8032546002"
   },
   "8037500002": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3484,7 +3503,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8407917002"
   },
   "8414474002": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4099,7 +4118,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8458710002"
   },
   "8459031002": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6979,7 +6998,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8593713002"
   },
   "8596443002": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7549,7 +7568,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8619213002"
   },
   "8620637002": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -8943,6 +8962,21 @@
    "title": "Senior Solutions Architect (Banking, Financial Services)",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8682362002"
   },
+  "8684079002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "sr technical program manager fde latam @ usca",
+   "location": "USCA",
+   "posted_at": "2026-10-22T15:58:18+00:00",
+   "posted_history": [
+    "2026-10-22T15:58:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Technical Program Manager, FDE - LATAM",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8684079002"
+  },
   "8686919002": {
    "closed_at": null,
    "department": "",
@@ -9079,7 +9113,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8687873002"
   },
   "8688832002": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -10774,7 +10808,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8779018002"
   },
   "8779023002": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -10787,6 +10821,21 @@
    "reopened": 0,
    "title": "Scale Solution Engineer",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8779023002"
+  },
+  "8779031002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "scale solution engineer @ heredia, costa rica",
+   "location": "Heredia, Costa Rica",
+   "posted_at": "2026-10-22T19:31:17+00:00",
+   "posted_history": [
+    "2026-10-22T19:31:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Scale Solution Engineer",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8779031002"
   },
   "8780470002": {
    "closed_at": null,
@@ -12214,7 +12263,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8847738002"
   },
   "8849279002": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -12304,7 +12353,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8854693002"
   },
   "8854739002": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -13203,6 +13252,21 @@
    "title": "Strategic Core Account Executive, FSI",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8883827002"
   },
+  "8884587002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "solutions architect financial services @ georgia; illinois; massachusetts; new jersey; new york; north carolina; texas; washington, d.c.",
+   "location": "Georgia; Illinois; Massachusetts; New Jersey; New York; North Carolina; Texas; Washington, D.C.",
+   "posted_at": "2026-10-22T15:28:36+00:00",
+   "posted_history": [
+    "2026-10-22T15:28:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Solutions Architect - Financial Services (Hunter)",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8884587002"
+  },
   "8884751002": {
    "closed_at": null,
    "department": "",
@@ -13412,6 +13476,21 @@
    "reopened": 0,
    "title": "Solutions Engineer",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8886944002"
+  },
+  "8888920002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "strategic core account executive life sciences @ zürich, switzerland",
+   "location": "Zürich, Switzerland",
+   "posted_at": "2026-10-22T17:14:20+00:00",
+   "posted_history": [
+    "2026-10-22T17:14:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Core Account Executive - Life Sciences",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8888920002"
   },
   "8892943002": {
    "closed_at": null,
@@ -13728,6 +13807,21 @@
    "title": "Startup Core Account Executive",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8899929002"
   },
+  "8899931002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "new business enterprise account executive @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2026-10-22T11:52:39+00:00",
+   "posted_history": [
+    "2026-10-22T11:52:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "New Business Enterprise Account Executive (Public Sector)",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8899931002"
+  },
   "8900134002": {
    "closed_at": null,
    "department": "",
@@ -13788,6 +13882,36 @@
    "title": "Strategic Core Account Executive - Retail",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8903091002"
   },
+  "8903095002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "strategic core account executive insurance @ zürich, switzerland",
+   "location": "Zürich, Switzerland",
+   "posted_at": "2026-10-22T17:18:20+00:00",
+   "posted_history": [
+    "2026-10-22T17:18:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Core Account Executive - Insurance",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8903095002"
+  },
+  "8905733002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "strategic enterprise account executive media @ paris, france",
+   "location": "Paris, France",
+   "posted_at": "2026-10-22T16:40:57+00:00",
+   "posted_history": [
+    "2026-10-22T16:40:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Enterprise Account Executive, Media",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8905733002"
+  },
   "8905967002": {
    "closed_at": null,
    "department": "",
@@ -13802,6 +13926,21 @@
    "reopened": 0,
    "title": "Senior Solutions Architect - Digital Natives",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8905967002"
+  },
+  "8909305002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "senior staff software engineer ai runtime @ mountain view, california; san francisco, california",
+   "location": "Mountain View, California; San Francisco, California",
+   "posted_at": "2026-10-22T18:28:32+00:00",
+   "posted_history": [
+    "2026-10-22T18:28:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Staff Software Engineer, AI Runtime",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8909305002"
   }
  }
 }

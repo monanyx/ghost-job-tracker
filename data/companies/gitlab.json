@@ -15,6 +15,10 @@
   {
    "date": "2026-10-22",
    "open": 232
+  },
+  {
+   "date": "2026-10-23",
+   "open": 231
   }
  ],
  "jobs": {
@@ -23,14 +27,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "manager solutions architects san francisco @ remote, us",
+   "fp": "manager senior manager solution architects san francisco @ remote, us",
    "location": "Remote, US",
    "posted_at": "2026-03-06T19:25:31+00:00",
    "posted_history": [
     "2026-03-06T19:25:31+00:00"
    ],
    "reopened": 0,
-   "title": "Manager, Solutions Architects - San Francisco",
+   "title": "Manager/Senior Manager, Solution Architects - San Francisco",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8396674002"
   },
   "8478405002": {
@@ -289,7 +293,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8615811002"
   },
   "8617777002": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -379,7 +383,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8626740002"
   },
   "8626772002": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1084,7 +1088,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8716179002"
   },
   "8716271002": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1309,7 +1313,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8745623002"
   },
   "8746461002": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1849,7 +1853,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8808549002"
   },
   "8809512002": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2959,7 +2963,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8871406002"
   },
   "8871798002": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3468,6 +3472,21 @@
    "title": "Commercial Account Executive - Australia",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8887265002"
   },
+  "8887322002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "enterprise account executive south korea @ remote, south korea",
+   "location": "Remote, South Korea",
+   "posted_at": "2026-10-22T10:11:24+00:00",
+   "posted_history": [
+    "2026-10-22T10:11:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Account Executive - South Korea",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8887322002"
+  },
   "8889193002": {
    "closed_at": null,
    "department": "",
@@ -3588,20 +3607,80 @@
    "title": "Manager, Customer Success",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8896290002"
   },
+  "8904961002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "contract talent acquisition sourcer sales @ remote, australia; remote, singapore",
+   "location": "Remote, Australia; Remote, Singapore",
+   "posted_at": "2026-10-22T15:29:27+00:00",
+   "posted_history": [
+    "2026-10-22T15:29:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Contract Talent Acquisition Sourcer, Sales (APJ)",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8904961002"
+  },
   "8907028002": {
    "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
-   "fp": "partner program manager @ remote, united states",
+   "fp": "staff global partner programs manager @ remote, united states",
    "location": "Remote, United States",
    "posted_at": "2026-10-21T23:46:48+00:00",
    "posted_history": [
     "2026-10-21T23:46:48+00:00"
    ],
    "reopened": 0,
-   "title": "Partner Program Manager",
+   "title": "Staff Global Partner Programs Manager",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8907028002"
+  },
+  "8907111002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "solutions architect sled @ remote, united states",
+   "location": "Remote, United States",
+   "posted_at": "2026-10-22T19:13:13+00:00",
+   "posted_history": [
+    "2026-10-22T19:13:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Solutions Architect - SLED (East)",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8907111002"
+  },
+  "8907130002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "senior solutions architect sled @ remote, united states",
+   "location": "Remote, United States",
+   "posted_at": "2026-10-22T19:14:02+00:00",
+   "posted_history": [
+    "2026-10-22T19:14:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Solutions Architect - SLED (West)",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8907130002"
+  },
+  "8907680002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "senior ecosystem operations manager @ remote, canada; remote, united states",
+   "location": "Remote, Canada; Remote, United States",
+   "posted_at": "2026-10-22T16:38:08+00:00",
+   "posted_history": [
+    "2026-10-22T16:38:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Ecosystem Operations Manager",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8907680002"
   }
  }
 }

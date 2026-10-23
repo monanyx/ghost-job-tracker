@@ -15,6 +15,10 @@
   {
    "date": "2026-10-22",
    "open": 80
+  },
+  {
+   "date": "2026-10-23",
+   "open": 78
   }
  ],
  "jobs": {
@@ -64,7 +68,7 @@
    "url": "https://jobs.lever.co/spotify/080868dd-fc8c-4648-b6ab-6780d8ca3d63"
   },
   "0bbac931-32eb-4ceb-9477-41f1e8d8b01d": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "Premium Business",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -199,7 +203,7 @@
    "url": "https://jobs.lever.co/spotify/204f6cd7-98a3-4360-87e3-8876adf087da"
   },
   "223f9722-3579-4ff2-b123-e4cc7b0c1a64": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "Marketing",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -664,7 +668,7 @@
    "url": "https://jobs.lever.co/spotify/926149ab-6999-4058-b35d-41e302b70e05"
   },
   "973b0b71-e8d2-4d7d-9c4b-1c716bd45c8b": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "Premium Business",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -754,7 +758,7 @@
    "url": "https://jobs.lever.co/spotify/9e3bdb48-67eb-49d9-ae0b-a337ba69a05f"
   },
   "9eca14d3-8e0b-46de-8161-704e07f3d9d0": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "Experience",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -799,7 +803,7 @@
    "url": "https://jobs.lever.co/spotify/9fd98cde-6a1b-419c-a27a-daae7a7483f0"
   },
   "a343f789-bb7f-41eb-bd85-d7c6b45bda67": {
-   "closed_at": "2026-10-21T08:53:29+00:00",
+   "closed_at": null,
    "department": "Personalization",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -809,7 +813,7 @@
    "posted_history": [
     "2026-09-30T12:26:48+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Technical Program Manager",
    "url": "https://jobs.lever.co/spotify/a343f789-bb7f-41eb-bd85-d7c6b45bda67"
   },
@@ -1292,6 +1296,21 @@
    "reopened": 0,
    "title": "Staff Product Designer - Platform Design",
    "url": "https://jobs.lever.co/spotify/f02fb195-ba10-40bd-a926-0318a34a7fae"
+  },
+  "f7eb82ce-b57e-4dc0-b84a-7f7ec05bf66e": {
+   "closed_at": null,
+   "department": "Automation and Agency Teams",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "agency development lead france @ paris",
+   "location": "Paris",
+   "posted_at": "2026-10-16T11:13:03+00:00",
+   "posted_history": [
+    "2026-10-16T11:13:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Agency Development Lead - France",
+   "url": "https://jobs.lever.co/spotify/f7eb82ce-b57e-4dc0-b84a-7f7ec05bf66e"
   },
   "faffd837-edbc-42f8-b4bf-14e1658c18e6": {
    "closed_at": null,

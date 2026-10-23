@@ -15,6 +15,10 @@
   {
    "date": "2026-10-22",
    "open": 139
+  },
+  {
+   "date": "2026-10-23",
+   "open": 141
   }
  ],
  "jobs": {
@@ -574,7 +578,7 @@
    "url": "https://boards.greenhouse.io/figma/jobs/5813967004?gh_jid=5813967004"
   },
   "5822583004": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2059,7 +2063,7 @@
    "url": "https://boards.greenhouse.io/figma/jobs/6219995004?gh_jid=6219995004"
   },
   "6220093004": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2193,6 +2197,21 @@
    "title": "Senior Solutions Consultant (Seoul, South Korea)",
    "url": "https://boards.greenhouse.io/figma/jobs/6225172004?gh_jid=6225172004"
   },
+  "6225818004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "distribution partner manager latam @ san francisco, ca • new york, ny • united states",
+   "location": "San Francisco, CA • New York, NY • United States",
+   "posted_at": "2026-10-22T14:22:06+00:00",
+   "posted_history": [
+    "2026-10-22T14:22:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "Distribution Partner Manager, LATAM",
+   "url": "https://boards.greenhouse.io/figma/jobs/6225818004?gh_jid=6225818004"
+  },
   "6226427004": {
    "closed_at": null,
    "department": "",
@@ -2237,6 +2256,51 @@
    "reopened": 0,
    "title": "Product Manager, Figma Pattern Library",
    "url": "https://boards.greenhouse.io/figma/jobs/6228774004?gh_jid=6228774004"
+  },
+  "6229275004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "enterprise support specialist @ bengaluru, india",
+   "location": "Bengaluru, India",
+   "posted_at": "2026-10-23T04:23:45+00:00",
+   "posted_history": [
+    "2026-10-23T04:23:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Support Specialist (Bengaluru, India)",
+   "url": "https://boards.greenhouse.io/figma/jobs/6229275004?gh_jid=6229275004"
+  },
+  "6230562004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "technical support engineer @ bengaluru, india",
+   "location": "Bengaluru, India",
+   "posted_at": "2026-10-23T04:53:28+00:00",
+   "posted_history": [
+    "2026-10-23T04:53:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Support Engineer (Bengaluru, India)",
+   "url": "https://boards.greenhouse.io/figma/jobs/6230562004?gh_jid=6230562004"
+  },
+  "6230952004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "account executive federal state local @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-10-22T15:23:31+00:00",
+   "posted_history": [
+    "2026-10-22T15:23:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, Federal - State & Local",
+   "url": "https://boards.greenhouse.io/figma/jobs/6230952004?gh_jid=6230952004"
   }
  }
 }

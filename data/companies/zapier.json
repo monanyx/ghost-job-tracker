@@ -15,6 +15,10 @@
   {
    "date": "2026-10-22",
    "open": 13
+  },
+  {
+   "date": "2026-10-23",
+   "open": 12
   }
  ],
  "jobs": {
@@ -49,7 +53,7 @@
    "url": "https://jobs.ashbyhq.com/zapier/1e5d20ae-d2ce-4924-9957-73a8c7c17654"
   },
   "3d1b1dbc-36ae-4acc-afff-e83fdf4d0280": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "People",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

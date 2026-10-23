@@ -15,6 +15,10 @@
   {
    "date": "2026-10-22",
    "open": 266
+  },
+  {
+   "date": "2026-10-23",
+   "open": 279
   }
  ],
  "jobs": {
@@ -349,7 +353,7 @@
    "url": "https://www.samsara.com/company/careers/roles/7603023?gh_jid=7603023"
   },
   "7608969": {
-   "closed_at": "2026-10-22T08:55:54+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -359,7 +363,7 @@
    "posted_history": [
     "2026-02-12T20:16:21+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Account Executive, Mid Market (TOLA)",
    "url": "https://www.samsara.com/company/careers/roles/7608969?gh_jid=7608969"
   },
@@ -368,8 +372,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "account executive mid market @ remote - sf bay area; san francisco, ca, united states",
-   "location": "Remote - SF Bay Area; San Francisco, CA, United States",
+   "fp": "account executive mid market @ remote - sf bay area; remote - us; san francisco, ca, united states",
+   "location": "Remote - SF Bay Area; Remote - US; San Francisco, CA, United States",
    "posted_at": "2026-02-12T19:44:08+00:00",
    "posted_history": [
     "2026-02-12T19:44:08+00:00"
@@ -394,7 +398,7 @@
    "url": "https://www.samsara.com/company/careers/roles/7609126?gh_jid=7609126"
   },
   "7609147": {
-   "closed_at": "2026-10-22T08:55:54+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -404,7 +408,7 @@
    "posted_history": [
     "2026-02-12T20:19:36+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Account Executive, Mid Market (Northeast)",
    "url": "https://www.samsara.com/company/careers/roles/7609147?gh_jid=7609147"
   },
@@ -617,6 +621,21 @@
    "reopened": 0,
    "title": "Director, Field Sales Engineering",
    "url": "https://www.samsara.com/company/careers/roles/7695309?gh_jid=7695309"
+  },
+  "7702368": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "sr manager enterprise customer success select @ remote - us",
+   "location": "Remote - US",
+   "posted_at": "2026-03-11T18:27:56+00:00",
+   "posted_history": [
+    "2026-03-11T18:27:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Manager, Enterprise Customer Success - Select",
+   "url": "https://www.samsara.com/company/careers/roles/7702368?gh_jid=7702368"
   },
   "7721193": {
    "closed_at": null,
@@ -1083,6 +1102,21 @@
    "title": "Product Support Engineer III",
    "url": "https://www.samsara.com/company/careers/roles/7960367?gh_jid=7960367"
   },
+  "7960413": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "specialist seller enterprise core @ remote - chicago",
+   "location": "Remote - Chicago",
+   "posted_at": "2026-05-27T15:22:57+00:00",
+   "posted_history": [
+    "2026-05-27T15:22:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "Specialist Seller, Enterprise Core (AI Products)",
+   "url": "https://www.samsara.com/company/careers/roles/7960413?gh_jid=7960413"
+  },
   "7961186": {
    "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
@@ -1217,6 +1251,96 @@
    "reopened": 0,
    "title": "Account Validation Specialist - MX",
    "url": "https://www.samsara.com/company/careers/roles/7967689?gh_jid=7967689"
+  },
+  "7982323": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "specialist seller enterprise core @ remote - dallas",
+   "location": "Remote - Dallas",
+   "posted_at": "2026-06-04T14:07:40+00:00",
+   "posted_history": [
+    "2026-06-04T14:07:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Specialist Seller, Enterprise Core (AI Products)",
+   "url": "https://www.samsara.com/company/careers/roles/7982323?gh_jid=7982323"
+  },
+  "7982326": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "specialist seller enterprise core @ remote - houston",
+   "location": "Remote - Houston",
+   "posted_at": "2026-06-04T14:07:39+00:00",
+   "posted_history": [
+    "2026-06-04T14:07:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Specialist Seller, Enterprise Core (AI Products)",
+   "url": "https://www.samsara.com/company/careers/roles/7982326?gh_jid=7982326"
+  },
+  "7982328": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "specialist seller enterprise core @ remote - ma",
+   "location": "Remote - MA",
+   "posted_at": "2026-06-04T14:07:41+00:00",
+   "posted_history": [
+    "2026-06-04T14:07:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Specialist Seller, Enterprise Core (AI Products)",
+   "url": "https://www.samsara.com/company/careers/roles/7982328?gh_jid=7982328"
+  },
+  "7982331": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "specialist seller enterprise core @ remote - ny",
+   "location": "Remote - NY",
+   "posted_at": "2026-06-04T14:07:42+00:00",
+   "posted_history": [
+    "2026-06-04T14:07:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Specialist Seller, Enterprise Core (AI Products)",
+   "url": "https://www.samsara.com/company/careers/roles/7982331?gh_jid=7982331"
+  },
+  "7982336": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "specialist seller enterprise core @ remote - dc",
+   "location": "Remote - DC",
+   "posted_at": "2026-06-04T14:07:44+00:00",
+   "posted_history": [
+    "2026-06-04T14:07:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Specialist Seller, Enterprise Core (AI Products)",
+   "url": "https://www.samsara.com/company/careers/roles/7982336?gh_jid=7982336"
+  },
+  "7982346": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "specialist seller enterprise core @ atlanta, georgia, united states",
+   "location": "Atlanta, Georgia, United States",
+   "posted_at": "2026-06-04T14:07:45+00:00",
+   "posted_history": [
+    "2026-06-04T14:07:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Specialist Seller, Enterprise Core (AI Products)",
+   "url": "https://www.samsara.com/company/careers/roles/7982346?gh_jid=7982346"
   },
   "7992889": {
    "closed_at": null,
@@ -1459,7 +1583,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8029100?gh_jid=8029100"
   },
   "8036387": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3143,14 +3267,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "sr regional web product manager @ remote - chicago",
+   "fp": "sr regional web strategy manager @ remote - chicago",
    "location": "Remote - Chicago",
    "posted_at": "2026-09-23T07:39:13+00:00",
    "posted_history": [
     "2026-09-23T07:39:13+00:00"
    ],
    "reopened": 0,
-   "title": "Sr. Regional Web Product Manager",
+   "title": "Sr. Regional Web Strategy Manager",
    "url": "https://www.samsara.com/company/careers/roles/8212556?gh_jid=8212556"
   },
   "8212787": {
@@ -3363,6 +3487,21 @@
    "title": "Senior Software Engineer II",
    "url": "https://www.samsara.com/company/careers/roles/8231949?gh_jid=8231949"
   },
+  "8232209": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "manager ii customer success @ remote - us",
+   "location": "Remote - US",
+   "posted_at": "2026-10-22T14:20:31+00:00",
+   "posted_history": [
+    "2026-10-22T14:20:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager II, Customer Success",
+   "url": "https://www.samsara.com/company/careers/roles/8232209?gh_jid=8232209"
+  },
   "8232932": {
    "closed_at": null,
    "department": "",
@@ -3394,7 +3533,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8233947?gh_jid=8233947"
   },
   "8236004": {
-   "closed_at": "2026-10-22T08:55:54+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3404,7 +3543,7 @@
    "posted_history": [
     "2026-10-08T00:23:27+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Implementation Consultant",
    "url": "https://www.samsara.com/company/careers/roles/8236004?gh_jid=8236004"
   },
@@ -3679,7 +3818,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8259022?gh_jid=8259022"
   },
   "8259091": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3694,7 +3833,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8259091?gh_jid=8259091"
   },
   "8260850": {
-   "closed_at": "2026-10-22T08:55:54+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3704,7 +3843,7 @@
    "posted_history": [
     "2026-10-07T08:03:58+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Account Development Representative - DACH",
    "url": "https://www.samsara.com/company/careers/roles/8260850?gh_jid=8260850"
   },
@@ -4037,6 +4176,21 @@
    "reopened": 0,
    "title": "Senior Security Operations Engineer",
    "url": "https://www.samsara.com/company/careers/roles/8281650?gh_jid=8281650"
+  },
+  "8282082": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "contract and billing specialist @ remote - us",
+   "location": "Remote - US",
+   "posted_at": "2026-10-22T18:39:44+00:00",
+   "posted_history": [
+    "2026-10-22T18:39:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Contract and Billing Specialist",
+   "url": "https://www.samsara.com/company/careers/roles/8282082?gh_jid=8282082"
   },
   "8287417": {
    "closed_at": null,
@@ -4457,6 +4611,21 @@
    "reopened": 0,
    "title": "Staff Engineer - Telematics",
    "url": "https://www.samsara.com/company/careers/roles/8305824?gh_jid=8305824"
+  },
+  "8305848": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "manager enterprise implementation core @ remote - denver",
+   "location": "Remote - Denver",
+   "posted_at": "2026-10-22T19:31:50+00:00",
+   "posted_history": [
+    "2026-10-22T19:31:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Enterprise Implementation - Core",
+   "url": "https://www.samsara.com/company/careers/roles/8305848?gh_jid=8305848"
   },
   "8306291": {
    "closed_at": null,

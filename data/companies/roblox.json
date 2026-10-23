@@ -15,6 +15,10 @@
   {
    "date": "2026-10-22",
    "open": 267
+  },
+  {
+   "date": "2026-10-23",
+   "open": 263
   }
  ],
  "jobs": {
@@ -334,7 +338,7 @@
    "url": "https://careers.roblox.com/jobs/7656541?gh_jid=7656541"
   },
   "7678832": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -623,14 +627,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "data analyst operations @ gurugram, haryana, india",
+   "fp": "senior data analyst scaled moderation @ gurugram, haryana, india",
    "location": "Gurugram, Haryana, India",
    "posted_at": "2026-04-27T17:40:57+00:00",
    "posted_history": [
     "2026-04-27T17:40:57+00:00"
    ],
    "reopened": 0,
-   "title": "Data Analyst, Operations (IP & Legal Compliance)",
+   "title": "Senior Data Analyst- Scaled Moderation",
    "url": "https://careers.roblox.com/jobs/7856888?gh_jid=7856888"
   },
   "7862605": {
@@ -1508,14 +1512,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "engineering manager data tooling @ san mateo, ca, united states",
+   "fp": "principal software engineer data tooling @ san mateo, ca, united states",
    "location": "San Mateo, CA, United States",
    "posted_at": "2026-08-27T16:24:27+00:00",
    "posted_history": [
     "2026-08-27T16:24:27+00:00"
    ],
    "reopened": 0,
-   "title": "Engineering Manager, Data Tooling",
+   "title": "Principal Software Engineer, Data Tooling",
    "url": "https://careers.roblox.com/jobs/8052237?gh_jid=8052237"
   },
   "8052466": {
@@ -1534,7 +1538,7 @@
    "url": "https://careers.roblox.com/jobs/8052466?gh_jid=8052466"
   },
   "8055450": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1594,7 +1598,7 @@
    "url": "https://careers.roblox.com/jobs/8056362?gh_jid=8056362"
   },
   "8069987": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1864,7 +1868,7 @@
    "url": "https://careers.roblox.com/jobs/8094470?gh_jid=8094470"
   },
   "8094661": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1907,6 +1911,21 @@
    "reopened": 0,
    "title": "Senior Software Engineer, Runtime",
    "url": "https://careers.roblox.com/jobs/8097810?gh_jid=8097810"
+  },
+  "8099956": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "engineering manager subscriptions @ san mateo, ca, united states",
+   "location": "San Mateo, CA, United States",
+   "posted_at": "2026-08-17T17:28:42+00:00",
+   "posted_history": [
+    "2026-08-17T17:28:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager - Subscriptions",
+   "url": "https://careers.roblox.com/jobs/8099956?gh_jid=8099956"
   },
   "8099958": {
    "closed_at": null,
@@ -1954,7 +1973,7 @@
    "url": "https://careers.roblox.com/jobs/8106059?gh_jid=8106059"
   },
   "8107093": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2599,7 +2618,7 @@
    "url": "https://careers.roblox.com/jobs/8168917?gh_jid=8168917"
   },
   "8171039": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2659,7 +2678,7 @@
    "url": "https://careers.roblox.com/jobs/8172233?gh_jid=8172233"
   },
   "8172297": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2869,7 +2888,7 @@
    "url": "https://careers.roblox.com/jobs/8187491?gh_jid=8187491"
   },
   "8190596": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3948,6 +3967,21 @@
    "title": "Senior Software Engineer, Video Rendering",
    "url": "https://careers.roblox.com/jobs/8265736?gh_jid=8265736"
   },
+  "8265761": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "senior technical program manager engine @ san mateo, ca, united states",
+   "location": "San Mateo, CA, United States",
+   "posted_at": "2026-10-22T20:51:50+00:00",
+   "posted_history": [
+    "2026-10-22T20:51:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Technical Program Manager, Engine",
+   "url": "https://careers.roblox.com/jobs/8265761?gh_jid=8265761"
+  },
   "8267972": {
    "closed_at": null,
    "department": "",
@@ -4068,6 +4102,21 @@
    "title": "Principal Network Security Engineer",
    "url": "https://careers.roblox.com/jobs/8283467?gh_jid=8283467"
   },
+  "8286666": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "manager product support incident management @ gurugram, haryana, india",
+   "location": "Gurugram, Haryana, India",
+   "posted_at": "2026-10-22T09:55:32+00:00",
+   "posted_history": [
+    "2026-10-22T09:55:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Product Support Incident Management",
+   "url": "https://careers.roblox.com/jobs/8286666?gh_jid=8286666"
+  },
   "8287853": {
    "closed_at": null,
    "department": "",
@@ -4142,6 +4191,21 @@
    "reopened": 0,
    "title": "Workplace Services Manager",
    "url": "https://careers.roblox.com/jobs/8293671?gh_jid=8293671"
+  },
+  "8304814": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "senior technical artist @ san mateo, ca, united states",
+   "location": "San Mateo, CA, United States",
+   "posted_at": "2026-10-22T20:36:46+00:00",
+   "posted_history": [
+    "2026-10-22T20:36:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Technical Artist",
+   "url": "https://careers.roblox.com/jobs/8304814?gh_jid=8304814"
   }
  }
 }

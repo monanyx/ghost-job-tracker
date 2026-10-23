@@ -15,6 +15,10 @@
   {
    "date": "2026-10-22",
    "open": 11
+  },
+  {
+   "date": "2026-10-23",
+   "open": 10
   }
  ],
  "jobs": {
@@ -109,7 +113,7 @@
    "url": "https://job-boards.greenhouse.io/typeform/jobs/8185412"
   },
   "8188745": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

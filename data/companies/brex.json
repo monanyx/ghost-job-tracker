@@ -15,6 +15,10 @@
   {
    "date": "2026-10-22",
    "open": 265
+  },
+  {
+   "date": "2026-10-23",
+   "open": 257
   }
  ],
  "jobs": {
@@ -244,7 +248,7 @@
    "url": "https://www.brex.com/careers/8326211002?gh_jid=8326211002"
   },
   "8339037002": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -334,7 +338,7 @@
    "url": "https://www.brex.com/careers/8366850002?gh_jid=8366850002"
   },
   "8367549002": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -349,7 +353,7 @@
    "url": "https://www.brex.com/careers/8367549002?gh_jid=8367549002"
   },
   "8367552002": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -364,7 +368,7 @@
    "url": "https://www.brex.com/careers/8367552002?gh_jid=8367552002"
   },
   "8367553002": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -394,7 +398,7 @@
    "url": "https://www.brex.com/careers/8402259002?gh_jid=8402259002"
   },
   "8428989002": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -454,7 +458,7 @@
    "url": "https://www.brex.com/careers/8430197002?gh_jid=8430197002"
   },
   "8432614002": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -469,7 +473,7 @@
    "url": "https://www.brex.com/careers/8432614002?gh_jid=8432614002"
   },
   "8432615002": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -484,7 +488,7 @@
    "url": "https://www.brex.com/careers/8432615002?gh_jid=8432615002"
   },
   "8432616002": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1043,14 +1047,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "implementation consultant i commercial @ san francisco, california, united states",
+   "fp": "implementation consultant commercial @ san francisco, california, united states",
    "location": "San Francisco, California, United States",
    "posted_at": "2026-05-06T00:40:39+00:00",
    "posted_history": [
     "2026-05-06T00:40:39+00:00"
    ],
    "reopened": 0,
-   "title": "Implementation Consultant I, Commercial",
+   "title": "Implementation Consultant, Commercial",
    "url": "https://www.brex.com/careers/8536968002?gh_jid=8536968002"
   },
   "8536983002": {
@@ -1058,14 +1062,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "implementation consultant i commercial @ new york, new york, united states",
+   "fp": "implementation consultant commercial @ new york, new york, united states",
    "location": "New York, New York, United States",
    "posted_at": "2026-05-06T00:44:29+00:00",
    "posted_history": [
     "2026-05-06T00:44:29+00:00"
    ],
    "reopened": 0,
-   "title": "Implementation Consultant I, Commercial",
+   "title": "Implementation Consultant, Commercial",
    "url": "https://www.brex.com/careers/8536983002?gh_jid=8536983002"
   },
   "8536985002": {
@@ -1073,14 +1077,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "implementation consultant i commercial @ seattle, washington, united states",
+   "fp": "implementation consultant commercial @ seattle, washington, united states",
    "location": "Seattle, Washington, United States",
    "posted_at": "2026-05-06T00:44:59+00:00",
    "posted_history": [
     "2026-05-06T00:44:59+00:00"
    ],
    "reopened": 0,
-   "title": "Implementation Consultant I, Commercial",
+   "title": "Implementation Consultant, Commercial",
    "url": "https://www.brex.com/careers/8536985002?gh_jid=8536985002"
   },
   "8536986002": {
@@ -1088,14 +1092,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "implementation consultant i commercial @ salt lake city, utah, united states",
+   "fp": "implementation consultant commercial @ salt lake city, utah, united states",
    "location": "Salt Lake City, Utah, United States",
    "posted_at": "2026-05-06T00:45:57+00:00",
    "posted_history": [
     "2026-05-06T00:45:57+00:00"
    ],
    "reopened": 0,
-   "title": "Implementation Consultant I, Commercial",
+   "title": "Implementation Consultant, Commercial",
    "url": "https://www.brex.com/careers/8536986002?gh_jid=8536986002"
   },
   "8536988002": {
@@ -1103,14 +1107,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "implementation consultant i commercial @ vancouver, british columbia, canada",
+   "fp": "implementation consultant commercial @ vancouver, british columbia, canada",
    "location": "Vancouver, British Columbia, Canada",
    "posted_at": "2026-05-06T00:47:00+00:00",
    "posted_history": [
     "2026-05-06T00:47:00+00:00"
    ],
    "reopened": 0,
-   "title": "Implementation Consultant I, Commercial",
+   "title": "Implementation Consultant, Commercial",
    "url": "https://www.brex.com/careers/8536988002?gh_jid=8536988002"
   },
   "8579194002": {

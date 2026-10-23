@@ -15,6 +15,10 @@
   {
    "date": "2026-10-22",
    "open": 304
+  },
+  {
+   "date": "2026-10-23",
+   "open": 307
   }
  ],
  "jobs": {
@@ -77,6 +81,21 @@
    "reopened": 0,
    "title": "Software Engineer, New Grad - Defense",
    "url": "https://jobs.lever.co/palantir/0a838e66-1ab0-4fc4-b4d3-4671c0352278"
+  },
+  "0ccbe620-a3ef-41d1-a5c4-68e56b3c91d0": {
+   "closed_at": null,
+   "department": "Business Development",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "american tech fellowship @ north america",
+   "location": "North America",
+   "posted_at": "2025-06-17T00:16:14+00:00",
+   "posted_history": [
+    "2025-06-17T00:16:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "American Tech Fellowship",
+   "url": "https://jobs.lever.co/palantir/0ccbe620-a3ef-41d1-a5c4-68e56b3c91d0"
   },
   "0edf7365-49f0-4263-818a-19409ec4f430": {
    "closed_at": "2026-10-20T08:53:12+00:00",
@@ -169,7 +188,7 @@
    "url": "https://jobs.lever.co/palantir/12d13a31-5764-4678-8835-809f0deae49b"
   },
   "12e94938-55cb-4ad9-9c05-405ebc9ef430": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "Delta",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1053,6 +1072,21 @@
    "title": "Software Engineer, Internship",
    "url": "https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249"
   },
+  "37780e70-c7af-45e1-9be7-071df201c387": {
+   "closed_at": null,
+   "department": "Echo",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "deployment strategist new grad warp speed @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-10-22T21:42:07+00:00",
+   "posted_history": [
+    "2026-10-22T21:42:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Deployment Strategist, New Grad - Warp Speed",
+   "url": "https://jobs.lever.co/palantir/37780e70-c7af-45e1-9be7-071df201c387"
+  },
   "37964982-9b4c-471e-a1d8-fb8f45d7f116": {
    "closed_at": null,
    "department": "Dev",
@@ -1443,6 +1477,21 @@
    "title": "Software Engineer, New Grad - Infrastructure",
    "url": "https://jobs.lever.co/palantir/4abf26b4-795c-420a-bf22-1ab98db268b4"
   },
+  "4bf39879-251f-43bd-be2a-c33a2663622d": {
+   "closed_at": null,
+   "department": "People",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "talent program manager @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2024-08-29T21:47:30+00:00",
+   "posted_history": [
+    "2024-08-29T21:47:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Talent Program Manager",
+   "url": "https://jobs.lever.co/palantir/4bf39879-251f-43bd-be2a-c33a2663622d"
+  },
   "4bfef5e0-6689-4db8-9ffe-ab6df6836845": {
    "closed_at": null,
    "department": "Information Security",
@@ -1639,7 +1688,7 @@
    "url": "https://jobs.lever.co/palantir/51ea4a3b-7764-4c87-96e4-310e19c856d5"
   },
   "53fb4c05-f949-4146-a046-5c063c36a628": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "Delta",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1669,7 +1718,7 @@
    "url": "https://jobs.lever.co/palantir/55005ee7-4e06-4520-b569-f6e8f26745cb"
   },
   "5614a901-ef96-4b9c-928d-4a9c338c8aad": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "Information Security",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1774,7 +1823,7 @@
    "url": "https://jobs.lever.co/palantir/5b0f37e6-8569-4a62-9e38-c5a4edc67dcf"
   },
   "5b1eac37-708b-4eb2-94f0-d2abe7945989": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "Information Security",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1968,6 +2017,21 @@
    "title": "Procurement Operations Analyst",
    "url": "https://jobs.lever.co/palantir/66955c3b-c530-4c4a-9d48-63b4aad61b9c"
   },
+  "66b495eb-aaf9-4bf9-a759-41854534add7": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "forward deployed software engineer new grad warp speed @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-10-22T21:34:28+00:00",
+   "posted_history": [
+    "2026-10-22T21:34:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Software Engineer, New Grad - Warp Speed",
+   "url": "https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7"
+  },
   "67110929-adea-41c3-851a-8882e222d9e4": {
    "closed_at": null,
    "department": "Dev",
@@ -2027,6 +2091,21 @@
    "reopened": 0,
    "title": "Senior Software Engineer, Substrate",
    "url": "https://jobs.lever.co/palantir/68d690cf-fc8a-4755-9b69-abe13f93d262"
+  },
+  "69ab7e24-8f5d-426e-84f7-6d3b2d4a7efd": {
+   "closed_at": null,
+   "department": "Echo",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "deployment strategist internship warp speed @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-10-22T21:44:35+00:00",
+   "posted_history": [
+    "2026-10-22T21:44:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Deployment Strategist, Internship - Warp Speed",
+   "url": "https://jobs.lever.co/palantir/69ab7e24-8f5d-426e-84f7-6d3b2d4a7efd"
   },
   "6a104c4e-35d4-4a1f-98ef-bec00ae4b458": {
    "closed_at": null,
@@ -2839,7 +2918,7 @@
    "url": "https://jobs.lever.co/palantir/9804d4d1-bd2f-42d5-ae3e-3e3e51aa3830"
   },
   "98b81271-9e15-40b7-8dce-0c62f24702f9": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "Delta",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3362,6 +3441,21 @@
    "reopened": 0,
    "title": "Software Engineer, Internship - Infrastructure",
    "url": "https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3"
+  },
+  "b3d81928-6c26-432f-8a0a-36602c2eefcb": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "forward deployed software engineer internship warp speed @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-10-22T21:37:49+00:00",
+   "posted_history": [
+    "2026-10-22T21:37:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Software Engineer, Internship - Warp Speed",
+   "url": "https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb"
   },
   "b4aa51a2-bc43-4d67-bf55-12db7feefb3a": {
    "closed_at": null,
@@ -4113,6 +4207,21 @@
    "title": "Product Designer - US Government",
    "url": "https://jobs.lever.co/palantir/dc02f308-bbcc-4163-b4fb-3f68efb2ce24"
   },
+  "e0010393-c300-446f-bf67-fa2ef067f16f": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "forward deployed software engineer internship us government @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2022-06-30T21:20:50+00:00",
+   "posted_history": [
+    "2022-06-30T21:20:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Software Engineer, Internship - US Government",
+   "url": "https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f"
+  },
   "e0857612-4181-4f8e-8421-2609e7951b7b": {
    "closed_at": null,
    "department": "Administrative",
@@ -4307,6 +4416,21 @@
    "reopened": 0,
    "title": "Workplace Operations Analyst",
    "url": "https://jobs.lever.co/palantir/e6be4159-c8d1-481d-ad15-13274861b795"
+  },
+  "e6ff8bf2-135e-474d-ad37-24f490ae1dd2": {
+   "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "forward deployed software engineer internship us government @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2021-07-01T22:12:43+00:00",
+   "posted_history": [
+    "2021-07-01T22:12:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Software Engineer, Internship - US Government",
+   "url": "https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2"
   },
   "e7100322-be11-40c8-9dba-7a21b7302c08": {
    "closed_at": null,

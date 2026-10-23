@@ -15,6 +15,10 @@
   {
    "date": "2026-10-22",
    "open": 31
+  },
+  {
+   "date": "2026-10-23",
+   "open": 35
   }
  ],
  "jobs": {
@@ -124,7 +128,7 @@
    "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4918366101"
   },
   "4928780101": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -139,7 +143,7 @@
    "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4928780101"
   },
   "4930651101": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -483,6 +487,66 @@
    "title": "Associate, Tax",
    "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5005854101"
   },
+  "5009824101": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "lead product manager defi @ vienna, vienna, austria",
+   "location": "Vienna, Vienna, Austria",
+   "posted_at": "2026-10-22T12:30:59+00:00",
+   "posted_history": [
+    "2026-10-22T12:30:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Lead Product Manager, DeFi",
+   "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5009824101"
+  },
+  "5009825101": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "senior product designer web3 @ vienna, vienna, austria",
+   "location": "Vienna, Vienna, Austria",
+   "posted_at": "2026-10-22T09:17:35+00:00",
+   "posted_history": [
+    "2026-10-22T09:17:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Designer, Web3",
+   "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5009825101"
+  },
+  "5009826101": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "lead product marketing manager tokenization web3 @ vienna, vienna, austria",
+   "location": "Vienna, Vienna, Austria",
+   "posted_at": "2026-10-23T07:26:00+00:00",
+   "posted_history": [
+    "2026-10-23T07:26:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Lead Product Marketing Manager, Tokenization & Web3",
+   "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5009826101"
+  },
+  "5009827101": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "lead technical product manager protocol @ vienna, vienna, austria",
+   "location": "Vienna, Vienna, Austria",
+   "posted_at": "2026-10-22T12:14:17+00:00",
+   "posted_history": [
+    "2026-10-22T12:14:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Lead Technical Product Manager, Protocol (Vision Chain)",
+   "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5009827101"
+  },
   "5009828101": {
    "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
@@ -513,6 +577,21 @@
    "title": "Specialist, Procurement",
    "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5011135101"
   },
+  "5012230101": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "associate afc compliance @ vienna, vienna, austria",
+   "location": "Vienna, Vienna, Austria",
+   "posted_at": "2026-10-22T12:52:14+00:00",
+   "posted_history": [
+    "2026-10-22T12:52:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Associate, AFC Compliance",
+   "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5012230101"
+  },
   "5012693101": {
    "closed_at": null,
    "department": "",
@@ -527,6 +606,21 @@
    "reopened": 0,
    "title": "Senior SOC Analyst, Security Operations",
    "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5012693101"
+  },
+  "5013167101": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "senior product designer web3 @ barcelona, spain",
+   "location": "Barcelona, Spain",
+   "posted_at": "2026-10-22T09:17:36+00:00",
+   "posted_history": [
+    "2026-10-22T09:17:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Designer, Web3",
+   "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5013167101"
   }
  }
 }

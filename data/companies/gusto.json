@@ -15,6 +15,10 @@
   {
    "date": "2026-10-22",
    "open": 99
+  },
+  {
+   "date": "2026-10-23",
+   "open": 99
   }
  ],
  "jobs": {
@@ -394,7 +398,7 @@
    "url": "https://job-boards.greenhouse.io/gusto/jobs/7986047"
   },
   "7993664": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -428,8 +432,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "hr consultant @ colorado, co - remote; scottsdale, az - hybrid; texas, tx - remote; utah, ut - remote",
-   "location": "Colorado, CO - Remote; Scottsdale, AZ - Hybrid; Texas, TX - Remote; Utah, UT - Remote",
+   "fp": "hr consultant @ denver, co - hybrid; scottsdale, az - hybrid",
+   "location": "Denver, CO - Hybrid; Scottsdale, AZ - Hybrid",
    "posted_at": "2026-07-01T21:54:35+00:00",
    "posted_history": [
     "2026-07-01T21:54:35+00:00"
@@ -649,18 +653,18 @@
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8077301"
   },
   "8078212": {
-   "closed_at": "2026-10-22T08:55:54+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "benefits advising leader @ denver, co - hybrid",
+   "fp": "manager of health insurance renewals team @ denver, co - hybrid",
    "location": "Denver, CO - Hybrid",
    "posted_at": "2026-07-29T15:15:43+00:00",
    "posted_history": [
     "2026-07-29T15:15:43+00:00"
    ],
-   "reopened": 0,
-   "title": "Benefits Advising (Renewals) Leader",
+   "reopened": 1,
+   "title": "Manager of Health Insurance Renewals Team",
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8078212"
   },
   "8083986": {
@@ -728,8 +732,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "wfm capacity analytics planner @ atlanta, ga - hybrid; denver, co - hybrid; los angeles, ca - remote; scottsdale, az - hybrid",
-   "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid; Los Angeles, CA - Remote; Scottsdale, AZ - Hybrid",
+   "fp": "wfm capacity analytics planner @ atlanta, ga - hybrid; denver, co - hybrid; scottsdale, az - hybrid",
+   "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid; Scottsdale, AZ - Hybrid",
    "posted_at": "2026-08-03T21:28:05+00:00",
    "posted_history": [
     "2026-08-03T21:28:05+00:00"
@@ -1628,8 +1632,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "tax resolution advocate @ denver, co - hybrid; los angeles, ca - remote; scottsdale, az - hybrid",
-   "location": "Denver, CO - Hybrid; Los Angeles, CA - Remote; Scottsdale, AZ - Hybrid",
+   "fp": "tax resolution advocate @ denver, co - hybrid; scottsdale, az - hybrid",
+   "location": "Denver, CO - Hybrid; Scottsdale, AZ - Hybrid",
    "posted_at": "2026-10-18T22:37:41+00:00",
    "posted_history": [
     "2026-10-18T22:37:41+00:00"

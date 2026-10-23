@@ -15,6 +15,10 @@
   {
    "date": "2026-10-22",
    "open": 161
+  },
+  {
+   "date": "2026-10-23",
+   "open": 156
   }
  ],
  "jobs": {
@@ -34,7 +38,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/02d5b86d-00e5-4204-b61a-8419c3cc1c10"
   },
   "03e6b7b2-3337-47ac-a230-2d8390a8cb4e": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -289,7 +293,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/191bba6f-c66d-4ac0-8ddd-300b272046e0"
   },
   "1941b5f6-a89f-4f35-bc07-a123e17d011f": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "Growth",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -579,14 +583,14 @@
    "department": "Engineering & Product",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
-   "fp": "full stack engineer enterprise @ united kingdom",
+   "fp": "full stack engineer elevencreative enterprise @ united kingdom",
    "location": "United Kingdom",
    "posted_at": "2026-10-22T07:30:30+00:00",
    "posted_history": [
     "2026-10-22T07:30:30+00:00"
    ],
    "reopened": 0,
-   "title": "Full-Stack Engineer - Enterprise",
+   "title": "Full-Stack Engineer - ElevenCreative Enterprise",
    "url": "https://jobs.ashbyhq.com/elevenlabs/34dbe44c-9815-40b2-81f4-91c607fd84b2"
   },
   "34e9eed1-3fd4-4a25-8f02-dff7f12bebf6": {
@@ -965,7 +969,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/61192904-2123-48ff-83ad-5e3012d8601b"
   },
   "620d2558-77c0-4783-97fb-f51a79e6b392": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1085,7 +1089,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/6d4c4080-b53b-4b00-8b1d-3ec1e0955135"
   },
   "7209ce9f-3c69-4dbb-adbb-6c6c068ebad0": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1204,6 +1208,21 @@
    "title": "Account Executive - Enterprise",
    "url": "https://jobs.ashbyhq.com/elevenlabs/813f6b98-fa14-4d8f-902d-5d09029be20a"
   },
+  "815547bf-0ade-482d-84b0-4163ab1161e5": {
+   "closed_at": null,
+   "department": "Engineering & Product",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "ios engineer creative app @ remote",
+   "location": "Remote",
+   "posted_at": "2026-10-22T17:12:49+00:00",
+   "posted_history": [
+    "2026-10-22T17:12:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "iOS Engineer - Creative App",
+   "url": "https://jobs.ashbyhq.com/elevenlabs/815547bf-0ade-482d-84b0-4163ab1161e5"
+  },
   "84a75f68-c964-4ad7-994d-a44506e333b2": {
    "closed_at": null,
    "department": "Revenue",
@@ -1220,7 +1239,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/84a75f68-c964-4ad7-994d-a44506e333b2"
   },
   "89e1a99c-d2c6-43bb-b556-55dd73aeded2": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1520,6 +1539,21 @@
    "title": "Enterprise Deployment - Chief of Staff",
    "url": "https://jobs.ashbyhq.com/elevenlabs/a0389dc2-77d8-439b-960b-2acb8712991e"
   },
+  "a3097257-a07a-4a7e-b9fe-b8555c1a0fa7": {
+   "closed_at": null,
+   "department": "Engineering & Product",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "engineering internal ai transformation @ london",
+   "location": "London",
+   "posted_at": "2026-10-22T18:10:57+00:00",
+   "posted_history": [
+    "2026-10-22T18:10:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering - Internal AI Transformation",
+   "url": "https://jobs.ashbyhq.com/elevenlabs/a3097257-a07a-4a7e-b9fe-b8555c1a0fa7"
+  },
   "a435a526-e2b3-4fcf-a732-0e70864178bb": {
    "closed_at": null,
    "department": "Finance",
@@ -1655,6 +1689,21 @@
    "title": "Account Executive - Enterprise - Insurance",
    "url": "https://jobs.ashbyhq.com/elevenlabs/b178d5b8-2edf-44e9-bcd8-9a2be5b7f188"
   },
+  "b380fb97-bb18-46a5-91db-5132e6693e93": {
+   "closed_at": null,
+   "department": "Engineering & Product",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "android engineer creative app @ remote",
+   "location": "Remote",
+   "posted_at": "2026-10-22T17:11:28+00:00",
+   "posted_history": [
+    "2026-10-22T17:11:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Android Engineer - Creative App",
+   "url": "https://jobs.ashbyhq.com/elevenlabs/b380fb97-bb18-46a5-91db-5132e6693e93"
+  },
   "b43e388f-f204-41c5-a2bc-ee3bc1281e39": {
    "closed_at": null,
    "department": "Revenue",
@@ -1686,7 +1735,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/b85d7749-5b12-4f3c-87e9-61a477da77aa"
   },
   "b862e0f3-35a6-4445-bbbd-5c5d5c8aec04": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "Finance",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -1821,7 +1870,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/c340cedd-6453-4d48-a580-359c1d7d9d49"
   },
   "c4085864-14ca-4959-a3f8-3a4015c76eb5": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1836,17 +1885,18 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/c4085864-14ca-4959-a3f8-3a4015c76eb5"
   },
   "c4e0d704-c7eb-4d6d-b71b-23bfd86fe463": {
-   "closed_at": "2026-10-21T08:53:29+00:00",
+   "closed_at": null,
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "executive assistant india middle east @ india",
    "location": "India",
-   "posted_at": "2026-10-19T14:36:16+00:00",
+   "posted_at": "2026-10-23T04:43:20+00:00",
    "posted_history": [
-    "2026-10-19T14:36:16+00:00"
+    "2026-10-19T14:36:16+00:00",
+    "2026-10-23T04:43:20+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Executive Assistant - India & Middle East",
    "url": "https://jobs.ashbyhq.com/elevenlabs/c4e0d704-c7eb-4d6d-b71b-23bfd86fe463"
   },
@@ -1939,6 +1989,21 @@
    "reopened": 0,
    "title": "Account Executive - Enterprise - Healthcare",
    "url": "https://jobs.ashbyhq.com/elevenlabs/c90159fa-8577-4213-b5b3-356051742c67"
+  },
+  "cb77d3a7-ee72-4055-a7ba-3a32732c5ae6": {
+   "closed_at": null,
+   "department": "Operations",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "talent operations @ united states",
+   "location": "United States",
+   "posted_at": "2026-10-22T15:16:20+00:00",
+   "posted_history": [
+    "2026-10-22T15:16:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Talent Operations",
+   "url": "https://jobs.ashbyhq.com/elevenlabs/cb77d3a7-ee72-4055-a7ba-3a32732c5ae6"
   },
   "cb90c8ba-dc35-4e86-9103-9564751ccaf7": {
    "closed_at": null,
@@ -2050,8 +2115,8 @@
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "adoption strategist latam @ argentina",
-   "location": "Argentina",
+   "fp": "adoption strategist latam @ brazil",
+   "location": "Brazil",
    "posted_at": "2026-10-15T09:47:12+00:00",
    "posted_history": [
     "2026-10-15T09:47:12+00:00"
@@ -2210,6 +2275,21 @@
    "title": "Deployment Strategist - Sweden",
    "url": "https://jobs.ashbyhq.com/elevenlabs/e66bf8b7-45a0-4cbf-bc37-43d20a388ff8"
   },
+  "e6924f60-c8cc-42b3-9d05-2442ec30e12d": {
+   "closed_at": null,
+   "department": "Engineering & Product",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "full stack engineer studio @ remote",
+   "location": "Remote",
+   "posted_at": "2026-10-22T10:57:54+00:00",
+   "posted_history": [
+    "2026-10-22T10:57:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Full-Stack Engineer (Frontend Leaning) - Studio",
+   "url": "https://jobs.ashbyhq.com/elevenlabs/e6924f60-c8cc-42b3-9d05-2442ec30e12d"
+  },
   "e7b83599-1b70-4830-85da-7132b99a3b57": {
    "closed_at": null,
    "department": "Finance",
@@ -2301,7 +2381,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/ed5d50eb-e41a-48e4-bea0-3686176f0461"
   },
   "ede30aef-bc40-48b3-ae75-59cdc5d075b9": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2360,6 +2440,21 @@
    "title": "Account Executive - Enterprise - Localization Specialist",
    "url": "https://jobs.ashbyhq.com/elevenlabs/ef819b07-d617-42c7-873f-798d1a7d4024"
   },
+  "f00cd4ae-3429-43a9-9e78-247ca3e4c404": {
+   "closed_at": null,
+   "department": "Revenue",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "strategic account executive switzerland @ switzerland",
+   "location": "Switzerland",
+   "posted_at": "2026-10-22T10:01:08+00:00",
+   "posted_history": [
+    "2026-10-22T10:01:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Account Executive - Switzerland",
+   "url": "https://jobs.ashbyhq.com/elevenlabs/f00cd4ae-3429-43a9-9e78-247ca3e4c404"
+  },
   "f090d901-2305-4e72-b09d-32b7e2e0ca49": {
    "closed_at": null,
    "department": "Revenue",
@@ -2391,7 +2486,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/f0d1e869-4874-45af-9bc3-81479d88565b"
   },
   "f1427164-3037-47d1-a768-11cfb87953ae": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2451,7 +2546,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/f80d0420-b6e6-4110-940c-293f64b9761e"
   },
   "f8b19a29-af85-4a5d-87ae-1ba0a1b6dd9b": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2466,7 +2561,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/f8b19a29-af85-4a5d-87ae-1ba0a1b6dd9b"
   },
   "fef4499d-6191-43ad-b4f4-e646544f510d": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "Operations",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2496,7 +2591,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/ff152bcd-af7d-408d-88a1-883e03502c4c"
   },
   "ff45aabd-0a5d-401f-9e89-2e13ac72034c": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "Operations",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

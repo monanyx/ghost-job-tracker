@@ -15,6 +15,10 @@
   {
    "date": "2026-10-22",
    "open": 457
+  },
+  {
+   "date": "2026-10-23",
+   "open": 464
   }
  ],
  "jobs": {
@@ -32,6 +36,21 @@
    "reopened": 0,
    "title": "Shift Lead - Landmark",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/3623888"
+  },
+  "4091703": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "shift lead university @ charlotte, nc",
+   "location": "Charlotte, NC",
+   "posted_at": "2022-03-30T20:39:36+00:00",
+   "posted_history": [
+    "2022-03-30T20:39:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Shift Lead - University",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/4091703"
   },
   "4283145": {
    "closed_at": null,
@@ -949,7 +968,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7144702"
   },
   "7166448": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1353,6 +1372,21 @@
    "title": "Engineering Manager, Data",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7580712"
   },
+  "7592588": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "account manager cpg @ new york, ny; los angeles, ca; atlanta, ga; chicago, il; san francisco, ca",
+   "location": "New York, NY; Los Angeles, CA; Atlanta, GA; Chicago, IL; San Francisco, CA",
+   "posted_at": "2026-02-06T19:58:37+00:00",
+   "posted_history": [
+    "2026-02-06T19:58:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Manager, CPG",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7592588"
+  },
   "7611520": {
    "closed_at": null,
    "department": "",
@@ -1598,8 +1632,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "sales development representative @ boston, ma; washington, dc; atlanta, ga; austin, tx; baltimore, md; hartford, ct; new haven, ct; philadelphia, pa; miami, fl; chicago, il; charlotte, nc; raleigh-durham, nc; tampa, fl; orlando, fl; pittsburgh, pa; richmond, va; jacksonville, fl; columbus, oh; dallas, tx; houston, tx; minneapolis, mn; nashville, tn; kansas city, mo; st. louis, mo",
-   "location": "Boston, MA; Washington, DC; Atlanta, GA; Austin, TX; Baltimore, MD; Hartford, CT; New Haven, CT; Philadelphia, PA; Miami, FL; Chicago, IL; Charlotte, NC; Raleigh-Durham, NC; Tampa, FL; Orlando, FL; Pittsburgh, PA; Richmond, VA; Jacksonville, FL; Columbus, OH; Dallas, TX; Houston, TX; Minneapolis, MN; Nashville, TN; Kansas City, MO; St. Louis, MO",
+   "fp": "sales development representative @ atlanta, ga; richmond, va; jacksonville, fl; columbus, oh; dallas, tx; houston, tx ; nashville, tn; kansas city, mo; st. louis, mo; salt lake city, ut; charleston, sc; louisville, ky; cincinatti, oh; tampa, fl; las vegas, nv",
+   "location": "Atlanta, GA; Richmond, VA; Jacksonville, FL; Columbus, OH; Dallas, TX; Houston, TX ; Nashville, TN; Kansas City, MO; St. Louis, MO; Salt Lake City, UT; Charleston, SC; Louisville, KY; Cincinatti, OH; Tampa, FL; Las Vegas, NV",
    "posted_at": "2026-04-09T14:21:43+00:00",
    "posted_history": [
     "2026-04-09T14:21:43+00:00"
@@ -1988,8 +2022,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "sales development representative mandarin speaking dr @ boston, ma; washington, dc; atlanta, ga; austin, tx; baltimore, md; hartford, ct; new haven, ct; philadelphia, pa; miami, fl; chicago, il; charlotte, nc; raleigh-durham, nc; tampa, fl; orlando, fl; pittsburgh, pa; richmond, va; jacksonville, fl; columbus, oh; dallas, tx; houston, tx; minneapolis, mn; nashville, tn; kansas city, mo; st. louis, mo",
-   "location": "Boston, MA; Washington, DC; Atlanta, GA; Austin, TX; Baltimore, MD; Hartford, CT; New Haven, CT; Philadelphia, PA; Miami, FL; Chicago, IL; Charlotte, NC; Raleigh-Durham, NC; Tampa, FL; Orlando, FL; Pittsburgh, PA; Richmond, VA; Jacksonville, FL; Columbus, OH; Dallas, TX; Houston, TX; Minneapolis, MN; Nashville, TN; Kansas City, MO; St. Louis, MO",
+   "fp": "sales development representative mandarin speaking dr @ atlanta, ga; richmond, va; jacksonville, fl; columbus, oh; dallas, tx; houston, tx ; nashville, tn; kansas city, mo; st. louis, mo; salt lake city, ut; charleston, sc; louisville, ky; cincinatti, oh; tampa, fl; las vegas, nv",
+   "location": "Atlanta, GA; Richmond, VA; Jacksonville, FL; Columbus, OH; Dallas, TX; Houston, TX ; Nashville, TN; Kansas City, MO; St. Louis, MO; Salt Lake City, UT; Charleston, SC; Louisville, KY; Cincinatti, OH; Tampa, FL; Las Vegas, NV",
    "posted_at": "2026-05-22T16:56:47+00:00",
    "posted_history": [
     "2026-05-22T16:56:47+00:00"
@@ -3123,6 +3157,21 @@
    "title": "Kitchen Shift Lead, DashMart",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8090138"
   },
+  "8090146": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "kitchen shift lead dashmart @ st. louis, mo",
+   "location": "St. Louis, MO",
+   "posted_at": "2026-08-28T14:44:58+00:00",
+   "posted_history": [
+    "2026-08-28T14:44:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Kitchen Shift Lead, DashMart",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8090146"
+  },
   "8090184": {
    "closed_at": null,
    "department": "",
@@ -3289,7 +3338,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8105902"
   },
   "8109766": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3469,7 +3518,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8125496"
   },
   "8126342": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4204,7 +4253,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8166906"
   },
   "8167999": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5014,7 +5063,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8208005"
   },
   "8208468": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5628,6 +5677,21 @@
    "title": "Senior Technical Recruiter - Labs Robotics",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8237913"
   },
+  "8238312": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "insurance claims supervisor @ tempe, az",
+   "location": "Tempe, AZ",
+   "posted_at": "2026-09-28T21:31:16+00:00",
+   "posted_history": [
+    "2026-09-28T21:31:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Insurance Claims Supervisor",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8238312"
+  },
   "8238643": {
    "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "",
@@ -5839,7 +5903,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8247291"
   },
   "8247548": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6467,6 +6531,21 @@
    "reopened": 0,
    "title": "Senior Manager, Dasher Financial",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8273925"
+  },
+  "8273965": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "operations research intern summer 2027 @ sunnyvale, ca",
+   "location": "Sunnyvale, CA",
+   "posted_at": "2026-10-19T18:18:24+00:00",
+   "posted_history": [
+    "2026-10-19T18:18:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Operations Research Intern (PhD), Summer 2027",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8273965"
   },
   "8273992": {
    "closed_at": null,
@@ -7142,6 +7221,126 @@
    "reopened": 0,
    "title": "Associate, New Verticals - Fulfillment Strategy & Operations",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8310956"
+  },
+  "8311047": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "manager technical program management product platforms @ san francisco, ca; sunnyvale, ca; seattle, wa",
+   "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA",
+   "posted_at": "2026-10-22T15:33:47+00:00",
+   "posted_history": [
+    "2026-10-22T15:33:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Technical Program Management - Product & Platforms",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8311047"
+  },
+  "8312381": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "drone operations intern labs @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-10-22T13:31:00+00:00",
+   "posted_history": [
+    "2026-10-22T13:31:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Drone Operations, Intern - Labs (Summer 2027)",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8312381"
+  },
+  "8312492": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "engineering manager personalization @ san francisco, ca; sunnyvale, ca",
+   "location": "San Francisco, CA; Sunnyvale, CA",
+   "posted_at": "2026-10-22T13:38:01+00:00",
+   "posted_history": [
+    "2026-10-22T13:38:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager, Personalization",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8312492"
+  },
+  "8312639": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "site manager dashmart milwaukee wi @ milwaukee, wi",
+   "location": "Milwaukee, WI",
+   "posted_at": "2026-10-22T14:49:13+00:00",
+   "posted_history": [
+    "2026-10-22T14:49:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Site Manager, DashMart – Milwaukee, WI",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8312639"
+  },
+  "8313401": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "mechanical engineering intern labs @ oakland, ca",
+   "location": "Oakland, CA",
+   "posted_at": "2026-10-22T15:41:36+00:00",
+   "posted_history": [
+    "2026-10-22T15:41:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Mechanical Engineering, Intern - Labs (Summer 2027)",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8313401"
+  },
+  "8314149": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "associate manager integrated marketing strategic bets @ new york, ny; san francisco, ca; seattle, wa; los angeles, ca; chicago, il; austin, tx; denver, co; atlanta, ga; miami, fl; boston, ma; • washington, d.c.",
+   "location": "New York, NY; San Francisco, CA; Seattle, WA; Los Angeles, CA; Chicago, IL; Austin, TX; Denver, CO; Atlanta, GA; Miami, FL; Boston, MA; • Washington, D.C.",
+   "posted_at": "2026-10-22T16:44:39+00:00",
+   "posted_history": [
+    "2026-10-22T16:44:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Associate Manager, Integrated Marketing - Strategic Bets",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8314149"
+  },
+  "8314289": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "senior manager protective services @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-10-22T17:03:20+00:00",
+   "posted_history": [
+    "2026-10-22T17:03:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Protective Services",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8314289"
+  },
+  "8315816": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "analyst global operations center @ tempe, az",
+   "location": "Tempe, AZ",
+   "posted_at": "2026-10-22T19:42:48+00:00",
+   "posted_history": [
+    "2026-10-22T19:42:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "Analyst, Global Operations Center",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8315816"
   }
  }
 }

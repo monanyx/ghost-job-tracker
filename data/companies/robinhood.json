@@ -15,6 +15,10 @@
   {
    "date": "2026-10-22",
    "open": 154
+  },
+  {
+   "date": "2026-10-23",
+   "open": 157
   }
  ],
  "jobs": {
@@ -713,8 +717,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "staff data scientist @ chicago, il; menlo park, ca; new york, ny",
-   "location": "Chicago, IL; Menlo Park, CA; New York, NY",
+   "fp": "staff data scientist @ bellevue, wa; chicago, il; menlo park, ca; new york, ny",
+   "location": "Bellevue, WA; Chicago, IL; Menlo Park, CA; New York, NY",
    "posted_at": "2026-07-20T17:00:42+00:00",
    "posted_history": [
     "2026-07-20T17:00:42+00:00"
@@ -2223,6 +2227,21 @@
    "title": "Senior Product Designer, Crypto",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8262776?t=gh_src=&gh_jid=8262776"
   },
+  "8262947": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "staff product manager canada expansion @ toronto, canada",
+   "location": "Toronto, Canada",
+   "posted_at": "2026-10-22T17:11:02+00:00",
+   "posted_history": [
+    "2026-10-22T17:11:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Product Manager, Canada Expansion",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8262947?t=gh_src=&gh_jid=8262947"
+  },
   "8265728": {
    "closed_at": null,
    "department": "",
@@ -2373,6 +2392,21 @@
    "title": "Staff iOS Engineer, Trading Tools",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8302220?t=gh_src=&gh_jid=8302220"
   },
+  "8302244": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "staff web engineer advisor products @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-10-22T22:37:11+00:00",
+   "posted_history": [
+    "2026-10-22T22:37:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Web Engineer, Advisor Products",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8302244?t=gh_src=&gh_jid=8302244"
+  },
   "8302496": {
    "closed_at": null,
    "department": "",
@@ -2402,6 +2436,21 @@
    "reopened": 0,
    "title": "Customer Experience Associate",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8304315?t=gh_src=&gh_jid=8304315"
+  },
+  "8312485": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "fraud operations program manager @ chicago, il; denver, co; lake mary, fl; westlake, tx",
+   "location": "Chicago, IL; Denver, CO; Lake Mary, FL; Westlake, TX",
+   "posted_at": "2026-10-22T14:56:51+00:00",
+   "posted_history": [
+    "2026-10-22T14:56:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Fraud Operations Program Manager",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8312485?t=gh_src=&gh_jid=8312485"
   }
  }
 }

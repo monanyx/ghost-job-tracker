@@ -15,6 +15,10 @@
   {
    "date": "2026-10-22",
    "open": 177
+  },
+  {
+   "date": "2026-10-23",
+   "open": 175
   }
  ],
  "jobs": {
@@ -263,8 +267,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "manager software engineering publishing engagement publishing platform @ seoul, korea",
-   "location": "Seoul, Korea",
+   "fp": "manager software engineering publishing engagement publishing platform @ seoul, korea; singapore",
+   "location": "Seoul, Korea; Singapore",
    "posted_at": "2025-12-10T07:19:44+00:00",
    "posted_history": [
     "2025-12-10T07:19:44+00:00"
@@ -814,7 +818,7 @@
    "url": "https://www.riotgames.com/en/work-with-us/job/8009376?gh_jid=8009376"
   },
   "8011835": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1309,7 +1313,7 @@
    "url": "https://www.riotgames.com/en/work-with-us/job/8108097?gh_jid=8108097"
   },
   "8113272": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -2539,7 +2543,7 @@
    "url": "https://www.riotgames.com/en/work-with-us/job/8279807?gh_jid=8279807"
   },
   "8279959": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2792,6 +2796,21 @@
    "reopened": 0,
    "title": "Manager, Quality Assurance - VALORANT",
    "url": "https://www.riotgames.com/en/work-with-us/job/8302722?gh_jid=8302722"
+  },
+  "8306765": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "emea public relations strategist @ berlin, germany",
+   "location": "Berlin, Germany",
+   "posted_at": "2026-10-22T09:35:13+00:00",
+   "posted_history": [
+    "2026-10-22T09:35:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "EMEA Public Relations Strategist (12-Month Contract)",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8306765?gh_jid=8306765"
   }
  }
 }

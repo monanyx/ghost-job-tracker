@@ -15,6 +15,10 @@
   {
    "date": "2026-10-22",
    "open": 224
+  },
+  {
+   "date": "2026-10-23",
+   "open": 225
   }
  ],
  "jobs": {
@@ -603,6 +607,21 @@
    "title": "Senior Analyst",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7804953003"
   },
+  "7804955003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "senior analyst @ remote canada",
+   "location": "Remote Canada",
+   "posted_at": "2026-10-23T01:53:14+00:00",
+   "posted_history": [
+    "2026-10-23T01:53:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Analyst",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/7804955003"
+  },
   "7806679003": {
    "closed_at": null,
    "department": "",
@@ -754,7 +773,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7808386003"
   },
   "7808667003": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1024,7 +1043,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7819704003"
   },
   "7819891003": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1489,7 +1508,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7860705003"
   },
   "7864959003": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1613,8 +1632,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior manager technical recruiting @ remote poland; remote spain; remote uk",
-   "location": "Remote Poland; Remote Spain; Remote UK",
+   "fp": "senior manager technical recruiting @ remote uk",
+   "location": "Remote UK",
    "posted_at": "2026-09-01T13:27:04+00:00",
    "posted_history": [
     "2026-09-01T13:27:04+00:00"
@@ -3345,7 +3364,7 @@
     "2026-10-21T18:00:26+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Software Engineer, Backend (Cost Engineering)",
+   "title": "Senior Software Engineer, Backend (Capacity Modeling)",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8033589003"
   },
   "8034649003": {
@@ -3408,6 +3427,21 @@
    "title": "Contract Management Specialist II",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8037635003"
   },
+  "8038196003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "counsel ii vendor @ remote us",
+   "location": "Remote US",
+   "posted_at": "2026-10-22T21:11:03+00:00",
+   "posted_history": [
+    "2026-10-22T21:11:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Counsel II, Vendor",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8038196003"
+  },
   "8039471003": {
    "closed_at": null,
    "department": "",
@@ -3422,6 +3456,36 @@
    "reopened": 0,
    "title": "Analyst, Early Career (Full Stack)",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8039471003"
+  },
+  "8041656003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "senior manager technical recruiting @ remote poland",
+   "location": "Remote Poland",
+   "posted_at": "2026-10-22T15:57:56+00:00",
+   "posted_history": [
+    "2026-10-22T15:57:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Technical Recruiting",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8041656003"
+  },
+  "8041662003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "senior manager technical recruiting @ remote spain",
+   "location": "Remote Spain",
+   "posted_at": "2026-10-22T15:57:57+00:00",
+   "posted_history": [
+    "2026-10-22T15:57:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Technical Recruiting",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8041662003"
   }
  }
 }

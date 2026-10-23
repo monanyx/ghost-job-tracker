@@ -15,6 +15,10 @@
   {
    "date": "2026-10-22",
    "open": 236
+  },
+  {
+   "date": "2026-10-23",
+   "open": 237
   }
  ],
  "jobs": {
@@ -168,6 +172,21 @@
    "title": "Release Manager",
    "url": "https://jobs.lever.co/zoox/09438fb7-2428-4adb-acaf-9a58d1d3fa8e"
   },
+  "09924dfa-16b4-415a-828e-4ae7d903ecc2": {
+   "closed_at": null,
+   "department": "Sensor Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "senior radar engineer @ foster city, ca",
+   "location": "Foster City, CA",
+   "posted_at": "2026-10-22T20:15:21+00:00",
+   "posted_history": [
+    "2026-10-22T20:15:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Radar Engineer",
+   "url": "https://jobs.lever.co/zoox/09924dfa-16b4-415a-828e-4ae7d903ecc2"
+  },
   "0a22d356-f7f7-4374-b393-55637772edda": {
    "closed_at": null,
    "department": "PMO",
@@ -199,7 +218,7 @@
    "url": "https://jobs.lever.co/zoox/0a34f6c7-209f-4087-8a84-7d7356ba3fc9"
   },
   "0a46e434-d154-4ac1-8d56-1c75481b3e4b": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "Robotaxi Operations",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -858,6 +877,21 @@
    "title": "Manager, Vehicle Technicians",
    "url": "https://jobs.lever.co/zoox/3311fa70-55d1-4b38-9aef-295a0cbb460d"
   },
+  "33225e1d-dd21-4ffe-b2bd-164d5a602457": {
+   "closed_at": null,
+   "department": "Autonomy Software",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "senior staff software hardware integration technical program manager autonomy @ foster city, ca",
+   "location": "Foster City, CA",
+   "posted_at": "2026-10-20T17:25:56+00:00",
+   "posted_history": [
+    "2026-10-20T17:25:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior/Staff Software-Hardware Integration Technical Program Manager - Autonomy",
+   "url": "https://jobs.lever.co/zoox/33225e1d-dd21-4ffe-b2bd-164d5a602457"
+  },
   "33ff94ab-ec61-4c17-9651-2286d74a7ca8": {
    "closed_at": null,
    "department": "Direct Procurement",
@@ -1268,14 +1302,14 @@
    "department": "Indirect Procurement",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
-   "fp": "strategic sourcing manager it software services @ foster city, ca",
+   "fp": "senior strategic sourcing manager it software services @ foster city, ca",
    "location": "Foster City, CA",
    "posted_at": "2026-10-20T20:30:52+00:00",
    "posted_history": [
     "2026-10-20T20:30:52+00:00"
    ],
    "reopened": 0,
-   "title": "Strategic Sourcing Manager, IT Software & Services",
+   "title": "Senior Strategic Sourcing Manager, IT Software & Services",
    "url": "https://jobs.lever.co/zoox/4f5ce2df-d9ef-4fac-98a6-a80e0cf54252"
   },
   "4fcf2e08-0703-4246-a8f7-064cc221be3f": {
@@ -1339,7 +1373,7 @@
    "url": "https://jobs.lever.co/zoox/5569d46e-0af8-4f07-93ea-b635c7403f7d"
   },
   "5915823a-3546-4748-b102-85e85c0dc71d": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "Autonomy Software",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2348,14 +2382,14 @@
    "department": "Powertrain, Thermal, & Electrical Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior technical program manager powertrain thermal @ foster city, ca",
+   "fp": "senior systems technical program manager @ foster city, ca",
    "location": "Foster City, CA",
    "posted_at": "2026-07-09T18:24:52+00:00",
    "posted_history": [
     "2026-07-09T18:24:52+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Technical Program Manager, Powertrain & Thermal",
+   "title": "Senior Systems Technical Program Manager",
    "url": "https://jobs.lever.co/zoox/96faea2e-c539-4d63-89a5-f534b807ab09"
   },
   "972635b6-713a-44cf-b82f-87a504bcdf3f": {
@@ -2462,6 +2496,21 @@
    "reopened": 0,
    "title": "Manager, Manufacturing Systems",
    "url": "https://jobs.lever.co/zoox/a0ffbca7-3613-498a-9f7b-c8dc13858184"
+  },
+  "a30574c9-8ef3-408f-bc85-39aad54ad115": {
+   "closed_at": null,
+   "department": "Software Systems",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "senior staff principal software engineer gpu system software onboard execution @ foster city, ca",
+   "location": "Foster City, CA",
+   "posted_at": "2026-10-22T18:14:22+00:00",
+   "posted_history": [
+    "2026-10-22T18:14:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Staff/Principal Software Engineer - GPU System Software, Onboard Execution",
+   "url": "https://jobs.lever.co/zoox/a30574c9-8ef3-408f-bc85-39aad54ad115"
   },
   "a3f526bf-2417-4596-be1f-479c5c079367": {
    "closed_at": null,

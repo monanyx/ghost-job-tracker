@@ -15,6 +15,10 @@
   {
    "date": "2026-10-22",
    "open": 94
+  },
+  {
+   "date": "2026-10-23",
+   "open": 95
   }
  ],
  "jobs": {
@@ -349,7 +353,7 @@
    "url": "https://job-boards.greenhouse.io/vercel/jobs/5818258004"
   },
   "5822513004": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -559,7 +563,7 @@
    "url": "https://job-boards.greenhouse.io/vercel/jobs/6093255004"
   },
   "6098390004": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1478,15 +1482,60 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
-   "fp": "internal comms @ hybrid - san francisco",
+   "fp": "internal communications manager @ hybrid - san francisco",
    "location": "Hybrid - San Francisco",
    "posted_at": "2026-10-21T21:23:25+00:00",
    "posted_history": [
     "2026-10-21T21:23:25+00:00"
    ],
    "reopened": 0,
-   "title": "Internal Comms",
+   "title": "Internal Communications Manager",
    "url": "https://job-boards.greenhouse.io/vercel/jobs/6231047004"
+  },
+  "6231535004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "member of technical staff finance data @ hybrid - san francisco, new york city",
+   "location": "Hybrid - San Francisco, New York City",
+   "posted_at": "2026-10-22T15:46:02+00:00",
+   "posted_history": [
+    "2026-10-22T15:46:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff, Finance Data",
+   "url": "https://job-boards.greenhouse.io/vercel/jobs/6231535004"
+  },
+  "6231540004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "community manager experiential marketing @ hybrid - san francisco",
+   "location": "Hybrid - San Francisco",
+   "posted_at": "2026-10-22T19:33:58+00:00",
+   "posted_history": [
+    "2026-10-22T19:33:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Community Manager, Experiential Marketing",
+   "url": "https://job-boards.greenhouse.io/vercel/jobs/6231540004"
+  },
+  "6231864004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "account executive commercial @ remote - germany",
+   "location": "Remote - Germany",
+   "posted_at": "2026-10-22T15:22:01+00:00",
+   "posted_history": [
+    "2026-10-22T15:22:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, Commercial",
+   "url": "https://job-boards.greenhouse.io/vercel/jobs/6231864004"
   }
  }
 }

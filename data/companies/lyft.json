@@ -15,6 +15,10 @@
   {
    "date": "2026-10-22",
    "open": 175
+  },
+  {
+   "date": "2026-10-23",
+   "open": 181
   }
  ],
  "jobs": {
@@ -64,7 +68,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8430552002?gh_jid=8430552002"
   },
   "8445493002": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -124,7 +128,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8513755002?gh_jid=8513755002"
   },
   "8514422002": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1999,7 +2003,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8827588002?gh_jid=8827588002"
   },
   "8828273002": {
-   "closed_at": "2026-10-22T08:55:54+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2009,7 +2013,7 @@
    "posted_history": [
     "2026-09-23T20:55:01+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Software Engineer, Driver Experience",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8828273002?gh_jid=8828273002"
   },
@@ -2543,14 +2547,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior accountant @ mexico city, mexico",
+   "fp": "accountant @ mexico city, mexico",
    "location": "Mexico City, Mexico",
    "posted_at": "2026-10-14T22:59:39+00:00",
    "posted_history": [
     "2026-10-14T22:59:39+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Accountant",
+   "title": "Accountant",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8885206002?gh_jid=8885206002"
   },
   "8888403002": {
@@ -2824,7 +2828,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8900844002?gh_jid=8900844002"
   },
   "8901107002": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -2912,6 +2916,126 @@
    "reopened": 0,
    "title": "Data Scientist, Decisions - Payments",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8907156002?gh_jid=8907156002"
+  },
+  "8908002002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "senior manager global workforce planning @ toronto, canada",
+   "location": "Toronto, Canada",
+   "posted_at": "2026-10-22T15:40:11+00:00",
+   "posted_history": [
+    "2026-10-22T15:40:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Global Workforce Planning",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8908002002?gh_jid=8908002002"
+  },
+  "8908005002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "data scientist algorithms pricing rider engagement @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-10-22T17:34:34+00:00",
+   "posted_history": [
+    "2026-10-22T17:34:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Data Scientist, Algorithms - Pricing - Rider Engagement",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8908005002?gh_jid=8908005002"
+  },
+  "8908836002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "associate counsel employment @ seattle, wa",
+   "location": "Seattle, WA",
+   "posted_at": "2026-10-22T14:47:17+00:00",
+   "posted_history": [
+    "2026-10-22T14:47:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Associate Counsel, Employment",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8908836002?gh_jid=8908836002"
+  },
+  "8908913002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "counsel patents ip @ washington, dc",
+   "location": "Washington, DC",
+   "posted_at": "2026-10-22T15:14:21+00:00",
+   "posted_history": [
+    "2026-10-22T15:14:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Counsel, Patents & IP",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8908913002?gh_jid=8908913002"
+  },
+  "8908930002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "counsel patents ip @ seattle, wa",
+   "location": "Seattle, WA",
+   "posted_at": "2026-10-22T15:16:32+00:00",
+   "posted_history": [
+    "2026-10-22T15:16:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Counsel, Patents & IP",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8908930002?gh_jid=8908930002"
+  },
+  "8909210002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "counsel product commercial @ nashville, tn",
+   "location": "Nashville, TN",
+   "posted_at": "2026-10-22T17:39:05+00:00",
+   "posted_history": [
+    "2026-10-22T17:39:05+00:00"
+   ],
+   "reopened": 0,
+   "title": "Counsel, Product & Commercial (Rideshare)",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8909210002?gh_jid=8909210002"
+  },
+  "8909213002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "counsel product commercial @ seattle, wa",
+   "location": "Seattle, WA",
+   "posted_at": "2026-10-22T17:42:18+00:00",
+   "posted_history": [
+    "2026-10-22T17:42:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Counsel, Product & Commercial (Rideshare)",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8909213002?gh_jid=8909213002"
+  },
+  "8909350002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "director global b2b tpm @ u.s. anywhere",
+   "location": "U.S. Anywhere",
+   "posted_at": "2026-10-22T19:05:40+00:00",
+   "posted_history": [
+    "2026-10-22T19:05:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Director, Global B2B TPM",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8909350002?gh_jid=8909350002"
   }
  }
 }

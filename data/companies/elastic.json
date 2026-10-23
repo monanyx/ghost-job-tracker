@@ -15,6 +15,10 @@
   {
    "date": "2026-10-22",
    "open": 379
+  },
+  {
+   "date": "2026-10-23",
+   "open": 393
   }
  ],
  "jobs": {
@@ -319,7 +323,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=7817941&gh_jid=7817941"
   },
   "7817945": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1728,6 +1732,21 @@
    "title": "Senior Field Engineering Manager - Japan",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8108464&gh_jid=8108464"
   },
+  "8108689": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "senior software engineer iam control plane platform @ united states",
+   "location": "United States",
+   "posted_at": "2026-10-22T16:20:20+00:00",
+   "posted_history": [
+    "2026-10-22T16:20:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer - IAM - Control Plane - Platform",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8108689&gh_jid=8108689"
+  },
   "8111756": {
    "closed_at": null,
    "department": "",
@@ -1740,7 +1759,7 @@
     "2026-10-05T04:10:17+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Solutions Architect( Security)- Mumbai, India",
+   "title": "Senior Solutions Architect- Mumbai, India",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8111756&gh_jid=8111756"
   },
   "8111792": {
@@ -2254,7 +2273,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8138579&gh_jid=8138579"
   },
   "8138584": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5658,6 +5677,21 @@
    "title": "Senior Full Stack Software Developer - Observability",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8276136&gh_jid=8276136"
   },
+  "8281059": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "enterprise account executive @ singapore",
+   "location": "Singapore",
+   "posted_at": "2026-10-23T07:44:24+00:00",
+   "posted_history": [
+    "2026-10-23T07:44:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Account Executive",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8281059&gh_jid=8281059"
+  },
   "8281119": {
    "closed_at": null,
    "department": "",
@@ -5674,7 +5708,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8281119&gh_jid=8281119"
   },
   "8281375": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5687,6 +5721,21 @@
    "reopened": 0,
    "title": "Analyst, Sales Strategy & Finance",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8281375&gh_jid=8281375"
+  },
+  "8281506": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "principal marketing analytics @ united states",
+   "location": "United States",
+   "posted_at": "2026-10-22T14:35:22+00:00",
+   "posted_history": [
+    "2026-10-22T14:35:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal, Marketing Analytics",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8281506&gh_jid=8281506"
   },
   "8281637": {
    "closed_at": null,
@@ -5868,6 +5917,36 @@
    "title": "Tech Lead, Web Development - Full Stack",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8285465&gh_jid=8285465"
   },
+  "8301329": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "software engineering manager iam team control plane platform @ spain",
+   "location": "Spain",
+   "posted_at": "2026-10-22T16:25:29+00:00",
+   "posted_history": [
+    "2026-10-22T16:25:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineering Manager - IAM Team - Control Plane - Platform",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8301329&gh_jid=8301329"
+  },
+  "8301538": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "director of product management observability @ united states",
+   "location": "United States",
+   "posted_at": "2026-10-22T09:23:50+00:00",
+   "posted_history": [
+    "2026-10-22T09:23:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Director of Product Management, Observability",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8301538&gh_jid=8301538"
+  },
   "8303147": {
    "closed_at": null,
    "department": "",
@@ -5918,8 +5997,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
-   "fp": "sales specialist security @ belgium",
-   "location": "Belgium",
+   "fp": "sales specialist security @ the netherlands",
+   "location": "The Netherlands",
    "posted_at": "2026-10-21T09:07:01+00:00",
    "posted_history": [
     "2026-10-21T09:07:01+00:00"
@@ -6152,6 +6231,186 @@
    "reopened": 0,
    "title": "Senior Software Engineer - Control Plane (Hosted Foundations / Applications)",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8311496&gh_jid=8311496"
+  },
+  "8312168": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "director of product management observability @ canada",
+   "location": "Canada",
+   "posted_at": "2026-10-22T09:24:22+00:00",
+   "posted_history": [
+    "2026-10-22T09:24:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Director of Product Management, Observability",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8312168&gh_jid=8312168"
+  },
+  "8312171": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "director of product management observability @ united kingdom",
+   "location": "United Kingdom",
+   "posted_at": "2026-10-22T09:24:34+00:00",
+   "posted_history": [
+    "2026-10-22T09:24:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Director of Product Management, Observability",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8312171&gh_jid=8312171"
+  },
+  "8312175": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "director of product management observability @ spain",
+   "location": "Spain",
+   "posted_at": "2026-10-22T09:25:03+00:00",
+   "posted_history": [
+    "2026-10-22T09:25:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Director of Product Management, Observability",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8312175&gh_jid=8312175"
+  },
+  "8312178": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "director of product management observability @ greece",
+   "location": "Greece",
+   "posted_at": "2026-10-22T09:24:49+00:00",
+   "posted_history": [
+    "2026-10-22T09:24:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Director of Product Management, Observability",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8312178&gh_jid=8312178"
+  },
+  "8312179": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "director of product management observability @ poland",
+   "location": "Poland",
+   "posted_at": "2026-10-22T09:25:15+00:00",
+   "posted_history": [
+    "2026-10-22T09:25:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Director of Product Management, Observability",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8312179&gh_jid=8312179"
+  },
+  "8312184": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "director of product management observability @ ireland",
+   "location": "Ireland",
+   "posted_at": "2026-10-22T09:25:27+00:00",
+   "posted_history": [
+    "2026-10-22T09:25:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Director of Product Management, Observability",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8312184&gh_jid=8312184"
+  },
+  "8314209": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "software engineering manager iam team control plane platform @ portugal",
+   "location": "Portugal",
+   "posted_at": "2026-10-22T16:25:31+00:00",
+   "posted_history": [
+    "2026-10-22T16:25:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineering Manager - IAM Team - Control Plane - Platform",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8314209&gh_jid=8314209"
+  },
+  "8314211": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "software engineering manager iam team control plane platform @ greece",
+   "location": "Greece",
+   "posted_at": "2026-10-22T16:25:33+00:00",
+   "posted_history": [
+    "2026-10-22T16:25:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineering Manager - IAM Team - Control Plane - Platform",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8314211&gh_jid=8314211"
+  },
+  "8314795": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "mid market account executive southeast @ united states",
+   "location": "United States",
+   "posted_at": "2026-10-22T17:31:07+00:00",
+   "posted_history": [
+    "2026-10-22T17:31:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Mid Market Account Executive, Southeast (Expand)",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8314795&gh_jid=8314795"
+  },
+  "8314830": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "mid market account executive west @ united states",
+   "location": "United States",
+   "posted_at": "2026-10-22T17:31:47+00:00",
+   "posted_history": [
+    "2026-10-22T17:31:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Mid Market Account Executive - West",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8314830&gh_jid=8314830"
+  },
+  "8314855": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "mid market account executive bay area ca @ united states",
+   "location": "United States",
+   "posted_at": "2026-10-22T17:32:21+00:00",
+   "posted_history": [
+    "2026-10-22T17:32:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Mid Market Account Executive - Bay Area, CA",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8314855&gh_jid=8314855"
+  },
+  "8315564": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "senior java engineer distributed systems serverless elasticsearch @ switzerland",
+   "location": "Switzerland",
+   "posted_at": "2026-10-22T19:30:05+00:00",
+   "posted_history": [
+    "2026-10-22T19:30:05+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Java Engineer - Distributed Systems, Serverless - Elasticsearch",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8315564&gh_jid=8315564"
   }
  }
 }

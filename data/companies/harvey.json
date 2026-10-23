@@ -15,6 +15,10 @@
   {
    "date": "2026-10-22",
    "open": 349
+  },
+  {
+   "date": "2026-10-23",
+   "open": 349
   }
  ],
  "jobs": {
@@ -491,9 +495,10 @@
    "first_seen": "2026-10-22T08:55:54+00:00",
    "fp": "business recruiter gtm @ san francisco",
    "location": "San Francisco",
-   "posted_at": "2026-10-21T19:06:35+00:00",
+   "posted_at": "2026-10-22T18:24:44+00:00",
    "posted_history": [
-    "2026-10-21T19:06:35+00:00"
+    "2026-10-21T19:06:35+00:00",
+    "2026-10-22T18:24:44+00:00"
    ],
    "reopened": 0,
    "title": "Business Recruiter, GTM",
@@ -605,7 +610,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/1c86befd-b6f4-4520-9f3b-68c6fad938f1"
   },
   "1cf585c3-27e2-4813-ade9-dc8c53c2d5b0": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "Security",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -755,7 +760,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/22c49c02-8ab1-4aeb-9022-2fc624b7a0cb"
   },
   "235f1793-7b5a-470b-b6ee-4f0f0249623c": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -845,7 +850,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/2807b46b-3ea5-43e2-94ea-4e6cdc6d4bb2"
   },
   "284a0861-026b-45ff-a4ad-c2d187d7184d": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "Security",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2015,6 +2020,21 @@
    "title": "Accounts Receivable Manager",
    "url": "https://jobs.ashbyhq.com/harvey/5d2e22a2-f9db-4baa-8398-38f3e52067fc"
   },
+  "5d596cb2-2fc9-4862-9fe8-55362cad90a2": {
+   "closed_at": null,
+   "department": "Customer Experience",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "technical specialist customer experience @ bengaluru",
+   "location": "Bengaluru",
+   "posted_at": "2026-10-23T06:35:04+00:00",
+   "posted_history": [
+    "2026-10-23T06:35:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Specialist - Customer Experience",
+   "url": "https://jobs.ashbyhq.com/harvey/5d596cb2-2fc9-4862-9fe8-55362cad90a2"
+  },
   "5e68f8ed-1e00-4bd4-acfd-54405f553a0e": {
    "closed_at": null,
    "department": "Product",
@@ -2089,6 +2109,21 @@
    "reopened": 0,
    "title": "Staff Software Engineer, Secure Execution",
    "url": "https://jobs.ashbyhq.com/harvey/60d3a393-50bc-4f1c-88b7-df6d2507ceda"
+  },
+  "613a1bee-fe4f-493b-9afd-6a119155faa7": {
+   "closed_at": null,
+   "department": "Marketing",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "senior customer marketing manager emea @ london",
+   "location": "London",
+   "posted_at": "2026-10-22T17:37:05+00:00",
+   "posted_history": [
+    "2026-10-22T17:37:05+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Customer Marketing Manager, EMEA",
+   "url": "https://jobs.ashbyhq.com/harvey/613a1bee-fe4f-493b-9afd-6a119155faa7"
   },
   "62570156-bb6a-42b5-aae4-ea544d9f1beb": {
    "closed_at": null,
@@ -2571,18 +2606,19 @@
    "url": "https://jobs.ashbyhq.com/harvey/787fe815-2f6d-4a9a-8c1e-6205bd105389"
   },
   "78d412a6-d63a-4475-802b-934aa0e12ccb": {
-   "closed_at": "2026-10-22T08:55:54+00:00",
+   "closed_at": null,
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior manager engineering @ bengaluru",
+   "fp": "engineering manager @ bengaluru",
    "location": "Bengaluru",
-   "posted_at": "2026-08-14T05:42:38+00:00",
+   "posted_at": "2026-10-23T08:44:30+00:00",
    "posted_history": [
-    "2026-08-14T05:42:38+00:00"
+    "2026-08-14T05:42:38+00:00",
+    "2026-10-23T08:44:30+00:00"
    ],
-   "reopened": 0,
-   "title": "Senior Manager, Engineering",
+   "reopened": 1,
+   "title": "Engineering Manager",
    "url": "https://jobs.ashbyhq.com/harvey/78d412a6-d63a-4475-802b-934aa0e12ccb"
   },
   "799df8d8-2d4c-459a-884b-61a7c9824ad8": {
@@ -2991,7 +3027,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/8c07cb74-765a-46ea-a0f1-795f45597d79"
   },
   "8caa7beb-d41c-4802-a23d-4e72b6838f13": {
-   "closed_at": null,
+   "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "Security",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3304,6 +3340,21 @@
    "reopened": 0,
    "title": "Account Executive, Mid-Market",
    "url": "https://jobs.ashbyhq.com/harvey/99aceabe-916e-4491-97e9-42f2471bf087"
+  },
+  "9a60e453-783b-4b3c-9988-b33b2e3323e0": {
+   "closed_at": null,
+   "department": "Recruiting",
+   "evergreen": false,
+   "first_seen": "2026-10-23T08:50:35+00:00",
+   "fp": "senior business recruiter gtm @ boston",
+   "location": "Boston",
+   "posted_at": "2026-10-22T18:23:43+00:00",
+   "posted_history": [
+    "2026-10-22T18:23:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Business Recruiter, GTM",
+   "url": "https://jobs.ashbyhq.com/harvey/9a60e453-783b-4b3c-9988-b33b2e3323e0"
   },
   "9ab52bf5-0d83-418a-bf03-e7dd75359473": {
    "closed_at": null,
