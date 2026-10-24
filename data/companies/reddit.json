@@ -19,6 +19,10 @@
   {
    "date": "2026-10-23",
    "open": 156
+  },
+  {
+   "date": "2026-10-24",
+   "open": 159
   }
  ],
  "jobs": {
@@ -2152,6 +2156,21 @@
    "title": "Senior Android Software Engineer, Consumer Engineering",
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8263407"
   },
+  "8263435": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "lead product adoption strategist smb @ chicago, il; new york city, ny",
+   "location": "Chicago, IL; New York City, NY",
+   "posted_at": "2026-10-23T16:40:04+00:00",
+   "posted_history": [
+    "2026-10-23T16:40:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "Lead Product Adoption Strategist, SMB",
+   "url": "https://job-boards.greenhouse.io/reddit/jobs/8263435"
+  },
   "8275143": {
    "closed_at": null,
    "department": "",
@@ -2168,7 +2187,7 @@
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8275143"
   },
   "8275745": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2241,6 +2260,21 @@
    "reopened": 0,
    "title": "Technical Solutions Manager, App Ads",
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8282187"
+  },
+  "8282305": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "senior product business development manager @ remote - united states",
+   "location": "Remote - United States",
+   "posted_at": "2026-10-23T17:59:05+00:00",
+   "posted_history": [
+    "2026-10-23T17:59:05+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Business Development Manager",
+   "url": "https://job-boards.greenhouse.io/reddit/jobs/8282305"
   },
   "8282563": {
    "closed_at": null,
@@ -2451,6 +2485,36 @@
    "reopened": 0,
    "title": "Staff Software Engineer, iOS Platform",
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8311209"
+  },
+  "8316086": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "staff machine learning engineer retrieval targeting @ remote - united states",
+   "location": "Remote - United States",
+   "posted_at": "2026-10-23T21:13:01+00:00",
+   "posted_history": [
+    "2026-10-23T21:13:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Machine Learning Engineer, Retrieval & Targeting",
+   "url": "https://job-boards.greenhouse.io/reddit/jobs/8316086"
+  },
+  "8318010": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "manager emea community @ remote - united kingdom",
+   "location": "Remote - United Kingdom",
+   "posted_at": "2026-10-23T16:46:41+00:00",
+   "posted_history": [
+    "2026-10-23T16:46:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, EMEA Community (Contract)",
+   "url": "https://job-boards.greenhouse.io/reddit/jobs/8318010"
   }
  }
 }

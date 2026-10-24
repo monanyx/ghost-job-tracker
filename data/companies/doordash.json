@@ -19,6 +19,10 @@
   {
    "date": "2026-10-23",
    "open": 464
+  },
+  {
+   "date": "2026-10-24",
+   "open": 459
   }
  ],
  "jobs": {
@@ -428,7 +432,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/5976796"
   },
   "6056628": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -743,7 +747,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/6813973"
   },
   "6819210": {
-   "closed_at": "2026-10-22T08:55:54+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -753,7 +757,7 @@
    "posted_history": [
     "2025-04-18T17:33:27+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Shift Lead - Aurora",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/6819210"
   },
@@ -1133,7 +1137,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7344739"
   },
   "7380096": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1296,6 +1300,21 @@
    "reopened": 0,
    "title": "Service Technician, Service Operations, Labs (PM Shift) - DoorDash Dot",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7491310"
+  },
+  "7516018": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "strategic account development executive marketplace @ nashville, tn; dallas, tx; houston, tx; tampa, fl; raleigh, nc; charlotte, nc; atlanta, ga",
+   "location": "Nashville, TN; Dallas, TX; Houston, TX; Tampa, FL; Raleigh, NC; Charlotte, NC; Atlanta, GA",
+   "posted_at": "2026-01-08T21:14:03+00:00",
+   "posted_history": [
+    "2026-01-08T21:14:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Account Development Executive - Marketplace",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7516018"
   },
   "7517631": {
    "closed_at": null,
@@ -2127,14 +2146,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior staff machine learning engineer @ san francisco, ca; sunnyvale, ca",
+   "fp": "senior staff machine learning engineer ads @ san francisco, ca; sunnyvale, ca",
    "location": "San Francisco, CA; Sunnyvale, CA",
    "posted_at": "2026-06-03T23:00:06+00:00",
    "posted_history": [
     "2026-06-03T23:00:06+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Staff Machine Learning Engineer",
+   "title": "Senior Staff Machine Learning Engineer, Ads",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7980080"
   },
   "7983379": {
@@ -2498,7 +2517,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8046994"
   },
   "8048507": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2903,7 +2922,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8079777"
   },
   "8079886": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2918,7 +2937,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8079886"
   },
   "8079888": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2933,7 +2952,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8079888"
   },
   "8079890": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3428,7 +3447,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8122138"
   },
   "8122187": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3818,7 +3837,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8147201"
   },
   "8148519": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4822,6 +4841,21 @@
    "title": "Senior Manager, New Verticals - Search Strategy & Operations",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8201605"
   },
+  "8201979": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "onboarding partner doordash for business @ new york, ny; san francisco, ca; sunnyvale, ca; chicago, il; seattle, wa; phoenix, az; los angeles, ca",
+   "location": "New York, NY; San Francisco, CA; Sunnyvale, CA; Chicago, IL; Seattle, WA; Phoenix, AZ; Los Angeles, CA",
+   "posted_at": "2026-09-15T14:39:09+00:00",
+   "posted_history": [
+    "2026-09-15T14:39:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Onboarding Partner (Mid-market), DoorDash for Business",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8201979"
+  },
   "8202720": {
    "closed_at": null,
    "department": "",
@@ -5757,14 +5791,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "associate new verticals grocery merchant strategy operations @ san francisco, ca; seattle, wa; los angeles, ca; washington, dc; tempe, az; mountainview, ca",
+   "fp": "associate new verticals grocery revenue strategy operations @ san francisco, ca; seattle, wa; los angeles, ca; washington, dc; tempe, az; mountainview, ca",
    "location": "San Francisco, CA; Seattle, WA; Los Angeles, CA; Washington, DC; Tempe, AZ; Mountainview, CA",
    "posted_at": "2026-09-29T19:42:59+00:00",
    "posted_history": [
     "2026-09-29T19:42:59+00:00"
    ],
    "reopened": 0,
-   "title": "Associate, New Verticals - Grocery Merchant Strategy & Operations",
+   "title": "Associate, New Verticals - Grocery Revenue Strategy & Operations",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8240696"
   },
   "8240747": {
@@ -6008,7 +6042,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8257063"
   },
   "8257295": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6398,7 +6432,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8264542"
   },
   "8265033": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6848,7 +6882,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8289029"
   },
   "8289169": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6957,8 +6991,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
-   "fp": "senior associate new verticals central strategy operations @ new york, ny; austin, tx; chicago, il; san francisco, ca; seattle, wa",
-   "location": "New York, NY; Austin, TX; Chicago, IL; San Francisco, CA; Seattle, WA",
+   "fp": "senior associate new verticals central strategy operations @ new york, ny; washington, d.c; chicago, il; phoenix, az; seattle, wa; san francisco, ca; los angeles, ca",
+   "location": "New York, NY; Washington, D.C; Chicago, IL; Phoenix, AZ; Seattle, WA; San Francisco, CA; Los Angeles, CA",
    "posted_at": "2026-10-21T04:01:57+00:00",
    "posted_history": [
     "2026-10-21T04:01:57+00:00"
@@ -7238,7 +7272,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8311047"
   },
   "8312381": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
@@ -7341,6 +7375,66 @@
    "reopened": 0,
    "title": "Analyst, Global Operations Center",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8315816"
+  },
+  "8318219": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "senior manager digital ordering @ new york, ny; san francisco, ca; los angeles, ca; chicago, il; austin, tx; denver, co; seattle, wa; miami, fl",
+   "location": "New York, NY; San Francisco, CA; Los Angeles, CA; Chicago, IL; Austin, TX; Denver, CO; Seattle, WA; Miami, FL",
+   "posted_at": "2026-10-23T16:59:13+00:00",
+   "posted_history": [
+    "2026-10-23T16:59:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Digital Ordering",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8318219"
+  },
+  "8318300": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "manager people advocacy @ united states - remote",
+   "location": "United States - Remote",
+   "posted_at": "2026-10-23T17:47:18+00:00",
+   "posted_history": [
+    "2026-10-23T17:47:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, People Advocacy",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8318300"
+  },
+  "8319010": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "associate manager b2b retention marketing doordash for business @ new york, ny; san francisco, ca",
+   "location": "New York, NY;  San Francisco, CA",
+   "posted_at": "2026-10-23T18:32:17+00:00",
+   "posted_history": [
+    "2026-10-23T18:32:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Associate Manager, B2B Retention Marketing, DoorDash for Business",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8319010"
+  },
+  "8319116": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "district manager dashmart indiana @ indianapolis, in",
+   "location": "Indianapolis, IN",
+   "posted_at": "2026-10-23T19:00:33+00:00",
+   "posted_history": [
+    "2026-10-23T19:00:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "District Manager - Dashmart- Indiana",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8319116"
   }
  }
 }

@@ -19,6 +19,10 @@
   {
    "date": "2026-10-23",
    "open": 225
+  },
+  {
+   "date": "2026-10-24",
+   "open": 225
   }
  ],
  "jobs": {
@@ -383,7 +387,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7796530003"
   },
   "7798815003": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -458,7 +462,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7799348003"
   },
   "7799631003": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -473,7 +477,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7799631003"
   },
   "7799633003": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2887,6 +2891,21 @@
    "title": "Software Engineer Intern (Summer 2027)",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8011590003"
   },
+  "8011718003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "software engineer i instruments team @ remote uk",
+   "location": "Remote UK",
+   "posted_at": "2026-10-12T08:43:12+00:00",
+   "posted_history": [
+    "2026-10-12T08:43:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer I (New Grad 2027) - Instruments team",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8011718003"
+  },
   "8012043003": {
    "closed_at": null,
    "department": "",
@@ -3486,6 +3505,36 @@
    "reopened": 0,
    "title": "Senior Manager, Technical Recruiting",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8041662003"
+  },
+  "8041930003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "group product management manager @ remote us",
+   "location": "Remote US",
+   "posted_at": "2026-10-23T19:31:01+00:00",
+   "posted_history": [
+    "2026-10-23T19:31:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "Group Product Management Manager",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8041930003"
+  },
+  "8041932003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "group product management manager @ remote canada",
+   "location": "Remote Canada",
+   "posted_at": "2026-10-23T19:31:18+00:00",
+   "posted_history": [
+    "2026-10-23T19:31:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Group Product Management Manager",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8041932003"
   }
  }
 }

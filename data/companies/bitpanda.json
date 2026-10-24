@@ -19,6 +19,10 @@
   {
    "date": "2026-10-23",
    "open": 35
+  },
+  {
+   "date": "2026-10-24",
+   "open": 35
   }
  ],
  "jobs": {
@@ -218,7 +222,7 @@
    "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4951483101"
   },
   "4954936101": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -246,6 +250,21 @@
    "reopened": 0,
    "title": "Senior SOC Analyst, Security Operations",
    "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4966607101"
+  },
+  "4969789101": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "associate customer support live chat @ vienna, vienna, austria",
+   "location": "Vienna, Vienna, Austria",
+   "posted_at": "2026-09-07T11:59:41+00:00",
+   "posted_history": [
+    "2026-09-07T11:59:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Associate, Customer Support - Live chat",
+   "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4969789101"
   },
   "4983426101": {
    "closed_at": null,

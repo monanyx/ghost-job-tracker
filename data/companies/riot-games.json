@@ -19,6 +19,10 @@
   {
    "date": "2026-10-23",
    "open": 175
+  },
+  {
+   "date": "2026-10-24",
+   "open": 177
   }
  ],
  "jobs": {
@@ -2543,7 +2547,7 @@
    "url": "https://www.riotgames.com/en/work-with-us/job/8279807?gh_jid=8279807"
   },
   "8279959": {
-   "closed_at": "2026-10-23T08:50:35+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2553,7 +2557,7 @@
    "posted_history": [
     "2026-10-13T23:29:30+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Principal Insights Analyst - League of Legends",
    "url": "https://www.riotgames.com/en/work-with-us/job/8279959?gh_jid=8279959"
   },
@@ -2811,6 +2815,21 @@
    "reopened": 0,
    "title": "EMEA Public Relations Strategist (12-Month Contract)",
    "url": "https://www.riotgames.com/en/work-with-us/job/8306765?gh_jid=8306765"
+  },
+  "8316731": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "principal technical product manager publishing platform content access platform @ los angeles, usa; mercer island, usa",
+   "location": "Los Angeles, USA; Mercer Island, USA",
+   "posted_at": "2026-10-23T19:22:05+00:00",
+   "posted_history": [
+    "2026-10-23T19:22:05+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Technical Product Manager - Publishing Platform, Content Access Platform",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8316731?gh_jid=8316731"
   }
  }
 }

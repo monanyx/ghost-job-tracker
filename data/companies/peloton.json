@@ -19,6 +19,10 @@
   {
    "date": "2026-10-23",
    "open": 59
+  },
+  {
+   "date": "2026-10-24",
+   "open": 59
   }
  ],
  "jobs": {
@@ -743,7 +747,7 @@
    "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8227324"
   },
   "8231489": {
-   "closed_at": "2026-10-22T08:55:54+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -753,7 +757,7 @@
    "posted_history": [
     "2026-09-29T21:03:41+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Lead Expert - Phoenix Chandler Fashion Center",
    "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8231489"
   },
@@ -848,7 +852,7 @@
    "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8265883"
   },
   "8279011": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -893,7 +897,7 @@
    "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8289878"
   },
   "8289880": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1011,6 +1015,21 @@
    "reopened": 0,
    "title": "Talent Producer",
    "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8301429"
+  },
+  "8304455": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "sr data scientist @ new york, new york",
+   "location": "New York, New York",
+   "posted_at": "2026-10-23T15:46:49+00:00",
+   "posted_history": [
+    "2026-10-23T15:46:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Data Scientist",
+   "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8304455"
   },
   "8310842": {
    "closed_at": null,

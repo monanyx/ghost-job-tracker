@@ -19,6 +19,10 @@
   {
    "date": "2026-10-23",
    "open": 365
+  },
+  {
+   "date": "2026-10-24",
+   "open": 366
   }
  ],
  "jobs": {
@@ -177,14 +181,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior data science manager driving quality @ mountain view, california, usa",
+   "fp": "senior staff manager data science @ mountain view, california, usa",
    "location": "Mountain View, California, USA",
    "posted_at": "2025-09-16T21:02:08+00:00",
    "posted_history": [
     "2025-09-16T21:02:08+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Data Science Manager, Driving Quality",
+   "title": "Senior Staff Manager, Data Science",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=7239320"
   },
   "7249525": {
@@ -462,14 +466,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "sr software engineer telematics @ mountain view, california, usa",
+   "fp": "senior software engineer telematics @ mountain view, california, usa",
    "location": "Mountain View, California, USA",
    "posted_at": "2025-12-09T19:46:51+00:00",
    "posted_history": [
     "2025-12-09T19:46:51+00:00"
    ],
    "reopened": 0,
-   "title": "Sr Software Engineer, Telematics",
+   "title": "Senior Software Engineer, Telematics",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=7438645"
   },
   "7438665": {
@@ -786,6 +790,21 @@
    "reopened": 0,
    "title": "Senior Machine Learning Engineer, Perception LLM/VLM",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=7488596"
+  },
+  "7490150": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "staff vehicle controls engineer steering @ mountain view, ca, usa;novi, mi, usa",
+   "location": "Mountain View, Ca, USA;Novi, Mi, USA",
+   "posted_at": "2025-12-26T20:47:03+00:00",
+   "posted_history": [
+    "2025-12-26T20:47:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Vehicle Controls Engineer, Steering",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=7490150"
   },
   "7495240": {
    "closed_at": null,
@@ -1403,7 +1422,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=7884982"
   },
   "7890744": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1587,14 +1606,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "software engineer real time communication infrastructure @ mountain view, ca, usa",
+   "fp": "senior software engineer real time communication infrastructure @ mountain view, ca, usa",
    "location": "Mountain View, CA, USA",
    "posted_at": "2026-10-07T17:38:12+00:00",
    "posted_history": [
     "2026-10-07T17:38:12+00:00"
    ],
    "reopened": 0,
-   "title": "Software Engineer,  Real-Time Communication Infrastructure",
+   "title": "Senior Software Engineer,  Real-Time Communication Infrastructure",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=7917911"
   },
   "7917933": {
@@ -2168,7 +2187,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8034894"
   },
   "8036947": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2513,7 +2532,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8053872"
   },
   "8054688": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2652,14 +2671,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior program manager international expansion @ new york, ny, usa",
+   "fp": "staff program manager international expansion @ new york, ny, usa",
    "location": "New York, NY, USA ",
    "posted_at": "2026-07-18T00:05:20+00:00",
    "posted_history": [
     "2026-07-18T00:05:20+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Program Manager, International Expansion",
+   "title": "Staff Program Manager, International Expansion",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8070184"
   },
   "8070602": {
@@ -3537,14 +3556,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "program manager vehicle platform scaling @ mountain view, ca, usa; san francisco, ca, usa",
+   "fp": "senior program manager vehicle platform scaling @ mountain view, ca, usa; san francisco, ca, usa",
    "location": "Mountain View, CA, USA; San Francisco, CA, USA ",
    "posted_at": "2026-09-04T23:41:58+00:00",
    "posted_history": [
     "2026-09-04T23:41:58+00:00"
    ],
    "reopened": 0,
-   "title": "Program Manager, Vehicle Platform Scaling",
+   "title": "Senior Program Manager, Vehicle Platform Scaling",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8168543"
   },
   "8168620": {
@@ -4917,14 +4936,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "technical program manager expansion testing @ mountain view, ca, us; san francisco, ca, us",
+   "fp": "senior technical program manager expansion testing @ mountain view, ca, us; san francisco, ca, us",
    "location": "Mountain View, CA, US; San Francisco, CA, US ",
    "posted_at": "2026-10-01T22:32:29+00:00",
    "posted_history": [
     "2026-10-01T22:32:29+00:00"
    ],
    "reopened": 0,
-   "title": "Technical Program Manager, Expansion Testing",
+   "title": "Senior Technical Program Manager, Expansion Testing",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8244452"
   },
   "8244827": {
@@ -5557,6 +5576,21 @@
    "title": "2027 Summer Intern, PhD, Machine Learning - Simulation & Closed-Loop Training",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8283558"
   },
+  "8287385": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "2027 summer intern ms phd software engineer ml frameworks and efficiency @ mountain view, ca, usa",
+   "location": "Mountain View, CA, USA",
+   "posted_at": "2026-10-23T19:55:17+00:00",
+   "posted_history": [
+    "2026-10-23T19:55:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "2027 Summer Intern, MS/PhD, Software Engineer, ML Frameworks and Efficiency",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8287385"
+  },
   "8289592": {
    "closed_at": null,
    "department": "",
@@ -5692,19 +5726,34 @@
    "title": "Mechanical Engineer",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8302117"
   },
+  "8304574": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "2027 summer intern ms phd machine learning driver refinement foundations @ san francisco, ca, usa",
+   "location": "San Francisco, CA, USA",
+   "posted_at": "2026-10-24T00:36:01+00:00",
+   "posted_history": [
+    "2026-10-24T00:36:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8304574"
+  },
   "8304640": {
    "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
-   "fp": "technical program manager commercialization @ mountain view, ca, usa; san francisco, ca, usa",
+   "fp": "senior technical program manager fleet @ mountain view, ca, usa; san francisco, ca, usa",
    "location": "Mountain View, CA, USA; San Francisco, CA, USA",
    "posted_at": "2026-10-21T18:13:01+00:00",
    "posted_history": [
     "2026-10-21T18:13:01+00:00"
    ],
    "reopened": 0,
-   "title": "Technical Program Manager, Commercialization",
+   "title": "Senior Technical Program Manager, Fleet",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8304640"
   },
   "8304776": {
@@ -5712,14 +5761,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
-   "fp": "senior technical program manager partner trip platform @ mountain view, ca, us; san francisco, ca, us",
+   "fp": "staff technical program manager partner trip platform @ mountain view, ca, us; san francisco, ca, us",
    "location": "Mountain View, CA, US; San Francisco, CA, US",
    "posted_at": "2026-10-22T20:49:56+00:00",
    "posted_history": [
     "2026-10-22T20:49:56+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Technical Program Manager, Partner Trip Platform",
+   "title": "Staff Technical Program Manager, Partner Trip Platform",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8304776"
   },
   "8306779": {
@@ -5826,6 +5875,21 @@
    "reopened": 0,
    "title": "Mapping Ops Senior Program Manager, Real-time Disruptions",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8315141"
+  },
+  "8319342": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "staff software engineer @ perm - n/a",
+   "location": "PERM - N/A",
+   "posted_at": "2026-10-23T20:16:43+00:00",
+   "posted_history": [
+    "2026-10-23T20:16:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8319342"
   }
  }
 }

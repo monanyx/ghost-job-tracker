@@ -19,9 +19,43 @@
   {
    "date": "2026-10-23",
    "open": 38
+  },
+  {
+   "date": "2026-10-24",
+   "open": 39
   }
  ],
  "jobs": {
+  "7768035": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "senior site reliability engineer access team @ berlin",
+   "location": "Berlin",
+   "posted_at": "2026-04-02T08:18:47+00:00",
+   "posted_history": [
+    "2026-04-02T08:18:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Site Reliability Engineer - Access Team",
+   "url": "https://n26.com/en-eu/careers/positions/7768035?gh_jid=7768035"
+  },
+  "7774526": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "senior site reliability engineer access team @ barcelona",
+   "location": "Barcelona",
+   "posted_at": "2026-04-02T08:20:32+00:00",
+   "posted_history": [
+    "2026-04-02T08:20:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Site Reliability Engineer - Access Team",
+   "url": "https://n26.com/en-eu/careers/positions/7774526?gh_jid=7774526"
+  },
   "7988511": {
    "closed_at": null,
    "department": "",
@@ -203,7 +237,7 @@
    "url": "https://n26.com/en-eu/careers/positions/8156159?gh_jid=8156159"
   },
   "8158787": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -457,6 +491,21 @@
    "title": "Product Designer",
    "url": "https://n26.com/en-eu/careers/positions/8211088?gh_jid=8211088"
   },
+  "8219953": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "senior site reliability engineer infrastructure @ berlin, barcelona",
+   "location": "Berlin, Barcelona",
+   "posted_at": "2026-10-23T16:06:57+00:00",
+   "posted_history": [
+    "2026-10-23T16:06:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Site Reliability Engineer - Infrastructure",
+   "url": "https://n26.com/en-eu/careers/positions/8219953?gh_jid=8219953"
+  },
   "8239606": {
    "closed_at": null,
    "department": "",
@@ -578,7 +627,7 @@
    "url": "https://n26.com/en-eu/careers/positions/8268322?gh_jid=8268322"
   },
   "8281297": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",

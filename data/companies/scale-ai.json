@@ -19,6 +19,10 @@
   {
    "date": "2026-10-23",
    "open": 172
+  },
+  {
+   "date": "2026-10-24",
+   "open": 171
   }
  ],
  "jobs": {
@@ -1223,7 +1227,7 @@
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4693078005"
   },
   "4693449005": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1913,7 +1917,7 @@
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4722512005"
   },
   "4722944005": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2811,6 +2815,21 @@
    "reopened": 0,
    "title": "Contracts Manager",
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4745295005"
+  },
+  "4747295005": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "creative advisor human frontier collective @ united states",
+   "location": "United States",
+   "posted_at": "2026-10-23T20:20:11+00:00",
+   "posted_history": [
+    "2026-10-23T20:20:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Creative Advisor - Human Frontier Collective (US)",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4747295005"
   }
  }
 }

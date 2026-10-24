@@ -19,6 +19,10 @@
   {
    "date": "2026-10-23",
    "open": 114
+  },
+  {
+   "date": "2026-10-24",
+   "open": 116
   }
  ],
  "jobs": {
@@ -372,14 +376,14 @@
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "head of sales emea public sector @ berlin",
+   "fp": "head of sales defense intelligence emea @ berlin",
    "location": "Berlin",
    "posted_at": "2026-08-04T10:41:25+00:00",
    "posted_history": [
     "2026-08-04T10:41:25+00:00"
    ],
    "reopened": 0,
-   "title": "Head of Sales EMEA, Public Sector",
+   "title": "Head of Sales, Defense & Intelligence, EMEA",
    "url": "https://jobs.ashbyhq.com/cohere/334b2a07-0c6a-4764-b4a8-c8bf68513cde"
   },
   "36d1f52f-8270-4652-adf5-5303a0ff341b": {
@@ -458,7 +462,7 @@
    "url": "https://jobs.ashbyhq.com/cohere/41f23dad-9da2-451a-bd1e-a1800437cb64"
   },
   "43943c73-6640-443d-9b24-df510fce7499": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "Business Operations",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -502,6 +506,21 @@
    "reopened": 0,
    "title": "VP of Sales - Public Sector",
    "url": "https://jobs.ashbyhq.com/cohere/49a6485c-c449-4e07-8001-cafc97a39a13"
+  },
+  "4e3694ee-d051-497f-bb3b-8cff3d7f578f": {
+   "closed_at": null,
+   "department": "Business Operations",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "legal counsel corporate governance regulatory @ united states",
+   "location": "United States",
+   "posted_at": "2026-10-23T17:36:00+00:00",
+   "posted_history": [
+    "2026-10-23T17:36:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Legal Counsel, Corporate Governance & Regulatory",
+   "url": "https://jobs.ashbyhq.com/cohere/4e3694ee-d051-497f-bb3b-8cff3d7f578f"
   },
   "4ef5101e-b083-49cd-808a-54c754d159e5": {
    "closed_at": null,
@@ -1103,6 +1122,21 @@
    "title": "Data Engineer, Data Foundations",
    "url": "https://jobs.ashbyhq.com/cohere/9baccd88-c051-474f-bfe8-6867fca54cee"
   },
+  "9be116c1-c1df-49bd-8e90-31d41b62645f": {
+   "closed_at": null,
+   "department": "Product Management & Program Management",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "public sector delivery analyst @ ottawa",
+   "location": "Ottawa",
+   "posted_at": "2026-10-23T21:19:34+00:00",
+   "posted_history": [
+    "2026-10-23T21:19:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Public Sector Delivery Analyst",
+   "url": "https://jobs.ashbyhq.com/cohere/9be116c1-c1df-49bd-8e90-31d41b62645f"
+  },
   "9c5e1ab3-883b-4d15-885c-76400da7ca11": {
    "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "Engineering & Infra",
@@ -1237,6 +1271,21 @@
    "reopened": 0,
    "title": "Customer Success Manager - UAE",
    "url": "https://jobs.ashbyhq.com/cohere/abd68512-a6e1-4221-bc60-dec83623408a"
+  },
+  "ada41b39-21a9-467c-a22c-9e907524af40": {
+   "closed_at": null,
+   "department": "Government & Public Policy",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "manager government affairs public policy japan @ tokyo",
+   "location": "Tokyo",
+   "posted_at": "2026-10-23T20:16:04+00:00",
+   "posted_history": [
+    "2026-10-23T20:16:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Government Affairs & Public Policy - Japan",
+   "url": "https://jobs.ashbyhq.com/cohere/ada41b39-21a9-467c-a22c-9e907524af40"
   },
   "b04cf265-c4f7-48bf-88ec-d4d71f3bdfaa": {
    "closed_at": null,
@@ -1419,7 +1468,7 @@
    "url": "https://jobs.ashbyhq.com/cohere/cb981ecd-a161-482c-8d8e-5f19bb6e7fdd"
   },
   "cd7de8ed-1b3d-4977-a909-5c0d04ddfcb3": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "Engineering & Infra",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1522,6 +1571,21 @@
    "reopened": 0,
    "title": "Member of Technical Staff - RL Environments",
    "url": "https://jobs.ashbyhq.com/cohere/dc523c5b-9477-46c4-a122-4f3b2b8f4b67"
+  },
+  "dca93d1a-9ab8-442b-aa76-950595e8b9c3": {
+   "closed_at": null,
+   "department": "Engineering & Infra",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "engineering manager cohere apis and devex @ toronto",
+   "location": "Toronto",
+   "posted_at": "2026-10-23T20:27:07+00:00",
+   "posted_history": [
+    "2026-10-23T20:27:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager, Cohere APIs and DevEx",
+   "url": "https://jobs.ashbyhq.com/cohere/dca93d1a-9ab8-442b-aa76-950595e8b9c3"
   },
   "e2489771-1c24-4ca2-ab5b-03fc961b18b7": {
    "closed_at": null,

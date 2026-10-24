@@ -19,6 +19,10 @@
   {
    "date": "2026-10-23",
    "open": 446
+  },
+  {
+   "date": "2026-10-24",
+   "open": 453
   }
  ],
  "jobs": {
@@ -1167,14 +1171,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "sr customer engineer central eastern europe hebrew speaking @ hybrid",
+   "fp": "senior customer engineer central eastern europe hebrew speaking @ hybrid",
    "location": "Hybrid",
    "posted_at": "2026-06-04T08:43:37+00:00",
    "posted_history": [
     "2026-06-04T08:43:37+00:00"
    ],
    "reopened": 0,
-   "title": "Sr. Customer Engineer, Central & Eastern Europe - Hebrew Speaking",
+   "title": "Senior Customer Engineer, Central & Eastern Europe - Hebrew Speaking",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/7978788?gh_jid=7978788"
   },
   "7978887": {
@@ -1341,6 +1345,21 @@
    "reopened": 0,
    "title": "Senior Talent Acquisition Partner, G&A",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8016569?gh_jid=8016569"
+  },
+  "8018536": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "senior customer reliability engineer @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-06-24T08:44:22+00:00",
+   "posted_history": [
+    "2026-06-24T08:44:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Customer Reliability Engineer",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8018536?gh_jid=8018536"
   },
   "8020472": {
    "closed_at": null,
@@ -2888,7 +2907,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8143957?gh_jid=8143957"
   },
   "8144669": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3353,7 +3372,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8163023?gh_jid=8163023"
   },
   "8163523": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4557,14 +4576,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "workday reporting specialist @ in-office",
-   "location": "In-Office",
+   "fp": "workday analyst people operations @ hybrid; in-office",
+   "location": "Hybrid; In-Office",
    "posted_at": "2026-09-17T05:02:12+00:00",
    "posted_history": [
     "2026-09-17T05:02:12+00:00"
    ],
    "reopened": 0,
-   "title": "Workday Reporting Specialist",
+   "title": "Workday Analyst, People Operations",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8204353?gh_jid=8204353"
   },
   "8206674": {
@@ -4812,14 +4831,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior sales manager central eastern europe digital natives startups @ hybrid",
+   "fp": "senior sales manager central eastern europe digital natives @ hybrid",
    "location": "Hybrid",
    "posted_at": "2026-09-22T09:37:54+00:00",
    "posted_history": [
     "2026-09-22T09:37:54+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Sales Manager, Central Eastern Europe - Digital Natives, Startups",
+   "title": "Senior Sales Manager, Central Eastern Europe - Digital Natives",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8219962?gh_jid=8219962"
   },
   "8219990": {
@@ -5798,7 +5817,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8248554?gh_jid=8248554"
   },
   "8248563": {
-   "closed_at": "2026-10-22T08:55:54+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5808,7 +5827,7 @@
    "posted_history": [
     "2026-10-09T22:04:47+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Logistics Operations Specialist",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8248563?gh_jid=8248563"
   },
@@ -6007,6 +6026,21 @@
    "title": "People Operations Specialist, Singapore (6 Month Contract)",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8258111?gh_jid=8258111"
   },
+  "8258771": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "senior named account executive saudi arabia @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-10-23T11:26:50+00:00",
+   "posted_history": [
+    "2026-10-23T11:26:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Named Account Executive, Saudi Arabia",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8258771?gh_jid=8258771"
+  },
   "8258919": {
    "closed_at": null,
    "department": "",
@@ -6021,6 +6055,21 @@
    "reopened": 0,
    "title": "Senior Territory Account Executive, North Africa",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8258919?gh_jid=8258919"
+  },
+  "8259113": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "senior events manager @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-10-14T16:00:07+00:00",
+   "posted_history": [
+    "2026-10-14T16:00:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Events Manager",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8259113?gh_jid=8259113"
   },
   "8259402": {
    "closed_at": null,
@@ -6492,8 +6541,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
-   "fp": "program lead strategic cdn accounts gtm @ hybrid",
-   "location": "Hybrid",
+   "fp": "program lead strategic cdn accounts gtm @ distributed",
+   "location": "Distributed",
    "posted_at": "2026-10-20T17:41:48+00:00",
    "posted_history": [
     "2026-10-20T17:41:48+00:00"
@@ -6877,6 +6926,21 @@
    "title": "Product Cost Analyst",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8305918?gh_jid=8305918"
   },
+  "8306580": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "principal gtm automation revops @ distributed",
+   "location": "Distributed",
+   "posted_at": "2026-10-23T15:51:59+00:00",
+   "posted_history": [
+    "2026-10-23T15:51:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal, GTM Automation, RevOps.",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8306580?gh_jid=8306580"
+  },
   "8311164": {
    "closed_at": null,
    "department": "",
@@ -6891,6 +6955,36 @@
    "reopened": 0,
    "title": "Customer Security Compliance Specialist",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8311164?gh_jid=8311164"
+  },
+  "8311366": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "data center network operations engineer @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-10-23T16:10:21+00:00",
+   "posted_history": [
+    "2026-10-23T16:10:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Data Center Network Operations Engineer",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8311366?gh_jid=8311366"
+  },
+  "8311378": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "data center network operations engineer @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-10-23T16:18:50+00:00",
+   "posted_history": [
+    "2026-10-23T16:18:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Data Center Network Operations Engineer",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8311378?gh_jid=8311378"
   },
   "8312254": {
    "closed_at": null,
@@ -6921,6 +7015,36 @@
    "reopened": 0,
    "title": "Software Engineer, Agentic Commerce",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8312256?gh_jid=8312256"
+  },
+  "8312664": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "senior customer engineer central eastern europe russian speaking @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-10-23T15:52:05+00:00",
+   "posted_history": [
+    "2026-10-23T15:52:05+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Customer Engineer, Central & Eastern Europe - Russian Speaking",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8312664?gh_jid=8312664"
+  },
+  "8312693": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "senior manager customer engineering central eastern europe @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-10-23T15:46:33+00:00",
+   "posted_history": [
+    "2026-10-23T15:46:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Customer Engineering - Central Eastern Europe",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8312693?gh_jid=8312693"
   }
  }
 }

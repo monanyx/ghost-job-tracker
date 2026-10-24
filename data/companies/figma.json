@@ -19,6 +19,10 @@
   {
    "date": "2026-10-23",
    "open": 141
+  },
+  {
+   "date": "2026-10-24",
+   "open": 138
   }
  ],
  "jobs": {
@@ -803,7 +807,7 @@
    "url": "https://boards.greenhouse.io/figma/jobs/6008752004?gh_jid=6008752004"
   },
   "6010279004": {
-   "closed_at": "2026-10-21T08:53:29+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -813,7 +817,7 @@
    "posted_history": [
     "2026-06-03T20:02:13+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Manager, Software Engineering - Growth Platform",
    "url": "https://boards.greenhouse.io/figma/jobs/6010279004?gh_jid=6010279004"
   },
@@ -833,7 +837,7 @@
    "url": "https://boards.greenhouse.io/figma/jobs/6010992004?gh_jid=6010992004"
   },
   "6013495004": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1283,7 +1287,7 @@
    "url": "https://boards.greenhouse.io/figma/jobs/6138981004?gh_jid=6138981004"
   },
   "6142506004": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1478,7 +1482,7 @@
    "url": "https://boards.greenhouse.io/figma/jobs/6163420004?gh_jid=6163420004"
   },
   "6166497004": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1988,7 +1992,7 @@
    "url": "https://boards.greenhouse.io/figma/jobs/6212642004?gh_jid=6212642004"
   },
   "6214991004": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

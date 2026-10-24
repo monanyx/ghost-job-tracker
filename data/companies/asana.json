@@ -19,6 +19,10 @@
   {
    "date": "2026-10-23",
    "open": 105
+  },
+  {
+   "date": "2026-10-24",
+   "open": 108
   }
  ],
  "jobs": {
@@ -336,6 +340,21 @@
    "reopened": 0,
    "title": "Software Engineer, Product",
    "url": "https://www.asana.com/jobs/apply/7961454?gh_jid=7961454"
+  },
+  "7962306": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "software engineer ai @ vancouver, bc",
+   "location": "Vancouver, BC",
+   "posted_at": "2026-10-23T22:42:38+00:00",
+   "posted_history": [
+    "2026-10-23T22:42:38+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, AI",
+   "url": "https://www.asana.com/jobs/apply/7962306?gh_jid=7962306"
   },
   "7962412": {
    "closed_at": null,
@@ -1493,7 +1512,7 @@
    "url": "https://www.asana.com/jobs/apply/8257464?gh_jid=8257464"
   },
   "8260059": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1716,6 +1735,51 @@
    "reopened": 0,
    "title": "Engineering Manager, Client Management",
    "url": "https://www.asana.com/jobs/apply/8311992?gh_jid=8311992"
+  },
+  "8315854": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "manager customer product support emea @ dublin",
+   "location": "Dublin",
+   "posted_at": "2026-10-23T19:16:33+00:00",
+   "posted_history": [
+    "2026-10-23T19:16:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Customer Product Support - EMEA",
+   "url": "https://www.asana.com/jobs/apply/8315854?gh_jid=8315854"
+  },
+  "8318046": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "people partner @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-10-23T14:07:18+00:00",
+   "posted_history": [
+    "2026-10-23T14:07:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "People Partner",
+   "url": "https://www.asana.com/jobs/apply/8318046?gh_jid=8318046"
+  },
+  "8319678": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "senior software engineer ai @ vancouver, bc",
+   "location": "Vancouver, BC",
+   "posted_at": "2026-10-23T22:48:17+00:00",
+   "posted_history": [
+    "2026-10-23T22:48:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, AI",
+   "url": "https://www.asana.com/jobs/apply/8319678?gh_jid=8319678"
   }
  }
 }

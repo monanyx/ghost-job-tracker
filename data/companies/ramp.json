@@ -19,6 +19,10 @@
   {
    "date": "2026-10-23",
    "open": 171
+  },
+  {
+   "date": "2026-10-24",
+   "open": 167
   }
  ],
  "jobs": {
@@ -83,7 +87,7 @@
    "url": "https://jobs.ashbyhq.com/ramp/0775bf66-8524-412b-906b-6e51695d8fdb"
   },
   "081dbe29-8a06-4cb2-bda5-4b0bfb35c2e8": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "Product",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -263,7 +267,7 @@
    "url": "https://jobs.ashbyhq.com/ramp/198150d6-789a-4ef8-999f-93a49656d4f1"
   },
   "1be5d28f-fa06-4b39-b81c-1e1e0cdd8337": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "People & Talent",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -968,7 +972,7 @@
    "url": "https://jobs.ashbyhq.com/ramp/66b5410f-339d-4656-92a6-cf4e31285bc9"
   },
   "696bc715-794c-4a0c-967d-d7f8b637b392": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1388,7 +1392,7 @@
    "url": "https://jobs.ashbyhq.com/ramp/871d2fc8-def8-4837-a9b0-7cc4fe126c2b"
   },
   "8baec095-2235-41ab-ab64-9abc57823b4b": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "Product",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1647,14 +1651,15 @@
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "gtm senior business systems analyst pre sales @ new york, ny (hq)",
+   "fp": "gtm senior business systems analyst marketing pre sales @ new york, ny (hq)",
    "location": "New York, NY (HQ)",
-   "posted_at": "2026-09-08T16:14:16+00:00",
+   "posted_at": "2026-10-23T17:17:16+00:00",
    "posted_history": [
-    "2026-09-08T16:14:16+00:00"
+    "2026-09-08T16:14:16+00:00",
+    "2026-10-23T17:17:16+00:00"
    ],
    "reopened": 0,
-   "title": "GTM Senior Business Systems Analyst, Pre-Sales",
+   "title": "GTM Senior Business Systems Analyst, Marketing & Pre-Sales",
    "url": "https://jobs.ashbyhq.com/ramp/aa433e44-f095-484b-a46a-a330583d84b0"
   },
   "aa5512b1-d973-4d74-9d10-d56446ecf803": {
@@ -1958,7 +1963,7 @@
    "url": "https://jobs.ashbyhq.com/ramp/baf0a4d2-e07e-4f76-af85-d85c91f479a4"
   },
   "bca0346c-b843-4795-96df-6091f51e421b": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2301,6 +2306,21 @@
    "reopened": 0,
    "title": "Product Manager | Growth",
    "url": "https://jobs.ashbyhq.com/ramp/e0b64893-0459-4d84-ac4f-7b50966ef024"
+  },
+  "e0cca3aa-24f7-46ca-9493-9984a7ae2285": {
+   "closed_at": null,
+   "department": "Product",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "product operations general builder @ new york, ny (hq)",
+   "location": "New York, NY (HQ)",
+   "posted_at": "2026-10-23T19:41:17+00:00",
+   "posted_history": [
+    "2026-10-23T19:41:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Operations | General Builder (All Levels)",
+   "url": "https://jobs.ashbyhq.com/ramp/e0cca3aa-24f7-46ca-9493-9984a7ae2285"
   },
   "e577622f-6657-4e53-8941-b3a774b04448": {
    "closed_at": null,

@@ -19,6 +19,10 @@
   {
    "date": "2026-10-23",
    "open": 393
+  },
+  {
+   "date": "2026-10-24",
+   "open": 402
   }
  ],
  "jobs": {
@@ -1357,6 +1361,21 @@
    "title": "Senior Software Engineer - Storage Engine - Elasticsearch",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8074895&gh_jid=8074895"
   },
+  "8075239": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "principal software engineer global ux application platform @ spain",
+   "location": "Spain",
+   "posted_at": "2026-10-23T19:01:38+00:00",
+   "posted_history": [
+    "2026-10-23T19:01:38+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Software Engineer - Global UX - Application - Platform",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8075239&gh_jid=8075239"
+  },
   "8079636": {
    "closed_at": null,
    "department": "",
@@ -2438,7 +2457,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8140318&gh_jid=8140318"
   },
   "8140339": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5018,7 +5037,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8247144&gh_jid=8247144"
   },
   "8248494": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5527,6 +5546,21 @@
    "title": "Principal Software Engineer I - CI/CD - Platform Engineering Productivity",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8267190&gh_jid=8267190"
   },
+  "8267984": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "sr solutions architect strategic central east @ united states",
+   "location": "United States",
+   "posted_at": "2026-10-23T18:35:15+00:00",
+   "posted_history": [
+    "2026-10-23T18:35:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Solutions Architect - Strategic Central/East (Presales)",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8267984&gh_jid=8267984"
+  },
   "8274371": {
    "closed_at": null,
    "department": "",
@@ -5932,6 +5966,21 @@
    "title": "Software Engineering Manager - IAM Team - Control Plane - Platform",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8301329&gh_jid=8301329"
   },
+  "8301334": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "software engineering manager global ux applications platform @ spain",
+   "location": "Spain",
+   "posted_at": "2026-10-23T18:40:43+00:00",
+   "posted_history": [
+    "2026-10-23T18:40:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineering Manager - Global UX - Applications - Platform",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8301334&gh_jid=8301334"
+  },
   "8301538": {
    "closed_at": null,
    "department": "",
@@ -5946,6 +5995,21 @@
    "reopened": 0,
    "title": "Director of Product Management, Observability",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8301538&gh_jid=8301538"
+  },
+  "8302154": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "principal competitive intelligence manager security @ united states",
+   "location": "United States",
+   "posted_at": "2026-10-23T17:47:51+00:00",
+   "posted_history": [
+    "2026-10-23T17:47:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Competitive Intelligence Manager - Security",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8302154&gh_jid=8302154"
   },
   "8303147": {
    "closed_at": null,
@@ -6411,6 +6475,111 @@
    "reopened": 0,
    "title": "Senior Java Engineer - Distributed Systems, Serverless - Elasticsearch",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8315564&gh_jid=8315564"
+  },
+  "8317778": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "software engineering manager iam team control plane platform @ poland",
+   "location": "Poland",
+   "posted_at": "2026-10-23T11:30:45+00:00",
+   "posted_history": [
+    "2026-10-23T11:30:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineering Manager - IAM Team - Control Plane - Platform",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8317778&gh_jid=8317778"
+  },
+  "8317779": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "software engineering manager iam team control plane platform @ ireland",
+   "location": "Ireland",
+   "posted_at": "2026-10-23T11:31:49+00:00",
+   "posted_history": [
+    "2026-10-23T11:31:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineering Manager - IAM Team - Control Plane - Platform",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8317779&gh_jid=8317779"
+  },
+  "8318605": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "sales development representative new york @ new york, united states",
+   "location": "New York, United States",
+   "posted_at": "2026-10-23T16:56:42+00:00",
+   "posted_history": [
+    "2026-10-23T16:56:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales Development Representative - New York",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8318605&gh_jid=8318605"
+  },
+  "8319081": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "software engineering manager global ux applications platform @ portugal",
+   "location": "Portugal",
+   "posted_at": "2026-10-23T18:40:45+00:00",
+   "posted_history": [
+    "2026-10-23T18:40:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineering Manager - Global UX - Applications - Platform",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8319081&gh_jid=8319081"
+  },
+  "8319082": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "software engineering manager global ux applications platform @ greece",
+   "location": "Greece",
+   "posted_at": "2026-10-23T18:40:47+00:00",
+   "posted_history": [
+    "2026-10-23T18:40:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineering Manager - Global UX - Applications - Platform",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8319082&gh_jid=8319082"
+  },
+  "8319140": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "principal software engineer global ux application platform @ greece",
+   "location": "Greece",
+   "posted_at": "2026-10-23T19:01:36+00:00",
+   "posted_history": [
+    "2026-10-23T19:01:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Software Engineer - Global UX - Application - Platform",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8319140&gh_jid=8319140"
+  },
+  "8319141": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "principal software engineer global ux application platform @ portugal",
+   "location": "Portugal",
+   "posted_at": "2026-10-23T19:01:34+00:00",
+   "posted_history": [
+    "2026-10-23T19:01:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Software Engineer - Global UX - Application - Platform",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8319141&gh_jid=8319141"
   }
  }
 }

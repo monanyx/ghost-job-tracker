@@ -19,6 +19,10 @@
   {
    "date": "2026-10-23",
    "open": 393
+  },
+  {
+   "date": "2026-10-24",
+   "open": 390
   }
  ],
  "jobs": {
@@ -203,7 +207,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/7233212?gh_jid=7233212"
   },
   "7247309": {
-   "closed_at": "2026-10-23T08:50:35+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -213,7 +217,7 @@
    "posted_history": [
     "2025-09-23T03:20:49+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Manager, Site Reliability Engineer",
    "url": "https://www.okta.com/company/careers/opportunity/7247309?gh_jid=7247309"
   },
@@ -353,7 +357,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/7560775?gh_jid=7560775"
   },
   "7561410": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -428,7 +432,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/7586370?gh_jid=7586370"
   },
   "7587916": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -801,6 +805,21 @@
    "reopened": 0,
    "title": "Brand Art Director",
    "url": "https://www.okta.com/company/careers/opportunity/7821640?gh_jid=7821640"
+  },
+  "7831189": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "staff software engineer identity administration @ bengaluru, india",
+   "location": "Bengaluru, India",
+   "posted_at": "2026-08-24T05:19:17+00:00",
+   "posted_history": [
+    "2026-08-24T05:19:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer, Identity Administration (Full Stack)",
+   "url": "https://www.okta.com/company/careers/opportunity/7831189?gh_jid=7831189"
   },
   "7834352": {
    "closed_at": null,
@@ -1341,6 +1360,21 @@
    "reopened": 0,
    "title": "Documentation Tools Manager",
    "url": "https://www.okta.com/company/careers/opportunity/8036390?gh_jid=8036390"
+  },
+  "8037616": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "senior engineering manager @ bengaluru, india",
+   "location": "Bengaluru, India",
+   "posted_at": "2026-06-30T12:49:26+00:00",
+   "posted_history": [
+    "2026-06-30T12:49:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Engineering Manager",
+   "url": "https://www.okta.com/company/careers/opportunity/8037616?gh_jid=8037616"
   },
   "8038929": {
    "closed_at": null,
@@ -1958,7 +1992,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8088636?gh_jid=8088636"
   },
   "8090536": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2663,7 +2697,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8143749?gh_jid=8143749"
   },
   "8145887": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-20T08:53:12+00:00",
@@ -2887,6 +2921,21 @@
    "title": "Manager, Site Reliability Engineering (Auth0)",
    "url": "https://www.okta.com/company/careers/opportunity/8160475?gh_jid=8160475"
   },
+  "8161278": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "staff software engineer @ bengaluru, india",
+   "location": "Bengaluru, India",
+   "posted_at": "2026-09-15T05:19:57+00:00",
+   "posted_history": [
+    "2026-09-15T05:19:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer",
+   "url": "https://www.okta.com/company/careers/opportunity/8161278?gh_jid=8161278"
+  },
   "8162877": {
    "closed_at": null,
    "department": "",
@@ -2918,7 +2967,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8164832?gh_jid=8164832"
   },
   "8165103": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3038,7 +3087,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8180503?gh_jid=8180503"
   },
   "8185311": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3293,7 +3342,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8197825?gh_jid=8197825"
   },
   "8201177": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4133,7 +4182,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8236530?gh_jid=8236530"
   },
   "8236753": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4253,7 +4302,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8238198?gh_jid=8238198"
   },
   "8239048": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4268,7 +4317,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8239048?gh_jid=8239048"
   },
   "8239244": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6312,14 +6361,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
-   "fp": "partner strategy and operations manager apj @ bengaluru, india",
+   "fp": "head of partner operations apj @ bengaluru, india",
    "location": "Bengaluru, India",
    "posted_at": "2026-10-21T15:52:47+00:00",
    "posted_history": [
     "2026-10-21T15:52:47+00:00"
    ],
    "reopened": 0,
-   "title": "Partner Strategy and Operations Manager, APJ",
+   "title": "Head of Partner Operations APJ",
    "url": "https://www.okta.com/company/careers/opportunity/8305245?gh_jid=8305245"
   },
   "8305257": {
@@ -6368,7 +6417,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8305423?gh_jid=8305423"
   },
   "8305851": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
@@ -6441,6 +6490,66 @@
    "reopened": 0,
    "title": "Solutions Engineer, Okta (Enterprise West)",
    "url": "https://www.okta.com/company/careers/opportunity/8312752?gh_jid=8312752"
+  },
+  "8319085": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "software architect ai systems and platform @ san francisco, california",
+   "location": "San Francisco, California",
+   "posted_at": "2026-10-23T21:54:20+00:00",
+   "posted_history": [
+    "2026-10-23T21:54:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Architect, AI Systems and Platform",
+   "url": "https://www.okta.com/company/careers/opportunity/8319085?gh_jid=8319085"
+  },
+  "8319247": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "manager product design okta research development @ toronto, ontario, canada",
+   "location": "Toronto, Ontario, Canada",
+   "posted_at": "2026-10-23T20:07:30+00:00",
+   "posted_history": [
+    "2026-10-23T20:07:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Product Design - Okta Research & Development",
+   "url": "https://www.okta.com/company/careers/opportunity/8319247?gh_jid=8319247"
+  },
+  "8319274": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "sr software engineer ai platform infrastructure @ san francisco, california",
+   "location": "San Francisco, California",
+   "posted_at": "2026-10-23T22:29:17+00:00",
+   "posted_history": [
+    "2026-10-23T22:29:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Software Engineer, AI Platform & Infrastructure",
+   "url": "https://www.okta.com/company/careers/opportunity/8319274?gh_jid=8319274"
+  },
+  "8319285": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "staff software engineer ai platform infrastructure @ san francisco, california",
+   "location": "San Francisco, California",
+   "posted_at": "2026-10-24T00:26:43+00:00",
+   "posted_history": [
+    "2026-10-24T00:26:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer, AI Platform & Infrastructure",
+   "url": "https://www.okta.com/company/careers/opportunity/8319285?gh_jid=8319285"
   }
  }
 }

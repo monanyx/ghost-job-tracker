@@ -19,6 +19,10 @@
   {
    "date": "2026-10-23",
    "open": 157
+  },
+  {
+   "date": "2026-10-24",
+   "open": 157
   }
  ],
  "jobs": {
@@ -173,7 +177,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/7460169?t=gh_src=&gh_jid=7460169"
   },
   "7489697": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -728,7 +732,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8072766?t=gh_src=&gh_jid=8072766"
   },
   "8076097": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -818,7 +822,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8080939?t=gh_src=&gh_jid=8080939"
   },
   "8082056": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2332,6 +2336,21 @@
    "title": "Staff Software Engineer, Exchange Platform",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8278312?t=gh_src=&gh_jid=8278312"
   },
+  "8286878": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "senior product marketing manager @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-10-23T17:58:35+00:00",
+   "posted_history": [
+    "2026-10-23T17:58:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Marketing Manager",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8286878?t=gh_src=&gh_jid=8286878"
+  },
   "8287392": {
    "closed_at": null,
    "department": "",
@@ -2352,8 +2371,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior ios engineer crypto perpetuals @ menlo park, ca; new york, ny; toronto, canada",
-   "location": "Menlo Park, CA; New York, NY; Toronto, Canada",
+   "fp": "senior ios engineer crypto perpetuals @ menlo park, ca; new york, ny",
+   "location": "Menlo Park, CA; New York, NY",
    "posted_at": "2026-10-16T17:28:14+00:00",
    "posted_history": [
     "2026-10-16T17:28:14+00:00"
@@ -2451,6 +2470,36 @@
    "reopened": 0,
    "title": "Fraud Operations Program Manager",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8312485?t=gh_src=&gh_jid=8312485"
+  },
+  "8319304": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "account servicing associate @ denver, co; westlake, tx",
+   "location": "Denver, CO; Westlake, TX",
+   "posted_at": "2026-10-23T21:15:05+00:00",
+   "posted_history": [
+    "2026-10-23T21:15:05+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Servicing Associate",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8319304?t=gh_src=&gh_jid=8319304"
+  },
+  "8319701": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "senior ios engineer crypto perpetuals @ toronto, canada",
+   "location": "Toronto, Canada",
+   "posted_at": "2026-10-23T23:19:36+00:00",
+   "posted_history": [
+    "2026-10-23T23:19:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior iOS Engineer, Crypto Perpetuals",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8319701?t=gh_src=&gh_jid=8319701"
   }
  }
 }

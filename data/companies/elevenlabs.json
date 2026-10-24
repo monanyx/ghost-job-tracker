@@ -19,6 +19,10 @@
   {
    "date": "2026-10-23",
    "open": 156
+  },
+  {
+   "date": "2026-10-24",
+   "open": 159
   }
  ],
  "jobs": {
@@ -98,7 +102,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/084978b8-b63d-4c61-8a15-362da4348ef4"
   },
   "09936411-899b-466d-aae7-54f6873caea0": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -396,6 +400,21 @@
    "reopened": 0,
    "title": "Chief of Staff",
    "url": "https://jobs.ashbyhq.com/elevenlabs/22034ea4-b563-425f-b5d2-8a113e6d172d"
+  },
+  "24710bb7-62de-48d4-82c5-748c0d8aade2": {
+   "closed_at": null,
+   "department": "Revenue",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "gtm enablement global onboarding operations @ remote",
+   "location": "Remote",
+   "posted_at": "2026-10-23T19:47:31+00:00",
+   "posted_history": [
+    "2026-10-23T19:47:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "GTM Enablement - Global Onboarding & Operations",
+   "url": "https://jobs.ashbyhq.com/elevenlabs/24710bb7-62de-48d4-82c5-748c0d8aade2"
   },
   "257f24da-83db-4bad-a6dc-37793a1a0bac": {
    "closed_at": null,
@@ -714,7 +733,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/3b57cc5c-f019-4a0b-a5ff-e1046e4f1fa1"
   },
   "3b7a423c-01fd-4405-ab9a-ee51ed354ba9": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -789,7 +808,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/3eede250-d2a7-4f13-b0b2-d8a530cb6130"
   },
   "3f35aa7c-92a7-45c5-96b4-55969309bbe2": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -849,7 +868,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/4738893a-de4f-4a06-b104-315c6a4d366c"
   },
   "4aaebda4-53be-424c-8246-cde77ff853bb": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "Operations",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1089,17 +1108,18 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/6d4c4080-b53b-4b00-8b1d-3ec1e0955135"
   },
   "7209ce9f-3c69-4dbb-adbb-6c6c068ebad0": {
-   "closed_at": "2026-10-23T08:50:35+00:00",
+   "closed_at": null,
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "sales lead enterprise financial services @ remote",
    "location": "Remote",
-   "posted_at": "2026-10-14T12:40:01+00:00",
+   "posted_at": "2026-10-23T16:29:39+00:00",
    "posted_history": [
-    "2026-10-14T12:40:01+00:00"
+    "2026-10-14T12:40:01+00:00",
+    "2026-10-23T16:29:39+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Sales Lead - Enterprise - Financial Services",
    "url": "https://jobs.ashbyhq.com/elevenlabs/7209ce9f-3c69-4dbb-adbb-6c6c068ebad0"
   },
@@ -1117,6 +1137,21 @@
    "reopened": 0,
    "title": "Product Manager (ElevenCreative Self-Serve)",
    "url": "https://jobs.ashbyhq.com/elevenlabs/7389c057-3e25-4e7a-8a03-5e80f40a15a0"
+  },
+  "750a8325-7ce1-45ea-b0b1-61dab78a456e": {
+   "closed_at": null,
+   "department": "Engineering & Product",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "it support engineer @ new york",
+   "location": "New York",
+   "posted_at": "2026-10-23T09:32:46+00:00",
+   "posted_history": [
+    "2026-10-23T09:32:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "IT Support Engineer",
+   "url": "https://jobs.ashbyhq.com/elevenlabs/750a8325-7ce1-45ea-b0b1-61dab78a456e"
   },
   "75f7890c-2d11-4c18-a95f-03ef85e6bd15": {
    "closed_at": null,
@@ -1193,6 +1228,21 @@
    "title": "Deal Operations Strategist",
    "url": "https://jobs.ashbyhq.com/elevenlabs/7d01b1ec-511d-40bf-a6ed-88b212932edb"
   },
+  "7d29f7f7-158a-42e0-a6be-0ceba630863c": {
+   "closed_at": null,
+   "department": "Revenue",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "account manager uk i @ united kingdom",
+   "location": "United Kingdom",
+   "posted_at": "2026-10-23T13:30:10+00:00",
+   "posted_history": [
+    "2026-10-23T13:30:10+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Manager - UK/I",
+   "url": "https://jobs.ashbyhq.com/elevenlabs/7d29f7f7-158a-42e0-a6be-0ceba630863c"
+  },
   "813f6b98-fa14-4d8f-902d-5d09029be20a": {
    "closed_at": null,
    "department": "Revenue",
@@ -1222,6 +1272,21 @@
    "reopened": 0,
    "title": "iOS Engineer - Creative App",
    "url": "https://jobs.ashbyhq.com/elevenlabs/815547bf-0ade-482d-84b0-4163ab1161e5"
+  },
+  "820e5023-c637-4b36-91a9-f732f235998e": {
+   "closed_at": null,
+   "department": "Revenue",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "gtm enablement partner program @ remote",
+   "location": "Remote",
+   "posted_at": "2026-10-23T19:47:39+00:00",
+   "posted_history": [
+    "2026-10-23T19:47:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "GTM Enablement - Partner Program",
+   "url": "https://jobs.ashbyhq.com/elevenlabs/820e5023-c637-4b36-91a9-f732f235998e"
   },
   "84a75f68-c964-4ad7-994d-a44506e333b2": {
    "closed_at": null,
@@ -1604,14 +1669,14 @@
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "sales development lead united states @ san francisco",
+   "fp": "sales development lead north america @ san francisco",
    "location": "San Francisco",
    "posted_at": "2026-07-20T15:24:06+00:00",
    "posted_history": [
     "2026-07-20T15:24:06+00:00"
    ],
    "reopened": 0,
-   "title": "Sales Development Lead - United States",
+   "title": "Sales Development Lead - North America",
    "url": "https://jobs.ashbyhq.com/elevenlabs/a605e308-0d28-42b6-8cbb-03cc7799cecc"
   },
   "a787e8ee-f1c4-422d-95f8-61ffd4eefb95": {
@@ -1870,17 +1935,18 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/c340cedd-6453-4d48-a580-359c1d7d9d49"
   },
   "c4085864-14ca-4959-a3f8-3a4015c76eb5": {
-   "closed_at": "2026-10-23T08:50:35+00:00",
+   "closed_at": null,
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "sales lead enterprise healthcare @ remote",
    "location": "Remote",
-   "posted_at": "2026-10-14T12:40:33+00:00",
+   "posted_at": "2026-10-23T16:29:12+00:00",
    "posted_history": [
-    "2026-10-14T12:40:33+00:00"
+    "2026-10-14T12:40:33+00:00",
+    "2026-10-23T16:29:12+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Sales Lead - Enterprise - Healthcare",
    "url": "https://jobs.ashbyhq.com/elevenlabs/c4085864-14ca-4959-a3f8-3a4015c76eb5"
   },
@@ -2231,7 +2297,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/e4e0450f-d139-4f8e-b210-2f326a680d90"
   },
   "e53c5be6-5c1a-4870-ad85-8397a1f201de": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "Engineering & Product",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2486,17 +2552,18 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/f0d1e869-4874-45af-9bc3-81479d88565b"
   },
   "f1427164-3037-47d1-a768-11cfb87953ae": {
-   "closed_at": "2026-10-23T08:50:35+00:00",
+   "closed_at": null,
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "partnerships private equity @ new york",
    "location": "New York",
-   "posted_at": "2026-10-13T13:09:04+00:00",
+   "posted_at": "2026-10-23T21:13:40+00:00",
    "posted_history": [
-    "2026-10-13T13:09:04+00:00"
+    "2026-10-13T13:09:04+00:00",
+    "2026-10-23T21:13:40+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Partnerships - Private Equity",
    "url": "https://jobs.ashbyhq.com/elevenlabs/f1427164-3037-47d1-a768-11cfb87953ae"
   },
@@ -2561,17 +2628,18 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/f8b19a29-af85-4a5d-87ae-1ba0a1b6dd9b"
   },
   "fef4499d-6191-43ad-b4f4-e646544f510d": {
-   "closed_at": "2026-10-23T08:50:35+00:00",
+   "closed_at": null,
    "department": "Operations",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "gtm recruiter @ new york",
    "location": "New York",
-   "posted_at": "2026-07-31T03:55:30+00:00",
+   "posted_at": "2026-10-23T17:03:19+00:00",
    "posted_history": [
-    "2026-07-31T03:55:30+00:00"
+    "2026-07-31T03:55:30+00:00",
+    "2026-10-23T17:03:19+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "GTM Recruiter",
    "url": "https://jobs.ashbyhq.com/elevenlabs/fef4499d-6191-43ad-b4f4-e646544f510d"
   },

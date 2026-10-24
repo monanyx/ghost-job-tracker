@@ -19,6 +19,10 @@
   {
    "date": "2026-10-23",
    "open": 73
+  },
+  {
+   "date": "2026-10-24",
+   "open": 72
   }
  ],
  "jobs": {
@@ -698,7 +702,7 @@
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8146871"
   },
   "8156058": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -773,7 +777,7 @@
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8172921"
   },
   "8185670": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -788,7 +792,7 @@
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8185670"
   },
   "8185694": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -861,6 +865,21 @@
    "reopened": 0,
    "title": "Senior Financial Crime Investigator  - EU, Spanish & English",
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8207682"
+  },
+  "8212919": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "product manager finance @ london",
+   "location": "London",
+   "posted_at": "2026-10-23T10:32:23+00:00",
+   "posted_history": [
+    "2026-10-23T10:32:23+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Manager, Finance",
+   "url": "https://job-boards.greenhouse.io/monzo/jobs/8212919"
   },
   "8222576": {
    "closed_at": null,
@@ -1043,7 +1062,7 @@
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8264501"
   },
   "8267489": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1192,6 +1211,21 @@
    "title": "Prudential Risk Manager",
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8305679"
   },
+  "8312078": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "senior product manager web growth @ london",
+   "location": "London",
+   "posted_at": "2026-10-23T09:30:03+00:00",
+   "posted_history": [
+    "2026-10-23T09:30:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Manager, Web Growth",
+   "url": "https://job-boards.greenhouse.io/monzo/jobs/8312078"
+  },
   "8312105": {
    "closed_at": null,
    "department": "",
@@ -1221,6 +1255,21 @@
    "reopened": 0,
    "title": "Senior Writer, Borrowing",
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8312224"
+  },
+  "8317753": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "lead product manager growth @ london",
+   "location": "London",
+   "posted_at": "2026-10-23T11:28:17+00:00",
+   "posted_history": [
+    "2026-10-23T11:28:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Lead Product Manager, Growth",
+   "url": "https://job-boards.greenhouse.io/monzo/jobs/8317753"
   }
  }
 }

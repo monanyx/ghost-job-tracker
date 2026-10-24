@@ -19,6 +19,10 @@
   {
    "date": "2026-10-23",
    "open": 99
+  },
+  {
+   "date": "2026-10-24",
+   "open": 101
   }
  ],
  "jobs": {
@@ -518,7 +522,7 @@
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8013480"
   },
   "8022493": {
-   "closed_at": "2026-10-22T08:55:54+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -528,7 +532,7 @@
    "posted_history": [
     "2026-06-23T21:54:56+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Channel Partnerships Manager, Investor Ecosystems (VC & PE)",
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8022493"
   },
@@ -801,6 +805,21 @@
    "reopened": 0,
    "title": "Manager - Developer Productivity, AI Tools",
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8120017"
+  },
+  "8128422": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "senior l d specialist @ atlanta, ga - hybrid; denver, co - hybrid; new york, ny - hybrid; san francisco, ca - hybrid; scottsdale, az - hybrid",
+   "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Scottsdale, AZ - Hybrid",
+   "posted_at": "2026-09-04T23:00:33+00:00",
+   "posted_history": [
+    "2026-09-04T23:00:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior L&D Specialist",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8128422"
   },
   "8142163": {
    "closed_at": null,

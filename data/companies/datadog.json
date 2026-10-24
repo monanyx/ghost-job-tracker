@@ -19,6 +19,10 @@
   {
    "date": "2026-10-23",
    "open": 439
+  },
+  {
+   "date": "2026-10-24",
+   "open": 433
   }
  ],
  "jobs": {
@@ -278,7 +282,7 @@
    "url": "https://careers.datadoghq.com/detail/6185452/?gh_jid=6185452"
   },
   "6307160": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -893,7 +897,7 @@
    "url": "https://careers.datadoghq.com/detail/7134079/?gh_jid=7134079"
   },
   "7137624": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -1617,14 +1621,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior corporate development lead ai @ san francisco, california, usa",
+   "fp": "product strategy and corporate development lead ai @ san francisco, california, usa",
    "location": "San Francisco, California, USA",
    "posted_at": "2026-02-13T18:31:22+00:00",
    "posted_history": [
     "2026-02-13T18:31:22+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Corporate Development Lead, AI",
+   "title": "Product Strategy and Corporate Development Lead, AI",
    "url": "https://careers.datadoghq.com/detail/7555575/?gh_jid=7555575"
   },
   "7558666": {
@@ -2753,7 +2757,7 @@
    "url": "https://careers.datadoghq.com/detail/8035492/?gh_jid=8035492"
   },
   "8041622": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3068,7 +3072,7 @@
    "url": "https://careers.datadoghq.com/detail/8082391/?gh_jid=8082391"
   },
   "8083862": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3353,7 +3357,7 @@
    "url": "https://careers.datadoghq.com/detail/8098939/?gh_jid=8098939"
   },
   "8099069": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3428,7 +3432,7 @@
    "url": "https://careers.datadoghq.com/detail/8103045/?gh_jid=8103045"
   },
   "8105684": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4043,7 +4047,7 @@
    "url": "https://careers.datadoghq.com/detail/8142217/?gh_jid=8142217"
   },
   "8143729": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4088,7 +4092,7 @@
    "url": "https://careers.datadoghq.com/detail/8144018/?gh_jid=8144018"
   },
   "8144628": {
-   "closed_at": "2026-10-22T08:55:54+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4098,7 +4102,7 @@
    "posted_history": [
     "2026-08-21T14:46:26+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Sales Engineer - FED",
    "url": "https://careers.datadoghq.com/detail/8144628/?gh_jid=8144628"
   },
@@ -4598,7 +4602,7 @@
    "url": "https://careers.datadoghq.com/detail/8179647/?gh_jid=8179647"
   },
   "8179766": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4823,7 +4827,7 @@
    "url": "https://careers.datadoghq.com/detail/8196248/?gh_jid=8196248"
   },
   "8196718": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6697,6 +6701,21 @@
    "title": "Associate Customer Success Manager - Boston",
    "url": "https://careers.datadoghq.com/detail/8301102/?gh_jid=8301102"
   },
+  "8301113": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "associate customer success manager denver @ denver, colorado, usa",
+   "location": "Denver, Colorado, USA",
+   "posted_at": "2026-10-23T14:21:44+00:00",
+   "posted_history": [
+    "2026-10-23T14:21:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Associate Customer Success Manager - Denver",
+   "url": "https://careers.datadoghq.com/detail/8301113/?gh_jid=8301113"
+  },
   "8303221": {
    "closed_at": null,
    "department": "",
@@ -6777,8 +6796,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
-   "fp": "senior software engineer distributed systems @ paris, france",
-   "location": "Paris, France",
+   "fp": "senior software engineer distributed systems @ bordeaux, france; grenoble, france; lyon, france; madrid, spain; montpellier, france; nantes, france; paris, france; sophia antipolis, france",
+   "location": "Bordeaux, France; Grenoble, France; Lyon, France; Madrid, Spain; Montpellier, France; Nantes, France; Paris, France; Sophia Antipolis, France",
    "posted_at": "2026-10-21T13:03:21+00:00",
    "posted_history": [
     "2026-10-21T13:03:21+00:00"
@@ -6846,6 +6865,21 @@
    "reopened": 0,
    "title": "Group Product Manager - Code Security",
    "url": "https://careers.datadoghq.com/detail/8314006/?gh_jid=8314006"
+  },
+  "8317738": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "senior software engineer analytics data platform @ paris, france",
+   "location": "Paris, France",
+   "posted_at": "2026-10-23T11:14:53+00:00",
+   "posted_history": [
+    "2026-10-23T11:14:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer - Analytics Data Platform",
+   "url": "https://careers.datadoghq.com/detail/8317738/?gh_jid=8317738"
   }
  }
 }

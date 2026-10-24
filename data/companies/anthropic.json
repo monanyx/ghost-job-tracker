@@ -19,6 +19,10 @@
   {
    "date": "2026-10-23",
    "open": 683
+  },
+  {
+   "date": "2026-10-24",
+   "open": 681
   }
  ],
  "jobs": {
@@ -282,14 +286,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "tpu kernel engineer @ san francisco, ca | new york city, ny | seattle, wa",
+   "fp": "tpu performance engineer @ san francisco, ca | new york city, ny | seattle, wa",
    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
    "posted_at": "2025-05-22T20:19:35+00:00",
    "posted_history": [
     "2025-05-22T20:19:35+00:00"
    ],
    "reopened": 0,
-   "title": "TPU Kernel Engineer",
+   "title": "TPU Performance Engineer",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4720576008"
   },
   "4741104008": {
@@ -1058,7 +1062,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5076109008"
   },
   "5076754008": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1567,6 +1571,21 @@
    "title": "Strategic Account Executive, Tech",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5126008008"
   },
+  "5128936008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "senior data center capacity delivery manager @ san francisco, ca | new york city, ny",
+   "location": "San Francisco, CA | New York City, NY",
+   "posted_at": "2026-02-24T23:39:07+00:00",
+   "posted_history": [
+    "2026-02-24T23:39:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Data Center Capacity Delivery Manager",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5128936008"
+  },
   "5133331008": {
    "closed_at": null,
    "department": "",
@@ -2003,7 +2022,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5184585008"
   },
   "5186067008": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2498,7 +2517,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5227904008"
   },
   "5228098008": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3653,7 +3672,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5357739008"
   },
   "5357746008": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3773,7 +3792,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5357961008"
   },
   "5358088008": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3818,7 +3837,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358098008"
   },
   "5358104008": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3833,7 +3852,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358104008"
   },
   "5358106008": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3848,7 +3867,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358106008"
   },
   "5358108008": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5183,7 +5202,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390984008"
   },
   "5390992008": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5813,7 +5832,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5393526008"
   },
   "5393720008": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6882,14 +6901,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "head of security controls assurance sox @ san francisco, ca | seattle, wa | new york city, ny | washington, dc",
+   "fp": "lead security controls assurance sox @ san francisco, ca | seattle, wa | new york city, ny | washington, dc",
    "location": "San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC",
    "posted_at": "2026-09-08T23:45:03+00:00",
    "posted_history": [
     "2026-09-08T23:45:03+00:00"
    ],
    "reopened": 0,
-   "title": "Head of Security Controls Assurance - SOX",
+   "title": "Lead - Security Controls Assurance - SOX",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5415864008"
   },
   "5415930008": {
@@ -7056,6 +7075,21 @@
    "reopened": 0,
    "title": "External Affairs, South Korea",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5417967008"
+  },
+  "5418014008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "strategic deals lead compute infrastructure @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-10-23T16:47:44+00:00",
+   "posted_history": [
+    "2026-10-23T16:47:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Deals Lead, Compute & Infrastructure",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5418014008"
   },
   "5418323008": {
    "closed_at": "2026-10-23T08:50:35+00:00",
@@ -7568,7 +7602,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5426135008"
   },
   "5426602008": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -9057,14 +9091,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
-   "fp": "finance strategy compute network @ san francisco, ca",
+   "fp": "finance strategy compute networks @ san francisco, ca",
    "location": "San Francisco, CA",
    "posted_at": "2026-10-20T20:13:44+00:00",
    "posted_history": [
     "2026-10-20T20:13:44+00:00"
    ],
    "reopened": 0,
-   "title": "Finance & Strategy, Compute Network",
+   "title": "Finance & Strategy Compute, Networks",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5443875008"
   },
   "5443882008": {
@@ -9413,7 +9447,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5446581008"
   },
   "5446607008": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -9561,6 +9595,21 @@
    "reopened": 0,
    "title": "Head of Digital Natives & Startups, ANZ",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5448360008"
+  },
+  "5448366008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "enterprise account executive manufacturing industries taiwan @ singapore",
+   "location": "Singapore",
+   "posted_at": "2026-10-24T05:45:33+00:00",
+   "posted_history": [
+    "2026-10-24T05:45:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Account Executive - Manufacturing Industries, Taiwan",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5448366008"
   },
   "5448481008": {
    "closed_at": null,
@@ -10017,14 +10066,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
-   "fp": "enterprise account executive professional services @ london, uk",
+   "fp": "enterprise account executive consulting and agency groups @ london, uk",
    "location": "London, UK",
    "posted_at": "2026-10-21T08:57:05+00:00",
    "posted_history": [
     "2026-10-21T08:57:05+00:00"
    ],
    "reopened": 0,
-   "title": "Enterprise Account Executive, Professional Services",
+   "title": "Enterprise Account Executive, Consulting and Agency Groups",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5454188008"
   },
   "5454315008": {
@@ -10657,6 +10706,36 @@
    "title": "Regional Research Economist, Economic Research",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5460521008"
   },
+  "5460837008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "international finance program management @ dublin, ie",
+   "location": "Dublin, IE",
+   "posted_at": "2026-10-23T10:48:50+00:00",
+   "posted_history": [
+    "2026-10-23T10:48:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "International Finance Program Management",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5460837008"
+  },
+  "5460956008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "business recruiter @ london, uk",
+   "location": "London, UK",
+   "posted_at": "2026-10-23T13:32:09+00:00",
+   "posted_history": [
+    "2026-10-23T13:32:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Business Recruiter",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5460956008"
+  },
   "5461534008": {
    "closed_at": null,
    "department": "",
@@ -10686,6 +10765,81 @@
    "reopened": 0,
    "title": "Enterprise Account Executive, Federal Civilian Sales - Federal Financials",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5461663008"
+  },
+  "5461873008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "applied ai security architect healthcare life sciences @ new york city, ny; san francisco, ca | new york city, ny",
+   "location": "New York City, NY; San Francisco, CA | New York City, NY",
+   "posted_at": "2026-10-23T14:31:11+00:00",
+   "posted_history": [
+    "2026-10-23T14:31:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Applied AI Security Architect - Healthcare & Life Sciences",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5461873008"
+  },
+  "5462557008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "communications manager claude platform @ san francisco, ca | new york city, ny | seattle, wa",
+   "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+   "posted_at": "2026-10-23T23:43:42+00:00",
+   "posted_history": [
+    "2026-10-23T23:43:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Communications Manager, Claude Platform",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5462557008"
+  },
+  "5462718008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "data center facility operations lead commissioning delivery @ remote-friendly, united states",
+   "location": "Remote-Friendly, United States",
+   "posted_at": "2026-10-23T20:00:01+00:00",
+   "posted_history": [
+    "2026-10-23T20:00:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "Data Center Facility Operations Lead - Commissioning & Delivery",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5462718008"
+  },
+  "5462761008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "product counsel @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-10-24T05:00:42+00:00",
+   "posted_history": [
+    "2026-10-24T05:00:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Counsel",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5462761008"
+  },
+  "5462881008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "incident manager safeguards @ san francisco, ca | new york city, ny | washington, dc",
+   "location": "San Francisco, CA | New York City, NY | Washington, DC",
+   "posted_at": "2026-10-24T04:26:19+00:00",
+   "posted_history": [
+    "2026-10-24T04:26:19+00:00"
+   ],
+   "reopened": 0,
+   "title": "Incident Manager, Safeguards",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5462881008"
   }
  }
 }

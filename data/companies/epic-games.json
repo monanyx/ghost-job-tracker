@@ -19,6 +19,10 @@
   {
    "date": "2026-10-23",
    "open": 149
+  },
+  {
+   "date": "2026-10-24",
+   "open": 151
   }
  ],
  "jobs": {
@@ -712,6 +716,36 @@
    "title": "Senior Producer, Art",
    "url": "https://epicgames.com/careers/jobs/6122085004?gh_jid=6122085004"
   },
+  "6122975004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "principal engineer ai platform @ cary,north carolina,united states",
+   "location": "Cary,North Carolina,United States",
+   "posted_at": "2026-10-23T17:50:00+00:00",
+   "posted_history": [
+    "2026-10-23T17:50:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Engineer, AI Platform",
+   "url": "https://epicgames.com/careers/jobs/6122975004?gh_jid=6122975004"
+  },
+  "6122977004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "principal engineer ai platform @ blank,blank,multiple locations",
+   "location": "BLANK,BLANK,Multiple Locations",
+   "posted_at": "2026-10-23T17:50:02+00:00",
+   "posted_history": [
+    "2026-10-23T17:50:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Engineer, AI Platform",
+   "url": "https://epicgames.com/careers/jobs/6122977004?gh_jid=6122977004"
+  },
   "6122983004": {
    "closed_at": null,
    "department": "",
@@ -1058,7 +1092,7 @@
    "url": "https://epicgames.com/careers/jobs/6147154004?gh_jid=6147154004"
   },
   "6147156004": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1313,7 +1347,7 @@
    "url": "https://epicgames.com/careers/jobs/6181223004?gh_jid=6181223004"
   },
   "6183293004": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2286,6 +2320,36 @@
    "reopened": 0,
    "title": "Senior Data Scientist, Transparency & Regulatory",
    "url": "https://epicgames.com/careers/jobs/6231468004?gh_jid=6231468004"
+  },
+  "6232770004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "tools programmer intern @ cary,north carolina,united states",
+   "location": "Cary,North Carolina,United States",
+   "posted_at": "2026-10-23T18:40:20+00:00",
+   "posted_history": [
+    "2026-10-23T18:40:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Tools Programmer Intern (Graphics)",
+   "url": "https://epicgames.com/careers/jobs/6232770004?gh_jid=6232770004"
+  },
+  "6233504004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "executive assistant @ montreal,quebec,canada",
+   "location": "Montreal,Quebec,Canada",
+   "posted_at": "2026-10-23T17:25:52+00:00",
+   "posted_history": [
+    "2026-10-23T17:25:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "Executive Assistant",
+   "url": "https://epicgames.com/careers/jobs/6233504004?gh_jid=6233504004"
   }
  }
 }

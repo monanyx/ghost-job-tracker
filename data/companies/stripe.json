@@ -19,6 +19,10 @@
   {
    "date": "2026-10-23",
    "open": 726
+  },
+  {
+   "date": "2026-10-24",
+   "open": 720
   }
  ],
  "jobs": {
@@ -792,14 +796,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "software engineer internal systems @ bengaluru, india",
+   "fp": "software engineer financial business insights @ bengaluru, india",
    "location": "Bengaluru, India",
    "posted_at": "2026-01-28T03:58:55+00:00",
    "posted_history": [
     "2026-01-28T03:58:55+00:00"
    ],
    "reopened": 0,
-   "title": "Software Engineer, Internal Systems",
+   "title": "Software Engineer, Financial Business Insights",
    "url": "https://stripe.com/jobs/search?gh_jid=7543868"
   },
   "7544547": {
@@ -1163,7 +1167,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=7703750"
   },
   "7712852": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1253,7 +1257,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=7737248"
   },
   "7737526": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1687,6 +1691,36 @@
    "title": "Account Executive, Cross Border China",
    "url": "https://stripe.com/jobs/search?gh_jid=7893199"
   },
+  "7895284": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "full stack software engineer brazil @ sao paulo",
+   "location": "Sao Paulo",
+   "posted_at": "2026-05-26T18:51:39+00:00",
+   "posted_history": [
+    "2026-05-26T18:51:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Full Stack Software Engineer, Brazil",
+   "url": "https://stripe.com/jobs/search?gh_jid=7895284"
+  },
+  "7895287": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "backend engineer payments experiences @ sao paulo",
+   "location": "Sao Paulo",
+   "posted_at": "2026-05-26T18:53:32+00:00",
+   "posted_history": [
+    "2026-05-26T18:53:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Backend Engineer, Payments Experiences",
+   "url": "https://stripe.com/jobs/search?gh_jid=7895287"
+  },
   "7896151": {
    "closed_at": null,
    "department": "",
@@ -1782,14 +1816,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "technical account manager ai user segment @ san francisco, ca",
+   "fp": "technical account manager @ san francisco, ca",
    "location": "San Francisco, CA",
    "posted_at": "2026-05-21T21:08:56+00:00",
    "posted_history": [
     "2026-05-21T21:08:56+00:00"
    ],
    "reopened": 0,
-   "title": "Technical Account Manager, AI User Segment",
+   "title": "Technical Account Manager",
    "url": "https://stripe.com/jobs/search?gh_jid=7918088"
   },
   "7921649": {
@@ -1853,7 +1887,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=7927330"
   },
   "7939868": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3443,7 +3477,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8076966"
   },
   "8077547": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3488,7 +3522,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8078168"
   },
   "8078337": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3533,7 +3567,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8079783"
   },
   "8079858": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4058,7 +4092,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8112448"
   },
   "8112959": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4167,14 +4201,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "account executive startups saas platforms grower @ dublin or london",
-   "location": "Dublin or London",
+   "fp": "account executive startups platforms scaled grower @ dublin",
+   "location": "Dublin",
    "posted_at": "2026-09-09T12:03:50+00:00",
    "posted_history": [
     "2026-09-09T12:03:50+00:00"
    ],
    "reopened": 0,
-   "title": "Account Executive, Startups SaaS Platforms Grower",
+   "title": "Account Executive, Startups Platforms Scaled Grower (French fluency)",
    "url": "https://stripe.com/jobs/search?gh_jid=8119498"
   },
   "8119697": {
@@ -4568,7 +4602,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8129956"
   },
   "8129958": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4808,7 +4842,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8131339"
   },
   "8137972": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4988,7 +5022,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8142304"
   },
   "8142649": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5108,7 +5142,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8144185"
   },
   "8144196": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7163,7 +7197,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8187566"
   },
   "8187572": {
-   "closed_at": null,
+   "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -8061,6 +8095,21 @@
    "reopened": 0,
    "title": "Account Executive, DACH, Commercial (Existing Business)",
    "url": "https://stripe.com/jobs/search?gh_jid=8201690"
+  },
+  "8201702": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "staff brand designer creative lab @ us",
+   "location": "US",
+   "posted_at": "2026-10-23T18:35:12+00:00",
+   "posted_history": [
+    "2026-10-23T18:35:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Brand Designer, Creative Lab",
+   "url": "https://stripe.com/jobs/search?gh_jid=8201702"
   },
   "8202299": {
    "closed_at": null,
@@ -9892,6 +9941,21 @@
    "title": "Account Executive - Platforms Hunter (French Fluency)",
    "url": "https://stripe.com/jobs/search?gh_jid=8241292"
   },
+  "8241294": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "account executive saas platforms grower @ dublin",
+   "location": "Dublin",
+   "posted_at": "2026-10-23T16:25:41+00:00",
+   "posted_history": [
+    "2026-10-23T16:25:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, SaaS Platforms Grower",
+   "url": "https://stripe.com/jobs/search?gh_jid=8241294"
+  },
   "8241304": {
    "closed_at": null,
    "department": "",
@@ -11167,6 +11231,36 @@
    "title": "Technical Program Manager, Extensibility Platform",
    "url": "https://stripe.com/jobs/search?gh_jid=8282859"
   },
+  "8284962": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "account executive enterprise french speaking @ paris",
+   "location": "Paris",
+   "posted_at": "2026-10-23T15:52:26+00:00",
+   "posted_history": [
+    "2026-10-23T15:52:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive - Enterprise (Grower) - French Speaking",
+   "url": "https://stripe.com/jobs/search?gh_jid=8284962"
+  },
+  "8284965": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-24T08:24:32+00:00",
+   "fp": "account executive platforms spanish speaking @ madrid, barcelona",
+   "location": "Madrid, Barcelona",
+   "posted_at": "2026-10-23T17:53:13+00:00",
+   "posted_history": [
+    "2026-10-23T17:53:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive - Platforms (LFC) - Spanish Speaking",
+   "url": "https://stripe.com/jobs/search?gh_jid=8284965"
+  },
   "8284968": {
    "closed_at": null,
    "department": "",
@@ -11232,14 +11326,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "account executive smb commercial grower @ dublin",
+   "fp": "account executive smb existing business @ dublin",
    "location": "Dublin",
    "posted_at": "2026-10-16T11:40:01+00:00",
    "posted_history": [
     "2026-10-16T11:40:01+00:00"
    ],
    "reopened": 0,
-   "title": "Account Executive, SMB Commercial, Grower",
+   "title": "Account Executive, SMB - Existing Business",
    "url": "https://stripe.com/jobs/search?gh_jid=8286655"
   },
   "8286680": {
