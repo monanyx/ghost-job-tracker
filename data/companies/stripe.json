@@ -23,6 +23,10 @@
   {
    "date": "2026-10-24",
    "open": 720
+  },
+  {
+   "date": "2026-10-25",
+   "open": 719
   }
  ],
  "jobs": {
@@ -1291,8 +1295,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "forward deployed ai accelerator marketing @ seattle, san francisco, new york",
-   "location": "Seattle, San Francisco, New York",
+   "fp": "forward deployed ai accelerator marketing @ seattle, san francisco, new york, chicago, atlanta, remote in the us, canada",
+   "location": "Seattle, San Francisco, New York, Chicago, Atlanta, Remote in the US, Canada",
    "posted_at": "2026-03-26T14:40:17+00:00",
    "posted_history": [
     "2026-03-26T14:40:17+00:00"
@@ -3166,8 +3170,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "forward deployed ai accelerator marketing @ remote in the us, remote in canada",
-   "location": "Remote in the US, Remote in Canada",
+   "fp": "forward deployed ai accelerator marketing @ seattle, san francisco, new york, chicago, atlanta, remote in the us, canada",
+   "location": "Seattle, San Francisco, New York, Chicago, Atlanta, Remote in the US, Canada",
    "posted_at": "2026-07-13T23:29:13+00:00",
    "posted_history": [
     "2026-07-13T23:29:13+00:00"
@@ -9267,7 +9271,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8229361"
   },
   "8230274": {
-   "closed_at": null,
+   "closed_at": "2026-10-25T08:43:53+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

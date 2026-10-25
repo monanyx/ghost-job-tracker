@@ -23,6 +23,10 @@
   {
    "date": "2026-10-24",
    "open": 3000
+  },
+  {
+   "date": "2026-10-25",
+   "open": 3000
   }
  ],
  "jobs": {
@@ -2697,7 +2701,7 @@
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000144032569"
   },
   "744000144044228": {
-   "closed_at": "2026-10-24T08:24:32+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2707,7 +2711,7 @@
    "posted_history": [
     "2026-08-18T11:24:17+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "IT Services Sales (Enterprise Accounts) - North region",
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000144044228"
   },
@@ -9687,7 +9691,7 @@
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000147835958"
   },
   "744000147837181": {
-   "closed_at": null,
+   "closed_at": "2026-10-25T08:43:53+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -15042,7 +15046,7 @@
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000149789077"
   },
   "744000149790449": {
-   "closed_at": null,
+   "closed_at": "2026-10-25T08:43:53+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -22542,7 +22546,7 @@
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000151995489"
   },
   "744000152043549": {
-   "closed_at": null,
+   "closed_at": "2026-10-25T08:43:53+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -22662,7 +22666,7 @@
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152068130"
   },
   "744000152068439": {
-   "closed_at": null,
+   "closed_at": "2026-10-25T08:43:53+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -42147,7 +42151,7 @@
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155814677"
   },
   "744000155814870": {
-   "closed_at": null,
+   "closed_at": "2026-10-25T08:43:53+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -49722,7 +49726,7 @@
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157039429"
   },
   "744000157039819": {
-   "closed_at": null,
+   "closed_at": "2026-10-25T08:43:53+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -52330,6 +52334,81 @@
    "reopened": 0,
    "title": "Promotor/a Vendedor/a de Calentadores en Tiendas Departamentales",
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157589077"
+  },
+  "744000157626833": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-25T08:43:53+00:00",
+   "fp": "aprendiz administrativo @ joinville, sc, brazil",
+   "location": "Joinville, SC, Brazil",
+   "posted_at": "2026-10-24T17:43:21+00:00",
+   "posted_history": [
+    "2026-10-24T17:43:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "APRENDIZ ADMINISTRATIVO (36275-36286)",
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157626833"
+  },
+  "744000157627449": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-25T08:43:53+00:00",
+   "fp": "in rbic testing specialist in @ kurli, mh, india",
+   "location": "Kurli, MH, India",
+   "posted_at": "2026-10-24T18:13:11+00:00",
+   "posted_history": [
+    "2026-10-24T18:13:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "IN_RBIC_Testing specialist_IN",
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157627449"
+  },
+  "744000157665099": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-25T08:43:53+00:00",
+   "fp": "thermal management design engineer @ shanghai, , china",
+   "location": "Shanghai, , China",
+   "posted_at": "2026-10-25T05:37:56+00:00",
+   "posted_history": [
+    "2026-10-25T05:37:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Thermal Management Design Engineer(Process & Manufacturing )",
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157665099"
+  },
+  "744000157665139": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-25T08:43:53+00:00",
+   "fp": "mechanical design engineer em @ changsha, china, china",
+   "location": "Changsha, CHINA, China",
+   "posted_at": "2026-10-25T05:43:36+00:00",
+   "posted_history": [
+    "2026-10-25T05:43:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "电机机械设计工程师Mechanical Design Engineer_EM",
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157665139"
+  },
+  "744000157665219": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-25T08:43:53+00:00",
+   "fp": "em @ changsha, , china",
+   "location": "Changsha, , China",
+   "posted_at": "2026-10-25T05:50:09+00:00",
+   "posted_history": [
+    "2026-10-25T05:50:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "资深电机机械设计工程师（标准设计平台）_EM",
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157665219"
   }
  }
 }

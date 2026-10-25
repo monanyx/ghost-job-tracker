@@ -23,6 +23,10 @@
   {
    "date": "2026-10-24",
    "open": 131
+  },
+  {
+   "date": "2026-10-25",
+   "open": 132
   }
  ],
  "jobs": {
@@ -310,6 +314,21 @@
    "reopened": 0,
    "title": "Engineering Manager (API Platform)",
    "url": "https://jobs.ashbyhq.com/perplexity/29625b7a-5470-463b-8446-21fac84e80b9"
+  },
+  "2a5aa5f6-596b-45c3-84db-ac0b96363f93": {
+   "closed_at": null,
+   "department": "AI Research & Systems",
+   "evergreen": false,
+   "first_seen": "2026-10-25T08:43:53+00:00",
+   "fp": "member of technical staff @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-10-24T14:37:33+00:00",
+   "posted_history": [
+    "2026-10-24T14:37:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff (Software Engineer, Training Infrastructure)",
+   "url": "https://jobs.ashbyhq.com/perplexity/2a5aa5f6-596b-45c3-84db-ac0b96363f93"
   },
   "2be717cb-ad3e-4052-a464-79b107a70406": {
    "closed_at": null,
@@ -1482,7 +1501,7 @@
    "url": "https://jobs.ashbyhq.com/perplexity/a14c4626-ed07-4151-a923-3a710fb66de2"
   },
   "a172ada5-1a6e-4646-8e0d-26747422af24": {
-   "closed_at": null,
+   "closed_at": "2026-10-25T08:43:53+00:00",
    "department": "AI Research & Systems",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1705,6 +1724,21 @@
    "reopened": 0,
    "title": "Engineering Site Lead",
    "url": "https://jobs.ashbyhq.com/perplexity/c6c857f3-c0db-4d93-aeed-638b9f9d4eb6"
+  },
+  "cc22684f-b419-4ab8-8aa0-b4a393d3beb9": {
+   "closed_at": null,
+   "department": "AI Research & Systems",
+   "evergreen": false,
+   "first_seen": "2026-10-25T08:43:53+00:00",
+   "fp": "member of technical staff @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-10-24T14:25:24+00:00",
+   "posted_history": [
+    "2026-10-24T14:25:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff (AI Software Engineer, Agents)",
+   "url": "https://jobs.ashbyhq.com/perplexity/cc22684f-b419-4ab8-8aa0-b4a393d3beb9"
   },
   "cf99602c-3f06-4443-bc8a-e03d0a67ad4c": {
    "closed_at": "2026-10-24T08:24:32+00:00",

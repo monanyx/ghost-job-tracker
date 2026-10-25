@@ -23,6 +23,10 @@
   {
    "date": "2026-10-24",
    "open": 681
+  },
+  {
+   "date": "2026-10-25",
+   "open": 682
   }
  ],
  "jobs": {
@@ -10831,8 +10835,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
-   "fp": "incident manager safeguards @ san francisco, ca | new york city, ny | washington, dc",
-   "location": "San Francisco, CA | New York City, NY | Washington, DC",
+   "fp": "incident manager safeguards @ boston, ma; san francisco, ca | seattle, wa | new york city, ny | washington, dc",
+   "location": "Boston, MA; San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC",
    "posted_at": "2026-10-24T04:26:19+00:00",
    "posted_history": [
     "2026-10-24T04:26:19+00:00"
@@ -10840,6 +10844,21 @@
    "reopened": 0,
    "title": "Incident Manager, Safeguards",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5462881008"
+  },
+  "5462893008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-25T08:43:53+00:00",
+   "fp": "enforcement analyst agentic alignment @ boston, ma; san francisco, ca | seattle, wa | new york city, ny | washington, dc",
+   "location": "Boston, MA; San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC",
+   "posted_at": "2026-10-25T02:29:23+00:00",
+   "posted_history": [
+    "2026-10-25T02:29:23+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enforcement Analyst, Agentic Alignment",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5462893008"
   }
  }
 }

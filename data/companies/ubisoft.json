@@ -23,6 +23,10 @@
   {
    "date": "2026-10-24",
    "open": 342
+  },
+  {
+   "date": "2026-10-25",
+   "open": 342
   }
  ],
  "jobs": {
@@ -4752,7 +4756,7 @@
    "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000156028462"
   },
   "744000156033108": {
-   "closed_at": null,
+   "closed_at": "2026-10-25T08:43:53+00:00",
    "department": "Ubisoft",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4767,7 +4771,7 @@
    "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000156033108"
   },
   "744000156033178": {
-   "closed_at": null,
+   "closed_at": "2026-10-25T08:43:53+00:00",
    "department": "Ubisoft",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5605,6 +5609,36 @@
    "reopened": 0,
    "title": "Développeuse, développeur Web",
    "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000157563799"
+  },
+  "744000157619529": {
+   "closed_at": null,
+   "department": "Ubisoft",
+   "evergreen": false,
+   "first_seen": "2026-10-25T08:43:53+00:00",
+   "fp": "conseiller re en acquisition de talents et mobilit interne @ montreal, qc, canada",
+   "location": "Montreal, QC, Canada",
+   "posted_at": "2026-10-24T09:57:46+00:00",
+   "posted_history": [
+    "2026-10-24T09:57:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "Conseiller·ère en acquisition de talents et mobilité interne",
+   "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000157619529"
+  },
+  "744000157619569": {
+   "closed_at": null,
+   "department": "Ubisoft",
+   "evergreen": false,
+   "first_seen": "2026-10-25T08:43:53+00:00",
+   "fp": "conseiller re en acquisition de talents et mobilit interne @ quebec city, qc, canada",
+   "location": "Quebec City, QC, Canada",
+   "posted_at": "2026-10-24T09:58:15+00:00",
+   "posted_history": [
+    "2026-10-24T09:58:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Conseiller·ère en acquisition de talents et mobilité interne",
+   "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000157619569"
   }
  }
 }

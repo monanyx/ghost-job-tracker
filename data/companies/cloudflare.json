@@ -23,6 +23,10 @@
   {
    "date": "2026-10-24",
    "open": 453
+  },
+  {
+   "date": "2026-10-25",
+   "open": 454
   }
  ],
  "jobs": {
@@ -70,6 +74,21 @@
    "reopened": 0,
    "title": "Business Development Representative (BDR)",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/6557318?gh_jid=6557318"
+  },
+  "6578726": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-25T08:43:53+00:00",
+   "fp": "senior software engineer workers runtime @ in-office",
+   "location": "In-Office",
+   "posted_at": "2025-01-31T13:46:42+00:00",
+   "posted_history": [
+    "2025-01-31T13:46:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Workers Runtime",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/6578726?gh_jid=6578726"
   },
   "6629769": {
    "closed_at": null,

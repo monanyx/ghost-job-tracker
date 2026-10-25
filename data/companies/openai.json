@@ -23,6 +23,10 @@
   {
    "date": "2026-10-24",
    "open": 796
+  },
+  {
+   "date": "2026-10-25",
+   "open": 794
   }
  ],
  "jobs": {
@@ -7741,7 +7745,7 @@
    "url": "https://jobs.ashbyhq.com/openai/98064a4f-5c20-4a68-8197-555f7e21d088"
   },
   "987c4eb8-819e-4258-a91c-f34ecfbcd5f1": {
-   "closed_at": null,
+   "closed_at": "2026-10-25T08:43:53+00:00",
    "department": "Scaling",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -12888,7 +12892,7 @@
    "url": "https://jobs.ashbyhq.com/openai/fecac6f9-2b94-454e-95ef-80d9b7abeb5a"
   },
   "ff316e82-c88a-4c94-91e1-2ccea6de129e": {
-   "closed_at": null,
+   "closed_at": "2026-10-25T08:43:53+00:00",
    "department": "Scaling",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
