@@ -27,6 +27,10 @@
   {
    "date": "2026-10-25",
    "open": 454
+  },
+  {
+   "date": "2026-10-26",
+   "open": 455
   }
  ],
  "jobs": {
@@ -179,6 +183,21 @@
    "reopened": 0,
    "title": "Senior Systems Engineer, Basin Pipelines",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/7093840?gh_jid=7093840"
+  },
+  "7167659": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-26T09:22:13+00:00",
+   "fp": "business development representative bahasa indonesia speaking @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2025-08-18T01:32:53+00:00",
+   "posted_history": [
+    "2025-08-18T01:32:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "Business Development Representative - Bahasa Indonesia Speaking",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/7167659?gh_jid=7167659"
   },
   "7241874": {
    "closed_at": null,
@@ -1306,7 +1325,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/7997341?gh_jid=7997341"
   },
   "8012884": {
-   "closed_at": null,
+   "closed_at": "2026-10-26T09:22:13+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7064,6 +7083,21 @@
    "reopened": 0,
    "title": "Senior Manager, Customer Engineering - Central Eastern Europe",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8312693?gh_jid=8312693"
+  },
+  "8317751": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-26T09:22:13+00:00",
+   "fp": "customer reliability engineer @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-10-26T02:04:41+00:00",
+   "posted_history": [
+    "2026-10-26T02:04:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Reliability Engineer",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8317751?gh_jid=8317751"
   }
  }
 }

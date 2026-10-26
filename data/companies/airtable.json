@@ -27,6 +27,10 @@
   {
    "date": "2026-10-25",
    "open": 4
+  },
+  {
+   "date": "2026-10-26",
+   "open": 6
   }
  ],
  "jobs": {
@@ -89,6 +93,36 @@
    "reopened": 0,
    "title": "Business Development Representative",
    "url": "https://job-boards.greenhouse.io/airtable/jobs/8425211002"
+  },
+  "8916370002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-26T09:22:13+00:00",
+   "fp": "business development representative @ london, united kingdom",
+   "location": "London, United Kingdom ",
+   "posted_at": "2026-10-26T07:57:53+00:00",
+   "posted_history": [
+    "2026-10-26T07:57:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "Business Development Representative (German speaking)",
+   "url": "https://job-boards.greenhouse.io/airtable/jobs/8916370002"
+  },
+  "8916372002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-26T09:22:13+00:00",
+   "fp": "business development representative @ london, united kingdom",
+   "location": "London, United Kingdom ",
+   "posted_at": "2026-10-26T07:58:45+00:00",
+   "posted_history": [
+    "2026-10-26T07:58:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Business Development Representative (French speaking)",
+   "url": "https://job-boards.greenhouse.io/airtable/jobs/8916372002"
   }
  }
 }

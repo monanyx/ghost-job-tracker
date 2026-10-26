@@ -27,6 +27,10 @@
   {
    "date": "2026-10-25",
    "open": 138
+  },
+  {
+   "date": "2026-10-26",
+   "open": 138
   }
  ],
  "jobs": {
@@ -2281,7 +2285,7 @@
    "url": "https://boards.greenhouse.io/figma/jobs/6229275004?gh_jid=6229275004"
   },
   "6230562004": {
-   "closed_at": null,
+   "closed_at": "2026-10-26T09:22:13+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
@@ -2309,6 +2313,21 @@
    "reopened": 0,
    "title": "Account Executive, Federal - State & Local",
    "url": "https://boards.greenhouse.io/figma/jobs/6230952004?gh_jid=6230952004"
+  },
+  "6233207004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-26T09:22:13+00:00",
+   "fp": "technical quality specialist figma weave @ singapore",
+   "location": "Singapore",
+   "posted_at": "2026-10-25T21:43:33+00:00",
+   "posted_history": [
+    "2026-10-25T21:43:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Quality Specialist - Figma Weave (Singapore)",
+   "url": "https://boards.greenhouse.io/figma/jobs/6233207004?gh_jid=6233207004"
   }
  }
 }

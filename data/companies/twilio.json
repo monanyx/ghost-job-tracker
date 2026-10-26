@@ -27,6 +27,10 @@
   {
    "date": "2026-10-25",
    "open": 134
+  },
+  {
+   "date": "2026-10-26",
+   "open": 134
   }
  ],
  "jobs": {
@@ -674,6 +678,21 @@
    "reopened": 0,
    "title": "Principal Software Engineer",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8081530"
+  },
+  "8093320": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-26T09:22:13+00:00",
+   "fp": "senior director developer relations @ remote - us",
+   "location": "Remote - US",
+   "posted_at": "2026-10-26T02:52:54+00:00",
+   "posted_history": [
+    "2026-10-26T02:52:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Director, Developer Relations",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8093320"
   },
   "8096642": {
    "closed_at": null,
@@ -1951,7 +1970,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8261705"
   },
   "8261708": {
-   "closed_at": null,
+   "closed_at": "2026-10-26T09:22:13+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",

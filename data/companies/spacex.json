@@ -27,6 +27,10 @@
   {
    "date": "2026-10-25",
    "open": 2821
+  },
+  {
+   "date": "2026-10-26",
+   "open": 2811
   }
  ],
  "jobs": {
@@ -136,7 +140,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8413697002?gh_jid=8413697002"
   },
   "8426061002": {
-   "closed_at": null,
+   "closed_at": "2026-10-26T09:22:13+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
@@ -1036,7 +1040,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8473726002?gh_jid=8473726002"
   },
   "8474671002": {
-   "closed_at": null,
+   "closed_at": "2026-10-26T09:22:13+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
@@ -1921,7 +1925,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8498761002?gh_jid=8498761002"
   },
   "8498812002": {
-   "closed_at": null,
+   "closed_at": "2026-10-26T09:22:13+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -16546,7 +16550,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8643431002?gh_jid=8643431002"
   },
   "8643473002": {
-   "closed_at": null,
+   "closed_at": "2026-10-26T09:22:13+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -18316,7 +18320,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8654421002?gh_jid=8654421002"
   },
   "8654443002": {
-   "closed_at": null,
+   "closed_at": "2026-10-26T09:22:13+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -19111,7 +19115,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8659936002?gh_jid=8659936002"
   },
   "8660037002": {
-   "closed_at": null,
+   "closed_at": "2026-10-26T09:22:13+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -21916,7 +21920,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8693664002?gh_jid=8693664002"
   },
   "8693932002": {
-   "closed_at": null,
+   "closed_at": "2026-10-26T09:22:13+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -27571,7 +27575,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8748880002?gh_jid=8748880002"
   },
   "8748882002": {
-   "closed_at": null,
+   "closed_at": "2026-10-26T09:22:13+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -28306,7 +28310,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8757406002?gh_jid=8757406002"
   },
   "8757865002": {
-   "closed_at": null,
+   "closed_at": "2026-10-26T09:22:13+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -28471,7 +28475,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8758599002?gh_jid=8758599002"
   },
   "8758622002": {
-   "closed_at": null,
+   "closed_at": "2026-10-26T09:22:13+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -28606,7 +28610,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8761271002?gh_jid=8761271002"
   },
   "8761360002": {
-   "closed_at": null,
+   "closed_at": "2026-10-26T09:22:13+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -32506,7 +32510,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8811665002?gh_jid=8811665002"
   },
   "8811852002": {
-   "closed_at": null,
+   "closed_at": "2026-10-26T09:22:13+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -32849,6 +32853,21 @@
    "reopened": 0,
    "title": "Welder (Starship Launch Hardware) - Night Shift",
    "url": "https://boards.greenhouse.io/spacex/jobs/8815174002?gh_jid=8815174002"
+  },
+  "8815217002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-26T09:22:13+00:00",
+   "fp": "materials r d specialist @ bastrop, tx",
+   "location": "Bastrop, TX",
+   "posted_at": "2026-10-25T21:05:40+00:00",
+   "posted_history": [
+    "2026-10-25T21:05:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Materials R&D Specialist",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8815217002?gh_jid=8815217002"
   },
   "8815286002": {
    "closed_at": null,
@@ -34531,7 +34550,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8829684002?gh_jid=8829684002"
   },
   "8829698002": {
-   "closed_at": null,
+   "closed_at": "2026-10-26T09:22:13+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -37126,7 +37145,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8858869002?gh_jid=8858869002"
   },
   "8859065002": {
-   "closed_at": null,
+   "closed_at": "2026-10-26T09:22:13+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -37351,7 +37370,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8860129002?gh_jid=8860129002"
   },
   "8860328002": {
-   "closed_at": null,
+   "closed_at": "2026-10-26T09:22:13+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -43544,6 +43563,66 @@
    "reopened": 0,
    "title": "Telecommunications Engineer",
    "url": "https://boards.greenhouse.io/spacex/jobs/8913325002?gh_jid=8913325002"
+  },
+  "8915956002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-26T09:22:13+00:00",
+   "fp": "application software engineer launch software @ hawthorne, ca",
+   "location": "Hawthorne, CA",
+   "posted_at": "2026-10-26T02:32:51+00:00",
+   "posted_history": [
+    "2026-10-26T02:32:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Application Software Engineer, Launch Software",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8915956002?gh_jid=8915956002"
+  },
+  "8916039002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-26T09:22:13+00:00",
+   "fp": "power systems engineer launch pad @ starbase, tx",
+   "location": "Starbase, TX",
+   "posted_at": "2026-10-26T03:26:22+00:00",
+   "posted_history": [
+    "2026-10-26T03:26:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Power Systems Engineer, Launch Pad (Starship)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8916039002?gh_jid=8916039002"
+  },
+  "8916241002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-26T09:22:13+00:00",
+   "fp": "welding inspector specialist @ starbase, tx",
+   "location": "Starbase, TX",
+   "posted_at": "2026-10-26T05:06:29+00:00",
+   "posted_history": [
+    "2026-10-26T05:06:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Welding Inspector Specialist",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8916241002?gh_jid=8916241002"
+  },
+  "8916251002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-26T09:22:13+00:00",
+   "fp": "automation controls specialist launch pad @ starbase, tx",
+   "location": "Starbase, TX",
+   "posted_at": "2026-10-26T05:18:11+00:00",
+   "posted_history": [
+    "2026-10-26T05:18:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Automation & Controls Specialist, Launch Pad (Starship)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8916251002?gh_jid=8916251002"
   }
  }
 }

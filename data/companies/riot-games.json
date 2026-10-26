@@ -27,6 +27,10 @@
   {
    "date": "2026-10-25",
    "open": 176
+  },
+  {
+   "date": "2026-10-26",
+   "open": 179
   }
  ],
  "jobs": {
@@ -1216,7 +1220,7 @@
    "url": "https://www.riotgames.com/en/work-with-us/job/8082802?gh_jid=8082802"
   },
   "8082804": {
-   "closed_at": "2026-10-21T08:53:29+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1226,7 +1230,7 @@
    "posted_history": [
     "2026-08-03T01:56:35+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Technical Artist, Animation - Unpublished R&D Product",
    "url": "https://www.riotgames.com/en/work-with-us/job/8082804?gh_jid=8082804"
   },
@@ -2700,6 +2704,21 @@
    "title": "Senior Software Engineer - Automation & Build Systems,  Unpublished R&D Product",
    "url": "https://www.riotgames.com/en/work-with-us/job/8293711?gh_jid=8293711"
   },
+  "8300083": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-26T09:22:13+00:00",
+   "fp": "senior manager product management japan valorant @ tokyo, japan",
+   "location": "Tokyo, Japan",
+   "posted_at": "2026-10-26T02:48:35+00:00",
+   "posted_history": [
+    "2026-10-26T02:48:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Product Management, Japan - VALORANT",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8300083?gh_jid=8300083"
+  },
   "8302215": {
    "closed_at": null,
    "department": "",
@@ -2834,6 +2853,21 @@
    "reopened": 0,
    "title": "Principal Technical Product Manager - Publishing Platform, Content Access Platform",
    "url": "https://www.riotgames.com/en/work-with-us/job/8316731?gh_jid=8316731"
+  },
+  "8316775": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-26T09:22:13+00:00",
+   "fp": "senior software engineer @ seoul, korea",
+   "location": "Seoul, Korea",
+   "posted_at": "2026-10-26T06:58:57+00:00",
+   "posted_history": [
+    "2026-10-26T06:58:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8316775?gh_jid=8316775"
   }
  }
 }

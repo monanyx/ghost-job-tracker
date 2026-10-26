@@ -27,6 +27,10 @@
   {
    "date": "2026-10-25",
    "open": 682
+  },
+  {
+   "date": "2026-10-26",
+   "open": 682
   }
  ],
  "jobs": {
@@ -4651,7 +4655,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385559008"
   },
   "5385586008": {
-   "closed_at": null,
+   "closed_at": "2026-10-26T09:22:13+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -10769,6 +10773,21 @@
    "reopened": 0,
    "title": "Enterprise Account Executive, Federal Civilian Sales - Federal Financials",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5461663008"
+  },
+  "5461863008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-26T09:22:13+00:00",
+   "fp": "research scientist life sciences @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-10-26T00:37:52+00:00",
+   "posted_history": [
+    "2026-10-26T00:37:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "Research Scientist, Life Sciences (Computational Chemistry)",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5461863008"
   },
   "5461873008": {
    "closed_at": null,

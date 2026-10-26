@@ -27,6 +27,10 @@
   {
    "date": "2026-10-25",
    "open": 719
+  },
+  {
+   "date": "2026-10-26",
+   "open": 720
   }
  ],
  "jobs": {
@@ -1126,7 +1130,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=7678541"
   },
   "7684149": {
-   "closed_at": null,
+   "closed_at": "2026-10-26T09:22:13+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -3170,14 +3174,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "forward deployed ai accelerator marketing @ seattle, san francisco, new york, chicago, atlanta, remote in the us, canada",
+   "fp": "forward deployed ai accelerator sales development @ seattle, san francisco, new york, chicago, atlanta, remote in the us, canada",
    "location": "Seattle, San Francisco, New York, Chicago, Atlanta, Remote in the US, Canada",
    "posted_at": "2026-07-13T23:29:13+00:00",
    "posted_history": [
     "2026-07-13T23:29:13+00:00"
    ],
    "reopened": 0,
-   "title": "Forward Deployed AI Accelerator, Marketing",
+   "title": "Forward Deployed AI Accelerator, Sales Development",
    "url": "https://stripe.com/jobs/search?gh_jid=8055930"
   },
   "8062305": {
@@ -3361,7 +3365,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8073092"
   },
   "8074199": {
-   "closed_at": null,
+   "closed_at": "2026-10-26T09:22:13+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6931,7 +6935,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8179419"
   },
   "8180254": {
-   "closed_at": null,
+   "closed_at": "2026-10-26T09:22:13+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -8204,6 +8208,21 @@
    "reopened": 0,
    "title": "Account Executive Product - Issuing & Treasury",
    "url": "https://stripe.com/jobs/search?gh_jid=8203649"
+  },
+  "8203653": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-26T09:22:13+00:00",
+   "fp": "operations program manager @ bengaluru",
+   "location": "Bengaluru",
+   "posted_at": "2026-09-18T06:08:55+00:00",
+   "posted_history": [
+    "2026-09-18T06:08:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Operations Program Manager",
+   "url": "https://stripe.com/jobs/search?gh_jid=8203653"
   },
   "8203966": {
    "closed_at": null,
@@ -10995,6 +11014,21 @@
    "title": "Account Executive, Product Sales - Payouts",
    "url": "https://stripe.com/jobs/search?gh_jid=8273743"
   },
+  "8273853": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-26T09:22:13+00:00",
+   "fp": "head of marketing japan @ tokyo",
+   "location": "Tokyo",
+   "posted_at": "2026-10-26T04:56:58+00:00",
+   "posted_history": [
+    "2026-10-26T04:56:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Head of Marketing, Japan",
+   "url": "https://stripe.com/jobs/search?gh_jid=8273853"
+  },
   "8273855": {
    "closed_at": null,
    "department": "",
@@ -11699,6 +11733,36 @@
    "reopened": 0,
    "title": "Software Engineer",
    "url": "https://stripe.com/jobs/search?gh_jid=8314283"
+  },
+  "8318509": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-26T09:22:13+00:00",
+   "fp": "software engineer @ taiwan",
+   "location": "Taiwan",
+   "posted_at": "2026-10-26T02:42:49+00:00",
+   "posted_history": [
+    "2026-10-26T02:42:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer",
+   "url": "https://stripe.com/jobs/search?gh_jid=8318509"
+  },
+  "8323732": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-26T09:22:13+00:00",
+   "fp": "account executive money management issuing and treasury @ singapore",
+   "location": "Singapore",
+   "posted_at": "2026-10-26T00:42:46+00:00",
+   "posted_history": [
+    "2026-10-26T00:42:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, Money Management- Issuing and Treasury",
+   "url": "https://stripe.com/jobs/search?gh_jid=8323732"
   }
  }
 }

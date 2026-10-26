@@ -27,6 +27,10 @@
   {
    "date": "2026-10-25",
    "open": 321
+  },
+  {
+   "date": "2026-10-26",
+   "open": 324
   }
  ],
  "jobs": {
@@ -50,8 +54,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
-   "fp": "talent acquisition partner contract @ australia",
-   "location": "Australia",
+   "fp": "talent acquisition partner contract @ sydney, melbourne or brisbane",
+   "location": "Sydney, Melbourne or Brisbane",
    "posted_at": "2026-10-22T02:03:51+00:00",
    "posted_history": [
     "2026-10-22T02:03:51+00:00"
@@ -4350,6 +4354,21 @@
    "title": "Language Partner, Hindi",
    "url": "https://careers.toasttab.com/jobs?gh_jid=8262807"
   },
+  "8263535": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-26T09:22:13+00:00",
+   "fp": "product manager @ bengaluru, karnataka, india",
+   "location": "Bengaluru, Karnataka, India",
+   "posted_at": "2026-10-12T10:15:09+00:00",
+   "posted_history": [
+    "2026-10-12T10:15:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Manager",
+   "url": "https://careers.toasttab.com/jobs?gh_jid=8263535"
+  },
   "8263759": {
    "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
@@ -5491,7 +5510,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=8311872"
   },
   "8311990": {
-   "closed_at": "2026-10-24T08:24:32+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
@@ -5501,7 +5520,7 @@
    "posted_history": [
     "2026-10-22T18:43:11+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Software Engineer",
    "url": "https://careers.toasttab.com/jobs?gh_jid=8311990"
   },
@@ -5714,6 +5733,21 @@
    "reopened": 0,
    "title": "Tri-Valley, CA Strategic Cuisines Account Executive - Spanish",
    "url": "https://careers.toasttab.com/jobs?gh_jid=8316733"
+  },
+  "8317320": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-26T09:22:13+00:00",
+   "fp": "senior software engineer full stack @ chennai",
+   "location": "Chennai",
+   "posted_at": "2026-10-26T07:05:59+00:00",
+   "posted_history": [
+    "2026-10-26T07:05:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Full Stack",
+   "url": "https://careers.toasttab.com/jobs?gh_jid=8317320"
   },
   "8318146": {
    "closed_at": null,

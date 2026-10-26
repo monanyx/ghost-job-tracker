@@ -27,6 +27,10 @@
   {
    "date": "2026-10-25",
    "open": 342
+  },
+  {
+   "date": "2026-10-26",
+   "open": 343
   }
  ],
  "jobs": {
@@ -4606,7 +4610,7 @@
    "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000155903584"
   },
   "744000155910588": {
-   "closed_at": null,
+   "closed_at": "2026-10-26T09:22:13+00:00",
    "department": "Ubisoft",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5639,6 +5643,36 @@
    "reopened": 0,
    "title": "Conseiller·ère en acquisition de talents et mobilité interne",
    "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000157619569"
+  },
+  "744000157719929": {
+   "closed_at": null,
+   "department": "Ubisoft",
+   "evergreen": false,
+   "first_seen": "2026-10-26T09:22:13+00:00",
+   "fp": "community advocacy manager @ shanghai, shanghai, china",
+   "location": "Shanghai, Shanghai, China",
+   "posted_at": "2026-10-26T04:12:38+00:00",
+   "posted_history": [
+    "2026-10-26T04:12:38+00:00"
+   ],
+   "reopened": 0,
+   "title": "Community Advocacy Manager [Assasin's Creed]",
+   "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000157719929"
+  },
+  "744000157735205": {
+   "closed_at": null,
+   "department": "Ubisoft",
+   "evergreen": false,
+   "first_seen": "2026-10-26T09:22:13+00:00",
+   "fp": "bi and reporting specialist @ bucharest, bucharest, romania",
+   "location": "Bucharest, Bucharest, Romania",
+   "posted_at": "2026-10-26T07:56:30+00:00",
+   "posted_history": [
+    "2026-10-26T07:56:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "BI and Reporting Specialist",
+   "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000157735205"
   }
  }
 }

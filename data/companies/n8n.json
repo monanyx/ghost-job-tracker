@@ -27,11 +27,15 @@
   {
    "date": "2026-10-25",
    "open": 41
+  },
+  {
+   "date": "2026-10-26",
+   "open": 39
   }
  ],
  "jobs": {
   "01d9f6ac-4bc2-410d-aa2e-0bc7d471c210": {
-   "closed_at": null,
+   "closed_at": "2026-10-26T09:22:13+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
@@ -543,7 +547,7 @@
    "url": "https://jobs.ashbyhq.com/n8n/bf5c14d9-3371-416b-9832-2d3c38de3796"
   },
   "c9fc97fa-a473-4133-b3cb-502785649ecd": {
-   "closed_at": null,
+   "closed_at": "2026-10-26T09:22:13+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

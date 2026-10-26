@@ -27,6 +27,10 @@
   {
    "date": "2026-10-25",
    "open": 194
+  },
+  {
+   "date": "2026-10-26",
+   "open": 193
   }
  ],
  "jobs": {
@@ -194,7 +198,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/6693568"
   },
   "6693610": {
-   "closed_at": null,
+   "closed_at": "2026-10-26T09:22:13+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -657,7 +661,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/6886954"
   },
   "6999015": {
-   "closed_at": null,
+   "closed_at": "2026-10-26T09:22:13+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1675,6 +1679,21 @@
    "reopened": 0,
    "title": "Sales Manager",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8098204"
+  },
+  "8098398": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-26T09:22:13+00:00",
+   "fp": "ssc operational excellence manager @ athens, greece; london, united kingdom; tel aviv, israel",
+   "location": "Athens, Greece; London, United Kingdom; Tel Aviv, Israel",
+   "posted_at": "2026-07-31T09:04:47+00:00",
+   "posted_history": [
+    "2026-07-31T09:04:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "SSC Operational Excellence Manager",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8098398"
   },
   "8101711": {
    "closed_at": null,
@@ -3282,7 +3301,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8289924"
   },
   "8299523": {
-   "closed_at": null,
+   "closed_at": "2026-10-26T09:22:13+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3430,6 +3449,21 @@
    "reopened": 0,
    "title": "Sales Specialist",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8317769"
+  },
+  "8318099": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-26T09:22:13+00:00",
+   "fp": "restaurant promotions associate @ berlin, germany",
+   "location": "Berlin, Germany",
+   "posted_at": "2026-10-26T08:31:07+00:00",
+   "posted_history": [
+    "2026-10-26T08:31:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Restaurant Promotions Associate",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8318099"
   }
  }
 }

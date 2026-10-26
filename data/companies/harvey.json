@@ -27,6 +27,10 @@
   {
    "date": "2026-10-25",
    "open": 358
+  },
+  {
+   "date": "2026-10-26",
+   "open": 360
   }
  ],
  "jobs": {
@@ -768,17 +772,18 @@
    "url": "https://jobs.ashbyhq.com/harvey/22c49c02-8ab1-4aeb-9022-2fc624b7a0cb"
   },
   "235f1793-7b5a-470b-b6ee-4f0f0249623c": {
-   "closed_at": "2026-10-23T08:50:35+00:00",
+   "closed_at": null,
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "senior engineering manager backend @ bengaluru",
    "location": "Bengaluru",
-   "posted_at": "2026-08-12T16:36:58+00:00",
+   "posted_at": "2026-10-26T08:11:22+00:00",
    "posted_history": [
-    "2026-08-12T16:36:58+00:00"
+    "2026-08-12T16:36:58+00:00",
+    "2026-10-26T08:11:22+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Engineering Manager, Backend",
    "url": "https://jobs.ashbyhq.com/harvey/235f1793-7b5a-470b-b6ee-4f0f0249623c"
   },
@@ -849,9 +854,10 @@
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "legal engineer product specialist @ seoul",
    "location": "Seoul",
-   "posted_at": "2026-10-19T04:49:38+00:00",
+   "posted_at": "2026-10-26T04:12:21+00:00",
    "posted_history": [
-    "2026-10-19T04:49:38+00:00"
+    "2026-10-19T04:49:38+00:00",
+    "2026-10-26T04:12:21+00:00"
    ],
    "reopened": 0,
    "title": "Legal Engineer, Product Specialist",
@@ -888,7 +894,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/2a05532b-4746-45ee-965a-ba423efb62fb"
   },
   "2a2f8cae-e153-4e51-a9fe-7af903fbc5ef": {
-   "closed_at": null,
+   "closed_at": "2026-10-26T09:22:13+00:00",
    "department": "Marketing",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2598,6 +2604,21 @@
    "title": "Director of Detection and Response",
    "url": "https://jobs.ashbyhq.com/harvey/775f03e0-c2a3-4ac9-822e-d84b212fdf1d"
   },
+  "77716481-e377-4ce7-9d34-01b66eaac161": {
+   "closed_at": null,
+   "department": "Customer Success",
+   "evergreen": false,
+   "first_seen": "2026-10-26T09:22:13+00:00",
+   "fp": "customer success manager enterprise apac @ bengaluru",
+   "location": "Bengaluru",
+   "posted_at": "2026-10-26T03:26:01+00:00",
+   "posted_history": [
+    "2026-10-26T03:26:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Success Manager, Enterprise, APAC",
+   "url": "https://jobs.ashbyhq.com/harvey/77716481-e377-4ce7-9d34-01b66eaac161"
+  },
   "7797d468-fabc-4bda-b861-726db7171f23": {
    "closed_at": null,
    "department": "Engineering",
@@ -4008,6 +4029,21 @@
    "reopened": 0,
    "title": "Legal Engineer (Law Firm, Litigation/Regulatory)",
    "url": "https://jobs.ashbyhq.com/harvey/b8348643-507b-4793-8e8c-62ffa6a0c254"
+  },
+  "b8a48279-6b24-45c2-b101-3ae322ba5fb5": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-26T09:22:13+00:00",
+   "fp": "senior software engineer backend core infra @ bengaluru",
+   "location": "Bengaluru",
+   "posted_at": "2026-10-26T03:45:23+00:00",
+   "posted_history": [
+    "2026-10-26T03:45:23+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Backend Core Infra",
+   "url": "https://jobs.ashbyhq.com/harvey/b8a48279-6b24-45c2-b101-3ae322ba5fb5"
   },
   "b8a9dded-d9f4-4295-8216-fdc93beec6d1": {
    "closed_at": null,

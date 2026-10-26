@@ -27,6 +27,10 @@
   {
    "date": "2026-10-25",
    "open": 191
+  },
+  {
+   "date": "2026-10-26",
+   "open": 192
   }
  ],
  "jobs": {
@@ -2806,7 +2810,7 @@
    "url": "https://careers.airbnb.com/positions/8283664?gh_jid=8283664"
   },
   "8283730": {
-   "closed_at": "2026-10-24T08:24:32+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -2816,7 +2820,7 @@
    "posted_history": [
     "2026-10-20T13:58:10+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Supervisor, Hotels",
    "url": "https://careers.airbnb.com/positions/8283730?gh_jid=8283730"
   },
@@ -2881,7 +2885,7 @@
    "url": "https://careers.airbnb.com/positions/8287849?gh_jid=8287849"
   },
   "8288417": {
-   "closed_at": null,
+   "closed_at": "2026-10-26T09:22:13+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
@@ -2939,6 +2943,21 @@
    "reopened": 0,
    "title": "Office Manager, China (Executive Administration and Workplace)",
    "url": "https://careers.airbnb.com/positions/8299386?gh_jid=8299386"
+  },
+  "8300382": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-26T09:22:13+00:00",
+   "fp": "support specialist r1 @ gurugram, india",
+   "location": "Gurugram, India",
+   "posted_at": "2026-10-26T09:10:37+00:00",
+   "posted_history": [
+    "2026-10-26T09:10:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Support Specialist, R1",
+   "url": "https://careers.airbnb.com/positions/8300382?gh_jid=8300382"
   },
   "8300839": {
    "closed_at": null,
