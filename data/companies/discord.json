@@ -31,6 +31,10 @@
   {
    "date": "2026-10-26",
    "open": 46
+  },
+  {
+   "date": "2026-10-27",
+   "open": 46
   }
  ],
  "jobs": {
@@ -319,6 +323,21 @@
    "title": "Staff Software Engineer, Enterprise Platform",
    "url": "https://job-boards.greenhouse.io/discord/jobs/8675185002"
   },
+  "8691572002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "staff data engineer @ san francisco bay area",
+   "location": "San Francisco Bay Area",
+   "posted_at": "2026-08-10T17:56:48+00:00",
+   "posted_history": [
+    "2026-08-10T17:56:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Data Engineer",
+   "url": "https://job-boards.greenhouse.io/discord/jobs/8691572002"
+  },
   "8697883002": {
    "closed_at": null,
    "department": "",
@@ -335,7 +354,7 @@
    "url": "https://job-boards.greenhouse.io/discord/jobs/8697883002"
   },
   "8700605002": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

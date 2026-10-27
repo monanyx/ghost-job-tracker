@@ -31,6 +31,10 @@
   {
    "date": "2026-10-26",
    "open": 220
+  },
+  {
+   "date": "2026-10-27",
+   "open": 224
   }
  ],
  "jobs": {
@@ -144,14 +148,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "client value partner life sciences @ redwood city, us, california",
+   "fp": "client value partner @ redwood city, us, california",
    "location": "Redwood City, US, California",
    "posted_at": "2025-11-26T13:47:26+00:00",
    "posted_history": [
     "2025-11-26T13:47:26+00:00"
    ],
    "reopened": 0,
-   "title": "Client Value Partner - Life Sciences",
+   "title": "Client Value Partner",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7539067003?gh_jid=7539067003"
   },
   "7545451003": {
@@ -468,6 +472,21 @@
    "reopened": 0,
    "title": "Value Engineer-Scale-NAM",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7635374003?gh_jid=7635374003"
+  },
+  "7635542003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "applied value engineer @ bangalore, india",
+   "location": "Bangalore, India",
+   "posted_at": "2026-03-30T10:12:53+00:00",
+   "posted_history": [
+    "2026-03-30T10:12:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "Applied Value Engineer",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/7635542003?gh_jid=7635542003"
   },
   "7683435003": {
    "closed_at": null,
@@ -2060,7 +2079,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7887061003?gh_jid=7887061003"
   },
   "7896014003": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3334,8 +3353,23 @@
    "title": "Senior Deployment Engineer",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8037367003?gh_jid=8037367003"
   },
-  "8037507003": {
+  "8037503003": {
    "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "deployment engineer london @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2026-10-26T09:23:27+00:00",
+   "posted_history": [
+    "2026-10-26T09:23:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Deployment Engineer - London",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/8037503003?gh_jid=8037503003"
+  },
+  "8037507003": {
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-26T09:22:13+00:00",
@@ -3348,6 +3382,21 @@
    "reopened": 0,
    "title": "Deployment Engineer - London",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8037507003?gh_jid=8037507003"
+  },
+  "8037511003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "senior solutions architect @ munich, germany",
+   "location": "Munich, Germany",
+   "posted_at": "2026-10-26T15:08:35+00:00",
+   "posted_history": [
+    "2026-10-26T15:08:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Solutions Architect",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/8037511003?gh_jid=8037511003"
   },
   "8037540003": {
    "closed_at": null,
@@ -3363,6 +3412,51 @@
    "reopened": 0,
    "title": "Solutions Architect",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8037540003?gh_jid=8037540003"
+  },
+  "8037736003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "associate account executive nordics @ stockholm, sweden",
+   "location": "Stockholm, Sweden",
+   "posted_at": "2026-10-26T18:10:13+00:00",
+   "posted_history": [
+    "2026-10-26T18:10:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Associate Account Executive (Top Talent Sales Program - Lunar) NORDICS",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/8037736003?gh_jid=8037736003"
+  },
+  "8037768003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "associate account executive nordics @ copenhagen, denmark",
+   "location": "Copenhagen, Denmark",
+   "posted_at": "2026-10-26T18:16:07+00:00",
+   "posted_history": [
+    "2026-10-26T18:16:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Associate Account Executive (Top Talent Sales Program - Lunar) NORDICS",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/8037768003?gh_jid=8037768003"
+  },
+  "8037803003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "associate account executive uk @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2026-10-26T17:09:33+00:00",
+   "posted_history": [
+    "2026-10-26T17:09:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Associate Account Executive (Top Talent Sales Program - Lunar) UK",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/8037803003?gh_jid=8037803003"
   },
   "8038816003": {
    "closed_at": null,

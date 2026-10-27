@@ -31,6 +31,10 @@
   {
    "date": "2026-10-26",
    "open": 90
+  },
+  {
+   "date": "2026-10-27",
+   "open": 89
   }
  ],
  "jobs": {
@@ -144,14 +148,14 @@
    "department": "Platform",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "backend engineer ii data platform @ stockholm",
+   "fp": "backend engineer data platform @ stockholm",
    "location": "Stockholm",
    "posted_at": "2026-09-28T10:19:51+00:00",
    "posted_history": [
     "2026-09-28T10:19:51+00:00"
    ],
    "reopened": 0,
-   "title": "Backend Engineer II - Data Platform",
+   "title": "Backend Engineer - Data Platform",
    "url": "https://jobs.lever.co/spotify/186b763a-2a61-4563-8813-ff6b40c9c8a7"
   },
   "1961fa91-bdba-450a-bfb6-fc8d8d5c9e9c": {
@@ -1370,7 +1374,7 @@
    "url": "https://jobs.lever.co/spotify/da45648b-3b35-4e4b-81df-31667aa4a76d"
   },
   "ddc10181-6ecc-4dfc-9d02-2c5ce820cfdd": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "Audio Books & Gated Content",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

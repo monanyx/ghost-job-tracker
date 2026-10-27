@@ -31,6 +31,10 @@
   {
    "date": "2026-10-26",
    "open": 60
+  },
+  {
+   "date": "2026-10-27",
+   "open": 60
   }
  ],
  "jobs": {
@@ -710,7 +714,7 @@
    "url": "https://careers.duolingo.com/jobs/8761428002?gh_jid=8761428002"
   },
   "8764849002": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1008,6 +1012,21 @@
    "reopened": 0,
    "title": "Social Media Content Creator",
    "url": "https://careers.duolingo.com/jobs/8906062002?gh_jid=8906062002"
+  },
+  "8917787002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "performance marketing lead @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-10-26T19:19:29+00:00",
+   "posted_history": [
+    "2026-10-26T19:19:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Performance Marketing Lead",
+   "url": "https://careers.duolingo.com/jobs/8917787002?gh_jid=8917787002"
   }
  }
 }

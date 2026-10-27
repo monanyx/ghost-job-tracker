@@ -31,6 +31,10 @@
   {
    "date": "2026-10-26",
    "open": 43
+  },
+  {
+   "date": "2026-10-27",
+   "open": 42
   }
  ],
  "jobs": {
@@ -380,7 +384,7 @@
    "url": "https://jobs.ashbyhq.com/sentry/960b966a-849f-421f-8c75-72924f28293e"
   },
   "9889cf59-cd32-4aff-bff7-645bb1be4e14": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "Sales ",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

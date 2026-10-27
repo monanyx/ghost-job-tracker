@@ -31,9 +31,28 @@
   {
    "date": "2026-10-26",
    "open": 360
+  },
+  {
+   "date": "2026-10-27",
+   "open": 365
   }
  ],
  "jobs": {
+  "00ef2ebe-aacc-44a6-ad7e-1edc5ea837d1": {
+   "closed_at": null,
+   "department": "Recruiting",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "recruiting operations manager emea @ dublin",
+   "location": "Dublin",
+   "posted_at": "2026-10-26T22:48:37+00:00",
+   "posted_history": [
+    "2026-10-26T22:48:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Recruiting Operations Manager, EMEA",
+   "url": "https://jobs.ashbyhq.com/harvey/00ef2ebe-aacc-44a6-ad7e-1edc5ea837d1"
+  },
   "01da8934-d3e3-4ebb-beb9-681b3c24fb9c": {
    "closed_at": null,
    "department": "Engineering",
@@ -170,7 +189,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/04ee546e-7432-4154-abf2-cb3b2d7abf7a"
   },
   "06d64648-b84b-48ae-94a2-d9c06dfdcb5d": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -189,14 +208,14 @@
    "department": "Human Resources",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior workplace coordinator @ toronto",
+   "fp": "workplace specialist @ toronto",
    "location": "Toronto",
    "posted_at": "2026-10-15T23:05:53+00:00",
    "posted_history": [
     "2026-10-15T23:05:53+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Workplace Coordinator",
+   "title": "Workplace Specialist",
    "url": "https://jobs.ashbyhq.com/harvey/0879ab97-7ed2-49e0-b5d6-4565ce63f273"
   },
   "08bf31a9-9e6d-4fa0-b552-a55e68915a71": {
@@ -303,6 +322,21 @@
    "reopened": 0,
    "title": "Director of Product Security",
    "url": "https://jobs.ashbyhq.com/harvey/0b11604a-3743-4202-85d2-260dee788611"
+  },
+  "0c3ccbfd-25d1-4f66-be9c-e3c680fbe2fc": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "software engineer agents @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-10-27T05:15:15+00:00",
+   "posted_history": [
+    "2026-10-27T05:15:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Agents",
+   "url": "https://jobs.ashbyhq.com/harvey/0c3ccbfd-25d1-4f66-be9c-e3c680fbe2fc"
   },
   "0cc0c934-ce13-483b-8a11-99583d7908a1": {
    "closed_at": null,
@@ -837,14 +871,14 @@
    "department": "Human Resources",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior workplace coordinator @ new york",
+   "fp": "workplace specialist @ new york",
    "location": "New York",
    "posted_at": "2026-10-06T21:13:51+00:00",
    "posted_history": [
     "2026-10-06T21:13:51+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Workplace Coordinator",
+   "title": "Workplace Specialist",
    "url": "https://jobs.ashbyhq.com/harvey/26b1c092-b466-47b6-9493-402eed406b7a"
   },
   "2807b46b-3ea5-43e2-94ea-4e6cdc6d4bb2": {
@@ -1239,7 +1273,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/39d6ae01-e28c-441c-9593-5b1d2923b075"
   },
   "3a34578d-d42e-45bb-ac5c-0c3357e8cbb7": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1643,6 +1677,21 @@
    "reopened": 0,
    "title": "Account Executive, Enterprise",
    "url": "https://jobs.ashbyhq.com/harvey/4b990a09-e6f7-49db-af7d-213f647f1a86"
+  },
+  "4d0741ce-847d-4b4c-ae11-71fba872a04d": {
+   "closed_at": null,
+   "department": "Recruiting",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "recruiting operations manager emea @ london",
+   "location": "London",
+   "posted_at": "2026-10-26T22:48:09+00:00",
+   "posted_history": [
+    "2026-10-26T22:48:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Recruiting Operations Manager, EMEA",
+   "url": "https://jobs.ashbyhq.com/harvey/4d0741ce-847d-4b4c-ae11-71fba872a04d"
   },
   "4d661139-19ad-42af-9f6c-a68c71263e14": {
    "closed_at": null,
@@ -2289,6 +2338,21 @@
    "title": "Senior Software Engineer, Agents",
    "url": "https://jobs.ashbyhq.com/harvey/672f45e7-0689-4a6a-92e4-712beaa2eeca"
   },
+  "6825190c-0cbe-4b53-976a-26afb3734c04": {
+   "closed_at": null,
+   "department": "Business Development",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "corporate business development manager legal data @ new york",
+   "location": "New York",
+   "posted_at": "2026-10-26T20:04:00+00:00",
+   "posted_history": [
+    "2026-10-26T20:04:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Corporate Business Development Manager, Legal Data",
+   "url": "https://jobs.ashbyhq.com/harvey/6825190c-0cbe-4b53-976a-26afb3734c04"
+  },
   "68bb5519-f4a5-4fa4-ba47-886f0abc36d8": {
    "closed_at": null,
    "department": "Product",
@@ -2696,7 +2760,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/799df8d8-2d4c-459a-884b-61a7c9824ad8"
   },
   "79b98a8b-14cc-4cec-83ff-32969cc0cbfe": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "Go to Market",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2745,14 +2809,14 @@
    "department": "Marketing",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
-   "fp": "integrated content programs lead @ san francisco",
+   "fp": "content programs lead @ san francisco",
    "location": "San Francisco",
    "posted_at": "2026-10-21T17:08:41+00:00",
    "posted_history": [
     "2026-10-21T17:08:41+00:00"
    ],
    "reopened": 0,
-   "title": "Integrated Content Programs Lead",
+   "title": "Content Programs Lead",
    "url": "https://jobs.ashbyhq.com/harvey/7b8f7427-4372-47a6-b46c-16ce74caa8cf"
   },
   "7c71db12-6edb-441e-b76c-847ef6d00527": {
@@ -3010,6 +3074,21 @@
    "title": "Account Executive, Enterprise, Asset Management",
    "url": "https://jobs.ashbyhq.com/harvey/864392c2-9ff4-4b95-9e06-46bf46bf6522"
   },
+  "86e675fd-51af-42f9-9e1f-e61f1dcdbe2d": {
+   "closed_at": null,
+   "department": "Customer Success",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "customer success leader majors asset management @ new york",
+   "location": "New York",
+   "posted_at": "2026-10-26T22:02:20+00:00",
+   "posted_history": [
+    "2026-10-26T22:02:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Success Leader, Majors - Asset Management",
+   "url": "https://jobs.ashbyhq.com/harvey/86e675fd-51af-42f9-9e1f-e61f1dcdbe2d"
+  },
   "879d9051-0f20-4fcf-8e73-7293044dd7a2": {
    "closed_at": null,
    "department": "Engineering",
@@ -3234,6 +3313,21 @@
    "reopened": 0,
    "title": "Staff Infrastructure Security Engineer",
    "url": "https://jobs.ashbyhq.com/harvey/90421e4b-77d2-40a4-bb7f-80d2a0a9b5b3"
+  },
+  "905454df-38a7-44bb-8ea0-b93b1d85b04c": {
+   "closed_at": null,
+   "department": "Customer Success",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "customer success leader majors @ new york",
+   "location": "New York",
+   "posted_at": "2026-10-26T21:59:58+00:00",
+   "posted_history": [
+    "2026-10-26T21:59:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Success Leader, Majors",
+   "url": "https://jobs.ashbyhq.com/harvey/905454df-38a7-44bb-8ea0-b93b1d85b04c"
   },
   "9318ba76-60df-4b39-b036-95f488a46c7c": {
    "closed_at": null,
@@ -3940,6 +4034,21 @@
    "title": "Social Strategist, X and Insights",
    "url": "https://jobs.ashbyhq.com/harvey/b10f6bee-a93a-4dd9-9eca-ccef79c5d01b"
   },
+  "b21e4fa4-824e-4664-9e9f-ba0204f83a58": {
+   "closed_at": null,
+   "department": "Customer Success",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "customer success leader majors @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-10-26T22:00:12+00:00",
+   "posted_history": [
+    "2026-10-26T22:00:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Success Leader, Majors",
+   "url": "https://jobs.ashbyhq.com/harvey/b21e4fa4-824e-4664-9e9f-ba0204f83a58"
+  },
   "b4f45d7f-6a88-40d5-83a6-e4db27f3e402": {
    "closed_at": null,
    "department": "Engineering",
@@ -4136,7 +4245,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/bc479bb5-445f-4e9f-a0bc-d2e1bab03947"
   },
   "bcc3d29e-31c1-45d7-8229-52bd143a4667": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "Communications",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4307,9 +4416,10 @@
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "strategic account executive dach @ munich",
    "location": "Munich",
-   "posted_at": "2026-10-07T16:03:20+00:00",
+   "posted_at": "2026-10-26T10:18:35+00:00",
    "posted_history": [
-    "2026-10-07T16:03:20+00:00"
+    "2026-10-07T16:03:20+00:00",
+    "2026-10-26T10:18:35+00:00"
    ],
    "reopened": 0,
    "title": "Strategic Account Executive, DACH",
@@ -4500,14 +4610,14 @@
    "department": "Marketing",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
-   "fp": "integrated content programs lead @ new york",
+   "fp": "content programs lead @ new york",
    "location": "New York",
    "posted_at": "2026-10-21T17:08:39+00:00",
    "posted_history": [
     "2026-10-21T17:08:39+00:00"
    ],
    "reopened": 0,
-   "title": "Integrated Content Programs Lead",
+   "title": "Content Programs Lead",
    "url": "https://jobs.ashbyhq.com/harvey/cb936e5a-1b79-4207-b68e-5a4b905fd317"
   },
   "cbb288f0-8eb6-44dd-a8d7-2b5de901e101": {
@@ -4885,6 +4995,21 @@
    "title": "Staff Software Engineer, Production Engineering",
    "url": "https://jobs.ashbyhq.com/harvey/dad3437f-9f4c-444a-bf4a-ae2a9a1047c2"
   },
+  "db612e13-892d-45c1-b21d-97ca29ab7fa8": {
+   "closed_at": null,
+   "department": "Recruiting",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "senior technical recruiter @ new york",
+   "location": "New York",
+   "posted_at": "2026-10-26T23:02:36+00:00",
+   "posted_history": [
+    "2026-10-26T23:02:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Technical Recruiter",
+   "url": "https://jobs.ashbyhq.com/harvey/db612e13-892d-45c1-b21d-97ca29ab7fa8"
+  },
   "dbd9a156-a841-42a0-a3e5-beed8de60a7c": {
    "closed_at": null,
    "department": "Engineering",
@@ -5040,14 +5165,14 @@
    "department": "Customer Success",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "customer success manager majors emea @ london",
+   "fp": "customer success manager enterprise emea @ london",
    "location": "London",
    "posted_at": "2026-10-08T08:28:16+00:00",
    "posted_history": [
     "2026-10-08T08:28:16+00:00"
    ],
    "reopened": 0,
-   "title": "Customer Success Manager, Majors, EMEA",
+   "title": "Customer Success Manager, Enterprise, EMEA",
    "url": "https://jobs.ashbyhq.com/harvey/e22b1e1c-2d67-469b-b112-729132215d62"
   },
   "e25c329d-178a-47fa-9278-becd45d9fba3": {
@@ -5680,6 +5805,21 @@
    "reopened": 0,
    "title": "Business Recruiter, GTM",
    "url": "https://jobs.ashbyhq.com/harvey/fe3a26c9-5b8e-44d9-86ea-a70f7bf07f2f"
+  },
+  "feffea18-29b3-4d9e-b30f-73d9bce756a6": {
+   "closed_at": null,
+   "department": "Finance",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "accounts payable lead @ mexico",
+   "location": "Mexico",
+   "posted_at": "2026-10-26T19:50:17+00:00",
+   "posted_history": [
+    "2026-10-26T19:50:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Accounts Payable Lead",
+   "url": "https://jobs.ashbyhq.com/harvey/feffea18-29b3-4d9e-b30f-73d9bce756a6"
   }
  }
 }

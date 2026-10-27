@@ -31,6 +31,10 @@
   {
    "date": "2026-10-26",
    "open": 138
+  },
+  {
+   "date": "2026-10-27",
+   "open": 141
   }
  ],
  "jobs": {
@@ -365,7 +369,7 @@
    "url": "https://boards.greenhouse.io/figma/jobs/5707966004?gh_jid=5707966004"
   },
   "5711468004": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1160,7 +1164,7 @@
    "url": "https://boards.greenhouse.io/figma/jobs/6130540004?gh_jid=6130540004"
   },
   "6130557004": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2313,6 +2317,81 @@
    "reopened": 0,
    "title": "Account Executive, Federal - State & Local",
    "url": "https://boards.greenhouse.io/figma/jobs/6230952004?gh_jid=6230952004"
+  },
+  "6231027004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "product designer core experience @ san francisco, ca • new york, ny • united states",
+   "location": "San Francisco, CA • New York, NY • United States",
+   "posted_at": "2026-10-26T14:48:17+00:00",
+   "posted_history": [
+    "2026-10-26T14:48:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Designer, Core Experience",
+   "url": "https://boards.greenhouse.io/figma/jobs/6231027004?gh_jid=6231027004"
+  },
+  "6231832004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "senior onboarding manager customer experience @ tokyo, japan",
+   "location": "Tokyo, Japan",
+   "posted_at": "2026-10-27T02:27:56+00:00",
+   "posted_history": [
+    "2026-10-27T02:27:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Onboarding Manager, Customer Experience",
+   "url": "https://boards.greenhouse.io/figma/jobs/6231832004?gh_jid=6231832004"
+  },
+  "6232410004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "business systems architect @ san francisco, ca • new york, ny • united states",
+   "location": "San Francisco, CA • New York, NY • United States",
+   "posted_at": "2026-10-26T16:43:46+00:00",
+   "posted_history": [
+    "2026-10-26T16:43:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "Business Systems Architect",
+   "url": "https://boards.greenhouse.io/figma/jobs/6232410004?gh_jid=6232410004"
+  },
+  "6232422004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "manager customer enablement figma weave @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-10-26T20:03:15+00:00",
+   "posted_history": [
+    "2026-10-26T20:03:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Customer Enablement - Figma Weave (New York, United States)",
+   "url": "https://boards.greenhouse.io/figma/jobs/6232422004?gh_jid=6232422004"
+  },
+  "6232584004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "customer enablement manager figma weave @ london, england",
+   "location": "London, England",
+   "posted_at": "2026-10-26T20:02:50+00:00",
+   "posted_history": [
+    "2026-10-26T20:02:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Enablement Manager - Figma Weave  (London, United Kingdom)",
+   "url": "https://boards.greenhouse.io/figma/jobs/6232584004?gh_jid=6232584004"
   },
   "6233207004": {
    "closed_at": null,

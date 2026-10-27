@@ -31,9 +31,28 @@
   {
    "date": "2026-10-26",
    "open": 61
+  },
+  {
+   "date": "2026-10-27",
+   "open": 64
   }
  ],
  "jobs": {
+  "05226c15-0501-4559-833d-3815fdf01f56": {
+   "closed_at": null,
+   "department": "Marketing",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "video producer @ remote, san francisco, ca",
+   "location": "Remote, San Francisco, CA",
+   "posted_at": "2026-10-26T13:06:36+00:00",
+   "posted_history": [
+    "2026-10-26T13:06:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Video Producer (San Francisco, CA)",
+   "url": "https://jobs.ashbyhq.com/supabase/05226c15-0501-4559-833d-3815fdf01f56"
+  },
   "06752423-eebb-472c-95b5-c7ff2559fd60": {
    "closed_at": null,
    "department": "Engineering",
@@ -214,6 +233,21 @@
    "title": "Product Lead - Infrastructure",
    "url": "https://jobs.ashbyhq.com/supabase/47bcfdb8-b954-423e-8a9e-85256434575c"
   },
+  "4857bb69-da99-4027-87f1-a6a4d03699b3": {
+   "closed_at": null,
+   "department": "Support",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "support engineer @ remote, global",
+   "location": "Remote, Global",
+   "posted_at": "2026-10-26T14:29:18+00:00",
+   "posted_history": [
+    "2026-10-26T14:29:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Support Engineer (APAC - Weekends)",
+   "url": "https://jobs.ashbyhq.com/supabase/4857bb69-da99-4027-87f1-a6a4d03699b3"
+  },
   "48950725-e0d9-4025-92d9-f75e1b60ce45": {
    "closed_at": null,
    "department": "Engineering",
@@ -393,6 +427,21 @@
    "reopened": 0,
    "title": "Platform Engineer, Edge & Networking",
    "url": "https://jobs.ashbyhq.com/supabase/6c9de03c-e289-4612-9045-492985d0274b"
+  },
+  "6f7656fc-9983-48be-bbd3-8b40e0e3027a": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "container engineer @ remote, global",
+   "location": "Remote, Global",
+   "posted_at": "2026-10-26T09:32:58+00:00",
+   "posted_history": [
+    "2026-10-26T09:32:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Container Engineer",
+   "url": "https://jobs.ashbyhq.com/supabase/6f7656fc-9983-48be-bbd3-8b40e0e3027a"
   },
   "73ddf93b-fe0c-455d-ba27-cdde0d3fb94f": {
    "closed_at": null,

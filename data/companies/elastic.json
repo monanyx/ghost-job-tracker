@@ -31,6 +31,10 @@
   {
    "date": "2026-10-26",
    "open": 402
+  },
+  {
+   "date": "2026-10-27",
+   "open": 402
   }
  ],
  "jobs": {
@@ -200,7 +204,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=7723819&gh_jid=7723819"
   },
   "7728182": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1130,7 +1134,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8067017&gh_jid=8067017"
   },
   "8067085": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3365,7 +3369,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8168938&gh_jid=8168938"
   },
   "8168982": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4625,7 +4629,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8233841&gh_jid=8233841"
   },
   "8236254": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6064,6 +6068,21 @@
    "title": "Inside Account Executive (Hunter)",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8303268&gh_jid=8303268"
   },
+  "8303379": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "sales specialist security @ tokyo, japan",
+   "location": "Tokyo, Japan",
+   "posted_at": "2026-10-27T08:42:37+00:00",
+   "posted_history": [
+    "2026-10-27T08:42:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales Specialist - Security",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8303379&gh_jid=8303379"
+  },
   "8303381": {
    "closed_at": null,
    "department": "",
@@ -6108,6 +6127,21 @@
    "reopened": 0,
    "title": "Software Engineer II (Networking) - Platform Infra",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8303806&gh_jid=8303806"
+  },
+  "8304875": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "sr business systems analyst cpq @ united states",
+   "location": "United States",
+   "posted_at": "2026-10-26T20:00:41+00:00",
+   "posted_history": [
+    "2026-10-26T20:00:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Business Systems Analyst, CPQ",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8304875&gh_jid=8304875"
   },
   "8306227": {
    "closed_at": null,
@@ -6514,6 +6548,21 @@
    "title": "Software Engineering Manager - IAM Team - Control Plane - Platform",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8317779&gh_jid=8317779"
   },
+  "8318182": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "regional vice president uk defence national security @ united kingdom",
+   "location": "United Kingdom",
+   "posted_at": "2026-10-26T13:38:17+00:00",
+   "posted_history": [
+    "2026-10-26T13:38:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Regional Vice President – UK Defence & National Security",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8318182&gh_jid=8318182"
+  },
   "8318605": {
    "closed_at": null,
    "department": "",
@@ -6588,6 +6637,21 @@
    "reopened": 0,
    "title": "Principal Software Engineer - Global UX - Application - Platform",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8319141&gh_jid=8319141"
+  },
+  "8325182": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "channel account representative enterprise east @ united states",
+   "location": "United States",
+   "posted_at": "2026-10-26T18:09:16+00:00",
+   "posted_history": [
+    "2026-10-26T18:09:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Channel Account Representative - Enterprise East",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8325182&gh_jid=8325182"
   }
  }
 }

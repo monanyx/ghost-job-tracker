@@ -31,11 +31,15 @@
   {
    "date": "2026-10-26",
    "open": 135
+  },
+  {
+   "date": "2026-10-27",
+   "open": 130
   }
  ],
  "jobs": {
   "01dfc0a4-d5ca-476e-a728-2f4d74b3ebb9": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "Security",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -144,14 +148,14 @@
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "rvp sales east @ new york",
+   "fp": "regional vice president enterprise sales east region remote @ new york",
    "location": "New York",
    "posted_at": "2026-08-24T10:32:34+00:00",
    "posted_history": [
     "2026-08-24T10:32:34+00:00"
    ],
    "reopened": 0,
-   "title": "RVP Sales, East",
+   "title": "Regional Vice President, Enterprise Sales, East Region - Remote",
    "url": "https://jobs.lever.co/pigment/1513cc25-5955-4e62-9f8f-09b66eac4459"
   },
   "15e7b82c-ebf3-477c-96b5-96a3b25e0663": {
@@ -303,6 +307,21 @@
    "reopened": 0,
    "title": "Solution Consultant, Supply Chain - Germany",
    "url": "https://jobs.lever.co/pigment/25e5ad5f-e647-4878-8079-004d30fd38f4"
+  },
+  "27090724-f3dc-4939-8459-2dc403f5e00a": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "corporate account executive west @ us",
+   "location": "US",
+   "posted_at": "2026-10-26T23:23:05+00:00",
+   "posted_history": [
+    "2026-10-26T23:23:05+00:00"
+   ],
+   "reopened": 0,
+   "title": "Corporate Account Executive - West",
+   "url": "https://jobs.lever.co/pigment/27090724-f3dc-4939-8459-2dc403f5e00a"
   },
   "270ef023-99ec-48c7-8b90-c638600aefef": {
    "closed_at": null,
@@ -725,7 +744,7 @@
    "url": "https://jobs.lever.co/pigment/5afbde72-ff75-4841-9ab5-2a95decbc6f2"
   },
   "5bdf3a54-eb5b-4099-9725-b9db0c838faa": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "Professional Services",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -830,7 +849,7 @@
    "url": "https://jobs.lever.co/pigment/641a1bbd-7750-4404-9066-ad0975b221eb"
   },
   "657d247a-8ce7-415e-a047-ae8f9a0e82f1": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "Professional Services",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -845,7 +864,7 @@
    "url": "https://jobs.lever.co/pigment/657d247a-8ce7-415e-a047-ae8f9a0e82f1"
   },
   "677a21e3-ad63-40ba-a6ba-43303032e3ee": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "Professional Services",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1385,7 +1404,7 @@
    "url": "https://jobs.lever.co/pigment/b1f69af7-afab-4980-bb26-0df9dce1b4b8"
   },
   "b3483219-d576-40a5-8c05-f2dfe93a59f3": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "HR",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1865,7 +1884,7 @@
    "url": "https://jobs.lever.co/pigment/dc39fde7-ba3b-4f78-9697-f90e9c081f74"
   },
   "dc53a410-1fff-43e0-9ced-e76342c8c4e5": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

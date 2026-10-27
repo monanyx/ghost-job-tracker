@@ -31,6 +31,10 @@
   {
    "date": "2026-10-26",
    "open": 126
+  },
+  {
+   "date": "2026-10-27",
+   "open": 124
   }
  ],
  "jobs": {
@@ -710,7 +714,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/3d9da649-b3e6-4b4c-943d-1d081dae9497"
   },
   "409d6bff-d60c-45b7-8d4c-21f6574010de": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1190,7 +1194,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/77bf35db-119c-4533-8187-1e8d5ae08c45"
   },
   "7b0b5994-5405-419c-bdca-c7b7ca05b613": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1460,7 +1464,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/9d7c8f36-eeb7-4e9f-acbe-d959f6280e46"
   },
   "9f1b3e17-4ab5-4d70-acc2-be1d1972b922": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1998,6 +2002,21 @@
    "reopened": 0,
    "title": "Software Engineer, Client Infrastructure",
    "url": "https://jobs.ashbyhq.com/cursor/e08262e8-c089-488d-9b59-9e21f7702b64"
+  },
+  "e22c4770-1776-4adb-b347-46b9c2ed9452": {
+   "closed_at": null,
+   "department": "Marketing",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "startups growth vc partnerships @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-10-26T16:42:28+00:00",
+   "posted_history": [
+    "2026-10-26T16:42:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Startups Growth, VC Partnerships",
+   "url": "https://jobs.ashbyhq.com/cursor/e22c4770-1776-4adb-b347-46b9c2ed9452"
   },
   "e3ccb495-a8a3-4ff0-a27b-262188abb9df": {
    "closed_at": null,

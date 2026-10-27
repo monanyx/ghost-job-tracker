@@ -31,6 +31,10 @@
   {
    "date": "2026-10-26",
    "open": 116
+  },
+  {
+   "date": "2026-10-27",
+   "open": 116
   }
  ],
  "jobs": {
@@ -921,7 +925,7 @@
    "url": "https://jobs.ashbyhq.com/cohere/830c613b-d4bf-4673-ab33-46ccc12cc415"
   },
   "854ce13b-5a63-4d19-99e7-756a6e8bb84b": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "PR & Communications",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1774,6 +1778,21 @@
    "reopened": 0,
    "title": "Solutions Architect - UAE",
    "url": "https://jobs.ashbyhq.com/cohere/f154a1cb-b7c1-4f74-ac50-04ef9dcfc9e0"
+  },
+  "f3290fb2-66f1-44c7-9824-3f416f44af5a": {
+   "closed_at": null,
+   "department": "Internships",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "revenue operations intern @ toronto",
+   "location": "Toronto",
+   "posted_at": "2026-10-26T16:01:58+00:00",
+   "posted_history": [
+    "2026-10-26T16:01:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Revenue Operations Intern (Winter, 2027)",
+   "url": "https://jobs.ashbyhq.com/cohere/f3290fb2-66f1-44c7-9824-3f416f44af5a"
   },
   "f6100cdd-94fc-4f4b-bac5-7efa5069cdd5": {
    "closed_at": null,

@@ -31,6 +31,10 @@
   {
    "date": "2026-10-26",
    "open": 179
+  },
+  {
+   "date": "2026-10-27",
+   "open": 184
   }
  ],
  "jobs": {
@@ -1175,7 +1179,7 @@
    "url": "https://www.riotgames.com/en/work-with-us/job/8078139?gh_jid=8078139"
   },
   "8080761": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2150,7 +2154,7 @@
    "url": "https://www.riotgames.com/en/work-with-us/job/8233687?gh_jid=8233687"
   },
   "8233725": {
-   "closed_at": "2026-10-22T08:55:54+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2160,7 +2164,7 @@
    "posted_history": [
     "2026-09-28T16:18:39+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Principal Program Manager, Global Broadcast Strategy & Operations (12 Month Contract)",
    "url": "https://www.riotgames.com/en/work-with-us/job/8233725?gh_jid=8233725"
   },
@@ -2479,6 +2483,21 @@
    "title": "Game Producer, Gameplay - Wild Rift",
    "url": "https://www.riotgames.com/en/work-with-us/job/8279467?gh_jid=8279467"
   },
+  "8279501": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "senior game producer unpublished r d product @ shanghai, china",
+   "location": "Shanghai, China",
+   "posted_at": "2026-10-27T00:13:35+00:00",
+   "posted_history": [
+    "2026-10-27T00:13:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Game Producer 高级游戏项目管理经理 - Unpublished R&D Product",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8279501?gh_jid=8279501"
+  },
   "8279634": {
    "closed_at": null,
    "department": "",
@@ -2794,6 +2813,36 @@
    "title": "Senior Game Designer, Level - Unpublished R&D Product",
    "url": "https://www.riotgames.com/en/work-with-us/job/8302340?gh_jid=8302340"
   },
+  "8302342": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "senior software engineer tools unpublished r d product @ shanghai, china",
+   "location": "Shanghai, China",
+   "posted_at": "2026-10-27T00:18:01+00:00",
+   "posted_history": [
+    "2026-10-27T00:18:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Tools - Unpublished R&D Product",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8302342?gh_jid=8302342"
+  },
+  "8302365": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "rendering technical artist unpublished r d product @ shanghai, china",
+   "location": "Shanghai, China",
+   "posted_at": "2026-10-27T00:16:15+00:00",
+   "posted_history": [
+    "2026-10-27T00:16:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Rendering Technical Artist - Unpublished R&D Product",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8302365?gh_jid=8302365"
+  },
   "8302720": {
    "closed_at": null,
    "department": "",
@@ -2839,6 +2888,21 @@
    "title": "EMEA Public Relations Strategist (12-Month Contract)",
    "url": "https://www.riotgames.com/en/work-with-us/job/8306765?gh_jid=8306765"
   },
+  "8316719": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "sr manager game production valorant maps @ los angeles, usa",
+   "location": "Los Angeles, USA",
+   "posted_at": "2026-10-26T23:55:55+00:00",
+   "posted_history": [
+    "2026-10-26T23:55:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Manager, Game Production - VALORANT, Maps",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8316719?gh_jid=8316719"
+  },
   "8316731": {
    "closed_at": null,
    "department": "",
@@ -2868,6 +2932,21 @@
    "reopened": 0,
    "title": "Senior Software Engineer",
    "url": "https://www.riotgames.com/en/work-with-us/job/8316775?gh_jid=8316775"
+  },
+  "8325239": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "social media strategist league of legends @ berlin, germany",
+   "location": "Berlin, Germany",
+   "posted_at": "2026-10-26T20:40:14+00:00",
+   "posted_history": [
+    "2026-10-26T20:40:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Social Media Strategist, League of Legends (12 Month Contract)",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8325239?gh_jid=8325239"
   }
  }
 }

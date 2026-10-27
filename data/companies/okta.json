@@ -31,6 +31,10 @@
   {
    "date": "2026-10-26",
    "open": 388
+  },
+  {
+   "date": "2026-10-27",
+   "open": 389
   }
  ],
  "jobs": {
@@ -93,6 +97,21 @@
    "reopened": 0,
    "title": "Solution Engineer",
    "url": "https://www.okta.com/company/careers/opportunity/6839581?gh_jid=6839581"
+  },
+  "6841832": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "sales development representative french @ dublin, ireland",
+   "location": "Dublin, Ireland",
+   "posted_at": "2025-04-28T14:51:49+00:00",
+   "posted_history": [
+    "2025-04-28T14:51:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales Development Representative, French",
+   "url": "https://www.okta.com/company/careers/opportunity/6841832?gh_jid=6841832"
   },
   "6879868": {
    "closed_at": null,
@@ -264,14 +283,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
-   "fp": "staff site reliability engineer core idaas @ bengaluru, india",
+   "fp": "staff site reliability engineer @ bengaluru, india",
    "location": "Bengaluru, India",
    "posted_at": "2026-06-18T06:51:51+00:00",
    "posted_history": [
     "2026-06-18T06:51:51+00:00"
    ],
    "reopened": 0,
-   "title": "Staff Site Reliability Engineer - Core iDaaS",
+   "title": "Staff Site Reliability Engineer - (Kubernetes, Terraform, AWS & Python)",
    "url": "https://www.okta.com/company/careers/opportunity/7307866?gh_jid=7307866"
   },
   "7317857": {
@@ -519,14 +538,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "staff site reliability engineer splunk @ bellevue, washington; chicago, illinois; new york, new york; san francisco, california; washington, dc",
+   "fp": "splunk infrastructure engineer @ bellevue, washington; chicago, illinois; new york, new york; san francisco, california; washington, dc",
    "location": "Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Washington, DC",
    "posted_at": "2026-02-26T23:13:10+00:00",
    "posted_history": [
     "2026-02-26T23:13:10+00:00"
    ],
    "reopened": 0,
-   "title": "Staff Site Reliability Engineer - Splunk",
+   "title": "Splunk Infrastructure Engineer",
    "url": "https://www.okta.com/company/careers/opportunity/7658254?gh_jid=7658254"
   },
   "7660357": {
@@ -860,7 +879,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/7840417?gh_jid=7840417"
   },
   "7849955": {
-   "closed_at": "2026-10-23T08:50:35+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -870,7 +889,7 @@
    "posted_history": [
     "2026-05-04T04:56:22+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Principal Software Engineer",
    "url": "https://www.okta.com/company/careers/opportunity/7849955?gh_jid=7849955"
   },
@@ -2885,7 +2904,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8159611?gh_jid=8159611"
   },
   "8159623": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2958,6 +2977,21 @@
    "reopened": 0,
    "title": "Staff Product Marketing Manager, Okta Device Access",
    "url": "https://www.okta.com/company/careers/opportunity/8162877?gh_jid=8162877"
+  },
+  "8164066": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "senior product manager product platform @ bengaluru, india",
+   "location": "Bengaluru, India",
+   "posted_at": "2026-08-28T12:15:08+00:00",
+   "posted_history": [
+    "2026-08-28T12:15:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Manager, Product Platform",
+   "url": "https://www.okta.com/company/careers/opportunity/8164066?gh_jid=8164066"
   },
   "8164832": {
    "closed_at": null,
@@ -3185,7 +3219,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8186804?gh_jid=8186804"
   },
   "8188921": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3935,7 +3969,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8220791?gh_jid=8220791"
   },
   "8222464": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4954,19 +4988,34 @@
    "title": "Senior Product Manager, Okta for AI Agents",
    "url": "https://www.okta.com/company/careers/opportunity/8249918?gh_jid=8249918"
   },
+  "8250518": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "senior technical writer @ toronto, ontario, canada",
+   "location": "Toronto, Ontario, Canada",
+   "posted_at": "2026-10-26T20:52:36+00:00",
+   "posted_history": [
+    "2026-10-26T20:52:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Technical Writer (Toronto)",
+   "url": "https://www.okta.com/company/careers/opportunity/8250518?gh_jid=8250518"
+  },
   "8255902": {
    "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "staff site reliability engineer @ bengaluru, india",
+   "fp": "staff sre @ bengaluru, india",
    "location": "Bengaluru, India",
    "posted_at": "2026-10-06T10:09:05+00:00",
    "posted_history": [
     "2026-10-06T10:09:05+00:00"
    ],
    "reopened": 0,
-   "title": "Staff Site Reliability Engineer",
+   "title": "Staff SRE- (Python, K8s, AWS, Terraform)",
    "url": "https://www.okta.com/company/careers/opportunity/8255902?gh_jid=8255902"
   },
   "8255904": {
@@ -5030,7 +5079,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8257554?gh_jid=8257554"
   },
   "8258366": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5435,7 +5484,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8277098?gh_jid=8277098"
   },
   "8278232": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5754,14 +5803,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "strategic account executive @ singapore",
+   "fp": "enterprise account executive @ singapore",
    "location": "Singapore",
    "posted_at": "2026-10-16T06:21:10+00:00",
    "posted_history": [
     "2026-10-16T06:21:10+00:00"
    ],
    "reopened": 0,
-   "title": "Strategic Account Executive",
+   "title": "Enterprise Account Executive",
    "url": "https://www.okta.com/company/careers/opportunity/8288308?gh_jid=8288308"
   },
   "8288348": {
@@ -5885,7 +5934,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8289576?gh_jid=8289576"
   },
   "8289582": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6469,6 +6518,21 @@
    "title": "Senior Technology Specialist, Executive Support",
    "url": "https://www.okta.com/company/careers/opportunity/8306620?gh_jid=8306620"
   },
+  "8311018": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "senior product designer identity threat protection essential security @ toronto, ontario, canada",
+   "location": "Toronto, Ontario, Canada",
+   "posted_at": "2026-10-27T03:24:24+00:00",
+   "posted_history": [
+    "2026-10-27T03:24:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Designer - Identity Threat Protection/Essential Security",
+   "url": "https://www.okta.com/company/careers/opportunity/8311018?gh_jid=8311018"
+  },
   "8311034": {
    "closed_at": null,
    "department": "",
@@ -6498,6 +6562,21 @@
    "reopened": 0,
    "title": "Solutions Engineer, Okta (Enterprise West)",
    "url": "https://www.okta.com/company/careers/opportunity/8312752?gh_jid=8312752"
+  },
+  "8317380": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "design operations specialist auth0 @ chicago, illinois",
+   "location": "Chicago, Illinois",
+   "posted_at": "2026-10-26T20:40:53+00:00",
+   "posted_history": [
+    "2026-10-26T20:40:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "Design Operations Specialist, Auth0",
+   "url": "https://www.okta.com/company/careers/opportunity/8317380?gh_jid=8317380"
   },
   "8319085": {
    "closed_at": null,
@@ -6558,6 +6637,21 @@
    "reopened": 0,
    "title": "Staff Software Engineer, AI Platform & Infrastructure",
    "url": "https://www.okta.com/company/careers/opportunity/8319285?gh_jid=8319285"
+  },
+  "8326116": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "staff product designer ui platform @ bellevue, washington; chicago, illinois; new york, new york; toronto, ontario, canada; washington, dc",
+   "location": "Bellevue, Washington; Chicago, Illinois; New York, New York; Toronto, Ontario, Canada; Washington, DC",
+   "posted_at": "2026-10-27T03:28:06+00:00",
+   "posted_history": [
+    "2026-10-27T03:28:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Product Designer - UI Platform",
+   "url": "https://www.okta.com/company/careers/opportunity/8326116?gh_jid=8326116"
   }
  }
 }

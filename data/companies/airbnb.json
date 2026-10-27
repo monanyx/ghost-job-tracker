@@ -31,6 +31,10 @@
   {
    "date": "2026-10-26",
    "open": 192
+  },
+  {
+   "date": "2026-10-27",
+   "open": 188
   }
  ],
  "jobs": {
@@ -350,7 +354,7 @@
    "url": "https://careers.airbnb.com/positions/7818982?gh_jid=7818982"
   },
   "7826337": {
-   "closed_at": "2026-10-23T08:50:35+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -360,7 +364,7 @@
    "posted_history": [
     "2026-04-20T23:45:42+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Machine Learning Engineer, Assistance Engineering",
    "url": "https://careers.airbnb.com/positions/7826337?gh_jid=7826337"
   },
@@ -1235,7 +1239,7 @@
    "url": "https://careers.airbnb.com/positions/8141266?gh_jid=8141266"
   },
   "8141377": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1284,14 +1288,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "software engineer tech foundations @ sao paulo - brazil",
+   "fp": "early career software engineer tech foundations @ sao paulo - brazil",
    "location": "Sao Paulo - Brazil",
    "posted_at": "2026-08-24T19:41:54+00:00",
    "posted_history": [
     "2026-08-24T19:41:54+00:00"
    ],
    "reopened": 0,
-   "title": "Software Engineer, Tech Foundations",
+   "title": "Early Career Software Engineer, Tech Foundations",
    "url": "https://careers.airbnb.com/positions/8154749?gh_jid=8154749"
   },
   "8163100": {
@@ -1355,7 +1359,7 @@
    "url": "https://careers.airbnb.com/positions/8165843?gh_jid=8165843"
   },
   "8167113": {
-   "closed_at": "2026-10-21T08:53:29+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1365,7 +1369,7 @@
    "posted_history": [
     "2026-09-28T19:01:37+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Manager, Intelligence & Advocacy",
    "url": "https://careers.airbnb.com/positions/8167113?gh_jid=8167113"
   },
@@ -1505,7 +1509,7 @@
    "url": "https://careers.airbnb.com/positions/8178505?gh_jid=8178505"
   },
   "8185136": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1640,7 +1644,7 @@
    "url": "https://careers.airbnb.com/positions/8202878?gh_jid=8202878"
   },
   "8207084": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1760,7 +1764,7 @@
    "url": "https://careers.airbnb.com/positions/8224032?gh_jid=8224032"
   },
   "8225578": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -2585,7 +2589,7 @@
    "url": "https://careers.airbnb.com/positions/8278729?gh_jid=8278729"
   },
   "8278753": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2600,7 +2604,7 @@
    "url": "https://careers.airbnb.com/positions/8278753?gh_jid=8278753"
   },
   "8279065": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2615,7 +2619,7 @@
    "url": "https://careers.airbnb.com/positions/8279065?gh_jid=8279065"
   },
   "8279103": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2630,7 +2634,7 @@
    "url": "https://careers.airbnb.com/positions/8279103?gh_jid=8279103"
   },
   "8279107": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3234,8 +3238,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
-   "fp": "systems engineer tech foundations @ bangalore, india",
-   "location": "Bangalore, India",
+   "fp": "systems engineer tech foundations @ remote - bangalore, india",
+   "location": "Remote - Bangalore, India",
    "posted_at": "2026-10-22T15:01:04+00:00",
    "posted_history": [
     "2026-10-22T15:01:04+00:00"
@@ -3318,6 +3322,36 @@
    "reopened": 0,
    "title": "Senior Compliance Lead, EMEA",
    "url": "https://careers.airbnb.com/positions/8318155?gh_jid=8318155"
+  },
+  "8325603": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "senior software engineer experimentation interfaces @ brazil",
+   "location": "Brazil",
+   "posted_at": "2026-10-26T20:52:49+00:00",
+   "posted_history": [
+    "2026-10-26T20:52:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Experimentation Interfaces",
+   "url": "https://careers.airbnb.com/positions/8325603?gh_jid=8325603"
+  },
+  "8325753": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "staff software engineer ui tooling @ united states",
+   "location": "United States",
+   "posted_at": "2026-10-26T22:12:12+00:00",
+   "posted_history": [
+    "2026-10-26T22:12:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer, UI Tooling",
+   "url": "https://careers.airbnb.com/positions/8325753?gh_jid=8325753"
   }
  }
 }

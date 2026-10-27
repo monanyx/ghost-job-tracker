@@ -31,6 +31,10 @@
   {
    "date": "2026-10-26",
    "open": 10
+  },
+  {
+   "date": "2026-10-27",
+   "open": 11
   }
  ],
  "jobs": {
@@ -123,6 +127,21 @@
    "reopened": 0,
    "title": "Product Manager, Observability (ex-founder or ex-product engineer)",
    "url": "https://jobs.ashbyhq.com/posthog/3c592b84-8b34-4ae4-ae23-cadce8f2212d"
+  },
+  "43dbf072-0fc1-48c9-8c1e-7416db7d4a14": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "clickhouse operations engineer @ remote",
+   "location": "Remote",
+   "posted_at": "2026-10-26T11:22:11+00:00",
+   "posted_history": [
+    "2026-10-26T11:22:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "ClickHouse Operations Engineer",
+   "url": "https://jobs.ashbyhq.com/posthog/43dbf072-0fc1-48c9-8c1e-7416db7d4a14"
   },
   "4a8a1ee5-aa45-447e-a438-919b4577f14d": {
    "closed_at": null,

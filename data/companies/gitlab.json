@@ -31,6 +31,10 @@
   {
    "date": "2026-10-26",
    "open": 239
+  },
+  {
+   "date": "2026-10-27",
+   "open": 238
   }
  ],
  "jobs": {
@@ -425,7 +429,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8627768002"
   },
   "8628447002": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -620,7 +624,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8640151002"
   },
   "8644572002": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -963,6 +967,21 @@
    "reopened": 0,
    "title": "Staff Software Engineer, Security Factory: Static Analysis",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8693563002"
+  },
+  "8697043002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "senior product manager secret detection and vulnerability research @ remote, united states",
+   "location": "Remote, United States",
+   "posted_at": "2026-08-17T20:39:41+00:00",
+   "posted_history": [
+    "2026-08-17T20:39:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Manager, Secret Detection and Vulnerability Research",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8697043002"
   },
   "8698330002": {
    "closed_at": null,
@@ -1610,7 +1629,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8782153002"
   },
   "8782306002": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2135,7 +2154,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8842171002"
   },
   "8842584002": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2165,7 +2184,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8842630002"
   },
   "8843512002": {
-   "closed_at": "2026-10-21T08:53:29+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2175,7 +2194,7 @@
    "posted_history": [
     "2026-09-24T21:59:06+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Backend Engineer, Create: Repository Management",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8843512002"
   },
@@ -2735,7 +2754,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8860287002"
   },
   "8860302002": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3619,6 +3638,21 @@
    "title": "Senior Product Manager, Switchboard",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8894806002"
   },
+  "8895451002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "lead investor relations @ remote, canada; remote, united states",
+   "location": "Remote, Canada; Remote, United States",
+   "posted_at": "2026-10-26T17:08:47+00:00",
+   "posted_history": [
+    "2026-10-26T17:08:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Lead Investor Relations",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8895451002"
+  },
   "8895468002": {
    "closed_at": null,
    "department": "",
@@ -3813,6 +3847,21 @@
    "reopened": 0,
    "title": "Ecosystem Operations Specialist",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8907694002"
+  },
+  "8909192002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "senior manager total rewards operations @ remote, india",
+   "location": "Remote, India",
+   "posted_at": "2026-10-26T21:16:49+00:00",
+   "posted_history": [
+    "2026-10-26T21:16:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Total Rewards Operations",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8909192002"
   },
   "8909618002": {
    "closed_at": null,

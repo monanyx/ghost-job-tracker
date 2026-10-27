@@ -31,6 +31,10 @@
   {
    "date": "2026-10-26",
    "open": 131
+  },
+  {
+   "date": "2026-10-27",
+   "open": 132
   }
  ],
  "jobs": {
@@ -619,6 +623,21 @@
    "title": "Technical Sourcer, AI",
    "url": "https://jobs.ashbyhq.com/perplexity/3d7ef710-b1f6-4a80-af57-946f9bccd35b"
   },
+  "3f0dc0ad-aa9a-4cd8-aa75-245112f3b2de": {
+   "closed_at": null,
+   "department": "AI Research & Systems",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "engineering manager @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-10-27T02:05:54+00:00",
+   "posted_history": [
+    "2026-10-27T02:05:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager (Agent Engine)",
+   "url": "https://jobs.ashbyhq.com/perplexity/3f0dc0ad-aa9a-4cd8-aa75-245112f3b2de"
+  },
   "3f800e42-7c48-4f9a-9b12-43ee23e52516": {
    "closed_at": null,
    "department": "Platform & Infrastructure",
@@ -691,7 +710,7 @@
     "2026-10-05T13:27:04+00:00"
    ],
    "reopened": 0,
-   "title": "Member of Technical Staff (Senior QA Web)",
+   "title": "Member of Technical Staff (Senior QA Web Engineer)",
    "url": "https://jobs.ashbyhq.com/perplexity/4b5e02a8-6a94-494d-9d49-037f2cfc144d"
   },
   "4bab4560-68b4-44ec-8a5c-5a39216f2abb": {

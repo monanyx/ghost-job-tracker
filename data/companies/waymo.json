@@ -31,6 +31,10 @@
   {
    "date": "2026-10-26",
    "open": 366
+  },
+  {
+   "date": "2026-10-27",
+   "open": 367
   }
  ],
  "jobs": {
@@ -65,7 +69,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=6506689"
   },
   "6669555": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -84,14 +88,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "machine learning engineer simulation @ mountain view, ca, usa",
+   "fp": "machine learning engineer simulation realism @ mountain view, ca, usa",
    "location": "Mountain View, CA, USA",
    "posted_at": "2025-03-13T16:54:13+00:00",
    "posted_history": [
     "2025-03-13T16:54:13+00:00"
    ],
    "reopened": 0,
-   "title": "Machine Learning Engineer, Simulation",
+   "title": "Machine Learning Engineer, Simulation Realism (World Model)",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=6688617"
   },
   "6773081": {
@@ -273,6 +277,21 @@
    "reopened": 0,
    "title": "System Safety Engineer, Operations & Fleet Response",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=7361677"
+  },
+  "7374300": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "onboard software performance engineer @ mountain view, california",
+   "location": "Mountain View, California",
+   "posted_at": "2025-11-11T04:58:30+00:00",
+   "posted_history": [
+    "2025-11-11T04:58:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Onboard Software Performance Engineer (C++)",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=7374300"
   },
   "7382506": {
    "closed_at": null,
@@ -694,6 +713,21 @@
    "title": "Technical Lead Manager, Machine Learning, Maneuvering Tech",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=7460470"
   },
+  "7461052": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "onboard developer platform software engineer @ mountain view, ca, usa",
+   "location": "Mountain View, CA, USA",
+   "posted_at": "2025-12-15T21:24:08+00:00",
+   "posted_history": [
+    "2025-12-15T21:24:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "Onboard Developer Platform Software Engineer",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=7461052"
+  },
   "7466529": {
    "closed_at": null,
    "department": "",
@@ -781,7 +815,7 @@
     "2025-12-22T23:35:42+00:00"
    ],
    "reopened": 0,
-   "title": "Machine Learning Engineer Perception LLM/VLM (PhD, New Grad)",
+   "title": "Machine Learning Engineer, Perception, LLM/VLM (PhD, New Grad)",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=7488508"
   },
   "7488596": {
@@ -1850,7 +1884,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=7974252"
   },
   "7975025": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2630,7 +2664,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8065689"
   },
   "8067489": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3500,7 +3534,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8163689"
   },
   "8164291": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3513,6 +3547,21 @@
    "reopened": 0,
    "title": "Staff Software Engineer, Fleet Optimization",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8164291"
+  },
+  "8164435": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "group product manager singapore @ singapore",
+   "location": "Singapore",
+   "posted_at": "2026-10-26T19:07:26+00:00",
+   "posted_history": [
+    "2026-10-26T19:07:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Group Product Manager, Singapore",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8164435"
   },
   "8164870": {
    "closed_at": null,
@@ -4999,6 +5048,36 @@
    "title": "Product Manager, Network Flows Optimization",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8245284"
   },
+  "8247216": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "people strategy manager @ mountain view, ca, usa; san francisco, ca, usa",
+   "location": "Mountain View, CA, USA; San Francisco, CA, USA",
+   "posted_at": "2026-10-26T20:12:26+00:00",
+   "posted_history": [
+    "2026-10-26T20:12:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "People Strategy Manager",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8247216"
+  },
+  "8247352": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "people strategy manager @ mountain view, ca, usa; san francisco, ca, usa",
+   "location": "Mountain View, CA, USA; San Francisco, CA, USA",
+   "posted_at": "2026-10-26T20:12:11+00:00",
+   "posted_history": [
+    "2026-10-26T20:12:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "People Strategy Manager",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8247352"
+  },
   "8248060": {
    "closed_at": null,
    "department": "",
@@ -5435,7 +5514,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8265868"
   },
   "8268204": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5868,6 +5947,21 @@
    "reopened": 0,
    "title": "Senior Staff Technical Lead, Simulator Platform Horizontal Integrations",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8311552"
+  },
+  "8314252": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "group product manager depot operations automation @ mountain view, ca, us; san francisco, ca, us",
+   "location": "Mountain View, CA, US; San Francisco, CA, US",
+   "posted_at": "2026-10-26T23:26:26+00:00",
+   "posted_history": [
+    "2026-10-26T23:26:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Group Product Manager, Depot Operations Automation",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8314252"
   },
   "8315141": {
    "closed_at": null,

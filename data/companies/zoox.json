@@ -31,6 +31,10 @@
   {
    "date": "2026-10-26",
    "open": 236
+  },
+  {
+   "date": "2026-10-27",
+   "open": 232
   }
  ],
  "jobs": {
@@ -215,7 +219,7 @@
    "url": "https://jobs.lever.co/zoox/0a22d356-f7f7-4374-b393-55637772edda"
   },
   "0a34f6c7-209f-4087-8a84-7d7356ba3fc9": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "Accounting",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -245,7 +249,7 @@
    "url": "https://jobs.lever.co/zoox/0a46e434-d154-4ac1-8d56-1c75481b3e4b"
   },
   "0c03e57f-fe89-4a65-857e-af7ec6eadadf": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "Base Operations",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -935,7 +939,7 @@
    "url": "https://jobs.lever.co/zoox/341859c7-6449-482b-a6ef-1717bd97ea78"
   },
   "34dc14a8-80d6-4763-86e5-94287b64d5c7": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "IT Infrastructure",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1368,6 +1372,21 @@
    "reopened": 0,
    "title": "Operations Program Manager, Advanced Hardware Manufacturing",
    "url": "https://jobs.lever.co/zoox/51af47c0-7243-4f27-b13b-dbcde4c06781"
+  },
+  "54057cb7-173f-4dff-a435-7670f80fbf52": {
+   "closed_at": null,
+   "department": "Finance",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "financial analyst robot platform @ foster city, ca",
+   "location": "Foster City, CA",
+   "posted_at": "2026-08-18T17:34:22+00:00",
+   "posted_history": [
+    "2026-08-18T17:34:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Financial Analyst, Robot Platform",
+   "url": "https://jobs.lever.co/zoox/54057cb7-173f-4dff-a435-7670f80fbf52"
   },
   "5569d46e-0af8-4f07-93ea-b635c7403f7d": {
    "closed_at": null,
@@ -2045,7 +2064,7 @@
    "url": "https://jobs.lever.co/zoox/85ac55ee-0fdf-4b17-b57f-b09ce0defebe"
   },
   "85b40783-bc13-4564-b6b6-1ea0801653b1": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "Finance",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2615,7 +2634,7 @@
    "url": "https://jobs.lever.co/zoox/a90cfd71-9434-4013-adf1-85111e5ce65f"
   },
   "ac1e86dd-aaea-4e5e-a9bb-1b95909da846": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "Autonomy Software",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3054,14 +3073,14 @@
    "department": "Software Platforms and Product",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
-   "fp": "systems test engineer @ foster city, ca",
+   "fp": "system test engineer system behavioral analysis @ foster city, ca",
    "location": "Foster City, CA",
    "posted_at": "2026-10-23T23:35:41+00:00",
    "posted_history": [
     "2026-10-23T23:35:41+00:00"
    ],
    "reopened": 0,
-   "title": "Systems Test Engineer",
+   "title": "System Test Engineer, System Behavioral Analysis",
    "url": "https://jobs.lever.co/zoox/cc60a930-5343-4e56-8e13-b7bce71e9945"
   },
   "ccddfb39-ba95-485c-b18e-b9c3cb08dcec": {

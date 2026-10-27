@@ -31,6 +31,10 @@
   {
    "date": "2026-10-26",
    "open": 134
+  },
+  {
+   "date": "2026-10-27",
+   "open": 136
   }
  ],
  "jobs": {
@@ -695,7 +699,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8093320"
   },
   "8096642": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1804,6 +1808,21 @@
    "title": "Senior Executive Business Partner, Strategy & Operations",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8257820"
   },
+  "8258581": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "staff machine learning engineer @ remote - ontario, canada (dnu)",
+   "location": "Remote - Ontario, Canada (DNU)",
+   "posted_at": "2026-10-26T20:57:06+00:00",
+   "posted_history": [
+    "2026-10-26T20:57:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Machine Learning Engineer",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8258581"
+  },
   "8258587": {
    "closed_at": null,
    "department": "",
@@ -2313,6 +2332,36 @@
    "reopened": 0,
    "title": "Senior Field Marketing Manager - DACH",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8306461"
+  },
+  "8319160": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "staff product manager identity @ remote - us",
+   "location": "Remote - US",
+   "posted_at": "2026-10-26T19:41:11+00:00",
+   "posted_history": [
+    "2026-10-26T19:41:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff, Product Manager - Identity",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8319160"
+  },
+  "8325734": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "sr director marketing strategy analytics innovation @ remote - us",
+   "location": "Remote - US",
+   "posted_at": "2026-10-27T02:37:16+00:00",
+   "posted_history": [
+    "2026-10-27T02:37:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Director, Marketing Strategy, Analytics & Innovation",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8325734"
   }
  }
 }

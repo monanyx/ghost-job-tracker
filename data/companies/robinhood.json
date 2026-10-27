@@ -31,6 +31,10 @@
   {
    "date": "2026-10-26",
    "open": 157
+  },
+  {
+   "date": "2026-10-27",
+   "open": 155
   }
  ],
  "jobs": {
@@ -380,7 +384,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/7737164?t=gh_src=&gh_jid=7737164"
   },
   "7747728": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -935,7 +939,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8107212?t=gh_src=&gh_jid=8107212"
   },
   "8112333": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1940,7 +1944,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8244634?t=gh_src=&gh_jid=8244634"
   },
   "8246088": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2073,6 +2077,21 @@
    "reopened": 0,
    "title": "Senior Software Engineer, Web3 Backend",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8255842?t=gh_src=&gh_jid=8255842"
+  },
+  "8257636": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "senior product manager money movement experiences @ menlo park, ca; new york, ny",
+   "location": "Menlo Park, CA; New York, NY",
+   "posted_at": "2026-10-26T19:37:54+00:00",
+   "posted_history": [
+    "2026-10-26T19:37:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Manager, Money Movement Experiences",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8257636?t=gh_src=&gh_jid=8257636"
   },
   "8257655": {
    "closed_at": null,
@@ -2315,7 +2334,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8268415?t=gh_src=&gh_jid=8268415"
   },
   "8274810": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2389,13 +2408,28 @@
    "title": "Senior iOS Engineer, Crypto Perpetuals",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8289388?t=gh_src=&gh_jid=8289388"
   },
+  "8289855": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "trading specialist @ chicago, il; denver, co; lake mary, fl; new york, ny",
+   "location": "Chicago, IL; Denver, CO; Lake Mary, FL; New York, NY",
+   "posted_at": "2026-10-26T22:20:19+00:00",
+   "posted_history": [
+    "2026-10-26T22:20:19+00:00"
+   ],
+   "reopened": 0,
+   "title": "Trading Specialist",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8289855?t=gh_src=&gh_jid=8289855"
+  },
   "8301728": {
    "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
-   "fp": "technical program manager @ menlo park, ca; new york, ny; toronto, canada",
-   "location": "Menlo Park, CA; New York, NY; Toronto, Canada",
+   "fp": "technical program manager @ menlo park, ca; new york, ny",
+   "location": "Menlo Park, CA; New York, NY",
    "posted_at": "2026-10-20T16:22:21+00:00",
    "posted_history": [
     "2026-10-20T16:22:21+00:00"
@@ -2424,14 +2458,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
-   "fp": "staff web engineer advisor products @ new york, ny",
+   "fp": "staff web engineer advisory products @ new york, ny",
    "location": "New York, NY",
    "posted_at": "2026-10-22T22:37:11+00:00",
    "posted_history": [
     "2026-10-22T22:37:11+00:00"
    ],
    "reopened": 0,
-   "title": "Staff Web Engineer, Advisor Products",
+   "title": "Staff Web Engineer, Advisory Products",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8302244?t=gh_src=&gh_jid=8302244"
   },
   "8302496": {

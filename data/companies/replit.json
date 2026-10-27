@@ -31,6 +31,10 @@
   {
    "date": "2026-10-26",
    "open": 37
+  },
+  {
+   "date": "2026-10-27",
+   "open": 36
   }
  ],
  "jobs": {
@@ -80,7 +84,7 @@
    "url": "https://jobs.ashbyhq.com/replit/1015fa18-69d0-49e5-a785-afe5cbcc4760"
   },
   "1066b974-3cd8-42cf-a11c-a4217c06f70f": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -333,6 +337,21 @@
    "reopened": 0,
    "title": "Support Engineer I (NYC, Weekend Shift)",
    "url": "https://jobs.ashbyhq.com/replit/4e64e46f-f69d-4454-89b6-bd27302a464d"
+  },
+  "52bb2b5e-18b9-45bf-99a9-43310f556cf6": {
+   "closed_at": null,
+   "department": "GTM",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "vp communication @ foster city, ca",
+   "location": "Foster City, CA",
+   "posted_at": "2026-10-26T20:45:45+00:00",
+   "posted_history": [
+    "2026-10-26T20:45:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "VP, Communication",
+   "url": "https://jobs.ashbyhq.com/replit/52bb2b5e-18b9-45bf-99a9-43310f556cf6"
   },
   "56d7dc53-f4ba-4147-9aaa-0fd4af7cbb4f": {
    "closed_at": "2026-10-24T08:24:32+00:00",
@@ -801,7 +820,7 @@
    "url": "https://jobs.ashbyhq.com/replit/bfb473fb-6db1-469f-873a-7a3c1d127d21"
   },
   "c05749db-f413-4091-a95c-c8e0aa1b5630": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

@@ -31,6 +31,10 @@
   {
    "date": "2026-10-26",
    "open": 455
+  },
+  {
+   "date": "2026-10-27",
+   "open": 461
   }
  ],
  "jobs": {
@@ -534,14 +538,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "it asset manager @ hybrid",
+   "fp": "manager of it asset management @ hybrid",
    "location": "Hybrid",
    "posted_at": "2026-01-16T00:10:36+00:00",
    "posted_history": [
     "2026-01-16T00:10:36+00:00"
    ],
    "reopened": 0,
-   "title": "IT Asset Manager",
+   "title": "Manager of IT Asset Management",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/7535803?gh_jid=7535803"
   },
   "7541032": {
@@ -948,6 +952,21 @@
    "reopened": 0,
    "title": "Senior Territory Account Executive",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/7774534?gh_jid=7774534"
+  },
+  "7778747": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "senior customer engineer calgary @ distributed",
+   "location": "Distributed",
+   "posted_at": "2026-04-07T15:41:22+00:00",
+   "posted_history": [
+    "2026-04-07T15:41:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Customer Engineer - Calgary",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/7778747?gh_jid=7778747"
   },
   "7783835": {
    "closed_at": null,
@@ -2619,14 +2638,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior customer engineer enterprise commercial san francisco bay ca @ hybrid",
+   "fp": "senior customer engineer enterprise commercial west @ hybrid",
    "location": "Hybrid",
    "posted_at": "2026-08-13T20:06:37+00:00",
    "posted_history": [
     "2026-08-13T20:06:37+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Customer Engineer, Enterprise Commercial - San Francisco Bay, CA",
+   "title": "Senior Customer Engineer, Enterprise Commercial - West",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8126829?gh_jid=8126829"
   },
   "8127204": {
@@ -3305,7 +3324,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8159463?gh_jid=8159463"
   },
   "8160386": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3408,6 +3427,21 @@
    "reopened": 0,
    "title": "DCSC Automation Specialist",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8163023?gh_jid=8163023"
+  },
+  "8163076": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "senior manager infrastructure operations and compliance @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-09-14T09:07:55+00:00",
+   "posted_history": [
+    "2026-09-14T09:07:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Infrastructure Operations and Compliance",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8163076?gh_jid=8163076"
   },
   "8163523": {
    "closed_at": "2026-10-24T08:24:32+00:00",
@@ -4535,7 +4569,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8202120?gh_jid=8202120"
   },
   "8203600": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4775,7 +4809,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8212352?gh_jid=8212352"
   },
   "8212368": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4805,7 +4839,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8213265?gh_jid=8213265"
   },
   "8213269": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4914,14 +4948,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior account executive strategic pursuits banking social services hong kong @ hybrid",
+   "fp": "senior account executive strategic pursuits anz @ hybrid",
    "location": "Hybrid",
    "posted_at": "2026-09-29T08:52:41+00:00",
    "posted_history": [
     "2026-09-29T08:52:41+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Account Executive, Strategic Pursuits - Banking / Social Services, Hong Kong (Based in Singapore)",
+   "title": "Senior Account Executive, Strategic Pursuits, ANZ",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8220063?gh_jid=8220063"
   },
   "8220734": {
@@ -5229,14 +5263,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "technical support engineer application security @ in-office",
+   "fp": "technical support engineer application services @ in-office",
    "location": "In-Office",
    "posted_at": "2026-09-25T07:38:34+00:00",
    "posted_history": [
     "2026-09-25T07:38:34+00:00"
    ],
    "reopened": 0,
-   "title": "Technical Support Engineer, Application Security",
+   "title": "Technical Support Engineer, Application Services",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8229993?gh_jid=8229993"
   },
   "8229998": {
@@ -6024,14 +6058,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior named account executive latam @ hybrid",
+   "fp": "mid market account manager mexico and central america @ hybrid",
    "location": "Hybrid",
    "posted_at": "2026-10-07T18:53:57+00:00",
    "posted_history": [
     "2026-10-07T18:53:57+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Named Account Executive, LATAM",
+   "title": "Mid-Market Account Manager. Mexico and Central America.",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8257165?gh_jid=8257165"
   },
   "8257533": {
@@ -6185,7 +6219,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8263503?gh_jid=8263503"
   },
   "8264043": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6859,6 +6893,21 @@
    "title": "GTM Strategy Senior Principal / Director, Consumption Operations",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8301592?gh_jid=8301592"
   },
+  "8303150": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "sr director developer solutions strategist @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-10-27T00:30:44+00:00",
+   "posted_history": [
+    "2026-10-27T00:30:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Director, Developer Solutions Strategist",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8303150?gh_jid=8303150"
+  },
   "8303996": {
    "closed_at": null,
    "department": "",
@@ -6875,7 +6924,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8303996?gh_jid=8303996"
   },
   "8304060": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -6979,6 +7028,36 @@
    "title": "Principal, GTM Automation, RevOps.",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8306580?gh_jid=8306580"
   },
+  "8306604": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "senior revops technologist @ distributed",
+   "location": "Distributed",
+   "posted_at": "2026-10-26T15:29:57+00:00",
+   "posted_history": [
+    "2026-10-26T15:29:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior RevOps Technologist",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8306604?gh_jid=8306604"
+  },
+  "8306651": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "senior partner account manager southeast midatlantic region @ distributed",
+   "location": "Distributed",
+   "posted_at": "2026-10-26T22:29:33+00:00",
+   "posted_history": [
+    "2026-10-26T22:29:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Partner Account Manager, Southeast & MidAtlantic Region",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8306651?gh_jid=8306651"
+  },
   "8311164": {
    "closed_at": null,
    "department": "",
@@ -7074,14 +7153,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
-   "fp": "senior manager customer engineering central eastern europe @ hybrid",
+   "fp": "senior manager customer engineering central eastern europe israel hebrew speaking @ hybrid",
    "location": "Hybrid",
    "posted_at": "2026-10-23T15:46:33+00:00",
    "posted_history": [
     "2026-10-23T15:46:33+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Manager, Customer Engineering - Central Eastern Europe",
+   "title": "Senior Manager, Customer Engineering, Central Eastern Europe & Israel - Hebrew Speaking",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8312693?gh_jid=8312693"
   },
   "8317751": {
@@ -7098,6 +7177,111 @@
    "reopened": 0,
    "title": "Customer Reliability Engineer",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8317751?gh_jid=8317751"
+  },
+  "8319231": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "model operations lead ai gateway @ in-office",
+   "location": "In-Office",
+   "posted_at": "2026-10-26T17:42:25+00:00",
+   "posted_history": [
+    "2026-10-26T17:42:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Model Operations Lead, AI Gateway",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8319231?gh_jid=8319231"
+  },
+  "8319377": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "enterprise architect financial services toronto canada @ distributed",
+   "location": "Distributed",
+   "posted_at": "2026-10-26T22:34:47+00:00",
+   "posted_history": [
+    "2026-10-26T22:34:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Architect, Financial Services - Toronto, Canada",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8319377?gh_jid=8319377"
+  },
+  "8324952": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "federal account executive treasury @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-10-26T16:58:17+00:00",
+   "posted_history": [
+    "2026-10-26T16:58:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Federal Account Executive, Treasury",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8324952?gh_jid=8324952"
+  },
+  "8324955": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "federal account executive hhs @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-10-26T17:02:32+00:00",
+   "posted_history": [
+    "2026-10-26T17:02:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Federal Account Executive, HHS",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8324955?gh_jid=8324955"
+  },
+  "8324958": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "federal account executive dhs @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-10-26T17:02:28+00:00",
+   "posted_history": [
+    "2026-10-26T17:02:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Federal Account Executive, DHS",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8324958?gh_jid=8324958"
+  },
+  "8324969": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "federal account executive ssa @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-10-26T17:02:35+00:00",
+   "posted_history": [
+    "2026-10-26T17:02:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Federal Account Executive, SSA",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8324969?gh_jid=8324969"
+  },
+  "8324972": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "federal account executive usps @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-10-26T17:03:50+00:00",
+   "posted_history": [
+    "2026-10-26T17:03:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Federal Account Executive, USPS",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8324972?gh_jid=8324972"
   }
  }
 }

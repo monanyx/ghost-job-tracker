@@ -31,6 +31,10 @@
   {
    "date": "2026-10-26",
    "open": 720
+  },
+  {
+   "date": "2026-10-27",
+   "open": 713
   }
  ],
  "jobs": {
@@ -665,7 +669,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=7462961"
   },
   "7466921": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -860,7 +864,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=7554002"
   },
   "7557403": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -935,7 +939,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=7586413"
   },
   "7587353": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1730,7 +1734,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=7895287"
   },
   "7896151": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2315,7 +2319,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=7986004"
   },
   "7990812": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2364,8 +2368,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "account executive enterprise hunter @ us-chicago, us-new york",
-   "location": "US-Chicago, US-New York",
+   "fp": "account executive enterprise hunter @ us-chicago, us-new york, us-san francisco, us-seattle",
+   "location": "US-Chicago, US-New York, US-San Francisco, US-Seattle",
    "posted_at": "2026-06-10T14:30:26+00:00",
    "posted_history": [
     "2026-06-10T14:30:26+00:00"
@@ -2405,7 +2409,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=7994945"
   },
   "7997542": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2480,7 +2484,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8007738"
   },
   "8014533": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2510,7 +2514,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8014761"
   },
   "8014859": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2945,7 +2949,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8044158"
   },
   "8044391": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4250,7 +4254,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8119967"
   },
   "8119970": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5000,7 +5004,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8142077"
   },
   "8142302": {
-   "closed_at": "2026-10-22T08:55:54+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5010,7 +5014,7 @@
    "posted_history": [
     "2026-08-19T20:33:11+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Security Analyst",
    "url": "https://stripe.com/jobs/search?gh_jid=8142302"
   },
@@ -5150,7 +5154,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8144185"
   },
   "8144196": {
-   "closed_at": "2026-10-24T08:24:32+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5160,7 +5164,7 @@
    "posted_history": [
     "2026-10-07T15:39:36+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "AI Engineer",
    "url": "https://stripe.com/jobs/search?gh_jid=8144196"
   },
@@ -5870,7 +5874,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8165259"
   },
   "8165267": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6380,7 +6384,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8175099"
   },
   "8175627": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7265,7 +7269,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8188088"
   },
   "8188323": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -9214,6 +9218,21 @@
    "title": "Full Stack Engineer, Money Movement",
    "url": "https://stripe.com/jobs/search?gh_jid=8226261"
   },
+  "8226890": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "frontend engineer ui platform @ barcelona",
+   "location": "Barcelona",
+   "posted_at": "2026-10-27T09:21:13+00:00",
+   "posted_history": [
+    "2026-10-27T09:21:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Frontend Engineer, UI Platform",
+   "url": "https://stripe.com/jobs/search?gh_jid=8226890"
+  },
   "8226893": {
    "closed_at": null,
    "department": "",
@@ -10145,7 +10164,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8244505"
   },
   "8244515": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -10459,6 +10478,21 @@
    "title": "Staff Software Engineer, Link - Consumer Preference",
    "url": "https://stripe.com/jobs/search?gh_jid=8257354"
   },
+  "8257494": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "sales manager brazil @ sao paulo, brazil",
+   "location": "Sao Paulo, Brazil",
+   "posted_at": "2026-10-26T15:08:31+00:00",
+   "posted_history": [
+    "2026-10-26T15:08:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales Manager - Brazil",
+   "url": "https://stripe.com/jobs/search?gh_jid=8257494"
+  },
   "8257500": {
    "closed_at": null,
    "department": "",
@@ -10599,8 +10633,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
-   "fp": "staff software engineer payments intelligence @ seattle, new york, san francisco",
-   "location": "Seattle, New York, San Francisco",
+   "fp": "staff software engineer payments intelligence @ new york, toronto",
+   "location": "New York, Toronto",
    "posted_at": "2026-10-22T19:52:24+00:00",
    "posted_history": [
     "2026-10-22T19:52:24+00:00"
@@ -11630,7 +11664,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8301946"
   },
   "8303082": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
@@ -11704,6 +11738,36 @@
    "title": "Product Manager, Radar - Fraud and Abuse Prevention",
    "url": "https://stripe.com/jobs/search?gh_jid=8306158"
   },
+  "8311069": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "android engineer identity @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-10-26T20:50:46+00:00",
+   "posted_history": [
+    "2026-10-26T20:50:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "Android Engineer, Identity",
+   "url": "https://stripe.com/jobs/search?gh_jid=8311069"
+  },
+  "8311082": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "ios engineer identity @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-10-26T20:53:41+00:00",
+   "posted_history": [
+    "2026-10-26T20:53:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "iOS Engineer, Identity",
+   "url": "https://stripe.com/jobs/search?gh_jid=8311082"
+  },
   "8314235": {
    "closed_at": null,
    "department": "",
@@ -11763,6 +11827,36 @@
    "reopened": 0,
    "title": "Account Executive, Money Management- Issuing and Treasury",
    "url": "https://stripe.com/jobs/search?gh_jid=8323732"
+  },
+  "8324207": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "processing cost analyst @ in-bengaluru",
+   "location": "IN-Bengaluru",
+   "posted_at": "2026-10-26T13:24:50+00:00",
+   "posted_history": [
+    "2026-10-26T13:24:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Processing Cost Analyst",
+   "url": "https://stripe.com/jobs/search?gh_jid=8324207"
+  },
+  "8325807": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "technical operations engineer @ south san francisco, ca",
+   "location": "South San Francisco, CA",
+   "posted_at": "2026-10-26T23:41:13+00:00",
+   "posted_history": [
+    "2026-10-26T23:41:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Operations Engineer",
+   "url": "https://stripe.com/jobs/search?gh_jid=8325807"
   }
  }
 }

@@ -31,6 +31,10 @@
   {
    "date": "2026-10-26",
    "open": 268
+  },
+  {
+   "date": "2026-10-27",
+   "open": 267
   }
  ],
  "jobs": {
@@ -1089,14 +1093,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior software engineer data infrastructure @ san mateo, ca, united states",
+   "fp": "senior software engineer metric platform @ san mateo, ca, united states",
    "location": "San Mateo, CA, United States",
    "posted_at": "2026-06-23T16:57:49+00:00",
    "posted_history": [
     "2026-06-23T16:57:49+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Software Engineer, Data Infrastructure",
+   "title": "Senior Software Engineer, Metric Platform",
    "url": "https://careers.roblox.com/jobs/8014486?gh_jid=8014486"
   },
   "8015824": {
@@ -1224,14 +1228,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "principal software engineer data infrastructure @ san mateo, ca, united states",
+   "fp": "principal software engineer metrics platform @ san mateo, ca, united states",
    "location": "San Mateo, CA, United States",
    "posted_at": "2026-06-26T20:54:00+00:00",
    "posted_history": [
     "2026-06-26T20:54:00+00:00"
    ],
    "reopened": 0,
-   "title": "Principal Software Engineer, Data Infrastructure",
+   "title": "Principal Software Engineer, Metrics Platform",
    "url": "https://careers.roblox.com/jobs/8029695?gh_jid=8029695"
   },
   "8036287": {
@@ -1819,6 +1823,21 @@
    "title": "Senior/Principal Product Manager, Engine Networking",
    "url": "https://careers.roblox.com/jobs/8079846?gh_jid=8079846"
   },
+  "8080046": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "talent sourcing partner @ san mateo, ca, united states",
+   "location": "San Mateo, CA, United States",
+   "posted_at": "2026-10-27T05:38:00+00:00",
+   "posted_history": [
+    "2026-10-27T05:38:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Talent Sourcing Partner (Short-Term)",
+   "url": "https://careers.roblox.com/jobs/8080046?gh_jid=8080046"
+  },
   "8082263": {
    "closed_at": null,
    "department": "",
@@ -1940,7 +1959,7 @@
    "url": "https://careers.roblox.com/jobs/8094683?gh_jid=8094683"
   },
   "8097810": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2210,7 +2229,7 @@
    "url": "https://careers.roblox.com/jobs/8127056?gh_jid=8127056"
   },
   "8127058": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2510,7 +2529,7 @@
    "url": "https://careers.roblox.com/jobs/8159886?gh_jid=8159886"
   },
   "8160843": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3050,7 +3069,7 @@
    "url": "https://careers.roblox.com/jobs/8202168?gh_jid=8202168"
   },
   "8202973": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3155,7 +3174,7 @@
    "url": "https://careers.roblox.com/jobs/8209006?gh_jid=8209006"
   },
   "8209010": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3605,7 +3624,7 @@
    "url": "https://careers.roblox.com/jobs/8231390?gh_jid=8231390"
   },
   "8231864": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3678,6 +3697,21 @@
    "reopened": 0,
    "title": "Technical Developer Connections Manager",
    "url": "https://careers.roblox.com/jobs/8234535?gh_jid=8234535"
+  },
+  "8238465": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "senior software engineer runtime @ san mateo, ca, united states",
+   "location": "San Mateo, CA, United States",
+   "posted_at": "2026-10-26T20:13:26+00:00",
+   "posted_history": [
+    "2026-10-26T20:13:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Runtime",
+   "url": "https://careers.roblox.com/jobs/8238465?gh_jid=8238465"
   },
   "8238467": {
    "closed_at": null,
@@ -3919,6 +3953,21 @@
    "title": "Principal Software Engineer, Agent Infrastructure",
    "url": "https://careers.roblox.com/jobs/8259270?gh_jid=8259270"
   },
+  "8259453": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "software engineer frontend economy @ san mateo, ca, united states",
+   "location": "San Mateo, CA, United States",
+   "posted_at": "2026-10-26T16:12:59+00:00",
+   "posted_history": [
+    "2026-10-26T16:12:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Frontend - Economy",
+   "url": "https://careers.roblox.com/jobs/8259453?gh_jid=8259453"
+  },
   "8259606": {
    "closed_at": null,
    "department": "",
@@ -4129,6 +4178,21 @@
    "title": "Senior Live Ops Producer",
    "url": "https://careers.roblox.com/jobs/8280125?gh_jid=8280125"
   },
+  "8282502": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "equity compensation program manager @ san mateo, ca, united states",
+   "location": "San Mateo, CA, United States",
+   "posted_at": "2026-10-26T19:51:45+00:00",
+   "posted_history": [
+    "2026-10-26T19:51:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Equity Compensation Program Manager",
+   "url": "https://careers.roblox.com/jobs/8282502?gh_jid=8282502"
+  },
   "8282674": {
    "closed_at": null,
    "department": "",
@@ -4323,6 +4387,21 @@
    "reopened": 0,
    "title": "Senior Technical Artist",
    "url": "https://careers.roblox.com/jobs/8304814?gh_jid=8304814"
+  },
+  "8317585": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "senior brand designer illustration graphic @ san mateo, ca, united states",
+   "location": "San Mateo, CA, United States",
+   "posted_at": "2026-10-26T22:57:42+00:00",
+   "posted_history": [
+    "2026-10-26T22:57:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Brand Designer, Illustration & Graphic",
+   "url": "https://careers.roblox.com/jobs/8317585?gh_jid=8317585"
   }
  }
 }

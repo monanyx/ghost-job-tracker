@@ -31,6 +31,10 @@
   {
    "date": "2026-10-26",
    "open": 459
+  },
+  {
+   "date": "2026-10-27",
+   "open": 447
   }
  ],
  "jobs": {
@@ -335,7 +339,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/5593102"
   },
   "5643020": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -695,7 +699,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/6682078"
   },
   "6706184": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -860,7 +864,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/6973900"
   },
   "6978647": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1010,7 +1014,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7190936"
   },
   "7194287": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1235,7 +1239,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7467955"
   },
   "7468130": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1308,6 +1312,21 @@
    "reopened": 0,
    "title": "Service Technician, Service Operations, Labs (PM Shift) - DoorDash Dot",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7491310"
+  },
+  "7492146": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "industry manager new verticals @ new york, ny; san francisco, ca; los angeles, ca; atlanta, ga; chicago, il",
+   "location": "New York, NY; San Francisco, CA; Los Angeles, CA; Atlanta, GA; Chicago, IL",
+   "posted_at": "2025-12-30T16:16:56+00:00",
+   "posted_history": [
+    "2025-12-30T16:16:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Industry Manager, New Verticals",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7492146"
   },
   "7516018": {
    "closed_at": null,
@@ -1629,14 +1648,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "manager regional sales @ denver, co; austin, tx",
+   "fp": "smb sales manager saas @ denver, co; austin, tx",
    "location": "Denver, CO; Austin, TX",
    "posted_at": "2026-10-02T14:12:52+00:00",
    "posted_history": [
     "2026-10-02T14:12:52+00:00"
    ],
    "reopened": 0,
-   "title": "Manager, Regional Sales",
+   "title": "SMB Sales Manager - SaaS",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7791630"
   },
   "7793527": {
@@ -1850,7 +1869,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7859504"
   },
   "7859605": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2165,7 +2184,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7980080"
   },
   "7983379": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2585,7 +2604,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8049282"
   },
   "8053241": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2840,7 +2859,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8076068"
   },
   "8076663": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4074,14 +4093,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "associate manager new verticals fulfillment dasher strategy operations @ san francisco, ca",
-   "location": "San Francisco, CA ",
+   "fp": "associate manager new verticals fulfillment product strategy operations @ new york, ny; san francisco, ca; los angeles, ca; chicago, il; seattle, wa; tempe, az; washington, d.c.",
+   "location": "New York, NY; San Francisco, CA; Los Angeles, CA; Chicago, IL; Seattle, WA; Tempe, AZ; Washington, D.C.",
    "posted_at": "2026-08-26T20:33:17+00:00",
    "posted_history": [
     "2026-08-26T20:33:17+00:00"
    ],
    "reopened": 0,
-   "title": "Associate Manager, New Verticals - Fulfillment Dasher Strategy & Operations",
+   "title": "Associate Manager, New Verticals - Fulfillment Product Strategy & Operations",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8160170"
   },
   "8160193": {
@@ -6140,7 +6159,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8259455"
   },
   "8259471": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6170,7 +6189,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8259552"
   },
   "8259850": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6185,7 +6204,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8259850"
   },
   "8259851": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6519,8 +6538,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior customer success manager @ san francisco, ca; los angeles, ca",
-   "location": "San Francisco, CA; Los Angeles, CA",
+   "fp": "senior customer success manager @ san francisco, ca; los angeles, ca; dallas, tx; houston, tx; austin, tx",
+   "location": "San Francisco, CA; Los Angeles, CA; Dallas, TX; Houston, TX; Austin, TX",
    "posted_at": "2026-10-09T23:39:55+00:00",
    "posted_history": [
     "2026-10-09T23:39:55+00:00"
@@ -6950,7 +6969,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8289498"
   },
   "8289516": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -6965,7 +6984,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8289516"
   },
   "8292690": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7224,8 +7243,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
-   "fp": "associate manager customer success @ los angeles, ca",
-   "location": "Los Angeles, CA",
+   "fp": "associate manager customer success @ los angeles, ca; san francisco, ca",
+   "location": "Los Angeles, CA; San francisco, CA",
    "posted_at": "2026-10-21T18:28:21+00:00",
    "posted_history": [
     "2026-10-21T18:28:21+00:00"
@@ -7344,8 +7363,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
-   "fp": "associate manager integrated marketing strategic bets @ new york, ny; san francisco, ca; seattle, wa; los angeles, ca; chicago, il; austin, tx; denver, co; atlanta, ga; miami, fl; boston, ma; • washington, d.c.",
-   "location": "New York, NY; San Francisco, CA; Seattle, WA; Los Angeles, CA; Chicago, IL; Austin, TX; Denver, CO; Atlanta, GA; Miami, FL; Boston, MA; • Washington, D.C.",
+   "fp": "associate manager integrated marketing strategic bets @ new york, ny; san francisco, ca; seattle, wa; los angeles, ca; chicago, il; austin, tx; denver, co; atlanta, ga; miami, fl; boston, ma; washington, d.c.",
+   "location": "New York, NY; San Francisco, CA; Seattle, WA; Los Angeles, CA; Chicago, IL; Austin, TX; Denver, CO; Atlanta, GA; Miami, FL; Boston, MA;  Washington, D.C.",
    "posted_at": "2026-10-22T16:44:39+00:00",
    "posted_history": [
     "2026-10-22T16:44:39+00:00"
@@ -7429,8 +7448,23 @@
    "title": "Associate Manager, B2B Retention Marketing, DoorDash for Business",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8319010"
   },
-  "8319116": {
+  "8319110": {
    "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "assistant site manager dashmart newark nj @ newark, nj",
+   "location": "Newark, NJ",
+   "posted_at": "2026-10-26T19:15:48+00:00",
+   "posted_history": [
+    "2026-10-26T19:15:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "Assistant Site Manager, DashMart - Newark, NJ",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8319110"
+  },
+  "8319116": {
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
@@ -7443,6 +7477,21 @@
    "reopened": 0,
    "title": "District Manager - Dashmart- Indiana",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8319116"
+  },
+  "8324659": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "manager dasher logistics capacity planning @ chicago, il; dallas, tx; atlanta, ga; los angeles, ca; new york city, ny",
+   "location": "Chicago, IL; Dallas, TX; Atlanta, GA; Los Angeles, CA; New York City, NY",
+   "posted_at": "2026-10-26T15:24:02+00:00",
+   "posted_history": [
+    "2026-10-26T15:24:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Dasher & Logistics - Capacity Planning",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8324659"
   }
  }
 }

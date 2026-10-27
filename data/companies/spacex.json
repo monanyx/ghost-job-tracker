@@ -31,6 +31,10 @@
   {
    "date": "2026-10-26",
    "open": 2811
+  },
+  {
+   "date": "2026-10-27",
+   "open": 2834
   }
  ],
  "jobs": {
@@ -530,7 +534,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8455876002?gh_jid=8455876002"
   },
   "8456295002": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2300,7 +2304,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8506512002?gh_jid=8506512002"
   },
   "8506522002": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4775,7 +4779,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8546317002?gh_jid=8546317002"
   },
   "8546353002": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5915,7 +5919,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8557272002?gh_jid=8557272002"
   },
   "8557503002": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5930,7 +5934,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8557503002?gh_jid=8557503002"
   },
   "8557504002": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6009,14 +6013,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "sourcing manager mechanical commodities @ redmond, wa",
+   "fp": "sourcing manager electro mechanical commodities @ redmond, wa",
    "location": "Redmond, WA",
    "posted_at": "2026-05-22T15:50:32+00:00",
    "posted_history": [
     "2026-05-22T15:50:32+00:00"
    ],
    "reopened": 0,
-   "title": "Sourcing Manager, Mechanical Commodities (Starlink)",
+   "title": "Sourcing Manager, Electro Mechanical Commodities (Starlink Aviation)",
    "url": "https://boards.greenhouse.io/spacex/jobs/8558315002?gh_jid=8558315002"
   },
   "8558360002": {
@@ -6789,8 +6793,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "sr rf front end module design engineer @ sunnyvale, ca",
-   "location": "Sunnyvale, CA",
+   "fp": "sr rf front end module design engineer @ palo alto, ca",
+   "location": "Palo Alto, CA",
    "posted_at": "2026-05-22T15:43:57+00:00",
    "posted_history": [
     "2026-05-22T15:43:57+00:00"
@@ -7295,7 +7299,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8565155002?gh_jid=8565155002"
   },
   "8565171002": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
@@ -15534,14 +15538,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "sourcing manager mechanical commodities @ bastrop, tx",
+   "fp": "sourcing manager electro mechanical commodities @ bastrop, tx",
    "location": "Bastrop, TX",
    "posted_at": "2026-07-17T15:58:57+00:00",
    "posted_history": [
     "2026-07-17T15:58:57+00:00"
    ],
    "reopened": 0,
-   "title": "Sourcing Manager, Mechanical Commodities (Starlink)",
+   "title": "Sourcing Manager, Electro Mechanical Commodities (Starlink Aviation)",
    "url": "https://boards.greenhouse.io/spacex/jobs/8638610002?gh_jid=8638610002"
   },
   "8638628002": {
@@ -15549,14 +15553,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "sourcing specialist mechanical commodities @ redmond, wa",
+   "fp": "sourcing specialist electro mechanical commodities @ redmond, wa",
    "location": "Redmond, WA",
    "posted_at": "2026-07-17T16:00:13+00:00",
    "posted_history": [
     "2026-07-17T16:00:13+00:00"
    ],
    "reopened": 0,
-   "title": "Sourcing Specialist, Mechanical Commodities (Starlink)",
+   "title": "Sourcing Specialist, Electro Mechanical Commodities (Starlink Aviation)",
    "url": "https://boards.greenhouse.io/spacex/jobs/8638628002?gh_jid=8638628002"
   },
   "8638708002": {
@@ -15843,6 +15847,21 @@
    "reopened": 0,
    "title": "Automated Welding Technician (Starship)",
    "url": "https://boards.greenhouse.io/spacex/jobs/8639955002?gh_jid=8639955002"
+  },
+  "8639961002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "production director @ starbase, tx",
+   "location": "Starbase, TX",
+   "posted_at": "2026-07-20T16:19:47+00:00",
+   "posted_history": [
+    "2026-07-20T16:19:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Production Director (Starship)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8639961002?gh_jid=8639961002"
   },
   "8640515002": {
    "closed_at": null,
@@ -22865,7 +22884,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8698015002?gh_jid=8698015002"
   },
   "8698140002": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -22880,7 +22899,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8698140002?gh_jid=8698140002"
   },
   "8698173002": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -25310,7 +25329,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8726028002?gh_jid=8726028002"
   },
   "8726249002": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -26469,14 +26488,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "sourcing specialist mechanical commodities @ bastrop, tx",
+   "fp": "sourcing specialist electro mechanical commodities @ bastrop, tx",
    "location": "Bastrop, TX",
    "posted_at": "2026-08-20T15:26:15+00:00",
    "posted_history": [
     "2026-08-20T15:26:15+00:00"
    ],
    "reopened": 0,
-   "title": "Sourcing Specialist, Mechanical Commodities (Starlink)",
+   "title": "Sourcing Specialist, Electro Mechanical Commodities (Starlink Aviation)",
    "url": "https://boards.greenhouse.io/spacex/jobs/8733562002?gh_jid=8733562002"
   },
   "8733698002": {
@@ -26975,7 +26994,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8738736002?gh_jid=8738736002"
   },
   "8738842002": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -28325,7 +28344,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8757865002?gh_jid=8757865002"
   },
   "8758307002": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -32060,7 +32079,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8805854002?gh_jid=8805854002"
   },
   "8806101002": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -34353,6 +34372,21 @@
    "reopened": 0,
    "title": "Tooling Designer, High Pressure Die Casting",
    "url": "https://boards.greenhouse.io/spacex/jobs/8828838002?gh_jid=8828838002"
+  },
+  "8829300002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "sr accountant @ palo alto, ca",
+   "location": "Palo Alto, CA",
+   "posted_at": "2026-09-21T23:49:08+00:00",
+   "posted_history": [
+    "2026-09-21T23:49:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Accountant",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8829300002?gh_jid=8829300002"
   },
   "8829307002": {
    "closed_at": null,
@@ -36665,7 +36699,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8854691002?gh_jid=8854691002"
   },
   "8854707002": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -36725,7 +36759,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8856350002?gh_jid=8856350002"
   },
   "8856394002": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -38870,7 +38904,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8871575002?gh_jid=8871575002"
   },
   "8871597002": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -39934,6 +39968,21 @@
    "title": "Payroll Analyst",
    "url": "https://boards.greenhouse.io/spacex/jobs/8882526002?gh_jid=8882526002"
   },
+  "8882529002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "electrical engineer @ starbase, tx",
+   "location": "Starbase, TX",
+   "posted_at": "2026-10-27T05:14:32+00:00",
+   "posted_history": [
+    "2026-10-27T05:14:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Electrical Engineer (Starship Avionics)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8882529002?gh_jid=8882529002"
+  },
   "8882551002": {
    "closed_at": null,
    "department": "",
@@ -40550,7 +40599,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8886434002?gh_jid=8886434002"
   },
   "8886443002": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -42065,7 +42114,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8896632002?gh_jid=8896632002"
   },
   "8896660002": {
-   "closed_at": null,
+   "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -42634,6 +42683,21 @@
    "title": "Test Specialist, Avionics (Starshield)",
    "url": "https://boards.greenhouse.io/spacex/jobs/8904061002?gh_jid=8904061002"
   },
+  "8904372002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "production coordinator @ redmond, wa",
+   "location": "Redmond, WA",
+   "posted_at": "2026-10-26T15:03:47+00:00",
+   "posted_history": [
+    "2026-10-26T15:03:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Production Coordinator (Starlink)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8904372002?gh_jid=8904372002"
+  },
   "8904563002": {
    "closed_at": null,
    "department": "",
@@ -42844,6 +42908,36 @@
    "title": "Fluids Engineer, Production (Starship)",
    "url": "https://boards.greenhouse.io/spacex/jobs/8906243002?gh_jid=8906243002"
   },
+  "8906503002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "sr commissioning manager @ starbase, tx",
+   "location": "Starbase, TX",
+   "posted_at": "2026-10-27T05:19:03+00:00",
+   "posted_history": [
+    "2026-10-27T05:19:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Commissioning Manager (Power Plant)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8906503002?gh_jid=8906503002"
+  },
+  "8906742002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "sr automation controls engineer @ hawthorne, ca",
+   "location": "Hawthorne, CA",
+   "posted_at": "2026-10-26T17:01:56+00:00",
+   "posted_history": [
+    "2026-10-26T17:01:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Automation & Controls Engineer (Asset Engineering)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8906742002?gh_jid=8906742002"
+  },
   "8907194002": {
    "closed_at": null,
    "department": "",
@@ -42858,6 +42952,21 @@
    "reopened": 0,
    "title": "Thermal Engineer (Starshield)",
    "url": "https://boards.greenhouse.io/spacex/jobs/8907194002?gh_jid=8907194002"
+  },
+  "8907587002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "maintenance manager @ starbase, tx",
+   "location": "Starbase, TX",
+   "posted_at": "2026-10-27T05:23:59+00:00",
+   "posted_history": [
+    "2026-10-27T05:23:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Maintenance Manager (Power Plant)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8907587002?gh_jid=8907587002"
   },
   "8907598002": {
    "closed_at": null,
@@ -42904,6 +43013,21 @@
    "title": "Manager, Facilities (Starbase)",
    "url": "https://boards.greenhouse.io/spacex/jobs/8907632002?gh_jid=8907632002"
   },
+  "8907665002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "operations manager @ starbase, tx",
+   "location": "Starbase, TX",
+   "posted_at": "2026-10-27T05:28:32+00:00",
+   "posted_history": [
+    "2026-10-27T05:28:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Operations Manager (Power Plant)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8907665002?gh_jid=8907665002"
+  },
   "8907678002": {
    "closed_at": null,
    "department": "",
@@ -42933,6 +43057,21 @@
    "reopened": 0,
    "title": "Talent Sourcer (Starlink)",
    "url": "https://boards.greenhouse.io/spacex/jobs/8907749002?gh_jid=8907749002"
+  },
+  "8907751002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "operations maintenance manager @ starbase, tx",
+   "location": "Starbase, TX",
+   "posted_at": "2026-10-27T05:38:53+00:00",
+   "posted_history": [
+    "2026-10-27T05:38:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "Operations & Maintenance Manager (Power Plant)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8907751002?gh_jid=8907751002"
   },
   "8907759002": {
    "closed_at": null,
@@ -43023,6 +43162,21 @@
    "reopened": 0,
    "title": "Barista - Temporary (Bastrop)",
    "url": "https://boards.greenhouse.io/spacex/jobs/8907784002?gh_jid=8907784002"
+  },
+  "8908024002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "executive it support specialist @ mcgregor, tx",
+   "location": "McGregor, TX",
+   "posted_at": "2026-10-26T15:56:39+00:00",
+   "posted_history": [
+    "2026-10-26T15:56:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Executive IT Support Specialist",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8908024002?gh_jid=8908024002"
   },
   "8908051002": {
    "closed_at": "2026-10-24T08:24:32+00:00",
@@ -43384,6 +43538,21 @@
    "title": "Fleet Maintenance Technician",
    "url": "https://boards.greenhouse.io/spacex/jobs/8910225002?gh_jid=8910225002"
   },
+  "8910368002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "recruiting coordinator @ palo alto, ca",
+   "location": "Palo Alto, CA",
+   "posted_at": "2026-10-26T18:27:54+00:00",
+   "posted_history": [
+    "2026-10-26T18:27:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Recruiting Coordinator (Palo Alto)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8910368002?gh_jid=8910368002"
+  },
   "8910816002": {
    "closed_at": null,
    "department": "",
@@ -43459,6 +43628,36 @@
    "title": "Welder (Starship Pad Build) - Level 4/5",
    "url": "https://boards.greenhouse.io/spacex/jobs/8911283002?gh_jid=8911283002"
   },
+  "8911288002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "government affairs manager @ hawthorne, ca",
+   "location": "Hawthorne, CA",
+   "posted_at": "2026-10-26T21:58:12+00:00",
+   "posted_history": [
+    "2026-10-26T21:58:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Government Affairs Manager (Pacific)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8911288002?gh_jid=8911288002"
+  },
+  "8911291002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "government affairs manager @ redmond, wa",
+   "location": "Redmond, WA",
+   "posted_at": "2026-10-26T21:58:14+00:00",
+   "posted_history": [
+    "2026-10-26T21:58:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Government Affairs Manager (Pacific)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8911291002?gh_jid=8911291002"
+  },
   "8911618002": {
    "closed_at": null,
    "department": "",
@@ -43473,6 +43672,36 @@
    "reopened": 0,
    "title": "Supervisor, Test System Production (Starlink)",
    "url": "https://boards.greenhouse.io/spacex/jobs/8911618002?gh_jid=8911618002"
+  },
+  "8911675002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "automation controls engineer @ hawthorne, ca",
+   "location": "Hawthorne, CA",
+   "posted_at": "2026-10-27T00:30:44+00:00",
+   "posted_history": [
+    "2026-10-27T00:30:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Automation & Controls Engineer (Facilities)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8911675002?gh_jid=8911675002"
+  },
+  "8911773002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "government affairs manager @ austin, tx",
+   "location": "Austin, TX",
+   "posted_at": "2026-10-26T21:58:35+00:00",
+   "posted_history": [
+    "2026-10-26T21:58:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Government Affairs Manager (Central)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8911773002?gh_jid=8911773002"
   },
   "8912121002": {
    "closed_at": null,
@@ -43534,6 +43763,36 @@
    "title": "Sr. IC Package Design Engineer (Silicon Engineering)",
    "url": "https://boards.greenhouse.io/spacex/jobs/8912202002?gh_jid=8912202002"
   },
+  "8912229002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "production coordinator tool and die level 4 5 @ bastrop, tx",
+   "location": "Bastrop, TX",
+   "posted_at": "2026-10-26T21:58:31+00:00",
+   "posted_history": [
+    "2026-10-26T21:58:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Production Coordinator, Tool and Die - Level 4/5",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8912229002?gh_jid=8912229002"
+  },
+  "8912402002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "production scheduler @ redmond, wa",
+   "location": "Redmond, WA",
+   "posted_at": "2026-10-26T23:05:45+00:00",
+   "posted_history": [
+    "2026-10-26T23:05:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Production Scheduler (Microelectronics)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8912402002?gh_jid=8912402002"
+  },
   "8912649002": {
    "closed_at": null,
    "department": "",
@@ -43548,6 +43807,36 @@
    "reopened": 0,
    "title": "Launch Pad Engineer, Fluid Systems",
    "url": "https://boards.greenhouse.io/spacex/jobs/8912649002?gh_jid=8912649002"
+  },
+  "8912759002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "sr electrical design engineer @ starbase, tx",
+   "location": "Starbase, TX",
+   "posted_at": "2026-10-26T22:12:53+00:00",
+   "posted_history": [
+    "2026-10-26T22:12:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Electrical Design Engineer (PE)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8912759002?gh_jid=8912759002"
+  },
+  "8912807002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "sr transmission generation planning engineer @ starbase, tx",
+   "location": "Starbase, TX",
+   "posted_at": "2026-10-26T22:12:55+00:00",
+   "posted_history": [
+    "2026-10-26T22:12:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Transmission & Generation Planning Engineer (PE)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8912807002?gh_jid=8912807002"
   },
   "8913325002": {
    "closed_at": null,
@@ -43564,6 +43853,21 @@
    "title": "Telecommunications Engineer",
    "url": "https://boards.greenhouse.io/spacex/jobs/8913325002?gh_jid=8913325002"
   },
+  "8914768002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "sr it network engineer @ cape canaveral, fl",
+   "location": "Cape Canaveral, FL",
+   "posted_at": "2026-10-26T18:28:51+00:00",
+   "posted_history": [
+    "2026-10-26T18:28:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. IT Network Engineer",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8914768002?gh_jid=8914768002"
+  },
   "8915956002": {
    "closed_at": null,
    "department": "",
@@ -43579,6 +43883,51 @@
    "title": "Application Software Engineer, Launch Software",
    "url": "https://boards.greenhouse.io/spacex/jobs/8915956002?gh_jid=8915956002"
   },
+  "8916019002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "global supply manager @ cape canaveral, fl",
+   "location": "Cape Canaveral, FL",
+   "posted_at": "2026-10-26T14:37:18+00:00",
+   "posted_history": [
+    "2026-10-26T14:37:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Global Supply Manager (Gas Turbine Power Sourcing)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8916019002?gh_jid=8916019002"
+  },
+  "8916033002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "global supply manager @ starbase, tx",
+   "location": "Starbase, TX",
+   "posted_at": "2026-10-26T14:37:20+00:00",
+   "posted_history": [
+    "2026-10-26T14:37:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Global Supply Manager (Gas Turbine Power Sourcing)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8916033002?gh_jid=8916033002"
+  },
+  "8916036002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "global supply manager @ memphis, tn",
+   "location": "Memphis, TN",
+   "posted_at": "2026-10-26T14:37:22+00:00",
+   "posted_history": [
+    "2026-10-26T14:37:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Global Supply Manager (Gas Turbine Power Sourcing)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8916036002?gh_jid=8916036002"
+  },
   "8916039002": {
    "closed_at": null,
    "department": "",
@@ -43593,6 +43942,21 @@
    "reopened": 0,
    "title": "Power Systems Engineer, Launch Pad (Starship)",
    "url": "https://boards.greenhouse.io/spacex/jobs/8916039002?gh_jid=8916039002"
+  },
+  "8916040002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "hvac technician temporary @ cape canaveral, fl",
+   "location": "Cape Canaveral, FL",
+   "posted_at": "2026-10-26T14:43:34+00:00",
+   "posted_history": [
+    "2026-10-26T14:43:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "HVAC Technician (Night Shift) - Temporary",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8916040002?gh_jid=8916040002"
   },
   "8916241002": {
    "closed_at": null,
@@ -43623,6 +43987,246 @@
    "reopened": 0,
    "title": "Automation & Controls Specialist, Launch Pad (Starship)",
    "url": "https://boards.greenhouse.io/spacex/jobs/8916251002?gh_jid=8916251002"
+  },
+  "8916586002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "sourcing specialist electro mechanical commodities @ woodinville, wa",
+   "location": "Woodinville, WA",
+   "posted_at": "2026-10-26T11:50:41+00:00",
+   "posted_history": [
+    "2026-10-26T11:50:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sourcing Specialist, Electro Mechanical Commodities (Starlink Aviation)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8916586002?gh_jid=8916586002"
+  },
+  "8916590002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "sourcing manager electro mechanical commodities @ woodinville, wa",
+   "location": "Woodinville, WA",
+   "posted_at": "2026-10-26T11:59:09+00:00",
+   "posted_history": [
+    "2026-10-26T11:59:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sourcing Manager, Electro Mechanical Commodities (Starlink Aviation)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8916590002?gh_jid=8916590002"
+  },
+  "8917154002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "production coordinator @ starbase, tx",
+   "location": "Starbase, TX",
+   "posted_at": "2026-10-26T16:12:27+00:00",
+   "posted_history": [
+    "2026-10-26T16:12:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Production Coordinator (Fleet Maintenance)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8917154002?gh_jid=8917154002"
+  },
+  "8917480002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "security protective operations center operator @ hawthorne, ca",
+   "location": "Hawthorne, CA",
+   "posted_at": "2026-10-26T22:57:02+00:00",
+   "posted_history": [
+    "2026-10-26T22:57:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Security Protective Operations Center Operator (Night Shift)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8917480002?gh_jid=8917480002"
+  },
+  "8917528002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "avionics build specialist @ starbase, tx",
+   "location": "Starbase, TX",
+   "posted_at": "2026-10-27T05:10:01+00:00",
+   "posted_history": [
+    "2026-10-27T05:10:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "Avionics Build Specialist (Starship)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8917528002?gh_jid=8917528002"
+  },
+  "8917583002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "financial analyst @ hawthorne, ca",
+   "location": "Hawthorne, CA",
+   "posted_at": "2026-10-26T17:59:22+00:00",
+   "posted_history": [
+    "2026-10-26T17:59:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Financial Analyst",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8917583002?gh_jid=8917583002"
+  },
+  "8917749002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "sr device physics engineer solar cells @ bastrop, tx",
+   "location": "Bastrop, TX",
+   "posted_at": "2026-10-26T19:58:13+00:00",
+   "posted_history": [
+    "2026-10-26T19:58:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Device Physics Engineer, Solar Cells (Starlink)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8917749002?gh_jid=8917749002"
+  },
+  "8917907002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "sr government affairs manager @ anderson, tx",
+   "location": "Anderson, TX",
+   "posted_at": "2026-10-26T23:27:20+00:00",
+   "posted_history": [
+    "2026-10-26T23:27:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Government Affairs Manager",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8917907002?gh_jid=8917907002"
+  },
+  "8918126002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "spatial interior designer @ bastrop, tx",
+   "location": "Bastrop, TX",
+   "posted_at": "2026-10-26T21:38:53+00:00",
+   "posted_history": [
+    "2026-10-26T21:38:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "Spatial Interior Designer (Starlink)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8918126002?gh_jid=8918126002"
+  },
+  "8918369002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "sr fluids engineer production @ starbase, tx",
+   "location": "Starbase, TX",
+   "posted_at": "2026-10-27T04:42:50+00:00",
+   "posted_history": [
+    "2026-10-27T04:42:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Fluids Engineer, Production (Starship)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8918369002?gh_jid=8918369002"
+  },
+  "8918371002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "it network infrastructure technician @ cape canaveral, fl",
+   "location": "Cape Canaveral, FL",
+   "posted_at": "2026-10-27T01:54:35+00:00",
+   "posted_history": [
+    "2026-10-27T01:54:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "IT Network Infrastructure Technician",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8918371002?gh_jid=8918371002"
+  },
+  "8918407002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "it network infrastructure technician @ bastrop, tx",
+   "location": "Bastrop, TX",
+   "posted_at": "2026-10-27T02:16:27+00:00",
+   "posted_history": [
+    "2026-10-27T02:16:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "IT Network Infrastructure Technician",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8918407002?gh_jid=8918407002"
+  },
+  "8918421002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "financial analyst @ austin, tx",
+   "location": "Austin, TX",
+   "posted_at": "2026-10-27T00:07:03+00:00",
+   "posted_history": [
+    "2026-10-27T00:07:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Financial Analyst",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8918421002?gh_jid=8918421002"
+  },
+  "8918440002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "sourcing manager food facilities @ memphis, tn",
+   "location": "Memphis, TN",
+   "posted_at": "2026-10-27T00:21:12+00:00",
+   "posted_history": [
+    "2026-10-27T00:21:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sourcing Manager, Food & Facilities",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8918440002?gh_jid=8918440002"
+  },
+  "8918486002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "sr soc physical verification engineer @ palo alto, ca",
+   "location": "Palo Alto, CA",
+   "posted_at": "2026-10-27T01:04:08+00:00",
+   "posted_history": [
+    "2026-10-27T01:04:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. SOC Physical Verification Engineer (Silicon Engineering)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8918486002?gh_jid=8918486002"
+  },
+  "8918523002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-27T09:20:56+00:00",
+   "fp": "lead network infrastructure technician @ bastrop, tx",
+   "location": "Bastrop, TX",
+   "posted_at": "2026-10-27T02:30:22+00:00",
+   "posted_history": [
+    "2026-10-27T02:30:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Lead Network Infrastructure Technician",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8918523002?gh_jid=8918523002"
   }
  }
 }
