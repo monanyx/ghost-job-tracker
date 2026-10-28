@@ -35,6 +35,10 @@
   {
    "date": "2026-10-27",
    "open": 155
+  },
+  {
+   "date": "2026-10-28",
+   "open": 159
   }
  ],
  "jobs": {
@@ -324,7 +328,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/7685092?t=gh_src=&gh_jid=7685092"
   },
   "7728367": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -759,7 +763,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8076097?t=gh_src=&gh_jid=8076097"
   },
   "8077864": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -862,6 +866,21 @@
    "reopened": 0,
    "title": "Senior Product Manager, Crypto Wallet",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8082718?t=gh_src=&gh_jid=8082718"
+  },
+  "8083818": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "senior software developer developer experience @ toronto, canada",
+   "location": "Toronto, Canada",
+   "posted_at": "2026-07-30T12:27:22+00:00",
+   "posted_history": [
+    "2026-07-30T12:27:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Developer, Developer Experience (DevX)",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8083818?t=gh_src=&gh_jid=8083818"
   },
   "8093267": {
    "closed_at": null,
@@ -1118,6 +1137,21 @@
    "title": "Senior Product Designer, Trading",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8160668?t=gh_src=&gh_jid=8160668"
   },
+  "8162450": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "sanctions crypto investigator @ denver, co; new york, ny; westlake, tx",
+   "location": "Denver, CO; New York, NY; Westlake, TX",
+   "posted_at": "2026-10-27T17:40:29+00:00",
+   "posted_history": [
+    "2026-10-27T17:40:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sanctions Crypto Investigator",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8162450?t=gh_src=&gh_jid=8162450"
+  },
   "8164459": {
    "closed_at": null,
    "department": "",
@@ -1147,6 +1181,21 @@
    "reopened": 0,
    "title": "Financial Operations Manager",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8164884?t=gh_src=&gh_jid=8164884"
+  },
+  "8164943": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "senior software engineer developer experience @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-08-28T18:53:12+00:00",
+   "posted_history": [
+    "2026-08-28T18:53:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Developer Experience (DevX)",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8164943?t=gh_src=&gh_jid=8164943"
   },
   "8167194": {
    "closed_at": null,
@@ -2542,6 +2591,51 @@
    "reopened": 0,
    "title": "Senior iOS Engineer, Crypto Perpetuals",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8319701?t=gh_src=&gh_jid=8319701"
+  },
+  "8327450": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "customer experience associate money @ denver, co; westlake, tx",
+   "location": "Denver, CO; Westlake, TX",
+   "posted_at": "2026-10-27T16:30:29+00:00",
+   "posted_history": [
+    "2026-10-27T16:30:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Experience Associate, Money",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8327450?t=gh_src=&gh_jid=8327450"
+  },
+  "8329280": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "customer experience associate pathway @ denver, co; westlake, tx",
+   "location": "Denver, CO; Westlake, TX",
+   "posted_at": "2026-10-27T21:56:51+00:00",
+   "posted_history": [
+    "2026-10-27T21:56:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Experience Associate, Pathway",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8329280?t=gh_src=&gh_jid=8329280"
+  },
+  "8329677": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "senior quality engineer @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-10-28T00:38:47+00:00",
+   "posted_history": [
+    "2026-10-28T00:38:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Quality Engineer",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8329677?t=gh_src=&gh_jid=8329677"
   }
  }
 }

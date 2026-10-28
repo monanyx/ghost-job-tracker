@@ -35,21 +35,26 @@
   {
    "date": "2026-10-27",
    "open": 36
+  },
+  {
+   "date": "2026-10-28",
+   "open": 32
   }
  ],
  "jobs": {
   "0170f630-f7c9-4471-8d2f-8c55fb184206": {
-   "closed_at": "2026-10-22T08:55:54+00:00",
+   "closed_at": null,
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "engineering manager mobile @ foster city, ca",
    "location": "Foster City, CA",
-   "posted_at": "2026-10-09T00:01:31+00:00",
+   "posted_at": "2026-10-27T19:09:26+00:00",
    "posted_history": [
-    "2026-10-09T00:01:31+00:00"
+    "2026-10-09T00:01:31+00:00",
+    "2026-10-27T19:09:26+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Engineering Manager, Mobile",
    "url": "https://jobs.ashbyhq.com/replit/0170f630-f7c9-4471-8d2f-8c55fb184206"
   },
@@ -114,7 +119,7 @@
    "url": "https://jobs.ashbyhq.com/replit/10789e06-f7d1-4619-93aa-1879f84e948e"
   },
   "14b3aef3-f926-4db9-8c31-af8ba848fbd8": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -144,7 +149,7 @@
    "url": "https://jobs.ashbyhq.com/replit/226d0562-2420-4991-ac18-23c827ed119c"
   },
   "22e99380-e48c-4bc3-a870-721411b22957": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -309,7 +314,7 @@
    "url": "https://jobs.ashbyhq.com/replit/4b290489-9ce6-45f9-bbc8-e1baa4bd8b6f"
   },
   "4df82fb0-0bcb-4034-89ce-09e679b00fe7": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -684,6 +689,21 @@
    "title": "Sr. Manager, Business Development",
    "url": "https://jobs.ashbyhq.com/replit/a4fe06bf-bf6d-4a51-bb36-270cd3484f00"
   },
+  "a8aa0921-38e1-4015-bb95-a08b090e218e": {
+   "closed_at": null,
+   "department": "G&A",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "chief of staff office of the president @ foster city, ca",
+   "location": "Foster City, CA",
+   "posted_at": "2026-10-27T18:45:21+00:00",
+   "posted_history": [
+    "2026-10-27T18:45:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Chief of Staff, Office of the President",
+   "url": "https://jobs.ashbyhq.com/replit/a8aa0921-38e1-4015-bb95-a08b090e218e"
+  },
   "b04f15b6-1757-4f36-918e-9e0f671723b5": {
    "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "Brand & Creative",
@@ -700,7 +720,7 @@
    "url": "https://jobs.ashbyhq.com/replit/b04f15b6-1757-4f36-918e-9e0f671723b5"
   },
   "b386f0ef-41e1-48e4-abe3-d35ce627de95": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "Design",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -865,7 +885,7 @@
    "url": "https://jobs.ashbyhq.com/replit/d02e678d-866b-4349-acb8-6a41e1703f81"
   },
   "d0e0dd7d-59d1-4de8-afbb-54aea680b51d": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -940,7 +960,7 @@
    "url": "https://jobs.ashbyhq.com/replit/e658545c-ee42-48b5-8f39-c43991b02164"
   },
   "e673256c-7701-4b97-b7f4-800b68f03f84": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "GTM",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

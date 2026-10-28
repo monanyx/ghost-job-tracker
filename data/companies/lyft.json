@@ -35,6 +35,10 @@
   {
    "date": "2026-10-27",
    "open": 179
+  },
+  {
+   "date": "2026-10-28",
+   "open": 178
   }
  ],
  "jobs": {
@@ -474,7 +478,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8627439002?gh_jid=8627439002"
   },
   "8630916002": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -519,7 +523,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8639200002?gh_jid=8639200002"
   },
   "8639319002": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3157,6 +3161,21 @@
    "reopened": 0,
    "title": "Senior Product Manager, Rider ML/AI",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8916924002?gh_jid=8916924002"
+  },
+  "8919442002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "operations associate flexdrive @ milwaukee, wi",
+   "location": "Milwaukee, WI",
+   "posted_at": "2026-10-27T18:50:20+00:00",
+   "posted_history": [
+    "2026-10-27T18:50:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Operations Associate, Flexdrive",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8919442002?gh_jid=8919442002"
   }
  }
 }

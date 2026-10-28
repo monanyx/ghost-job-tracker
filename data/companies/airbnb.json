@@ -35,6 +35,10 @@
   {
    "date": "2026-10-27",
    "open": 188
+  },
+  {
+   "date": "2026-10-28",
+   "open": 196
   }
  ],
  "jobs": {
@@ -459,7 +463,7 @@
    "url": "https://careers.airbnb.com/positions/7943874?gh_jid=7943874"
   },
   "7946318": {
-   "closed_at": "2026-10-21T08:53:29+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -469,8 +473,8 @@
    "posted_history": [
     "2026-05-20T12:42:59+00:00"
    ],
-   "reopened": 0,
-   "title": "Support Specialist, Premium",
+   "reopened": 1,
+   "title": "Support Specialist, Premium (English/French)",
    "url": "https://careers.airbnb.com/positions/7946318?gh_jid=7946318"
   },
   "7955579": {
@@ -923,6 +927,21 @@
    "title": "Lead Advanced Analytics, Product",
    "url": "https://careers.airbnb.com/positions/8080954?gh_jid=8080954"
   },
+  "8081180": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "senior analyst advanced analytics gurugram @ gurugram, india",
+   "location": "Gurugram, India",
+   "posted_at": "2026-07-23T10:56:02+00:00",
+   "posted_history": [
+    "2026-07-23T10:56:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Analyst, Advanced Analytics - Gurugram",
+   "url": "https://careers.airbnb.com/positions/8081180?gh_jid=8081180"
+  },
   "8081925": {
    "closed_at": null,
    "department": "",
@@ -1344,7 +1363,7 @@
    "url": "https://careers.airbnb.com/positions/8165656?gh_jid=8165656"
   },
   "8165843": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1588,14 +1607,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior software engineer tech foundations @ usa",
+   "fp": "staff software engineer data warehouse @ usa",
    "location": "USA",
    "posted_at": "2026-09-11T20:29:55+00:00",
    "posted_history": [
     "2026-09-11T20:29:55+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Software Engineer, Tech Foundations",
+   "title": "Staff Software Engineer, Data Warehouse",
    "url": "https://careers.airbnb.com/positions/8197715?gh_jid=8197715"
   },
   "8201750": {
@@ -2664,7 +2683,7 @@
    "url": "https://careers.airbnb.com/positions/8279422?gh_jid=8279422"
   },
   "8279606": {
-   "closed_at": "2026-10-23T08:50:35+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2674,7 +2693,7 @@
    "posted_history": [
     "2026-10-19T14:23:06+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Lead Business Process Improvement",
    "url": "https://careers.airbnb.com/positions/8279606?gh_jid=8279606"
   },
@@ -2947,6 +2966,21 @@
    "reopened": 0,
    "title": "Office Manager, China (Executive Administration and Workplace)",
    "url": "https://careers.airbnb.com/positions/8299386?gh_jid=8299386"
+  },
+  "8299396": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "head of homes supply thailand vietnam @ bangkok, thailand",
+   "location": "Bangkok, Thailand",
+   "posted_at": "2026-10-18T08:55:16+00:00",
+   "posted_history": [
+    "2026-10-18T08:55:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Head of Homes Supply, Thailand & Vietnam",
+   "url": "https://careers.airbnb.com/positions/8299396?gh_jid=8299396"
   },
   "8300382": {
    "closed_at": null,
@@ -3323,6 +3357,21 @@
    "title": "Senior Compliance Lead, EMEA",
    "url": "https://careers.airbnb.com/positions/8318155?gh_jid=8318155"
   },
+  "8325376": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "business process improvement manager @ united states",
+   "location": "United States ",
+   "posted_at": "2026-10-27T17:37:22+00:00",
+   "posted_history": [
+    "2026-10-27T17:37:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Business Process Improvement Manager",
+   "url": "https://careers.airbnb.com/positions/8325376?gh_jid=8325376"
+  },
   "8325603": {
    "closed_at": null,
    "department": "",
@@ -3352,6 +3401,66 @@
    "reopened": 0,
    "title": "Staff Software Engineer, UI Tooling",
    "url": "https://careers.airbnb.com/positions/8325753?gh_jid=8325753"
+  },
+  "8325813": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "senior software engineer ui tooling @ united states",
+   "location": "United States",
+   "posted_at": "2026-10-27T16:46:12+00:00",
+   "posted_history": [
+    "2026-10-27T16:46:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, UI Tooling (Full Stack iOS)",
+   "url": "https://careers.airbnb.com/positions/8325813?gh_jid=8325813"
+  },
+  "8327049": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "supervisor trust and safety operations @ bangalore, india",
+   "location": "Bangalore, India",
+   "posted_at": "2026-10-28T02:33:51+00:00",
+   "posted_history": [
+    "2026-10-28T02:33:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Supervisor - Trust and Safety Operations",
+   "url": "https://careers.airbnb.com/positions/8327049?gh_jid=8327049"
+  },
+  "8327611": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "lead quality @ ireland",
+   "location": "Ireland",
+   "posted_at": "2026-10-27T15:45:34+00:00",
+   "posted_history": [
+    "2026-10-27T15:45:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Lead, Quality",
+   "url": "https://careers.airbnb.com/positions/8327611?gh_jid=8327611"
+  },
+  "8329612": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "principal strategic finance analytics membership @ united states",
+   "location": "United States",
+   "posted_at": "2026-10-28T00:05:27+00:00",
+   "posted_history": [
+    "2026-10-28T00:05:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal, Strategic Finance & Analytics - Membership",
+   "url": "https://careers.airbnb.com/positions/8329612?gh_jid=8329612"
   }
  }
 }

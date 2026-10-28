@@ -35,6 +35,10 @@
   {
    "date": "2026-10-27",
    "open": 223
+  },
+  {
+   "date": "2026-10-28",
+   "open": 240
   }
  ],
  "jobs": {
@@ -99,7 +103,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7663436003"
   },
   "7694938003": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -114,7 +118,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7694938003"
   },
   "7694940003": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -127,6 +131,36 @@
    "reopened": 0,
    "title": "Staff Product Manager, Affirm Bank",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7694940003"
+  },
+  "7701909003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "manager software engineering @ remote us",
+   "location": "Remote US",
+   "posted_at": "2026-04-30T18:00:29+00:00",
+   "posted_history": [
+    "2026-04-30T18:00:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Software Engineering (Resilience Engineering)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/7701909003"
+  },
+  "7701911003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "manager software engineering @ remote canada",
+   "location": "Remote Canada",
+   "posted_at": "2026-04-30T18:00:31+00:00",
+   "posted_history": [
+    "2026-04-30T18:00:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Software Engineering (Resilience Engineering)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/7701911003"
   },
   "7718808003": {
    "closed_at": null,
@@ -1115,7 +1149,7 @@
     "2026-08-05T14:15:53+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Software Engineer, Backend (Card)",
+   "title": "Senior Software Engineer, Backend (Card Integrations and Payments Experience)",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7820446003"
   },
   "7820448003": {
@@ -1130,7 +1164,7 @@
     "2026-08-05T14:15:54+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Software Engineer, Backend (Card)",
+   "title": "Senior Software Engineer, Backend (Card Integrations and Payments Experience)",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7820448003"
   },
   "7820451003": {
@@ -1959,7 +1993,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7984707003"
   },
   "7984714003": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1974,7 +2008,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7984714003"
   },
   "7984716003": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2555,7 +2589,7 @@
     "2026-10-16T14:21:57+00:00"
    ],
    "reopened": 0,
-   "title": "Software Engineer II, Backend (Card)",
+   "title": "Software Engineer II, Backend (Card Integrations and Payments Experience)",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8006329003"
   },
   "8006331003": {
@@ -2570,7 +2604,7 @@
     "2026-10-16T14:21:55+00:00"
    ],
    "reopened": 0,
-   "title": "Software Engineer II, Backend (Card)",
+   "title": "Software Engineer II, Backend (Card Integrations and Payments Experience)",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8006331003"
   },
   "8006357003": {
@@ -2692,6 +2726,36 @@
    "reopened": 0,
    "title": "Senior Software Engineer, backend (Online Storage)",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8009368003"
+  },
+  "8009629003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "operations enablement manager @ remote us",
+   "location": "Remote US",
+   "posted_at": "2026-10-27T14:15:20+00:00",
+   "posted_history": [
+    "2026-10-27T14:15:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Operations Enablement Manager",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8009629003"
+  },
+  "8009631003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "operations enablement manager @ remote canada",
+   "location": "Remote Canada",
+   "posted_at": "2026-10-27T14:15:23+00:00",
+   "posted_history": [
+    "2026-10-27T14:15:23+00:00"
+   ],
+   "reopened": 0,
+   "title": "Operations Enablement Manager",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8009631003"
   },
   "8009657003": {
    "closed_at": null,
@@ -3023,6 +3087,21 @@
    "title": "Platform Marketing Lead",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8012916003"
   },
+  "8013440003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "manager machine learning engineering checkout @ remote uk",
+   "location": "Remote UK",
+   "posted_at": "2026-10-27T13:26:01+00:00",
+   "posted_history": [
+    "2026-10-27T13:26:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Machine Learning Engineering, Checkout",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8013440003"
+  },
   "8013442003": {
    "closed_at": null,
    "department": "",
@@ -3157,6 +3236,21 @@
    "reopened": 0,
    "title": "Software Engineer II, Fullstack (Ads Platform)",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8016868003"
+  },
+  "8016932003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "product security engineer ii iam @ remote canada",
+   "location": "Remote Canada",
+   "posted_at": "2026-10-27T16:13:58+00:00",
+   "posted_history": [
+    "2026-10-27T16:13:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Security Engineer II - IAM",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8016932003"
   },
   "8017284003": {
    "closed_at": null,
@@ -3398,6 +3492,36 @@
    "title": "Senior Software Engineer, Backend (Capacity Modeling)",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8033589003"
   },
+  "8034645003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "staff software engineer backend @ remote spain",
+   "location": "Remote Spain",
+   "posted_at": "2026-10-27T13:26:42+00:00",
+   "posted_history": [
+    "2026-10-27T13:26:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer, Backend (Recoveries)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8034645003"
+  },
+  "8034647003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "staff software engineer backend @ remote poland",
+   "location": "Remote Poland",
+   "posted_at": "2026-10-27T13:26:44+00:00",
+   "posted_history": [
+    "2026-10-27T13:26:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer, Backend (Recoveries)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8034647003"
+  },
   "8034649003": {
    "closed_at": null,
    "department": "",
@@ -3442,6 +3566,36 @@
    "reopened": 0,
    "title": "Director, Enterprise Sales",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8034821003"
+  },
+  "8034825003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "staff software engineer frontend @ remote us",
+   "location": "Remote US",
+   "posted_at": "2026-10-27T12:05:10+00:00",
+   "posted_history": [
+    "2026-10-27T12:05:10+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer, Frontend (Decisions Orechestration)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8034825003"
+  },
+  "8034827003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "staff software engineer frontend @ remote canada",
+   "location": "Remote Canada",
+   "posted_at": "2026-10-27T12:05:13+00:00",
+   "posted_history": [
+    "2026-10-27T12:05:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer, Frontend (Decisions Orchestration)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8034827003"
   },
   "8036613003": {
    "closed_at": null,
@@ -3533,6 +3687,96 @@
    "title": "Senior Software Engineer, Backend (AI Platform)",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8040269003"
   },
+  "8040378003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "senior software engineer fullstack @ remote poland",
+   "location": "Remote Poland",
+   "posted_at": "2026-10-27T13:27:59+00:00",
+   "posted_history": [
+    "2026-10-27T13:27:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Fullstack (Repayments UX)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8040378003"
+  },
+  "8040380003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "senior software engineer fullstack @ remote spain",
+   "location": "Remote Spain",
+   "posted_at": "2026-10-27T13:28:02+00:00",
+   "posted_history": [
+    "2026-10-27T13:28:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Fullstack (Repayments UX)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8040380003"
+  },
+  "8040392003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "software engineer ii fullstack @ remote poland",
+   "location": "Remote Poland",
+   "posted_at": "2026-10-27T13:26:59+00:00",
+   "posted_history": [
+    "2026-10-27T13:26:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer II, Fullstack (Repayment UX)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8040392003"
+  },
+  "8040394003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "software engineer ii fullstack @ remote spain",
+   "location": "Remote Spain",
+   "posted_at": "2026-10-27T13:27:01+00:00",
+   "posted_history": [
+    "2026-10-27T13:27:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer II, Fullstack (Repayment UX)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8040394003"
+  },
+  "8040751003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "software engineer ii ciam @ remote us",
+   "location": "Remote US",
+   "posted_at": "2026-10-27T13:29:57+00:00",
+   "posted_history": [
+    "2026-10-27T13:29:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer II - CIAM",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8040751003"
+  },
+  "8040753003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "software engineer ii ciam @ remote canada",
+   "location": "Remote Canada",
+   "posted_at": "2026-10-27T13:29:55+00:00",
+   "posted_history": [
+    "2026-10-27T13:29:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer II - CIAM",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8040753003"
+  },
   "8040794003": {
    "closed_at": null,
    "department": "",
@@ -3547,6 +3791,36 @@
    "reopened": 0,
    "title": "Implementation Specialist I",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8040794003"
+  },
+  "8041423003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "manager machine learning engineering checkout @ remote poland",
+   "location": "Remote Poland",
+   "posted_at": "2026-10-27T13:26:03+00:00",
+   "posted_history": [
+    "2026-10-27T13:26:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Machine Learning Engineering, Checkout",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8041423003"
+  },
+  "8041432003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "manager machine learning engineering checkout @ remote spain",
+   "location": "Remote Spain",
+   "posted_at": "2026-10-27T13:26:04+00:00",
+   "posted_history": [
+    "2026-10-27T13:26:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Machine Learning Engineering, Checkout",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8041432003"
   },
   "8041656003": {
    "closed_at": null,
@@ -3607,6 +3881,51 @@
    "reopened": 0,
    "title": "Group Product Manager",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8041932003"
+  },
+  "8042128003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "senior product security engineer @ remote us",
+   "location": "Remote US",
+   "posted_at": "2026-10-27T13:47:52+00:00",
+   "posted_history": [
+    "2026-10-27T13:47:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Security Engineer",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8042128003"
+  },
+  "8043027003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "senior manager software engineering @ remote spain",
+   "location": "Remote Spain",
+   "posted_at": "2026-10-27T12:29:34+00:00",
+   "posted_history": [
+    "2026-10-27T12:29:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Software Engineering (Card)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8043027003"
+  },
+  "8043029003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "senior manager software engineering @ remote poland",
+   "location": "Remote Poland",
+   "posted_at": "2026-10-27T12:29:36+00:00",
+   "posted_history": [
+    "2026-10-27T12:29:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Software Engineering (Card)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8043029003"
   },
   "8044928003": {
    "closed_at": null,

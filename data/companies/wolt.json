@@ -35,6 +35,10 @@
   {
    "date": "2026-10-27",
    "open": 195
+  },
+  {
+   "date": "2026-10-28",
+   "open": 193
   }
  ],
  "jobs": {
@@ -82,7 +86,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/6693444"
   },
   "6693465": {
-   "closed_at": "2026-10-21T08:53:29+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -92,7 +96,7 @@
    "posted_history": [
     "2025-04-16T11:42:00+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Support Associate (Full-Time Remote)",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/6693465"
   },
@@ -1655,7 +1659,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8087724"
   },
   "8090543": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1700,7 +1704,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8098204"
   },
   "8098398": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-26T09:22:13+00:00",
@@ -1910,7 +1914,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8138798"
   },
   "8138816": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2090,7 +2094,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8166865"
   },
   "8166941": {
-   "closed_at": "2026-10-24T08:24:32+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2100,7 +2104,7 @@
    "posted_history": [
     "2026-09-01T08:07:29+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Consumer Growth Strategy Manager, EMEA",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8166941"
   },
@@ -2135,7 +2139,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8171453"
   },
   "8173370": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2570,7 +2574,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8214168"
   },
   "8220475": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3016,11 +3020,11 @@
     "2026-10-20T06:54:08+00:00"
    ],
    "reopened": 0,
-   "title": "Platform Hiring Specialist (Czech & Slovak speaking) – High-Volume Hiring Team",
+   "title": "Platform Hiring Specialist (Czech & Slovak speaking) – High-Volume Hiring Team (FTC 1 year)",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8258327"
   },
   "8258732": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3603,6 +3607,36 @@
    "reopened": 0,
    "title": "Senior Restaurant Onboarding Specialist",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8325490"
+  },
+  "8327841": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "field sales specialist @ oslo, norway",
+   "location": "OSLO, Norway",
+   "posted_at": "2026-10-27T16:19:16+00:00",
+   "posted_history": [
+    "2026-10-27T16:19:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Field Sales Specialist",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8327841"
+  },
+  "8328694": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "senior recruitment manager @ helsinki, finland",
+   "location": "Helsinki, Finland",
+   "posted_at": "2026-10-28T08:59:21+00:00",
+   "posted_history": [
+    "2026-10-28T08:59:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Recruitment Manager",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8328694"
   }
  }
 }

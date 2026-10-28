@@ -35,6 +35,10 @@
   {
    "date": "2026-10-27",
    "open": 679
+  },
+  {
+   "date": "2026-10-28",
+   "open": 681
   }
  ],
  "jobs": {
@@ -1089,7 +1093,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5076109008"
   },
   "5076754008": {
-   "closed_at": "2026-10-24T08:24:32+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1099,7 +1103,7 @@
    "posted_history": [
     "2026-01-19T19:35:18+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Director, Revenue Accounting",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5076754008"
   },
@@ -1329,7 +1333,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5106199008"
   },
   "5107489008": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
@@ -1693,14 +1697,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "manager enterprise sales life sciences @ boston, ma; new york city, ny; san francisco, ca",
+   "fp": "manager enterprise sales medtech @ boston, ma; new york city, ny; san francisco, ca",
    "location": "Boston, MA; New York City, NY; San Francisco, CA",
    "posted_at": "2026-03-03T05:09:16+00:00",
    "posted_history": [
     "2026-03-03T05:09:16+00:00"
    ],
    "reopened": 0,
-   "title": "Manager, Enterprise Sales - Life Sciences",
+   "title": "Manager, Enterprise Sales - MedTech",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5138289008"
   },
   "5139038008": {
@@ -2167,6 +2171,21 @@
    "reopened": 0,
    "title": "Data Scientist, GTM",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5196852008"
+  },
+  "5197211008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "data science tech lead manager model experience @ new york city, ny; san francisco, ca; seattle, wa",
+   "location": "New York City, NY; San Francisco, CA; Seattle, WA",
+   "posted_at": "2026-10-28T08:04:06+00:00",
+   "posted_history": [
+    "2026-10-28T08:04:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "Data Science Tech Lead Manager, Model Experience",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5197211008"
   },
   "5198074008": {
    "closed_at": null,
@@ -3939,7 +3958,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358114008"
   },
   "5358118008": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5349,7 +5368,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391112008"
   },
   "5391151008": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5649,7 +5668,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391381008"
   },
   "5391488008": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5709,7 +5728,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391782008"
   },
   "5391974008": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7614,7 +7633,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5424443008"
   },
   "5426135008": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -8004,7 +8023,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5430869008"
   },
   "5430939008": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -9538,8 +9557,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "conceptual reasoning fellow @ remote-friendly, united states; san francisco, ca",
-   "location": "Remote-Friendly, United States; San Francisco, CA",
+   "fp": "conceptual reasoning fellow @ london, uk; remote-friendly, united states; san francisco, ca",
+   "location": "London, UK; Remote-Friendly, United States; San Francisco, CA",
    "posted_at": "2026-10-09T19:56:05+00:00",
    "posted_history": [
     "2026-10-09T19:56:05+00:00"
@@ -10027,6 +10046,21 @@
    "reopened": 0,
    "title": "Policy Program Manager, Safeguards Regulatory",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5453564008"
+  },
+  "5453569008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "ip counsel life sciences patents @ san francisco, ca | new york city, ny",
+   "location": "San Francisco, CA | New York City, NY",
+   "posted_at": "2026-10-27T20:41:33+00:00",
+   "posted_history": [
+    "2026-10-27T20:41:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "IP Counsel, Life Sciences Patents",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5453569008"
   },
   "5453573008": {
    "closed_at": null,
@@ -10523,6 +10557,21 @@
    "title": "Staff+ Software Engineer, VectorDB",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5458044008"
   },
+  "5458062008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "enterprise account executive retail @ paris, france",
+   "location": "Paris, France",
+   "posted_at": "2026-10-27T16:52:04+00:00",
+   "posted_history": [
+    "2026-10-27T16:52:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Account Executive, Retail",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5458062008"
+  },
   "5458322008": {
    "closed_at": null,
    "department": "",
@@ -10912,6 +10961,81 @@
    "reopened": 0,
    "title": "Security Data Engineer",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5462966008"
+  },
+  "5462972008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "autonomous systems security engineer @ remote-friendly (travel required) | san francisco, ca",
+   "location": "Remote-Friendly (Travel Required) | San Francisco, CA",
+   "posted_at": "2026-10-27T20:42:45+00:00",
+   "posted_history": [
+    "2026-10-27T20:42:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Autonomous Systems Security Engineer",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5462972008"
+  },
+  "5463888008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "solutions marketing manager emerging industries @ san francisco, ca | new york city, ny",
+   "location": "San Francisco, CA | New York City, NY",
+   "posted_at": "2026-10-27T20:31:29+00:00",
+   "posted_history": [
+    "2026-10-27T20:31:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Solutions Marketing Manager, Emerging Industries",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5463888008"
+  },
+  "5464493008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "tech lead manager core apps data scientist @ new york city, ny; san francisco, ca | new york city, ny; seattle, wa",
+   "location": "New York City, NY; San Francisco, CA | New York City, NY; Seattle, WA",
+   "posted_at": "2026-10-27T21:37:35+00:00",
+   "posted_history": [
+    "2026-10-27T21:37:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Tech Lead Manager, Core Apps Data Scientist",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5464493008"
+  },
+  "5464894008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "manager enterprise sales asset wealth management @ new york city, ny",
+   "location": "New York City, NY",
+   "posted_at": "2026-10-27T17:25:14+00:00",
+   "posted_history": [
+    "2026-10-27T17:25:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Enterprise Sales - Asset & Wealth Management",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5464894008"
+  },
+  "5464926008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "manager enterprise sales pharma @ boston, ma; san francisco, ca | new york city, ny",
+   "location": "Boston, MA; San Francisco, CA | New York City, NY",
+   "posted_at": "2026-10-27T17:49:20+00:00",
+   "posted_history": [
+    "2026-10-27T17:49:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Enterprise Sales - Pharma",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5464926008"
   }
  }
 }

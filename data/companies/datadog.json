@@ -35,6 +35,10 @@
   {
    "date": "2026-10-27",
    "open": 428
+  },
+  {
+   "date": "2026-10-28",
+   "open": 415
   }
  ],
  "jobs": {
@@ -2919,7 +2923,7 @@
    "url": "https://careers.datadoghq.com/detail/8051616/?gh_jid=8051616"
   },
   "8052114": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3174,7 +3178,7 @@
    "url": "https://careers.datadoghq.com/detail/8092004/?gh_jid=8092004"
   },
   "8094111": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3204,7 +3208,7 @@
    "url": "https://careers.datadoghq.com/detail/8094179/?gh_jid=8094179"
   },
   "8094188": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3384,7 +3388,7 @@
    "url": "https://careers.datadoghq.com/detail/8098863/?gh_jid=8098863"
   },
   "8098939": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3489,7 +3493,7 @@
    "url": "https://careers.datadoghq.com/detail/8105684/?gh_jid=8105684"
   },
   "8108241": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3504,7 +3508,7 @@
    "url": "https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241"
   },
   "8109441": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4509,7 +4513,7 @@
    "url": "https://careers.datadoghq.com/detail/8172864/?gh_jid=8172864"
   },
   "8173840": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4588,8 +4592,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "field enablement manager @ amsterdam, the netherlands; munich, germany",
-   "location": "Amsterdam, The Netherlands; Munich, Germany",
+   "fp": "field enablement manager @ amsterdam, the netherlands",
+   "location": "Amsterdam, The Netherlands",
    "posted_at": "2026-09-15T19:46:40+00:00",
    "posted_history": [
     "2026-09-15T19:46:40+00:00"
@@ -5158,14 +5162,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "manager ii engineering database monitoring @ new york, new york, usa",
+   "fp": "manager ii engineering ai dbm @ new york, new york, usa",
    "location": "New York, New York, USA",
    "posted_at": "2026-09-18T17:31:24+00:00",
    "posted_history": [
     "2026-09-18T17:31:24+00:00"
    ],
    "reopened": 0,
-   "title": "Manager II, Engineering - Database Monitoring (AI)",
+   "title": "Manager II, Engineering - AI DBM",
    "url": "https://careers.datadoghq.com/detail/8212114/?gh_jid=8212114"
   },
   "8212513": {
@@ -5289,7 +5293,7 @@
    "url": "https://careers.datadoghq.com/detail/8223272/?gh_jid=8223272"
   },
   "8223819": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5424,7 +5428,7 @@
    "url": "https://careers.datadoghq.com/detail/8230620/?gh_jid=8230620"
   },
   "8230663": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5527,6 +5531,21 @@
    "reopened": 0,
    "title": "Senior Sourcer, Enterprise Sales",
    "url": "https://careers.datadoghq.com/detail/8237240/?gh_jid=8237240"
+  },
+  "8237332": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "enterprise security sales specialist @ chicago, illinois, usa",
+   "location": "Chicago, Illinois, USA",
+   "posted_at": "2026-10-27T15:41:59+00:00",
+   "posted_history": [
+    "2026-10-27T15:41:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Security Sales Specialist",
+   "url": "https://careers.datadoghq.com/detail/8237332/?gh_jid=8237332"
   },
   "8237428": {
    "closed_at": null,
@@ -5709,7 +5728,7 @@
    "url": "https://careers.datadoghq.com/detail/8240769/?gh_jid=8240769"
   },
   "8242722": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5904,7 +5923,7 @@
    "url": "https://careers.datadoghq.com/detail/8247329/?gh_jid=8247329"
   },
   "8247346": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5964,7 +5983,7 @@
    "url": "https://careers.datadoghq.com/detail/8247540/?gh_jid=8247540"
   },
   "8247566": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6384,7 +6403,7 @@
    "url": "https://careers.datadoghq.com/detail/8273655/?gh_jid=8273655"
   },
   "8273664": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6609,7 +6628,7 @@
    "url": "https://careers.datadoghq.com/detail/8285495/?gh_jid=8285495"
   },
   "8286919": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6624,7 +6643,7 @@
    "url": "https://careers.datadoghq.com/detail/8286919/?gh_jid=8286919"
   },
   "8287316": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -6848,6 +6867,21 @@
    "title": "Senior Software Engineer - Distributed Systems (ODP Governance)",
    "url": "https://careers.datadoghq.com/detail/8305790/?gh_jid=8305790"
   },
+  "8305959": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "manager mid market sales @ amsterdam, the netherlands",
+   "location": "Amsterdam, The Netherlands",
+   "posted_at": "2026-10-27T09:32:51+00:00",
+   "posted_history": [
+    "2026-10-27T09:32:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Mid-Market Sales (South EMEA)",
+   "url": "https://careers.datadoghq.com/detail/8305959/?gh_jid=8305959"
+  },
   "8306557": {
    "closed_at": null,
    "department": "",
@@ -6877,6 +6911,21 @@
    "reopened": 0,
    "title": "Manager I, Engineering - Reference Tables Access",
    "url": "https://careers.datadoghq.com/detail/8310668/?gh_jid=8310668"
+  },
+  "8312285": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "senior software engineer experimentation @ madrid, spain; paris, france",
+   "location": "Madrid, Spain; Paris, France",
+   "posted_at": "2026-10-28T09:42:39+00:00",
+   "posted_history": [
+    "2026-10-28T09:42:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer - Experimentation",
+   "url": "https://careers.datadoghq.com/detail/8312285/?gh_jid=8312285"
   },
   "8312438": {
    "closed_at": null,
@@ -6924,7 +6973,7 @@
    "url": "https://careers.datadoghq.com/detail/8317738/?gh_jid=8317738"
   },
   "8319487": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",

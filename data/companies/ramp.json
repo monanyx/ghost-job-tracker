@@ -35,6 +35,10 @@
   {
    "date": "2026-10-27",
    "open": 173
+  },
+  {
+   "date": "2026-10-28",
+   "open": 172
   }
  ],
  "jobs": {
@@ -744,7 +748,7 @@
    "url": "https://jobs.ashbyhq.com/ramp/4859cd5e-f2a9-44d7-81f7-8bfc0e62369f"
   },
   "4b3063cb-bb07-40d5-93d3-b7ce556f96e8": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
@@ -1118,6 +1122,21 @@
    "title": "Money Laundering Reporting Officer, Canada",
    "url": "https://jobs.ashbyhq.com/ramp/6b8f241c-a5e4-407a-baab-37aa7cb84d77"
   },
+  "6c1c3192-2508-4805-9dbb-08a4f581b44d": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "sales development representative public sector @ new york, ny (hq)",
+   "location": "New York, NY (HQ)",
+   "posted_at": "2026-10-27T20:09:06+00:00",
+   "posted_history": [
+    "2026-10-27T20:09:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales Development Representative | Public Sector",
+   "url": "https://jobs.ashbyhq.com/ramp/6c1c3192-2508-4805-9dbb-08a4f581b44d"
+  },
   "707d5f91-bcf7-42b2-a0e6-8130bf13e56b": {
    "closed_at": null,
    "department": "Sales",
@@ -1194,7 +1213,7 @@
    "url": "https://jobs.ashbyhq.com/ramp/73fd7b0f-ee20-4a83-8765-0ce4663f2d41"
   },
   "758ed843-0fa2-4891-8925-c8d690c6eb0f": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "Marketing",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

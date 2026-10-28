@@ -35,6 +35,10 @@
   {
    "date": "2026-10-27",
    "open": 307
+  },
+  {
+   "date": "2026-10-28",
+   "open": 306
   }
  ],
  "jobs": {
@@ -624,7 +628,7 @@
    "url": "https://jobs.lever.co/palantir/2458ba08-de79-4e8f-b553-060f9568727e"
   },
   "250f623c-9afb-4c91-b0c0-25d4e83005ec": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "Product Support",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1749,7 +1753,7 @@
    "url": "https://jobs.lever.co/palantir/5614a901-ef96-4b9c-928d-4a9c338c8aad"
   },
   "57699414-b373-4a5e-9be8-6fb7de41ea72": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "Product Support",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3022,6 +3026,21 @@
    "reopened": 0,
    "title": "People Partner",
    "url": "https://jobs.lever.co/palantir/99ab8dbd-fd69-4216-8c2a-09a202a1cb17"
+  },
+  "9ace479e-a9e4-4610-a553-122d3831863a": {
+   "closed_at": null,
+   "department": "Echo",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "deployment strategist @ warsaw, poland",
+   "location": "Warsaw, Poland",
+   "posted_at": "2021-10-28T04:13:08+00:00",
+   "posted_history": [
+    "2021-10-28T04:13:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "Deployment Strategist",
+   "url": "https://jobs.lever.co/palantir/9ace479e-a9e4-4610-a553-122d3831863a"
   },
   "9d0cf52c-089a-41fd-93ee-3d501c8c14d8": {
    "closed_at": null,

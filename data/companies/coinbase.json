@@ -35,6 +35,10 @@
   {
    "date": "2026-10-27",
    "open": 226
+  },
+  {
+   "date": "2026-10-28",
+   "open": 227
   }
  ],
  "jobs": {
@@ -1104,7 +1108,7 @@
    "url": "https://www.coinbase.com/careers/positions/8095207?gh_jid=8095207"
   },
   "8097292": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1918,14 +1922,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "accelerations programs intern @ hybrid - new york, ny",
+   "fp": "acceleration programs intern @ hybrid - new york, ny",
    "location": "Hybrid - New York, NY",
    "posted_at": "2026-09-08T22:53:27+00:00",
    "posted_history": [
     "2026-09-08T22:53:27+00:00"
    ],
    "reopened": 0,
-   "title": "Accelerations Programs Intern",
+   "title": "Acceleration Programs Intern",
    "url": "https://www.coinbase.com/careers/positions/8175363?gh_jid=8175363"
   },
   "8175366": {
@@ -2529,7 +2533,7 @@
    "url": "https://www.coinbase.com/careers/positions/8211490?gh_jid=8211490"
   },
   "8212923": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2679,7 +2683,7 @@
    "url": "https://www.coinbase.com/careers/positions/8224979?gh_jid=8224979"
   },
   "8227393": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3474,7 +3478,7 @@
    "url": "https://www.coinbase.com/careers/positions/8287662?gh_jid=8287662"
   },
   "8287668": {
-   "closed_at": "2026-10-22T08:55:54+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3484,7 +3488,7 @@
    "posted_history": [
     "2026-10-15T23:40:55+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Data Scientist, Product",
    "url": "https://www.coinbase.com/careers/positions/8287668?gh_jid=8287668"
   },
@@ -3712,6 +3716,51 @@
    "reopened": 0,
    "title": "Senior Security Engineer, Corporate Security",
    "url": "https://www.coinbase.com/careers/positions/8319448?gh_jid=8319448"
+  },
+  "8325213": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "senior software engineer data platform @ remote - india",
+   "location": "Remote - India",
+   "posted_at": "2026-10-27T17:24:09+00:00",
+   "posted_history": [
+    "2026-10-27T17:24:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer - Data Platform",
+   "url": "https://www.coinbase.com/careers/positions/8325213?gh_jid=8325213"
+  },
+  "8326127": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "senior software engineer certificates management @ remote - usa",
+   "location": "Remote - USA",
+   "posted_at": "2026-10-27T15:00:23+00:00",
+   "posted_history": [
+    "2026-10-27T15:00:23+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Certificates Management",
+   "url": "https://www.coinbase.com/careers/positions/8326127?gh_jid=8326127"
+  },
+  "8328079": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "senior sales associate cb infrastructure @ remote - usa",
+   "location": "Remote - USA",
+   "posted_at": "2026-10-27T19:24:30+00:00",
+   "posted_history": [
+    "2026-10-27T19:24:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Sales Associate - CB Infrastructure",
+   "url": "https://www.coinbase.com/careers/positions/8328079?gh_jid=8328079"
   }
  }
 }

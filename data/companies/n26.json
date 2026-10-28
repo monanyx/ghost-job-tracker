@@ -35,11 +35,15 @@
   {
    "date": "2026-10-27",
    "open": 37
+  },
+  {
+   "date": "2026-10-28",
+   "open": 35
   }
  ],
  "jobs": {
   "7768035": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
@@ -54,7 +58,7 @@
    "url": "https://n26.com/en-eu/careers/positions/7768035?gh_jid=7768035"
   },
   "7774526": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
@@ -69,7 +73,7 @@
    "url": "https://n26.com/en-eu/careers/positions/7774526?gh_jid=7774526"
   },
   "7988511": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -712,6 +716,21 @@
    "reopened": 0,
    "title": "AFCO Team Lead",
    "url": "https://n26.com/en-eu/careers/positions/8305489?gh_jid=8305489"
+  },
+  "8305606": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "senior analytics manager grow engage @ berlin, barcelona",
+   "location": "Berlin, Barcelona",
+   "posted_at": "2026-10-27T11:26:16+00:00",
+   "posted_history": [
+    "2026-10-27T11:26:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Analytics Manager - Grow & Engage",
+   "url": "https://n26.com/en-eu/careers/positions/8305606?gh_jid=8305606"
   },
   "8312214": {
    "closed_at": null,

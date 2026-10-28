@@ -35,6 +35,10 @@
   {
    "date": "2026-10-27",
    "open": 130
+  },
+  {
+   "date": "2026-10-28",
+   "open": 129
   }
  ],
  "jobs": {
@@ -159,7 +163,7 @@
    "url": "https://jobs.lever.co/pigment/1513cc25-5955-4e62-9f8f-09b66eac4459"
   },
   "15e7b82c-ebf3-477c-96b5-96a3b25e0663": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "Professional Services",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -204,7 +208,7 @@
    "url": "https://jobs.lever.co/pigment/19514b98-dd8c-4823-a98f-f81dccf8396b"
   },
   "1a9ccf1f-c28d-4ed4-ab40-d093eb8fee63": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "Professional Services",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1224,18 +1228,18 @@
    "url": "https://jobs.lever.co/pigment/9aae74f6-96df-4e17-a100-5ed76c1ce8d5"
   },
   "9b6782fc-679f-4281-a09a-57c7cf72d2ea": {
-   "closed_at": "2026-10-22T08:55:54+00:00",
+   "closed_at": null,
    "department": "Professional Services",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "project manager @ paris",
+   "fp": "epm project manager @ paris",
    "location": "Paris",
    "posted_at": "2026-02-27T18:39:51+00:00",
    "posted_history": [
     "2026-02-27T18:39:51+00:00"
    ],
-   "reopened": 0,
-   "title": "Project Manager",
+   "reopened": 1,
+   "title": "EPM Project Manager",
    "url": "https://jobs.lever.co/pigment/9b6782fc-679f-4281-a09a-57c7cf72d2ea"
   },
   "9c902d4b-8150-4e82-9b80-1f597e32ed5e": {
@@ -1298,6 +1302,21 @@
    "title": "Global Head of Talent Acquisition",
    "url": "https://jobs.lever.co/pigment/a31d34d0-c2a1-4427-b3d8-90a5ea625a3c"
   },
+  "a6d45343-dbcc-4e5f-b4de-5db62af4886a": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "software engineering manager @ london",
+   "location": "London",
+   "posted_at": "2026-10-28T09:45:06+00:00",
+   "posted_history": [
+    "2026-10-28T09:45:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineering Manager (Hands-On, Frontend)",
+   "url": "https://jobs.lever.co/pigment/a6d45343-dbcc-4e5f-b4de-5db62af4886a"
+  },
   "a78fa6da-7b14-4fd5-bf3b-f3cbfa569e58": {
    "closed_at": null,
    "department": "Business",
@@ -1329,7 +1348,7 @@
    "url": "https://jobs.lever.co/pigment/a95d0382-c3cf-4c9c-9f1c-3dba04d8dcb3"
   },
   "aa87cacc-8a4e-4e8a-9341-e1e7624d05e9": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "Professional Services",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1483,14 +1502,14 @@
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
-   "fp": "enterprise account executive dach @ zurich",
+   "fp": "enterprise account executive zurich @ zurich",
    "location": "Zurich",
    "posted_at": "2026-05-12T16:37:14+00:00",
    "posted_history": [
     "2026-05-12T16:37:14+00:00"
    ],
    "reopened": 0,
-   "title": "Enterprise Account Executive DACH",
+   "title": "Enterprise Account Executive ZURICH",
    "url": "https://jobs.lever.co/pigment/baaabf0f-edc4-4ad7-8b99-13b808665e41"
   },
   "bd06d67c-d091-48fc-a747-b73735bfdf3a": {

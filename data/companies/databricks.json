@@ -35,6 +35,10 @@
   {
    "date": "2026-10-27",
    "open": 898
+  },
+  {
+   "date": "2026-10-28",
+   "open": 894
   }
  ],
  "jobs": {
@@ -547,6 +551,36 @@
    "reopened": 0,
    "title": "Software Engineering Intern (2027)",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002"
+  },
+  "6865698002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "software engineer new grad @ bellevue, washington; mountain view, california; san francisco, california; vancouver, canada",
+   "location": "Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada",
+   "posted_at": "2023-08-04T16:20:33+00:00",
+   "posted_history": [
+    "2023-08-04T16:20:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer - New Grad (2027 Start)",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865698002"
+  },
+  "6865704002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "software engineer new grad distributed data systems @ bellevue, washington; mountain view, california",
+   "location": "Bellevue, Washington; Mountain View, California",
+   "posted_at": "2023-08-04T16:21:44+00:00",
+   "posted_history": [
+    "2023-08-04T16:21:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer - New Grad, Distributed Data Systems (2027 Start)",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865704002"
   },
   "6866531002": {
    "closed_at": null,
@@ -1419,7 +1453,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7839474002"
   },
   "7841080002": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3144,7 +3178,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8334738002"
   },
   "8337361002": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3804,7 +3838,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8433583002"
   },
   "8436912002": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3849,7 +3883,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8437076002"
   },
   "8438263002": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
@@ -4389,7 +4423,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461258002"
   },
   "8462016002": {
-   "closed_at": "2026-10-20T08:53:12+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4399,7 +4433,7 @@
    "posted_history": [
     "2026-03-13T16:41:29+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Forward Deployed Engineer",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8462016002"
   },
@@ -5394,7 +5428,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8535812002"
   },
   "8536432002": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6324,7 +6358,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569566002"
   },
   "8569570002": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6658,14 +6692,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "sales dev ai program manager @ singapore",
+   "fp": "prospecting program manager @ singapore",
    "location": "Singapore",
    "posted_at": "2026-06-25T07:21:50+00:00",
    "posted_history": [
     "2026-06-25T07:21:50+00:00"
    ],
    "reopened": 0,
-   "title": "Sales Dev AI Program Manager",
+   "title": "Prospecting Program Manager (APJ)",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8582993002"
   },
   "8583146002": {
@@ -8049,7 +8083,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8637736002"
   },
   "8637758002": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -8229,7 +8263,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8641466002"
   },
   "8641892002": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -8375,7 +8409,7 @@
     "2026-07-29T10:01:05+00:00"
    ],
    "reopened": 0,
-   "title": "Sr. Forward Deployed Engineer - FDE (Fullstack)",
+   "title": "Sr. Forward Deployed Engineer - FDE (Data and AI  Architect, SAP & Databricks)",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8645052002"
   },
   "8645429002": {
@@ -9759,7 +9793,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8731212002"
   },
   "8731998002": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -10704,7 +10738,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8766584002"
   },
   "8768938002": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -10794,7 +10828,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8769768002"
   },
   "8770530002": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -11184,7 +11218,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8785055002"
   },
   "8785057002": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -11274,7 +11308,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8787352002"
   },
   "8788152002": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -11528,6 +11562,21 @@
    "title": "Sr. Counsel, Channel & Partners",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8802708002"
   },
+  "8805589002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "named core account executive @ remote - denmark",
+   "location": "Remote - Denmark",
+   "posted_at": "2026-10-27T13:25:11+00:00",
+   "posted_history": [
+    "2026-10-27T13:25:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Named Core Account Executive",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8805589002"
+  },
   "8805655002": {
    "closed_at": null,
    "department": "",
@@ -11724,7 +11773,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8813844002"
   },
   "8814528002": {
-   "closed_at": "2026-10-24T08:24:32+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -11734,7 +11783,7 @@
    "posted_history": [
     "2026-09-17T16:39:38+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Director, Enterprise",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8814528002"
   },
@@ -12549,7 +12598,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8855539002"
   },
   "8855804002": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -12997,6 +13046,21 @@
    "reopened": 0,
    "title": "Delivery Solutions Architect",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8870718002"
+  },
+  "8870720002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "strategic enterprise account executive life sciences @ northeast - united states",
+   "location": "Northeast - United States",
+   "posted_at": "2026-10-27T13:03:41+00:00",
+   "posted_history": [
+    "2026-10-27T13:03:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Enterprise Account Executive, Life Sciences",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8870720002"
   },
   "8870724002": {
    "closed_at": null,
@@ -14113,8 +14177,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
-   "fp": "strategic core account executive retail @ germany",
-   "location": "Germany",
+   "fp": "strategic core account executive retail @ baden-württemberg, germany",
+   "location": "Baden-Württemberg, Germany",
    "posted_at": "2026-10-22T08:31:40+00:00",
    "posted_history": [
     "2026-10-22T08:31:40+00:00"
@@ -14137,6 +14201,21 @@
    "reopened": 0,
    "title": "Strategic Core Account Executive - Insurance",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8903095002"
+  },
+  "8905729002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "strategic account executive energy @ amsterdam, netherlands",
+   "location": "Amsterdam, Netherlands",
+   "posted_at": "2026-10-27T18:28:15+00:00",
+   "posted_history": [
+    "2026-10-27T18:28:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Account Executive, Energy",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8905729002"
   },
   "8905733002": {
    "closed_at": null,
@@ -14168,8 +14247,23 @@
    "title": "Senior Solutions Architect - Digital Natives",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8905967002"
   },
-  "8907988002": {
+  "8906872002": {
    "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "strategic core account executive petrobras @ brazil",
+   "location": "Brazil",
+   "posted_at": "2026-10-27T21:37:03+00:00",
+   "posted_history": [
+    "2026-10-27T21:37:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Core Account Executive, Petrobras (Rio de Janeiro)",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8906872002"
+  },
+  "8907988002": {
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
@@ -14213,6 +14307,21 @@
    "title": "Senior Staff Software Engineer, AI Runtime",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8909305002"
   },
+  "8910840002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "enterprise account executive @ sydney, australia",
+   "location": "Sydney, Australia",
+   "posted_at": "2026-10-28T08:35:45+00:00",
+   "posted_history": [
+    "2026-10-28T08:35:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Account Executive",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8910840002"
+  },
   "8910846002": {
    "closed_at": null,
    "department": "",
@@ -14243,13 +14352,28 @@
    "title": "Forward Deployed Engineering Manager",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8910850002"
   },
+  "8910860002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "solutions architect @ british columbia, canada",
+   "location": "British Columbia, Canada",
+   "posted_at": "2026-10-27T20:33:12+00:00",
+   "posted_history": [
+    "2026-10-27T20:33:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Solutions Architect",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8910860002"
+  },
   "8910988002": {
    "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
-   "fp": "sr specialist solutions architect platform security and cloud infrastructure @ france",
-   "location": "France",
+   "fp": "sr specialist solutions architect platform security and cloud infrastructure @ paris, france",
+   "location": "Paris, France",
    "posted_at": "2026-10-23T18:08:27+00:00",
    "posted_history": [
     "2026-10-23T18:08:27+00:00"
@@ -14272,6 +14396,21 @@
    "reopened": 0,
    "title": "Senior Forward Deployed Engineer (Technical Data Architect)",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8916552002"
+  },
+  "8920303002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "staff technical solutions engineer data ai @ sao paulo, brazil",
+   "location": "Sao Paulo, Brazil",
+   "posted_at": "2026-10-27T20:59:31+00:00",
+   "posted_history": [
+    "2026-10-27T20:59:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Technical Solutions Engineer, Data & AI",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8920303002"
   }
  }
 }

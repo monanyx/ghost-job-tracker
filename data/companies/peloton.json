@@ -35,6 +35,10 @@
   {
    "date": "2026-10-27",
    "open": 57
+  },
+  {
+   "date": "2026-10-28",
+   "open": 57
   }
  ],
  "jobs": {
@@ -84,7 +88,7 @@
    "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=7568872"
   },
   "7718331": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -459,7 +463,7 @@
    "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8154259"
   },
   "8154261": {
-   "closed_at": "2026-10-23T08:50:35+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -469,7 +473,7 @@
    "posted_history": [
     "2026-09-01T17:49:34+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Machine Learning Engineer III",
    "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8154261"
   },
@@ -849,7 +853,7 @@
    "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8261289"
   },
   "8265883": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1027,6 +1031,21 @@
    "reopened": 0,
    "title": "Talent Producer",
    "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8301429"
+  },
+  "8301435": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "associate producer studio @ london, england",
+   "location": "London, England",
+   "posted_at": "2026-10-27T13:29:35+00:00",
+   "posted_history": [
+    "2026-10-27T13:29:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Associate Producer, Studio (German Speaking)",
+   "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8301435"
   },
   "8304455": {
    "closed_at": null,

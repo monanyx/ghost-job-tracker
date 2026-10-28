@@ -35,6 +35,10 @@
   {
    "date": "2026-10-27",
    "open": 713
+  },
+  {
+   "date": "2026-10-28",
+   "open": 716
   }
  ],
  "jobs": {
@@ -279,7 +283,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=7202630"
   },
   "7202953": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -444,7 +448,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=7298935"
   },
   "7337544": {
-   "closed_at": "2026-10-21T08:53:29+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -454,7 +458,7 @@
    "posted_history": [
     "2025-10-28T08:53:42+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Manager, Sales Development",
    "url": "https://stripe.com/jobs/search?gh_jid=7337544"
   },
@@ -598,14 +602,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "data science manager finance and strategy @ seattle, wa or new york, ny or remote north america",
+   "fp": "data science manager @ seattle, wa or new york, ny or remote north america",
    "location": "Seattle, WA OR New York, NY OR Remote North America",
    "posted_at": "2026-04-22T21:36:49+00:00",
    "posted_history": [
     "2026-04-22T21:36:49+00:00"
    ],
    "reopened": 0,
-   "title": "Data Science Manager, Finance and Strategy",
+   "title": "Data Science Manager",
    "url": "https://stripe.com/jobs/search?gh_jid=7440963"
   },
   "7456167": {
@@ -684,7 +688,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=7466921"
   },
   "7472519": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1059,7 +1063,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=7650177"
   },
   "7651078": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1147,6 +1151,21 @@
    "reopened": 0,
    "title": "Communications Manager, Asia",
    "url": "https://stripe.com/jobs/search?gh_jid=7684149"
+  },
+  "7685460": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "fraud operations team lead @ mexico city",
+   "location": "Mexico City",
+   "posted_at": "2026-03-31T15:12:47+00:00",
+   "posted_history": [
+    "2026-03-31T15:12:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Fraud Operations Team Lead",
+   "url": "https://stripe.com/jobs/search?gh_jid=7685460"
   },
   "7688358": {
    "closed_at": null,
@@ -1284,7 +1303,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=7737526"
   },
   "7746721": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1659,7 +1678,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=7867389"
   },
   "7869917": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1749,7 +1768,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=7896151"
   },
   "7896538": {
-   "closed_at": "2026-10-22T08:55:54+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1759,7 +1778,7 @@
    "posted_history": [
     "2026-05-11T15:19:11+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Manager, Sales Development",
    "url": "https://stripe.com/jobs/search?gh_jid=7896538"
   },
@@ -1793,6 +1812,21 @@
    "title": "Staff Product Manager, Sail Core",
    "url": "https://stripe.com/jobs/search?gh_jid=7913698"
   },
+  "7913700": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "backend engineer data @ canada",
+   "location": "Canada",
+   "posted_at": "2026-05-11T23:06:31+00:00",
+   "posted_history": [
+    "2026-05-11T23:06:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Backend Engineer, Data",
+   "url": "https://stripe.com/jobs/search?gh_jid=7913700"
+  },
   "7913702": {
    "closed_at": null,
    "department": "",
@@ -1824,7 +1858,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=7915144"
   },
   "7918088": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1839,7 +1873,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=7918088"
   },
   "7921649": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2589,7 +2623,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8017084"
   },
   "8022463": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2724,7 +2758,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8031833"
   },
   "8035723": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3429,7 +3463,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8076108"
   },
   "8076151": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4059,7 +4093,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8109607"
   },
   "8110261": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4183,14 +4217,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "risk operations associate @ mexico city",
+   "fp": "risk operations associate upo @ mexico city",
    "location": "Mexico CIty",
    "posted_at": "2026-08-11T22:40:46+00:00",
    "posted_history": [
     "2026-08-11T22:40:46+00:00"
    ],
    "reopened": 1,
-   "title": "Risk Operations Associate",
+   "title": "Risk Operations Associate, UPO",
    "url": "https://stripe.com/jobs/search?gh_jid=8115908"
   },
   "8118929": {
@@ -4702,6 +4736,21 @@
    "reopened": 0,
    "title": "Software Engineer, Intern",
    "url": "https://stripe.com/jobs/search?gh_jid=8130867"
+  },
+  "8130876": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "software engineer new grad @ bangalore",
+   "location": "Bangalore",
+   "posted_at": "2026-10-28T09:19:59+00:00",
+   "posted_history": [
+    "2026-10-28T09:19:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, New Grad",
+   "url": "https://stripe.com/jobs/search?gh_jid=8130876"
   },
   "8130881": {
    "closed_at": null,
@@ -5574,7 +5623,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8156998"
   },
   "8157577": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5904,7 +5953,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8165269"
   },
   "8165275": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5992,6 +6041,21 @@
    "reopened": 0,
    "title": "Solutions Consultant, Enterprise (Presales)",
    "url": "https://stripe.com/jobs/search?gh_jid=8168151"
+  },
+  "8168550": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "fraud operations analyst @ mexico city",
+   "location": "Mexico City",
+   "posted_at": "2026-10-28T02:30:21+00:00",
+   "posted_history": [
+    "2026-10-28T02:30:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Fraud Operations Analyst (CDMX)",
+   "url": "https://stripe.com/jobs/search?gh_jid=8168550"
   },
   "8168813": {
    "closed_at": null,
@@ -6413,6 +6477,21 @@
    "title": "Manager, Solutions Architecture - Enterprise (West)",
    "url": "https://stripe.com/jobs/search?gh_jid=8175633"
   },
+  "8175637": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "manager solutions architecture transformation @ usa",
+   "location": "USA",
+   "posted_at": "2026-10-28T02:33:02+00:00",
+   "posted_history": [
+    "2026-10-28T02:33:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Solutions Architecture Transformation",
+   "url": "https://stripe.com/jobs/search?gh_jid=8175637"
+  },
   "8175647": {
    "closed_at": null,
    "department": "",
@@ -6503,6 +6582,21 @@
    "title": "Manager, Solutions Architecture - Platforms (Chicago)",
    "url": "https://stripe.com/jobs/search?gh_jid=8175667"
   },
+  "8175669": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "global head of specialist solutions architecture revenue suite @ usa",
+   "location": "USA",
+   "posted_at": "2026-10-27T15:21:48+00:00",
+   "posted_history": [
+    "2026-10-27T15:21:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "Global Head of Specialist Solutions Architecture, Revenue Suite",
+   "url": "https://stripe.com/jobs/search?gh_jid=8175669"
+  },
   "8175671": {
    "closed_at": null,
    "department": "",
@@ -6568,14 +6662,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "risk operations analyst sso @ remote",
+   "fp": "risk operations analyst rbo @ remote",
    "location": "Remote ",
    "posted_at": "2026-09-22T20:19:21+00:00",
    "posted_history": [
     "2026-09-22T20:19:21+00:00"
    ],
    "reopened": 0,
-   "title": "Risk Operations Analyst - SSO",
+   "title": "Risk Operations Analyst - RBO",
    "url": "https://stripe.com/jobs/search?gh_jid=8175824"
   },
   "8175826": {
@@ -7749,7 +7843,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8194291"
   },
   "8194328": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -8214,7 +8308,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8203649"
   },
   "8203653": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-26T09:22:13+00:00",
@@ -8488,8 +8582,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "program manager deal operations @ us-remote, dublin",
-   "location": "US-Remote, Dublin",
+   "fp": "program manager deal operations @ us-remote",
+   "location": "US-Remote",
    "posted_at": "2026-09-25T20:40:47+00:00",
    "posted_history": [
     "2026-09-25T20:40:47+00:00"
@@ -8707,6 +8801,21 @@
    "reopened": 0,
    "title": "Design Engineer, Expansion",
    "url": "https://stripe.com/jobs/search?gh_jid=8212314"
+  },
+  "8212319": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "backend engineer ui platform @ barcelona, spain",
+   "location": "Barcelona, Spain",
+   "posted_at": "2026-10-27T09:36:19+00:00",
+   "posted_history": [
+    "2026-10-27T09:36:19+00:00"
+   ],
+   "reopened": 0,
+   "title": "Backend Engineer, UI Platform",
+   "url": "https://stripe.com/jobs/search?gh_jid=8212319"
   },
   "8212325": {
    "closed_at": null,
@@ -9174,7 +9283,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8225567"
   },
   "8225841": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -10928,6 +11037,21 @@
    "title": "Account Executive, Velocity Platforms (Hunter)",
    "url": "https://stripe.com/jobs/search?gh_jid=8267841"
   },
+  "8267847": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "head of amer startups @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-10-28T05:41:29+00:00",
+   "posted_history": [
+    "2026-10-28T05:41:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Head of AMER Startups (AI Sales)",
+   "url": "https://stripe.com/jobs/search?gh_jid=8267847"
+  },
   "8267851": {
    "closed_at": null,
    "department": "",
@@ -11002,6 +11126,21 @@
    "reopened": 0,
    "title": "Account Executive, Funded Startups DACH",
    "url": "https://stripe.com/jobs/search?gh_jid=8271659"
+  },
+  "8271661": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "sales manager product fraud risk @ dublin or london",
+   "location": "Dublin or London",
+   "posted_at": "2026-10-27T15:51:15+00:00",
+   "posted_history": [
+    "2026-10-27T15:51:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales Manager, Product- Fraud & Risk",
+   "url": "https://stripe.com/jobs/search?gh_jid=8271661"
   },
   "8273713": {
    "closed_at": null,
@@ -11243,6 +11382,21 @@
    "title": "Program Manager, Commercial Solutions",
    "url": "https://stripe.com/jobs/search?gh_jid=8279867"
   },
+  "8280266": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "account executive startups @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-10-28T05:39:30+00:00",
+   "posted_history": [
+    "2026-10-28T05:39:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, Startups (Grower)",
+   "url": "https://stripe.com/jobs/search?gh_jid=8280266"
+  },
   "8282169": {
    "closed_at": null,
    "department": "",
@@ -11302,6 +11456,21 @@
    "reopened": 1,
    "title": "Technical Program Manager, Extensibility Platform",
    "url": "https://stripe.com/jobs/search?gh_jid=8282859"
+  },
+  "8283782": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "design engineer brand studio @ us, canada, remote",
+   "location": "US, Canada, Remote",
+   "posted_at": "2026-10-27T18:04:17+00:00",
+   "posted_history": [
+    "2026-10-27T18:04:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Design Engineer, Brand Studio",
+   "url": "https://stripe.com/jobs/search?gh_jid=8283782"
   },
   "8284962": {
    "closed_at": null,
@@ -11423,6 +11592,21 @@
    "title": "Account Executive, Existing Business, French",
    "url": "https://stripe.com/jobs/search?gh_jid=8286680"
   },
+  "8287486": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "managing editor stripe press @ nyc",
+   "location": "NYC",
+   "posted_at": "2026-10-27T23:19:11+00:00",
+   "posted_history": [
+    "2026-10-27T23:19:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Managing Editor, Stripe Press",
+   "url": "https://stripe.com/jobs/search?gh_jid=8287486"
+  },
   "8287912": {
    "closed_at": null,
    "department": "",
@@ -11482,6 +11666,21 @@
    "reopened": 0,
    "title": "Team Lead, Managed Support",
    "url": "https://stripe.com/jobs/search?gh_jid=8288538"
+  },
+  "8288541": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "regional marketing manager dach @ berlin, germany",
+   "location": "Berlin, Germany ",
+   "posted_at": "2026-10-27T13:42:33+00:00",
+   "posted_history": [
+    "2026-10-27T13:42:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Regional Marketing Manager, DACH",
+   "url": "https://stripe.com/jobs/search?gh_jid=8288541"
   },
   "8288561": {
    "closed_at": "2026-10-22T08:55:54+00:00",
@@ -11543,6 +11742,21 @@
    "title": "Account Executive, Bridge - Hunter (Stripe Crypto and Stablecoins)",
    "url": "https://stripe.com/jobs/search?gh_jid=8299647"
   },
+  "8299649": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "head of ai startups emea @ dublin, london, paris, berlin, stockholm",
+   "location": "Dublin, London, Paris, Berlin, Stockholm",
+   "posted_at": "2026-10-23T10:01:24+00:00",
+   "posted_history": [
+    "2026-10-23T10:01:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Head of AI Startups, EMEA",
+   "url": "https://stripe.com/jobs/search?gh_jid=8299649"
+  },
   "8299651": {
    "closed_at": null,
    "department": "",
@@ -11574,7 +11788,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8300616"
   },
   "8301253": {
-   "closed_at": "2026-10-23T08:50:35+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -11584,7 +11798,7 @@
    "posted_history": [
     "2026-10-19T19:15:39+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Backend / API Engineer, Radar",
    "url": "https://stripe.com/jobs/search?gh_jid=8301253"
   },
@@ -11739,7 +11953,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8306158"
   },
   "8311069": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
@@ -11753,8 +11967,23 @@
    "title": "Android Engineer, Identity",
    "url": "https://stripe.com/jobs/search?gh_jid=8311069"
   },
-  "8311082": {
+  "8311071": {
    "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "corporate security infrastructure project manager emea @ london, dublin",
+   "location": "London, Dublin",
+   "posted_at": "2026-10-27T17:43:20+00:00",
+   "posted_history": [
+    "2026-10-27T17:43:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Corporate Security Infrastructure Project Manager, EMEA",
+   "url": "https://stripe.com/jobs/search?gh_jid=8311071"
+  },
+  "8311082": {
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
@@ -11798,6 +12027,21 @@
    "title": "Software Engineer",
    "url": "https://stripe.com/jobs/search?gh_jid=8314283"
   },
+  "8315962": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "risk operations associate upo @ mexico city",
+   "location": "Mexico City",
+   "posted_at": "2026-10-27T23:17:39+00:00",
+   "posted_history": [
+    "2026-10-27T23:17:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Risk Operations Associate, UPO",
+   "url": "https://stripe.com/jobs/search?gh_jid=8315962"
+  },
   "8318509": {
    "closed_at": null,
    "department": "",
@@ -11812,6 +12056,21 @@
    "reopened": 0,
    "title": "Software Engineer",
    "url": "https://stripe.com/jobs/search?gh_jid=8318509"
+  },
+  "8319459": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "account executive platforms hunter @ madrid",
+   "location": "Madrid",
+   "posted_at": "2026-10-27T17:53:26+00:00",
+   "posted_history": [
+    "2026-10-27T17:53:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, Platforms Hunter (Spanish fluency)",
+   "url": "https://stripe.com/jobs/search?gh_jid=8319459"
   },
   "8323732": {
    "closed_at": null,
@@ -11857,6 +12116,21 @@
    "reopened": 0,
    "title": "Technical Operations Engineer",
    "url": "https://stripe.com/jobs/search?gh_jid=8325807"
+  },
+  "8329718": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "staff software engineer dashboard product @ seattle",
+   "location": "Seattle",
+   "posted_at": "2026-10-28T01:21:27+00:00",
+   "posted_history": [
+    "2026-10-28T01:21:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer, Dashboard Product",
+   "url": "https://stripe.com/jobs/search?gh_jid=8329718"
   }
  }
 }

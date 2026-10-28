@@ -35,6 +35,10 @@
   {
    "date": "2026-10-27",
    "open": 111
+  },
+  {
+   "date": "2026-10-28",
+   "open": 113
   }
  ],
  "jobs": {
@@ -1314,7 +1318,7 @@
    "url": "https://www.asana.com/jobs/apply/8227362?gh_jid=8227362"
   },
   "8227390": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1558,14 +1562,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
-   "fp": "senior product marketing manager it and ai transformation @ vancouver, bc",
+   "fp": "senior product marketing manager it and cio audiences @ vancouver, bc",
    "location": "Vancouver, BC",
    "posted_at": "2026-10-26T16:17:39+00:00",
    "posted_history": [
     "2026-10-26T16:17:39+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Product Marketing Manager, IT and AI Transformation",
+   "title": "Senior Product Marketing Manager, IT and CIO Audiences",
    "url": "https://www.asana.com/jobs/apply/8262890?gh_jid=8262890"
   },
   "8264089": {
@@ -1808,6 +1812,21 @@
    "title": "Head of Global Campaigns",
    "url": "https://www.asana.com/jobs/apply/8303385?gh_jid=8303385"
   },
+  "8304535": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "implementation manager @ london",
+   "location": "London",
+   "posted_at": "2026-10-27T10:54:18+00:00",
+   "posted_history": [
+    "2026-10-27T10:54:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Implementation Manager",
+   "url": "https://www.asana.com/jobs/apply/8304535?gh_jid=8304535"
+  },
   "8304591": {
    "closed_at": null,
    "department": "",
@@ -1852,6 +1871,21 @@
    "reopened": 0,
    "title": "Engineering Manager, Client Management",
    "url": "https://www.asana.com/jobs/apply/8311992?gh_jid=8311992"
+  },
+  "8315830": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "cx technical enablement partner @ chicago",
+   "location": "Chicago",
+   "posted_at": "2026-10-27T11:03:25+00:00",
+   "posted_history": [
+    "2026-10-27T11:03:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "CX Technical Enablement Partner",
+   "url": "https://www.asana.com/jobs/apply/8315830?gh_jid=8315830"
   },
   "8315854": {
    "closed_at": null,
@@ -1912,6 +1946,21 @@
    "reopened": 0,
    "title": "Head of Web Strategy and Services",
    "url": "https://www.asana.com/jobs/apply/8324814?gh_jid=8324814"
+  },
+  "8326988": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "cx technical enablement partner @ dublin",
+   "location": "Dublin",
+   "posted_at": "2026-10-27T11:03:27+00:00",
+   "posted_history": [
+    "2026-10-27T11:03:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "CX Technical Enablement Partner",
+   "url": "https://www.asana.com/jobs/apply/8326988?gh_jid=8326988"
   }
  }
 }

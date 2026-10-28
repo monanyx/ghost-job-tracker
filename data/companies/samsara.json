@@ -35,6 +35,10 @@
   {
    "date": "2026-10-27",
    "open": 324
+  },
+  {
+   "date": "2026-10-28",
+   "open": 320
   }
  ],
  "jobs": {
@@ -373,8 +377,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "account executive mid market @ remote - us",
-   "location": "Remote - US",
+   "fp": "account executive mid market @ remote - tx; remote - us",
+   "location": "Remote - TX; Remote - US",
    "posted_at": "2026-02-12T20:16:21+00:00",
    "posted_history": [
     "2026-02-12T20:16:21+00:00"
@@ -519,7 +523,7 @@
    "url": "https://www.samsara.com/company/careers/roles/7612978?gh_jid=7612978"
   },
   "7613161": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -532,6 +536,21 @@
    "reopened": 0,
    "title": "Mid-Market Account Executive - UK&I",
    "url": "https://www.samsara.com/company/careers/roles/7613161?gh_jid=7613161"
+  },
+  "7618024": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "account development representative france @ remote - france",
+   "location": "Remote - France",
+   "posted_at": "2026-09-21T09:06:21+00:00",
+   "posted_history": [
+    "2026-09-21T09:06:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Development Representative - France",
+   "url": "https://www.samsara.com/company/careers/roles/7618024?gh_jid=7618024"
   },
   "7618026": {
    "closed_at": null,
@@ -729,7 +748,7 @@
    "url": "https://www.samsara.com/company/careers/roles/7752678?gh_jid=7752678"
   },
   "7759354": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1089,7 +1108,7 @@
    "url": "https://www.samsara.com/company/careers/roles/7926750?gh_jid=7926750"
   },
   "7951885": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1569,7 +1588,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8027084?gh_jid=8027084"
   },
   "8029097": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2154,7 +2173,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8109358?gh_jid=8109358"
   },
   "8112694": {
-   "closed_at": "2026-10-27T09:20:56+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2164,7 +2183,7 @@
    "posted_history": [
     "2026-08-14T19:48:46+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Technical Support Engineer I - Mexico",
    "url": "https://www.samsara.com/company/careers/roles/8112694?gh_jid=8112694"
   },
@@ -2319,7 +2338,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8125426?gh_jid=8125426"
   },
   "8129161": {
-   "closed_at": "2026-10-27T09:20:56+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2329,7 +2348,7 @@
    "posted_history": [
     "2026-08-13T21:00:44+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Software Engineer II",
    "url": "https://www.samsara.com/company/careers/roles/8129161?gh_jid=8129161"
   },
@@ -2454,7 +2473,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8139255?gh_jid=8139255"
   },
   "8141615": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2634,7 +2653,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8156181?gh_jid=8156181"
   },
   "8156715": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2653,8 +2672,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "account executive commercial @ remote - us",
-   "location": "Remote - US",
+   "fp": "account executive commercial @ remote - az; remote - ca",
+   "location": "Remote - AZ; Remote - CA",
    "posted_at": "2026-09-03T13:51:54+00:00",
    "posted_history": [
     "2026-09-03T13:51:54+00:00"
@@ -2994,7 +3013,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8187198?gh_jid=8187198"
   },
   "8187214": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3238,8 +3257,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "account development representative canada @ remote - toronto",
-   "location": "Remote - Toronto",
+   "fp": "account development representative canada @ remote - quebec",
+   "location": "Remote - Quebec",
    "posted_at": "2026-09-17T18:44:15+00:00",
    "posted_history": [
     "2026-09-17T18:44:15+00:00"
@@ -3924,7 +3943,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8263224?gh_jid=8263224"
   },
   "8263226": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4267,6 +4286,21 @@
    "reopened": 0,
    "title": "Recruiter - Sales Development",
    "url": "https://www.samsara.com/company/careers/roles/8282119?gh_jid=8282119"
+  },
+  "8282635": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "technical account manager @ canada; remote - canada",
+   "location": "Canada; Remote - Canada",
+   "posted_at": "2026-10-27T21:42:00+00:00",
+   "posted_history": [
+    "2026-10-27T21:42:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Account Manager",
+   "url": "https://www.samsara.com/company/careers/roles/8282635?gh_jid=8282635"
   },
   "8287417": {
    "closed_at": null,

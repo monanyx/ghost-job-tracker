@@ -35,6 +35,10 @@
   {
    "date": "2026-10-27",
    "open": 116
+  },
+  {
+   "date": "2026-10-28",
+   "open": 118
   }
  ],
  "jobs": {
@@ -234,7 +238,7 @@
    "url": "https://jobs.ashbyhq.com/cohere/1d1b300d-254b-48c4-958f-99c6b907f295"
   },
   "1e6c4acf-d98a-46ac-bacb-d609ca1326c1": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -473,6 +477,21 @@
    "title": "Staff Software Engineer, Inference Infrastructure",
    "url": "https://jobs.ashbyhq.com/cohere/41f23dad-9da2-451a-bd1e-a1800437cb64"
   },
+  "4232d337-fbc7-4e8c-81d5-2903ab0eb6e8": {
+   "closed_at": null,
+   "department": "Engineering & Infra",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "web developer @ toronto",
+   "location": "Toronto",
+   "posted_at": "2026-10-27T21:46:02+00:00",
+   "posted_history": [
+    "2026-10-27T21:46:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Web Developer",
+   "url": "https://jobs.ashbyhq.com/cohere/4232d337-fbc7-4e8c-81d5-2903ab0eb6e8"
+  },
   "43943c73-6640-443d-9b24-df510fce7499": {
    "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "Business Operations",
@@ -683,6 +702,21 @@
    "reopened": 0,
    "title": "IT Support Specialist",
    "url": "https://jobs.ashbyhq.com/cohere/5cfb3495-e33f-4cf2-a54d-fa9a5ca3cc3e"
+  },
+  "5da754e4-d83a-4d91-b6fe-a128227ae609": {
+   "closed_at": null,
+   "department": "People Operations",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "talent sourcer tech @ toronto",
+   "location": "Toronto",
+   "posted_at": "2026-10-28T02:52:40+00:00",
+   "posted_history": [
+    "2026-10-28T02:52:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Talent Sourcer, Tech",
+   "url": "https://jobs.ashbyhq.com/cohere/5da754e4-d83a-4d91-b6fe-a128227ae609"
   },
   "60de50e9-aba7-4a3a-8cdb-955a456749aa": {
    "closed_at": null,
@@ -1283,6 +1317,21 @@
    "reopened": 0,
    "title": "Customer Success Manager - UAE",
    "url": "https://jobs.ashbyhq.com/cohere/abd68512-a6e1-4221-bc60-dec83623408a"
+  },
+  "acec6038-117b-400b-92e3-0745fbb4cf53": {
+   "closed_at": null,
+   "department": "Data Quality (Contract)",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "data annotation specialist german writer translator @ canada",
+   "location": "Canada",
+   "posted_at": "2026-10-27T17:10:01+00:00",
+   "posted_history": [
+    "2026-10-27T17:10:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "Data Annotation Specialist - German Writer/Translator",
+   "url": "https://jobs.ashbyhq.com/cohere/acec6038-117b-400b-92e3-0745fbb4cf53"
   },
   "ada41b39-21a9-467c-a22c-9e907524af40": {
    "closed_at": null,

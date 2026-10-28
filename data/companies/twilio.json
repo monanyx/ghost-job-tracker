@@ -35,6 +35,10 @@
   {
    "date": "2026-10-27",
    "open": 136
+  },
+  {
+   "date": "2026-10-28",
+   "open": 132
   }
  ],
  "jobs": {
@@ -69,7 +73,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/7481689"
   },
   "7595407": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -624,7 +628,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8067909"
   },
   "8071710": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -787,6 +791,21 @@
    "reopened": 0,
    "title": "Sr. Principal Product Manager",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8108776"
+  },
+  "8112239": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "sales development representative 2 @ remote - united kingdom",
+   "location": "Remote - United Kingdom",
+   "posted_at": "2026-08-18T13:18:09+00:00",
+   "posted_history": [
+    "2026-08-18T13:18:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales Development Representative 2",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8112239"
   },
   "8114393": {
    "closed_at": null,
@@ -1254,7 +1273,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8197775"
   },
   "8201630": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1359,7 +1378,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8206834"
   },
   "8207696": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1794,7 +1813,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8256912"
   },
   "8257820": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1824,7 +1843,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8258581"
   },
   "8258587": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1989,7 +2008,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8261705"
   },
   "8261708": {
-   "closed_at": "2026-10-26T09:22:13+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
@@ -1999,7 +2018,7 @@
    "posted_history": [
     "2026-10-23T18:15:41+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Strategic Account Executive",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8261708"
   },
@@ -2109,7 +2128,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8266975"
   },
   "8267554": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2362,6 +2381,21 @@
    "reopened": 0,
    "title": "Sr. Director, Marketing Strategy, Analytics & Innovation",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8325734"
+  },
+  "8330326": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "strategic account executive @ remote - australia",
+   "location": "Remote - Australia",
+   "posted_at": "2026-10-28T09:25:26+00:00",
+   "posted_history": [
+    "2026-10-28T09:25:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Account Executive",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8330326"
   }
  }
 }

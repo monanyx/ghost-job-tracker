@@ -35,6 +35,10 @@
   {
    "date": "2026-10-27",
    "open": 124
+  },
+  {
+   "date": "2026-10-28",
+   "open": 123
   }
  ],
  "jobs": {
@@ -1059,18 +1063,19 @@
    "url": "https://jobs.ashbyhq.com/cursor/6ab9bead-274e-4bf4-b2ee-1f3669e4aa9b"
   },
   "6acdd80a-3a1b-4701-a607-ca10d86c6847": {
-   "closed_at": "2026-10-23T08:50:35+00:00",
+   "closed_at": null,
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
-   "fp": "data scientist marketing @ san francisco",
+   "fp": "data engineer marketing @ san francisco",
    "location": "San Francisco",
-   "posted_at": "2026-10-22T03:54:31+00:00",
+   "posted_at": "2026-10-28T05:31:19+00:00",
    "posted_history": [
-    "2026-10-22T03:54:31+00:00"
+    "2026-10-22T03:54:31+00:00",
+    "2026-10-28T05:31:19+00:00"
    ],
-   "reopened": 0,
-   "title": "Data Scientist, Marketing",
+   "reopened": 1,
+   "title": "Data Engineer, Marketing",
    "url": "https://jobs.ashbyhq.com/cursor/6acdd80a-3a1b-4701-a607-ca10d86c6847"
   },
   "6c80d6e2-5e59-418e-9ea6-15dface61698": {
@@ -1327,6 +1332,21 @@
    "reopened": 0,
    "title": "Senior Integrated Campaigns Manager, AMER",
    "url": "https://jobs.ashbyhq.com/cursor/90f3ffbe-8174-4dc1-a0f5-ca9cb48fdda7"
+  },
+  "919704fe-a3b7-4a15-8d2b-5df649b5168c": {
+   "closed_at": null,
+   "department": "Partnerships",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "partner account manager singapore @ singapore",
+   "location": "Singapore",
+   "posted_at": "2026-10-27T17:31:24+00:00",
+   "posted_history": [
+    "2026-10-27T17:31:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Partner Account Manager - Singapore",
+   "url": "https://jobs.ashbyhq.com/cursor/919704fe-a3b7-4a15-8d2b-5df649b5168c"
   },
   "919b3d00-fef8-4038-8b71-165fae5d54e7": {
    "closed_at": null,
@@ -1719,7 +1739,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/c30b1b69-518a-4fdd-a316-667380bcd608"
   },
   "c43bdded-80a1-4705-a0ec-8217d771528c": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2004,7 +2024,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/e08262e8-c089-488d-9b59-9e21f7702b64"
   },
   "e22c4770-1776-4adb-b347-46b9c2ed9452": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "Marketing",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
@@ -2019,7 +2039,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/e22c4770-1776-4adb-b347-46b9c2ed9452"
   },
   "e3ccb495-a8a3-4ff0-a27b-262188abb9df": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "Customer Success",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

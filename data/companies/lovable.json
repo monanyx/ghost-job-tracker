@@ -35,6 +35,10 @@
   {
    "date": "2026-10-27",
    "open": 81
+  },
+  {
+   "date": "2026-10-28",
+   "open": 82
   }
  ],
  "jobs": {
@@ -1089,6 +1093,21 @@
    "title": "Data Platform Engineer",
    "url": "https://jobs.ashbyhq.com/lovable/cfef6fe1-e0c9-4139-8618-b51bfb1dc683"
   },
+  "d06e485f-237e-4495-8675-79b7ad420051": {
+   "closed_at": null,
+   "department": "EPD",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "forward deployed engineering lead @ london",
+   "location": "London",
+   "posted_at": "2026-10-13T13:47:56+00:00",
+   "posted_history": [
+    "2026-10-13T13:47:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Engineering Lead",
+   "url": "https://jobs.ashbyhq.com/lovable/d06e485f-237e-4495-8675-79b7ad420051"
+  },
   "d15f1a6a-dbba-41d6-b8b4-90fc00de183c": {
    "closed_at": null,
    "department": "EPD",
@@ -1151,7 +1170,7 @@
    "url": "https://jobs.ashbyhq.com/lovable/db107c99-103c-4ca8-979e-fbe6d714f971"
   },
   "dbdb349a-195e-4de6-834d-f0e587678ee9": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "FDN",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1299,6 +1318,21 @@
    "reopened": 0,
    "title": "Performance Marketer, Paid Search",
    "url": "https://jobs.ashbyhq.com/lovable/ef383f78-4d6b-4226-8902-8d4dab2f6a47"
+  },
+  "f16a20b6-d3a2-4507-944c-86becd975766": {
+   "closed_at": null,
+   "department": "EPD",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "staff forward deployed engineer @ new york city",
+   "location": "New York City",
+   "posted_at": "2026-10-21T07:11:47+00:00",
+   "posted_history": [
+    "2026-10-21T07:11:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Forward Deployed Engineer",
+   "url": "https://jobs.ashbyhq.com/lovable/f16a20b6-d3a2-4507-944c-86becd975766"
   },
   "f7ffd722-a5bc-4229-9a9f-1d2c952dd7ba": {
    "closed_at": null,

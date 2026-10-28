@@ -35,6 +35,10 @@
   {
    "date": "2026-10-27",
    "open": 166
+  },
+  {
+   "date": "2026-10-28",
+   "open": 169
   }
  ],
  "jobs": {
@@ -1078,14 +1082,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior frontier data strategist @ san francisco, ca; new york, ny",
+   "fp": "frontier data strategist @ san francisco, ca; new york, ny",
    "location": "San Francisco, CA; New York, NY",
    "posted_at": "2026-04-20T23:36:57+00:00",
    "posted_history": [
     "2026-04-20T23:36:57+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Frontier Data Strategist",
+   "title": "Frontier Data Strategist",
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4687052005"
   },
   "4687384005": {
@@ -1674,7 +1678,7 @@
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4717648005"
   },
   "4717701005": {
-   "closed_at": "2026-10-21T08:53:29+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1684,7 +1688,7 @@
    "posted_history": [
     "2026-07-24T16:40:41+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Team Lead, ARC Software Engineering Team",
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4717701005"
   },
@@ -2473,14 +2477,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "us payroll specialist @ mexico city, mx",
+   "fp": "us payroll analyst @ mexico city, mx",
    "location": "Mexico City, MX",
    "posted_at": "2026-09-18T19:00:20+00:00",
    "posted_history": [
     "2026-09-18T19:00:20+00:00"
    ],
    "reopened": 0,
-   "title": "US Payroll Specialist",
+   "title": "US Payroll Analyst",
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4734728005"
   },
   "4735208005": {
@@ -2857,6 +2861,36 @@
    "reopened": 0,
    "title": "Creative Advisor - Human Frontier Collective",
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4747295005"
+  },
+  "4747506005": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "frontier agent engineering manager enterprise @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-10-27T13:08:16+00:00",
+   "posted_history": [
+    "2026-10-27T13:08:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Frontier Agent Engineering Manager, Enterprise",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4747506005"
+  },
+  "4748288005": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "global procurement analyst @ mexico city, mx",
+   "location": "Mexico City, MX",
+   "posted_at": "2026-10-27T21:53:31+00:00",
+   "posted_history": [
+    "2026-10-27T21:53:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Global Procurement Analyst",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4748288005"
   }
  }
 }

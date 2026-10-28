@@ -35,6 +35,10 @@
   {
    "date": "2026-10-27",
    "open": 141
+  },
+  {
+   "date": "2026-10-28",
+   "open": 142
   }
  ],
  "jobs": {
@@ -654,7 +658,7 @@
    "url": "https://boards.greenhouse.io/figma/jobs/5832782004?gh_jid=5832782004"
   },
   "5835172004": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -699,7 +703,7 @@
    "url": "https://boards.greenhouse.io/figma/jobs/5969046004?gh_jid=5969046004"
   },
   "5976498004": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1149,7 +1153,7 @@
    "url": "https://boards.greenhouse.io/figma/jobs/6126976004?gh_jid=6126976004"
   },
   "6130540004": {
-   "closed_at": null,
+   "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2378,6 +2382,21 @@
    "title": "Manager, Customer Enablement - Figma Weave (New York, United States)",
    "url": "https://boards.greenhouse.io/figma/jobs/6232422004?gh_jid=6232422004"
   },
+  "6232541004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "customer enablement manager figma weave @ new york, ny • united states",
+   "location": "New York, NY • United States",
+   "posted_at": "2026-10-27T20:24:36+00:00",
+   "posted_history": [
+    "2026-10-27T20:24:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Enablement Manager - Figma Weave (New York, United States)",
+   "url": "https://boards.greenhouse.io/figma/jobs/6232541004?gh_jid=6232541004"
+  },
   "6232584004": {
    "closed_at": null,
    "department": "",
@@ -2393,6 +2412,36 @@
    "title": "Customer Enablement Manager - Figma Weave  (London, United Kingdom)",
    "url": "https://boards.greenhouse.io/figma/jobs/6232584004?gh_jid=6232584004"
   },
+  "6233040004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "data integration engineer business systems @ san francisco, ca • new york, ny • united states",
+   "location": "San Francisco, CA • New York, NY • United States",
+   "posted_at": "2026-10-27T18:10:49+00:00",
+   "posted_history": [
+    "2026-10-27T18:10:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Data & Integration Engineer, Business Systems",
+   "url": "https://boards.greenhouse.io/figma/jobs/6233040004?gh_jid=6233040004"
+  },
+  "6233043004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "ai engineer internal tools @ san francisco, ca • new york, ny • united states",
+   "location": "San Francisco, CA • New York, NY • United States",
+   "posted_at": "2026-10-27T18:11:12+00:00",
+   "posted_history": [
+    "2026-10-27T18:11:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "AI Engineer, Internal Tools",
+   "url": "https://boards.greenhouse.io/figma/jobs/6233043004?gh_jid=6233043004"
+  },
   "6233207004": {
    "closed_at": null,
    "department": "",
@@ -2407,6 +2456,21 @@
    "reopened": 0,
    "title": "Technical Quality Specialist - Figma Weave (Singapore)",
    "url": "https://boards.greenhouse.io/figma/jobs/6233207004?gh_jid=6233207004"
+  },
+  "6235005004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-28T10:01:46+00:00",
+   "fp": "product partner manager scaled @ san francisco, ca • new york, ny • united states",
+   "location": "San Francisco, CA • New York, NY • United States",
+   "posted_at": "2026-10-27T16:25:21+00:00",
+   "posted_history": [
+    "2026-10-27T16:25:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Partner Manager, Scaled",
+   "url": "https://boards.greenhouse.io/figma/jobs/6235005004?gh_jid=6235005004"
   }
  }
 }
