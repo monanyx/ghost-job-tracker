@@ -39,6 +39,10 @@
   {
    "date": "2026-10-28",
    "open": 228
+  },
+  {
+   "date": "2026-10-29",
+   "open": 228
   }
  ],
  "jobs": {
@@ -146,6 +150,21 @@
    "reopened": 0,
    "title": "Manager, Technical Recruiting",
    "url": "https://jobs.lever.co/zoox/05762fb8-07fa-43a3-aa30-e079bb31018e"
+  },
+  "06f146c2-25f6-40fd-8393-4f92ce518929": {
+   "closed_at": null,
+   "department": "Autonomy Software",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "machine learning engineer vision foundation models @ foster city, ca",
+   "location": "Foster City, CA",
+   "posted_at": "2026-10-27T22:50:08+00:00",
+   "posted_history": [
+    "2026-10-27T22:50:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "Machine Learning Engineer - Vision Foundation Models",
+   "url": "https://jobs.lever.co/zoox/06f146c2-25f6-40fd-8393-4f92ce518929"
   },
   "07f0834f-06ec-44c7-a24b-3efa08589d38": {
    "closed_at": null,
@@ -613,7 +632,7 @@
    "url": "https://jobs.lever.co/zoox/254559af-8372-403b-8220-9b49af400361"
   },
   "25cff65a-c3bc-4789-a9fb-dedf773b7ea7": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "IT Infrastructure",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1107,6 +1126,21 @@
    "title": "Principal Systems Engineer, Safety",
    "url": "https://jobs.lever.co/zoox/408784a4-36c2-4d4c-ad50-d2952e2e64cc"
   },
+  "40a0ff29-6701-4c82-a5eb-afb69682b6c6": {
+   "closed_at": null,
+   "department": "Indirect Procurement",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "senior manager contingent workforce travel @ foster city, ca",
+   "location": "Foster City, CA",
+   "posted_at": "2026-10-28T23:31:26+00:00",
+   "posted_history": [
+    "2026-10-28T23:31:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Contingent Workforce & Travel",
+   "url": "https://jobs.lever.co/zoox/40a0ff29-6701-4c82-a5eb-afb69682b6c6"
+  },
   "4258cd55-95e1-424e-9fe6-edbec8235281": {
    "closed_at": null,
    "department": "Technical Program Management",
@@ -1187,14 +1221,14 @@
    "department": "Talent",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "head of talent acquisition @ foster city, ca",
+   "fp": "senior director head of talent acquisition @ foster city, ca",
    "location": "Foster City, CA",
    "posted_at": "2026-04-29T00:04:38+00:00",
    "posted_history": [
     "2026-04-29T00:04:38+00:00"
    ],
    "reopened": 0,
-   "title": "Head of Talent Acquisition",
+   "title": "Senior Director, Head of Talent Acquisition",
    "url": "https://jobs.lever.co/zoox/48639085-6179-4a14-94c5-5b5ba027879c"
   },
   "48a6b2ac-0dcb-4481-ab26-386ce62decab": {
@@ -2222,14 +2256,14 @@
    "department": "RiderOps and TeleOps",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "team lead fusion center analysts @ las vegas, nv",
+   "fp": "team lead fleet support analysts @ las vegas, nv",
    "location": "Las Vegas, NV",
    "posted_at": "2026-10-09T21:51:55+00:00",
    "posted_history": [
     "2026-10-09T21:51:55+00:00"
    ],
    "reopened": 0,
-   "title": "Team Lead, Fusion Center Analysts",
+   "title": "Team Lead, Fleet Support Analysts",
    "url": "https://jobs.lever.co/zoox/8aecfb4f-9e7a-46e2-832e-bfc9478ef39b"
   },
   "8af192a0-9ee4-45de-a241-f373cb2ef71c": {
@@ -2672,14 +2706,14 @@
    "department": "Autonomy Software",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "staff data scientist behavior evaluation @ foster city, ca",
+   "fp": "data scientist behavior evaluation @ foster city, ca",
    "location": "Foster City, CA",
    "posted_at": "2022-05-04T17:43:21+00:00",
    "posted_history": [
     "2022-05-04T17:43:21+00:00"
    ],
    "reopened": 0,
-   "title": "Staff Data Scientist - Behavior Evaluation",
+   "title": "Data Scientist - Behavior Evaluation",
    "url": "https://jobs.lever.co/zoox/acaafc9a-486d-4045-80d7-12b09e39330e"
   },
   "acbf0c0c-1f38-4454-bf38-b706778b1f69": {
@@ -3268,7 +3302,7 @@
    "url": "https://jobs.lever.co/zoox/d8582506-eef9-4e69-b1c8-1e6b0c83b7a7"
   },
   "d939f359-805f-45c7-bac2-35e137d1f65b": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "Quality and Reliability",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3386,6 +3420,21 @@
    "reopened": 0,
    "title": "AV Safety Data Reporting Engineer",
    "url": "https://jobs.lever.co/zoox/e36cc53e-5bd5-43b9-9a90-ec9b7c6abda9"
+  },
+  "e6a4bbe1-20ab-4f1f-af07-f06fabedeabd": {
+   "closed_at": null,
+   "department": "Body, Closures and Chassis",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "mechatronics engineer closures @ foster city, ca",
+   "location": "Foster City, CA",
+   "posted_at": "2026-10-28T21:11:14+00:00",
+   "posted_history": [
+    "2026-10-28T21:11:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Mechatronics Engineer - Closures",
+   "url": "https://jobs.lever.co/zoox/e6a4bbe1-20ab-4f1f-af07-f06fabedeabd"
   },
   "e725749e-88f7-48e0-8e4c-8a4a3289b905": {
    "closed_at": null,
@@ -3778,7 +3827,7 @@
    "url": "https://jobs.lever.co/zoox/fe41af48-f0ec-46ec-b840-00f9d9f872de"
   },
   "fe820d6e-2f38-4f5a-a824-3690dbb58453": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "Base Operations",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

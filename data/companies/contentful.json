@@ -39,6 +39,10 @@
   {
    "date": "2026-10-28",
    "open": 26
+  },
+  {
+   "date": "2026-10-29",
+   "open": 29
   }
  ],
  "jobs": {
@@ -446,6 +450,51 @@
    "reopened": 0,
    "title": "Enterprise Account Executive",
    "url": "https://job-boards.greenhouse.io/contentful/jobs/8328031"
+  },
+  "8330428": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "enterprise account executive french @ paris, france",
+   "location": "Paris, France",
+   "posted_at": "2026-10-28T10:46:40+00:00",
+   "posted_history": [
+    "2026-10-28T10:46:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Account Executive - French (f/h/x)",
+   "url": "https://job-boards.greenhouse.io/contentful/jobs/8330428"
+  },
+  "8330477": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "enterprise account executive dach @ munich, bavaria, germany",
+   "location": "Munich, Bavaria, Germany",
+   "posted_at": "2026-10-28T10:45:40+00:00",
+   "posted_history": [
+    "2026-10-28T10:45:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Account Executive DACH (f/m/d)",
+   "url": "https://job-boards.greenhouse.io/contentful/jobs/8330477"
+  },
+  "8330490": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "enterprise account executive uki @ london, england, united kingdom",
+   "location": "London, England, United Kingdom",
+   "posted_at": "2026-10-28T10:44:37+00:00",
+   "posted_history": [
+    "2026-10-28T10:44:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Account Executive UKI (f/m/d)",
+   "url": "https://job-boards.greenhouse.io/contentful/jobs/8330490"
   }
  }
 }

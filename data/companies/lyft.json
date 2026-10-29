@@ -39,6 +39,10 @@
   {
    "date": "2026-10-28",
    "open": 178
+  },
+  {
+   "date": "2026-10-29",
+   "open": 177
   }
  ],
  "jobs": {
@@ -163,7 +167,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8514422002?gh_jid=8514422002"
   },
   "8555335002": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -793,7 +797,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8693571002?gh_jid=8693571002"
   },
   "8697534002": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -958,7 +962,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8743231002?gh_jid=8743231002"
   },
   "8743240002": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -973,7 +977,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8743240002?gh_jid=8743240002"
   },
   "8743465002": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1318,7 +1322,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8777403002?gh_jid=8777403002"
   },
   "8779925002": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1333,7 +1337,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8779925002?gh_jid=8779925002"
   },
   "8779927002": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2293,7 +2297,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8857353002?gh_jid=8857353002"
   },
   "8860555002": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3162,6 +3166,21 @@
    "title": "Senior Product Manager, Rider ML/AI",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8916924002?gh_jid=8916924002"
   },
+  "8917426002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "staff product manager i base pricing @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-10-28T16:00:03+00:00",
+   "posted_history": [
+    "2026-10-28T16:00:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Product Manager I, Base Pricing",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8917426002?gh_jid=8917426002"
+  },
   "8919442002": {
    "closed_at": null,
    "department": "",
@@ -3176,6 +3195,81 @@
    "reopened": 0,
    "title": "Operations Associate, Flexdrive",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8919442002?gh_jid=8919442002"
+  },
+  "8921735002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "senior technical program manager central @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-10-28T18:29:55+00:00",
+   "posted_history": [
+    "2026-10-28T18:29:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Technical Program Manager, Central",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8921735002?gh_jid=8921735002"
+  },
+  "8921758002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "senior payroll accountant @ seattle, wa",
+   "location": "Seattle, WA",
+   "posted_at": "2026-10-28T17:21:55+00:00",
+   "posted_history": [
+    "2026-10-28T17:21:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Payroll Accountant",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8921758002?gh_jid=8921758002"
+  },
+  "8921966002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "senior product manager driver experience @ toronto, canada",
+   "location": "Toronto, Canada",
+   "posted_at": "2026-10-28T14:48:12+00:00",
+   "posted_history": [
+    "2026-10-28T14:48:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Manager, Driver Experience",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8921966002?gh_jid=8921966002"
+  },
+  "8922068002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "staff product manager i base pricing @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-10-28T16:00:54+00:00",
+   "posted_history": [
+    "2026-10-28T16:00:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Product Manager I, Base Pricing",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8922068002?gh_jid=8922068002"
+  },
+  "8922198002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "internal communications senior manager @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-10-28T17:25:08+00:00",
+   "posted_history": [
+    "2026-10-28T17:25:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "Internal Communications Senior Manager",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8922198002?gh_jid=8922198002"
   }
  }
 }

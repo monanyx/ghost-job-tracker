@@ -39,6 +39,10 @@
   {
    "date": "2026-10-28",
    "open": 681
+  },
+  {
+   "date": "2026-10-29",
+   "open": 680
   }
  ],
  "jobs": {
@@ -1273,7 +1277,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5099753008"
   },
   "5101169008": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1288,7 +1292,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5101169008"
   },
   "5101173008": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1902,6 +1906,21 @@
    "title": "Partner Sales Manager, Systems Integrators",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5171950008"
   },
+  "5173120008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "staff software engineer enterprise connectivity @ san francisco, ca | new york city, ny",
+   "location": "San Francisco, CA | New York City, NY",
+   "posted_at": "2026-10-29T05:36:39+00:00",
+   "posted_history": [
+    "2026-10-29T05:36:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff+ Software Engineer, Enterprise Connectivity",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5173120008"
+  },
   "5174743008": {
    "closed_at": null,
    "department": "",
@@ -2248,7 +2267,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5203545008"
   },
   "5203868008": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2323,7 +2342,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5206978008"
   },
   "5208193008": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3643,7 +3662,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5344577008"
   },
   "5345583008": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5548,7 +5567,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391313008"
   },
   "5391322008": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6268,7 +6287,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5399162008"
   },
   "5399223008": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -8651,6 +8670,36 @@
    "reopened": 0,
    "title": "Research Engineer / Research Scientist, RL Frontiers",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438044008"
+  },
+  "5438311008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "anthropic research resident @ san francisco, ca | new york city, ny",
+   "location": "San Francisco, CA | New York City, NY",
+   "posted_at": "2026-10-28T19:09:00+00:00",
+   "posted_history": [
+    "2026-10-28T19:09:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Anthropic Research Resident",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008"
+  },
+  "5439169008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "anthropic research resident @ london, uk",
+   "location": "London, UK",
+   "posted_at": "2026-10-28T19:09:02+00:00",
+   "posted_history": [
+    "2026-10-28T19:09:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Anthropic Research Resident",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5439169008"
   },
   "5439355008": {
    "closed_at": null,
@@ -11036,6 +11085,51 @@
    "reopened": 0,
    "title": "Manager, Enterprise Sales - Pharma",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5464926008"
+  },
+  "5465561008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "senior partner systems analyst @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-10-28T17:13:21+00:00",
+   "posted_history": [
+    "2026-10-28T17:13:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Partner Systems Analyst",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5465561008"
+  },
+  "5466480008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "staff software engineer deployment @ remote-friendly (travel-required) | san francisco, ca | seattle, wa | new york city, ny",
+   "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
+   "posted_at": "2026-10-28T20:52:27+00:00",
+   "posted_history": [
+    "2026-10-28T20:52:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff+ Software Engineer, Deployment",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5466480008"
+  },
+  "5466517008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "senior field engineer data center design and engineering @ remote-friendly, united states",
+   "location": "Remote-Friendly, United States",
+   "posted_at": "2026-10-29T01:20:34+00:00",
+   "posted_history": [
+    "2026-10-29T01:20:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Field Engineer, Data Center Design and Engineering",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5466517008"
   }
  }
 }

@@ -39,6 +39,10 @@
   {
    "date": "2026-10-28",
    "open": 368
+  },
+  {
+   "date": "2026-10-29",
+   "open": 365
   }
  ],
  "jobs": {
@@ -1156,6 +1160,21 @@
    "title": "Legal Engineering Manager, APAC",
    "url": "https://jobs.ashbyhq.com/harvey/302a0914-2763-4e16-b044-b54de4367808"
   },
+  "310cde20-2456-4132-a3eb-b5d80e691ed5": {
+   "closed_at": null,
+   "department": "Product",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "api product lead @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-10-28T17:07:36+00:00",
+   "posted_history": [
+    "2026-10-28T17:07:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "API Product Lead",
+   "url": "https://jobs.ashbyhq.com/harvey/310cde20-2456-4132-a3eb-b5d80e691ed5"
+  },
   "313d5aa8-bfc9-4057-b9a3-b73b4894f6a7": {
    "closed_at": null,
    "department": "Engineering",
@@ -1695,7 +1714,7 @@
     "2026-09-09T22:23:14+00:00"
    ],
    "reopened": 0,
-   "title": "Senior/Staff Product Manager, Spaces",
+   "title": "Senior Staff Product Manager, Spaces",
    "url": "https://jobs.ashbyhq.com/harvey/4a7a598a-2dff-4c13-96e4-be39ec32bbd1"
   },
   "4a82c276-1113-41f6-baf9-a5be27e5c78f": {
@@ -2044,7 +2063,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/5a1452ff-566c-4a80-905d-61281a02a40f"
   },
   "5a22d5da-6be0-4f97-87d2-bb6a52aba554": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "Customer Success",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2177,6 +2196,21 @@
    "reopened": 0,
    "title": "CX Knowledge Specialist",
    "url": "https://jobs.ashbyhq.com/harvey/5ed49bc7-8cbe-46c3-8372-3db733ad02fb"
+  },
+  "5f3959e4-8d36-4e3f-b6f4-2ee248a4f1d6": {
+   "closed_at": null,
+   "department": "Product",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "api product lead @ new york",
+   "location": "New York",
+   "posted_at": "2026-10-28T23:54:26+00:00",
+   "posted_history": [
+    "2026-10-28T23:54:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "API Product Lead",
+   "url": "https://jobs.ashbyhq.com/harvey/5f3959e4-8d36-4e3f-b6f4-2ee248a4f1d6"
   },
   "5fc18ede-0043-496c-a928-41acf9fedb51": {
    "closed_at": null,
@@ -2840,7 +2874,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/79b98a8b-14cc-4cec-83ff-32969cc0cbfe"
   },
   "7a3b9337-ac67-4255-8db5-08bb3d57541e": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "Product",
    "evergreen": false,
    "first_seen": "2026-10-28T10:01:46+00:00",
@@ -3078,6 +3112,21 @@
    "reopened": 0,
    "title": "Compensation Business Partner, International",
    "url": "https://jobs.ashbyhq.com/harvey/83cc77b3-1616-4448-95a9-698dd228b9f9"
+  },
+  "8407b840-8645-471b-8bbf-f4c6c8861a2d": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "forward deployed finance engineer private credit @ london",
+   "location": "London",
+   "posted_at": "2026-10-28T16:30:21+00:00",
+   "posted_history": [
+    "2026-10-28T16:30:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Finance Engineer, Private Credit",
+   "url": "https://jobs.ashbyhq.com/harvey/8407b840-8645-471b-8bbf-f4c6c8861a2d"
   },
   "851b416f-9869-4b9c-9c10-5105bded4330": {
    "closed_at": null,
@@ -3860,7 +3909,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/a840849a-c8bd-49f1-b96c-230b03d953d5"
   },
   "a8a0c22a-fb05-4eb0-85c2-8ea334058324": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "Customer Success",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4025,7 +4074,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/aede4098-91f4-44f5-9d53-27c15cb2bae7"
   },
   "af2f6c0b-f470-4f79-b2d7-3004a3dce472": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4888,9 +4937,10 @@
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "staff product security engineer @ san francisco",
    "location": "San Francisco",
-   "posted_at": "2026-08-21T21:27:31+00:00",
+   "posted_at": "2026-10-28T13:40:27+00:00",
    "posted_history": [
-    "2026-08-21T21:27:31+00:00"
+    "2026-08-21T21:27:31+00:00",
+    "2026-10-28T13:40:27+00:00"
    ],
    "reopened": 0,
    "title": "Staff Product Security Engineer",
@@ -5392,7 +5442,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/e5be83a1-5546-4ee9-a79b-be91df8a4548"
   },
   "e61e839d-8250-4945-8406-46921a86922f": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "Customer Success",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5633,7 +5683,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/f361b7ea-82c6-4061-ad24-1419b4ca3c7b"
   },
   "f47e1925-2a89-4264-8a1b-09cd9215f4dd": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

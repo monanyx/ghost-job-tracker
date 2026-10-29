@@ -39,6 +39,10 @@
   {
    "date": "2026-10-28",
    "open": 93
+  },
+  {
+   "date": "2026-10-29",
+   "open": 92
   }
  ],
  "jobs": {
@@ -317,8 +321,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "solutions architect @ remote - united kingdom, germany",
-   "location": "Remote - United Kingdom, Germany",
+   "fp": "solutions architect @ hybrid - london, berlin",
+   "location": "Hybrid - London, Berlin",
    "posted_at": "2026-02-09T21:37:43+00:00",
    "posted_history": [
     "2026-02-09T21:37:43+00:00"
@@ -572,8 +576,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "security software engineer iam @ remote - united states",
-   "location": "Remote - United States",
+   "fp": "security software engineer iam @ hybrid - san francisco, new york city",
+   "location": "Hybrid - San Francisco, New York City",
    "posted_at": "2026-06-25T00:19:22+00:00",
    "posted_history": [
     "2026-06-25T00:19:22+00:00"
@@ -1063,7 +1067,7 @@
    "url": "https://job-boards.greenhouse.io/vercel/jobs/6160974004"
   },
   "6163582004": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

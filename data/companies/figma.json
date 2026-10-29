@@ -39,6 +39,10 @@
   {
    "date": "2026-10-28",
    "open": 142
+  },
+  {
+   "date": "2026-10-29",
+   "open": 141
   }
  ],
  "jobs": {
@@ -643,7 +647,7 @@
    "url": "https://boards.greenhouse.io/figma/jobs/5829751004?gh_jid=5829751004"
   },
   "5832782004": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -883,7 +887,7 @@
    "url": "https://boards.greenhouse.io/figma/jobs/6015609004?gh_jid=6015609004"
   },
   "6019394004": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1363,7 +1367,7 @@
    "url": "https://boards.greenhouse.io/figma/jobs/6144873004?gh_jid=6144873004"
   },
   "6147761004": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1843,7 +1847,7 @@
    "url": "https://boards.greenhouse.io/figma/jobs/6203089004?gh_jid=6203089004"
   },
   "6203783004": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2312,14 +2316,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
-   "fp": "account executive federal state local @ san francisco, ca",
+   "fp": "account executive public sector state local @ san francisco, ca",
    "location": "San Francisco, CA",
    "posted_at": "2026-10-22T15:23:31+00:00",
    "posted_history": [
     "2026-10-22T15:23:31+00:00"
    ],
    "reopened": 0,
-   "title": "Account Executive, Federal - State & Local",
+   "title": "Account Executive, Public Sector - State & Local",
    "url": "https://boards.greenhouse.io/figma/jobs/6230952004?gh_jid=6230952004"
   },
   "6231027004": {
@@ -2471,6 +2475,51 @@
    "reopened": 0,
    "title": "Product Partner Manager, Scaled",
    "url": "https://boards.greenhouse.io/figma/jobs/6235005004?gh_jid=6235005004"
+  },
+  "6235320004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "sales operations manager @ san francisco, ca • new york, ny",
+   "location": "San Francisco, CA • New York, NY",
+   "posted_at": "2026-10-28T23:11:24+00:00",
+   "posted_history": [
+    "2026-10-28T23:11:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales Operations Manager",
+   "url": "https://boards.greenhouse.io/figma/jobs/6235320004?gh_jid=6235320004"
+  },
+  "6237757004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "manager software engineering ux platform @ san francisco, ca • new york, ny • united states",
+   "location": "San Francisco, CA • New York, NY • United States",
+   "posted_at": "2026-10-28T22:56:10+00:00",
+   "posted_history": [
+    "2026-10-28T22:56:10+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Software Engineering - UX Platform",
+   "url": "https://boards.greenhouse.io/figma/jobs/6237757004?gh_jid=6237757004"
+  },
+  "6238015004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "phd intern security engineer @ san francisco, ca • new york, ny",
+   "location": "San Francisco, CA • New York, NY",
+   "posted_at": "2026-10-29T00:08:03+00:00",
+   "posted_history": [
+    "2026-10-29T00:08:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "PhD Intern, Security Engineer (2027)",
+   "url": "https://boards.greenhouse.io/figma/jobs/6238015004?gh_jid=6238015004"
   }
  }
 }

@@ -39,6 +39,10 @@
   {
    "date": "2026-10-28",
    "open": 4
+  },
+  {
+   "date": "2026-10-29",
+   "open": 5
   }
  ],
  "jobs": {
@@ -101,6 +105,21 @@
    "reopened": 0,
    "title": "Business Development Representative",
    "url": "https://job-boards.greenhouse.io/airtable/jobs/8425211002"
+  },
+  "8905022002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "renewals associate @ remote - us",
+   "location": "Remote - US",
+   "posted_at": "2026-10-28T17:48:52+00:00",
+   "posted_history": [
+    "2026-10-28T17:48:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "Renewals Associate",
+   "url": "https://job-boards.greenhouse.io/airtable/jobs/8905022002"
   },
   "8916370002": {
    "closed_at": "2026-10-27T09:20:56+00:00",

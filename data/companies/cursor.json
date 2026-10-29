@@ -39,6 +39,10 @@
   {
    "date": "2026-10-28",
    "open": 123
+  },
+  {
+   "date": "2026-10-29",
+   "open": 123
   }
  ],
  "jobs": {
@@ -1048,7 +1052,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/6960dfef-6dc1-4dbb-887b-0fc9e6e4292e"
   },
   "6ab9bead-274e-4bf4-b2ee-1f3669e4aa9b": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1212,6 +1216,21 @@
    "reopened": 0,
    "title": "Sales Development Representative",
    "url": "https://jobs.ashbyhq.com/cursor/7b0b5994-5405-419c-bdca-c7b7ca05b613"
+  },
+  "7d6611cb-28bf-4277-8758-178154466934": {
+   "closed_at": null,
+   "department": "Solutions",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "regional director forward deployed engineering public sector @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2026-10-28T18:06:56+00:00",
+   "posted_history": [
+    "2026-10-28T18:06:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Regional Director, Forward Deployed Engineering - Public Sector",
+   "url": "https://jobs.ashbyhq.com/cursor/7d6611cb-28bf-4277-8758-178154466934"
   },
   "7e1d8e07-c87b-4388-892a-6b138bebf665": {
    "closed_at": null,
@@ -1443,14 +1462,14 @@
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "research engineer synthetic data @ palo alto, ca",
+   "fp": "sr research engineer synthetic data @ palo alto, ca",
    "location": "Palo Alto, CA",
    "posted_at": "2026-09-15T21:25:43+00:00",
    "posted_history": [
     "2026-09-15T21:25:43+00:00"
    ],
    "reopened": 0,
-   "title": "Research Engineer, Synthetic Data",
+   "title": "Sr. Research Engineer, Synthetic Data",
    "url": "https://jobs.ashbyhq.com/cursor/9a175381-45e2-42b6-bd64-6c84532365f9"
   },
   "9b897011-11bc-4d8f-beb4-d2155d36e941": {
@@ -1670,9 +1689,10 @@
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "solutions architect western europe @ london",
    "location": "London",
-   "posted_at": "2026-05-28T14:55:40+00:00",
+   "posted_at": "2026-10-28T14:24:50+00:00",
    "posted_history": [
-    "2026-05-28T14:55:40+00:00"
+    "2026-05-28T14:55:40+00:00",
+    "2026-10-28T14:24:50+00:00"
    ],
    "reopened": 0,
    "title": "Solutions Architect - Western Europe",
@@ -1799,7 +1819,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/c5bbeeb2-1af0-4bde-9e32-55d46c313767"
   },
   "c66cde5e-9cb6-4a2e-a330-9323e1edf2a9": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2039,17 +2059,18 @@
    "url": "https://jobs.ashbyhq.com/cursor/e22c4770-1776-4adb-b347-46b9c2ed9452"
   },
   "e3ccb495-a8a3-4ff0-a27b-262188abb9df": {
-   "closed_at": "2026-10-28T10:01:46+00:00",
+   "closed_at": null,
    "department": "Customer Success",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "ai deployment manager singapore @ singapore",
    "location": "Singapore",
-   "posted_at": "2026-09-18T07:26:10+00:00",
+   "posted_at": "2026-10-29T08:29:27+00:00",
    "posted_history": [
-    "2026-09-18T07:26:10+00:00"
+    "2026-09-18T07:26:10+00:00",
+    "2026-10-29T08:29:27+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "AI Deployment Manager - Singapore",
    "url": "https://jobs.ashbyhq.com/cursor/e3ccb495-a8a3-4ff0-a27b-262188abb9df"
   },

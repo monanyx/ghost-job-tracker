@@ -39,6 +39,10 @@
   {
    "date": "2026-10-28",
    "open": 227
+  },
+  {
+   "date": "2026-10-29",
+   "open": 227
   }
  ],
  "jobs": {
@@ -268,7 +272,7 @@
    "url": "https://www.coinbase.com/careers/positions/7711287?gh_jid=7711287"
   },
   "7724777": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -988,7 +992,7 @@
    "url": "https://www.coinbase.com/careers/positions/8072932?gh_jid=8072932"
   },
   "8077090": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1168,7 +1172,7 @@
    "url": "https://www.coinbase.com/careers/positions/8099099?gh_jid=8099099"
   },
   "8100066": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1303,18 +1307,18 @@
    "url": "https://www.coinbase.com/careers/positions/8122777?gh_jid=8122777"
   },
   "8124224": {
-   "closed_at": "2026-10-22T08:55:54+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior engineering manager core ai automation @ remote - usa",
+   "fp": "senior engineering manager payments platform @ remote - usa",
    "location": "Remote - USA",
    "posted_at": "2026-08-12T05:44:55+00:00",
    "posted_history": [
     "2026-08-12T05:44:55+00:00"
    ],
-   "reopened": 0,
-   "title": "Senior Engineering Manager, Core AI Automation (Platform)",
+   "reopened": 1,
+   "title": "Senior Engineering Manager, Payments Platform",
    "url": "https://www.coinbase.com/careers/positions/8124224?gh_jid=8124224"
   },
   "8129321": {
@@ -2503,7 +2507,7 @@
    "url": "https://www.coinbase.com/careers/positions/8209803?gh_jid=8209803"
   },
   "8211486": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3672,6 +3676,21 @@
    "title": "Staff User Researcher",
    "url": "https://www.coinbase.com/careers/positions/8318555?gh_jid=8318555"
   },
+  "8318557": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "senior enterprise product manager fp a @ remote - usa",
+   "location": "Remote - USA",
+   "posted_at": "2026-10-28T16:42:11+00:00",
+   "posted_history": [
+    "2026-10-28T16:42:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Enterprise Product Manager, FP&A",
+   "url": "https://www.coinbase.com/careers/positions/8318557?gh_jid=8318557"
+  },
   "8318599": {
    "closed_at": null,
    "department": "",
@@ -3761,6 +3780,36 @@
    "reopened": 0,
    "title": "Senior Sales Associate - CB Infrastructure",
    "url": "https://www.coinbase.com/careers/positions/8328079?gh_jid=8328079"
+  },
+  "8329350": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "compliance associate @ remote - usa",
+   "location": "Remote - USA",
+   "posted_at": "2026-10-28T17:57:42+00:00",
+   "posted_history": [
+    "2026-10-28T17:57:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Compliance Associate",
+   "url": "https://www.coinbase.com/careers/positions/8329350?gh_jid=8329350"
+  },
+  "8333165": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "staff machine learning engineer compliance automation @ remote - usa",
+   "location": "Remote - USA",
+   "posted_at": "2026-10-29T06:02:17+00:00",
+   "posted_history": [
+    "2026-10-29T06:02:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Machine Learning Engineer, Compliance Automation (Platform)",
+   "url": "https://www.coinbase.com/careers/positions/8333165?gh_jid=8333165"
   }
  }
 }

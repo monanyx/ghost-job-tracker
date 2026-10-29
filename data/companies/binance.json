@@ -39,6 +39,10 @@
   {
    "date": "2026-10-28",
    "open": 6
+  },
+  {
+   "date": "2026-10-29",
+   "open": 5
   }
  ],
  "jobs": {
@@ -73,7 +77,7 @@
    "url": "https://jobs.lever.co/binance/1046727e-f855-44ef-a18d-37c2bfb9d6d6"
   },
   "1245204b-d029-4961-9819-bb6fc37d9b16": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "Compliance",
    "evergreen": false,
    "first_seen": "2026-10-26T09:22:13+00:00",

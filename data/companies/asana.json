@@ -39,6 +39,10 @@
   {
    "date": "2026-10-28",
    "open": 113
+  },
+  {
+   "date": "2026-10-29",
+   "open": 112
   }
  ],
  "jobs": {
@@ -673,7 +677,7 @@
    "url": "https://www.asana.com/jobs/apply/8055062?gh_jid=8055062"
   },
   "8075573": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -808,7 +812,7 @@
    "url": "https://www.asana.com/jobs/apply/8107419?gh_jid=8107419"
   },
   "8119581": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -912,8 +916,23 @@
    "title": "Software Engineer, Development Infrastructure",
    "url": "https://www.asana.com/jobs/apply/8140029?gh_jid=8140029"
   },
-  "8161860": {
+  "8154796": {
    "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "design leader emerging products @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-10-28T14:59:16+00:00",
+   "posted_history": [
+    "2026-10-28T14:59:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Design Leader, Emerging Products",
+   "url": "https://www.asana.com/jobs/apply/8154796?gh_jid=8154796"
+  },
+  "8161860": {
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1832,29 +1851,44 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
-   "fp": "implementation manager @ chicago",
+   "fp": "senior implementation manager @ chicago",
    "location": "Chicago",
    "posted_at": "2026-10-26T19:03:00+00:00",
    "posted_history": [
     "2026-10-26T19:03:00+00:00"
    ],
    "reopened": 0,
-   "title": "Implementation Manager",
+   "title": "Senior Implementation Manager",
    "url": "https://www.asana.com/jobs/apply/8304591?gh_jid=8304591"
+  },
+  "8304597": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "customer enablement manager @ sydney",
+   "location": "Sydney",
+   "posted_at": "2026-10-28T23:59:02+00:00",
+   "posted_history": [
+    "2026-10-28T23:59:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Enablement Manager",
+   "url": "https://www.asana.com/jobs/apply/8304597?gh_jid=8304597"
   },
   "8311197": {
    "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
-   "fp": "implementation manager @ us ca - remote",
+   "fp": "senior implementation manager @ us ca - remote",
    "location": "US CA - Remote",
    "posted_at": "2026-10-26T19:27:11+00:00",
    "posted_history": [
     "2026-10-26T19:27:11+00:00"
    ],
    "reopened": 0,
-   "title": "Implementation Manager",
+   "title": "Senior Implementation Manager",
    "url": "https://www.asana.com/jobs/apply/8311197?gh_jid=8311197"
   },
   "8311992": {

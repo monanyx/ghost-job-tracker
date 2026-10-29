@@ -39,6 +39,10 @@
   {
    "date": "2026-10-28",
    "open": 459
+  },
+  {
+   "date": "2026-10-29",
+   "open": 460
   }
  ],
  "jobs": {
@@ -193,7 +197,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/7093840?gh_jid=7093840"
   },
   "7167659": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-26T09:22:13+00:00",
@@ -1093,7 +1097,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/7831810?gh_jid=7831810"
   },
   "7841019": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1468,7 +1472,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8022909?gh_jid=8022909"
   },
   "8023448": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1903,7 +1907,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8066589?gh_jid=8066589"
   },
   "8066716": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1918,7 +1922,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8066716?gh_jid=8066716"
   },
   "8067630": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2072,14 +2076,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "professional services consultant @ hybrid",
+   "fp": "professional services consultant zero trust @ hybrid",
    "location": "Hybrid",
    "posted_at": "2026-07-28T13:24:27+00:00",
    "posted_history": [
     "2026-07-28T13:24:27+00:00"
    ],
    "reopened": 0,
-   "title": "Professional Services Consultant",
+   "title": "Professional Services Consultant, Zero Trust",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8079544?gh_jid=8079544"
   },
   "8079931": {
@@ -2788,7 +2792,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8131833?gh_jid=8131833"
   },
   "8132642": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2818,7 +2822,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8139424?gh_jid=8139424"
   },
   "8140310": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3086,6 +3090,21 @@
    "reopened": 0,
    "title": "Senior Director of Engineering, Billing Platform",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8152825?gh_jid=8152825"
+  },
+  "8153015": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "senior product counsel @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-08-25T19:48:38+00:00",
+   "posted_history": [
+    "2026-08-25T19:48:38+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Counsel",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8153015?gh_jid=8153015"
   },
   "8153294": {
    "closed_at": null,
@@ -4198,7 +4217,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8185558?gh_jid=8185558"
   },
   "8185561": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5276,6 +5295,21 @@
    "reopened": 0,
    "title": "Senior Commercial Account Executive, MENA",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8226000?gh_jid=8226000"
+  },
+  "8226448": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "sales manager uae oman @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-10-28T17:15:39+00:00",
+   "posted_history": [
+    "2026-10-28T17:15:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales Manager, UAE & Oman",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8226448?gh_jid=8226448"
   },
   "8226556": {
    "closed_at": null,
@@ -7302,6 +7336,51 @@
    "title": "Enterprise Architect, Financial Services - Toronto, Canada",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8319377?gh_jid=8319377"
   },
+  "8323918": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "senior territory account executive shanghai @ distributed",
+   "location": "Distributed",
+   "posted_at": "2026-10-29T08:31:16+00:00",
+   "posted_history": [
+    "2026-10-29T08:31:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Territory Account Executive - Shanghai",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8323918?gh_jid=8323918"
+  },
+  "8324315": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "commercial sales director west @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-10-28T16:38:28+00:00",
+   "posted_history": [
+    "2026-10-28T16:38:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Commercial Sales Director, West",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8324315?gh_jid=8324315"
+  },
+  "8324908": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "systems reliability engineer core @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-10-28T20:57:40+00:00",
+   "posted_history": [
+    "2026-10-28T20:57:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Systems Reliability Engineer - Core",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8324908?gh_jid=8324908"
+  },
   "8324952": {
    "closed_at": null,
    "department": "",
@@ -7377,6 +7456,21 @@
    "title": "Federal Account Executive, USPS",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8324972?gh_jid=8324972"
   },
+  "8325821": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "hardware systems engineer @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-10-28T15:15:16+00:00",
+   "posted_history": [
+    "2026-10-28T15:15:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Hardware Systems Engineer",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8325821?gh_jid=8325821"
+  },
   "8327153": {
    "closed_at": null,
    "department": "",
@@ -7391,6 +7485,51 @@
    "reopened": 0,
    "title": "Territory Account Executive, UAE - Startups",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8327153?gh_jid=8327153"
+  },
+  "8327965": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "senior customer engineer digital native vancouver bc @ distributed",
+   "location": "Distributed",
+   "posted_at": "2026-10-28T13:34:41+00:00",
+   "posted_history": [
+    "2026-10-28T13:34:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Customer Engineer, Digital Native - Vancouver BC",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8327965?gh_jid=8327965"
+  },
+  "8329671": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "territory account executive philippines @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-10-29T03:13:33+00:00",
+   "posted_history": [
+    "2026-10-29T03:13:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Territory Account Executive, Philippines",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8329671?gh_jid=8329671"
+  },
+  "8332012": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "senior customer engineer enterprise san francisco @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-10-28T21:26:06+00:00",
+   "posted_history": [
+    "2026-10-28T21:26:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Customer Engineer, Enterprise - San Francisco",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8332012?gh_jid=8332012"
   }
  }
 }

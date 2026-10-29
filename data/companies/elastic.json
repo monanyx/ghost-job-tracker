@@ -39,6 +39,10 @@
   {
    "date": "2026-10-28",
    "open": 406
+  },
+  {
+   "date": "2026-10-29",
+   "open": 404
   }
  ],
  "jobs": {
@@ -1678,7 +1682,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8093933&gh_jid=8093933"
   },
   "8102960": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2008,7 +2012,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8121962&gh_jid=8121962"
   },
   "8122170": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2023,7 +2027,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8122170&gh_jid=8122170"
   },
   "8122171": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2038,7 +2042,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8122171&gh_jid=8122171"
   },
   "8122172": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2053,7 +2057,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8122172&gh_jid=8122172"
   },
   "8122174": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2068,7 +2072,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8122174&gh_jid=8122174"
   },
   "8122175": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3478,7 +3482,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8171219&gh_jid=8171219"
   },
   "8172134": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3643,7 +3647,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8175050&gh_jid=8175050"
   },
   "8176627": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6132,6 +6136,21 @@
    "title": "Inside Account Executive (Hunter)",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8303268&gh_jid=8303268"
   },
+  "8303377": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "sales specialist security @ poland",
+   "location": "Poland",
+   "posted_at": "2026-10-28T10:21:18+00:00",
+   "posted_history": [
+    "2026-10-28T10:21:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales Specialist-Security",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8303377&gh_jid=8303377"
+  },
   "8303379": {
    "closed_at": null,
    "department": "",
@@ -6176,6 +6195,21 @@
    "reopened": 0,
    "title": "Sales Specialist - security",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8303384&gh_jid=8303384"
+  },
+  "8303741": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "principal analyst sales compensation systems administration @ costa rica",
+   "location": "Costa Rica",
+   "posted_at": "2026-10-28T18:03:40+00:00",
+   "posted_history": [
+    "2026-10-28T18:03:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Analyst Sales, Compensation Systems & Administration",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8303741&gh_jid=8303741"
   },
   "8303806": {
    "closed_at": null,
@@ -6612,6 +6646,21 @@
    "title": "Senior Java Engineer - Distributed Systems, Serverless - Elasticsearch",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8315564&gh_jid=8315564"
   },
+  "8316745": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "principal product manager security pricing and packaging security solutions @ united states",
+   "location": "United States",
+   "posted_at": "2026-10-28T23:16:38+00:00",
+   "posted_history": [
+    "2026-10-28T23:16:38+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Product Manager, Security Pricing and Packaging (Serverless) - Security Solutions",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8316745&gh_jid=8316745"
+  },
   "8317778": {
    "closed_at": null,
    "department": "",
@@ -6732,6 +6781,21 @@
    "title": "Principal Software Engineer - Global UX - Application - Platform",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8319141&gh_jid=8319141"
   },
+  "8324619": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "principal value engineer west @ united states",
+   "location": "United States",
+   "posted_at": "2026-10-28T19:43:45+00:00",
+   "posted_history": [
+    "2026-10-28T19:43:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Value Engineer - West",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8324619&gh_jid=8324619"
+  },
   "8325182": {
    "closed_at": null,
    "department": "",
@@ -6746,6 +6810,36 @@
    "reopened": 0,
    "title": "Channel Account Representative - Enterprise East",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8325182&gh_jid=8325182"
+  },
+  "8327970": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "marketing strategy planning specialist @ canada",
+   "location": "Canada",
+   "posted_at": "2026-10-28T18:08:56+00:00",
+   "posted_history": [
+    "2026-10-28T18:08:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Marketing Strategy & Planning Specialist",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8327970&gh_jid=8327970"
+  },
+  "8332655": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "principal product manager security pricing and packaging security solutions @ canada",
+   "location": "Canada",
+   "posted_at": "2026-10-28T23:20:09+00:00",
+   "posted_history": [
+    "2026-10-28T23:20:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Product Manager, Security Pricing and Packaging (Serverless) - Security Solutions",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8332655&gh_jid=8332655"
   }
  }
 }

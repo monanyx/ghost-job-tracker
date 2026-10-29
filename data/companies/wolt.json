@@ -39,6 +39,10 @@
   {
    "date": "2026-10-28",
    "open": 193
+  },
+  {
+   "date": "2026-10-29",
+   "open": 195
   }
  ],
  "jobs": {
@@ -1329,7 +1333,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8001008"
   },
   "8012602": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1843,14 +1847,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "tax manager @ helsinki, finland",
+   "fp": "tax manager direct tax @ helsinki, finland",
    "location": "Helsinki, Finland",
    "posted_at": "2026-08-13T15:21:55+00:00",
    "posted_history": [
     "2026-08-13T15:21:55+00:00"
    ],
    "reopened": 0,
-   "title": "Tax Manager",
+   "title": "Tax Manager, Direct Tax",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8127910"
   },
   "8127969": {
@@ -2589,7 +2593,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8220475"
   },
   "8221269": {
-   "closed_at": "2026-10-22T08:55:54+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2599,7 +2603,7 @@
    "posted_history": [
     "2026-09-25T10:45:03+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Content, Training & Quality Manager – Vendor & Merchant Operations",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8221269"
   },
@@ -3594,7 +3598,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8324981"
   },
   "8325490": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
@@ -3637,6 +3641,51 @@
    "reopened": 0,
    "title": "Senior Recruitment Manager",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8328694"
+  },
+  "8330826": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "head of enterprise retail sales scandinavia @ copenhagen, denmark",
+   "location": "Copenhagen, Denmark",
+   "posted_at": "2026-10-28T14:08:41+00:00",
+   "posted_history": [
+    "2026-10-28T14:08:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Head of Enterprise Retail Sales, Scandinavia",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8330826"
+  },
+  "8331491": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "engineering manager cx app foundations @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2026-10-28T17:24:00+00:00",
+   "posted_history": [
+    "2026-10-28T17:24:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager - Cx App Foundations",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8331491"
+  },
+  "8331625": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "team lead people services @ budapest, hungary",
+   "location": "Budapest, Hungary",
+   "posted_at": "2026-10-28T19:33:15+00:00",
+   "posted_history": [
+    "2026-10-28T19:33:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Team lead, People Services",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8331625"
   }
  }
 }

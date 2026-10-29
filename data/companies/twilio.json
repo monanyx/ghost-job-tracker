@@ -39,6 +39,10 @@
   {
    "date": "2026-10-28",
    "open": 132
+  },
+  {
+   "date": "2026-10-29",
+   "open": 131
   }
  ],
  "jobs": {
@@ -253,7 +257,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/7926891"
   },
   "7944264": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -268,7 +272,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/7944264"
   },
   "7944328": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -433,7 +437,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8015771"
   },
   "8023560": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -478,7 +482,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8026211"
   },
   "8028956": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -733,7 +737,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8097524"
   },
   "8099162": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -767,14 +771,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "software engineer @ remote - ireland",
+   "fp": "devops engineer @ remote - ireland",
    "location": "Remote - Ireland",
    "posted_at": "2026-08-05T15:42:36+00:00",
    "posted_history": [
     "2026-08-05T15:42:36+00:00"
    ],
    "reopened": 0,
-   "title": "Software Engineer (Observability)",
+   "title": "DevOps Engineer (Observability)",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8108771"
   },
   "8108776": {
@@ -1513,7 +1517,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8237699"
   },
   "8240288": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1526,6 +1530,21 @@
    "reopened": 0,
    "title": "Staff Software Engineer (L4)",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8240288"
+  },
+  "8240487": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "machine learning engineer 2 @ remote - us",
+   "location": "Remote - US",
+   "posted_at": "2026-10-28T20:28:37+00:00",
+   "posted_history": [
+    "2026-10-28T20:28:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Machine Learning Engineer 2",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8240487"
   },
   "8240694": {
    "closed_at": null,
@@ -1633,7 +1652,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8245812"
   },
   "8247182": {
-   "closed_at": "2026-10-21T08:53:29+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1643,7 +1662,7 @@
    "posted_history": [
     "2026-10-13T19:12:15+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Software Engineer (L2) Messaging Channels Team",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8247182"
   },
@@ -1753,7 +1772,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8256373"
   },
   "8256423": {
-   "closed_at": "2026-10-23T08:50:35+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1763,7 +1782,7 @@
    "posted_history": [
     "2026-10-06T15:25:19+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "People Generalist",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8256423"
   },
@@ -2053,7 +2072,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8262189"
   },
   "8262955": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2098,7 +2117,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8265268"
   },
   "8266068": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2367,6 +2386,51 @@
    "title": "Staff, Product Manager - Identity",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8319160"
   },
+  "8324443": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "payroll analyst ii @ remote - mexico",
+   "location": "Remote - Mexico",
+   "posted_at": "2026-10-28T13:17:46+00:00",
+   "posted_history": [
+    "2026-10-28T13:17:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "Payroll Analyst II (Colombia and LATAM Payroll)",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8324443"
+  },
+  "8324446": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "supervisor billing operations @ mexico city, mexico",
+   "location": "Mexico City, Mexico",
+   "posted_at": "2026-10-28T19:23:46+00:00",
+   "posted_history": [
+    "2026-10-28T19:23:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "Supervisor, Billing Operations",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8324446"
+  },
+  "8324448": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "payroll analyst ii @ remote - mexico",
+   "location": "Remote - Mexico",
+   "posted_at": "2026-10-28T13:23:48+00:00",
+   "posted_history": [
+    "2026-10-28T13:23:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "Payroll Analyst II (US and Mexico Payroll)",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8324448"
+  },
   "8325734": {
    "closed_at": null,
    "department": "",
@@ -2381,6 +2445,21 @@
    "reopened": 0,
    "title": "Sr. Director, Marketing Strategy, Analytics & Innovation",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8325734"
+  },
+  "8327527": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "new business account executive @ remote - united kingdom",
+   "location": "Remote - United Kingdom",
+   "posted_at": "2026-10-28T13:16:36+00:00",
+   "posted_history": [
+    "2026-10-28T13:16:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "New Business Account Executive",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8327527"
   },
   "8330326": {
    "closed_at": null,

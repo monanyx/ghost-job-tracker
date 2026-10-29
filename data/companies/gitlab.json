@@ -39,6 +39,10 @@
   {
    "date": "2026-10-28",
    "open": 238
+  },
+  {
+   "date": "2026-10-29",
+   "open": 231
   }
  ],
  "jobs": {
@@ -62,8 +66,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "engineering manager sscs supply chain @ bangalore, india; remote, australia; remote, canada; remote, israel; remote, united states",
-   "location": "Bangalore, India; Remote, Australia; Remote, Canada; Remote, Israel; Remote, United States",
+   "fp": "engineering manager sscs supply chain @ bangalore, india; remote, canada; remote, israel; remote, poland; remote, united kingdom; remote, united states",
+   "location": "Bangalore, India; Remote, Canada; Remote, Israel; Remote, Poland; Remote, United Kingdom; Remote, United States",
    "posted_at": "2026-03-27T20:29:49+00:00",
    "posted_history": [
     "2026-03-27T20:29:49+00:00"
@@ -302,14 +306,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "director strategic partnerships @ remote, us",
+   "fp": "strategic partnerships director @ remote, us",
    "location": "Remote, US",
    "posted_at": "2026-07-02T17:43:11+00:00",
    "posted_history": [
     "2026-07-02T17:43:11+00:00"
    ],
    "reopened": 0,
-   "title": "Director, Strategic Partnerships",
+   "title": "Strategic Partnerships Director",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8615811002"
   },
   "8617777002": {
@@ -328,7 +332,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8617777002"
   },
   "8620720002": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -598,7 +602,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8638246002"
   },
   "8638295002": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1453,7 +1457,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8755524002"
   },
   "8756163002": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1483,7 +1487,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8760233002"
   },
   "8763503002": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1539,7 +1543,7 @@
     "2026-10-23T22:47:07+00:00"
    ],
    "reopened": 0,
-   "title": "Backend Engineer, Knowledge Graph (Rust)",
+   "title": "Backend Engineer, Knowledge Graph",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8771512002"
   },
   "8773006002": {
@@ -1798,7 +1802,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8790102002"
   },
   "8790317002": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2098,7 +2102,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8828009002"
   },
   "8831322002": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -2443,7 +2447,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8857335002"
   },
   "8857611002": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2533,7 +2537,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8859657002"
   },
   "8859694002": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3328,7 +3332,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8880999002"
   },
   "8882059002": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3987,6 +3991,21 @@
    "title": "Software Engineer, Delivery : Release",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8916232002"
   },
+  "8916753002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "manager professional services engineers emea @ remote ireland; remote, france; remote, germany; remote, spain; remote, united kingdom",
+   "location": "Remote Ireland; Remote, France; Remote, Germany; Remote, Spain; Remote, United Kingdom",
+   "posted_at": "2026-10-28T14:53:30+00:00",
+   "posted_history": [
+    "2026-10-28T14:53:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Professional Services Engineers, EMEA",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8916753002"
+  },
   "8918853002": {
    "closed_at": null,
    "department": "",
@@ -4001,6 +4020,21 @@
    "reopened": 0,
    "title": "Senior Assigned Support Engineer-(Designated / Premier Support)",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8918853002"
+  },
+  "8921380002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "engineering manager architecture engineering async @ remote, poland; remote, united kingdom",
+   "location": "Remote, Poland; Remote, United Kingdom",
+   "posted_at": "2026-10-28T16:07:42+00:00",
+   "posted_history": [
+    "2026-10-28T16:07:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager, Architecture Engineering: Async",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8921380002"
   }
  }
 }

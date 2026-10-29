@@ -39,6 +39,10 @@
   {
    "date": "2026-10-28",
    "open": 306
+  },
+  {
+   "date": "2026-10-29",
+   "open": 304
   }
  ],
  "jobs": {
@@ -208,7 +212,7 @@
    "url": "https://jobs.lever.co/palantir/12d13a31-5764-4678-8835-809f0deae49b"
   },
   "12e94938-55cb-4ad9-9c05-405ebc9ef430": {
-   "closed_at": "2026-10-23T08:50:35+00:00",
+   "closed_at": null,
    "department": "Delta",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -218,7 +222,7 @@
    "posted_history": [
     "2025-03-07T15:16:48+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Forward Deployed Software Engineer - Japan Government",
    "url": "https://jobs.lever.co/palantir/12e94938-55cb-4ad9-9c05-405ebc9ef430"
   },
@@ -1467,8 +1471,23 @@
    "title": "Talent Strategist",
    "url": "https://jobs.lever.co/palantir/484658a9-d6da-4d5f-9ab3-7c9f6ae3cd71"
   },
-  "4a245bf7-0467-4436-ac22-7bad194c1a12": {
+  "491a0133-b580-45c3-9fd4-2314faf82fb9": {
    "closed_at": null,
+   "department": "Delta",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "forward deployed software engineer germany forward deployed @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2026-10-28T13:56:03+00:00",
+   "posted_history": [
+    "2026-10-28T13:56:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Software Engineer - Germany Forward Deployed",
+   "url": "https://jobs.lever.co/palantir/491a0133-b580-45c3-9fd4-2314faf82fb9"
+  },
+  "4a245bf7-0467-4436-ac22-7bad194c1a12": {
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "People",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1918,7 +1937,7 @@
    "url": "https://jobs.lever.co/palantir/5d8286d6-992a-404b-94af-99c173d40299"
   },
   "5eed9e3f-28b6-407f-b0be-ed26bc349895": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "People",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3418,7 +3437,7 @@
    "url": "https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f"
   },
   "ac978161-6f46-4f6b-ad9e-a258e642751c": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "Administrative",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4768,7 +4787,7 @@
    "url": "https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382"
   },
   "fbdcd64f-651c-4b34-97ef-61419eb7d4e6": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "People",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

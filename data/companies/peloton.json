@@ -39,6 +39,10 @@
   {
    "date": "2026-10-28",
    "open": 57
+  },
+  {
+   "date": "2026-10-29",
+   "open": 57
   }
  ],
  "jobs": {
@@ -688,7 +692,7 @@
    "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8223436"
   },
   "8223438": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -793,7 +797,7 @@
    "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8233189"
   },
   "8233903": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -838,7 +842,7 @@
    "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8247000"
   },
   "8261289": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1037,14 +1041,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-28T10:01:46+00:00",
-   "fp": "associate producer studio @ london, england",
+   "fp": "part time associate producer studio @ london, england",
    "location": "London, England",
    "posted_at": "2026-10-27T13:29:35+00:00",
    "posted_history": [
     "2026-10-27T13:29:35+00:00"
    ],
    "reopened": 0,
-   "title": "Associate Producer, Studio (German Speaking)",
+   "title": "Part-Time Associate Producer, Studio (German Speaking)",
    "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8301435"
   },
   "8304455": {
@@ -1063,7 +1067,7 @@
    "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8304455"
   },
   "8310842": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -1076,6 +1080,66 @@
    "reopened": 0,
    "title": "Join Team Peloton: Phoenix Hiring Event!",
    "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8310842"
+  },
+  "8328338": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "peloton expert tysons corner @ tysons, virginia",
+   "location": "Tysons, Virginia",
+   "posted_at": "2026-10-28T23:47:53+00:00",
+   "posted_history": [
+    "2026-10-28T23:47:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "Peloton Expert (Full-Time) - Tysons Corner",
+   "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8328338"
+  },
+  "8328340": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "peloton expert nashville @ nashville, tennessee",
+   "location": "Nashville, Tennessee",
+   "posted_at": "2026-10-28T20:58:53+00:00",
+   "posted_history": [
+    "2026-10-28T20:58:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "Peloton Expert (Full-Time) - Nashville",
+   "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8328340"
+  },
+  "8328426": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "peloton expert san francisco valley fair @ santa clara, california",
+   "location": "Santa Clara, California",
+   "posted_at": "2026-10-28T23:28:25+00:00",
+   "posted_history": [
+    "2026-10-28T23:28:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Peloton Expert (Full-Time) - San Francisco Valley Fair",
+   "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8328426"
+  },
+  "8328428": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "peloton expert detroit twelve oaks @ novi, michigan",
+   "location": "Novi, Michigan",
+   "posted_at": "2026-10-28T22:52:46+00:00",
+   "posted_history": [
+    "2026-10-28T22:52:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "Peloton Expert (Full-Time) - Detroit Twelve Oaks",
+   "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8328428"
   }
  }
 }

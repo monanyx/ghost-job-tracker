@@ -39,6 +39,10 @@
   {
    "date": "2026-10-28",
    "open": 169
+  },
+  {
+   "date": "2026-10-29",
+   "open": 171
   }
  ],
  "jobs": {
@@ -1108,7 +1112,7 @@
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4687384005"
   },
   "4687588005": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2792,8 +2796,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "web designer brand web experience @ san francisco, ca",
-   "location": "San Francisco, CA",
+   "fp": "web designer brand web experience @ new york, ny; san francisco, ca",
+   "location": "New York, NY; San Francisco, CA",
    "posted_at": "2026-10-16T18:32:47+00:00",
    "posted_history": [
     "2026-10-16T18:32:47+00:00"
@@ -2891,6 +2895,51 @@
    "reopened": 0,
    "title": "Global Procurement Analyst",
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4748288005"
+  },
+  "4748328005": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "product marketing lead enterprise @ san francisco, ca; new york, ny",
+   "location": "San Francisco, CA; New York, NY",
+   "posted_at": "2026-10-28T16:57:01+00:00",
+   "posted_history": [
+    "2026-10-28T16:57:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Marketing Lead, Enterprise",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4748328005"
+  },
+  "4748330005": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "director of partner marketing @ san francisco, ca; new york, ny",
+   "location": "San Francisco, CA; New York, NY",
+   "posted_at": "2026-10-28T19:34:13+00:00",
+   "posted_history": [
+    "2026-10-28T19:34:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Director of Partner Marketing",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4748330005"
+  },
+  "4748372005": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "strategist bids business development @ london, uk",
+   "location": "London, UK",
+   "posted_at": "2026-10-28T19:01:27+00:00",
+   "posted_history": [
+    "2026-10-28T19:01:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategist, Bids & Business Development",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4748372005"
   }
  }
 }

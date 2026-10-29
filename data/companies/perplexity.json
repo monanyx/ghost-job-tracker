@@ -39,6 +39,10 @@
   {
    "date": "2026-10-28",
    "open": 134
+  },
+  {
+   "date": "2026-10-29",
+   "open": 133
   }
  ],
  "jobs": {
@@ -1438,7 +1442,7 @@
    "url": "https://jobs.ashbyhq.com/perplexity/94e1b3a4-c773-4ee8-982a-ac9be04fbca8"
   },
   "971c4e14-6a13-4cd3-a473-015e29541a15": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "Legal",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

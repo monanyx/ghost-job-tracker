@@ -39,6 +39,10 @@
   {
    "date": "2026-10-28",
    "open": 66
+  },
+  {
+   "date": "2026-10-29",
+   "open": 66
   }
  ],
  "jobs": {
@@ -448,7 +452,7 @@
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8013699"
   },
   "8023162": {
-   "closed_at": "2026-10-27T09:20:56+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -458,7 +462,7 @@
    "posted_history": [
     "2026-06-23T14:40:39+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Credit Model Validation Manager (Machine Learning & NPV Models)",
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8023162"
   },
@@ -688,7 +692,7 @@
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8132044"
   },
   "8143930": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1048,7 +1052,7 @@
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8260834"
   },
   "8261197": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1288,7 +1292,7 @@
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8317753"
   },
   "8318522": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
@@ -1318,7 +1322,7 @@
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8324217"
   },
   "8324266": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
@@ -1331,6 +1335,51 @@
    "reopened": 0,
    "title": "Senior Financial Crime Investigator, Business Banking",
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8324266"
+  },
+  "8330467": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "senior director of global tax @ cardiff, london or remote (uk)",
+   "location": "Cardiff, London or Remote (UK)",
+   "posted_at": "2026-10-28T15:50:30+00:00",
+   "posted_history": [
+    "2026-10-28T15:50:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Director of Global Tax",
+   "url": "https://job-boards.greenhouse.io/monzo/jobs/8330467"
+  },
+  "8331241": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "senior fraud risk manager @ cardiff, london or remote (uk)",
+   "location": "Cardiff, London or Remote (UK)",
+   "posted_at": "2026-10-29T08:56:48+00:00",
+   "posted_history": [
+    "2026-10-29T08:56:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Fraud Risk Manager",
+   "url": "https://job-boards.greenhouse.io/monzo/jobs/8331241"
+  },
+  "8331328": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "credit model validation manager @ cardiff, london or remote (uk)",
+   "location": "Cardiff, London or Remote (UK)",
+   "posted_at": "2026-10-28T17:54:03+00:00",
+   "posted_history": [
+    "2026-10-28T17:54:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Credit Model Validation Manager",
+   "url": "https://job-boards.greenhouse.io/monzo/jobs/8331328"
   }
  }
 }

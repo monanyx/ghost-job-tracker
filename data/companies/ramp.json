@@ -39,6 +39,10 @@
   {
    "date": "2026-10-28",
    "open": 172
+  },
+  {
+   "date": "2026-10-29",
+   "open": 168
   }
  ],
  "jobs": {
@@ -178,7 +182,7 @@
    "url": "https://jobs.ashbyhq.com/ramp/0d52b853-4088-45dd-8c4b-0702da1bf5ed"
   },
   "0d731586-3626-48fb-9dc5-3061ae5fd240": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "Customer Experience",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -343,7 +347,7 @@
    "url": "https://jobs.ashbyhq.com/ramp/218e3fef-0fa7-4ad4-b401-9ba0c76c0ff0"
   },
   "24f29060-8af5-400e-ba4c-14d656e42339": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "People & Talent",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -628,7 +632,7 @@
    "url": "https://jobs.ashbyhq.com/ramp/40295bb5-3b56-4544-b7fb-5c1b20383525"
   },
   "40f43993-21e8-4db1-a9f4-7a3e6098a9ba": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "Customer Experience",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1557,6 +1561,21 @@
    "title": "AI Solutions Engineer",
    "url": "https://jobs.ashbyhq.com/ramp/8efd3a0a-fc66-46e2-9415-bffba10e2919"
   },
+  "8f1aa562-5599-491b-b94c-128511ac40b2": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "manager account manager commercial @ new york, ny (hq)",
+   "location": "New York, NY (HQ)",
+   "posted_at": "2026-10-28T21:16:53+00:00",
+   "posted_history": [
+    "2026-10-28T21:16:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Account Manager, Commercial",
+   "url": "https://jobs.ashbyhq.com/ramp/8f1aa562-5599-491b-b94c-128511ac40b2"
+  },
   "8f3c27f0-50fb-47ba-a3dd-597428380843": {
    "closed_at": null,
    "department": "Sales",
@@ -1721,6 +1740,21 @@
    "reopened": 0,
    "title": "Customer Activation Manager | Commercial",
    "url": "https://jobs.ashbyhq.com/ramp/a4ecdd59-e379-4841-9bd3-c3f1f86da008"
+  },
+  "a5c7c68a-33f9-4f78-929e-29b58f26d22a": {
+   "closed_at": null,
+   "department": "People & Talent",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "people business partner g a @ new york, ny (hq)",
+   "location": "New York, NY (HQ)",
+   "posted_at": "2026-10-28T22:02:17+00:00",
+   "posted_history": [
+    "2026-10-28T22:02:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "People Business Partner, G&A",
+   "url": "https://jobs.ashbyhq.com/ramp/a5c7c68a-33f9-4f78-929e-29b58f26d22a"
   },
   "a808d519-404a-4aee-9189-2b1ad62d0330": {
    "closed_at": null,
@@ -2058,14 +2092,14 @@
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "design systems lead @ new york, ny (hq)",
+   "fp": "principal product designer design systems lead @ new york, ny (hq)",
    "location": "New York, NY (HQ)",
    "posted_at": "2026-09-30T16:00:23+00:00",
    "posted_history": [
     "2026-09-30T16:00:23+00:00"
    ],
    "reopened": 0,
-   "title": "Design Systems Lead",
+   "title": "Principal Product Designer, Design Systems Lead",
    "url": "https://jobs.ashbyhq.com/ramp/baa94095-c976-46d0-8d18-25a951950714"
   },
   "baf0a4d2-e07e-4f76-af85-d85c91f479a4": {
@@ -2339,7 +2373,7 @@
    "url": "https://jobs.ashbyhq.com/ramp/d2beca4a-7409-404b-8382-761e5db6e917"
   },
   "d64609dd-c391-45a2-bfdb-c1bb34e8f93c": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "Customer Experience",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2684,7 +2718,7 @@
    "url": "https://jobs.ashbyhq.com/ramp/f7c4de3c-1d64-42e9-8111-f38e265327d8"
   },
   "f859c941-4579-402a-aad5-a7bacbf33175": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "People & Talent",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2729,7 +2763,7 @@
    "url": "https://jobs.ashbyhq.com/ramp/fc753f8d-7f2f-4b12-9db2-a5694ce4e74c"
   },
   "fc971889-db1d-4a20-a25e-f282f9296936": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "Customer Experience",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

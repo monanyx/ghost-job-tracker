@@ -39,6 +39,10 @@
   {
    "date": "2026-10-28",
    "open": 139
+  },
+  {
+   "date": "2026-10-29",
+   "open": 143
   }
  ],
  "jobs": {
@@ -257,14 +261,14 @@
    "department": "Early Career",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "software engineer early career @ san francisco, california",
+   "fp": "software engineer growth @ san francisco, california",
    "location": "San Francisco, California",
    "posted_at": "2026-07-06T18:37:35+00:00",
    "posted_history": [
     "2026-07-06T18:37:35+00:00"
    ],
    "reopened": 0,
-   "title": "Software Engineer, Early Career",
+   "title": "Software Engineer, Growth (Early Career)",
    "url": "https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f"
   },
   "2b587e66-deac-421a-a824-9415ba78b5a7": {
@@ -319,9 +323,10 @@
    "first_seen": "2026-10-28T10:01:46+00:00",
    "fp": "product support specialist @ hyderabad, india",
    "location": "Hyderabad, India",
-   "posted_at": "2026-10-27T17:34:16+00:00",
+   "posted_at": "2026-10-29T07:04:04+00:00",
    "posted_history": [
-    "2026-10-27T17:34:16+00:00"
+    "2026-10-27T17:34:16+00:00",
+    "2026-10-29T07:04:04+00:00"
    ],
    "reopened": 0,
    "title": "Product Support Specialist",
@@ -401,6 +406,21 @@
    "reopened": 0,
    "title": "Engineering Manager, Mobile AI",
    "url": "https://jobs.ashbyhq.com/notion/3979a6f5-2abb-447b-bd3a-0565b06bae24"
+  },
+  "3b519524-cc8d-495d-a708-c57e78aca792": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "solutions consultant mid market uki @ dublin, ireland",
+   "location": "Dublin, Ireland",
+   "posted_at": "2026-10-28T12:57:29+00:00",
+   "posted_history": [
+    "2026-10-28T12:57:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Solutions Consultant, Mid-Market, UKI",
+   "url": "https://jobs.ashbyhq.com/notion/3b519524-cc8d-495d-a708-c57e78aca792"
   },
   "3ba04d35-9f56-4968-bce6-df26a3dc8523": {
    "closed_at": null,
@@ -867,6 +887,21 @@
    "title": "Strategic Finance, Corporate",
    "url": "https://jobs.ashbyhq.com/notion/72e0f2c1-d599-4301-8096-491835757b9e"
   },
+  "73a71747-28d3-4dda-a718-77336056e687": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "data engineer product @ san francisco, california",
+   "location": "San Francisco, California",
+   "posted_at": "2026-10-28T18:42:47+00:00",
+   "posted_history": [
+    "2026-10-28T18:42:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Data Engineer, Product",
+   "url": "https://jobs.ashbyhq.com/notion/73a71747-28d3-4dda-a718-77336056e687"
+  },
   "759a9c5a-cdd6-4d05-8eaf-e78eabc34293": {
    "closed_at": null,
    "department": "Sales",
@@ -1153,7 +1188,7 @@
    "url": "https://jobs.ashbyhq.com/notion/8cb74a17-1685-4f92-8314-6ef6264b5085"
   },
   "8ee34d10-ba59-44bb-b12c-0130e908810d": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "People",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1572,6 +1607,21 @@
    "title": "GTM Compensation Lead, Commercial Operations",
    "url": "https://jobs.ashbyhq.com/notion/be994bb4-c680-4f57-b3bd-7e689175317f"
   },
+  "beaef5b2-ad9a-4504-a4bb-93eea06c3d1a": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "solutions consultant commercial uki @ dublin, ireland",
+   "location": "Dublin, Ireland",
+   "posted_at": "2026-10-28T12:39:50+00:00",
+   "posted_history": [
+    "2026-10-28T12:39:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Solutions Consultant, Commercial, UKI",
+   "url": "https://jobs.ashbyhq.com/notion/beaef5b2-ad9a-4504-a4bb-93eea06c3d1a"
+  },
   "bf2e9a54-4f46-423f-ad08-5317c1d1c9b4": {
    "closed_at": null,
    "department": "Sales",
@@ -1737,6 +1787,21 @@
    "title": "Mid-Market Solutions Consultant",
    "url": "https://jobs.ashbyhq.com/notion/d1d118da-f081-4d0a-91a1-de8450ae0438"
   },
+  "d27acf46-d250-4c23-a95d-1480eab74b0a": {
+   "closed_at": null,
+   "department": "People",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "business recruiter foundation @ san francisco, california",
+   "location": "San Francisco, California",
+   "posted_at": "2026-10-28T19:16:51+00:00",
+   "posted_history": [
+    "2026-10-28T19:16:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Business Recruiter, Foundation (G&A)",
+   "url": "https://jobs.ashbyhq.com/notion/d27acf46-d250-4c23-a95d-1480eab74b0a"
+  },
   "d3eab521-8adb-4576-b740-905b3894a031": {
    "closed_at": null,
    "department": "Sales",
@@ -1751,6 +1816,21 @@
    "reopened": 0,
    "title": "Commercial Solutions Consultant",
    "url": "https://jobs.ashbyhq.com/notion/d3eab521-8adb-4576-b740-905b3894a031"
+  },
+  "d4d5f474-38a9-499a-9370-6389b99a5156": {
+   "closed_at": null,
+   "department": "Outcomes Architect",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "outcomes architect @ sydney, australia",
+   "location": "Sydney, Australia",
+   "posted_at": "2026-10-29T07:13:56+00:00",
+   "posted_history": [
+    "2026-10-29T07:13:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Outcomes Architect [Contract]",
+   "url": "https://jobs.ashbyhq.com/notion/d4d5f474-38a9-499a-9370-6389b99a5156"
   },
   "d82a0b31-59b8-4699-ae8d-6fb3fe47518c": {
    "closed_at": null,

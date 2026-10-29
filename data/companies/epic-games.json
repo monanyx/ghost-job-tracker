@@ -39,6 +39,10 @@
   {
    "date": "2026-10-28",
    "open": 144
+  },
+  {
+   "date": "2026-10-29",
+   "open": 141
   }
  ],
  "jobs": {
@@ -1198,7 +1202,7 @@
    "url": "https://epicgames.com/careers/jobs/6149331004?gh_jid=6149331004"
   },
   "6152263004": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1813,7 +1817,7 @@
    "url": "https://epicgames.com/careers/jobs/6208074004?gh_jid=6208074004"
   },
   "6208097004": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -1828,7 +1832,7 @@
    "url": "https://epicgames.com/careers/jobs/6208097004?gh_jid=6208097004"
   },
   "6208099004": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -1843,7 +1847,7 @@
    "url": "https://epicgames.com/careers/jobs/6208099004?gh_jid=6208099004"
   },
   "6208101004": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -2263,7 +2267,7 @@
    "url": "https://epicgames.com/careers/jobs/6229262004?gh_jid=6229262004"
   },
   "6230312004": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -2366,6 +2370,36 @@
    "reopened": 0,
    "title": "Executive Assistant",
    "url": "https://epicgames.com/careers/jobs/6233504004?gh_jid=6233504004"
+  },
+  "6235184004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "director production @ london,england,united kingdom",
+   "location": "London,England,United Kingdom",
+   "posted_at": "2026-10-28T19:52:13+00:00",
+   "posted_history": [
+    "2026-10-28T19:52:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Director, Production (Licensed IP and Partner Titles - Fortnite Ecosystem)",
+   "url": "https://epicgames.com/careers/jobs/6235184004?gh_jid=6235184004"
+  },
+  "6235186004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "director production @ blank,blank,multiple locations",
+   "location": "BLANK,BLANK,Multiple Locations",
+   "posted_at": "2026-10-28T19:52:15+00:00",
+   "posted_history": [
+    "2026-10-28T19:52:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Director, Production (Licensed IP and Partner Titles - Fortnite Ecosystem)",
+   "url": "https://epicgames.com/careers/jobs/6235186004?gh_jid=6235186004"
   }
  }
 }

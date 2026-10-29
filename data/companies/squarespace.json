@@ -39,6 +39,10 @@
   {
    "date": "2026-10-28",
    "open": 27
+  },
+  {
+   "date": "2026-10-29",
+   "open": 27
   }
  ],
  "jobs": {
@@ -56,6 +60,21 @@
    "reopened": 0,
    "title": "Senior Software Engineer - Java (Media Platform)",
    "url": "http://www.squarespace.com/about/careers?gh_jid=6305471"
+  },
+  "7114097": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "software engineer java @ new york city",
+   "location": "New York City",
+   "posted_at": "2025-07-28T19:48:58+00:00",
+   "posted_history": [
+    "2025-07-28T19:48:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer - Java",
+   "url": "http://www.squarespace.com/about/careers?gh_jid=7114097"
   },
   "7557494": {
    "closed_at": null,
@@ -238,7 +257,7 @@
    "url": "http://www.squarespace.com/about/careers?gh_jid=8159497"
   },
   "8159503": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

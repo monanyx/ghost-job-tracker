@@ -39,6 +39,10 @@
   {
    "date": "2026-10-28",
    "open": 11
+  },
+  {
+   "date": "2026-10-29",
+   "open": 11
   }
  ],
  "jobs": {
@@ -103,7 +107,7 @@
    "url": "https://jobs.ashbyhq.com/posthog/2a78f2f8-4fd3-413b-9c7d-55db568e68c1"
   },
   "36d5ce14-851c-450f-879a-45cbb896225e": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -206,6 +210,21 @@
    "reopened": 0,
    "title": "AI Research Engineer",
    "url": "https://jobs.ashbyhq.com/posthog/8dc3f33a-b930-4c54-b4c4-3e6bd2ff28d3"
+  },
+  "db808740-242e-4a40-ad43-d41f26c049d7": {
+   "closed_at": null,
+   "department": "Support Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "technical support engineer @ remote",
+   "location": "Remote",
+   "posted_at": "2026-10-28T14:43:56+00:00",
+   "posted_history": [
+    "2026-10-28T14:43:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Support Engineer",
+   "url": "https://jobs.ashbyhq.com/posthog/db808740-242e-4a40-ad43-d41f26c049d7"
   }
  }
 }

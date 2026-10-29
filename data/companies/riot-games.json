@@ -39,6 +39,10 @@
   {
    "date": "2026-10-28",
    "open": 184
+  },
+  {
+   "date": "2026-10-29",
+   "open": 184
   }
  ],
  "jobs": {
@@ -2158,7 +2162,7 @@
    "url": "https://www.riotgames.com/en/work-with-us/job/8233687?gh_jid=8233687"
   },
   "8233725": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2366,6 +2370,21 @@
    "reopened": 0,
    "title": "Director, Technical Product Management: Commerce",
    "url": "https://www.riotgames.com/en/work-with-us/job/8265306?gh_jid=8265306"
+  },
+  "8268871": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "sr principal technical producer developer connections @ los angeles, usa",
+   "location": "Los Angeles, USA",
+   "posted_at": "2026-10-28T21:43:34+00:00",
+   "posted_history": [
+    "2026-10-28T21:43:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Principal Technical Producer - Developer Connections",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8268871?gh_jid=8268871"
   },
   "8274571": {
    "closed_at": null,
@@ -2698,7 +2717,7 @@
    "url": "https://www.riotgames.com/en/work-with-us/job/8293695?gh_jid=8293695"
   },
   "8293709": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-20T08:53:12+00:00",
@@ -2966,6 +2985,21 @@
    "reopened": 0,
    "title": "Social Media Strategist, League of Legends (12 Month Contract)",
    "url": "https://www.riotgames.com/en/work-with-us/job/8325239?gh_jid=8325239"
+  },
+  "8331202": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "principal program manager strategy operations @ dublin, ireland",
+   "location": "Dublin, Ireland",
+   "posted_at": "2026-10-28T15:52:28+00:00",
+   "posted_history": [
+    "2026-10-28T15:52:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Program Manager, Strategy & Operations (12 Month Contract)",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8331202?gh_jid=8331202"
   }
  }
 }

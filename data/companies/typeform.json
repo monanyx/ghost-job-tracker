@@ -39,6 +39,10 @@
   {
    "date": "2026-10-28",
    "open": 10
+  },
+  {
+   "date": "2026-10-29",
+   "open": 11
   }
  ],
  "jobs": {
@@ -236,6 +240,21 @@
    "reopened": 0,
    "title": "Staff AI Engineer - US",
    "url": "https://job-boards.greenhouse.io/typeform/jobs/8220062"
+  },
+  "8330526": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "senior it engineer @ germany (remote) ; ireland (remote); netherlands (remote) ; portugal (remote) ; united kingdom (remote)",
+   "location": "Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal (Remote) ; United Kingdom (Remote) ",
+   "posted_at": "2026-10-28T11:13:41+00:00",
+   "posted_history": [
+    "2026-10-28T11:13:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior IT Engineer",
+   "url": "https://job-boards.greenhouse.io/typeform/jobs/8330526"
   }
  }
 }

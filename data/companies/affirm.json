@@ -39,6 +39,10 @@
   {
    "date": "2026-10-28",
    "open": 240
+  },
+  {
+   "date": "2026-10-29",
+   "open": 242
   }
  ],
  "jobs": {
@@ -384,7 +388,7 @@
     "2026-06-26T00:48:37+00:00"
    ],
    "reopened": 0,
-   "title": "Director, Product Management (Shopping & Offers)",
+   "title": "Director, Product Management",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7780490003"
   },
   "7785812003": {
@@ -1888,7 +1892,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7979497003"
   },
   "7979548003": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1963,7 +1967,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7981725003"
   },
   "7984425003": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3579,7 +3583,7 @@
     "2026-10-27T12:05:10+00:00"
    ],
    "reopened": 0,
-   "title": "Staff Software Engineer, Frontend (Decisions Orechestration)",
+   "title": "Staff Software Engineer, Frontend (Decisions Orchestration)",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8034825003"
   },
   "8034827003": {
@@ -3641,6 +3645,36 @@
    "reopened": 0,
    "title": "Counsel II, Vendor",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8038196003"
+  },
+  "8038925003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "partner marketing lead @ remote us",
+   "location": "Remote US",
+   "posted_at": "2026-10-28T13:55:18+00:00",
+   "posted_history": [
+    "2026-10-28T13:55:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Partner Marketing Lead",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8038925003"
+  },
+  "8038927003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "partner marketing lead @ remote canada",
+   "location": "Remote Canada",
+   "posted_at": "2026-10-28T13:55:19+00:00",
+   "posted_history": [
+    "2026-10-28T13:55:19+00:00"
+   ],
+   "reopened": 0,
+   "title": "Partner Marketing Lead",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8038927003"
   },
   "8039471003": {
    "closed_at": null,
@@ -3746,6 +3780,21 @@
    "reopened": 0,
    "title": "Software Engineer II, Fullstack (Repayment UX)",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8040394003"
+  },
+  "8040396003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "staff software engineer backend @ remote us",
+   "location": "Remote US",
+   "posted_at": "2026-10-28T12:45:51+00:00",
+   "posted_history": [
+    "2026-10-28T12:45:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer, Backend (Observability)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8040396003"
   },
   "8040751003": {
    "closed_at": null,
@@ -3941,6 +3990,21 @@
    "reopened": 0,
    "title": "Senior Technical Account Manager (Strategic Alliances)",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8044928003"
+  },
+  "8045395003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "staff machine learning engineer @ remote poland",
+   "location": "Remote Poland",
+   "posted_at": "2026-10-28T13:34:59+00:00",
+   "posted_history": [
+    "2026-10-28T13:34:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Machine Learning Engineer (Credit International ML)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8045395003"
   }
  }
 }

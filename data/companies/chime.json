@@ -39,6 +39,10 @@
   {
    "date": "2026-10-28",
    "open": 72
+  },
+  {
+   "date": "2026-10-29",
+   "open": 72
   }
  ],
  "jobs": {
@@ -332,14 +336,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "software engineer membership @ san francisco, ca, usa",
+   "fp": "software engineer membership experience @ san francisco, ca, usa",
    "location": "San Francisco, CA, USA",
    "posted_at": "2026-07-07T23:31:03+00:00",
    "posted_history": [
     "2026-07-07T23:31:03+00:00"
    ],
    "reopened": 0,
-   "title": "Software Engineer, Membership",
+   "title": "Software Engineer, Membership Experience",
    "url": "https://boards.greenhouse.io/chime/jobs/8614188002?gh_jid=8614188002"
   },
   "8616359002": {
@@ -362,14 +366,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior software engineer ai app experience @ new york, ny, usa; san francisco, ca, usa",
+   "fp": "senior software engineer membership experience @ new york, ny, usa; san francisco, ca, usa",
    "location": "New York, NY, USA; San Francisco, CA, USA",
    "posted_at": "2026-07-14T17:46:31+00:00",
    "posted_history": [
     "2026-07-14T17:46:31+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Software Engineer, AI & App Experience",
+   "title": "Senior Software Engineer, Membership Experience",
    "url": "https://boards.greenhouse.io/chime/jobs/8625622002?gh_jid=8625622002"
   },
   "8627466002": {
@@ -1198,7 +1202,7 @@
    "url": "https://boards.greenhouse.io/chime/jobs/8900582002?gh_jid=8900582002"
   },
   "8907786002": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
@@ -1256,6 +1260,21 @@
    "reopened": 0,
    "title": "Content Marketing Manager, SEO & AI Search",
    "url": "https://boards.greenhouse.io/chime/jobs/8918533002?gh_jid=8918533002"
+  },
+  "8922747002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "sr crm operations manager @ san francisco, ca, usa",
+   "location": "San Francisco, CA, USA",
+   "posted_at": "2026-10-28T21:07:02+00:00",
+   "posted_history": [
+    "2026-10-28T21:07:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. CRM Operations Manager",
+   "url": "https://boards.greenhouse.io/chime/jobs/8922747002?gh_jid=8922747002"
   }
  }
 }

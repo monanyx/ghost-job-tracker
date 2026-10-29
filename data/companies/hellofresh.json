@@ -39,11 +39,15 @@
   {
    "date": "2026-10-28",
    "open": 379
+  },
+  {
+   "date": "2026-10-29",
+   "open": 385
   }
  ],
  "jobs": {
   "3984946": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -103,7 +107,7 @@
    "url": "https://careers.hellofresh.com/global/en/job/6180866?gh_jid=6180866"
   },
   "6184688": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -234,7 +238,7 @@
     "2025-12-09T10:26:40+00:00"
    ],
    "reopened": 0,
-   "title": "Contrôleur qualité Matières premières (H/F/N)",
+   "title": "Contrôleur qualité Matières premières (all genders)",
    "url": "https://careers.hellofresh.com/global/en/job/7454666?gh_jid=7454666"
   },
   "7486803": {
@@ -264,7 +268,7 @@
     "2026-01-08T10:37:00+00:00"
    ],
    "reopened": 0,
-   "title": "DC Senior Supply Chain Manager (H/F/X)",
+   "title": "DC Senior Supply Chain Manager (all genders)",
    "url": "https://careers.hellofresh.com/global/en/job/7522444?gh_jid=7522444"
   },
   "7704049": {
@@ -909,7 +913,7 @@
     "2026-07-07T09:08:17+00:00"
    ],
    "reopened": 0,
-   "title": "HR Business Partner (H/F/X)",
+   "title": "HR Business Partner (all genders)",
    "url": "https://careers.hellofresh.com/global/en/job/8048171?gh_jid=8048171"
   },
   "8048773": {
@@ -988,7 +992,7 @@
    "url": "https://careers.hellofresh.com/global/en/job/8064409?gh_jid=8064409"
   },
   "8066652": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -1393,7 +1397,7 @@
    "url": "https://careers.hellofresh.com/global/en/job/8096241?gh_jid=8096241"
   },
   "8097766": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2052,8 +2056,23 @@
    "title": "Teamleitung Warehouse (all genders)",
    "url": "https://careers.hellofresh.com/global/en/job/8136031?gh_jid=8136031"
   },
-  "8138653": {
+  "8136574": {
    "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "operations manager factor procurement @ chicago, illinois, united states; goodyear, az, united states; new york, ny, united states",
+   "location": "Chicago, Illinois, United States; Goodyear, AZ, United States; New York, NY, United States",
+   "posted_at": "2026-08-20T19:27:49+00:00",
+   "posted_history": [
+    "2026-08-20T19:27:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Operations Manager, Factor Procurement",
+   "url": "https://careers.hellofresh.com/global/en/job/8136574?gh_jid=8136574"
+  },
+  "8138653": {
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2934,7 +2953,7 @@
     "2026-08-28T13:33:22+00:00"
    ],
    "reopened": 0,
-   "title": "Contrôleur Qualité Agroalimentaire - (H/F/N)",
+   "title": "Contrôleur Qualité Agroalimentaire (all genders)",
    "url": "https://careers.hellofresh.com/global/en/job/8164137?gh_jid=8164137"
   },
   "8164248": {
@@ -4003,7 +4022,7 @@
    "url": "https://careers.hellofresh.com/global/en/job/8210682?gh_jid=8210682"
   },
   "8210829": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4288,18 +4307,18 @@
    "url": "https://careers.hellofresh.com/global/en/job/8222658?gh_jid=8222658"
   },
   "8222713": {
-   "closed_at": "2026-10-21T08:53:29+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "delivery coordinator @ derby, england, united kingdom",
+   "fp": "logistics coordinator @ derby, england, united kingdom",
    "location": "Derby, England, United Kingdom",
    "posted_at": "2026-09-22T08:47:09+00:00",
    "posted_history": [
     "2026-09-22T08:47:09+00:00"
    ],
-   "reopened": 0,
-   "title": "Delivery Coordinator (all genders)",
+   "reopened": 1,
+   "title": "Logistics Coordinator",
    "url": "https://careers.hellofresh.com/global/en/job/8222713?gh_jid=8222713"
   },
   "8223323": {
@@ -4483,7 +4502,7 @@
    "url": "https://careers.hellofresh.com/global/en/job/8225659?gh_jid=8225659"
   },
   "8226101": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4556,6 +4575,21 @@
    "reopened": 0,
    "title": "Senior Accountant",
    "url": "https://careers.hellofresh.com/global/en/job/8231425?gh_jid=8231425"
+  },
+  "8232586": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "delivery capacity demand manager @ berlin, berlin, germany",
+   "location": "Berlin, Berlin, Germany",
+   "posted_at": "2026-09-25T07:55:50+00:00",
+   "posted_history": [
+    "2026-09-25T07:55:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Delivery Capacity & Demand Manager (f/m/x)",
+   "url": "https://careers.hellofresh.com/global/en/job/8232586?gh_jid=8232586"
   },
   "8232707": {
    "closed_at": null,
@@ -5312,14 +5346,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "teamlead growth optimisation @ berlin, berlin, germany",
+   "fp": "team lead growth optimisation @ berlin, berlin, germany",
    "location": "Berlin, Berlin, Germany",
    "posted_at": "2026-10-13T09:43:43+00:00",
    "posted_history": [
     "2026-10-13T09:43:43+00:00"
    ],
    "reopened": 0,
-   "title": "Teamlead Growth Optimisation",
+   "title": "Team Lead Growth Optimisation",
    "url": "https://careers.hellofresh.com/global/en/job/8256072?gh_jid=8256072"
   },
   "8256112": {
@@ -5683,7 +5717,7 @@
    "url": "https://careers.hellofresh.com/global/en/job/8265719?gh_jid=8265719"
   },
   "8265936": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5892,6 +5926,36 @@
    "title": "Team Lead, Paid Search (All Genders)",
    "url": "https://careers.hellofresh.com/global/en/job/8278570?gh_jid=8278570"
   },
+  "8278748": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "senior product analyst consumer analytics @ toronto, ontario, canada",
+   "location": "Toronto, Ontario, Canada",
+   "posted_at": "2026-10-28T14:17:03+00:00",
+   "posted_history": [
+    "2026-10-28T14:17:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Analyst, Consumer Analytics (f/m/x)",
+   "url": "https://careers.hellofresh.com/global/en/job/8278748?gh_jid=8278748"
+  },
+  "8278752": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "senior product analyst consumer analytics @ warszawa, masovian voivodeship, poland",
+   "location": "Warszawa, Masovian Voivodeship, Poland",
+   "posted_at": "2026-10-28T14:18:29+00:00",
+   "posted_history": [
+    "2026-10-28T14:18:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Analyst, Consumer Analytics",
+   "url": "https://careers.hellofresh.com/global/en/job/8278752?gh_jid=8278752"
+  },
   "8278759": {
    "closed_at": null,
    "department": "",
@@ -5921,6 +5985,21 @@
    "reopened": 0,
    "title": "[US DC] Associate Quality Manager",
    "url": "https://careers.hellofresh.com/global/en/job/8278761?gh_jid=8278761"
+  },
+  "8278802": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "senior frontend engineer engagement @ warszawa, masovian voivodeship, poland",
+   "location": "Warszawa, Masovian Voivodeship, Poland",
+   "posted_at": "2026-10-28T11:34:41+00:00",
+   "posted_history": [
+    "2026-10-28T11:34:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Frontend Engineer, Engagement",
+   "url": "https://careers.hellofresh.com/global/en/job/8278802?gh_jid=8278802"
   },
   "8278820": {
    "closed_at": null,
@@ -6062,14 +6141,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
-   "fp": "senior frontend engineer @ warszawa, masovian voivodeship, poland",
+   "fp": "senior frontend engineer consumer alliance @ warszawa, masovian voivodeship, poland",
    "location": "Warszawa, Masovian Voivodeship, Poland",
    "posted_at": "2026-10-22T15:38:28+00:00",
    "posted_history": [
     "2026-10-22T15:38:28+00:00"
    ],
    "reopened": 0,
-   "title": "[TECH] Senior Frontend Engineer [CONSUMER]",
+   "title": "Senior Frontend Engineer, Consumer Alliance",
    "url": "https://careers.hellofresh.com/global/en/job/8280962?gh_jid=8280962"
   },
   "8281022": {
@@ -6077,14 +6156,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "security engineer soc @ berlin, berlin, germany",
-   "location": "Berlin, Berlin, Germany",
+   "fp": "it operations team lead @ irving, tx, united states; newark, nj, united states; phoenix, az, united states",
+   "location": "Irving, TX, United States; Newark, NJ, United States; Phoenix, AZ, United States",
    "posted_at": "2026-10-15T11:27:29+00:00",
    "posted_history": [
     "2026-10-15T11:27:29+00:00"
    ],
    "reopened": 0,
-   "title": "Security Engineer, SOC (all genders)",
+   "title": "IT Operations Team Lead (Fulfillment Centres)",
    "url": "https://careers.hellofresh.com/global/en/job/8281022?gh_jid=8281022"
   },
   "8281103": {
@@ -6342,6 +6421,21 @@
    "title": "[HELLOCONNECT] Accounting Coordinator (Fixed Term)",
    "url": "https://careers.hellofresh.com/global/en/job/8288704?gh_jid=8288704"
   },
+  "8288720": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "junior sourcing manager @ paris, paris, france",
+   "location": "Paris, Paris, France",
+   "posted_at": "2026-10-16T11:52:49+00:00",
+   "posted_history": [
+    "2026-10-16T11:52:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Junior Sourcing Manager",
+   "url": "https://careers.hellofresh.com/global/en/job/8288720?gh_jid=8288720"
+  },
   "8289277": {
    "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
@@ -6358,7 +6452,7 @@
    "url": "https://careers.hellofresh.com/global/en/job/8289277?gh_jid=8289277"
   },
   "8292721": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -6553,7 +6647,7 @@
    "url": "https://careers.hellofresh.com/global/en/job/8303169?gh_jid=8303169"
   },
   "8303709": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-26T09:22:13+00:00",
@@ -6568,7 +6662,7 @@
    "url": "https://careers.hellofresh.com/global/en/job/8303709?gh_jid=8303709"
   },
   "8303716": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-26T09:22:13+00:00",
@@ -6792,6 +6886,21 @@
    "title": "Director, Paid Search (all genders)- maternity leave cover",
    "url": "https://careers.hellofresh.com/global/en/job/8324281?gh_jid=8324281"
   },
+  "8324496": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "staff frontend engineer consumer alliance @ warszawa, masovian voivodeship, poland",
+   "location": "Warszawa, Masovian Voivodeship, Poland",
+   "posted_at": "2026-10-28T13:54:27+00:00",
+   "posted_history": [
+    "2026-10-28T13:54:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Frontend Engineer, Consumer Alliance",
+   "url": "https://careers.hellofresh.com/global/en/job/8324496?gh_jid=8324496"
+  },
   "8325128": {
    "closed_at": null,
    "department": "",
@@ -6806,6 +6915,21 @@
    "reopened": 0,
    "title": "Senior Associate, Human Resources",
    "url": "https://careers.hellofresh.com/global/en/job/8325128?gh_jid=8325128"
+  },
+  "8325146": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "senior associate social brand marketing @ toronto, ontario, canada",
+   "location": "Toronto, Ontario, Canada",
+   "posted_at": "2026-10-28T20:40:37+00:00",
+   "posted_history": [
+    "2026-10-28T20:40:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Associate, Social & Brand Marketing",
+   "url": "https://careers.hellofresh.com/global/en/job/8325146?gh_jid=8325146"
   },
   "8326821": {
    "closed_at": null,
@@ -6853,7 +6977,7 @@
    "url": "https://careers.hellofresh.com/global/en/job/8327273?gh_jid=8327273"
   },
   "8327411": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-28T10:01:46+00:00",
@@ -6881,6 +7005,36 @@
    "reopened": 0,
    "title": "Operations Trainer",
    "url": "https://careers.hellofresh.com/global/en/job/8327758?gh_jid=8327758"
+  },
+  "8328025": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "people operations specialist @ derby, england, united kingdom",
+   "location": "Derby, England, United Kingdom",
+   "posted_at": "2026-10-28T10:41:22+00:00",
+   "posted_history": [
+    "2026-10-28T10:41:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "People Operations Specialist (HR Advisor)",
+   "url": "https://careers.hellofresh.com/global/en/job/8328025?gh_jid=8328025"
+  },
+  "8328807": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "associate director production technology @ chicago, illinois, united states; irving, tx, united states; newark, nj, united states; phoenix, az, united states",
+   "location": "Chicago, Illinois, United States; Irving, TX, United States; Newark, NJ, United States; Phoenix, AZ, United States",
+   "posted_at": "2026-10-28T15:24:26+00:00",
+   "posted_history": [
+    "2026-10-28T15:24:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "[US DC] Associate Director, Production Technology",
+   "url": "https://careers.hellofresh.com/global/en/job/8328807?gh_jid=8328807"
   },
   "8330203": {
    "closed_at": null,
@@ -6911,6 +7065,111 @@
    "reopened": 0,
    "title": "Senior Forecasting Administrator",
    "url": "https://careers.hellofresh.com/global/en/job/8330223?gh_jid=8330223"
+  },
+  "8330486": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "customer care specialist @ manila, manila, philippines",
+   "location": "Manila, Manila, Philippines",
+   "posted_at": "2026-10-28T10:45:27+00:00",
+   "posted_history": [
+    "2026-10-28T10:45:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "[HELLOCONNECT]  Customer Care Specialist (Non-Voice)",
+   "url": "https://careers.hellofresh.com/global/en/job/8330486?gh_jid=8330486"
+  },
+  "8331053": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "pt lead sorter @ columbus, oh, united states",
+   "location": "Columbus, OH, United States",
+   "posted_at": "2026-10-28T15:19:28+00:00",
+   "posted_history": [
+    "2026-10-28T15:19:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "PT Lead Sorter",
+   "url": "https://careers.hellofresh.com/global/en/job/8331053?gh_jid=8331053"
+  },
+  "8331055": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "kitting area manager @ bjuv, skåne, sweden",
+   "location": "Bjuv, Skåne, Sweden",
+   "posted_at": "2026-10-29T10:23:11+00:00",
+   "posted_history": [
+    "2026-10-29T10:23:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Kitting Area Manager - all genders",
+   "url": "https://careers.hellofresh.com/global/en/job/8331055?gh_jid=8331055"
+  },
+  "8331372": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "marketing internships @ amsterdam, north holland, netherlands",
+   "location": "Amsterdam, North Holland, Netherlands",
+   "posted_at": "2026-10-29T09:10:06+00:00",
+   "posted_history": [
+    "2026-10-29T09:10:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "Marketing Internships (f/m/x)",
+   "url": "https://careers.hellofresh.com/global/en/job/8331372?gh_jid=8331372"
+  },
+  "8331948": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "fsqa technician @ edmonton, alberta, canada",
+   "location": "Edmonton, Alberta, Canada",
+   "posted_at": "2026-10-28T20:24:21+00:00",
+   "posted_history": [
+    "2026-10-28T20:24:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "FSQA Technician",
+   "url": "https://careers.hellofresh.com/global/en/job/8331948?gh_jid=8331948"
+  },
+  "8331951": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "fsqa technician @ mississauga, ontario, canada",
+   "location": "Mississauga, Ontario, Canada",
+   "posted_at": "2026-10-28T20:26:10+00:00",
+   "posted_history": [
+    "2026-10-28T20:26:10+00:00"
+   ],
+   "reopened": 0,
+   "title": "FSQA Technician",
+   "url": "https://careers.hellofresh.com/global/en/job/8331951?gh_jid=8331951"
+  },
+  "8333099": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "purchasing team leader @ manila, manila, philippines",
+   "location": "Manila, Manila, Philippines",
+   "posted_at": "2026-10-29T05:51:44+00:00",
+   "posted_history": [
+    "2026-10-29T05:51:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "[HELLOCONNECT] Purchasing Team Leader",
+   "url": "https://careers.hellofresh.com/global/en/job/8333099?gh_jid=8333099"
   }
  }
 }

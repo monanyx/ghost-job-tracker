@@ -39,6 +39,10 @@
   {
    "date": "2026-10-28",
    "open": 82
+  },
+  {
+   "date": "2026-10-29",
+   "open": 84
   }
  ],
  "jobs": {
@@ -56,6 +60,21 @@
    "reopened": 0,
    "title": "Product Experience Specialist (APAC)",
    "url": "https://jobs.ashbyhq.com/lovable/00ad65ae-2d29-41cf-898e-248ddf8ca7ae"
+  },
+  "02109438-c0ea-4dc9-9262-41914b104307": {
+   "closed_at": null,
+   "department": "EPD",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "engineering lead payments @ stockholm",
+   "location": "Stockholm",
+   "posted_at": "2026-10-28T12:35:40+00:00",
+   "posted_history": [
+    "2026-10-28T12:35:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Lead, Payments",
+   "url": "https://jobs.ashbyhq.com/lovable/02109438-c0ea-4dc9-9262-41914b104307"
   },
   "03b5e020-88ac-45b8-9105-5553cc7b4788": {
    "closed_at": null,
@@ -287,14 +306,15 @@
    "department": "GTM",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "ai scaled customer success programs @ boston",
+   "fp": "ai led scaled customer success manager @ boston",
    "location": "Boston",
-   "posted_at": "2026-10-14T21:00:23+00:00",
+   "posted_at": "2026-10-28T13:12:56+00:00",
    "posted_history": [
-    "2026-10-14T21:00:23+00:00"
+    "2026-10-14T21:00:23+00:00",
+    "2026-10-28T13:12:56+00:00"
    ],
    "reopened": 0,
-   "title": "AI Scaled Customer Success Programs",
+   "title": "AI-Led Scaled Customer Success Manager",
    "url": "https://jobs.ashbyhq.com/lovable/3944f55e-910f-4248-ba28-2c1e6143eb28"
   },
   "3b4a9b39-b1b9-4ec3-8f43-57f26c16ee66": {
@@ -733,18 +753,18 @@
    "url": "https://jobs.ashbyhq.com/lovable/7ee5ea78-9858-43c3-92b1-1d9a263414e1"
   },
   "7fe39289-1f7f-47d4-8002-d3aeeaaaabc6": {
-   "closed_at": "2026-10-22T08:55:54+00:00",
+   "closed_at": null,
    "department": "EPD",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "forward deployed engineer @ london",
+   "fp": "staff forward deployed engineer @ london",
    "location": "London",
    "posted_at": "2026-10-06T10:25:05+00:00",
    "posted_history": [
     "2026-10-06T10:25:05+00:00"
    ],
-   "reopened": 0,
-   "title": "Forward Deployed Engineer",
+   "reopened": 1,
+   "title": "Staff Forward Deployed Engineer",
    "url": "https://jobs.ashbyhq.com/lovable/7fe39289-1f7f-47d4-8002-d3aeeaaaabc6"
   },
   "827c066d-222d-4729-b0a7-968fa7edad03": {
@@ -943,6 +963,21 @@
    "title": "Data Scientist, Agent",
    "url": "https://jobs.ashbyhq.com/lovable/a1e49a18-7533-450f-b760-cef337f2f9e3"
   },
+  "a4e39bdc-b143-43ea-8077-a113445edbd2": {
+   "closed_at": null,
+   "department": "EPD",
+   "evergreen": false,
+   "first_seen": "2026-10-29T10:25:29+00:00",
+   "fp": "creative technologist @ london",
+   "location": "London",
+   "posted_at": "2026-10-29T08:59:51+00:00",
+   "posted_history": [
+    "2026-10-29T08:59:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Creative Technologist",
+   "url": "https://jobs.ashbyhq.com/lovable/a4e39bdc-b143-43ea-8077-a113445edbd2"
+  },
   "a5bfe338-39a2-4ef5-835a-599665f2db9c": {
    "closed_at": null,
    "department": "FDN",
@@ -1068,8 +1103,8 @@
    "department": "EPD",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "product designer @ stockholm",
-   "location": "Stockholm",
+   "fp": "product designer @ london",
+   "location": "London",
    "posted_at": "2025-07-17T16:03:07+00:00",
    "posted_history": [
     "2025-07-17T16:03:07+00:00"
@@ -1245,7 +1280,7 @@
    "url": "https://jobs.ashbyhq.com/lovable/e53bdf9e-39ee-46d4-aa95-6b3ba5d3de73"
   },
   "e5fa14ab-eec2-4303-a57e-38c1c79bdf69": {
-   "closed_at": null,
+   "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "EPD",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
