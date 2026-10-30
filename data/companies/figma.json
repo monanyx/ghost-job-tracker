@@ -43,6 +43,10 @@
   {
    "date": "2026-10-29",
    "open": 141
+  },
+  {
+   "date": "2026-10-30",
+   "open": 141
   }
  ],
  "jobs": {
@@ -1202,7 +1206,7 @@
    "url": "https://boards.greenhouse.io/figma/jobs/6130865004?gh_jid=6130865004"
   },
   "6132269004": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1217,7 +1221,7 @@
    "url": "https://boards.greenhouse.io/figma/jobs/6132269004?gh_jid=6132269004"
   },
   "6132356004": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2356,6 +2360,21 @@
    "title": "Senior Onboarding Manager, Customer Experience",
    "url": "https://boards.greenhouse.io/figma/jobs/6231832004?gh_jid=6231832004"
   },
+  "6231956004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "account executive enterprise @ são paulo, brazil",
+   "location": "São Paulo, Brazil",
+   "posted_at": "2026-10-29T16:58:45+00:00",
+   "posted_history": [
+    "2026-10-29T16:58:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, Enterprise (São Paulo, Brazil)",
+   "url": "https://boards.greenhouse.io/figma/jobs/6231956004?gh_jid=6231956004"
+  },
   "6232410004": {
    "closed_at": null,
    "department": "",
@@ -2475,6 +2494,21 @@
    "reopened": 0,
    "title": "Product Partner Manager, Scaled",
    "url": "https://boards.greenhouse.io/figma/jobs/6235005004?gh_jid=6235005004"
+  },
+  "6235282004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "manager software engineering design systems adherence @ new york, ny; san francisco, ca • new york, ny • united states",
+   "location": "New York, NY; San Francisco, CA • New York, NY • United States",
+   "posted_at": "2026-10-29T17:24:29+00:00",
+   "posted_history": [
+    "2026-10-29T17:24:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Software Engineering - Design Systems Adherence",
+   "url": "https://boards.greenhouse.io/figma/jobs/6235282004?gh_jid=6235282004"
   },
   "6235320004": {
    "closed_at": null,

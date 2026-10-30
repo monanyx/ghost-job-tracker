@@ -43,6 +43,10 @@
   {
    "date": "2026-10-29",
    "open": 59
+  },
+  {
+   "date": "2026-10-30",
+   "open": 58
   }
  ],
  "jobs": {
@@ -201,14 +205,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior software engineer ii backend @ new york, ny; pittsburgh, pa",
+   "fp": "senior software engineer backend @ new york, ny; pittsburgh, pa",
    "location": "New York, NY; Pittsburgh, PA",
    "posted_at": "2026-06-09T15:27:13+00:00",
    "posted_history": [
     "2026-06-09T15:27:13+00:00"
    ],
    "reopened": 0,
-   "title": "Senior/Software Engineer II, Backend",
+   "title": "Senior Software Engineer, Backend",
    "url": "https://careers.duolingo.com/jobs/8584012002?gh_jid=8584012002"
   },
   "8584465002": {
@@ -737,7 +741,7 @@
    "url": "https://careers.duolingo.com/jobs/8764849002?gh_jid=8764849002"
   },
   "8778318002": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

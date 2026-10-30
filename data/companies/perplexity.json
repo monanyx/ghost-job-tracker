@@ -43,6 +43,10 @@
   {
    "date": "2026-10-29",
    "open": 133
+  },
+  {
+   "date": "2026-10-30",
+   "open": 134
   }
  ],
  "jobs": {
@@ -422,7 +426,7 @@
    "url": "https://jobs.ashbyhq.com/perplexity/2e73bc78-684c-47c5-95df-e9973a10e0b6"
   },
   "3077e11d-8008-4980-a901-84d8b7993bc9": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "Workplace",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -976,6 +980,21 @@
    "title": "Member of Technical Staff (Offensive Security Engineer)",
    "url": "https://jobs.ashbyhq.com/perplexity/69fd6a56-0050-44f7-9ed2-2c3a7320908d"
   },
+  "6b2da750-51fb-4428-b682-fe2296d9aef7": {
+   "closed_at": null,
+   "department": "Customer Success & Support",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "customer success lead @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-10-29T18:04:45+00:00",
+   "posted_history": [
+    "2026-10-29T18:04:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Success Lead",
+   "url": "https://jobs.ashbyhq.com/perplexity/6b2da750-51fb-4428-b682-fe2296d9aef7"
+  },
   "6c9b3c71-85ba-47db-bce5-44fd9fa95d03": {
    "closed_at": null,
    "department": "Security",
@@ -1395,6 +1414,21 @@
    "reopened": 0,
    "title": "Member of Technical Staff (AI Researcher)",
    "url": "https://jobs.ashbyhq.com/perplexity/8fe61c73-0daf-4432-a47d-44714c1ef764"
+  },
+  "91814621-dd0e-46d1-8aba-24957c5a4296": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "sales onboarding manager @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-10-29T19:50:31+00:00",
+   "posted_history": [
+    "2026-10-29T19:50:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales Onboarding Manager",
+   "url": "https://jobs.ashbyhq.com/perplexity/91814621-dd0e-46d1-8aba-24957c5a4296"
   },
   "9246cf02-26fd-4ae8-90c5-639c6e85e9e2": {
    "closed_at": null,

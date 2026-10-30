@@ -43,6 +43,10 @@
   {
    "date": "2026-10-29",
    "open": 11
+  },
+  {
+   "date": "2026-10-30",
+   "open": 11
   }
  ],
  "jobs": {
@@ -143,9 +147,10 @@
    "first_seen": "2026-10-27T09:20:56+00:00",
    "fp": "clickhouse operations engineer @ remote",
    "location": "Remote",
-   "posted_at": "2026-10-26T11:22:11+00:00",
+   "posted_at": "2026-10-29T15:32:29+00:00",
    "posted_history": [
-    "2026-10-26T11:22:11+00:00"
+    "2026-10-26T11:22:11+00:00",
+    "2026-10-29T15:32:29+00:00"
    ],
    "reopened": 0,
    "title": "ClickHouse Operations Engineer",

@@ -43,6 +43,10 @@
   {
    "date": "2026-10-29",
    "open": 171
+  },
+  {
+   "date": "2026-10-30",
+   "open": 168
   }
  ],
  "jobs": {
@@ -647,7 +651,7 @@
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4646946005"
   },
   "4648176005": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -722,7 +726,7 @@
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4654382005"
   },
   "4654897005": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1397,7 +1401,7 @@
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4701543005"
   },
   "4702122005": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1592,7 +1596,7 @@
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4714727005"
   },
   "4715325005": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1622,7 +1626,7 @@
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4715976005"
   },
   "4716431005": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2566,6 +2570,21 @@
    "title": "Software Engineer, Public Sector - New Grad",
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005"
   },
+  "4737102005": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "senior cloud infrastructure engineer @ san francisco, ca; new york, ny",
+   "location": "San Francisco, CA; New York, NY",
+   "posted_at": "2026-09-24T04:39:25+00:00",
+   "posted_history": [
+    "2026-09-24T04:39:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Cloud Infrastructure Engineer",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4737102005"
+  },
   "4738221005": {
    "closed_at": null,
    "department": "",
@@ -2807,7 +2826,7 @@
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4743989005"
   },
   "4744402005": {
-   "closed_at": "2026-10-23T08:50:35+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2817,7 +2836,7 @@
    "posted_history": [
     "2026-10-16T18:44:43+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Safety Research Scholar - Human Frontier Labs",
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4744402005"
   },

@@ -43,6 +43,10 @@
   {
    "date": "2026-10-29",
    "open": 163
+  },
+  {
+   "date": "2026-10-30",
+   "open": 163
   }
  ],
  "jobs": {
@@ -512,7 +516,7 @@
    "url": "https://job-boards.greenhouse.io/reddit/jobs/7980795"
   },
   "7995207": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -720,6 +724,21 @@
    "reopened": 0,
    "title": "Manager, Large Customer Sales - UK",
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8023926"
+  },
+  "8029120": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "senior machine learning engineer ads forecasting scenarios @ remote - united states",
+   "location": "Remote - United States",
+   "posted_at": "2026-06-26T19:47:57+00:00",
+   "posted_history": [
+    "2026-06-26T19:47:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Machine Learning Engineer, Ads Forecasting & Scenarios",
+   "url": "https://job-boards.greenhouse.io/reddit/jobs/8029120"
   },
   "8029641": {
    "closed_at": null,
@@ -1007,7 +1026,7 @@
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8095009"
   },
   "8095476": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1247,7 +1266,7 @@
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8128860"
   },
   "8130697": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2356,6 +2375,21 @@
    "title": "Senior Machine Learning Systems Engineer, ML Platform",
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8283770"
   },
+  "8287466": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "senior frontend engineer ads formats @ remote - united states",
+   "location": "Remote - United States",
+   "posted_at": "2026-10-29T17:39:26+00:00",
+   "posted_history": [
+    "2026-10-29T17:39:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Frontend Engineer, Ads Formats",
+   "url": "https://job-boards.greenhouse.io/reddit/jobs/8287466"
+  },
   "8288965": {
    "closed_at": null,
    "department": "",
@@ -2670,6 +2704,21 @@
    "reopened": 0,
    "title": "Senior Software Engineer, Infrastructure Engineering",
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8331341"
+  },
+  "8334138": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "staff machine learning engineer ads forecasting scenarios @ remote - united states",
+   "location": "Remote - United States",
+   "posted_at": "2026-10-29T15:24:59+00:00",
+   "posted_history": [
+    "2026-10-29T15:24:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Machine Learning Engineer, Ads Forecasting & Scenarios",
+   "url": "https://job-boards.greenhouse.io/reddit/jobs/8334138"
   }
  }
 }

@@ -43,6 +43,10 @@
   {
    "date": "2026-10-29",
    "open": 112
+  },
+  {
+   "date": "2026-10-30",
+   "open": 111
   }
  ],
  "jobs": {
@@ -992,7 +996,7 @@
    "url": "https://www.asana.com/jobs/apply/8165185?gh_jid=8165185"
   },
   "8165477": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1412,7 +1416,7 @@
    "url": "https://www.asana.com/jobs/apply/8237559?gh_jid=8237559"
   },
   "8237744": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1776,8 +1780,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
-   "fp": "renewal manager @ us - remote west",
-   "location": "US - Remote West",
+   "fp": "renewal manager @ us - remote",
+   "location": "US - Remote",
    "posted_at": "2026-10-26T18:50:08+00:00",
    "posted_history": [
     "2026-10-26T18:50:08+00:00"
@@ -1890,6 +1894,21 @@
    "reopened": 0,
    "title": "Senior Implementation Manager",
    "url": "https://www.asana.com/jobs/apply/8311197?gh_jid=8311197"
+  },
+  "8311577": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "customer success manager @ chicago",
+   "location": "Chicago",
+   "posted_at": "2026-10-29T17:04:33+00:00",
+   "posted_history": [
+    "2026-10-29T17:04:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Success Manager (AI Success Architect)",
+   "url": "https://www.asana.com/jobs/apply/8311577?gh_jid=8311577"
   },
   "8311992": {
    "closed_at": null,

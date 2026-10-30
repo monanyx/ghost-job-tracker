@@ -43,6 +43,10 @@
   {
    "date": "2026-10-29",
    "open": 79
+  },
+  {
+   "date": "2026-10-30",
+   "open": 81
   }
  ],
  "jobs": {
@@ -150,6 +154,21 @@
    "reopened": 0,
    "title": "Senior Product Designer, Agent Experience",
    "url": "https://jobs.ashbyhq.com/vanta/0e154a57-fc33-4cf7-95cc-0aa30e0bde90"
+  },
+  "0eb769bf-5444-491b-8721-2fc579ca4932": {
+   "closed_at": null,
+   "department": "Product Management",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "senior product manager commitments @ remote u.s.",
+   "location": "Remote U.S.",
+   "posted_at": "2026-10-29T17:48:23+00:00",
+   "posted_history": [
+    "2026-10-29T17:48:23+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Manager, Commitments",
+   "url": "https://jobs.ashbyhq.com/vanta/0eb769bf-5444-491b-8721-2fc579ca4932"
   },
   "0fab2072-8863-42ec-b00d-de367b90d937": {
    "closed_at": null,
@@ -976,6 +995,21 @@
    "title": "Senior Revenue Enablement Manager, EMEA",
    "url": "https://jobs.ashbyhq.com/vanta/b6122b6f-1f9f-45d0-8665-b1a7e89637ef"
   },
+  "b64b6e72-7c71-446f-b6ce-662330b910e8": {
+   "closed_at": null,
+   "department": "Revenue",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "gtm program manager revenue onboarding @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-10-29T18:12:14+00:00",
+   "posted_history": [
+    "2026-10-29T18:12:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "GTM Program Manager, Revenue Onboarding",
+   "url": "https://jobs.ashbyhq.com/vanta/b64b6e72-7c71-446f-b6ce-662330b910e8"
+  },
   "bbaea4cf-1439-4996-b7b1-c10425413c3f": {
    "closed_at": null,
    "department": "Software Engineering",
@@ -1036,6 +1070,21 @@
    "title": "Director, Vanta for Government Partnerships",
    "url": "https://jobs.ashbyhq.com/vanta/c27d1d10-9bab-484b-af98-1071c6834d77"
   },
+  "c3a34fb5-02e4-430e-83d2-b096363901aa": {
+   "closed_at": null,
+   "department": "Product Management",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "staff product manager activation @ remote u.s.",
+   "location": "Remote U.S.",
+   "posted_at": "2026-10-29T16:36:11+00:00",
+   "posted_history": [
+    "2026-10-29T16:36:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Product Manager, Activation",
+   "url": "https://jobs.ashbyhq.com/vanta/c3a34fb5-02e4-430e-83d2-b096363901aa"
+  },
   "c3b74285-982c-4648-bb79-d62c5b0adaf4": {
    "closed_at": null,
    "department": "Revenue",
@@ -1082,7 +1131,7 @@
    "url": "https://jobs.ashbyhq.com/vanta/c4f91672-04ee-4265-b4a7-6979a7e83308"
   },
   "c6090572-cbca-4b11-810e-127bf0183abf": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

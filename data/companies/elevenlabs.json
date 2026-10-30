@@ -43,6 +43,10 @@
   {
    "date": "2026-10-29",
    "open": 153
+  },
+  {
+   "date": "2026-10-30",
+   "open": 151
   }
  ],
  "jobs": {
@@ -439,7 +443,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/203ef08b-7bb0-42b7-8099-d3d770fe3615"
   },
   "22034ea4-b563-425f-b5d2-8a113e6d172d": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "Operations",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -482,6 +486,21 @@
    "reopened": 0,
    "title": "Finance Data Scientist",
    "url": "https://jobs.ashbyhq.com/elevenlabs/257f24da-83db-4bad-a6dc-37793a1a0bac"
+  },
+  "258de005-ab84-4cc7-9a59-1df0c74a12b8": {
+   "closed_at": null,
+   "department": "Growth",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "b2b marketing india @ remote",
+   "location": "Remote",
+   "posted_at": "2026-10-29T16:29:43+00:00",
+   "posted_history": [
+    "2026-10-29T16:29:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "B2B Marketing - India",
+   "url": "https://jobs.ashbyhq.com/elevenlabs/258de005-ab84-4cc7-9a59-1df0c74a12b8"
   },
   "275f43d0-b62d-401d-830c-7c1ac0e688aa": {
    "closed_at": null,
@@ -680,17 +699,18 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/347282a4-74ff-4e56-a92d-3c4249ee6c28"
   },
   "34dbe44c-9815-40b2-81f4-91c607fd84b2": {
-   "closed_at": "2026-10-27T09:20:56+00:00",
+   "closed_at": null,
    "department": "Engineering & Product",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
    "fp": "full stack engineer elevencreative enterprise @ united kingdom",
    "location": "United Kingdom",
-   "posted_at": "2026-10-22T07:30:30+00:00",
+   "posted_at": "2026-10-29T12:53:03+00:00",
    "posted_history": [
-    "2026-10-22T07:30:30+00:00"
+    "2026-10-22T07:30:30+00:00",
+    "2026-10-29T12:53:03+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Full-Stack Engineer - ElevenCreative Enterprise",
    "url": "https://jobs.ashbyhq.com/elevenlabs/34dbe44c-9815-40b2-81f4-91c607fd84b2"
   },
@@ -861,7 +881,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/3d650946-5ac2-4729-9ae4-129c43fcd0b5"
   },
   "3e9f8e45-cd55-4fb9-9452-0ebbd6e15de6": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "Finance",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1069,6 +1089,21 @@
    "reopened": 0,
    "title": "Creative Strategist,  Mobile",
    "url": "https://jobs.ashbyhq.com/elevenlabs/5da4bb46-0bac-4e35-8731-9e182ad02bee"
+  },
+  "5e43ae90-da6a-4a94-b497-458fd6b160e2": {
+   "closed_at": null,
+   "department": "Revenue",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "account executive italy smb @ italy",
+   "location": "Italy",
+   "posted_at": "2026-10-29T11:44:41+00:00",
+   "posted_history": [
+    "2026-10-29T11:44:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive - Italy - SMB",
+   "url": "https://jobs.ashbyhq.com/elevenlabs/5e43ae90-da6a-4a94-b497-458fd6b160e2"
   },
   "61192904-2123-48ff-83ad-5e3012d8601b": {
    "closed_at": null,
@@ -1340,6 +1375,21 @@
    "reopened": 0,
    "title": "Account Executive - Saudi Arabia",
    "url": "https://jobs.ashbyhq.com/elevenlabs/7a27a4f4-e32f-4ff2-a6b0-a01a5e187db0"
+  },
+  "7ab03a75-830a-40ee-b4e5-bf83b31b1d24": {
+   "closed_at": null,
+   "department": "Engineering & Product",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "trust strategy operations @ london",
+   "location": "London",
+   "posted_at": "2026-10-30T09:58:17+00:00",
+   "posted_history": [
+    "2026-10-30T09:58:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Trust Strategy & Operations",
+   "url": "https://jobs.ashbyhq.com/elevenlabs/7ab03a75-830a-40ee-b4e5-bf83b31b1d24"
   },
   "7d01b1ec-511d-40bf-a6ed-88b212932edb": {
    "closed_at": null,
@@ -1720,7 +1770,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/9aca205e-b2bc-405b-85d6-3d2aadbe49b1"
   },
   "9d731858-01bf-4d42-89e5-5912ae94cf55": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "Finance",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1795,7 +1845,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/a3097257-a07a-4a7e-b9fe-b8555c1a0fa7"
   },
   "a435a526-e2b3-4fcf-a732-0e70864178bb": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "Finance",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1929,6 +1979,21 @@
    "reopened": 0,
    "title": "Account Executive - Enterprise - Insurance",
    "url": "https://jobs.ashbyhq.com/elevenlabs/b178d5b8-2edf-44e9-bcd8-9a2be5b7f188"
+  },
+  "b28719ff-833d-49b4-8286-f59082732186": {
+   "closed_at": null,
+   "department": "Revenue",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "revenue strategy operations @ united states",
+   "location": "United States",
+   "posted_at": "2026-10-29T15:23:50+00:00",
+   "posted_history": [
+    "2026-10-29T15:23:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Revenue Strategy & Operations",
+   "url": "https://jobs.ashbyhq.com/elevenlabs/b28719ff-833d-49b4-8286-f59082732186"
   },
   "b380fb97-bb18-46a5-91db-5132e6693e93": {
    "closed_at": null,
@@ -2234,7 +2299,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/c89e8bf6-6d4c-43bd-bd2a-661ae73c82bf"
   },
   "c90159fa-8577-4213-b5b3-356051742c67": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2283,15 +2348,15 @@
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "account manager latam @ mexico",
-   "location": "Mexico",
+   "fp": "account manager brazil @ brazil",
+   "location": "Brazil",
    "posted_at": "2026-10-29T07:44:01+00:00",
    "posted_history": [
     "2026-07-27T17:18:59+00:00",
     "2026-10-29T07:44:01+00:00"
    ],
    "reopened": 1,
-   "title": "Account Manager - LATAM",
+   "title": "Account Manager - Brazil",
    "url": "https://jobs.ashbyhq.com/elevenlabs/cdcf48bf-b6cf-41ce-88ee-34674768fb0d"
   },
   "ce3d5a59-fb8c-482b-bc3f-60e44576c5e0": {
@@ -2567,7 +2632,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/e6924f60-c8cc-42b3-9d05-2442ec30e12d"
   },
   "e7b83599-1b70-4830-85da-7132b99a3b57": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "Finance",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2672,7 +2737,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/ede30aef-bc40-48b3-ae75-59cdc5d075b9"
   },
   "eec0ee0e-ad68-47af-a0a8-8d2191aee4ba": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "Finance",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

@@ -43,6 +43,10 @@
   {
    "date": "2026-10-29",
    "open": 304
+  },
+  {
+   "date": "2026-10-30",
+   "open": 302
   }
  ],
  "jobs": {
@@ -1802,7 +1806,7 @@
    "url": "https://jobs.lever.co/palantir/57a3f928-e7d3-4037-8196-b38e2f867152"
   },
   "599b1907-aba1-4303-837b-66e69a521636": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "Delta",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3317,7 +3321,7 @@
    "url": "https://jobs.lever.co/palantir/a8174f9c-6f46-46b4-8e15-d1ff9e37c9eb"
   },
   "a8eb96f4-e39b-4c0f-b42e-610165b88f34": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "Delta",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

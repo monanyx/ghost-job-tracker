@@ -43,6 +43,10 @@
   {
    "date": "2026-10-29",
    "open": 131
+  },
+  {
+   "date": "2026-10-30",
+   "open": 131
   }
  ],
  "jobs": {
@@ -152,7 +156,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/7782805"
   },
   "7785025": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -167,7 +171,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/7785025"
   },
   "7808464": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -347,7 +351,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/7987840"
   },
   "7996774": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1441,6 +1445,21 @@
    "title": "GTM Innovation Account Executive",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8209103"
   },
+  "8213730": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "personalized support engineer @ remote - india",
+   "location": "Remote - India",
+   "posted_at": "2026-09-23T13:59:26+00:00",
+   "posted_history": [
+    "2026-09-23T13:59:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Personalized Support Engineer",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8213730"
+  },
   "8213826": {
    "closed_at": null,
    "department": "",
@@ -1652,7 +1671,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8245812"
   },
   "8247182": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1832,7 +1851,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8256912"
   },
   "8257820": {
-   "closed_at": "2026-10-28T10:01:46+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1842,7 +1861,7 @@
    "posted_history": [
     "2026-10-15T21:19:36+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Executive Business Partner, Strategy & Operations",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8257820"
   },
@@ -2446,6 +2465,21 @@
    "title": "Sr. Director, Marketing Strategy, Analytics & Innovation",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8325734"
   },
+  "8327434": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "senior account executive @ remote - us",
+   "location": "Remote - US",
+   "posted_at": "2026-10-29T16:33:10+00:00",
+   "posted_history": [
+    "2026-10-29T16:33:10+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Account Executive",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8327434"
+  },
   "8327527": {
    "closed_at": null,
    "department": "",
@@ -2475,6 +2509,21 @@
    "reopened": 0,
    "title": "Strategic Account Executive",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8330326"
+  },
+  "8332638": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "senior program manager talent development @ remote - canada",
+   "location": "Remote - Canada",
+   "posted_at": "2026-10-29T14:39:45+00:00",
+   "posted_history": [
+    "2026-10-29T14:39:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Program Manager, Talent Development",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8332638"
   }
  }
 }

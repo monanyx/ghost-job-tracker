@@ -43,6 +43,10 @@
   {
    "date": "2026-10-29",
    "open": 66
+  },
+  {
+   "date": "2026-10-30",
+   "open": 65
   }
  ],
  "jobs": {
@@ -225,6 +229,21 @@
    "reopened": 0,
    "title": "Senior iOS Engineer",
    "url": "https://job-boards.greenhouse.io/monzo/jobs/6674220"
+  },
+  "6674282": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "senior android engineer @ barcelona",
+   "location": "Barcelona",
+   "posted_at": "2025-03-06T11:36:47+00:00",
+   "posted_history": [
+    "2025-03-06T11:36:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Android Engineer",
+   "url": "https://job-boards.greenhouse.io/monzo/jobs/6674282"
   },
   "6758088": {
    "closed_at": null,
@@ -752,7 +771,7 @@
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8156261"
   },
   "8158933": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -917,7 +936,7 @@
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8222576"
   },
   "8223018": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

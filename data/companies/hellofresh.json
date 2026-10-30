@@ -43,11 +43,15 @@
   {
    "date": "2026-10-29",
    "open": 385
+  },
+  {
+   "date": "2026-10-30",
+   "open": 397
   }
  ],
  "jobs": {
   "3984946": {
-   "closed_at": "2026-10-29T10:25:29+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -57,12 +61,12 @@
    "posted_history": [
     "2022-09-09T06:34:50+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Sales Representatives",
    "url": "https://careers.hellofresh.com/global/en/job/3984946?gh_jid=3984946"
   },
   "4410609": {
-   "closed_at": "2026-10-27T09:20:56+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -72,7 +76,7 @@
    "posted_history": [
     "2022-07-17T23:58:29+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Sales Representative",
    "url": "https://careers.hellofresh.com/global/en/job/4410609?gh_jid=4410609"
   },
@@ -151,6 +155,21 @@
    "title": "Inbound/Outbound Operative - Days",
    "url": "https://careers.hellofresh.com/global/en/job/6440546?gh_jid=6440546"
   },
+  "6442526": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "jam busters nights @ derby, england, united kingdom",
+   "location": "Derby, England, United Kingdom",
+   "posted_at": "2024-12-03T13:08:56+00:00",
+   "posted_history": [
+    "2024-12-03T13:08:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Jam Busters (MHE Operative) - Nights",
+   "url": "https://careers.hellofresh.com/global/en/job/6442526?gh_jid=6442526"
+  },
   "6613727": {
    "closed_at": null,
    "department": "",
@@ -182,7 +201,7 @@
    "url": "https://careers.hellofresh.com/global/en/job/6751993?gh_jid=6751993"
   },
   "6997529": {
-   "closed_at": "2026-10-27T09:20:56+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -192,7 +211,7 @@
    "posted_history": [
     "2025-06-19T23:17:52+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Sales Representative",
    "url": "https://careers.hellofresh.com/global/en/job/6997529?gh_jid=6997529"
   },
@@ -1116,14 +1135,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "quality assurance associate @ aurora, il, united states",
+   "fp": "quality associate @ aurora, il, united states",
    "location": "Aurora, IL, United States",
    "posted_at": "2026-07-22T16:17:39+00:00",
    "posted_history": [
     "2026-07-22T16:17:39+00:00"
    ],
    "reopened": 0,
-   "title": "Quality Assurance Associate",
+   "title": "Quality Associate",
    "url": "https://careers.hellofresh.com/global/en/job/8079790?gh_jid=8079790"
   },
   "8081320": {
@@ -1577,7 +1596,7 @@
    "url": "https://careers.hellofresh.com/global/en/job/8108559?gh_jid=8108559"
   },
   "8109569": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -3647,7 +3666,7 @@
    "url": "https://careers.hellofresh.com/global/en/job/8191257?gh_jid=8191257"
   },
   "8191580": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3827,7 +3846,7 @@
    "url": "https://careers.hellofresh.com/global/en/job/8202780?gh_jid=8202780"
   },
   "8203812": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
@@ -3842,7 +3861,7 @@
    "url": "https://careers.hellofresh.com/global/en/job/8203812?gh_jid=8203812"
   },
   "8203996": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3962,7 +3981,7 @@
    "url": "https://careers.hellofresh.com/global/en/job/8207839?gh_jid=8207839"
   },
   "8209159": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4011,14 +4030,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "it operations manager @ manila, manila, philippines",
+   "fp": "associate manager it operations @ manila, manila, philippines",
    "location": "Manila, Manila, Philippines",
    "posted_at": "2026-09-17T12:33:19+00:00",
    "posted_history": [
     "2026-09-17T12:33:19+00:00"
    ],
    "reopened": 0,
-   "title": "IT Operations Manager",
+   "title": "Associate Manager, IT Operations",
    "url": "https://careers.hellofresh.com/global/en/job/8210682?gh_jid=8210682"
   },
   "8210829": {
@@ -4232,7 +4251,7 @@
    "url": "https://careers.hellofresh.com/global/en/job/8220525?gh_jid=8220525"
   },
   "8220529": {
-   "closed_at": "2026-10-21T08:53:29+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4242,7 +4261,7 @@
    "posted_history": [
     "2026-09-23T18:48:57+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Area Manager",
    "url": "https://careers.hellofresh.com/global/en/job/8220529?gh_jid=8220529"
   },
@@ -5521,6 +5540,21 @@
    "title": "Refrigeration Technician",
    "url": "https://careers.hellofresh.com/global/en/job/8259336?gh_jid=8259336"
   },
+  "8259442": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "delivery station supervisor @ schiller park, il, united states",
+   "location": "Schiller Park, IL, United States",
+   "posted_at": "2026-10-29T22:32:40+00:00",
+   "posted_history": [
+    "2026-10-29T22:32:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Delivery Station Supervisor",
+   "url": "https://careers.hellofresh.com/global/en/job/8259442?gh_jid=8259442"
+  },
   "8259567": {
    "closed_at": null,
    "department": "",
@@ -5837,7 +5871,7 @@
    "url": "https://careers.hellofresh.com/global/en/job/8273687?gh_jid=8273687"
   },
   "8274954": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6512,7 +6546,7 @@
    "url": "https://careers.hellofresh.com/global/en/job/8299937?gh_jid=8299937"
   },
   "8300137": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6707,7 +6741,7 @@
    "url": "https://careers.hellofresh.com/global/en/job/8305627?gh_jid=8305627"
   },
   "8306323": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-28T10:01:46+00:00",
@@ -6796,6 +6830,51 @@
    "title": "Supply and Demand Planner",
    "url": "https://careers.hellofresh.com/global/en/job/8311928?gh_jid=8311928"
   },
+  "8313383": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "wms software developer @ toronto, ontario, canada",
+   "location": "Toronto, Ontario, Canada",
+   "posted_at": "2026-10-29T19:13:06+00:00",
+   "posted_history": [
+    "2026-10-29T19:13:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "WMS Software Developer [OPERATIONS TECHNOLOGY]",
+   "url": "https://careers.hellofresh.com/global/en/job/8313383?gh_jid=8313383"
+  },
+  "8313385": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "wms software engineer @ new york, ny, united states; newark, nj, united states",
+   "location": "New York, NY, United States; Newark, NJ, United States",
+   "posted_at": "2026-10-29T17:56:41+00:00",
+   "posted_history": [
+    "2026-10-29T17:56:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "WMS Software Engineer [OPERATIONS TECHNOLOGY]",
+   "url": "https://careers.hellofresh.com/global/en/job/8313385?gh_jid=8313385"
+  },
+  "8313387": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "wms software engineer @ warszawa, masovian voivodeship, poland",
+   "location": "Warszawa, Masovian Voivodeship, Poland",
+   "posted_at": "2026-10-29T19:14:02+00:00",
+   "posted_history": [
+    "2026-10-29T19:14:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "WMS Software Engineer [OPERATIONS TECHNOLOGY]",
+   "url": "https://careers.hellofresh.com/global/en/job/8313387?gh_jid=8313387"
+  },
   "8315205": {
    "closed_at": null,
    "department": "",
@@ -6816,14 +6895,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
-   "fp": "us hourly @ usa",
-   "location": "USA",
+   "fp": "fsqa lead @ goodyear, az, united states",
+   "location": "Goodyear, AZ, United States",
    "posted_at": "2026-10-22T20:52:40+00:00",
    "posted_history": [
     "2026-10-22T20:52:40+00:00"
    ],
    "reopened": 0,
-   "title": "US Hourly",
+   "title": "FSQA Lead",
    "url": "https://careers.hellofresh.com/global/en/job/8315929?gh_jid=8315929"
   },
   "8315990": {
@@ -6870,6 +6949,21 @@
    "reopened": 0,
    "title": "Production Cook (PM Shift)",
    "url": "https://careers.hellofresh.com/global/en/job/8319721?gh_jid=8319721"
+  },
+  "8323720": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "food technology manager @ brisbane, queensland, australia",
+   "location": "Brisbane, Queensland, Australia",
+   "posted_at": "2026-10-30T10:08:38+00:00",
+   "posted_history": [
+    "2026-10-30T10:08:38+00:00"
+   ],
+   "reopened": 0,
+   "title": "Food Technology Manager",
+   "url": "https://careers.hellofresh.com/global/en/job/8323720?gh_jid=8323720"
   },
   "8324281": {
    "closed_at": null,
@@ -6928,7 +7022,7 @@
     "2026-10-28T20:40:37+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Associate, Social & Brand Marketing",
+   "title": "Senior Associate, Social & Brand Marketing (The Pets Table)",
    "url": "https://careers.hellofresh.com/global/en/job/8325146?gh_jid=8325146"
   },
   "8326821": {
@@ -7020,6 +7114,21 @@
    "reopened": 0,
    "title": "People Operations Specialist (HR Advisor)",
    "url": "https://careers.hellofresh.com/global/en/job/8328025?gh_jid=8328025"
+  },
+  "8328033": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "training supervisor @ derby, england, united kingdom",
+   "location": "Derby, England, United Kingdom",
+   "posted_at": "2026-10-29T15:58:30+00:00",
+   "posted_history": [
+    "2026-10-29T15:58:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Training Supervisor",
+   "url": "https://careers.hellofresh.com/global/en/job/8328033?gh_jid=8328033"
   },
   "8328807": {
    "closed_at": null,
@@ -7126,6 +7235,36 @@
    "title": "Marketing Internships (f/m/x)",
    "url": "https://careers.hellofresh.com/global/en/job/8331372?gh_jid=8331372"
   },
+  "8331574": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "systems analyst @ irving, tx, united states",
+   "location": "Irving, TX, United States",
+   "posted_at": "2026-10-29T23:07:31+00:00",
+   "posted_history": [
+    "2026-10-29T23:07:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Systems Analyst",
+   "url": "https://careers.hellofresh.com/global/en/job/8331574?gh_jid=8331574"
+  },
+  "8331577": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "hub coordinator @ etobicoke, ontario, canada",
+   "location": "Etobicoke, Ontario, Canada",
+   "posted_at": "2026-10-29T18:30:45+00:00",
+   "posted_history": [
+    "2026-10-29T18:30:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Hub Coordinator",
+   "url": "https://careers.hellofresh.com/global/en/job/8331577?gh_jid=8331577"
+  },
   "8331948": {
    "closed_at": null,
    "department": "",
@@ -7156,6 +7295,36 @@
    "title": "FSQA Technician",
    "url": "https://careers.hellofresh.com/global/en/job/8331951?gh_jid=8331951"
   },
+  "8332707": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "warehouse supervisor @ calgary, alberta, canada",
+   "location": "Calgary, Alberta, Canada",
+   "posted_at": "2026-10-29T17:54:56+00:00",
+   "posted_history": [
+    "2026-10-29T17:54:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Warehouse Supervisor",
+   "url": "https://careers.hellofresh.com/global/en/job/8332707?gh_jid=8332707"
+  },
+  "8332997": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "senior product marketing manager @ sydney, new south wales, australia",
+   "location": "Sydney, New South Wales, Australia",
+   "posted_at": "2026-10-30T04:28:52+00:00",
+   "posted_history": [
+    "2026-10-30T04:28:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Marketing Manager",
+   "url": "https://careers.hellofresh.com/global/en/job/8332997?gh_jid=8332997"
+  },
   "8333099": {
    "closed_at": null,
    "department": "",
@@ -7170,6 +7339,81 @@
    "reopened": 0,
    "title": "[HELLOCONNECT] Purchasing Team Leader",
    "url": "https://careers.hellofresh.com/global/en/job/8333099?gh_jid=8333099"
+  },
+  "8333489": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "customer care specialist non voice @ manila, manila, philippines",
+   "location": "Manila, Manila, Philippines",
+   "posted_at": "2026-10-29T10:28:52+00:00",
+   "posted_history": [
+    "2026-10-29T10:28:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "[HELLOCONNECT] Customer Care Specialist - Non Voice",
+   "url": "https://careers.hellofresh.com/global/en/job/8333489?gh_jid=8333489"
+  },
+  "8333870": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "pt lead sorter @ rochester, ny, united states",
+   "location": " Rochester, NY, United States",
+   "posted_at": "2026-10-29T14:05:50+00:00",
+   "posted_history": [
+    "2026-10-29T14:05:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "PT Lead Sorter",
+   "url": "https://careers.hellofresh.com/global/en/job/8333870?gh_jid=8333870"
+  },
+  "8334141": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "maintenance planner scheduler @ aurora, il, united states",
+   "location": "Aurora, IL, United States",
+   "posted_at": "2026-10-29T15:30:13+00:00",
+   "posted_history": [
+    "2026-10-29T15:30:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Maintenance Planner/Scheduler",
+   "url": "https://careers.hellofresh.com/global/en/job/8334141?gh_jid=8334141"
+  },
+  "8334705": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "wms software engineer @ aurora, il, united states; boulder, colorado, united states",
+   "location": "Aurora, IL, United States; Boulder, Colorado, United States",
+   "posted_at": "2026-10-29T18:05:44+00:00",
+   "posted_history": [
+    "2026-10-29T18:05:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "WMS Software Engineer [OPERATIONS TECHNOLOGY]",
+   "url": "https://careers.hellofresh.com/global/en/job/8334705?gh_jid=8334705"
+  },
+  "8334962": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "wms software engineer @ goodyear, az, united states; phoenix, az, united states",
+   "location": "Goodyear, AZ, United States; Phoenix, AZ, United States",
+   "posted_at": "2026-10-29T19:25:47+00:00",
+   "posted_history": [
+    "2026-10-29T19:25:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "WMS Software Engineer [OPERATIONS TECHNOLOGY]",
+   "url": "https://careers.hellofresh.com/global/en/job/8334962?gh_jid=8334962"
   }
  }
 }

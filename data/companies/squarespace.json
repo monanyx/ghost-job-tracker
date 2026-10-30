@@ -43,6 +43,10 @@
   {
    "date": "2026-10-29",
    "open": 27
+  },
+  {
+   "date": "2026-10-30",
+   "open": 27
   }
  ],
  "jobs": {
@@ -347,7 +351,7 @@
    "url": "http://www.squarespace.com/about/careers?gh_jid=8174807"
   },
   "8186452": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -450,6 +454,21 @@
    "reopened": 0,
    "title": "GRC Analyst",
    "url": "http://www.squarespace.com/about/careers?gh_jid=8223803"
+  },
+  "8232378": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "senior media strategist creator affiliate @ new york city",
+   "location": "New York City",
+   "posted_at": "2026-10-29T18:10:25+00:00",
+   "posted_history": [
+    "2026-10-29T18:10:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Media Strategist, Creator & Affiliate",
+   "url": "http://www.squarespace.com/about/careers?gh_jid=8232378"
   },
   "8232865": {
    "closed_at": null,

@@ -43,6 +43,10 @@
   {
    "date": "2026-10-29",
    "open": 228
+  },
+  {
+   "date": "2026-10-30",
+   "open": 231
   }
  ],
  "jobs": {
@@ -286,6 +290,21 @@
    "title": "Senior Team Lead, Vehicle Technicians",
    "url": "https://jobs.lever.co/zoox/0c03e57f-fe89-4a65-857e-af7ec6eadadf"
   },
+  "0d678716-71bd-496e-8188-470df42c22b7": {
+   "closed_at": null,
+   "department": "Autonomy Software",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "senior staff technical product manager operational design domain tools @ foster city, ca",
+   "location": "Foster City, CA",
+   "posted_at": "2026-10-29T18:07:27+00:00",
+   "posted_history": [
+    "2026-10-29T18:07:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior/Staff Technical Product Manager, Operational Design Domain (ODD) Tools",
+   "url": "https://jobs.lever.co/zoox/0d678716-71bd-496e-8188-470df42c22b7"
+  },
   "0da91b55-fd12-4d1f-8f35-e11804f591ab": {
    "closed_at": null,
    "department": "Body, Closures and Chassis",
@@ -332,7 +351,7 @@
    "url": "https://jobs.lever.co/zoox/0f3ea839-5cc1-466f-907c-3d2c935c20b8"
   },
   "11f3d5cc-be0c-492f-97b8-29358bd5a057": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "Fleet Operations Program Management",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1186,6 +1205,21 @@
    "title": "Senior Strategic Sourcing Manager",
    "url": "https://jobs.lever.co/zoox/44e0530a-6a48-417e-aa43-1f487ea3001e"
   },
+  "45594791-0b7b-4310-9a6e-067f53e4a191": {
+   "closed_at": null,
+   "department": "Autonomy Software",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "contract student worker autonomy and geofence expansion @ foster city, ca",
+   "location": "Foster City, CA",
+   "posted_at": "2026-10-28T15:03:59+00:00",
+   "posted_history": [
+    "2026-10-28T15:03:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Contract Student Worker - Autonomy and Geofence Expansion (20 hrs/wk)",
+   "url": "https://jobs.lever.co/zoox/45594791-0b7b-4310-9a6e-067f53e4a191"
+  },
   "4645fddd-019c-470c-96c8-552496b30450": {
    "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "Fleet Operations",
@@ -1476,14 +1510,14 @@
    "department": "Vehicle Program Management",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "program analyst @ foster city, ca",
+   "fp": "vehicle program analyst @ foster city, ca",
    "location": "Foster City, CA",
    "posted_at": "2026-10-16T17:33:41+00:00",
    "posted_history": [
     "2026-10-16T17:33:41+00:00"
    ],
    "reopened": 0,
-   "title": "Program Analyst",
+   "title": "Vehicle Program Analyst",
    "url": "https://jobs.lever.co/zoox/5a4eb127-a3fd-4927-8f71-0cb06bcc44da"
   },
   "5ab0cc36-0d91-4acd-9cf3-c38a273293cb": {
@@ -1636,6 +1670,21 @@
    "title": "Manager, City Operations",
    "url": "https://jobs.lever.co/zoox/6727ef94-9a4b-4275-95c1-863ba7723364"
   },
+  "67982bee-811b-453b-8596-b53c13f7a78d": {
+   "closed_at": null,
+   "department": "Software Platforms and Product",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "contract student worker software engineer @ foster city, ca",
+   "location": "Foster City, CA",
+   "posted_at": "2026-10-28T15:38:30+00:00",
+   "posted_history": [
+    "2026-10-28T15:38:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Contract Student Worker - Software Engineer (40 hrs/wk)",
+   "url": "https://jobs.lever.co/zoox/67982bee-811b-453b-8596-b53c13f7a78d"
+  },
   "67e21fab-c93e-45c3-b54a-ae95056dbcdc": {
    "closed_at": null,
    "department": "Body, Closures and Chassis",
@@ -1695,6 +1744,21 @@
    "reopened": 0,
    "title": "Software Engineer - Robot Software Infrastructure",
    "url": "https://jobs.lever.co/zoox/6da52aa7-0ccb-48d0-af25-0889f41ddee5"
+  },
+  "6e2c1641-a814-43ad-a807-34f585a35fd9": {
+   "closed_at": null,
+   "department": "Platform Safety Engineering and Analysis",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "systems engineer motion controls safety @ foster city, ca",
+   "location": "Foster City, CA",
+   "posted_at": "2026-10-29T22:23:35+00:00",
+   "posted_history": [
+    "2026-10-29T22:23:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Systems Engineer, Motion Controls Safety",
+   "url": "https://jobs.lever.co/zoox/6e2c1641-a814-43ad-a807-34f585a35fd9"
   },
   "6e58a614-0388-4916-bb8f-de12c19be758": {
    "closed_at": null,
@@ -2115,6 +2179,21 @@
    "reopened": 0,
    "title": "Financial Analyst, Production Manufacturing",
    "url": "https://jobs.lever.co/zoox/85b40783-bc13-4564-b6b6-1ea0801653b1"
+  },
+  "8703109b-1cb5-4e78-999a-7093ca4407e2": {
+   "closed_at": null,
+   "department": "Software Platforms and Product",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "senior software engineer c vehicle experience @ foster city, ca",
+   "location": "Foster City, CA",
+   "posted_at": "2026-10-29T21:41:57+00:00",
+   "posted_history": [
+    "2026-10-29T21:41:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, C++ Vehicle Experience",
+   "url": "https://jobs.lever.co/zoox/8703109b-1cb5-4e78-999a-7093ca4407e2"
   },
   "8714ca37-74ad-4cf5-8f08-c80cd3df7215": {
    "closed_at": null,
@@ -3126,14 +3205,14 @@
    "department": "Communications",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
-   "fp": "senior program manager executive operations strategy @ foster city, ca",
+   "fp": "staff program manager executive operations strategy @ foster city, ca",
    "location": "Foster City, CA",
    "posted_at": "2026-10-20T23:22:48+00:00",
    "posted_history": [
     "2026-10-20T23:22:48+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Program Manager, Executive Operations & Strategy",
+   "title": "Staff Program Manager, Executive Operations & Strategy",
    "url": "https://jobs.lever.co/zoox/ccddfb39-ba95-485c-b18e-b9c3cb08dcec"
   },
   "cfb9dff3-844f-443e-9be8-46133eb9e656": {
@@ -3407,7 +3486,7 @@
    "url": "https://jobs.lever.co/zoox/e2dc70db-8179-45c6-81f8-33c53409d29f"
   },
   "e36cc53e-5bd5-43b9-9a90-ec9b7c6abda9": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "Safety Strategy and Operations",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

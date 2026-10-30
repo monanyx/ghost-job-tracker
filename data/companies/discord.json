@@ -43,6 +43,10 @@
   {
    "date": "2026-10-29",
    "open": 45
+  },
+  {
+   "date": "2026-10-30",
+   "open": 43
   }
  ],
  "jobs": {
@@ -167,7 +171,7 @@
    "url": "https://job-boards.greenhouse.io/discord/jobs/8575166002"
   },
   "8595014002": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -396,8 +400,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "engineering manager machine learning @ san francisco bay area (or remote u.s.)",
-   "location": "San Francisco Bay Area (or Remote U.S.)",
+   "fp": "engineering manager machine learning @ remote (us)",
+   "location": "Remote (US)",
    "posted_at": "2026-08-20T17:43:23+00:00",
    "posted_history": [
     "2026-08-20T17:43:23+00:00"
@@ -752,7 +756,7 @@
    "url": "https://job-boards.greenhouse.io/discord/jobs/8856467002"
   },
   "8879502002": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

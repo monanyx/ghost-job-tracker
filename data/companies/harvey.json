@@ -43,6 +43,10 @@
   {
    "date": "2026-10-29",
    "open": 365
+  },
+  {
+   "date": "2026-10-30",
+   "open": 385
   }
  ],
  "jobs": {
@@ -51,14 +55,14 @@
    "department": "Recruiting",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
-   "fp": "recruiting operations manager emea @ dublin",
+   "fp": "recruiting operations generalist emea @ dublin",
    "location": "Dublin",
    "posted_at": "2026-10-26T22:48:37+00:00",
    "posted_history": [
     "2026-10-26T22:48:37+00:00"
    ],
    "reopened": 0,
-   "title": "Recruiting Operations Manager, EMEA",
+   "title": "Recruiting Operations Generalist, EMEA",
    "url": "https://jobs.ashbyhq.com/harvey/00ef2ebe-aacc-44a6-ad7e-1edc5ea837d1"
   },
   "01da8934-d3e3-4ebb-beb9-681b3c24fb9c": {
@@ -361,6 +365,21 @@
    "title": "Manager, Sales Development, EMEA",
    "url": "https://jobs.ashbyhq.com/harvey/0cc0c934-ce13-483b-8a11-99583d7908a1"
   },
+  "0d4cd334-10fc-45f1-b462-c549379c07a2": {
+   "closed_at": null,
+   "department": "Transformation Office",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "transformation advisory lead talent learning @ new york",
+   "location": "New York",
+   "posted_at": "2026-10-29T18:52:33+00:00",
+   "posted_history": [
+    "2026-10-29T18:52:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Transformation Advisory Lead, Talent & Learning",
+   "url": "https://jobs.ashbyhq.com/harvey/0d4cd334-10fc-45f1-b462-c549379c07a2"
+  },
   "0d510c8b-f95b-4ae2-95e9-c77aa385fc25": {
    "closed_at": null,
    "department": "IT",
@@ -390,6 +409,21 @@
    "reopened": 0,
    "title": "Enterprise Customer Success Manager",
    "url": "https://jobs.ashbyhq.com/harvey/0d750bf9-d3f2-4816-9e28-23d12a0ef2e2"
+  },
+  "0f28d396-8240-4caf-a8aa-18bb8c6d35bf": {
+   "closed_at": null,
+   "department": "Design",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "staff brand designer @ new york",
+   "location": "New York",
+   "posted_at": "2026-10-29T22:35:17+00:00",
+   "posted_history": [
+    "2026-10-29T22:35:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Brand Designer",
+   "url": "https://jobs.ashbyhq.com/harvey/0f28d396-8240-4caf-a8aa-18bb8c6d35bf"
   },
   "0fd353e8-616d-44f4-b93a-bed92f15b043": {
    "closed_at": null,
@@ -450,6 +484,21 @@
    "reopened": 0,
    "title": "Staff Software Engineer, Production Engineering",
    "url": "https://jobs.ashbyhq.com/harvey/11571c63-2fc5-41ce-b855-c949ead5efca"
+  },
+  "11db9001-3c62-4058-8822-ab384213a806": {
+   "closed_at": null,
+   "department": "Customer Experience",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "manager learning certification architecture @ chicago",
+   "location": "Chicago",
+   "posted_at": "2026-10-29T11:21:49+00:00",
+   "posted_history": [
+    "2026-10-29T11:21:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Learning & Certification Architecture",
+   "url": "https://jobs.ashbyhq.com/harvey/11db9001-3c62-4058-8822-ab384213a806"
   },
   "1207bcdf-6186-4f54-ac4d-d0575ed6459a": {
    "closed_at": null,
@@ -578,14 +627,14 @@
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "frontend platform engineer @ san francisco",
+   "fp": "staff frontend platform engineer @ san francisco",
    "location": "San Francisco",
    "posted_at": "2026-07-31T16:29:30+00:00",
    "posted_history": [
     "2026-07-31T16:29:30+00:00"
    ],
    "reopened": 0,
-   "title": "Frontend Platform Engineer",
+   "title": "Staff Frontend Platform Engineer",
    "url": "https://jobs.ashbyhq.com/harvey/19db4c0a-8883-43c3-b667-60463098feb2"
   },
   "19f859d7-1565-4ca3-a9df-ceea73fba678": {
@@ -775,9 +824,10 @@
    "first_seen": "2026-10-22T08:55:54+00:00",
    "fp": "technical cx specialist emea @ dublin",
    "location": "Dublin",
-   "posted_at": "2026-10-21T09:15:32+00:00",
+   "posted_at": "2026-10-29T17:19:04+00:00",
    "posted_history": [
-    "2026-10-21T09:15:32+00:00"
+    "2026-10-21T09:15:32+00:00",
+    "2026-10-29T17:19:04+00:00"
    ],
    "reopened": 0,
    "title": "Technical CX Specialist, EMEA",
@@ -904,6 +954,21 @@
    "title": "Senior Frontend Platform Engineer",
    "url": "https://jobs.ashbyhq.com/harvey/24f9a3fa-476a-490f-87bf-e8cebb7b3928"
   },
+  "264aac9e-3f8d-402f-a33b-04d2fe1e16be": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "member of technical staff infrastructure @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-10-29T22:42:57+00:00",
+   "posted_history": [
+    "2026-10-29T22:42:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff, Infrastructure",
+   "url": "https://jobs.ashbyhq.com/harvey/264aac9e-3f8d-402f-a33b-04d2fe1e16be"
+  },
   "26b1c092-b466-47b6-9493-402eed406b7a": {
    "closed_at": null,
    "department": "Human Resources",
@@ -918,6 +983,21 @@
    "reopened": 0,
    "title": "Workplace Specialist",
    "url": "https://jobs.ashbyhq.com/harvey/26b1c092-b466-47b6-9493-402eed406b7a"
+  },
+  "27e13512-0e66-4e1a-8048-c3786926c830": {
+   "closed_at": null,
+   "department": "Transformation Office",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "transformation advisory lead talent learning @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-10-29T18:52:45+00:00",
+   "posted_history": [
+    "2026-10-29T18:52:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Transformation Advisory Lead, Talent & Learning",
+   "url": "https://jobs.ashbyhq.com/harvey/27e13512-0e66-4e1a-8048-c3786926c830"
   },
   "2807b46b-3ea5-43e2-94ea-4e6cdc6d4bb2": {
    "closed_at": null,
@@ -1264,6 +1344,21 @@
    "reopened": 0,
    "title": "Senior Solutions Architect, Sydney",
    "url": "https://jobs.ashbyhq.com/harvey/3661244b-b411-429b-bafa-631eb5e274a0"
+  },
+  "37050642-ee74-457a-829c-ea7e77ec3cfc": {
+   "closed_at": null,
+   "department": "Go to Market",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "account executive mid market mexico @ mexico",
+   "location": "Mexico",
+   "posted_at": "2026-10-30T01:03:18+00:00",
+   "posted_history": [
+    "2026-10-30T01:03:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, Mid-Market - Mexico",
+   "url": "https://jobs.ashbyhq.com/harvey/37050642-ee74-457a-829c-ea7e77ec3cfc"
   },
   "377fcb88-cbf6-493f-8440-92708f4c9931": {
    "closed_at": null,
@@ -1612,6 +1707,21 @@
    "title": "Technical Program Manager, Platform & Infrastructure",
    "url": "https://jobs.ashbyhq.com/harvey/467049ce-b5ea-4063-95aa-71c9742768d5"
   },
+  "46912896-5a97-4955-ae27-1b110b3487ec": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "member of technical staff data evals @ new york",
+   "location": "New York",
+   "posted_at": "2026-10-29T22:43:40+00:00",
+   "posted_history": [
+    "2026-10-29T22:43:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff, Data & Evals",
+   "url": "https://jobs.ashbyhq.com/harvey/46912896-5a97-4955-ae27-1b110b3487ec"
+  },
   "46ca5e0d-20c3-44e6-b30e-09eac08726ab": {
    "closed_at": null,
    "department": "Go to Market",
@@ -1752,14 +1862,14 @@
    "department": "Recruiting",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
-   "fp": "recruiting operations manager emea @ london",
+   "fp": "recruiting operations generalist emea @ london",
    "location": "London",
    "posted_at": "2026-10-26T22:48:09+00:00",
    "posted_history": [
     "2026-10-26T22:48:09+00:00"
    ],
    "reopened": 0,
-   "title": "Recruiting Operations Manager, EMEA",
+   "title": "Recruiting Operations Generalist, EMEA",
    "url": "https://jobs.ashbyhq.com/harvey/4d0741ce-847d-4b4c-ae11-71fba872a04d"
   },
   "4d661139-19ad-42af-9f6c-a68c71263e14": {
@@ -1857,14 +1967,14 @@
    "department": "Business Development",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "partner program lead @ san francisco",
+   "fp": "partner programs manager @ san francisco",
    "location": "San Francisco",
    "posted_at": "2026-06-24T18:17:59+00:00",
    "posted_history": [
     "2026-06-24T18:17:59+00:00"
    ],
    "reopened": 0,
-   "title": "Partner Program Lead",
+   "title": "Partner Programs Manager",
    "url": "https://jobs.ashbyhq.com/harvey/51f9f397-c7ca-4b4f-a8f1-f5ff17076503"
   },
   "523ecfb5-63ed-4ca6-801e-bad3ab441e76": {
@@ -2152,6 +2262,21 @@
    "title": "Accounts Receivable Manager",
    "url": "https://jobs.ashbyhq.com/harvey/5d2e22a2-f9db-4baa-8398-38f3e52067fc"
   },
+  "5d4531c4-0901-4543-b663-aa8bf8ce2aa0": {
+   "closed_at": null,
+   "department": "Transformation Office",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "transformation advisory lead talent learning @ dallas",
+   "location": "Dallas",
+   "posted_at": "2026-10-29T18:52:58+00:00",
+   "posted_history": [
+    "2026-10-29T18:52:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Transformation Advisory Lead, Talent & Learning",
+   "url": "https://jobs.ashbyhq.com/harvey/5d4531c4-0901-4543-b663-aa8bf8ce2aa0"
+  },
   "5d596cb2-2fc9-4862-9fe8-55362cad90a2": {
    "closed_at": null,
    "department": "Customer Experience",
@@ -2228,7 +2353,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/5fc18ede-0043-496c-a928-41acf9fedb51"
   },
   "60701fe8-5640-40fc-b2ce-161eb6a8542b": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "Go to Market",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2247,14 +2372,14 @@
    "department": "Marketing",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "partner marketing manager @ new york",
+   "fp": "senior partner marketing manager @ new york",
    "location": "New York",
    "posted_at": "2026-10-01T18:08:07+00:00",
    "posted_history": [
     "2026-10-01T18:08:07+00:00"
    ],
    "reopened": 0,
-   "title": "Partner Marketing Manager",
+   "title": "Senior Partner Marketing Manager",
    "url": "https://jobs.ashbyhq.com/harvey/6093563c-0c23-4a81-aa6a-b052b734099f"
   },
   "60d3a393-50bc-4f1c-88b7-df6d2507ceda": {
@@ -2512,6 +2637,21 @@
    "title": "Senior Software Engineer, Production Engineering",
    "url": "https://jobs.ashbyhq.com/harvey/6a840e0d-6af8-4ad6-a182-7534ce64e7e2"
   },
+  "6ac97037-a307-4db9-a01f-22198262dbba": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "member of technical staff modeling @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-10-29T22:38:14+00:00",
+   "posted_history": [
+    "2026-10-29T22:38:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff, Modeling",
+   "url": "https://jobs.ashbyhq.com/harvey/6ac97037-a307-4db9-a01f-22198262dbba"
+  },
   "6ad3902b-2888-4c02-913d-de942e807133": {
    "closed_at": null,
    "department": "Engineering",
@@ -2691,6 +2831,21 @@
    "reopened": 0,
    "title": "Legal Engineer (Law Firm, Litigation/Regulatory)",
    "url": "https://jobs.ashbyhq.com/harvey/7103fd26-a5c9-4619-9ecf-e1fca89c0d6b"
+  },
+  "710bcb7e-c80d-4f38-99e9-5e9704a54aaf": {
+   "closed_at": null,
+   "department": "Go to Market",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "sales manager enterprise india @ bengaluru",
+   "location": "Bengaluru",
+   "posted_at": "2026-10-29T17:41:50+00:00",
+   "posted_history": [
+    "2026-10-29T17:41:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales Manager, Enterprise, India",
+   "url": "https://jobs.ashbyhq.com/harvey/710bcb7e-c80d-4f38-99e9-5e9704a54aaf"
   },
   "724731a2-ad58-4cb4-a784-c90386309501": {
    "closed_at": null,
@@ -2874,17 +3029,18 @@
    "url": "https://jobs.ashbyhq.com/harvey/79b98a8b-14cc-4cec-83ff-32969cc0cbfe"
   },
   "7a3b9337-ac67-4255-8db5-08bb3d57541e": {
-   "closed_at": "2026-10-29T10:25:29+00:00",
+   "closed_at": null,
    "department": "Product",
    "evergreen": false,
    "first_seen": "2026-10-28T10:01:46+00:00",
    "fp": "senior product manager admin @ san francisco",
    "location": "San Francisco",
-   "posted_at": "2026-10-27T16:47:17+00:00",
+   "posted_at": "2026-10-29T16:04:53+00:00",
    "posted_history": [
-    "2026-10-27T16:47:17+00:00"
+    "2026-10-27T16:47:17+00:00",
+    "2026-10-29T16:04:53+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Product Manager, Admin",
    "url": "https://jobs.ashbyhq.com/harvey/7a3b9337-ac67-4255-8db5-08bb3d57541e"
   },
@@ -2963,6 +3119,21 @@
    "title": "Staff Software Engineer, Frontend",
    "url": "https://jobs.ashbyhq.com/harvey/7d4d8f8e-8c9b-4105-8136-0dbfe54c3512"
   },
+  "7d5946ab-9b70-4c33-9e0f-cadbf0b892aa": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "member of technical staff infrastructure @ new york",
+   "location": "New York",
+   "posted_at": "2026-10-29T22:42:51+00:00",
+   "posted_history": [
+    "2026-10-29T22:42:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff, Infrastructure",
+   "url": "https://jobs.ashbyhq.com/harvey/7d5946ab-9b70-4c33-9e0f-cadbf0b892aa"
+  },
   "7e7261f2-307d-43ff-a339-cbd2e26d70cd": {
    "closed_at": null,
    "department": "Go to Market",
@@ -2977,6 +3148,21 @@
    "reopened": 0,
    "title": "Legal Engineer (Law Firm, Litigation/Regulatory)",
    "url": "https://jobs.ashbyhq.com/harvey/7e7261f2-307d-43ff-a339-cbd2e26d70cd"
+  },
+  "7e75a1a6-1884-4772-86c2-2ea4d6a7a08d": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "member of technical staff data evals @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-10-29T22:43:44+00:00",
+   "posted_history": [
+    "2026-10-29T22:43:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff, Data & Evals",
+   "url": "https://jobs.ashbyhq.com/harvey/7e75a1a6-1884-4772-86c2-2ea4d6a7a08d"
   },
   "7ef2c12e-dd17-4d8c-a445-bd4ebf559484": {
    "closed_at": null,
@@ -3298,14 +3484,14 @@
    "department": "Business Development",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "partner program lead @ new york",
+   "fp": "partner programs manager @ new york",
    "location": "New York",
    "posted_at": "2026-06-24T18:17:36+00:00",
    "posted_history": [
     "2026-06-24T18:17:36+00:00"
    ],
    "reopened": 0,
-   "title": "Partner Program Lead",
+   "title": "Partner Programs Manager",
    "url": "https://jobs.ashbyhq.com/harvey/8b3d2aef-b604-4c24-9c09-823a3cad984e"
   },
   "8c07cb74-765a-46ea-a0f1-795f45597d79": {
@@ -3352,6 +3538,21 @@
    "reopened": 0,
    "title": "Staff Product Manager",
    "url": "https://jobs.ashbyhq.com/harvey/8d092528-2554-42e4-a68b-67307b48e6aa"
+  },
+  "8d357b3f-43e0-4e30-8dd7-a326a5da96cc": {
+   "closed_at": null,
+   "department": "Design",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "senior product designer @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-10-29T19:32:42+00:00",
+   "posted_history": [
+    "2026-10-29T19:32:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Designer",
+   "url": "https://jobs.ashbyhq.com/harvey/8d357b3f-43e0-4e30-8dd7-a326a5da96cc"
   },
   "8da5efb4-4659-4ff7-aca9-b9a88c040ba3": {
    "closed_at": null,
@@ -3523,14 +3724,14 @@
    "department": "Marketing",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "partner marketing manager @ san francisco",
+   "fp": "senior partner marketing manager @ san francisco",
    "location": "San Francisco",
    "posted_at": "2026-10-01T18:08:44+00:00",
    "posted_history": [
     "2026-10-01T18:08:44+00:00"
    ],
    "reopened": 0,
-   "title": "Partner Marketing Manager",
+   "title": "Senior Partner Marketing Manager",
    "url": "https://jobs.ashbyhq.com/harvey/9515e54b-bae5-414e-a166-9a6231a610a4"
   },
   "953b710f-3c48-4409-ad30-6416da8ed043": {
@@ -3923,6 +4124,21 @@
    "title": "Majors Customer Success Manager",
    "url": "https://jobs.ashbyhq.com/harvey/a8a0c22a-fb05-4eb0-85c2-8ea334058324"
   },
+  "a950ea5d-d1be-491c-b8c3-1c30237aa1bc": {
+   "closed_at": null,
+   "department": "Go to Market",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "legal engineer @ tokyo",
+   "location": "Tokyo",
+   "posted_at": "2026-10-29T17:41:31+00:00",
+   "posted_history": [
+    "2026-10-29T17:41:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Legal Engineer",
+   "url": "https://jobs.ashbyhq.com/harvey/a950ea5d-d1be-491c-b8c3-1c30237aa1bc"
+  },
   "a9ad715e-6724-4ab8-a739-2cec5cd0e61f": {
    "closed_at": null,
    "department": "Customer Experience",
@@ -3967,6 +4183,21 @@
    "reopened": 0,
    "title": "Program Manager, Product Systems and Insights",
    "url": "https://jobs.ashbyhq.com/harvey/aa5babaa-bd03-45d2-beea-c159a8bec305"
+  },
+  "abe946d1-9890-413a-b567-6c68e32f7bb4": {
+   "closed_at": null,
+   "department": "Go to Market",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "legal engineer @ seoul",
+   "location": "Seoul",
+   "posted_at": "2026-10-29T17:42:20+00:00",
+   "posted_history": [
+    "2026-10-29T17:42:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Legal Engineer",
+   "url": "https://jobs.ashbyhq.com/harvey/abe946d1-9890-413a-b567-6c68e32f7bb4"
   },
   "ac029bf4-0abd-434e-911e-fbb22921ace3": {
    "closed_at": null,
@@ -4493,6 +4724,21 @@
    "title": "Workplace Coordinator",
    "url": "https://jobs.ashbyhq.com/harvey/c0449af2-3742-4ece-88d7-75fd076f80e9"
   },
+  "c0823904-f401-4cba-9611-71fd8d0d803e": {
+   "closed_at": null,
+   "department": "Go to Market",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "legal engineer product specialist @ sydney",
+   "location": "Sydney",
+   "posted_at": "2026-10-29T17:41:18+00:00",
+   "posted_history": [
+    "2026-10-29T17:41:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Legal Engineer, Product Specialist",
+   "url": "https://jobs.ashbyhq.com/harvey/c0823904-f401-4cba-9611-71fd8d0d803e"
+  },
   "c0d56938-468a-43dc-b8ec-84f17b04338a": {
    "closed_at": null,
    "department": "Design",
@@ -4787,9 +5033,10 @@
    "first_seen": "2026-10-22T08:55:54+00:00",
    "fp": "technical cx specialist emea @ london",
    "location": "London",
-   "posted_at": "2026-10-21T09:15:09+00:00",
+   "posted_at": "2026-10-29T17:18:59+00:00",
    "posted_history": [
-    "2026-10-21T09:15:09+00:00"
+    "2026-10-21T09:15:09+00:00",
+    "2026-10-29T17:18:59+00:00"
    ],
    "reopened": 0,
    "title": "Technical CX Specialist, EMEA",
@@ -5171,6 +5418,21 @@
    "title": "Senior Technical Recruiter",
    "url": "https://jobs.ashbyhq.com/harvey/db612e13-892d-45c1-b21d-97ca29ab7fa8"
   },
+  "db7a2623-bc3c-4db9-b1e3-500c2622d194": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "member of technical staff modeling @ new york",
+   "location": "New York",
+   "posted_at": "2026-10-29T22:38:07+00:00",
+   "posted_history": [
+    "2026-10-29T22:38:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff, Modeling",
+   "url": "https://jobs.ashbyhq.com/harvey/db7a2623-bc3c-4db9-b1e3-500c2622d194"
+  },
   "dbd9a156-a841-42a0-a3e5-beed8de60a7c": {
    "closed_at": null,
    "department": "Engineering",
@@ -5351,6 +5613,21 @@
    "title": "Account Executive, Mid-Market",
    "url": "https://jobs.ashbyhq.com/harvey/e25c329d-178a-47fa-9278-becd45d9fba3"
   },
+  "e293b2cc-4269-4009-be34-850b000ef6c5": {
+   "closed_at": null,
+   "department": "Design",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "staff brand designer @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-10-29T22:35:07+00:00",
+   "posted_history": [
+    "2026-10-29T22:35:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Brand Designer",
+   "url": "https://jobs.ashbyhq.com/harvey/e293b2cc-4269-4009-be34-850b000ef6c5"
+  },
   "e2976ecf-f785-4524-8545-bbd519ffdaae": {
    "closed_at": null,
    "department": "Engineering",
@@ -5395,6 +5672,21 @@
    "reopened": 0,
    "title": "Senior Marketing Counsel",
    "url": "https://jobs.ashbyhq.com/harvey/e45ecdab-c619-4918-acd9-5706734bd001"
+  },
+  "e46cea47-7901-4b8d-ad80-ec31223fefed": {
+   "closed_at": null,
+   "department": "Design",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "senior product designer @ new york",
+   "location": "New York",
+   "posted_at": "2026-10-29T19:32:12+00:00",
+   "posted_history": [
+    "2026-10-29T19:32:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Designer",
+   "url": "https://jobs.ashbyhq.com/harvey/e46cea47-7901-4b8d-ad80-ec31223fefed"
   },
   "e5272fbe-4431-4841-bf00-b9f59812b82a": {
    "closed_at": null,
@@ -5500,6 +5792,21 @@
    "reopened": 0,
    "title": "Legal Engineer (Law Firm, Litigation/Regulatory)",
    "url": "https://jobs.ashbyhq.com/harvey/e8dbf438-3086-42af-810e-4f4459cf7400"
+  },
+  "eaf0f789-5d7f-400b-bd48-e398a32f307a": {
+   "closed_at": null,
+   "department": "Design",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "senior product designer @ toronto",
+   "location": "Toronto",
+   "posted_at": "2026-10-29T19:32:24+00:00",
+   "posted_history": [
+    "2026-10-29T19:32:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Designer",
+   "url": "https://jobs.ashbyhq.com/harvey/eaf0f789-5d7f-400b-bd48-e398a32f307a"
   },
   "eb11a622-d435-4c24-946f-c3fdb6fcbbdf": {
    "closed_at": null,
@@ -5636,6 +5943,21 @@
    "reopened": 0,
    "title": "Senior Product Operations Manager, Evaluation Quality",
    "url": "https://jobs.ashbyhq.com/harvey/f0e4e24a-2a7a-4fc4-8872-9a8a762fecf5"
+  },
+  "f10fb9da-676a-4dc6-9d7d-0065490dfd57": {
+   "closed_at": null,
+   "department": "Transformation Office",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "transformation advisory lead talent learning @ chicago",
+   "location": "Chicago",
+   "posted_at": "2026-10-29T18:53:09+00:00",
+   "posted_history": [
+    "2026-10-29T18:53:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Transformation Advisory Lead, Talent & Learning",
+   "url": "https://jobs.ashbyhq.com/harvey/f10fb9da-676a-4dc6-9d7d-0065490dfd57"
   },
   "f1679188-b64e-435c-b0c6-bbcf552bed38": {
    "closed_at": null,
@@ -5929,17 +6251,18 @@
    "first_seen": "2026-10-22T08:55:54+00:00",
    "fp": "account executive enterprise asset management @ munich",
    "location": "Munich",
-   "posted_at": "2026-10-27T18:36:44+00:00",
+   "posted_at": "2026-10-29T18:12:47+00:00",
    "posted_history": [
     "2026-10-21T11:16:06+00:00",
-    "2026-10-27T18:36:44+00:00"
+    "2026-10-27T18:36:44+00:00",
+    "2026-10-29T18:12:47+00:00"
    ],
    "reopened": 0,
    "title": "Account Executive, Enterprise, Asset Management",
    "url": "https://jobs.ashbyhq.com/harvey/fd897fcb-34a0-4f58-9837-9ab76c326d84"
   },
   "fdca1f67-ebd8-4f95-98af-eeab21f083e0": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "Customer Success",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

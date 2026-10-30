@@ -43,6 +43,10 @@
   {
    "date": "2026-10-29",
    "open": 162
+  },
+  {
+   "date": "2026-10-30",
+   "open": 167
   }
  ],
  "jobs": {
@@ -75,6 +79,21 @@
    "reopened": 0,
    "title": "Senior Software Developer, Backend",
    "url": "https://boards.greenhouse.io/robinhood/jobs/5319465?t=gh_src=&gh_jid=5319465"
+  },
+  "5616144": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "software developer data engineering @ toronto, canada",
+   "location": "Toronto, Canada",
+   "posted_at": "2024-01-23T00:26:13+00:00",
+   "posted_history": [
+    "2024-01-23T00:26:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Developer, Data Engineering",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/5616144?t=gh_src=&gh_jid=5616144"
   },
   "6494244": {
    "closed_at": null,
@@ -511,6 +530,21 @@
    "title": "Senior Underwriting Associate",
    "url": "https://boards.greenhouse.io/robinhood/jobs/7979657?t=gh_src=&gh_jid=7979657"
   },
+  "7982640": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "senior android engineer government products @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-06-04T15:57:43+00:00",
+   "posted_history": [
+    "2026-06-04T15:57:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Android Engineer, Government Products",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/7982640?t=gh_src=&gh_jid=7982640"
+  },
   "7982916": {
    "closed_at": null,
    "department": "",
@@ -572,7 +606,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8011599?t=gh_src=&gh_jid=8011599"
   },
   "8027506": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -647,7 +681,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8048650?t=gh_src=&gh_jid=8048650"
   },
   "8049809": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -765,6 +799,21 @@
    "reopened": 0,
    "title": "Technical Accounting Manager, New Product",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8076097?t=gh_src=&gh_jid=8076097"
+  },
+  "8077370": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "senior cloud security engineer @ bellevue, wa; menlo park, ca",
+   "location": "Bellevue, WA; Menlo Park, CA",
+   "posted_at": "2026-08-13T19:12:33+00:00",
+   "posted_history": [
+    "2026-08-13T19:12:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Cloud Security Engineer",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8077370?t=gh_src=&gh_jid=8077370"
   },
   "8077864": {
    "closed_at": "2026-10-28T10:01:46+00:00",
@@ -1382,7 +1431,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8186166?t=gh_src=&gh_jid=8186166"
   },
   "8186282": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2356,6 +2405,21 @@
    "title": "Senior Product Manager, Advisor Marketplace",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8265728?t=gh_src=&gh_jid=8265728"
   },
+  "8265786": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "senior software engineer observability @ menlo park, ca",
+   "location": "Menlo Park, CA",
+   "posted_at": "2026-10-29T17:24:48+00:00",
+   "posted_history": [
+    "2026-10-29T17:24:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Observability",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8265786?t=gh_src=&gh_jid=8265786"
+  },
   "8266107": {
    "closed_at": null,
    "department": "",
@@ -2460,6 +2524,21 @@
    "reopened": 0,
    "title": "Futures Risk Program Manager",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8287392?t=gh_src=&gh_jid=8287392"
+  },
+  "8289327": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "knowledge operational readiness specialist @ denver, co; westlake, tx",
+   "location": "Denver, CO; Westlake, TX",
+   "posted_at": "2026-10-29T20:54:11+00:00",
+   "posted_history": [
+    "2026-10-29T20:54:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Knowledge & Operational Readiness Specialist",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8289327?t=gh_src=&gh_jid=8289327"
   },
   "8289388": {
    "closed_at": null,
@@ -2612,7 +2691,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8305772?t=gh_src=&gh_jid=8305772"
   },
   "8312485": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
@@ -2655,6 +2734,21 @@
    "reopened": 0,
    "title": "Senior iOS Engineer, Crypto Perpetuals",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8319701?t=gh_src=&gh_jid=8319701"
+  },
+  "8324648": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "senior payroll tax specialist @ chicago, il; menlo park, ca; new york, ny",
+   "location": "Chicago, IL; Menlo Park, CA; New York, NY",
+   "posted_at": "2026-10-29T15:20:17+00:00",
+   "posted_history": [
+    "2026-10-29T15:20:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Payroll Tax Specialist",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8324648?t=gh_src=&gh_jid=8324648"
   },
   "8327450": {
    "closed_at": null,
@@ -2715,6 +2809,51 @@
    "reopened": 0,
    "title": "Senior Software Engineer, Capacity & Efficiency",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8331571?t=gh_src=&gh_jid=8331571"
+  },
+  "8332458": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "senior counsel corporate m a @ menlo park, ca; washington, dc",
+   "location": "Menlo Park, CA; Washington, DC",
+   "posted_at": "2026-10-29T19:39:59+00:00",
+   "posted_history": [
+    "2026-10-29T19:39:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Counsel, Corporate & M&A",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8332458?t=gh_src=&gh_jid=8332458"
+  },
+  "8334429": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "senior software engineer ai security @ bellevue, wa; menlo park, ca",
+   "location": "Bellevue, WA; Menlo Park, CA",
+   "posted_at": "2026-10-29T17:52:47+00:00",
+   "posted_history": [
+    "2026-10-29T17:52:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, AI Security",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8334429?t=gh_src=&gh_jid=8334429"
+  },
+  "8335168": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "senior android engineer event contracts @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-10-29T20:31:44+00:00",
+   "posted_history": [
+    "2026-10-29T20:31:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Android Engineer, Event Contracts",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8335168?t=gh_src=&gh_jid=8335168"
   }
  }
 }

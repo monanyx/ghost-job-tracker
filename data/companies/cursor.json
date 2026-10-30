@@ -43,6 +43,10 @@
   {
    "date": "2026-10-29",
    "open": 123
+  },
+  {
+   "date": "2026-10-30",
+   "open": 125
   }
  ],
  "jobs": {
@@ -863,9 +867,10 @@
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "solutions strategy operations manager @ san francisco",
    "location": "San Francisco",
-   "posted_at": "2026-10-19T16:54:04+00:00",
+   "posted_at": "2026-10-29T20:52:22+00:00",
    "posted_history": [
-    "2026-10-19T16:54:04+00:00"
+    "2026-10-19T16:54:04+00:00",
+    "2026-10-29T20:52:22+00:00"
    ],
    "reopened": 0,
    "title": "Solutions Strategy & Operations Manager",
@@ -1517,6 +1522,21 @@
    "title": "RVP,  Strategic Sales, HiTech",
    "url": "https://jobs.ashbyhq.com/cursor/9f1b3e17-4ab5-4d70-acc2-be1d1972b922"
   },
+  "a4e8f126-9761-4a01-ab21-84e20c8b5de9": {
+   "closed_at": null,
+   "department": "Customer Success",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "ai deployment manager australia @ australia",
+   "location": "Australia",
+   "posted_at": "2026-10-30T02:08:16+00:00",
+   "posted_history": [
+    "2026-10-30T02:08:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "AI Deployment Manager - Australia",
+   "url": "https://jobs.ashbyhq.com/cursor/a4e8f126-9761-4a01-ab21-84e20c8b5de9"
+  },
   "a4fcfac1-8bf1-4804-a0fb-0ea97037772e": {
    "closed_at": null,
    "department": "Sales",
@@ -2118,6 +2138,21 @@
    "reopened": 0,
    "title": "Field Engineer, Commercial",
    "url": "https://jobs.ashbyhq.com/cursor/ef96e7fc-5d91-48b2-a8af-26dca8caab77"
+  },
+  "f277b2d6-c27e-4cb9-9d0b-644e9730f06c": {
+   "closed_at": null,
+   "department": "Solutions",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "solutions architect australia @ australia",
+   "location": "Australia",
+   "posted_at": "2026-10-30T02:07:54+00:00",
+   "posted_history": [
+    "2026-10-30T02:07:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Solutions Architect - Australia",
+   "url": "https://jobs.ashbyhq.com/cursor/f277b2d6-c27e-4cb9-9d0b-644e9730f06c"
   },
   "f2cf204b-f469-4997-9508-f218c5869706": {
    "closed_at": null,

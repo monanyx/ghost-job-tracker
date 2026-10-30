@@ -43,6 +43,10 @@
   {
    "date": "2026-10-29",
    "open": 39
+  },
+  {
+   "date": "2026-10-30",
+   "open": 38
   }
  ],
  "jobs": {
@@ -159,9 +163,10 @@
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "agentic engineering platform engineer @ berlin office",
    "location": "Berlin Office",
-   "posted_at": "2026-09-24T17:05:43+00:00",
+   "posted_at": "2026-10-29T16:02:14+00:00",
    "posted_history": [
-    "2026-09-24T17:05:43+00:00"
+    "2026-09-24T17:05:43+00:00",
+    "2026-10-29T16:02:14+00:00"
    ],
    "reopened": 0,
    "title": "Agentic Engineering Platform Engineer",
@@ -544,7 +549,7 @@
    "url": "https://jobs.ashbyhq.com/n8n/b45f4511-fae8-4ea1-ae88-f17d26f13acb"
   },
   "b4b51954-9927-4e8c-9529-cf79739245f8": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

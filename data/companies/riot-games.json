@@ -43,6 +43,10 @@
   {
    "date": "2026-10-29",
    "open": 184
+  },
+  {
+   "date": "2026-10-30",
+   "open": 183
   }
  ],
  "jobs": {
@@ -827,7 +831,7 @@
    "url": "https://www.riotgames.com/en/work-with-us/job/8003927?gh_jid=8003927"
   },
   "8009376": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1607,7 +1611,7 @@
    "url": "https://www.riotgames.com/en/work-with-us/job/8163170?gh_jid=8163170"
   },
   "8163225": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2252,7 +2256,7 @@
    "url": "https://www.riotgames.com/en/work-with-us/job/8244020?gh_jid=8244020"
   },
   "8247935": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2956,6 +2960,21 @@
    "title": "Senior Software Engineer",
    "url": "https://www.riotgames.com/en/work-with-us/job/8316775?gh_jid=8316775"
   },
+  "8316786": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "senior manager machine learning engineering league of legends @ los angeles, usa",
+   "location": "Los Angeles, USA",
+   "posted_at": "2026-10-29T15:37:34+00:00",
+   "posted_history": [
+    "2026-10-29T15:37:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Machine Learning Engineering - League of Legends",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8316786?gh_jid=8316786"
+  },
   "8316790": {
    "closed_at": null,
    "department": "",
@@ -2985,6 +3004,21 @@
    "reopened": 0,
    "title": "Social Media Strategist, League of Legends (12 Month Contract)",
    "url": "https://www.riotgames.com/en/work-with-us/job/8325239?gh_jid=8325239"
+  },
+  "8326548": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "manager application engineering atlassian cloud platform @ los angeles, usa",
+   "location": "Los Angeles, USA",
+   "posted_at": "2026-10-30T03:00:09+00:00",
+   "posted_history": [
+    "2026-10-30T03:00:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Application Engineering - ​​Atlassian Cloud Platform",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8326548?gh_jid=8326548"
   },
   "8331202": {
    "closed_at": null,

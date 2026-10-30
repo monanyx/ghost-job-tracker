@@ -43,6 +43,10 @@
   {
    "date": "2026-10-29",
    "open": 228
+  },
+  {
+   "date": "2026-10-30",
+   "open": 231
   }
  ],
  "jobs": {
@@ -756,14 +760,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior value engineer @ london, united kingdom",
+   "fp": "ai value transformation consultant @ london, united kingdom",
    "location": "London, United Kingdom",
    "posted_at": "2026-06-04T13:34:29+00:00",
    "posted_history": [
     "2026-06-04T13:34:29+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Value Engineer (Supply Chain & Manufacturing)",
+   "title": "AI & Value Transformation Consultant (Supply Chain & Manufacturing)",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7742453003?gh_jid=7742453003"
   },
   "7742457003": {
@@ -771,14 +775,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior value engineer defence government sc cleared @ london, united kingdom",
+   "fp": "ai and value transformation consultant defence government sc cleared @ london, united kingdom",
    "location": "London, United Kingdom",
    "posted_at": "2026-06-05T08:12:22+00:00",
    "posted_history": [
     "2026-06-05T08:12:22+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Value Engineer - Defence & Government - SC cleared",
+   "title": "AI and Value Transformation Consultant - Defence & Government - SC cleared",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7742457003?gh_jid=7742457003"
   },
   "7742463003": {
@@ -1146,14 +1150,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior value engineer banking fs @ london, united kingdom",
+   "fp": "senior value engineer @ london, united kingdom",
    "location": "London, United Kingdom",
    "posted_at": "2026-07-08T14:32:15+00:00",
    "posted_history": [
     "2026-07-08T14:32:15+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Value Engineer - Banking & FS",
+   "title": "Senior Value Engineer - (Banking)",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7798683003?gh_jid=7798683003"
   },
   "7799840003": {
@@ -1427,7 +1431,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7816965003?gh_jid=7816965003"
   },
   "7817240003": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1851,14 +1855,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior applied value engineer @ bangalore, india",
+   "fp": "lead applied value engineer @ bangalore, india",
    "location": "Bangalore, India",
    "posted_at": "2026-08-17T06:49:57+00:00",
    "posted_history": [
     "2026-08-17T06:49:57+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Applied Value Engineer- (Hi-tech)",
+   "title": "Lead Applied Value Engineer- (Hi-tech)",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7852902003?gh_jid=7852902003"
   },
   "7853245003": {
@@ -1877,18 +1881,18 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7853245003?gh_jid=7853245003"
   },
   "7853304003": {
-   "closed_at": "2026-10-24T08:24:32+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior field marketing manager consumer life sciences industries @ raleigh, us, north carolina",
+   "fp": "senior account based marketing manager @ raleigh, us, north carolina",
    "location": "Raleigh, US, North Carolina",
    "posted_at": "2026-08-24T19:58:56+00:00",
    "posted_history": [
     "2026-08-24T19:58:56+00:00"
    ],
-   "reopened": 0,
-   "title": "Senior Field Marketing Manager - Consumer & Life Sciences Industries",
+   "reopened": 1,
+   "title": "Senior Account-Based Marketing (ABM) Manager",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7853304003?gh_jid=7853304003"
   },
   "7853433003": {
@@ -2597,7 +2601,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7995431003?gh_jid=7995431003"
   },
   "7995453003": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2625,6 +2629,21 @@
    "reopened": 0,
    "title": "Senior Applied Value Engineer - High Tech Consulting",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7995461003?gh_jid=7995461003"
+  },
+  "7995493003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "client value partner digital technology @ amsterdam, netherlands",
+   "location": "Amsterdam, Netherlands",
+   "posted_at": "2026-10-29T17:03:54+00:00",
+   "posted_history": [
+    "2026-10-29T17:03:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Client Value Partner - Digital Technology",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/7995493003?gh_jid=7995493003"
   },
   "7995501003": {
    "closed_at": null,
@@ -3571,6 +3590,21 @@
    "title": "Associate Account Executive (Top Talent Sales Program - Lunar) NORDICS",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8037768003?gh_jid=8037768003"
   },
+  "8037780003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "associate account executive benelux @ amsterdam, netherlands",
+   "location": "Amsterdam, Netherlands",
+   "posted_at": "2026-10-29T15:50:33+00:00",
+   "posted_history": [
+    "2026-10-29T15:50:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Associate Account Executive (Top Talent Sales Program - Lunar) BENELUX",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/8037780003?gh_jid=8037780003"
+  },
   "8037803003": {
    "closed_at": null,
    "department": "",
@@ -3691,6 +3725,21 @@
    "title": "Principal Deployment Engineer",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8042510003?gh_jid=8042510003"
   },
+  "8042640003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "enterprise account executive public sector @ madrid, spain",
+   "location": "Madrid, Spain",
+   "posted_at": "2026-10-29T13:16:11+00:00",
+   "posted_history": [
+    "2026-10-29T13:16:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Account Executive Public Sector",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/8042640003?gh_jid=8042640003"
+  },
   "8042925003": {
    "closed_at": null,
    "department": "",
@@ -3705,6 +3754,21 @@
    "reopened": 0,
    "title": "Intern Technology Consultant - Data & AI",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8042925003?gh_jid=8042925003"
+  },
+  "8044261003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "global benefits specialist @ madrid, spain",
+   "location": "Madrid, Spain",
+   "posted_at": "2026-10-29T13:49:35+00:00",
+   "posted_history": [
+    "2026-10-29T13:49:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Global Benefits Specialist",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/8044261003?gh_jid=8044261003"
   },
   "8046331003": {
    "closed_at": null,

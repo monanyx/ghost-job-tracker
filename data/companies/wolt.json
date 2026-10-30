@@ -43,6 +43,10 @@
   {
    "date": "2026-10-29",
    "open": 195
+  },
+  {
+   "date": "2026-10-30",
+   "open": 195
   }
  ],
  "jobs": {
@@ -94,8 +98,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "support associate @ košice, slovakia; slovakia",
-   "location": "Košice, Slovakia; Slovakia",
+   "fp": "support associate @ košice, slovakia",
+   "location": "Košice, Slovakia",
    "posted_at": "2025-04-16T11:42:00+00:00",
    "posted_history": [
     "2025-04-16T11:42:00+00:00"
@@ -345,7 +349,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/6694005"
   },
   "6694009": {
-   "closed_at": "2026-10-23T08:50:35+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -355,7 +359,7 @@
    "posted_history": [
     "2025-03-13T13:21:01+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Grocery Associate (m/w/d)",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/6694009"
   },
@@ -598,7 +602,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/6739407"
   },
   "6739427": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -806,6 +810,21 @@
    "reopened": 0,
    "title": "Partner Sales Manager",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/7481725"
+  },
+  "7483616": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "strategy operations manager @ ramat gan, israel",
+   "location": "Ramat Gan, Israel",
+   "posted_at": "2026-10-29T13:32:28+00:00",
+   "posted_history": [
+    "2026-10-29T13:32:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategy & Operations Manager",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/7483616"
   },
   "7538295": {
    "closed_at": null,
@@ -1753,7 +1772,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8102879"
   },
   "8108549": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1888,7 +1907,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8128034"
   },
   "8132013": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1931,6 +1950,21 @@
    "reopened": 0,
    "title": "Retail Sales Manager / Vertriebsmitarbeiter (m/w/d)",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8138816"
+  },
+  "8141574": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "senior software engineer merchant emea @ berlin, germany; helsinki, finland",
+   "location": "Berlin, Germany; Helsinki, Finland",
+   "posted_at": "2026-08-19T13:51:29+00:00",
+   "posted_history": [
+    "2026-08-19T13:51:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer (Fullstack) - Merchant EMEA",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8141574"
   },
   "8143154": {
    "closed_at": null,
@@ -2008,7 +2042,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8156191"
   },
   "8156313": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2102,8 +2136,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "consumer growth strategy manager emea @ berlin, germany; frankfurt am main, germany; munich, germany",
-   "location": "Berlin, Germany; Frankfurt am Main, Germany; Munich, Germany",
+   "fp": "consumer growth strategy manager emea @ london, united kingdom",
+   "location": "London, United Kingdom",
    "posted_at": "2026-09-01T08:07:29+00:00",
    "posted_history": [
     "2026-09-01T08:07:29+00:00"
@@ -2207,8 +2241,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "associate operations manager supply acquisition activation @ bratislava, slovakia; warsaw, poland; wien, austria; zagreb, croatia",
-   "location": "Bratislava, Slovakia; Warsaw, Poland; Wien, Austria; Zagreb, Croatia",
+   "fp": "associate operations manager supply acquisition activation @ zagreb, croatia",
+   "location": "Zagreb, Croatia",
    "posted_at": "2026-09-04T15:55:04+00:00",
    "posted_history": [
     "2026-09-04T15:55:04+00:00"
@@ -2413,7 +2447,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8194809"
   },
   "8200882": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2758,7 +2792,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8232977"
   },
   "8232982": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2983,7 +3017,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8255970"
   },
   "8256019": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3017,8 +3051,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-20T08:53:12+00:00",
-   "fp": "platform hiring specialist high volume hiring team @ belgrade, serbia; bratislava, slovakia; prague, czechia",
-   "location": "Belgrade, Serbia; Bratislava, Slovakia; Prague, Czechia",
+   "fp": "platform hiring specialist high volume hiring team @ belgrade, serbia; prague, czechia",
+   "location": "Belgrade, Serbia; Prague, Czechia",
    "posted_at": "2026-10-20T06:54:08+00:00",
    "posted_history": [
     "2026-10-20T06:54:08+00:00"
@@ -3283,7 +3317,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8281238"
   },
   "8282183": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3407,8 +3441,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
-   "fp": "menu growth senior specialist @ athens, greece; belgrade, serbia; bratislava, slovakia; budapest, hungary; warsaw, poland; zagreb, croatia",
-   "location": "Athens, Greece; Belgrade, Serbia; Bratislava, Slovakia; Budapest, Hungary; Warsaw, Poland; Zagreb, Croatia",
+   "fp": "menu growth senior specialist @ athens, greece; belgrade, serbia; bratislava, slovakia; budapest, hungary; zagreb, croatia",
+   "location": "Athens, Greece; Belgrade, Serbia; Bratislava, Slovakia; Budapest, Hungary; Zagreb, Croatia",
    "posted_at": "2026-10-22T14:04:40+00:00",
    "posted_history": [
     "2026-10-22T14:04:40+00:00"
@@ -3416,6 +3450,21 @@
    "reopened": 0,
    "title": "Menu Growth Senior Specialist",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8306176"
+  },
+  "8306531": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "account manager @ limassol, cyprus",
+   "location": "Limassol, Cyprus",
+   "posted_at": "2026-10-29T12:22:00+00:00",
+   "posted_history": [
+    "2026-10-29T12:22:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Manager",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8306531"
   },
   "8314175": {
    "closed_at": null,
@@ -3493,7 +3542,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8317769"
   },
   "8318099": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-26T09:22:13+00:00",
@@ -3658,7 +3707,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8330826"
   },
   "8331491": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
@@ -3686,6 +3735,96 @@
    "reopened": 0,
    "title": "Team lead, People Services",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8331625"
+  },
+  "8334064": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "commerce platform sales manager @ oslo, norway",
+   "location": "OSLO, Norway",
+   "posted_at": "2026-10-29T17:39:16+00:00",
+   "posted_history": [
+    "2026-10-29T17:39:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Commerce Platform Sales Manager",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8334064"
+  },
+  "8334625": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "menu growth senior specialist @ warsaw, poland",
+   "location": "Warsaw, Poland",
+   "posted_at": "2026-10-29T17:31:54+00:00",
+   "posted_history": [
+    "2026-10-29T17:31:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Menu Growth Senior Specialist",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8334625"
+  },
+  "8334636": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "associate operations manager supply acquisition activation @ warsaw, poland",
+   "location": "Warsaw, Poland",
+   "posted_at": "2026-10-29T17:36:49+00:00",
+   "posted_history": [
+    "2026-10-29T17:36:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Associate Operations Manager, Supply Acquisition & Activation",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8334636"
+  },
+  "8334683": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "platform hiring specialist high volume hiring team @ bratislava, slovakia",
+   "location": "Bratislava, Slovakia",
+   "posted_at": "2026-10-29T17:54:52+00:00",
+   "posted_history": [
+    "2026-10-29T17:54:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "Platform Hiring Specialist (Czech & Slovak speaking) – High-Volume Hiring Team (FTC 1 year)",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8334683"
+  },
+  "8334693": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "associate operations manager supply acquisition activation @ bratislava, slovakia",
+   "location": "Bratislava, Slovakia",
+   "posted_at": "2026-10-29T17:57:06+00:00",
+   "posted_history": [
+    "2026-10-29T17:57:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "Associate Operations Manager, Supply Acquisition & Activation",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8334693"
+  },
+  "8334723": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "associate operations manager supply acquisition activation @ wien, austria",
+   "location": "Wien, Austria",
+   "posted_at": "2026-10-29T18:10:33+00:00",
+   "posted_history": [
+    "2026-10-29T18:10:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Associate Operations Manager, Supply Acquisition & Activation",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8334723"
   }
  }
 }

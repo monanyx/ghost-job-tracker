@@ -43,6 +43,10 @@
   {
    "date": "2026-10-29",
    "open": 242
+  },
+  {
+   "date": "2026-10-30",
+   "open": 241
   }
  ],
  "jobs": {
@@ -707,7 +711,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7806681003"
   },
   "7806683003": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -722,7 +726,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7806683003"
   },
   "7806685003": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1397,7 +1401,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7832318003"
   },
   "7832324003": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1412,7 +1416,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7832324003"
   },
   "7832326003": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2976,14 +2980,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
-   "fp": "software engineer early career @ london",
+   "fp": "software engineer i early career @ london",
    "location": "London",
    "posted_at": "2026-10-12T08:43:12+00:00",
    "posted_history": [
     "2026-10-12T08:43:12+00:00"
    ],
    "reopened": 0,
-   "title": "Software Engineer, Early Career (London)",
+   "title": "Software Engineer I, Early Career (London)",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8011718003"
   },
   "8012043003": {
@@ -3691,6 +3695,21 @@
    "title": "Analyst, Early Career (Full Stack)",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8039471003"
   },
+  "8039805003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "senior software engineer backend @ remote uk",
+   "location": "Remote UK",
+   "posted_at": "2026-10-30T08:57:46+00:00",
+   "posted_history": [
+    "2026-10-30T08:57:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Backend (International)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8039805003"
+  },
   "8040267003": {
    "closed_at": null,
    "department": "",
@@ -3707,7 +3726,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8040267003"
   },
   "8040269003": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
@@ -3826,6 +3845,21 @@
    "title": "Software Engineer II - CIAM",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8040753003"
   },
+  "8040790003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "customer operations associate i @ remote us",
+   "location": "Remote US",
+   "posted_at": "2026-10-30T09:20:32+00:00",
+   "posted_history": [
+    "2026-10-30T09:20:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Operations Associate I",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8040790003"
+  },
   "8040794003": {
    "closed_at": null,
    "department": "",
@@ -3900,6 +3934,21 @@
    "reopened": 0,
    "title": "Senior Manager, Technical Recruiting",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8041662003"
+  },
+  "8041815003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "senior software engineer backend @ remote uk",
+   "location": "Remote UK",
+   "posted_at": "2026-10-30T09:16:32+00:00",
+   "posted_history": [
+    "2026-10-30T09:16:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Backend (Payments)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8041815003"
   },
   "8041930003": {
    "closed_at": null,
@@ -4005,6 +4054,21 @@
    "reopened": 0,
    "title": "Staff Machine Learning Engineer (Credit International ML)",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8045395003"
+  },
+  "8098803003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "staff software engineer backend @ remote canada",
+   "location": "Remote Canada",
+   "posted_at": "2026-10-30T07:35:41+00:00",
+   "posted_history": [
+    "2026-10-30T07:35:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer, Backend (Observability)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8098803003"
   }
  }
 }

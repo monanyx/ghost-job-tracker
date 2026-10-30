@@ -43,6 +43,10 @@
   {
    "date": "2026-10-29",
    "open": 404
+  },
+  {
+   "date": "2026-10-30",
+   "open": 402
   }
  ],
  "jobs": {
@@ -171,14 +175,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-28T10:01:46+00:00",
-   "fp": "principal solutions architect security @ delhi, india",
+   "fp": "principal solutions architect @ delhi, india",
    "location": "Delhi, India",
    "posted_at": "2026-02-20T07:45:46+00:00",
    "posted_history": [
     "2026-02-20T07:45:46+00:00"
    ],
    "reopened": 0,
-   "title": "Principal Solutions Architect, Security",
+   "title": "Principal Solutions Architect",
    "url": "https://jobs.elastic.co/jobs?gh_jid=7621743&gh_jid=7621743"
   },
   "7712221": {
@@ -1021,6 +1025,21 @@
    "title": "Mid Market Account Executive, Pursuit",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8048319&gh_jid=8048319"
   },
+  "8053209": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "sales operations analyst public sector @ united states",
+   "location": "United States",
+   "posted_at": "2026-07-13T17:17:43+00:00",
+   "posted_history": [
+    "2026-07-13T17:17:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales Operations Analyst - Public Sector",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8053209&gh_jid=8053209"
+  },
   "8053886": {
    "closed_at": null,
    "department": "",
@@ -1052,7 +1071,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8053891&gh_jid=8053891"
   },
   "8053903": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1200,6 +1219,21 @@
    "reopened": 0,
    "title": "Snr Solutions Architect",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8067195&gh_jid=8067195"
+  },
+  "8067200": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "inside account executive @ barcelona, spain",
+   "location": "Barcelona, Spain",
+   "posted_at": "2026-07-30T08:27:59+00:00",
+   "posted_history": [
+    "2026-07-30T08:27:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Inside Account Executive (French speaking)",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8067200&gh_jid=8067200"
   },
   "8068023": {
    "closed_at": null,
@@ -3662,7 +3696,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8176627&gh_jid=8176627"
   },
   "8177115": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4097,7 +4131,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8207939&gh_jid=8207939"
   },
   "8207941": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4187,7 +4221,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8214345&gh_jid=8214345"
   },
   "8214702": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

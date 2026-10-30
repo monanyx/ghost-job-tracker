@@ -43,6 +43,10 @@
   {
    "date": "2026-10-29",
    "open": 371
+  },
+  {
+   "date": "2026-10-30",
+   "open": 369
   }
  ],
  "jobs": {
@@ -546,14 +550,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "account development representative @ boston",
+   "fp": "enterprise sales development representative @ boston",
    "location": "Boston",
    "posted_at": "2025-10-22T21:08:00+00:00",
    "posted_history": [
     "2025-10-22T21:08:00+00:00"
    ],
    "reopened": 0,
-   "title": "Account Development Representative",
+   "title": "Enterprise Sales Development Representative",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=7310552"
   },
   "7311204": {
@@ -1682,7 +1686,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=7974991"
   },
   "7975695": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1937,7 +1941,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8020464"
   },
   "8020483": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3827,7 +3831,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8167173"
   },
   "8168951": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3902,7 +3906,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8170634"
   },
   "8172166": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4232,7 +4236,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8180129"
   },
   "8181144": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4562,7 +4566,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8205340"
   },
   "8205425": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5101,8 +5105,23 @@
    "title": "Senior Enterprise Account Executive, Growth",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8229703"
   },
-  "8229891": {
+  "8229848": {
    "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "senior software engineer @ gurugram",
+   "location": "Gurugram",
+   "posted_at": "2026-10-29T22:04:18+00:00",
+   "posted_history": [
+    "2026-10-29T22:04:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8229848"
+  },
+  "8229891": {
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5655,6 +5674,21 @@
    "reopened": 0,
    "title": "Enterprise Account Executive",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8260947"
+  },
+  "8262052": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "senior enterprise account executive acquisition @ tokyo",
+   "location": "Tokyo",
+   "posted_at": "2026-10-30T08:38:47+00:00",
+   "posted_history": [
+    "2026-10-30T08:38:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Enterprise Account Executive, Acquisition",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8262052"
   },
   "8262077": {
    "closed_at": null,
@@ -6216,14 +6250,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
-   "fp": "software engineer 3 @ dublin, ireland",
+   "fp": "software engineer 3 query optimization @ dublin, ireland",
    "location": "Dublin, Ireland",
    "posted_at": "2026-10-23T11:37:23+00:00",
    "posted_history": [
     "2026-10-23T11:37:23+00:00"
    ],
    "reopened": 0,
-   "title": "Software Engineer 3",
+   "title": "Software Engineer 3, Query Optimization",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8286403"
   },
   "8287148": {
@@ -6571,6 +6605,21 @@
    "title": "Senior Software Engineer",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8323897"
   },
+  "8325493": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "manager product ai builder experience @ dublin, ireland",
+   "location": "Dublin, Ireland",
+   "posted_at": "2026-10-29T15:06:49+00:00",
+   "posted_history": [
+    "2026-10-29T15:06:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Product - AI Builder Experience",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8325493"
+  },
   "8327081": {
    "closed_at": null,
    "department": "",
@@ -6585,6 +6634,36 @@
    "reopened": 0,
    "title": "Product Manager 2, Source2Pay",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8327081"
+  },
+  "8328176": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "senior product manager developer and agentic experience @ dublin",
+   "location": "Dublin",
+   "posted_at": "2026-10-29T15:07:11+00:00",
+   "posted_history": [
+    "2026-10-29T15:07:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Manager, Developer and Agentic Experience",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8328176"
+  },
+  "8328622": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "financial analyst p t @ new york city",
+   "location": "New York City",
+   "posted_at": "2026-10-29T13:39:35+00:00",
+   "posted_history": [
+    "2026-10-29T13:39:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Financial Analyst, P&T",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8328622"
   },
   "8328627": {
    "closed_at": null,

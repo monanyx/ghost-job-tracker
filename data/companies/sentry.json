@@ -43,6 +43,10 @@
   {
    "date": "2026-10-29",
    "open": 42
+  },
+  {
+   "date": "2026-10-30",
+   "open": 41
   }
  ],
  "jobs": {
@@ -497,7 +501,7 @@
    "url": "https://jobs.ashbyhq.com/sentry/bc431cdf-7f32-4b9f-ac3e-9b0f660e6eb2"
   },
   "bd787a06-bb6c-41e6-8a6e-06362fe776b2": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "Engineering ",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -527,7 +531,7 @@
    "url": "https://jobs.ashbyhq.com/sentry/bf150464-a7bc-4357-beb7-341535538370"
   },
   "c00e77f5-bd58-49da-b4a8-3b6249529747": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "Engineering ",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -720,6 +724,21 @@
    "reopened": 0,
    "title": "Senior Software Engineer, Billing Platform",
    "url": "https://jobs.ashbyhq.com/sentry/f7b4f37b-4293-433d-910e-9033bf10d6d4"
+  },
+  "f9f3c913-26ef-45a2-a77f-79ae473c1a85": {
+   "closed_at": null,
+   "department": "Engineering ",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "engineering manager data platform @ san francisco, california",
+   "location": "San Francisco, California",
+   "posted_at": "2026-10-29T14:10:01+00:00",
+   "posted_history": [
+    "2026-10-29T14:10:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager, Data Platform",
+   "url": "https://jobs.ashbyhq.com/sentry/f9f3c913-26ef-45a2-a77f-79ae473c1a85"
   },
   "fa522ac5-fc9f-4ce1-a191-842496a235a2": {
    "closed_at": null,

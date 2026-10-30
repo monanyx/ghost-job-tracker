@@ -43,6 +43,10 @@
   {
    "date": "2026-10-29",
    "open": 177
+  },
+  {
+   "date": "2026-10-30",
+   "open": 173
   }
  ],
  "jobs": {
@@ -737,7 +741,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8689127002?gh_jid=8689127002"
   },
   "8689228002": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1502,7 +1506,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8790686002?gh_jid=8790686002"
   },
   "8790689002": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2702,7 +2706,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8894912002?gh_jid=8894912002"
   },
   "8896654002": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2717,7 +2721,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8896654002?gh_jid=8896654002"
   },
   "8896666002": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2732,7 +2736,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8896666002?gh_jid=8896666002"
   },
   "8896671002": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2747,7 +2751,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8896671002?gh_jid=8896671002"
   },
   "8896675002": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2762,7 +2766,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8896675002?gh_jid=8896675002"
   },
   "8896679002": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2777,7 +2781,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8896679002?gh_jid=8896679002"
   },
   "8896685002": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3122,7 +3126,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8909213002?gh_jid=8909213002"
   },
   "8909350002": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
@@ -3150,6 +3154,21 @@
    "reopened": 0,
    "title": "Fleet Operations Lead",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8910495002?gh_jid=8910495002"
+  },
+  "8916920002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "influencer manager social culture @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-10-29T22:50:25+00:00",
+   "posted_history": [
+    "2026-10-29T22:50:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Influencer Manager, Social & Culture",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8916920002?gh_jid=8916920002"
   },
   "8916924002": {
    "closed_at": null,
@@ -3226,6 +3245,21 @@
    "title": "Senior Payroll Accountant",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8921758002?gh_jid=8921758002"
   },
+  "8921760002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "engineering manager developer environments @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-10-29T16:23:03+00:00",
+   "posted_history": [
+    "2026-10-29T16:23:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager, Developer Environments",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8921760002?gh_jid=8921760002"
+  },
   "8921966002": {
    "closed_at": null,
    "department": "",
@@ -3270,6 +3304,51 @@
    "reopened": 0,
    "title": "Internal Communications Senior Manager",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8922198002?gh_jid=8922198002"
+  },
+  "8922700002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "director bid strategy pricing @ montreal, canada",
+   "location": "Montreal, Canada",
+   "posted_at": "2026-10-29T19:13:36+00:00",
+   "posted_history": [
+    "2026-10-29T19:13:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Director, Bid Strategy & Pricing",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8922700002?gh_jid=8922700002"
+  },
+  "8923592002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "software engineer ai entries @ toronto, canada",
+   "location": "Toronto, Canada",
+   "posted_at": "2026-10-29T15:38:07+00:00",
+   "posted_history": [
+    "2026-10-29T15:38:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, AI Entries",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8923592002?gh_jid=8923592002"
+  },
+  "8923735002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "directeur appels d offres strat gie et tarification @ montreal, canada",
+   "location": "Montreal, Canada",
+   "posted_at": "2026-10-29T19:13:32+00:00",
+   "posted_history": [
+    "2026-10-29T19:13:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Directeur(trice), Appels d'offres, Stratégie et tarification",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8923735002?gh_jid=8923735002"
   }
  }
 }

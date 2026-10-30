@@ -43,6 +43,10 @@
   {
    "date": "2026-10-29",
    "open": 231
+  },
+  {
+   "date": "2026-10-30",
+   "open": 236
   }
  ],
  "jobs": {
@@ -66,8 +70,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "engineering manager sscs supply chain @ bangalore, india; remote, canada; remote, israel; remote, poland; remote, united kingdom; remote, united states",
-   "location": "Bangalore, India; Remote, Canada; Remote, Israel; Remote, Poland; Remote, United Kingdom; Remote, United States",
+   "fp": "engineering manager sscs supply chain @ bangalore, india; remote ireland; remote, canada; remote, israel; remote, poland; remote, united kingdom; remote, united states",
+   "location": "Bangalore, India; Remote Ireland; Remote, Canada; Remote, Israel; Remote, Poland; Remote, United Kingdom; Remote, United States",
    "posted_at": "2026-03-27T20:29:49+00:00",
    "posted_history": [
     "2026-03-27T20:29:49+00:00"
@@ -156,8 +160,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "business development representative @ remote, france; remote, ireland; remote, spain; remote, united kingdom",
-   "location": "Remote, France; Remote, Ireland; Remote, Spain; Remote, United Kingdom",
+   "fp": "business development representative @ remote, ireland; remote, spain; remote, united kingdom",
+   "location": "Remote, Ireland; Remote, Spain; Remote, United Kingdom",
    "posted_at": "2026-05-01T15:28:37+00:00",
    "posted_history": [
     "2026-05-01T15:28:37+00:00"
@@ -1007,7 +1011,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8698330002"
   },
   "8700245002": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1442,7 +1446,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8753664002"
   },
   "8755524002": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1876,6 +1880,21 @@
    "title": "Engineering Manager",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8799044002"
   },
+  "8800489002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "staff site reliability engineer environment automation @ bangalore, india",
+   "location": "Bangalore, India",
+   "posted_at": "2026-09-18T13:47:37+00:00",
+   "posted_history": [
+    "2026-09-18T13:47:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Site Reliability Engineer, Environment Automation",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8800489002"
+  },
   "8802261002": {
    "closed_at": null,
    "department": "",
@@ -2267,7 +2286,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8845277002"
   },
   "8845322002": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2503,7 +2522,7 @@
     "2026-10-05T19:24:21+00:00"
    ],
    "reopened": 0,
-   "title": "Support Engineer, U.S. Government Support",
+   "title": "Support Engineer, U.S. Government Support (SHIFT)",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8859063002"
   },
   "8859224002": {
@@ -3126,14 +3145,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
-   "fp": "business development representative german speaking uk i @ remote ireland; remote, united kingdom",
-   "location": "Remote Ireland; Remote, United Kingdom",
+   "fp": "business development representative german speaking @ remote ireland; remote, spain; remote, united kingdom",
+   "location": "Remote Ireland; Remote, Spain; Remote, United Kingdom",
    "posted_at": "2026-10-07T17:32:58+00:00",
    "posted_history": [
     "2026-10-07T17:32:58+00:00"
    ],
    "reopened": 0,
-   "title": "Business Development Representative, German Speaking - UK/I",
+   "title": "Business Development Representative, German Speaking",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8872457002"
   },
   "8872500002": {
@@ -3351,8 +3370,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "business development representative italian speaking @ remote ireland; remote, france; remote, spain; remote, united kingdom",
-   "location": "Remote Ireland; Remote, France; Remote, Spain; Remote, United Kingdom",
+   "fp": "business development representative italian speaking @ remote ireland; remote, spain; remote, united kingdom",
+   "location": "Remote Ireland; Remote, Spain; Remote, United Kingdom",
    "posted_at": "2026-10-15T15:01:26+00:00",
    "posted_history": [
     "2026-10-15T15:01:26+00:00"
@@ -3751,6 +3770,21 @@
    "title": "Strategic Account Executive - AI, San Francisco",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8895523002"
   },
+  "8895702002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "regional sales director financial services nyc @ remote, united states",
+   "location": "Remote, United States",
+   "posted_at": "2026-10-29T13:19:59+00:00",
+   "posted_history": [
+    "2026-10-29T13:19:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Regional Sales Director, Financial Services - NYC",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8895702002"
+  },
   "8896290002": {
    "closed_at": null,
    "department": "",
@@ -3976,6 +4010,36 @@
    "title": "Intermediate Fullstack Engineer (Ruby/Vue.js), Growth",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8911684002"
   },
+  "8912709002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "backend engineer source code repository services @ remote, united kingdom",
+   "location": "Remote, United Kingdom",
+   "posted_at": "2026-10-29T18:56:06+00:00",
+   "posted_history": [
+    "2026-10-29T18:56:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "Backend Engineer, Source Code: Repository Services (Ruby)",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8912709002"
+  },
+  "8913412002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "recruiter sales @ remote, australia; remote, singapore",
+   "location": "Remote, Australia; Remote, Singapore",
+   "posted_at": "2026-10-29T19:09:22+00:00",
+   "posted_history": [
+    "2026-10-29T19:09:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Recruiter, Sales (APJ)",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8913412002"
+  },
   "8916232002": {
    "closed_at": null,
    "department": "",
@@ -4021,6 +4085,21 @@
    "title": "Senior Assigned Support Engineer-(Designated / Premier Support)",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8918853002"
   },
+  "8919962002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "senior executive assistant @ remote, united states",
+   "location": "Remote, United States",
+   "posted_at": "2026-10-29T17:20:05+00:00",
+   "posted_history": [
+    "2026-10-29T17:20:05+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Executive Assistant",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8919962002"
+  },
   "8921380002": {
    "closed_at": null,
    "department": "",
@@ -4035,6 +4114,51 @@
    "reopened": 0,
    "title": "Engineering Manager, Architecture Engineering: Async",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8921380002"
+  },
+  "8922427002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "backend engineer source code repository services @ remote, canada",
+   "location": "Remote, Canada",
+   "posted_at": "2026-10-29T19:54:13+00:00",
+   "posted_history": [
+    "2026-10-29T19:54:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Backend Engineer, Source Code: Repository Services (Ruby)",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8922427002"
+  },
+  "8922862002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "manager sales recruiting @ remote, canada; remote, united states",
+   "location": "Remote, Canada; Remote, United States",
+   "posted_at": "2026-10-29T21:53:33+00:00",
+   "posted_history": [
+    "2026-10-29T21:53:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Sales Recruiting (AMER)",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8922862002"
+  },
+  "8922872002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "manager sales recruiting @ remote, australia; remote, singapore",
+   "location": "Remote, Australia; Remote, Singapore",
+   "posted_at": "2026-10-29T21:53:29+00:00",
+   "posted_history": [
+    "2026-10-29T21:53:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Sales Recruiting (APJ)",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8922872002"
   }
  }
 }

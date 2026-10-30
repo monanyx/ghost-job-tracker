@@ -43,6 +43,10 @@
   {
    "date": "2026-10-29",
    "open": 127
+  },
+  {
+   "date": "2026-10-30",
+   "open": 125
   }
  ],
  "jobs": {
@@ -782,7 +786,7 @@
    "url": "https://jobs.lever.co/pigment/5d3fa258-38bc-4189-ac0b-f03ffb4cc603"
   },
   "5d8df189-1bc4-4e66-b429-ec7601e39593": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "Business",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -981,14 +985,14 @@
    "department": "Professional Services",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
-   "fp": "quality assurance analyst @ paris",
+   "fp": "junior ai consultant @ paris",
    "location": "Paris",
    "posted_at": "2025-07-15T09:30:37+00:00",
    "posted_history": [
     "2025-07-15T09:30:37+00:00"
    ],
    "reopened": 0,
-   "title": "Quality  Assurance  Analyst",
+   "title": "Junior AI Consultant",
    "url": "https://jobs.lever.co/pigment/7646bb37-af86-4052-a5ac-8932633f1e07"
   },
   "7ba2a885-458f-42b0-a23f-f2e1507fab58": {
@@ -1592,7 +1596,7 @@
    "url": "https://jobs.lever.co/pigment/bf7cacad-0f52-4db4-88d4-ad7b22bd852e"
   },
   "bfaf7879-b5ad-4c0c-9fcf-fa581e6c49fa": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "Professional Services",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

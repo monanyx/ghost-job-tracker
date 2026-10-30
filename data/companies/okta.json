@@ -43,6 +43,10 @@
   {
    "date": "2026-10-29",
    "open": 385
+  },
+  {
+   "date": "2026-10-30",
+   "open": 387
   }
  ],
  "jobs": {
@@ -241,6 +245,21 @@
    "title": "Sales Development Representative, Latin America",
    "url": "https://www.okta.com/company/careers/opportunity/7013739?gh_jid=7013739"
   },
+  "7233187": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "staff software engineer identity threat protection @ toronto, ontario, canada",
+   "location": "Toronto, Ontario, Canada",
+   "posted_at": "2026-05-07T21:37:58+00:00",
+   "posted_history": [
+    "2026-05-07T21:37:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer, Identity Threat Protection",
+   "url": "https://www.okta.com/company/careers/opportunity/7233187?gh_jid=7233187"
+  },
   "7233212": {
    "closed_at": null,
    "department": "",
@@ -375,6 +394,21 @@
    "reopened": 0,
    "title": "Strategic Account Executive, Auth0",
    "url": "https://www.okta.com/company/careers/opportunity/7463779?gh_jid=7463779"
+  },
+  "7529446": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "senior software engineer java developer @ bengaluru, india",
+   "location": "Bengaluru, India",
+   "posted_at": "2026-10-30T05:42:13+00:00",
+   "posted_history": [
+    "2026-10-30T05:42:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer - Java Developer",
+   "url": "https://www.okta.com/company/careers/opportunity/7529446?gh_jid=7529446"
   },
   "7559020": {
    "closed_at": "2026-10-29T10:25:29+00:00",
@@ -587,7 +621,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/7660357?gh_jid=7660357"
   },
   "7681401": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -1142,7 +1176,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8001002?gh_jid=8001002"
   },
   "8001982": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1562,7 +1596,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8051063?gh_jid=8051063"
   },
   "8053199": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1667,7 +1701,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8059294?gh_jid=8059294"
   },
   "8066241": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2702,7 +2736,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8141274?gh_jid=8141274"
   },
   "8142022": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3077,7 +3111,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8168822?gh_jid=8168822"
   },
   "8171262": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3486,14 +3520,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
-   "fp": "full stack staff software engineer @ tel aviv, israel",
+   "fp": "staff software engineer full stack @ tel aviv, israel",
    "location": "Tel Aviv, Israel",
    "posted_at": "2026-10-29T10:00:56+00:00",
    "posted_history": [
     "2026-10-29T10:00:56+00:00"
    ],
    "reopened": 0,
-   "title": "Full Stack Staff Software Engineer",
+   "title": "Staff Software Engineer - Full Stack",
    "url": "https://www.okta.com/company/careers/opportunity/8203628?gh_jid=8203628"
   },
   "8203708": {
@@ -4532,7 +4566,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8240584?gh_jid=8240584"
   },
   "8240685": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4746,8 +4780,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior software engineer oig @ san francisco, california",
-   "location": "San Francisco, California",
+   "fp": "senior software engineer oig @ bellevue, washington; san francisco, california",
+   "location": "Bellevue, Washington; San Francisco, California",
    "posted_at": "2026-09-30T15:30:23+00:00",
    "posted_history": [
     "2026-09-30T15:30:23+00:00"
@@ -4937,7 +4971,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8247721?gh_jid=8247721"
   },
   "8248278": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5266,6 +5300,21 @@
    "title": "Senior Manager, Solutions Engineering, Auth0",
    "url": "https://www.okta.com/company/careers/opportunity/8260224?gh_jid=8260224"
   },
+  "8260950": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "senior site reliability engineer @ bengaluru, india",
+   "location": "Bengaluru, India",
+   "posted_at": "2026-10-29T14:17:15+00:00",
+   "posted_history": [
+    "2026-10-29T14:17:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Site Reliability Engineer",
+   "url": "https://www.okta.com/company/careers/opportunity/8260950?gh_jid=8260950"
+  },
   "8261644": {
    "closed_at": null,
    "department": "",
@@ -5310,6 +5359,21 @@
    "reopened": 0,
    "title": "Staff Software Engineer - Core Identity",
    "url": "https://www.okta.com/company/careers/opportunity/8262963?gh_jid=8262963"
+  },
+  "8263823": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "senior software engineer @ bengaluru, india",
+   "location": "Bengaluru, India",
+   "posted_at": "2026-10-29T16:00:21+00:00",
+   "posted_history": [
+    "2026-10-29T16:00:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer",
+   "url": "https://www.okta.com/company/careers/opportunity/8263823?gh_jid=8263823"
   },
   "8263827": {
    "closed_at": null,
@@ -6661,6 +6725,21 @@
    "title": "Solutions Engineer, Okta (Enterprise West)",
    "url": "https://www.okta.com/company/careers/opportunity/8312752?gh_jid=8312752"
   },
+  "8314936": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "staff fullstack engineer secures ai @ toronto, ontario, canada",
+   "location": "Toronto, Ontario, Canada",
+   "posted_at": "2026-10-29T19:09:51+00:00",
+   "posted_history": [
+    "2026-10-29T19:09:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff FullStack Engineer, Secures AI",
+   "url": "https://www.okta.com/company/careers/opportunity/8314936?gh_jid=8314936"
+  },
   "8317380": {
    "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
@@ -6690,6 +6769,21 @@
    "reopened": 0,
    "title": "Customer Success Manager",
    "url": "https://www.okta.com/company/careers/opportunity/8317558?gh_jid=8317558"
+  },
+  "8317731": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "senior software engineer full stack @ bengaluru, india",
+   "location": "Bengaluru, India",
+   "posted_at": "2026-10-30T05:33:42+00:00",
+   "posted_history": [
+    "2026-10-30T05:33:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer - Full Stack",
+   "url": "https://www.okta.com/company/careers/opportunity/8317731?gh_jid=8317731"
   },
   "8319085": {
    "closed_at": null,
@@ -6722,7 +6816,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8319247?gh_jid=8319247"
   },
   "8319274": {
-   "closed_at": "2026-10-28T10:01:46+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
@@ -6732,7 +6826,7 @@
    "posted_history": [
     "2026-10-23T22:29:17+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Sr. Software Engineer, AI Platform & Infrastructure",
    "url": "https://www.okta.com/company/careers/opportunity/8319274?gh_jid=8319274"
   },
@@ -6750,6 +6844,21 @@
    "reopened": 0,
    "title": "Staff Software Engineer, AI Platform & Infrastructure",
    "url": "https://www.okta.com/company/careers/opportunity/8319285?gh_jid=8319285"
+  },
+  "8323977": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "staff site reliability engineer @ bengaluru, india",
+   "location": "Bengaluru, India",
+   "posted_at": "2026-10-29T14:17:32+00:00",
+   "posted_history": [
+    "2026-10-29T14:17:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Site Reliability Engineer",
+   "url": "https://www.okta.com/company/careers/opportunity/8323977?gh_jid=8323977"
   },
   "8325962": {
    "closed_at": null,
@@ -6816,14 +6925,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-28T10:01:46+00:00",
-   "fp": "technical platform analyst enablement systems @ chicago, illinois; san francisco, california; seattle, washington",
+   "fp": "technical platform administrator enablement systems @ chicago, illinois; san francisco, california; seattle, washington",
    "location": "Chicago, Illinois; San Francisco, California; Seattle, Washington",
    "posted_at": "2026-10-27T21:11:35+00:00",
    "posted_history": [
     "2026-10-27T21:11:35+00:00"
    ],
    "reopened": 0,
-   "title": "Technical Platform Analyst, Enablement Systems",
+   "title": "Technical Platform Administrator, Enablement Systems",
    "url": "https://www.okta.com/company/careers/opportunity/8328599?gh_jid=8328599"
   },
   "8329646": {
@@ -6842,7 +6951,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8329646?gh_jid=8329646"
   },
   "8331368": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
@@ -6855,6 +6964,21 @@
    "reopened": 0,
    "title": "People Partner Specialist",
    "url": "https://www.okta.com/company/careers/opportunity/8331368?gh_jid=8331368"
+  },
+  "8332521": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "staff client platform engineer @ san francisco, california",
+   "location": "San Francisco, California",
+   "posted_at": "2026-10-29T20:35:35+00:00",
+   "posted_history": [
+    "2026-10-29T20:35:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Client Platform Engineer",
+   "url": "https://www.okta.com/company/careers/opportunity/8332521?gh_jid=8332521"
   },
   "8332999": {
    "closed_at": null,
@@ -6900,6 +7024,36 @@
    "reopened": 0,
    "title": "Senior Solutions Engineer - ASEAN",
    "url": "https://www.okta.com/company/careers/opportunity/8333120?gh_jid=8333120"
+  },
+  "8333434": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "staff info security engineer @ tokyo, japan",
+   "location": "Tokyo, Japan",
+   "posted_at": "2026-10-30T02:46:15+00:00",
+   "posted_history": [
+    "2026-10-30T02:46:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Info Security Engineer",
+   "url": "https://www.okta.com/company/careers/opportunity/8333434?gh_jid=8333434"
+  },
+  "8335184": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "sr manager digital product owner @ san francisco, california",
+   "location": "San Francisco, California",
+   "posted_at": "2026-10-29T21:00:17+00:00",
+   "posted_history": [
+    "2026-10-29T21:00:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Manager, Digital Product Owner",
+   "url": "https://www.okta.com/company/careers/opportunity/8335184?gh_jid=8335184"
   }
  }
 }

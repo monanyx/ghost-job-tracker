@@ -43,6 +43,10 @@
   {
    "date": "2026-10-29",
    "open": 88
+  },
+  {
+   "date": "2026-10-30",
+   "open": 86
   }
  ],
  "jobs": {
@@ -62,7 +66,7 @@
    "url": "https://job-boards.greenhouse.io/gusto/jobs/6625049"
   },
   "7254336": {
-   "closed_at": "2026-10-28T10:01:46+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -72,7 +76,7 @@
    "posted_history": [
     "2026-01-07T19:40:37+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Product Design Manager, Payroll",
    "url": "https://job-boards.greenhouse.io/gusto/jobs/7254336"
   },
@@ -122,7 +126,7 @@
    "url": "https://job-boards.greenhouse.io/gusto/jobs/7369003"
   },
   "7379039": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -707,7 +711,7 @@
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8083986"
   },
   "8092462": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -737,7 +741,7 @@
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8095028"
   },
   "8099751": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1261,6 +1265,21 @@
    "title": "Payroll and Taxes Manager",
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8208066"
   },
+  "8208119": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-30T10:28:19+00:00",
+   "fp": "strategic program manager @ atlanta, ga - hybrid; denver, co - hybrid; new york, ny - hybrid; san francisco, ca - hybrid; scottsdale, az - hybrid",
+   "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Scottsdale, AZ - Hybrid",
+   "posted_at": "2026-09-21T15:45:16+00:00",
+   "posted_history": [
+    "2026-09-21T15:45:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Program Manager",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8208119"
+  },
   "8208422": {
    "closed_at": null,
    "department": "",
@@ -1457,7 +1476,7 @@
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8247940"
   },
   "8248245": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",

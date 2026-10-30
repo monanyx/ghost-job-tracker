@@ -43,6 +43,10 @@
   {
    "date": "2026-10-29",
    "open": 84
+  },
+  {
+   "date": "2026-10-30",
+   "open": 81
   }
  ],
  "jobs": {
@@ -363,7 +367,7 @@
    "url": "https://jobs.ashbyhq.com/lovable/40f2f697-09ae-44bd-951a-1f10c358c159"
   },
   "41d9ea2b-72c5-48e3-b8a9-90504f73edbc": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "GTM",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -708,7 +712,7 @@
    "url": "https://jobs.ashbyhq.com/lovable/79e04665-0e50-45f8-92e3-9237bcb4e0bc"
   },
   "7a823e19-49ed-46d4-ba41-4b34b2d53935": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "GTM",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
@@ -772,14 +776,14 @@
    "department": "FDN",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
-   "fp": "recruiting operations specialist contract @ london",
+   "fp": "recruiting operations specialist ftc @ london",
    "location": "London",
    "posted_at": "2026-10-27T06:45:47+00:00",
    "posted_history": [
     "2026-10-27T06:45:47+00:00"
    ],
    "reopened": 0,
-   "title": "Recruiting Operations Specialist | Contract",
+   "title": "Recruiting Operations Specialist | FTC",
    "url": "https://jobs.ashbyhq.com/lovable/827c066d-222d-4729-b0a7-968fa7edad03"
   },
   "82b7f137-3648-4996-b6ff-2b1e5d1a27d2": {
@@ -939,10 +943,11 @@
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "corporate communications public affairs @ stockholm",
    "location": "Stockholm",
-   "posted_at": "2026-10-22T16:12:58+00:00",
+   "posted_at": "2026-10-29T15:19:19+00:00",
    "posted_history": [
     "2026-09-11T13:45:00+00:00",
-    "2026-10-22T16:12:58+00:00"
+    "2026-10-22T16:12:58+00:00",
+    "2026-10-29T15:19:19+00:00"
    ],
    "reopened": 0,
    "title": "Corporate Communications & Public Affairs (Europe)",
@@ -1385,7 +1390,7 @@
    "url": "https://jobs.ashbyhq.com/lovable/f7ffd722-a5bc-4229-9a9f-1d2c952dd7ba"
   },
   "f8590c0f-5374-4753-839b-e5c7315a71c2": {
-   "closed_at": null,
+   "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "EPD",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
