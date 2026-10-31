@@ -47,6 +47,10 @@
   {
    "date": "2026-10-30",
    "open": 231
+  },
+  {
+   "date": "2026-10-31",
+   "open": 236
   }
  ],
  "jobs": {
@@ -244,6 +248,21 @@
    "reopened": 0,
    "title": "Senior Deployment Engineer",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7562947003?gh_jid=7562947003"
+  },
+  "7584475003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "senior deployment engineer @ new york, us, new york",
+   "location": "New York, US, New York",
+   "posted_at": "2026-01-12T14:31:28+00:00",
+   "posted_history": [
+    "2026-01-12T14:31:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Deployment Engineer",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/7584475003?gh_jid=7584475003"
   },
   "7614485003": {
    "closed_at": "2026-10-28T10:01:46+00:00",
@@ -724,6 +743,21 @@
    "reopened": 0,
    "title": "Senior Director, Professional Services",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7741095003?gh_jid=7741095003"
+  },
+  "7741669003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "lead project manager @ new york, us, new york",
+   "location": "New York, US, New York",
+   "posted_at": "2026-05-20T15:28:26+00:00",
+   "posted_history": [
+    "2026-05-20T15:28:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Lead Project Manager",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/7741669003?gh_jid=7741669003"
   },
   "7742439003": {
    "closed_at": null,
@@ -1416,18 +1450,18 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7816927003?gh_jid=7816927003"
   },
   "7816965003": {
-   "closed_at": "2026-10-24T08:24:32+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "associate account executive @ munich, germany",
+   "fp": "associate account executive dach @ munich, germany",
    "location": "Munich, Germany",
    "posted_at": "2026-08-25T15:25:42+00:00",
    "posted_history": [
     "2026-08-25T15:25:42+00:00"
    ],
-   "reopened": 0,
-   "title": "Associate Account Executive (Top Talent Sales Program - Lunar)",
+   "reopened": 1,
+   "title": "Associate Account Executive (Top Talent Sales Program - Lunar) DACH",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7816965003?gh_jid=7816965003"
   },
   "7817240003": {
@@ -3814,6 +3848,36 @@
    "reopened": 0,
    "title": "Lead Applied Value Engineer - AI & Process Intelligence Consultant",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8068099003?gh_jid=8068099003"
+  },
+  "8110066003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "lead deployment architect @ new york, us, new york",
+   "location": "New York, US, New York",
+   "posted_at": "2026-10-30T21:01:50+00:00",
+   "posted_history": [
+    "2026-10-30T21:01:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Lead Deployment Architect",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/8110066003?gh_jid=8110066003"
+  },
+  "8110297003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "senior deployment engineer @ raleigh, us, north carolina",
+   "location": "Raleigh, US, North Carolina",
+   "posted_at": "2026-10-30T21:01:56+00:00",
+   "posted_history": [
+    "2026-10-30T21:01:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Deployment Engineer",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/8110297003?gh_jid=8110297003"
   }
  }
 }

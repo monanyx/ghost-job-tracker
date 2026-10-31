@@ -47,6 +47,10 @@
   {
    "date": "2026-10-30",
    "open": 387
+  },
+  {
+   "date": "2026-10-31",
+   "open": 388
   }
  ],
  "jobs": {
@@ -141,7 +145,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/6841832?gh_jid=6841832"
   },
   "6879868": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -621,7 +625,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/7660357?gh_jid=7660357"
   },
   "7681401": {
-   "closed_at": "2026-10-30T10:28:19+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -631,7 +635,7 @@
    "posted_history": [
     "2026-03-05T20:32:12+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Learning & Development Program Manager",
    "url": "https://www.okta.com/company/careers/opportunity/7681401?gh_jid=7681401"
   },
@@ -2496,7 +2500,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8128435?gh_jid=8128435"
   },
   "8129269": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2601,7 +2605,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8137889?gh_jid=8137889"
   },
   "8137951": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3125,6 +3129,21 @@
    "title": "Staff Identity Engineer",
    "url": "https://www.okta.com/company/careers/opportunity/8171262?gh_jid=8171262"
   },
+  "8172960": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "senior ux researcher @ bengaluru, india",
+   "location": "Bengaluru, India",
+   "posted_at": "2026-09-02T09:49:21+00:00",
+   "posted_history": [
+    "2026-09-02T09:49:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior UX Researcher",
+   "url": "https://www.okta.com/company/careers/opportunity/8172960?gh_jid=8172960"
+  },
   "8174100": {
    "closed_at": null,
    "department": "",
@@ -3621,7 +3640,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8207454?gh_jid=8207454"
   },
   "8208322": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5256,7 +5275,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8258803?gh_jid=8258803"
   },
   "8258817": {
-   "closed_at": "2026-10-23T08:50:35+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5266,7 +5285,7 @@
    "posted_history": [
     "2026-10-06T15:55:17+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior  Software Engineer",
    "url": "https://www.okta.com/company/careers/opportunity/8258817?gh_jid=8258817"
   },
@@ -5314,6 +5333,21 @@
    "reopened": 0,
    "title": "Senior Site Reliability Engineer",
    "url": "https://www.okta.com/company/careers/opportunity/8260950?gh_jid=8260950"
+  },
+  "8260972": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "senior program manager @ bengaluru, india",
+   "location": "Bengaluru, India",
+   "posted_at": "2026-10-30T17:09:44+00:00",
+   "posted_history": [
+    "2026-10-30T17:09:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Program Manager",
+   "url": "https://www.okta.com/company/careers/opportunity/8260972?gh_jid=8260972"
   },
   "8261644": {
    "closed_at": null,
@@ -5511,7 +5545,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8268917?gh_jid=8268917"
   },
   "8268997": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5601,7 +5635,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8276038?gh_jid=8276038"
   },
   "8276264": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6980,6 +7014,36 @@
    "title": "Staff Client Platform Engineer",
    "url": "https://www.okta.com/company/careers/opportunity/8332521?gh_jid=8332521"
   },
+  "8332523": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "principal product manager enterprise ai @ bellevue, washington; chicago, illinois; san francisco, california",
+   "location": "Bellevue, Washington; Chicago, Illinois; San Francisco, California",
+   "posted_at": "2026-10-30T19:04:37+00:00",
+   "posted_history": [
+    "2026-10-30T19:04:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Product Manager, Enterprise AI",
+   "url": "https://www.okta.com/company/careers/opportunity/8332523?gh_jid=8332523"
+  },
+  "8332602": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "security architect u s public sector @ washington, dc",
+   "location": "Washington, DC",
+   "posted_at": "2026-10-30T18:52:48+00:00",
+   "posted_history": [
+    "2026-10-30T18:52:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "Security Architect - U.S. Public Sector",
+   "url": "https://www.okta.com/company/careers/opportunity/8332602?gh_jid=8332602"
+  },
   "8332999": {
    "closed_at": null,
    "department": "",
@@ -7054,6 +7118,21 @@
    "reopened": 0,
    "title": "Sr. Manager, Digital Product Owner",
    "url": "https://www.okta.com/company/careers/opportunity/8335184?gh_jid=8335184"
+  },
+  "8335959": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "sr product analyst @ bengaluru, india",
+   "location": "Bengaluru, India",
+   "posted_at": "2026-10-30T16:40:30+00:00",
+   "posted_history": [
+    "2026-10-30T16:40:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Product Analyst (Xactly)",
+   "url": "https://www.okta.com/company/careers/opportunity/8335959?gh_jid=8335959"
   }
  }
 }

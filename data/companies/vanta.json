@@ -47,6 +47,10 @@
   {
    "date": "2026-10-30",
    "open": 81
+  },
+  {
+   "date": "2026-10-31",
+   "open": 79
   }
  ],
  "jobs": {
@@ -462,9 +466,10 @@
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "staff software engineer ai and data risk @ remote - ireland",
    "location": "Remote - Ireland",
-   "posted_at": "2026-09-18T15:52:08+00:00",
+   "posted_at": "2026-10-30T13:21:59+00:00",
    "posted_history": [
-    "2026-09-18T15:52:08+00:00"
+    "2026-09-18T15:52:08+00:00",
+    "2026-10-30T13:21:59+00:00"
    ],
    "reopened": 0,
    "title": "Staff Software Engineer, AI and Data Risk",
@@ -531,7 +536,7 @@
    "url": "https://jobs.ashbyhq.com/vanta/38123211-8982-45af-a733-7c81eab67e84"
   },
   "40f80a35-39d7-4272-aceb-7ad91edabf4a": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "Security",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -651,7 +656,7 @@
    "url": "https://jobs.ashbyhq.com/vanta/62945aae-55b0-4598-977a-b2dd00ec9081"
   },
   "6d6698d7-7272-4c2a-bc34-807dc269de43": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "Product Design",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

@@ -47,6 +47,10 @@
   {
    "date": "2026-10-30",
    "open": 92
+  },
+  {
+   "date": "2026-10-31",
+   "open": 91
   }
  ],
  "jobs": {
@@ -231,7 +235,7 @@
    "url": "https://job-boards.greenhouse.io/vercel/jobs/5691965004"
   },
   "5701765004": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -381,7 +385,7 @@
    "url": "https://job-boards.greenhouse.io/vercel/jobs/5818258004"
   },
   "5822513004": {
-   "closed_at": "2026-10-23T08:50:35+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -391,7 +395,7 @@
    "posted_history": [
     "2026-03-10T15:06:00+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Business Development Representative, Startups",
    "url": "https://job-boards.greenhouse.io/vercel/jobs/5822513004"
   },
@@ -936,7 +940,7 @@
    "url": "https://job-boards.greenhouse.io/vercel/jobs/6132416004"
   },
   "6136160004": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1041,7 +1045,7 @@
    "url": "https://job-boards.greenhouse.io/vercel/jobs/6147956004"
   },
   "6148624004": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1594,6 +1598,21 @@
    "reopened": 0,
    "title": "Strategy and Planning Lead",
    "url": "https://job-boards.greenhouse.io/vercel/jobs/6236530004"
+  },
+  "6236991004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "technical business development representative @ hybrid - san francisco, new york city, austin",
+   "location": "Hybrid - San Francisco, New York City, Austin",
+   "posted_at": "2026-10-30T17:20:44+00:00",
+   "posted_history": [
+    "2026-10-30T17:20:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Business Development Representative",
+   "url": "https://job-boards.greenhouse.io/vercel/jobs/6236991004"
   }
  }
 }

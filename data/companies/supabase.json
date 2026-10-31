@@ -47,6 +47,10 @@
   {
    "date": "2026-10-30",
    "open": 65
+  },
+  {
+   "date": "2026-10-31",
+   "open": 66
   }
  ],
  "jobs": {
@@ -655,14 +659,15 @@
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "account executive @ remote, emea",
+   "fp": "account executive dach @ remote, emea",
    "location": "Remote, EMEA",
-   "posted_at": "2026-08-26T19:59:56+00:00",
+   "posted_at": "2026-10-31T09:47:47+00:00",
    "posted_history": [
-    "2026-08-26T19:59:56+00:00"
+    "2026-08-26T19:59:56+00:00",
+    "2026-10-31T09:47:47+00:00"
    ],
    "reopened": 0,
-   "title": "Account Executive (EMEA)",
+   "title": "Account Executive DACH (German-Speaking)",
    "url": "https://jobs.ashbyhq.com/supabase/a069c886-1107-408e-88b4-e1aa8d33d4bc"
   },
   "a1320bbf-bfae-49a8-a1b7-12eeccaf39ca": {
@@ -1039,6 +1044,21 @@
    "reopened": 0,
    "title": "FinOps Engineer",
    "url": "https://jobs.ashbyhq.com/supabase/fab1525f-3d89-4d1c-9094-84d21647415e"
+  },
+  "fb0b563a-e541-43fd-8555-9eb6473aaa11": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "software engineer ai tooling infrastructure @ remote, global",
+   "location": "Remote, Global",
+   "posted_at": "2026-10-31T08:47:34+00:00",
+   "posted_history": [
+    "2026-10-31T08:47:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer - AI Tooling Infrastructure",
+   "url": "https://jobs.ashbyhq.com/supabase/fb0b563a-e541-43fd-8555-9eb6473aaa11"
   }
  }
 }

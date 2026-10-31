@@ -47,6 +47,10 @@
   {
    "date": "2026-10-30",
    "open": 302
+  },
+  {
+   "date": "2026-10-31",
+   "open": 299
   }
  ],
  "jobs": {
@@ -1641,7 +1645,7 @@
    "url": "https://jobs.lever.co/palantir/4d5a144e-87ea-45e2-a68c-3fad590629af"
   },
   "4df4cca5-e361-498b-806d-05f21638c93a": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "Dev",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2451,7 +2455,7 @@
    "url": "https://jobs.lever.co/palantir/79c3f906-622b-4261-8fc6-8af0028caa27"
   },
   "7a9600be-cdcb-4311-bb5c-65b6939b5956": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "Dev",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4551,7 +4555,7 @@
    "url": "https://jobs.lever.co/palantir/e82b696e-a085-4bbf-8bcb-6d2c4f8cf2f7"
   },
   "e9aecd15-c7e9-4803-9928-fc0b67e70f5b": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "Dev",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

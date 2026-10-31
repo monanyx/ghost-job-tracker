@@ -47,6 +47,10 @@
   {
    "date": "2026-10-30",
    "open": 93
+  },
+  {
+   "date": "2026-10-31",
+   "open": 96
   }
  ],
  "jobs": {
@@ -246,7 +250,7 @@
    "url": "https://instacart.careers/job/?gh_jid=7871825"
   },
   "7931358": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -426,7 +430,7 @@
    "url": "https://instacart.careers/job/?gh_jid=8069983"
   },
   "8077677": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -441,7 +445,7 @@
    "url": "https://instacart.careers/job/?gh_jid=8077677"
   },
   "8077679": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -696,7 +700,7 @@
    "url": "https://instacart.careers/job/?gh_jid=8141535"
   },
   "8143270": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -711,7 +715,7 @@
    "url": "https://instacart.careers/job/?gh_jid=8143270"
   },
   "8143272": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -925,14 +929,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior product designer ii lifecycle growth @ united states - remote",
+   "fp": "senior product designer ii growth systems ai workflows @ united states - remote",
    "location": "United States - Remote",
    "posted_at": "2026-09-10T17:28:47+00:00",
    "posted_history": [
     "2026-09-10T17:28:47+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Product Designer II - Lifecycle & Growth",
+   "title": "Senior Product Designer II - Growth Systems & AI Workflows",
    "url": "https://instacart.careers/job/?gh_jid=8191763"
   },
   "8191765": {
@@ -940,14 +944,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior product designer ii lifecycle growth @ canada - remote (on, ab, bc, or ns only)",
+   "fp": "senior product designer ii growth systems ai workflows @ canada - remote (on, ab, bc, or ns only)",
    "location": "Canada - Remote (ON, AB, BC, or NS Only)",
    "posted_at": "2026-09-10T17:29:33+00:00",
    "posted_history": [
     "2026-09-10T17:29:33+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Product Designer II - Lifecycle & Growth",
+   "title": "Senior Product Designer II - Growth Systems & AI Workflows",
    "url": "https://instacart.careers/job/?gh_jid=8191765"
   },
   "8197990": {
@@ -1415,6 +1419,66 @@
    "title": "Staff Android Engineer, Pick & Deliver",
    "url": "https://instacart.careers/job/?gh_jid=8237987"
   },
+  "8240305": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "senior machine learning engineer fulfillment @ united states - remote",
+   "location": "United States - Remote",
+   "posted_at": "2026-10-30T18:31:38+00:00",
+   "posted_history": [
+    "2026-10-30T18:31:38+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Machine Learning Engineer, Fulfillment",
+   "url": "https://instacart.careers/job/?gh_jid=8240305"
+  },
+  "8240307": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "senior machine learning engineer fulfillment @ canada - remote (on, ab, bc, or ns only)",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-10-30T18:31:40+00:00",
+   "posted_history": [
+    "2026-10-30T18:31:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Machine Learning Engineer, Fulfillment",
+   "url": "https://instacart.careers/job/?gh_jid=8240307"
+  },
+  "8240350": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "senior software engineer enterprise ai @ united states - remote",
+   "location": "United States - Remote",
+   "posted_at": "2026-10-30T18:31:48+00:00",
+   "posted_history": [
+    "2026-10-30T18:31:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Enterprise AI",
+   "url": "https://instacart.careers/job/?gh_jid=8240350"
+  },
+  "8240352": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "senior software engineer enterprise ai @ canada - remote (on, ab, bc, or ns only)",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-10-30T18:31:50+00:00",
+   "posted_history": [
+    "2026-10-30T18:31:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Enterprise AI",
+   "url": "https://instacart.careers/job/?gh_jid=8240352"
+  },
   "8240723": {
    "closed_at": null,
    "department": "",
@@ -1624,6 +1688,21 @@
    "reopened": 0,
    "title": "Bilingual CX Specialist (French)",
    "url": "https://instacart.careers/job/?gh_jid=8257641"
+  },
+  "8263109": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "senior manager machine learning engineering @ united states - remote",
+   "location": "United States - Remote",
+   "posted_at": "2026-10-07T20:43:09+00:00",
+   "posted_history": [
+    "2026-10-07T20:43:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Machine Learning Engineering",
+   "url": "https://instacart.careers/job/?gh_jid=8263109"
   },
   "8263161": {
    "closed_at": null,
@@ -1999,6 +2078,51 @@
    "reopened": 0,
    "title": "Senior Software Engineer, Fulfillment",
    "url": "https://instacart.careers/job/?gh_jid=8315996"
+  },
+  "8336857": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "bilingual customer experience t3 specialist @ united states - remote",
+   "location": "United States - Remote",
+   "posted_at": "2026-10-30T16:33:54+00:00",
+   "posted_history": [
+    "2026-10-30T16:33:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Bilingual Customer Experience T3 Specialist (Spanish)",
+   "url": "https://instacart.careers/job/?gh_jid=8336857"
+  },
+  "8336883": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "customer experience t3 specialist @ united states - remote",
+   "location": "United States - Remote",
+   "posted_at": "2026-10-30T16:34:00+00:00",
+   "posted_history": [
+    "2026-10-30T16:34:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Experience T3 Specialist",
+   "url": "https://instacart.careers/job/?gh_jid=8336883"
+  },
+  "8337981": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "program manager escalation management @ united states - remote",
+   "location": "United States - Remote",
+   "posted_at": "2026-10-30T21:42:38+00:00",
+   "posted_history": [
+    "2026-10-30T21:42:38+00:00"
+   ],
+   "reopened": 0,
+   "title": "Program Manager, Escalation Management",
+   "url": "https://instacart.careers/job/?gh_jid=8337981"
   }
  }
 }

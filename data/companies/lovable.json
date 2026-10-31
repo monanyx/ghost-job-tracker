@@ -47,6 +47,10 @@
   {
    "date": "2026-10-30",
    "open": 81
+  },
+  {
+   "date": "2026-10-31",
+   "open": 80
   }
  ],
  "jobs": {
@@ -126,7 +130,7 @@
    "url": "https://jobs.ashbyhq.com/lovable/059aa74d-f442-4c7a-9213-5410950cbc9a"
   },
   "0b59a6c1-c9e9-4f5e-9fdd-42a319c6ac40": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "GTM",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -666,6 +670,21 @@
    "title": "Brand & Integrated Marketing Lead, Europe",
    "url": "https://jobs.ashbyhq.com/lovable/73b2c110-29d0-402e-a6d6-ac7984946052"
   },
+  "74f7b6d2-4dcc-48f6-9d66-ae0531283720": {
+   "closed_at": null,
+   "department": "FDN",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "product partnership manager @ san francisco",
+   "location": "San Francisco ",
+   "posted_at": "2026-10-30T18:17:08+00:00",
+   "posted_history": [
+    "2026-10-30T18:17:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Partnership Manager",
+   "url": "https://jobs.ashbyhq.com/lovable/74f7b6d2-4dcc-48f6-9d66-ae0531283720"
+  },
   "76f4a64e-b343-4c0e-b5f1-ea7686001346": {
    "closed_at": null,
    "department": "EPD",
@@ -907,18 +926,19 @@
    "url": "https://jobs.ashbyhq.com/lovable/920b4099-00bc-4d5e-9469-2c955ef3a662"
   },
   "933f4857-6a41-4b78-bbcb-c9895b18055a": {
-   "closed_at": "2026-10-23T08:50:35+00:00",
+   "closed_at": null,
    "department": "GTM",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "product and technical communications @ london",
+   "fp": "trust communications @ london",
    "location": "London",
-   "posted_at": "2026-09-14T19:47:45+00:00",
+   "posted_at": "2026-10-30T20:37:29+00:00",
    "posted_history": [
-    "2026-09-14T19:47:45+00:00"
+    "2026-09-14T19:47:45+00:00",
+    "2026-10-30T20:37:29+00:00"
    ],
-   "reopened": 0,
-   "title": "Product and Technical Communications",
+   "reopened": 1,
+   "title": "Trust Communications",
    "url": "https://jobs.ashbyhq.com/lovable/933f4857-6a41-4b78-bbcb-c9895b18055a"
   },
   "99f2854e-4937-4227-b96a-81269b5f871d": {
@@ -999,7 +1019,7 @@
    "url": "https://jobs.ashbyhq.com/lovable/a5bfe338-39a2-4ef5-835a-599665f2db9c"
   },
   "ac61dda2-bff0-4f22-adca-a48b0b2f560c": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "GTM",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1195,7 +1215,7 @@
    "url": "https://jobs.ashbyhq.com/lovable/d92292d5-a9f5-4637-9d86-77e95bf66970"
   },
   "db107c99-103c-4ca8-979e-fbe6d714f971": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "GTM",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

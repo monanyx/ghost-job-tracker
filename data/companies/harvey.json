@@ -47,6 +47,10 @@
   {
    "date": "2026-10-30",
    "open": 385
+  },
+  {
+   "date": "2026-10-31",
+   "open": 381
   }
  ],
  "jobs": {
@@ -849,7 +853,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/214e8a77-88c5-42da-b142-74bb7a890063"
   },
   "21e7d9f0-4d47-435e-8acf-c220b6bd720c": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "Human Resources",
    "evergreen": false,
    "first_seen": "2026-10-28T10:01:46+00:00",
@@ -959,14 +963,14 @@
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
-   "fp": "member of technical staff infrastructure @ san francisco",
+   "fp": "research engineer infrastructure @ san francisco",
    "location": "San Francisco",
    "posted_at": "2026-10-29T22:42:57+00:00",
    "posted_history": [
     "2026-10-29T22:42:57+00:00"
    ],
    "reopened": 0,
-   "title": "Member of Technical Staff, Infrastructure",
+   "title": "Research Engineer, Infrastructure",
    "url": "https://jobs.ashbyhq.com/harvey/264aac9e-3f8d-402f-a33b-04d2fe1e16be"
   },
   "26b1c092-b466-47b6-9493-402eed406b7a": {
@@ -1240,6 +1244,21 @@
    "title": "Legal Engineering Manager, APAC",
    "url": "https://jobs.ashbyhq.com/harvey/302a0914-2763-4e16-b044-b54de4367808"
   },
+  "30df72cf-ee68-4194-864e-47745ca8b6e0": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "research engineer scientist reinforcement learning @ remote",
+   "location": "Remote",
+   "posted_at": "2026-10-30T19:46:43+00:00",
+   "posted_history": [
+    "2026-10-30T19:46:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Research Engineer / Scientist, Reinforcement Learning",
+   "url": "https://jobs.ashbyhq.com/harvey/30df72cf-ee68-4194-864e-47745ca8b6e0"
+  },
   "310cde20-2456-4132-a3eb-b5d80e691ed5": {
    "closed_at": null,
    "department": "Product",
@@ -1271,7 +1290,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/313d5aa8-bfc9-4057-b9a3-b73b4894f6a7"
   },
   "3188a79d-c5f2-40c3-8f9f-bf1c37938f9f": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "Human Resources",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1496,7 +1515,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/3ea5e27b-0efc-4338-9bf0-292dd49736ab"
   },
   "3feed577-6157-4fb4-b416-d4f493e1eb5c": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "Marketing",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1712,14 +1731,14 @@
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
-   "fp": "member of technical staff data evals @ new york",
+   "fp": "research engineer scientist data evals @ new york",
    "location": "New York",
    "posted_at": "2026-10-29T22:43:40+00:00",
    "posted_history": [
     "2026-10-29T22:43:40+00:00"
    ],
    "reopened": 0,
-   "title": "Member of Technical Staff, Data & Evals",
+   "title": "Research Engineer / Scientist, Data & Evals",
    "url": "https://jobs.ashbyhq.com/harvey/46912896-5a97-4955-ae27-1b110b3487ec"
   },
   "46ca5e0d-20c3-44e6-b30e-09eac08726ab": {
@@ -1932,6 +1951,21 @@
    "title": "Head of SMB Sales, EMEA",
    "url": "https://jobs.ashbyhq.com/harvey/4ef44ab1-e402-4799-8d7c-e83f011b591b"
   },
+  "4fc070c5-99be-459c-b5ef-63e5f4d68f8b": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "research engineer infrastructure @ london",
+   "location": "London",
+   "posted_at": "2026-10-30T19:44:30+00:00",
+   "posted_history": [
+    "2026-10-30T19:44:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Research Engineer, Infrastructure",
+   "url": "https://jobs.ashbyhq.com/harvey/4fc070c5-99be-459c-b5ef-63e5f4d68f8b"
+  },
   "50a8df2a-c50e-4326-ae90-0c9f8ee0cf1d": {
    "closed_at": null,
    "department": "Security",
@@ -2051,6 +2085,21 @@
    "reopened": 0,
    "title": "Business Recruiter, GTM",
    "url": "https://jobs.ashbyhq.com/harvey/538c508a-6f20-4dc3-bd9f-f015cba35113"
+  },
+  "54770fc2-8dc0-4812-bfc5-0f4d628b97d9": {
+   "closed_at": null,
+   "department": "IT",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "senior infrastructure engineer @ new york",
+   "location": "New York",
+   "posted_at": "2026-10-30T18:00:27+00:00",
+   "posted_history": [
+    "2026-10-30T18:00:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Infrastructure Engineer",
+   "url": "https://jobs.ashbyhq.com/harvey/54770fc2-8dc0-4812-bfc5-0f4d628b97d9"
   },
   "56483928-e6b1-4e30-b5fa-2539494fe620": {
    "closed_at": null,
@@ -2532,6 +2581,21 @@
    "title": "Staff Software Engineer, Backend Platform",
    "url": "https://jobs.ashbyhq.com/harvey/66a13783-3073-4474-8dad-90f4146885ef"
   },
+  "6708bb0c-e466-44e4-a992-486ad3300fd6": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "research engineer scientist data evals @ london",
+   "location": "London",
+   "posted_at": "2026-10-30T19:41:55+00:00",
+   "posted_history": [
+    "2026-10-30T19:41:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Research Engineer / Scientist, Data & Evals",
+   "url": "https://jobs.ashbyhq.com/harvey/6708bb0c-e466-44e4-a992-486ad3300fd6"
+  },
   "672f45e7-0689-4a6a-92e4-712beaa2eeca": {
    "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "Engineering",
@@ -2642,14 +2706,14 @@
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
-   "fp": "member of technical staff modeling @ san francisco",
+   "fp": "research engineer scientist reinforcement learning @ san francisco",
    "location": "San Francisco",
    "posted_at": "2026-10-29T22:38:14+00:00",
    "posted_history": [
     "2026-10-29T22:38:14+00:00"
    ],
    "reopened": 0,
-   "title": "Member of Technical Staff, Modeling",
+   "title": "Research Engineer / Scientist, Reinforcement Learning",
    "url": "https://jobs.ashbyhq.com/harvey/6ac97037-a307-4db9-a01f-22198262dbba"
   },
   "6ad3902b-2888-4c02-913d-de942e807133": {
@@ -2681,6 +2745,21 @@
    "reopened": 0,
    "title": "Sales Manager, SMB, EMEA",
    "url": "https://jobs.ashbyhq.com/harvey/6be92530-1e2f-433b-974a-55586bc3ba0c"
+  },
+  "6c87b165-99ad-484e-b34b-1cf2ab0c92d5": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "research engineer scientist data evals @ remote",
+   "location": "Remote",
+   "posted_at": "2026-10-30T19:42:39+00:00",
+   "posted_history": [
+    "2026-10-30T19:42:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Research Engineer / Scientist, Data & Evals",
+   "url": "https://jobs.ashbyhq.com/harvey/6c87b165-99ad-484e-b34b-1cf2ab0c92d5"
   },
   "6c95865e-0803-47c2-889d-103afa385b53": {
    "closed_at": null,
@@ -2773,7 +2852,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/6fcd8281-797e-4ce0-bbc1-72d89759bf24"
   },
   "6fef4451-dbbf-40e7-a41c-5569641bcc16": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "Legal",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3124,14 +3203,14 @@
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
-   "fp": "member of technical staff infrastructure @ new york",
+   "fp": "research engineer infrastructure @ new york",
    "location": "New York",
    "posted_at": "2026-10-29T22:42:51+00:00",
    "posted_history": [
     "2026-10-29T22:42:51+00:00"
    ],
    "reopened": 0,
-   "title": "Member of Technical Staff, Infrastructure",
+   "title": "Research Engineer, Infrastructure",
    "url": "https://jobs.ashbyhq.com/harvey/7d5946ab-9b70-4c33-9e0f-cadbf0b892aa"
   },
   "7e7261f2-307d-43ff-a339-cbd2e26d70cd": {
@@ -3154,14 +3233,14 @@
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
-   "fp": "member of technical staff data evals @ san francisco",
+   "fp": "research engineer scientist data evals @ san francisco",
    "location": "San Francisco",
    "posted_at": "2026-10-29T22:43:44+00:00",
    "posted_history": [
     "2026-10-29T22:43:44+00:00"
    ],
    "reopened": 0,
-   "title": "Member of Technical Staff, Data & Evals",
+   "title": "Research Engineer / Scientist, Data & Evals",
    "url": "https://jobs.ashbyhq.com/harvey/7e75a1a6-1884-4772-86c2-2ea4d6a7a08d"
   },
   "7ef2c12e-dd17-4d8c-a445-bd4ebf559484": {
@@ -3419,6 +3498,21 @@
    "title": "Staff Software Engineer, Agents",
    "url": "https://jobs.ashbyhq.com/harvey/879d9051-0f20-4fcf-8e73-7293044dd7a2"
   },
+  "880c222b-faa8-4e86-8fe9-989b5cd2bd46": {
+   "closed_at": null,
+   "department": "IT",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "senior infrastructure engineer @ remote",
+   "location": "Remote",
+   "posted_at": "2026-10-30T18:10:54+00:00",
+   "posted_history": [
+    "2026-10-30T18:10:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Infrastructure Engineer",
+   "url": "https://jobs.ashbyhq.com/harvey/880c222b-faa8-4e86-8fe9-989b5cd2bd46"
+  },
   "891889e0-0a4b-4496-85a6-3d42fb05304d": {
    "closed_at": null,
    "department": "Customer Success",
@@ -3675,7 +3769,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/9318ba76-60df-4b39-b036-95f488a46c7c"
   },
   "940d071d-5093-44f3-97c8-afa5b78cd869": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "Human Resources",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3750,7 +3844,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/953b710f-3c48-4409-ad30-6416da8ed043"
   },
   "95b0e486-e777-4435-a842-19db85d1f137": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "Go to Market",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3914,6 +4008,21 @@
    "title": "Account Executive, Mid Market - Munich",
    "url": "https://jobs.ashbyhq.com/harvey/9ab52bf5-0d83-418a-bf03-e7dd75359473"
   },
+  "9b63e15d-2d43-4c4a-94be-75908e942ea7": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "research engineer infrastructure @ remote",
+   "location": "Remote",
+   "posted_at": "2026-10-30T19:43:59+00:00",
+   "posted_history": [
+    "2026-10-30T19:43:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Research Engineer, Infrastructure",
+   "url": "https://jobs.ashbyhq.com/harvey/9b63e15d-2d43-4c4a-94be-75908e942ea7"
+  },
   "9b7ae8f4-773e-4f83-83fa-096d157ae00d": {
    "closed_at": null,
    "department": "Engineering",
@@ -3973,6 +4082,21 @@
    "reopened": 0,
    "title": "Staff Technical Program Manager",
    "url": "https://jobs.ashbyhq.com/harvey/9ea6dcda-7869-4181-b493-2822bbc14097"
+  },
+  "9f4a2d85-8fa6-4374-9f1d-800492967dc7": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "staff software engineer full stack @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-10-30T15:13:46+00:00",
+   "posted_history": [
+    "2026-10-30T15:13:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer, Full Stack",
+   "url": "https://jobs.ashbyhq.com/harvey/9f4a2d85-8fa6-4374-9f1d-800492967dc7"
   },
   "9f57ab6f-b16c-465b-ae4e-8f3ccd90920f": {
    "closed_at": null,
@@ -4191,16 +4315,17 @@
    "first_seen": "2026-10-30T10:28:19+00:00",
    "fp": "legal engineer @ seoul",
    "location": "Seoul",
-   "posted_at": "2026-10-29T17:42:20+00:00",
+   "posted_at": "2026-10-31T04:15:04+00:00",
    "posted_history": [
-    "2026-10-29T17:42:20+00:00"
+    "2026-10-29T17:42:20+00:00",
+    "2026-10-31T04:15:04+00:00"
    ],
    "reopened": 0,
    "title": "Legal Engineer",
    "url": "https://jobs.ashbyhq.com/harvey/abe946d1-9890-413a-b567-6c68e32f7bb4"
   },
   "ac029bf4-0abd-434e-911e-fbb22921ace3": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "Customer Experience",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4275,7 +4400,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/ae1111f2-f6ff-4923-a5ef-d3f2710b54d9"
   },
   "ae15faa5-f306-4abd-a10a-4b1212c208d9": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "Customer Experience",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4425,7 +4550,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/b4f45d7f-6a88-40d5-83a6-e4db27f3e402"
   },
   "b6cfee1e-67c7-420e-a3fc-24677eda6d2c": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "Marketing",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4877,7 +5002,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/c3b9e500-dc27-4afe-9b8a-31223c6b18fe"
   },
   "c59ad688-0106-4f49-a1d3-94c2ea0f5a48": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "Legal",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4967,7 +5092,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/c8a58117-489a-4797-8ea7-bb383cd7815b"
   },
   "c9432042-1f8c-4de0-82c0-9a4ecce71cf6": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "Human Resources",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5224,7 +5349,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/d629fa64-599d-435c-b4ef-a925299ddac8"
   },
   "d6ba6f18-42c8-4bcd-88a7-f6145c472c78": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "Customer Experience",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5269,7 +5394,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/d6ea5dcb-17a9-4aad-82a3-c789812ca9ed"
   },
   "d78083d9-a203-4ae4-b4b9-454d65df3702": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5423,14 +5548,14 @@
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
-   "fp": "member of technical staff modeling @ new york",
+   "fp": "research engineer scientist reinforcement learning @ new york",
    "location": "New York",
    "posted_at": "2026-10-29T22:38:07+00:00",
    "posted_history": [
     "2026-10-29T22:38:07+00:00"
    ],
    "reopened": 0,
-   "title": "Member of Technical Staff, Modeling",
+   "title": "Research Engineer / Scientist, Reinforcement Learning",
    "url": "https://jobs.ashbyhq.com/harvey/db7a2623-bc3c-4db9-b1e3-500c2622d194"
   },
   "dbd9a156-a841-42a0-a3e5-beed8de60a7c": {
@@ -5928,6 +6053,21 @@
    "reopened": 0,
    "title": "Staff Web Engineer",
    "url": "https://jobs.ashbyhq.com/harvey/ef285771-5770-42b9-8edd-542447793924"
+  },
+  "f0e47659-1727-4fd6-af14-4dffe07b6342": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "research engineer scientist reinforcement learning @ london",
+   "location": "London",
+   "posted_at": "2026-10-30T19:47:09+00:00",
+   "posted_history": [
+    "2026-10-30T19:47:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Research Engineer / Scientist, Reinforcement Learning",
+   "url": "https://jobs.ashbyhq.com/harvey/f0e47659-1727-4fd6-af14-4dffe07b6342"
   },
   "f0e4e24a-2a7a-4fc4-8872-9a8a762fecf5": {
    "closed_at": null,

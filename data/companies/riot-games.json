@@ -47,6 +47,10 @@
   {
    "date": "2026-10-30",
    "open": 183
+  },
+  {
+   "date": "2026-10-31",
+   "open": 184
   }
  ],
  "jobs": {
@@ -1851,7 +1855,7 @@
    "url": "https://www.riotgames.com/en/work-with-us/job/8187661?gh_jid=8187661"
   },
   "8187663": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2495,6 +2499,21 @@
    "title": "Staff Software Engineer, Engine Performance  - Central Technology, Unreal Ecosystem",
    "url": "https://www.riotgames.com/en/work-with-us/job/8275281?gh_jid=8275281"
   },
+  "8275356": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "senior game product manager riftbound @ los angeles, usa; mercer island, usa",
+   "location": "Los Angeles, USA; Mercer Island, USA",
+   "posted_at": "2026-10-30T18:17:30+00:00",
+   "posted_history": [
+    "2026-10-30T18:17:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Game Product Manager - Riftbound",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8275356?gh_jid=8275356"
+  },
   "8279467": {
    "closed_at": null,
    "department": "",
@@ -3034,6 +3053,21 @@
    "reopened": 0,
    "title": "Principal Program Manager, Strategy & Operations (12 Month Contract)",
    "url": "https://www.riotgames.com/en/work-with-us/job/8331202?gh_jid=8331202"
+  },
+  "8335839": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "game producer league of legends @ dublin, ireland",
+   "location": "Dublin, Ireland",
+   "posted_at": "2026-10-30T11:21:26+00:00",
+   "posted_history": [
+    "2026-10-30T11:21:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Game Producer - League of Legends",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8335839?gh_jid=8335839"
   }
  }
 }

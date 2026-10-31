@@ -47,6 +47,10 @@
   {
    "date": "2026-10-30",
    "open": 72
+  },
+  {
+   "date": "2026-10-31",
+   "open": 75
   }
  ],
  "jobs": {
@@ -576,7 +580,7 @@
    "url": "https://boards.greenhouse.io/chime/jobs/8765684002?gh_jid=8765684002"
   },
   "8770314002": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -920,19 +924,34 @@
    "title": "Senior Director, Product and Brand Communications",
    "url": "https://boards.greenhouse.io/chime/jobs/8866651002?gh_jid=8866651002"
   },
+  "8868948002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "software engineer jade ai financial partner @ san francisco, ca, usa",
+   "location": "San Francisco, CA, USA",
+   "posted_at": "2026-10-31T00:06:33+00:00",
+   "posted_history": [
+    "2026-10-31T00:06:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Jade - AI Financial Partner",
+   "url": "https://boards.greenhouse.io/chime/jobs/8868948002?gh_jid=8868948002"
+  },
   "8868950002": {
    "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior incident operations manager @ chicago, il, usa; new york, ny, usa; san francisco, ca, usa",
+   "fp": "incident operations manager @ chicago, il, usa; new york, ny, usa; san francisco, ca, usa",
    "location": "Chicago, IL, USA; New York, NY, USA; San Francisco, CA, USA",
    "posted_at": "2026-10-08T15:45:41+00:00",
    "posted_history": [
     "2026-10-08T15:45:41+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Incident Operations Manager",
+   "title": "Incident Operations Manager",
    "url": "https://boards.greenhouse.io/chime/jobs/8868950002?gh_jid=8868950002"
   },
   "8869139002": {
@@ -1190,6 +1209,21 @@
    "title": "Director, Growth Engineering",
    "url": "https://boards.greenhouse.io/chime/jobs/8900226002?gh_jid=8900226002"
   },
+  "8900232002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "senior software engineer membership experience @ san francisco, ca, usa",
+   "location": "San Francisco, CA, USA",
+   "posted_at": "2026-10-31T00:08:14+00:00",
+   "posted_history": [
+    "2026-10-31T00:08:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Membership Experience",
+   "url": "https://boards.greenhouse.io/chime/jobs/8900232002?gh_jid=8900232002"
+  },
   "8900582002": {
    "closed_at": null,
    "department": "",
@@ -1264,6 +1298,36 @@
    "reopened": 0,
    "title": "Content Marketing Manager, SEO & AI Search",
    "url": "https://boards.greenhouse.io/chime/jobs/8918533002?gh_jid=8918533002"
+  },
+  "8920142002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "senior operations manager partner management @ austin, tx, usa",
+   "location": "Austin, TX, USA",
+   "posted_at": "2026-10-30T21:26:33+00:00",
+   "posted_history": [
+    "2026-10-30T21:26:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Operations Manager, Partner Management",
+   "url": "https://boards.greenhouse.io/chime/jobs/8920142002?gh_jid=8920142002"
+  },
+  "8922481002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "software engineer membership experience @ san francisco, ca, usa",
+   "location": "San Francisco, CA, USA",
+   "posted_at": "2026-10-31T00:07:32+00:00",
+   "posted_history": [
+    "2026-10-31T00:07:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Membership Experience",
+   "url": "https://boards.greenhouse.io/chime/jobs/8922481002?gh_jid=8922481002"
   },
   "8922747002": {
    "closed_at": null,

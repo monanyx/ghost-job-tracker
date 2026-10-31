@@ -47,6 +47,10 @@
   {
    "date": "2026-10-30",
    "open": 369
+  },
+  {
+   "date": "2026-10-31",
+   "open": 366
   }
  ],
  "jobs": {
@@ -2375,8 +2379,23 @@
    "title": "Solutions Architect",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8066560"
   },
-  "8066812": {
+  "8066684": {
    "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "director solutions architecture @ bengaluru",
+   "location": "Bengaluru",
+   "posted_at": "2026-07-16T10:01:18+00:00",
+   "posted_history": [
+    "2026-07-16T10:01:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Director, Solutions Architecture",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8066684"
+  },
+  "8066812": {
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3460,8 +3479,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "enterprise account executive ai natives @ berlin; frankfurt; munich; zurich",
-   "location": "Berlin; Frankfurt; Munich; Zurich",
+   "fp": "enterprise account executive ai natives @ berlin; frankfurt; munich",
+   "location": "Berlin; Frankfurt; Munich",
    "posted_at": "2026-08-31T11:30:16+00:00",
    "posted_history": [
     "2026-08-31T11:30:16+00:00"
@@ -4761,7 +4780,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8210719"
   },
   "8211464": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4806,7 +4825,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8211994"
   },
   "8212133": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4941,7 +4960,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8221293"
   },
   "8221350": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6415,14 +6434,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
-   "fp": "director brand creative marketing @ united states",
+   "fp": "director brand marketing @ united states",
    "location": "United States",
    "posted_at": "2026-10-23T18:50:41+00:00",
    "posted_history": [
     "2026-10-23T18:50:41+00:00"
    ],
    "reopened": 0,
-   "title": "Director, Brand & Creative Marketing",
+   "title": "Director, Brand Marketing",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8304692"
   },
   "8305331": {
@@ -6501,7 +6520,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8312165"
   },
   "8312685": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
@@ -6724,6 +6743,21 @@
    "reopened": 0,
    "title": "SVP, Revenue Marketing",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8331479"
+  },
+  "8334108": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "senior manager engineering @ dublin, ireland",
+   "location": "Dublin, Ireland",
+   "posted_at": "2026-10-30T14:57:58+00:00",
+   "posted_history": [
+    "2026-10-30T14:57:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Engineering",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8334108"
   }
  }
 }

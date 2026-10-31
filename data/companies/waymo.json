@@ -47,6 +47,10 @@
   {
    "date": "2026-10-30",
    "open": 369
+  },
+  {
+   "date": "2026-10-31",
+   "open": 372
   }
  ],
  "jobs": {
@@ -111,7 +115,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=6688617"
   },
   "6773081": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1356,7 +1360,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=7838891"
   },
   "7839116": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5170,14 +5174,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "2027 summer intern ms phd ai driven ml performance engineering intern @ mountain view, ca, usa",
+   "fp": "2027 summer intern bs ms phd ai driven ml performance engineering intern @ mountain view, ca, usa",
    "location": "Mountain View, CA, USA",
    "posted_at": "2026-10-01T22:30:20+00:00",
    "posted_history": [
     "2026-10-01T22:30:20+00:00"
    ],
    "reopened": 0,
-   "title": "2027 Summer Intern, MS/PhD, AI-driven ML Performance Engineering Intern",
+   "title": "2027 Summer Intern, BS/MS/PhD, AI-driven ML Performance Engineering Intern",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8248060"
   },
   "8248270": {
@@ -5725,14 +5729,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
-   "fp": "regional fleet readiness manager central @ chicago, il, usa",
+   "fp": "regional autonomous fleet readiness manager central @ chicago, il, usa",
    "location": "Chicago, IL, USA",
    "posted_at": "2026-10-29T21:34:25+00:00",
    "posted_history": [
     "2026-10-29T21:34:25+00:00"
    ],
    "reopened": 0,
-   "title": "Regional Fleet Readiness Manager - Central",
+   "title": "Regional Autonomous Fleet Readiness Manager - Central",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8281628"
   },
   "8281630": {
@@ -5811,18 +5815,18 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8281744"
   },
   "8281938": {
-   "closed_at": "2026-10-22T08:55:54+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
-   "fp": "head of people development culture @ mountain view, ca, usa",
+   "fp": "head of learning development and culture @ mountain view, ca, usa",
    "location": "Mountain View, CA, USA",
    "posted_at": "2026-10-20T12:13:26+00:00",
    "posted_history": [
     "2026-10-20T12:13:26+00:00"
    ],
-   "reopened": 0,
-   "title": "Head of People Development & Culture",
+   "reopened": 1,
+   "title": "Head of Learning & Development and Culture",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8281938"
   },
   "8283558": {
@@ -6170,6 +6174,21 @@
    "title": "Product Operations Manager, Ops Compliance & Regulatory Infrastructure",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8315881"
   },
+  "8315980": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "industrialization engineer @ mountain view, ca, usa; novi, mi, usa",
+   "location": "Mountain View, CA, USA; Novi, MI, USA ",
+   "posted_at": "2026-10-31T00:17:05+00:00",
+   "posted_history": [
+    "2026-10-31T00:17:05+00:00"
+   ],
+   "reopened": 0,
+   "title": "Industrialization Engineer",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8315980"
+  },
   "8319171": {
    "closed_at": null,
    "department": "",
@@ -6200,6 +6219,36 @@
    "title": "Staff Software Engineer",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8319342"
   },
+  "8319591": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "sr staff systems engineer perception planner risk @ mountain view, ca, us",
+   "location": "Mountain View, CA, US",
+   "posted_at": "2026-10-30T22:30:50+00:00",
+   "posted_history": [
+    "2026-10-30T22:30:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Staff Systems Engineer, Perception-Planner Risk",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8319591"
+  },
+  "8328202": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "staff product data scientist marketplace machine learning @ mountain view, ca, usa; san francisco, ca, usa",
+   "location": "Mountain View, CA, USA; San Francisco, CA, USA ",
+   "posted_at": "2026-10-30T22:29:28+00:00",
+   "posted_history": [
+    "2026-10-30T22:29:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Product Data Scientist, Marketplace Machine Learning",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8328202"
+  },
   "8334474": {
    "closed_at": null,
    "department": "",
@@ -6229,6 +6278,21 @@
    "reopened": 0,
    "title": "2027 Summer Intern, MS/PhD, Weather Perception",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8335511"
+  },
+  "8337719": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "2027 summer intern phd research scientist intern @ mountain view, ca, usa",
+   "location": "Mountain View, CA, USA",
+   "posted_at": "2026-10-30T20:19:59+00:00",
+   "posted_history": [
+    "2026-10-30T20:19:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "2027 Summer Intern, PhD, Research Scientist Intern",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8337719"
   }
  }
 }

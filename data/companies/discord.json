@@ -47,6 +47,10 @@
   {
    "date": "2026-10-30",
    "open": 43
+  },
+  {
+   "date": "2026-10-31",
+   "open": 41
   }
  ],
  "jobs": {
@@ -486,7 +490,7 @@
    "url": "https://job-boards.greenhouse.io/discord/jobs/8771059002"
   },
   "8780263002": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -546,7 +550,7 @@
    "url": "https://job-boards.greenhouse.io/discord/jobs/8802354002"
   },
   "8806482002": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

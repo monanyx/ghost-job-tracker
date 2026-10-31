@@ -47,6 +47,10 @@
   {
    "date": "2026-10-30",
    "open": 141
+  },
+  {
+   "date": "2026-10-31",
+   "open": 140
   }
  ],
  "jobs": {
@@ -441,7 +445,7 @@
    "url": "https://boards.greenhouse.io/figma/jobs/5722244004?gh_jid=5722244004"
   },
   "5735493004": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -876,7 +880,7 @@
    "url": "https://boards.greenhouse.io/figma/jobs/6013495004?gh_jid=6013495004"
   },
   "6015609004": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -955,14 +959,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "customer enablement manager @ são paulo, brazil",
+   "fp": "customer success manager @ são paulo, brazil",
    "location": "São Paulo, Brazil",
    "posted_at": "2026-07-06T17:15:29+00:00",
    "posted_history": [
     "2026-07-06T17:15:29+00:00"
    ],
    "reopened": 0,
-   "title": "Customer Enablement Manager (São Paulo, Brazil)",
+   "title": "Customer Success Manager (São Paulo, Brazil)",
    "url": "https://boards.greenhouse.io/figma/jobs/6104028004?gh_jid=6104028004"
   },
   "6104919004": {
@@ -1660,14 +1664,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "technical account manager @ san francisco, ca • new york, ny • united states",
+   "fp": "field engineer @ san francisco, ca • new york, ny • united states",
    "location": "San Francisco, CA • New York, NY • United States",
    "posted_at": "2026-09-09T16:10:57+00:00",
    "posted_history": [
     "2026-09-09T16:10:57+00:00"
    ],
    "reopened": 0,
-   "title": "Technical Account Manager",
+   "title": "Field Engineer",
    "url": "https://boards.greenhouse.io/figma/jobs/6181922004?gh_jid=6181922004"
   },
   "6186265004": {
@@ -2350,14 +2354,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
-   "fp": "senior onboarding manager customer experience @ tokyo, japan",
+   "fp": "onboarding manager customer experience @ tokyo, japan",
    "location": "Tokyo, Japan",
    "posted_at": "2026-10-27T02:27:56+00:00",
    "posted_history": [
     "2026-10-27T02:27:56+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Onboarding Manager, Customer Experience",
+   "title": "Onboarding Manager, Customer Experience (Tokyo, Japan)",
    "url": "https://boards.greenhouse.io/figma/jobs/6231832004?gh_jid=6231832004"
   },
   "6231956004": {
@@ -2410,14 +2414,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-28T10:01:46+00:00",
-   "fp": "customer enablement manager figma weave @ new york, ny • united states",
+   "fp": "customer success manager figma weave @ new york, ny • united states",
    "location": "New York, NY • United States",
    "posted_at": "2026-10-27T20:24:36+00:00",
    "posted_history": [
     "2026-10-27T20:24:36+00:00"
    ],
    "reopened": 0,
-   "title": "Customer Enablement Manager - Figma Weave (New York, United States)",
+   "title": "Customer Success Manager - Figma Weave (New York, United States)",
    "url": "https://boards.greenhouse.io/figma/jobs/6232541004?gh_jid=6232541004"
   },
   "6232584004": {
@@ -2425,14 +2429,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
-   "fp": "customer enablement manager figma weave @ london, england",
+   "fp": "customer success manager figma weave @ london, england",
    "location": "London, England",
    "posted_at": "2026-10-26T20:02:50+00:00",
    "posted_history": [
     "2026-10-26T20:02:50+00:00"
    ],
    "reopened": 0,
-   "title": "Customer Enablement Manager - Figma Weave  (London, United Kingdom)",
+   "title": "Customer Success Manager - Figma Weave  (London, United Kingdom)",
    "url": "https://boards.greenhouse.io/figma/jobs/6232584004?gh_jid=6232584004"
   },
   "6233040004": {
@@ -2515,8 +2519,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
-   "fp": "sales operations manager @ san francisco, ca • new york, ny",
-   "location": "San Francisco, CA • New York, NY",
+   "fp": "sales operations manager @ new york, ny • united states",
+   "location": "New York, NY • United States",
    "posted_at": "2026-10-28T23:11:24+00:00",
    "posted_history": [
     "2026-10-28T23:11:24+00:00"
@@ -2554,6 +2558,21 @@
    "reopened": 0,
    "title": "PhD Intern, Security Engineer (2027)",
    "url": "https://boards.greenhouse.io/figma/jobs/6238015004?gh_jid=6238015004"
+  },
+  "6238252004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "sales recruiter @ london, england",
+   "location": "London, England",
+   "posted_at": "2026-10-30T17:41:19+00:00",
+   "posted_history": [
+    "2026-10-30T17:41:19+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales Recruiter (London, United Kingdom)",
+   "url": "https://boards.greenhouse.io/figma/jobs/6238252004?gh_jid=6238252004"
   }
  }
 }

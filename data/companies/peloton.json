@@ -47,6 +47,10 @@
   {
    "date": "2026-10-30",
    "open": 58
+  },
+  {
+   "date": "2026-10-31",
+   "open": 58
   }
  ],
  "jobs": {
@@ -1071,7 +1075,7 @@
    "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8301435"
   },
   "8304455": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
@@ -1159,6 +1163,21 @@
    "reopened": 0,
    "title": "Peloton Expert (Full-Time) - Detroit Twelve Oaks",
    "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8328428"
+  },
+  "8337677": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "join team peloton san francisco hiring event @ santa clara, california",
+   "location": "Santa Clara, California",
+   "posted_at": "2026-10-30T19:12:45+00:00",
+   "posted_history": [
+    "2026-10-30T19:12:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Join Team Peloton: San Francisco Hiring Event!",
+   "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8337677"
   }
  }
 }

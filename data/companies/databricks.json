@@ -47,6 +47,10 @@
   {
    "date": "2026-10-30",
    "open": 903
+  },
+  {
+   "date": "2026-10-31",
+   "open": 901
   }
  ],
  "jobs": {
@@ -3021,7 +3025,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8298018002"
   },
   "8301830002": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4236,7 +4240,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8458710002"
   },
   "8459031002": {
-   "closed_at": "2026-10-23T08:50:35+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4246,7 +4250,7 @@
    "posted_history": [
     "2026-03-13T23:55:12+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Sr. Counsel, Regulatory",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8459031002"
   },
@@ -4836,7 +4840,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8491126002"
   },
   "8491593002": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -6306,7 +6310,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569522002"
   },
   "8569524002": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6334,6 +6338,21 @@
    "reopened": 0,
    "title": "Lakebase Sales Specialist, Nordics",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569526002"
+  },
+  "8569528002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "lakebase sales specialist benelux @ amsterdam, netherlands",
+   "location": "Amsterdam, Netherlands",
+   "posted_at": "2026-10-30T17:58:53+00:00",
+   "posted_history": [
+    "2026-10-30T17:58:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "Lakebase Sales Specialist, Benelux",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569528002"
   },
   "8569535002": {
    "closed_at": null,
@@ -7855,14 +7874,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
-   "fp": "gtm compensation business partner @ united states",
+   "fp": "senior compensation manager gtm @ united states",
    "location": "United States",
    "posted_at": "2026-07-15T02:38:37+00:00",
    "posted_history": [
     "2026-07-15T02:38:37+00:00"
    ],
    "reopened": 0,
-   "title": "GTM Compensation Business Partner",
+   "title": "Senior Compensation Manager, GTM",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8627549002"
   },
   "8627551002": {
@@ -8376,7 +8395,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8641892002"
   },
   "8642499002": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -10581,7 +10600,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8755662002"
   },
   "8755666002": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -10675,8 +10694,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "accounting manager accounts receivable @ austin, texas; denver, colorado; portland, oregon",
-   "location": "Austin, Texas; Denver, Colorado; Portland, Oregon",
+   "fp": "accounting manager accounts receivable @ california; new york; remote - colorado; remote - georgia; remote - ohio; remote - oregon; remote - pennsylvania; remote - texas; remote - washington; remote - washington d.c.",
+   "location": "California; New York; Remote - Colorado; Remote - Georgia; Remote - Ohio; Remote - Oregon; Remote - Pennsylvania; Remote - Texas; Remote - Washington; Remote - Washington D.C.",
    "posted_at": "2026-09-22T18:55:41+00:00",
    "posted_history": [
     "2026-09-22T18:55:41+00:00"
@@ -12200,6 +12219,21 @@
    "title": "Technical Enablement Specialist  - Field Engineering Onboarding",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8824168002"
   },
+  "8824171002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "ai sales director @ san francisco, california; united states; west coast - united states",
+   "location": "San Francisco, California; United States; West Coast - United States",
+   "posted_at": "2026-10-30T17:57:31+00:00",
+   "posted_history": [
+    "2026-10-30T17:57:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "AI Sales Director",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8824171002"
+  },
   "8824173002": {
    "closed_at": null,
    "department": "",
@@ -12246,7 +12280,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8826668002"
   },
   "8826872002": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -12859,6 +12893,21 @@
    "reopened": 0,
    "title": "Customer Marketing Manager, Americas",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8860643002"
+  },
+  "8860646002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "analyst relations manager @ united states",
+   "location": "United States",
+   "posted_at": "2026-10-30T17:53:07+00:00",
+   "posted_history": [
+    "2026-10-30T17:53:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Analyst Relations Manager",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8860646002"
   },
   "8860653002": {
    "closed_at": null,
@@ -14241,7 +14290,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8899597002"
   },
   "8899659002": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -14854,6 +14903,21 @@
    "reopened": 0,
    "title": "Sr. Counsel, Product",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8922118002"
+  },
+  "8922120002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "sr counsel employment @ bellevue, washington; seattle, washington; washington, d.c.",
+   "location": "Bellevue, Washington; Seattle, Washington; Washington, D.C.",
+   "posted_at": "2026-10-30T14:56:37+00:00",
+   "posted_history": [
+    "2026-10-30T14:56:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Counsel, Employment",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8922120002"
   },
   "8922722002": {
    "closed_at": null,

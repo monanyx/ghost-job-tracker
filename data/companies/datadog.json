@@ -47,6 +47,10 @@
   {
    "date": "2026-10-30",
    "open": 397
+  },
+  {
+   "date": "2026-10-31",
+   "open": 397
   }
  ],
  "jobs": {
@@ -531,7 +535,7 @@
    "url": "https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564"
   },
   "6665385": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1011,7 +1015,7 @@
    "url": "https://careers.datadoghq.com/detail/7172466/?gh_jid=7172466"
   },
   "7180254": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3741,7 +3745,7 @@
    "url": "https://careers.datadoghq.com/detail/8119496/?gh_jid=8119496"
   },
   "8119973": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3921,7 +3925,7 @@
    "url": "https://careers.datadoghq.com/detail/8129799/?gh_jid=8129799"
   },
   "8130003": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4191,7 +4195,7 @@
    "url": "https://careers.datadoghq.com/detail/8142150/?gh_jid=8142150"
   },
   "8142217": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6021,7 +6025,7 @@
    "url": "https://careers.datadoghq.com/detail/8247250/?gh_jid=8247250"
   },
   "8247329": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6831,7 +6835,7 @@
    "url": "https://careers.datadoghq.com/detail/8292620/?gh_jid=8292620"
   },
   "8292699": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7115,6 +7119,21 @@
    "title": "Senior Software Engineer - Analytics Data Platform",
    "url": "https://careers.datadoghq.com/detail/8317738/?gh_jid=8317738"
   },
+  "8318034": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "technical account manager 2 san francisco @ san francisco, california, usa",
+   "location": "San Francisco, California, USA",
+   "posted_at": "2026-10-30T17:58:21+00:00",
+   "posted_history": [
+    "2026-10-30T17:58:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Account Manager 2 - San Francisco",
+   "url": "https://careers.datadoghq.com/detail/8318034/?gh_jid=8318034"
+  },
   "8319487": {
    "closed_at": null,
    "department": "",
@@ -7234,6 +7253,96 @@
    "reopened": 0,
    "title": "Manager I, Engineering - Agent Data Plane",
    "url": "https://careers.datadoghq.com/detail/8333737/?gh_jid=8333737"
+  },
+  "8334003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "mid market account executive @ tel aviv, israel",
+   "location": "Tel Aviv, Israel",
+   "posted_at": "2026-10-30T17:01:07+00:00",
+   "posted_history": [
+    "2026-10-30T17:01:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Mid-Market Account Executive",
+   "url": "https://careers.datadoghq.com/detail/8334003/?gh_jid=8334003"
+  },
+  "8335047": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "senior product manager chat video and collaboration integrations @ new york, new york, usa",
+   "location": "New York, New York, USA",
+   "posted_at": "2026-10-30T15:43:59+00:00",
+   "posted_history": [
+    "2026-10-30T15:43:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Manager, Chat, Video, and Collaboration Integrations",
+   "url": "https://careers.datadoghq.com/detail/8335047/?gh_jid=8335047"
+  },
+  "8335306": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "senior ux researcher core pillars @ new york, new york, usa",
+   "location": "New York, New York, USA",
+   "posted_at": "2026-10-30T13:35:26+00:00",
+   "posted_history": [
+    "2026-10-30T13:35:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior UX Researcher, Core Pillars",
+   "url": "https://careers.datadoghq.com/detail/8335306/?gh_jid=8335306"
+  },
+  "8336601": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "director product design @ new york, new york, usa",
+   "location": "New York, New York, USA",
+   "posted_at": "2026-10-30T12:54:31+00:00",
+   "posted_history": [
+    "2026-10-30T12:54:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Director, Product Design",
+   "url": "https://careers.datadoghq.com/detail/8336601/?gh_jid=8336601"
+  },
+  "8336757": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "senior commercial account executive @ dublin, ireland",
+   "location": "Dublin, Ireland",
+   "posted_at": "2026-10-30T16:59:10+00:00",
+   "posted_history": [
+    "2026-10-30T16:59:10+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Commercial Account Executive (UKI)",
+   "url": "https://careers.datadoghq.com/detail/8336757/?gh_jid=8336757"
+  },
+  "8337954": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "staff product manager metering and attribution @ new york, new york, usa",
+   "location": "New York, New York, USA",
+   "posted_at": "2026-10-30T21:00:23+00:00",
+   "posted_history": [
+    "2026-10-30T21:00:23+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Product Manager, Metering and Attribution",
+   "url": "https://careers.datadoghq.com/detail/8337954/?gh_jid=8337954"
   }
  }
 }

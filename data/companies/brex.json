@@ -47,6 +47,10 @@
   {
    "date": "2026-10-30",
    "open": 264
+  },
+  {
+   "date": "2026-10-31",
+   "open": 263
   }
  ],
  "jobs": {
@@ -1146,7 +1150,7 @@
    "url": "https://www.brex.com/careers/8536988002?gh_jid=8536988002"
   },
   "8579194002": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1161,7 +1165,7 @@
    "url": "https://www.brex.com/careers/8579194002?gh_jid=8579194002"
   },
   "8579199002": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1176,7 +1180,7 @@
    "url": "https://www.brex.com/careers/8579199002?gh_jid=8579199002"
   },
   "8579204002": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1191,7 +1195,7 @@
    "url": "https://www.brex.com/careers/8579204002?gh_jid=8579204002"
   },
   "8579209002": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1206,7 +1210,7 @@
    "url": "https://www.brex.com/careers/8579209002?gh_jid=8579209002"
   },
   "8579215002": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1219,6 +1223,36 @@
    "reopened": 0,
    "title": "Technical Consultant I",
    "url": "https://www.brex.com/careers/8579215002?gh_jid=8579215002"
+  },
+  "8579396002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "manager cross border payment operations @ salt lake city, utah, united states",
+   "location": "Salt Lake City, Utah, United States",
+   "posted_at": "2026-06-05T17:10:36+00:00",
+   "posted_history": [
+    "2026-06-05T17:10:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Cross-Border Payment Operations",
+   "url": "https://www.brex.com/careers/8579396002?gh_jid=8579396002"
+  },
+  "8580566002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "manager cross border payment operations @ são paulo, são paulo, brazil",
+   "location": "São Paulo, São Paulo, Brazil",
+   "posted_at": "2026-06-05T17:15:33+00:00",
+   "posted_history": [
+    "2026-06-05T17:15:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Cross-Border Payment Operations",
+   "url": "https://www.brex.com/careers/8580566002?gh_jid=8580566002"
   },
   "8584366002": {
    "closed_at": null,
@@ -1955,6 +1989,51 @@
    "title": "Account Executive, Small Business",
    "url": "https://www.brex.com/careers/8686667002?gh_jid=8686667002"
   },
+  "8687485002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "manager cross border payment operations @ seattle, washington, united states",
+   "location": "Seattle, Washington, United States",
+   "posted_at": "2026-08-06T17:26:06+00:00",
+   "posted_history": [
+    "2026-08-06T17:26:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Cross-Border Payment Operations",
+   "url": "https://www.brex.com/careers/8687485002?gh_jid=8687485002"
+  },
+  "8687488002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "manager cross border payment operations @ san francisco, california, united states",
+   "location": "San Francisco, California, United States",
+   "posted_at": "2026-08-06T17:27:28+00:00",
+   "posted_history": [
+    "2026-08-06T17:27:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Cross-Border Payment Operations",
+   "url": "https://www.brex.com/careers/8687488002?gh_jid=8687488002"
+  },
+  "8687493002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "manager cross border payment operations @ new york, new york, united states",
+   "location": "New York, New York, United States",
+   "posted_at": "2026-08-06T17:27:59+00:00",
+   "posted_history": [
+    "2026-08-06T17:27:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Cross-Border Payment Operations",
+   "url": "https://www.brex.com/careers/8687493002?gh_jid=8687493002"
+  },
   "8688110002": {
    "closed_at": null,
    "department": "",
@@ -2211,7 +2290,7 @@
    "url": "https://www.brex.com/careers/8762350002?gh_jid=8762350002"
   },
   "8770720002": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2226,7 +2305,7 @@
    "url": "https://www.brex.com/careers/8770720002?gh_jid=8770720002"
   },
   "8770721002": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2241,7 +2320,7 @@
    "url": "https://www.brex.com/careers/8770721002?gh_jid=8770721002"
   },
   "8770722002": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2256,7 +2335,7 @@
    "url": "https://www.brex.com/careers/8770722002?gh_jid=8770722002"
   },
   "8770724002": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4549,6 +4628,51 @@
    "reopened": 0,
    "title": "Analyst, Banking Operations (Domestic)",
    "url": "https://www.brex.com/careers/8924533002?gh_jid=8924533002"
+  },
+  "8925779002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "senior growth marketing manager paid social @ vancouver, british columbia, canada",
+   "location": "Vancouver, British Columbia, Canada",
+   "posted_at": "2026-10-30T18:33:27+00:00",
+   "posted_history": [
+    "2026-10-30T18:33:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Growth Marketing Manager, Paid Social",
+   "url": "https://www.brex.com/careers/8925779002?gh_jid=8925779002"
+  },
+  "8925888002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "partner operations program manager associate @ vancouver, british columbia, canada",
+   "location": "Vancouver, British Columbia, Canada",
+   "posted_at": "2026-10-30T19:21:36+00:00",
+   "posted_history": [
+    "2026-10-30T19:21:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Partner Operations Program Manager, Associate",
+   "url": "https://www.brex.com/careers/8925888002?gh_jid=8925888002"
+  },
+  "8925893002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "partner operations program manager associate @ salt lake city, utah, united states",
+   "location": "Salt Lake City, Utah, United States",
+   "posted_at": "2026-10-30T19:22:48+00:00",
+   "posted_history": [
+    "2026-10-30T19:22:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "Partner Operations Program Manager, Associate",
+   "url": "https://www.brex.com/careers/8925893002?gh_jid=8925893002"
   }
  }
 }

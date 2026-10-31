@@ -47,6 +47,10 @@
   {
    "date": "2026-10-30",
    "open": 111
+  },
+  {
+   "date": "2026-10-31",
+   "open": 110
   }
  ],
  "jobs": {
@@ -591,7 +595,7 @@
    "url": "https://www.asana.com/jobs/apply/8027399?gh_jid=8027399"
   },
   "8031595": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -606,7 +610,7 @@
    "url": "https://www.asana.com/jobs/apply/8031595?gh_jid=8031595"
   },
   "8044789": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1745,6 +1749,21 @@
    "title": "Sales Engineer",
    "url": "https://www.asana.com/jobs/apply/8282422?gh_jid=8282422"
   },
+  "8282518": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "legal operations analyst @ chicago",
+   "location": "Chicago",
+   "posted_at": "2026-10-30T20:28:47+00:00",
+   "posted_history": [
+    "2026-10-30T20:28:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Legal Operations Analyst",
+   "url": "https://www.asana.com/jobs/apply/8282518?gh_jid=8282518"
+  },
   "8282522": {
    "closed_at": null,
    "department": "",
@@ -1941,7 +1960,7 @@
    "url": "https://www.asana.com/jobs/apply/8315830?gh_jid=8315830"
   },
   "8315854": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
@@ -2014,6 +2033,21 @@
    "reopened": 0,
    "title": "CX Technical Enablement Partner",
    "url": "https://www.asana.com/jobs/apply/8326988?gh_jid=8326988"
+  },
+  "8337386": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "implementation manager @ munich",
+   "location": "Munich",
+   "posted_at": "2026-10-30T17:26:59+00:00",
+   "posted_history": [
+    "2026-10-30T17:26:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Implementation Manager",
+   "url": "https://www.asana.com/jobs/apply/8337386?gh_jid=8337386"
   }
  }
 }

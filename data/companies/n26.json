@@ -47,6 +47,10 @@
   {
    "date": "2026-10-30",
    "open": 31
+  },
+  {
+   "date": "2026-10-31",
+   "open": 32
   }
  ],
  "jobs": {
@@ -231,7 +235,7 @@
    "url": "https://n26.com/en-eu/careers/positions/8138757?gh_jid=8138757"
   },
   "8141767": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -422,7 +426,7 @@
     "2026-09-11T14:28:18+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Lifecycle Specialist",
+   "title": "Senior Lifecycle Specialist (Compliance & Operational Communication)",
    "url": "https://n26.com/en-eu/careers/positions/8187986?gh_jid=8187986"
   },
   "8200510": {
@@ -621,7 +625,7 @@
    "url": "https://n26.com/en-eu/careers/positions/8245528?gh_jid=8245528"
   },
   "8249423": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -769,6 +773,51 @@
    "reopened": 0,
    "title": "Treasury Trader",
    "url": "https://n26.com/en-eu/careers/positions/8312214?gh_jid=8312214"
+  },
+  "8334011": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "senior people business partner @ berlin",
+   "location": "Berlin",
+   "posted_at": "2026-10-30T14:31:48+00:00",
+   "posted_history": [
+    "2026-10-30T14:31:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior People Business Partner",
+   "url": "https://n26.com/en-eu/careers/positions/8334011?gh_jid=8334011"
+  },
+  "8336853": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "senior people business partner @ barcelona",
+   "location": "Barcelona",
+   "posted_at": "2026-10-30T14:48:03+00:00",
+   "posted_history": [
+    "2026-10-30T14:48:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior People Business Partner",
+   "url": "https://n26.com/en-eu/careers/positions/8336853?gh_jid=8336853"
+  },
+  "8336867": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "complaints audit manager fluent german @ madrid",
+   "location": "Madrid",
+   "posted_at": "2026-10-30T14:51:55+00:00",
+   "posted_history": [
+    "2026-10-30T14:51:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Complaints Audit Manager - Fluent German",
+   "url": "https://n26.com/en-eu/careers/positions/8336867?gh_jid=8336867"
   }
  }
 }

@@ -47,6 +47,10 @@
   {
    "date": "2026-10-30",
    "open": 236
+  },
+  {
+   "date": "2026-10-31",
+   "open": 238
   }
  ],
  "jobs": {
@@ -96,7 +100,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8490477002"
   },
   "8512432002": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -171,7 +175,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532274002"
   },
   "8565469002": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -365,6 +369,21 @@
    "title": "Senior Backend Engineer, AI Engineering: Chat",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8621733002"
   },
+  "8622433002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "senior professional services project manager @ remote, united kingdom",
+   "location": "Remote, United Kingdom",
+   "posted_at": "2026-07-22T09:41:37+00:00",
+   "posted_history": [
+    "2026-07-22T09:41:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Professional Services Project Manager (EMEA)",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8622433002"
+  },
   "8623389002": {
    "closed_at": null,
    "department": "",
@@ -484,6 +503,21 @@
    "reopened": 0,
    "title": "Engineering Manager - Nonlinear Productivity (Friction Elimination & Solutions)",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8632388002"
+  },
+  "8632446002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "staff software engineer security foundations @ bangalore, india",
+   "location": "Bangalore, India",
+   "posted_at": "2026-08-24T22:47:00+00:00",
+   "posted_history": [
+    "2026-08-24T22:47:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer, Security Foundations",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8632446002"
   },
   "8633807002": {
    "closed_at": null,
@@ -741,7 +775,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8658878002"
   },
   "8660935002": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -835,8 +869,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior backend engineer core devops container registry @ remote, united kingdom",
-   "location": "Remote, United Kingdom",
+   "fp": "senior backend engineer core devops container registry @ remote, canada; remote, united states",
+   "location": "Remote, Canada; Remote, United States",
    "posted_at": "2026-10-08T02:34:12+00:00",
    "posted_history": [
     "2026-10-08T02:34:12+00:00"
@@ -1165,14 +1199,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior engagement manager germany @ remote, germany",
-   "location": "Remote, Germany",
+   "fp": "senior engagement manager ps sales dach @ remote, austria; remote, germany",
+   "location": "Remote, Austria; Remote, Germany",
    "posted_at": "2026-08-19T08:50:48+00:00",
    "posted_history": [
     "2026-08-19T08:50:48+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Engagement Manager - Germany",
+   "title": "Senior Engagement Manager, PS Sales - DACH",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8725981002"
   },
   "8726744002": {
@@ -2001,7 +2035,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8815140002"
   },
   "8821526002": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3036,7 +3070,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8869167002"
   },
   "8871274002": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3366,7 +3400,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8882059002"
   },
   "8882365002": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3445,14 +3479,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
-   "fp": "senior director dedicated infrastructure platforms @ remote, canada; remote, united kingdom; remote, united states",
+   "fp": "director of engineering dedicated infrastructure platforms @ remote, canada; remote, united kingdom; remote, united states",
    "location": "Remote, Canada; Remote, United Kingdom; Remote, United States",
    "posted_at": "2026-10-21T16:41:42+00:00",
    "posted_history": [
     "2026-10-21T16:41:42+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Director, Dedicated Infrastructure & Platforms",
+   "title": "Director of Engineering, Dedicated Infrastructure & Platforms",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8883597002"
   },
   "8884627002": {
@@ -3649,6 +3683,21 @@
    "reopened": 0,
    "title": "Backend Engineer (Ruby), Create: Change Record",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8891301002"
+  },
+  "8891673002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "commercial account executive mid market canada @ remote, canada",
+   "location": "Remote, Canada",
+   "posted_at": "2026-10-30T17:20:25+00:00",
+   "posted_history": [
+    "2026-10-30T17:20:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Commercial Account Executive - Mid-Market, Canada",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8891673002"
   },
   "8891827002": {
    "closed_at": null,
@@ -3865,14 +3914,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-28T10:01:46+00:00",
-   "fp": "senior solutions architect @ remote, united states",
+   "fp": "senior solutions architect east enterprise team @ remote, united states",
    "location": "Remote, United States",
    "posted_at": "2026-10-27T15:52:43+00:00",
    "posted_history": [
     "2026-10-27T15:52:43+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Solutions Architect",
+   "title": "Senior Solutions Architect - East Enterprise team",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8906915002"
   },
   "8907028002": {
@@ -3985,14 +4034,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
-   "fp": "senior engagement manager emea @ remote ireland; remote, germany; remote, spain; remote, united kingdom",
+   "fp": "senior engagement manager ps sales emea @ remote ireland; remote, germany; remote, spain; remote, united kingdom",
    "location": "Remote Ireland; Remote, Germany; Remote, Spain; Remote, United Kingdom",
    "posted_at": "2026-10-23T14:22:57+00:00",
    "posted_history": [
     "2026-10-23T14:22:57+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Engagement Manager - EMEA",
+   "title": "Senior Engagement Manager, PS Sales - EMEA",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8911335002"
   },
   "8911684002": {
@@ -4070,6 +4119,21 @@
    "title": "Manager, Professional Services Engineers, EMEA",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8916753002"
   },
+  "8918216002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "senior compensation manager @ remote, canada; remote, united states",
+   "location": "Remote, Canada; Remote, United States",
+   "posted_at": "2026-10-30T16:06:24+00:00",
+   "posted_history": [
+    "2026-10-30T16:06:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Compensation Manager",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8918216002"
+  },
   "8918853002": {
    "closed_at": null,
    "department": "",
@@ -4100,6 +4164,21 @@
    "title": "Senior Executive Assistant",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8919962002"
   },
+  "8920912002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "customer experience enablement lead @ remote, united states",
+   "location": "Remote, United States",
+   "posted_at": "2026-10-30T20:04:41+00:00",
+   "posted_history": [
+    "2026-10-30T20:04:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Experience Enablement Lead",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8920912002"
+  },
   "8921380002": {
    "closed_at": null,
    "department": "",
@@ -4114,6 +4193,36 @@
    "reopened": 0,
    "title": "Engineering Manager, Architecture Engineering: Async",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8921380002"
+  },
+  "8922013002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "data scientist enterprise analytics @ remote, united states",
+   "location": "Remote, United States",
+   "posted_at": "2026-10-30T19:59:39+00:00",
+   "posted_history": [
+    "2026-10-30T19:59:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Data Scientist, Enterprise Analytics",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8922013002"
+  },
+  "8922062002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "senior manager data science @ remote, united states",
+   "location": "Remote, United States",
+   "posted_at": "2026-10-30T19:07:37+00:00",
+   "posted_history": [
+    "2026-10-30T19:07:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Data Science",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8922062002"
   },
   "8922427002": {
    "closed_at": null,
@@ -4159,6 +4268,21 @@
    "reopened": 0,
    "title": "Manager, Sales Recruiting (APJ)",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8922872002"
+  },
+  "8923092002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "incident escalation lead enterprise customers @ bangalore, india",
+   "location": "Bangalore, India",
+   "posted_at": "2026-10-30T11:43:58+00:00",
+   "posted_history": [
+    "2026-10-30T11:43:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Incident & Escalation Lead- Enterprise Customers",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8923092002"
   }
  }
 }

@@ -47,6 +47,10 @@
   {
    "date": "2026-10-30",
    "open": 168
+  },
+  {
+   "date": "2026-10-31",
+   "open": 170
   }
  ],
  "jobs": {
@@ -664,6 +668,21 @@
    "reopened": 0,
    "title": "Support Specialist",
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4648176005"
+  },
+  "4649903005": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "staff software engineer data platform @ san francisco, ca; new york, ny",
+   "location": "San Francisco, CA; New York, NY",
+   "posted_at": "2026-01-15T19:03:32+00:00",
+   "posted_history": [
+    "2026-01-15T19:03:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer, Data Platform",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4649903005"
   },
   "4650514005": {
    "closed_at": null,
@@ -2959,6 +2978,21 @@
    "reopened": 0,
    "title": "Strategist, Bids & Business Development",
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4748372005"
+  },
+  "4748981005": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "head of corporate accounting @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-10-30T22:32:28+00:00",
+   "posted_history": [
+    "2026-10-30T22:32:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Head of Corporate Accounting",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4748981005"
   }
  }
 }

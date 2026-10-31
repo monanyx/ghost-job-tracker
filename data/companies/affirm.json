@@ -47,6 +47,10 @@
   {
    "date": "2026-10-30",
    "open": 241
+  },
+  {
+   "date": "2026-10-31",
+   "open": 245
   }
  ],
  "jobs": {
@@ -846,7 +850,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7808667003"
   },
   "7812982003": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1431,7 +1435,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7832326003"
   },
   "7833950003": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1446,7 +1450,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003"
   },
   "7833952003": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1506,7 +1510,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7850544003"
   },
   "7850550003": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2856,7 +2860,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8010496003"
   },
   "8010608003": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2871,7 +2875,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8010608003"
   },
   "8010610003": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3770,6 +3774,36 @@
    "title": "Senior Software Engineer, Fullstack (Repayments UX)",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8040380003"
   },
+  "8040386003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "senior software engineer backend @ remote us",
+   "location": "Remote US",
+   "posted_at": "2026-10-30T17:52:49+00:00",
+   "posted_history": [
+    "2026-10-30T17:52:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Backend (AI Platform)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8040386003"
+  },
+  "8040388003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "senior software engineer backend @ remote canada",
+   "location": "Remote Canada",
+   "posted_at": "2026-10-30T17:52:47+00:00",
+   "posted_history": [
+    "2026-10-30T17:52:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Backend (AI Platform)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8040388003"
+  },
   "8040392003": {
    "closed_at": null,
    "department": "",
@@ -3940,14 +3974,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
-   "fp": "senior software engineer backend @ remote uk",
+   "fp": "software engineer ii backend @ remote uk",
    "location": "Remote UK",
    "posted_at": "2026-10-30T09:16:32+00:00",
    "posted_history": [
     "2026-10-30T09:16:32+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Software Engineer, Backend (Payments)",
+   "title": "Software Engineer II, Backend (Payments)",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8041815003"
   },
   "8041930003": {
@@ -3955,14 +3989,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
-   "fp": "group product manager @ remote us",
+   "fp": "group product manager zero to one labs @ remote us",
    "location": "Remote US",
    "posted_at": "2026-10-23T19:31:01+00:00",
    "posted_history": [
     "2026-10-23T19:31:01+00:00"
    ],
    "reopened": 0,
-   "title": "Group Product Manager",
+   "title": "Group Product Manager - Zero to One Labs",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8041930003"
   },
   "8041932003": {
@@ -3970,14 +4004,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
-   "fp": "group product manager @ remote canada",
+   "fp": "group product manager zero to one labs @ remote canada",
    "location": "Remote Canada",
    "posted_at": "2026-10-23T19:31:18+00:00",
    "posted_history": [
     "2026-10-23T19:31:18+00:00"
    ],
    "reopened": 0,
-   "title": "Group Product Manager",
+   "title": "Group Product Manager - Zero to One Labs",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8041932003"
   },
   "8042128003": {
@@ -3994,6 +4028,21 @@
    "reopened": 0,
    "title": "Senior Product Security Engineer",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8042128003"
+  },
+  "8042399003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "software engineer ii full stack @ remote canada",
+   "location": "Remote Canada",
+   "posted_at": "2026-10-30T20:19:46+00:00",
+   "posted_history": [
+    "2026-10-30T20:19:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer II, Full Stack (Card Pre-Swipe Experience)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8042399003"
   },
   "8043027003": {
    "closed_at": null,
@@ -4040,6 +4089,51 @@
    "title": "Senior Technical Account Manager (Strategic Alliances)",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8044928003"
   },
+  "8045376003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "senior manager security incident response @ remote us",
+   "location": "Remote US",
+   "posted_at": "2026-10-30T14:12:11+00:00",
+   "posted_history": [
+    "2026-10-30T14:12:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Security Incident Response",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8045376003"
+  },
+  "8045378003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "senior manager security incident response @ remote canada",
+   "location": "Remote Canada",
+   "posted_at": "2026-10-30T14:12:13+00:00",
+   "posted_history": [
+    "2026-10-30T14:12:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Security Incident Response",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8045378003"
+  },
+  "8045391003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "manager sales engineering @ remote us",
+   "location": "Remote US",
+   "posted_at": "2026-10-30T17:39:23+00:00",
+   "posted_history": [
+    "2026-10-30T17:39:23+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Sales Engineering",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8045391003"
+  },
   "8045395003": {
    "closed_at": null,
    "department": "",
@@ -4054,6 +4148,66 @@
    "reopened": 0,
    "title": "Staff Machine Learning Engineer (Credit International ML)",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8045395003"
+  },
+  "8048119003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "compensation analyst ii @ remote us",
+   "location": "Remote US",
+   "posted_at": "2026-10-30T13:01:37+00:00",
+   "posted_history": [
+    "2026-10-30T13:01:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Compensation Analyst II (Programs & Partnerships)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8048119003"
+  },
+  "8048121003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "compensation analyst ii @ remote canada",
+   "location": "Remote Canada",
+   "posted_at": "2026-10-30T13:01:39+00:00",
+   "posted_history": [
+    "2026-10-30T13:01:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Compensation Analyst II (Programs & Partnerships)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8048121003"
+  },
+  "8057948003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "senior staff software engineer backend @ remote us",
+   "location": "Remote US",
+   "posted_at": "2026-10-30T16:25:14+00:00",
+   "posted_history": [
+    "2026-10-30T16:25:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Staff Software Engineer, Backend (Compute Platform)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8057948003"
+  },
+  "8057950003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "senior staff software engineer backend @ remote canada",
+   "location": "Remote Canada",
+   "posted_at": "2026-10-30T16:25:16+00:00",
+   "posted_history": [
+    "2026-10-30T16:25:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Staff Software Engineer, Backend (Compute Platform)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8057950003"
   },
   "8098803003": {
    "closed_at": null,

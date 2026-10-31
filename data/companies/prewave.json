@@ -47,6 +47,10 @@
   {
    "date": "2026-10-30",
    "open": 9
+  },
+  {
+   "date": "2026-10-31",
+   "open": 9
   }
  ],
  "jobs": {
@@ -141,7 +145,7 @@
    "url": "https://prewave.jobs.personio.de/job/2699811"
   },
   "2724327": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "Customer Success",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -184,6 +188,21 @@
    "reopened": 0,
    "title": "Partner Manager, Consulting Partnerships (f/m/d)",
    "url": "https://prewave.jobs.personio.de/job/2838330"
+  },
+  "2862498": {
+   "closed_at": null,
+   "department": "Public Sector",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "principal software engineer public sector @ vienna",
+   "location": "Vienna",
+   "posted_at": "2026-10-27T12:06:16+00:00",
+   "posted_history": [
+    "2026-10-27T12:06:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Software Engineer, Public Sector (f/m/d)",
+   "url": "https://prewave.jobs.personio.de/job/2862498"
   }
  }
 }

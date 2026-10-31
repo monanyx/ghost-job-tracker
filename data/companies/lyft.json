@@ -47,11 +47,15 @@
   {
    "date": "2026-10-30",
    "open": 173
+  },
+  {
+   "date": "2026-10-31",
+   "open": 170
   }
  ],
  "jobs": {
   "8402813002": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -156,18 +160,18 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8513755002?gh_jid=8513755002"
   },
   "8514422002": {
-   "closed_at": "2026-10-23T08:50:35+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior analyst global expansion strategy @ toronto, canada",
+   "fp": "senior analyst executive chauffeur @ toronto, canada",
    "location": "Toronto, Canada",
    "posted_at": "2026-04-21T22:07:23+00:00",
    "posted_history": [
     "2026-04-21T22:07:23+00:00"
    ],
-   "reopened": 0,
-   "title": "Senior Analyst, Global Expansion Strategy",
+   "reopened": 1,
+   "title": "Senior Analyst, Executive Chauffeur (Alcove)",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8514422002?gh_jid=8514422002"
   },
   "8555335002": {
@@ -261,7 +265,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8584695002?gh_jid=8584695002"
   },
   "8586330002": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -276,7 +280,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8586330002?gh_jid=8586330002"
   },
   "8594167002": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -456,7 +460,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8623242002?gh_jid=8623242002"
   },
   "8626176002": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -816,7 +820,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8697534002?gh_jid=8697534002"
   },
   "8706916002": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -831,7 +835,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8706916002?gh_jid=8706916002"
   },
   "8706924002": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -846,7 +850,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8706924002?gh_jid=8706924002"
   },
   "8706936002": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1116,7 +1120,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8761299002?gh_jid=8761299002"
   },
   "8761492002": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1476,7 +1480,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8783345002?gh_jid=8783345002"
   },
   "8790623002": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1536,7 +1540,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8790999002?gh_jid=8790999002"
   },
   "8791500002": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1551,7 +1555,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8791500002?gh_jid=8791500002"
   },
   "8792050002": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1789,6 +1793,21 @@
    "reopened": 0,
    "title": "Software Engineer Intern, Machine Learning (Summer 2027 - Toronto)",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8802332002?gh_jid=8802332002"
+  },
+  "8806552002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "software engineer identity @ toronto, canada",
+   "location": "Toronto, Canada",
+   "posted_at": "2026-09-15T08:17:17+00:00",
+   "posted_history": [
+    "2026-09-15T08:17:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Identity",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8806552002?gh_jid=8806552002"
   },
   "8806560002": {
    "closed_at": "2026-10-22T08:55:54+00:00",
@@ -2225,6 +2244,21 @@
    "title": "Counsel, Patents & IP",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8853037002?gh_jid=8853037002"
   },
+  "8856438002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "global supply manager @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-09-29T23:26:52+00:00",
+   "posted_history": [
+    "2026-09-29T23:26:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "Global Supply Manager",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8856438002?gh_jid=8856438002"
+  },
   "8856440002": {
    "closed_at": null,
    "department": "",
@@ -2269,6 +2303,21 @@
    "reopened": 0,
    "title": "Data Scientist, Algorithms - Dynamic Pricing",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8856443002?gh_jid=8856443002"
+  },
+  "8856992002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "global supply manager @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-09-29T23:26:56+00:00",
+   "posted_history": [
+    "2026-09-29T23:26:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Global Supply Manager",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8856992002?gh_jid=8856992002"
   },
   "8857056002": {
    "closed_at": null,
@@ -3349,6 +3398,66 @@
    "reopened": 0,
    "title": "Directeur(trice), Appels d'offres, Stratégie et tarification",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8923735002?gh_jid=8923735002"
+  },
+  "8925465002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "fleet operations associate @ nashville, tn",
+   "location": "Nashville, TN",
+   "posted_at": "2026-10-30T16:54:11+00:00",
+   "posted_history": [
+    "2026-10-30T16:54:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Fleet Operations Associate",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8925465002?gh_jid=8925465002"
+  },
+  "8925486002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "fleet operations associate @ nashville, tn",
+   "location": "Nashville, TN",
+   "posted_at": "2026-10-30T16:56:32+00:00",
+   "posted_history": [
+    "2026-10-30T16:56:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Fleet Operations Associate (Day Shift)",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8925486002?gh_jid=8925486002"
+  },
+  "8925493002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "fleet operations associate @ nashville, tn",
+   "location": "Nashville, TN",
+   "posted_at": "2026-10-30T16:59:39+00:00",
+   "posted_history": [
+    "2026-10-30T16:59:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Fleet Operations Associate (Overnight Shift)",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8925493002?gh_jid=8925493002"
+  },
+  "8925496002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "fleet operations associate @ nashville, tn",
+   "location": "Nashville, TN",
+   "posted_at": "2026-10-30T17:01:25+00:00",
+   "posted_history": [
+    "2026-10-30T17:01:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Fleet Operations Associate (Swing Shift)",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8925496002?gh_jid=8925496002"
   }
  }
 }

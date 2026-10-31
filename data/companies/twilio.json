@@ -47,6 +47,10 @@
   {
    "date": "2026-10-30",
    "open": 131
+  },
+  {
+   "date": "2026-10-31",
+   "open": 132
   }
  ],
  "jobs": {
@@ -66,7 +70,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/6372770"
   },
   "7481689": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2195,6 +2199,21 @@
    "title": "Principal Presales Engineer, Product Specialist",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8267928"
   },
+  "8268235": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "staff product manager @ remote - us",
+   "location": "Remote - US",
+   "posted_at": "2026-10-30T15:40:55+00:00",
+   "posted_history": [
+    "2026-10-30T15:40:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Product Manager",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8268235"
+  },
   "8280140": {
    "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
@@ -2494,6 +2513,21 @@
    "reopened": 0,
    "title": "New Business Account Executive",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8327527"
+  },
+  "8327839": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "senior solutions engineer @ remote - united kingdom",
+   "location": "Remote - United Kingdom",
+   "posted_at": "2026-10-30T14:15:58+00:00",
+   "posted_history": [
+    "2026-10-30T14:15:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Solutions Engineer",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8327839"
   },
   "8330326": {
    "closed_at": null,

@@ -47,6 +47,10 @@
   {
    "date": "2026-10-30",
    "open": 60
+  },
+  {
+   "date": "2026-10-31",
+   "open": 63
   }
  ],
  "jobs": {
@@ -156,7 +160,7 @@
    "url": "https://job-boards.greenhouse.io/twitch/jobs/8623401002"
   },
   "8633655002": {
-   "closed_at": "2026-10-22T08:55:54+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -166,12 +170,12 @@
    "posted_history": [
     "2026-07-15T20:03:22+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior UX Designer, Monetization",
    "url": "https://job-boards.greenhouse.io/twitch/jobs/8633655002"
   },
   "8635691002": {
-   "closed_at": "2026-10-22T08:55:54+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -181,12 +185,12 @@
    "posted_history": [
     "2026-07-15T20:03:23+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior UX Designer, Monetization",
    "url": "https://job-boards.greenhouse.io/twitch/jobs/8635691002"
   },
   "8635694002": {
-   "closed_at": "2026-10-22T08:55:54+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -196,7 +200,7 @@
    "posted_history": [
     "2026-07-15T20:03:23+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior UX Designer, Monetization",
    "url": "https://job-boards.greenhouse.io/twitch/jobs/8635694002"
   },

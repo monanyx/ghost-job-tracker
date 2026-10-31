@@ -47,6 +47,10 @@
   {
    "date": "2026-10-30",
    "open": 670
+  },
+  {
+   "date": "2026-10-31",
+   "open": 675
   }
  ],
  "jobs": {
@@ -246,7 +250,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4613592008"
   },
   "4616971008": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1191,7 +1195,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5082455008"
   },
   "5097186008": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1954,6 +1958,21 @@
    "reopened": 0,
    "title": "Staff+ Software Engineer, Full-stack",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5174747008"
+  },
+  "5174755008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "staff software engineer backend @ san francisco, ca | new york city, ny",
+   "location": "San Francisco, CA | New York City, NY",
+   "posted_at": "2026-04-08T18:57:22+00:00",
+   "posted_history": [
+    "2026-04-08T18:57:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff+ Software Engineer, Backend",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5174755008"
   },
   "5176036008": {
    "closed_at": null,
@@ -4311,7 +4330,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5371065008"
   },
   "5375371008": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5166,7 +5185,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390890008"
   },
   "5390894008": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5200,8 +5219,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "gtm strategy operations frontier @ san francisco, ca",
-   "location": "San Francisco, CA",
+   "fp": "gtm strategy operations frontier @ san francisco, ca | new york city, ny | seattle, wa",
+   "location": "San Francisco, CA | New York City, NY | Seattle, WA",
    "posted_at": "2026-08-20T00:23:16+00:00",
    "posted_history": [
     "2026-08-20T00:23:16+00:00"
@@ -5914,6 +5933,21 @@
    "reopened": 0,
    "title": "Field Marketing Manager, APAC",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5393720008"
+  },
+  "5394403008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "engineering manager integrity and attestation @ san francisco, ca | seattle, wa",
+   "location": "San Francisco, CA | Seattle, WA",
+   "posted_at": "2026-10-30T19:47:54+00:00",
+   "posted_history": [
+    "2026-10-30T19:47:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager, Integrity and Attestation",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5394403008"
   },
   "5394887008": {
    "closed_at": null,
@@ -6640,14 +6674,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "new product introduction sourcing manager data center power cooling @ remote-friendly, united states",
+   "fp": "data center ofe sourcing lead data center power cooling @ remote-friendly, united states",
    "location": "Remote-Friendly, United States",
    "posted_at": "2026-08-28T18:10:16+00:00",
    "posted_history": [
     "2026-08-28T18:10:16+00:00"
    ],
    "reopened": 0,
-   "title": "New Product Introduction (NPI) Sourcing Manager, Data Center Power & Cooling",
+   "title": "Data Center OFE - Sourcing Lead, Data Center Power & Cooling",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5409569008"
   },
   "5409934008": {
@@ -9970,14 +10004,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
-   "fp": "senior manager order to cash assurance @ san francisco, ca | seattle, wa",
+   "fp": "director order to cash assurance @ san francisco, ca | seattle, wa",
    "location": "San Francisco, CA | Seattle, WA",
    "posted_at": "2026-10-29T16:43:33+00:00",
    "posted_history": [
     "2026-10-29T16:43:33+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Manager, Order-to-Cash Assurance",
+   "title": "Director, Order-to-Cash Assurance",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5451912008"
   },
   "5452316008": {
@@ -11150,6 +11184,21 @@
    "title": "Solutions Marketing Manager, Emerging Industries",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5463888008"
   },
+  "5464234008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "data engineer @ san francisco, ca | new york city, ny; seattle, wa",
+   "location": "San Francisco, CA | New York City, NY; Seattle, WA",
+   "posted_at": "2026-10-30T23:34:18+00:00",
+   "posted_history": [
+    "2026-10-30T23:34:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Data Engineer",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5464234008"
+  },
   "5464493008": {
    "closed_at": null,
    "department": "",
@@ -11245,14 +11294,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
-   "fp": "senior field engineer data center design and engineering @ remote-friendly, united states",
+   "fp": "field engineer data center design and engineering @ remote-friendly, united states",
    "location": "Remote-Friendly, United States",
    "posted_at": "2026-10-29T01:20:34+00:00",
    "posted_history": [
     "2026-10-29T01:20:34+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Field Engineer, Data Center Design and Engineering",
+   "title": "Field Engineer, Data Center Design and Engineering",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5466517008"
   },
   "5467083008": {
@@ -11300,6 +11349,21 @@
    "title": "Research Scientist, Life Sciences (Large Molecules, Process Development)",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5467099008"
   },
+  "5467233008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "contracts manager gtm @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-10-30T19:40:20+00:00",
+   "posted_history": [
+    "2026-10-30T19:40:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Contracts Manager, GTM",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5467233008"
+  },
   "5467425008": {
    "closed_at": null,
    "department": "",
@@ -11314,6 +11378,81 @@
    "reopened": 0,
    "title": "Business Recruiter",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5467425008"
+  },
+  "5467690008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "research operations lead biology @ boston, ma",
+   "location": "Boston, MA",
+   "posted_at": "2026-10-30T14:56:42+00:00",
+   "posted_history": [
+    "2026-10-30T14:56:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Research Operations Lead, Biology",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5467690008"
+  },
+  "5468266008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "content strategy lead executive programs @ san francisco, ca | new york city, ny",
+   "location": "San Francisco, CA | New York City, NY",
+   "posted_at": "2026-10-30T18:02:27+00:00",
+   "posted_history": [
+    "2026-10-30T18:02:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Content Strategy Lead, Executive Programs",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468266008"
+  },
+  "5468374008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "data center power generation and microgrids engineer @ remote-friendly, united states",
+   "location": "Remote-Friendly, United States",
+   "posted_at": "2026-10-30T16:25:43+00:00",
+   "posted_history": [
+    "2026-10-30T16:25:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Data Center Power Generation and Microgrids Engineer",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468374008"
+  },
+  "5468380008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "data center substation protection automation engineer @ remote-friendly, united states",
+   "location": "Remote-Friendly, United States",
+   "posted_at": "2026-10-30T16:29:10+00:00",
+   "posted_history": [
+    "2026-10-30T16:29:10+00:00"
+   ],
+   "reopened": 0,
+   "title": "Data Center Substation, Protection & Automation Engineer",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468380008"
+  },
+  "5468392008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "data center electrical engineer design @ remote-friendly, united states",
+   "location": "Remote-Friendly, United States",
+   "posted_at": "2026-10-30T16:37:34+00:00",
+   "posted_history": [
+    "2026-10-30T16:37:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Data Center Electrical Engineer – Design",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468392008"
   }
  }
 }

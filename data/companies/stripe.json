@@ -47,6 +47,10 @@
   {
    "date": "2026-10-30",
    "open": 740
+  },
+  {
+   "date": "2026-10-31",
+   "open": 746
   }
  ],
  "jobs": {
@@ -235,8 +239,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "full stack engineer money as a service @ n/a",
-   "location": "N/A",
+   "fp": "full stack engineer money as a service @ in-person",
+   "location": "In-person",
    "posted_at": "2025-12-02T00:23:21+00:00",
    "posted_history": [
     "2025-12-02T00:23:21+00:00"
@@ -1521,7 +1525,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=7819426"
   },
   "7825578": {
-   "closed_at": "2026-10-22T08:55:54+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1531,7 +1535,7 @@
    "posted_history": [
     "2026-04-28T14:29:58+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Account Executive, Enterprise Hunter (DACH Market)",
    "url": "https://stripe.com/jobs/search?gh_jid=7825578"
   },
@@ -2260,14 +2264,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "client platform security engineer @ new york, new york",
+   "fp": "software engineer secure devices @ new york, new york",
    "location": "New York, New York ",
    "posted_at": "2026-06-05T20:09:40+00:00",
    "posted_history": [
     "2026-06-05T20:09:40+00:00"
    ],
    "reopened": 0,
-   "title": "Client Platform Security Engineer",
+   "title": "Software Engineer, Secure Devices",
    "url": "https://stripe.com/jobs/search?gh_jid=7982720"
   },
   "7983076": {
@@ -2451,7 +2455,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=7994443"
   },
   "7994945": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3351,7 +3355,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8069506"
   },
   "8070054": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
@@ -4235,6 +4239,21 @@
    "title": "Technical Program Manager, Extensibility",
    "url": "https://stripe.com/jobs/search?gh_jid=8114397"
   },
+  "8114458": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "account executive enterprise grower @ israel",
+   "location": "Israel ",
+   "posted_at": "2026-08-18T09:46:54+00:00",
+   "posted_history": [
+    "2026-08-18T09:46:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, Enterprise Grower (Israel)",
+   "url": "https://stripe.com/jobs/search?gh_jid=8114458"
+  },
   "8115908": {
    "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
@@ -5061,7 +5080,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8141829"
   },
   "8142077": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5222,7 +5241,7 @@
     "2026-08-24T19:03:35+00:00"
    ],
    "reopened": 0,
-   "title": "Solutions Architect, Enterprise (Presales)",
+   "title": "Solutions Architect, Enterprise",
    "url": "https://stripe.com/jobs/search?gh_jid=8144185"
   },
   "8144196": {
@@ -6096,7 +6115,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8167558"
   },
   "8168151": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6261,7 +6280,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8172487"
   },
   "8172491": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6636,7 +6655,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8175663"
   },
   "8175667": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7941,7 +7960,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8194397"
   },
   "8194606": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -9216,7 +9235,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8222212"
   },
   "8222219": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -9890,6 +9909,21 @@
    "title": "Product Manager, Ecosystem",
    "url": "https://stripe.com/jobs/search?gh_jid=8234705"
   },
+  "8234710": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "startup products strategy operations insights analytics @ remote us",
+   "location": "Remote US",
+   "posted_at": "2026-10-30T13:11:32+00:00",
+   "posted_history": [
+    "2026-10-30T13:11:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Startup Products Strategy & Operations, Insights & Analytics",
+   "url": "https://stripe.com/jobs/search?gh_jid=8234710"
+  },
   "8236491": {
    "closed_at": null,
    "department": "",
@@ -10086,7 +10120,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8238741"
   },
   "8238743": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -10535,6 +10569,21 @@
    "title": "Integrated Campaigns Manager",
    "url": "https://stripe.com/jobs/search?gh_jid=8248207"
   },
+  "8248415": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "startup products strategy operations product strategy @ us-remote",
+   "location": "US-Remote",
+   "posted_at": "2026-10-30T13:13:31+00:00",
+   "posted_history": [
+    "2026-10-30T13:13:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Startup Products Strategy & Operations, Product Strategy",
+   "url": "https://stripe.com/jobs/search?gh_jid=8248415"
+  },
   "8248507": {
    "closed_at": null,
    "department": "",
@@ -10611,7 +10660,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8249901"
   },
   "8250479": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -10675,14 +10724,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "staff software engineer link consumer preference @ san francisco, nyc, seattle",
+   "fp": "staff full stack software engineer link consumer preference @ san francisco, nyc, seattle",
    "location": "San Francisco, NYC, Seattle",
    "posted_at": "2026-10-05T20:17:49+00:00",
    "posted_history": [
     "2026-10-05T20:17:49+00:00"
    ],
    "reopened": 0,
-   "title": "Staff Software Engineer, Link - Consumer Preference",
+   "title": "Staff Full Stack Software Engineer, Link - Consumer Preference",
    "url": "https://stripe.com/jobs/search?gh_jid=8257354"
   },
   "8257494": {
@@ -11080,14 +11129,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "partner development manager @ london",
+   "fp": "partner development manager system integrators @ london",
    "location": "London",
    "posted_at": "2026-10-16T09:52:11+00:00",
    "posted_history": [
     "2026-10-16T09:52:11+00:00"
    ],
    "reopened": 0,
-   "title": "Partner Development Manager",
+   "title": "Partner Development Manager- System Integrators",
    "url": "https://stripe.com/jobs/search?gh_jid=8267519"
   },
   "8267684": {
@@ -11740,14 +11789,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "account executive smb existing business @ dublin",
+   "fp": "account executive smb commercial existing business @ dublin",
    "location": "Dublin",
    "posted_at": "2026-10-16T11:40:01+00:00",
    "posted_history": [
     "2026-10-16T11:40:01+00:00"
    ],
    "reopened": 0,
-   "title": "Account Executive, SMB - Existing Business",
+   "title": "Account Executive, SMB Commercial - Existing Business",
    "url": "https://stripe.com/jobs/search?gh_jid=8286655"
   },
   "8286680": {
@@ -11886,7 +11935,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8288541"
   },
   "8288561": {
-   "closed_at": "2026-10-22T08:55:54+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -11896,7 +11945,7 @@
    "posted_history": [
     "2026-10-16T09:07:26+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Account Executive - Enterprise Grower (DACH Market)",
    "url": "https://stripe.com/jobs/search?gh_jid=8288561"
   },
@@ -11914,6 +11963,21 @@
    "reopened": 0,
    "title": "Account Executive - Startup SaaS Platforms, Scaled UK Hunter",
    "url": "https://stripe.com/jobs/search?gh_jid=8288876"
+  },
+  "8289414": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "sales manager platforms uk ireland @ dublin",
+   "location": "Dublin",
+   "posted_at": "2026-10-30T12:07:02+00:00",
+   "posted_history": [
+    "2026-10-30T12:07:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales Manager, Platforms - UK & Ireland",
+   "url": "https://stripe.com/jobs/search?gh_jid=8289414"
   },
   "8289847": {
    "closed_at": null,
@@ -12350,6 +12414,21 @@
    "title": "Software Engineer",
    "url": "https://stripe.com/jobs/search?gh_jid=8318509"
   },
+  "8318694": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "sales manager platforms uk @ london",
+   "location": "London",
+   "posted_at": "2026-10-30T12:03:34+00:00",
+   "posted_history": [
+    "2026-10-30T12:03:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales Manager, Platforms - UK",
+   "url": "https://stripe.com/jobs/search?gh_jid=8318694"
+  },
   "8318707": {
    "closed_at": null,
    "department": "",
@@ -12470,19 +12549,79 @@
    "title": "Product Support Operations, Team Lead",
    "url": "https://stripe.com/jobs/search?gh_jid=8326577"
   },
+  "8327254": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "product manager terminal payments @ toronto, canada",
+   "location": "Toronto, Canada",
+   "posted_at": "2026-10-30T20:12:57+00:00",
+   "posted_history": [
+    "2026-10-30T20:12:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Manager, Terminal Payments",
+   "url": "https://stripe.com/jobs/search?gh_jid=8327254"
+  },
+  "8328118": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "administrative business partner coverage @ remote - us",
+   "location": "Remote - US",
+   "posted_at": "2026-10-30T17:30:15+00:00",
+   "posted_history": [
+    "2026-10-30T17:30:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Administrative Business Partner, Coverage",
+   "url": "https://stripe.com/jobs/search?gh_jid=8328118"
+  },
+  "8328662": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "phd machine learning engineer intern @ san francisco, new york city, seattle",
+   "location": "San Francisco, New York City, Seattle",
+   "posted_at": "2026-10-30T16:19:28+00:00",
+   "posted_history": [
+    "2026-10-30T16:19:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "PhD Machine Learning Engineer, Intern",
+   "url": "https://stripe.com/jobs/search?gh_jid=8328662"
+  },
+  "8328664": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "phd machine learning engineer intern @ toronto",
+   "location": "Toronto",
+   "posted_at": "2026-10-30T16:19:24+00:00",
+   "posted_history": [
+    "2026-10-30T16:19:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "PhD Machine Learning Engineer, Intern",
+   "url": "https://stripe.com/jobs/search?gh_jid=8328664"
+  },
   "8329116": {
    "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
-   "fp": "technical solutions consultant crypto @ new york, san francisco",
+   "fp": "technical account manager crypto @ new york, san francisco",
    "location": "New York, San Francisco",
    "posted_at": "2026-10-28T20:19:38+00:00",
    "posted_history": [
     "2026-10-28T20:19:38+00:00"
    ],
    "reopened": 0,
-   "title": "Technical Solutions Consultant, Crypto",
+   "title": "Technical Account Manager, Crypto",
    "url": "https://stripe.com/jobs/search?gh_jid=8329116"
   },
   "8329718": {
@@ -12529,6 +12668,21 @@
    "reopened": 0,
    "title": "Procurement Contracts Manager",
    "url": "https://stripe.com/jobs/search?gh_jid=8329743"
+  },
+  "8330131": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "engineering manager commerce systems @ n/a",
+   "location": "N/A",
+   "posted_at": "2026-10-30T16:11:22+00:00",
+   "posted_history": [
+    "2026-10-30T16:11:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager, Commerce Systems",
+   "url": "https://stripe.com/jobs/search?gh_jid=8330131"
   },
   "8330791": {
    "closed_at": null,
@@ -12680,6 +12834,51 @@
    "title": "Strategic Account Executive, Existing Business (Central Eastern Europe)",
    "url": "https://stripe.com/jobs/search?gh_jid=8332821"
   },
+  "8333074": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "master s machine learning engineer intern @ san francisco, new york city, seattle",
+   "location": "San Francisco, New York City, Seattle",
+   "posted_at": "2026-10-30T16:19:26+00:00",
+   "posted_history": [
+    "2026-10-30T16:19:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Master's Machine Learning Engineer, Intern",
+   "url": "https://stripe.com/jobs/search?gh_jid=8333074"
+  },
+  "8333122": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "master s machine learning engineer intern @ toronto",
+   "location": "Toronto",
+   "posted_at": "2026-10-30T16:19:21+00:00",
+   "posted_history": [
+    "2026-10-30T16:19:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Master's Machine Learning Engineer, Intern",
+   "url": "https://stripe.com/jobs/search?gh_jid=8333122"
+  },
+  "8335758": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "commercial counsel bridge @ us-remote",
+   "location": "US-Remote",
+   "posted_at": "2026-10-30T16:53:11+00:00",
+   "posted_history": [
+    "2026-10-30T16:53:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Commercial Counsel, Bridge",
+   "url": "https://stripe.com/jobs/search?gh_jid=8335758"
+  },
   "8336023": {
    "closed_at": null,
    "department": "",
@@ -12694,6 +12893,21 @@
    "reopened": 0,
    "title": "Enterprise Account Executive - Grower",
    "url": "https://stripe.com/jobs/search?gh_jid=8336023"
+  },
+  "8336819": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "blockchain security engineer bridge @ luxembourg",
+   "location": "Luxembourg",
+   "posted_at": "2026-10-30T14:27:02+00:00",
+   "posted_history": [
+    "2026-10-30T14:27:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Blockchain Security Engineer, Bridge",
+   "url": "https://stripe.com/jobs/search?gh_jid=8336819"
   }
  }
 }

@@ -47,6 +47,10 @@
   {
    "date": "2026-10-30",
    "open": 442
+  },
+  {
+   "date": "2026-10-31",
+   "open": 438
   }
  ],
  "jobs": {
@@ -1476,7 +1480,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7580712"
   },
   "7592588": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
@@ -1791,7 +1795,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7812825"
   },
   "7818935": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2766,7 +2770,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8065509"
   },
   "8065591": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3516,7 +3520,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8109766"
   },
   "8110375": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3711,7 +3715,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8128136"
   },
   "8128148": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4281,7 +4285,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8160255"
   },
   "8160362": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5151,7 +5155,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8205488"
   },
   "8205561": {
-   "closed_at": "2026-10-30T10:28:19+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5161,7 +5165,7 @@
    "posted_history": [
     "2026-09-15T21:59:07+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Engineering Manager, Merchandising Experience",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8205561"
   },
@@ -5736,7 +5740,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8233051"
   },
   "8233065": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6036,7 +6040,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8243349"
   },
   "8243566": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6745,14 +6749,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior manager dasher financial @ austin, tx; washington d.c.; seattle, wa; los angeles, ca; chicago, il",
+   "fp": "senior manager strategy operations dasher financial @ austin, tx; washington d.c.; seattle, wa; los angeles, ca; chicago, il",
    "location": "Austin, TX; Washington D.C.; Seattle, WA; Los Angeles, CA; Chicago, IL",
    "posted_at": "2026-10-12T14:28:15+00:00",
    "posted_history": [
     "2026-10-12T14:28:15+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Manager, Dasher Financial",
+   "title": "Senior Manager, Strategy & Operations - Dasher Financial",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8273925"
   },
   "8273965": {
@@ -6816,7 +6820,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8274095"
   },
   "8275512": {
-   "closed_at": "2026-10-30T10:28:19+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6826,7 +6830,7 @@
    "posted_history": [
     "2026-10-12T23:44:17+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Engineering Manager, Merchant Knowledge Platform",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8275512"
   },
@@ -7820,6 +7824,21 @@
    "title": "Associate Manager, Marketing Product Ops, CRM Automation",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8333827"
   },
+  "8334860": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "senior security engineer proactive security platform @ united states - remote",
+   "location": "United States - Remote",
+   "posted_at": "2026-10-29T20:01:25+00:00",
+   "posted_history": [
+    "2026-10-29T20:01:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Security Engineer, Proactive Security - Platform",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8334860"
+  },
   "8334941": {
    "closed_at": null,
    "department": "",
@@ -7864,6 +7883,21 @@
    "reopened": 0,
    "title": "Inventory Procurement Associate, Air",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8335071"
+  },
+  "8337751": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "senior software engineer proactive security platform @ united states - remote",
+   "location": "United States - Remote",
+   "posted_at": "2026-10-30T19:31:42+00:00",
+   "posted_history": [
+    "2026-10-30T19:31:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Proactive Security - Platform",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8337751"
   }
  }
 }

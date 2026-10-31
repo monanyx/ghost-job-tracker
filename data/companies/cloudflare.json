@@ -47,6 +47,10 @@
   {
    "date": "2026-10-30",
    "open": 464
+  },
+  {
+   "date": "2026-10-31",
+   "open": 464
   }
  ],
  "jobs": {
@@ -726,7 +730,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/7653558?gh_jid=7653558"
   },
   "7655695": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2421,7 +2425,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8099018?gh_jid=8099018"
   },
   "8099671": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3111,7 +3115,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8153015?gh_jid=8153015"
   },
   "8153294": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3531,7 +3535,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8163523?gh_jid=8163523"
   },
   "8164600": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3606,7 +3610,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8166601?gh_jid=8166601"
   },
   "8168623": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4476,7 +4480,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8192032?gh_jid=8192032"
   },
   "8195695": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7520,6 +7524,21 @@
    "title": "Senior Customer Engineer, Digital Native - Vancouver BC",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8327965?gh_jid=8327965"
   },
+  "8328089": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "global vendor manager data center infrastructure @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-10-30T19:15:29+00:00",
+   "posted_history": [
+    "2026-10-30T19:15:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Global Vendor Manager, Data Center Infrastructure",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8328089?gh_jid=8328089"
+  },
   "8328914": {
    "closed_at": null,
    "department": "",
@@ -7534,6 +7553,21 @@
    "reopened": 0,
    "title": "Product Manager Intern (2027) - London, UK",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8328914?gh_jid=8328914"
+  },
+  "8329370": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "customer engineer enterprise austin dallas tx or raleigh nc @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-10-30T20:45:55+00:00",
+   "posted_history": [
+    "2026-10-30T20:45:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Engineer, Enterprise - Austin/Dallas,TX or Raleigh, NC",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8329370?gh_jid=8329370"
   },
   "8329671": {
    "closed_at": null,
@@ -7594,6 +7628,21 @@
    "reopened": 0,
    "title": "Technical Support Engineer - Developer Platform",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8330121?gh_jid=8330121"
+  },
+  "8330512": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "forward deployed engineer professional services @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-10-30T14:08:58+00:00",
+   "posted_history": [
+    "2026-10-30T14:08:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Engineer, Professional Services (Application Security)",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8330512?gh_jid=8330512"
   },
   "8331153": {
    "closed_at": null,
@@ -7669,6 +7718,51 @@
    "reopened": 0,
    "title": "Senior Customer Engineer, Strategic - Seattle, WA",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8335069?gh_jid=8335069"
+  },
+  "8335468": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "territory account executive saskatchewan manitoba @ distributed",
+   "location": "Distributed",
+   "posted_at": "2026-10-30T22:17:42+00:00",
+   "posted_history": [
+    "2026-10-30T22:17:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Territory Account Executive, Saskatchewan / Manitoba",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8335468?gh_jid=8335468"
+  },
+  "8335469": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "territory account executive saskatchewan manitoba @ remote",
+   "location": "Remote",
+   "posted_at": "2026-10-30T22:18:24+00:00",
+   "posted_history": [
+    "2026-10-30T22:18:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Territory Account Executive, Saskatchewan / Manitoba",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8335469?gh_jid=8335469"
+  },
+  "8338018": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "senior systems engineer sdks terraform code generation @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-10-30T21:13:48+00:00",
+   "posted_history": [
+    "2026-10-30T21:13:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Systems Engineer, SDKs, Terraform, & Code Generation",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8338018?gh_jid=8338018"
   }
  }
 }

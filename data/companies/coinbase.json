@@ -47,6 +47,10 @@
   {
    "date": "2026-10-30",
    "open": 234
+  },
+  {
+   "date": "2026-10-31",
+   "open": 250
   }
  ],
  "jobs": {
@@ -55,14 +59,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "staff software engineer eaa cx @ remote - usa",
+   "fp": "staff software engineer @ remote - usa",
    "location": "Remote - USA",
    "posted_at": "2026-06-08T21:00:50+00:00",
    "posted_history": [
     "2026-06-08T21:00:50+00:00"
    ],
    "reopened": 0,
-   "title": "Staff Software Engineer, EAA CX",
+   "title": "Staff Software Engineer",
    "url": "https://www.coinbase.com/careers/positions/6784618?gh_jid=6784618"
   },
   "7182060": {
@@ -830,6 +834,21 @@
    "title": "Concierge Specialist IV",
    "url": "https://www.coinbase.com/careers/positions/8031308?gh_jid=8031308"
   },
+  "8047150": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "staff analytics engineer @ remote - usa",
+   "location": "Remote - USA",
+   "posted_at": "2026-10-31T02:38:15+00:00",
+   "posted_history": [
+    "2026-10-31T02:38:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Analytics Engineer",
+   "url": "https://www.coinbase.com/careers/positions/8047150?gh_jid=8047150"
+  },
   "8051513": {
    "closed_at": null,
    "department": "",
@@ -1375,14 +1394,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "credit risk analyst @ remote - usa",
+   "fp": "clearing risk analyst @ remote - usa",
    "location": "Remote - USA",
    "posted_at": "2026-08-14T23:57:07+00:00",
    "posted_history": [
     "2026-08-14T23:57:07+00:00"
    ],
    "reopened": 0,
-   "title": "Credit Risk Analyst",
+   "title": "Clearing Risk Analyst",
    "url": "https://www.coinbase.com/careers/positions/8131356?gh_jid=8131356"
   },
   "8138031": {
@@ -2271,7 +2290,7 @@
    "url": "https://www.coinbase.com/careers/positions/8177946?gh_jid=8177946"
   },
   "8179210": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2736,7 +2755,7 @@
    "url": "https://www.coinbase.com/careers/positions/8230848?gh_jid=8230848"
   },
   "8232211": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3890,6 +3909,66 @@
    "title": "Customer Support Specialist ll",
    "url": "https://www.coinbase.com/careers/positions/8334157?gh_jid=8334157"
   },
+  "8334161": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "payments risk analyst ii @ hyderabad, india",
+   "location": "Hyderabad, India",
+   "posted_at": "2026-10-30T12:06:35+00:00",
+   "posted_history": [
+    "2026-10-30T12:06:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Payments Risk Analyst II",
+   "url": "https://www.coinbase.com/careers/positions/8334161?gh_jid=8334161"
+  },
+  "8334164": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "payments risk analyst ii @ hyderabad, india",
+   "location": "Hyderabad, India",
+   "posted_at": "2026-10-30T11:56:37+00:00",
+   "posted_history": [
+    "2026-10-30T11:56:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Payments Risk Analyst II",
+   "url": "https://www.coinbase.com/careers/positions/8334164?gh_jid=8334164"
+  },
+  "8334228": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "customer support specialist ll @ manila, philippines",
+   "location": "Manila, Philippines",
+   "posted_at": "2026-10-30T10:55:30+00:00",
+   "posted_history": [
+    "2026-10-30T10:55:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Support Specialist ll",
+   "url": "https://www.coinbase.com/careers/positions/8334228?gh_jid=8334228"
+  },
+  "8334231": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "customer support specialist ll @ manila, philippines",
+   "location": "Manila, Philippines",
+   "posted_at": "2026-10-30T11:08:06+00:00",
+   "posted_history": [
+    "2026-10-30T11:08:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Support Specialist ll",
+   "url": "https://www.coinbase.com/careers/positions/8334231?gh_jid=8334231"
+  },
   "8334234": {
    "closed_at": null,
    "department": "",
@@ -3904,6 +3983,36 @@
    "reopened": 0,
    "title": "Customer Support Specialist ll",
    "url": "https://www.coinbase.com/careers/positions/8334234?gh_jid=8334234"
+  },
+  "8334281": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "customer support specialist ll @ manila, philippines",
+   "location": "Manila, Philippines",
+   "posted_at": "2026-10-30T11:19:12+00:00",
+   "posted_history": [
+    "2026-10-30T11:19:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Support Specialist ll",
+   "url": "https://www.coinbase.com/careers/positions/8334281?gh_jid=8334281"
+  },
+  "8334290": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "customer support specialist ll @ manila, philippines",
+   "location": "Manila, Philippines",
+   "posted_at": "2026-10-30T11:29:58+00:00",
+   "posted_history": [
+    "2026-10-30T11:29:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Support Specialist ll",
+   "url": "https://www.coinbase.com/careers/positions/8334290?gh_jid=8334290"
   },
   "8335547": {
    "closed_at": null,
@@ -3920,6 +4029,21 @@
    "title": "Senior Software Engineer, Backend (Coinbase One)",
    "url": "https://www.coinbase.com/careers/positions/8335547?gh_jid=8335547"
   },
+  "8335575": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "manager people ops automation @ remote - usa",
+   "location": "Remote - USA",
+   "posted_at": "2026-10-30T19:49:29+00:00",
+   "posted_history": [
+    "2026-10-30T19:49:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, People Ops & Automation",
+   "url": "https://www.coinbase.com/careers/positions/8335575?gh_jid=8335575"
+  },
   "8335796": {
    "closed_at": null,
    "department": "",
@@ -3934,6 +4058,156 @@
    "reopened": 0,
    "title": "Compliance Senior Associate & Deputy MLRO, CBIE",
    "url": "https://www.coinbase.com/careers/positions/8335796?gh_jid=8335796"
+  },
+  "8336564": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "customer support specialist ll @ manila, philippines",
+   "location": "Manila, Philippines",
+   "posted_at": "2026-10-30T12:37:25+00:00",
+   "posted_history": [
+    "2026-10-30T12:37:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Support Specialist ll",
+   "url": "https://www.coinbase.com/careers/positions/8336564?gh_jid=8336564"
+  },
+  "8336586": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "customer support specialist ll @ manila, philippines",
+   "location": "Manila, Philippines",
+   "posted_at": "2026-10-30T14:52:36+00:00",
+   "posted_history": [
+    "2026-10-30T14:52:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Support Specialist ll",
+   "url": "https://www.coinbase.com/careers/positions/8336586?gh_jid=8336586"
+  },
+  "8337029": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "customer support specialist ll @ manila, philippines",
+   "location": "Manila, Philippines",
+   "posted_at": "2026-10-30T16:31:08+00:00",
+   "posted_history": [
+    "2026-10-30T16:31:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Support Specialist ll",
+   "url": "https://www.coinbase.com/careers/positions/8337029?gh_jid=8337029"
+  },
+  "8337144": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "customer support specialist ll @ manila, philippines",
+   "location": "Manila, Philippines",
+   "posted_at": "2026-10-30T18:50:36+00:00",
+   "posted_history": [
+    "2026-10-30T18:50:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Support Specialist ll",
+   "url": "https://www.coinbase.com/careers/positions/8337144?gh_jid=8337144"
+  },
+  "8337203": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "customer support specialist ll @ manila, philippines",
+   "location": "Manila, Philippines",
+   "posted_at": "2026-10-30T19:03:20+00:00",
+   "posted_history": [
+    "2026-10-30T19:03:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Support Specialist ll",
+   "url": "https://www.coinbase.com/careers/positions/8337203?gh_jid=8337203"
+  },
+  "8337206": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "customer support specialist ll @ manila, philippines",
+   "location": "Manila, Philippines",
+   "posted_at": "2026-10-30T19:18:14+00:00",
+   "posted_history": [
+    "2026-10-30T19:18:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Support Specialist ll",
+   "url": "https://www.coinbase.com/careers/positions/8337206?gh_jid=8337206"
+  },
+  "8337209": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "customer support specialist ll @ manila, philippines",
+   "location": "Manila, Philippines",
+   "posted_at": "2026-10-30T19:09:54+00:00",
+   "posted_history": [
+    "2026-10-30T19:09:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Support Specialist ll",
+   "url": "https://www.coinbase.com/careers/positions/8337209?gh_jid=8337209"
+  },
+  "8337715": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "senior software engineer tax engineering @ remote - canada",
+   "location": "Remote - Canada",
+   "posted_at": "2026-10-30T19:22:50+00:00",
+   "posted_history": [
+    "2026-10-30T19:22:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Tax Engineering",
+   "url": "https://www.coinbase.com/careers/positions/8337715?gh_jid=8337715"
+  },
+  "8337782": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "customer support specialist ll @ manila, philippines",
+   "location": "Manila, Philippines",
+   "posted_at": "2026-10-30T20:03:24+00:00",
+   "posted_history": [
+    "2026-10-30T20:03:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Support Specialist ll",
+   "url": "https://www.coinbase.com/careers/positions/8337782?gh_jid=8337782"
+  },
+  "8338076": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "manager tax information reporting and withholding advisory @ remote - usa",
+   "location": "Remote - USA",
+   "posted_at": "2026-10-30T22:09:51+00:00",
+   "posted_history": [
+    "2026-10-30T22:09:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Tax Information Reporting and Withholding Advisory",
+   "url": "https://www.coinbase.com/careers/positions/8338076?gh_jid=8338076"
   }
  }
 }

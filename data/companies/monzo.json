@@ -47,6 +47,10 @@
   {
    "date": "2026-10-30",
    "open": 65
+  },
+  {
+   "date": "2026-10-31",
+   "open": 64
   }
  ],
  "jobs": {
@@ -276,7 +280,7 @@
    "url": "https://job-boards.greenhouse.io/monzo/jobs/6758449"
   },
   "6945371": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

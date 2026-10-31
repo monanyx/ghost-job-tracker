@@ -47,6 +47,10 @@
   {
    "date": "2026-10-30",
    "open": 197
+  },
+  {
+   "date": "2026-10-31",
+   "open": 202
   }
  ],
  "jobs": {
@@ -295,14 +299,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior staff machine learning engineer growth platform engineering @ remote - usa",
+   "fp": "senior staff machine learning engineer marketing technology @ remote - usa",
    "location": "Remote - USA",
    "posted_at": "2026-04-14T23:28:02+00:00",
    "posted_history": [
     "2026-04-14T23:28:02+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Staff Machine Learning Engineer, Growth Platform Engineering",
+   "title": "Senior Staff Machine Learning Engineer, Marketing Technology",
    "url": "https://careers.airbnb.com/positions/7747259?gh_jid=7747259"
   },
   "7755758": {
@@ -394,6 +398,21 @@
    "reopened": 1,
    "title": "Machine Learning Engineer, Assistance Engineering",
    "url": "https://careers.airbnb.com/positions/7826337?gh_jid=7826337"
+  },
+  "7834481": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "business operations and growth lead @ united states",
+   "location": "United States ",
+   "posted_at": "2026-04-21T23:15:15+00:00",
+   "posted_history": [
+    "2026-04-21T23:15:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Business Operations and Growth Lead",
+   "url": "https://careers.airbnb.com/positions/7834481?gh_jid=7834481"
   },
   "7839229": {
    "closed_at": null,
@@ -994,6 +1013,21 @@
    "reopened": 0,
    "title": "Senior Platform Product Manager, Payment Platform Accounts",
    "url": "https://careers.airbnb.com/positions/8082863?gh_jid=8082863"
+  },
+  "8083137": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "operations engineer tech foundations @ remote - india",
+   "location": "Remote - India",
+   "posted_at": "2026-07-24T09:09:31+00:00",
+   "posted_history": [
+    "2026-07-24T09:09:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Operations Engineer, Tech Foundations",
+   "url": "https://careers.airbnb.com/positions/8083137?gh_jid=8083137"
   },
   "8094412": {
    "closed_at": null,
@@ -1656,7 +1690,7 @@
    "url": "https://careers.airbnb.com/positions/8201750?gh_jid=8201750"
   },
   "8202802": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3681,7 +3715,7 @@
    "url": "https://careers.airbnb.com/positions/8334880?gh_jid=8334880"
   },
   "8334926": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -3694,6 +3728,81 @@
    "reopened": 0,
    "title": "Backend Engineer, Profile & Community",
    "url": "https://careers.airbnb.com/positions/8334926?gh_jid=8334926"
+  },
+  "8336590": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "campaign manager mexico @ mexico city, mexico",
+   "location": "Mexico City, Mexico",
+   "posted_at": "2026-10-30T13:30:14+00:00",
+   "posted_history": [
+    "2026-10-30T13:30:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Campaign Manager, Mexico",
+   "url": "https://careers.airbnb.com/positions/8336590?gh_jid=8336590"
+  },
+  "8336861": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "delivery excellence manager @ ireland",
+   "location": "Ireland",
+   "posted_at": "2026-10-30T15:04:07+00:00",
+   "posted_history": [
+    "2026-10-30T15:04:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Delivery Excellence Manager",
+   "url": "https://careers.airbnb.com/positions/8336861?gh_jid=8336861"
+  },
+  "8336893": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "market manager @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2026-10-30T15:22:53+00:00",
+   "posted_history": [
+    "2026-10-30T15:22:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "Market Manager",
+   "url": "https://careers.airbnb.com/positions/8336893?gh_jid=8336893"
+  },
+  "8336959": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "senior market manager @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2026-10-30T15:48:25+00:00",
+   "posted_history": [
+    "2026-10-30T15:48:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Market Manager",
+   "url": "https://careers.airbnb.com/positions/8336959?gh_jid=8336959"
+  },
+  "8337229": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "senior manager community policy @ united states",
+   "location": "United States ",
+   "posted_at": "2026-10-30T19:19:06+00:00",
+   "posted_history": [
+    "2026-10-30T19:19:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Community Policy",
+   "url": "https://careers.airbnb.com/positions/8337229?gh_jid=8337229"
   }
  }
 }

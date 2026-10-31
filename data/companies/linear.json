@@ -47,6 +47,10 @@
   {
    "date": "2026-10-30",
    "open": 32
+  },
+  {
+   "date": "2026-10-31",
+   "open": 31
   }
  ],
  "jobs": {
@@ -456,7 +460,7 @@
    "url": "https://jobs.ashbyhq.com/linear/cd5ae036-0223-427a-b038-ba16ef9dcb32"
   },
   "cec84487-60f2-4216-a514-dcf190c86c1e": {
-   "closed_at": null,
+   "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "GTM",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

@@ -47,6 +47,10 @@
   {
    "date": "2026-10-30",
    "open": 134
+  },
+  {
+   "date": "2026-10-31",
+   "open": 138
   }
  ],
  "jobs": {
@@ -235,14 +239,14 @@
    "department": "IT",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior corporate it engineer @ san francisco",
+   "fp": "senior it engineer @ san francisco",
    "location": "San Francisco",
    "posted_at": "2026-04-02T22:55:16+00:00",
    "posted_history": [
     "2026-04-02T22:55:16+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Corporate IT Engineer",
+   "title": "Senior IT Engineer",
    "url": "https://jobs.ashbyhq.com/perplexity/18509f15-ab49-450d-8a01-4b280e464ad0"
   },
   "19d8bcfd-e493-4b3a-b8fd-11a2a6502da2": {
@@ -320,6 +324,21 @@
    "title": "Member of Technical Staff (Search Engine Developer, Search Core)",
    "url": "https://jobs.ashbyhq.com/perplexity/27aa1a14-bc59-4613-a65a-38598695076f"
   },
+  "27dd2e43-e2b0-48e8-a339-b2842b4c3298": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "sales enablement operations manager @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-10-30T17:03:45+00:00",
+   "posted_history": [
+    "2026-10-30T17:03:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales Enablement Operations Manager",
+   "url": "https://jobs.ashbyhq.com/perplexity/27dd2e43-e2b0-48e8-a339-b2842b4c3298"
+  },
   "29625b7a-5470-463b-8446-21fac84e80b9": {
    "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "API Platform",
@@ -342,9 +361,10 @@
    "first_seen": "2026-10-25T08:43:53+00:00",
    "fp": "member of technical staff @ san francisco",
    "location": "San Francisco",
-   "posted_at": "2026-10-24T14:37:33+00:00",
+   "posted_at": "2026-10-31T00:46:49+00:00",
    "posted_history": [
-    "2026-10-24T14:37:33+00:00"
+    "2026-10-24T14:37:33+00:00",
+    "2026-10-31T00:46:49+00:00"
    ],
    "reopened": 0,
    "title": "Member of Technical Staff (Software Engineer, Training Infrastructure)",
@@ -394,6 +414,21 @@
    "reopened": 0,
    "title": "Member of Technical Staff (Model Behavior)",
    "url": "https://jobs.ashbyhq.com/perplexity/2c6ae16b-d03e-4e33-9d32-362c5388e956"
+  },
+  "2d510148-8cce-4b67-be25-5784106bbff4": {
+   "closed_at": null,
+   "department": "IT",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "it engineer @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-10-30T23:33:04+00:00",
+   "posted_history": [
+    "2026-10-30T23:33:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "IT Engineer",
+   "url": "https://jobs.ashbyhq.com/perplexity/2d510148-8cce-4b67-be25-5784106bbff4"
   },
   "2df92d4a-48eb-422f-af9c-4a963fd6135c": {
    "closed_at": null,
@@ -477,9 +512,10 @@
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "member of technical staff @ san francisco",
    "location": "San Francisco",
-   "posted_at": "2026-08-27T19:43:31+00:00",
+   "posted_at": "2026-10-31T00:47:00+00:00",
    "posted_history": [
-    "2026-08-27T19:43:31+00:00"
+    "2026-08-27T19:43:31+00:00",
+    "2026-10-31T00:47:00+00:00"
    ],
    "reopened": 0,
    "title": "Member of Technical Staff (Secure Intelligence Institute)",
@@ -642,9 +678,10 @@
    "first_seen": "2026-10-27T09:20:56+00:00",
    "fp": "engineering manager @ san francisco",
    "location": "San Francisco",
-   "posted_at": "2026-10-27T02:05:54+00:00",
+   "posted_at": "2026-10-31T00:47:18+00:00",
    "posted_history": [
-    "2026-10-27T02:05:54+00:00"
+    "2026-10-27T02:05:54+00:00",
+    "2026-10-31T00:47:18+00:00"
    ],
    "reopened": 0,
    "title": "Engineering Manager (Agent Engine)",
@@ -657,9 +694,10 @@
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "member of technical staff @ san francisco",
    "location": "San Francisco",
-   "posted_at": "2026-08-27T19:43:05+00:00",
+   "posted_at": "2026-10-31T00:45:35+00:00",
    "posted_history": [
-    "2026-08-27T19:43:05+00:00"
+    "2026-08-27T19:43:05+00:00",
+    "2026-10-31T00:45:35+00:00"
    ],
    "reopened": 0,
    "title": "Member of Technical Staff (Software Engineer, API Platform)",
@@ -1272,9 +1310,10 @@
    "first_seen": "2026-10-24T08:24:32+00:00",
    "fp": "member of technical staff @ san francisco",
    "location": "San Francisco",
-   "posted_at": "2026-10-24T04:14:51+00:00",
+   "posted_at": "2026-10-31T00:47:12+00:00",
    "posted_history": [
-    "2026-10-24T04:14:51+00:00"
+    "2026-10-24T04:14:51+00:00",
+    "2026-10-31T00:47:12+00:00"
    ],
    "reopened": 0,
    "title": "Member of Technical Staff (AI Policy and Strategic Initiatives)",
@@ -1745,6 +1784,21 @@
    "title": "Internship - Machine Learning Research Engineer",
    "url": "https://jobs.ashbyhq.com/perplexity/b9e1ff15-d52a-46d5-abf0-26460f2a116c"
   },
+  "ba95ea8c-9aad-4152-925c-df08d6a90c0f": {
+   "closed_at": null,
+   "department": "Finance",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "procurement lead @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-10-31T00:03:21+00:00",
+   "posted_history": [
+    "2026-10-31T00:03:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Procurement Lead",
+   "url": "https://jobs.ashbyhq.com/perplexity/ba95ea8c-9aad-4152-925c-df08d6a90c0f"
+  },
   "be94e89b-89d5-4f2a-a58b-7929c8d97f92": {
    "closed_at": null,
    "department": "Search",
@@ -1917,9 +1971,10 @@
    "first_seen": "2026-10-26T09:22:13+00:00",
    "fp": "member of technical staff @ san francisco",
    "location": "San Francisco",
-   "posted_at": "2026-10-26T06:25:38+00:00",
+   "posted_at": "2026-10-31T00:47:06+00:00",
    "posted_history": [
-    "2026-10-26T06:25:38+00:00"
+    "2026-10-26T06:25:38+00:00",
+    "2026-10-31T00:47:06+00:00"
    ],
    "reopened": 0,
    "title": "Member of Technical Staff (AI Software Engineer, Agent Engine)",
@@ -2014,6 +2069,21 @@
    "reopened": 0,
    "title": "Product Marketing Manager, API",
    "url": "https://jobs.ashbyhq.com/perplexity/dd9c7675-1369-4320-afdb-c8caef22ce3a"
+  },
+  "e03bf342-0407-45aa-b084-9aaf6939eea5": {
+   "closed_at": null,
+   "department": "Legal",
+   "evergreen": false,
+   "first_seen": "2026-10-31T09:57:28+00:00",
+   "fp": "ip paralegal @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-10-30T20:36:27+00:00",
+   "posted_history": [
+    "2026-10-30T20:36:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "IP Paralegal",
+   "url": "https://jobs.ashbyhq.com/perplexity/e03bf342-0407-45aa-b084-9aaf6939eea5"
   },
   "e0e8188a-9c92-4795-82a5-7384f1b25bc7": {
    "closed_at": null,
@@ -2202,9 +2272,10 @@
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "member of technical staff @ san francisco",
    "location": "San Francisco",
-   "posted_at": "2026-08-29T02:33:16+00:00",
+   "posted_at": "2026-10-31T00:45:27+00:00",
    "posted_history": [
-    "2026-08-29T02:33:16+00:00"
+    "2026-08-29T02:33:16+00:00",
+    "2026-10-31T00:45:27+00:00"
    ],
    "reopened": 0,
    "title": "Member of Technical Staff (Software Engineer, Acceleration)",
