@@ -51,6 +51,10 @@
   {
    "date": "2026-10-31",
    "open": 3000
+  },
+  {
+   "date": "2026-11-01",
+   "open": 3000
   }
  ],
  "jobs": {
@@ -4795,7 +4799,7 @@
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000145462744"
   },
   "744000145475419": {
-   "closed_at": "2026-10-31T09:57:28+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4805,12 +4809,12 @@
    "posted_history": [
     "2026-08-25T10:15:34+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Product Manager _ MA",
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000145475419"
   },
   "744000145477869": {
-   "closed_at": "2026-10-31T09:57:28+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4820,7 +4824,7 @@
    "posted_history": [
     "2026-08-25T10:31:37+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Praktikum im Bereich Logistik und Verpackungsentwicklung",
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000145477869"
   },
@@ -23380,7 +23384,7 @@
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152237954"
   },
   "744000152245429": {
-   "closed_at": null,
+   "closed_at": "2026-11-01T10:48:55+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -33055,7 +33059,7 @@
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154541649"
   },
   "744000154541654": {
-   "closed_at": null,
+   "closed_at": "2026-11-01T10:48:55+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -52285,7 +52289,7 @@
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157551979"
   },
   "744000157557544": {
-   "closed_at": null,
+   "closed_at": "2026-11-01T10:48:55+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
@@ -61028,6 +61032,21 @@
    "reopened": 0,
    "title": "Promotor/a Vendedor/a de Calentadores en Tiendas Departamentales - Temporada alta",
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158855739"
+  },
+  "744000158966239": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-01T10:48:55+00:00",
+   "fp": "in rbin assistant manager senior engineer process planner @ nashik, maharashtra, india",
+   "location": "Nashik, Maharashtra, India",
+   "posted_at": "2026-11-01T07:57:32+00:00",
+   "posted_history": [
+    "2026-11-01T07:57:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "IN_RBIN_Assistant Manager/Senior Engineer_Process Planner",
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158966239"
   }
  }
 }

@@ -51,6 +51,10 @@
   {
    "date": "2026-10-31",
    "open": 901
+  },
+  {
+   "date": "2026-11-01",
+   "open": 904
   }
  ],
  "jobs": {
@@ -7555,7 +7559,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8610773002"
   },
   "8611106002": {
-   "closed_at": null,
+   "closed_at": "2026-11-01T10:48:55+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -13619,14 +13623,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
-   "fp": "strategic core account executive @ singapore",
+   "fp": "strategic core account executive vietnam @ singapore",
    "location": "Singapore",
    "posted_at": "2026-10-27T07:24:33+00:00",
    "posted_history": [
     "2026-10-27T07:24:33+00:00"
    ],
    "reopened": 0,
-   "title": "Strategic Core Account Executive",
+   "title": "Strategic Core Account Executive - Vietnam (Singapore Based)",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8880406002"
   },
   "8882379002": {
@@ -14649,6 +14653,21 @@
    "title": "Enterprise Account Executive",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8910840002"
   },
+  "8910842002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-01T10:48:55+00:00",
+   "fp": "strategic core account executive public sector @ singapore",
+   "location": "Singapore",
+   "posted_at": "2026-11-01T04:44:26+00:00",
+   "posted_history": [
+    "2026-11-01T04:44:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Core Account Executive - Public Sector",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8910842002"
+  },
   "8910846002": {
    "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
@@ -14678,6 +14697,21 @@
    "reopened": 0,
    "title": "Forward Deployed Engineering Manager",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8910850002"
+  },
+  "8910854002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-01T10:48:55+00:00",
+   "fp": "strategic core account executive fsi @ singapore",
+   "location": "Singapore",
+   "posted_at": "2026-11-01T04:39:12+00:00",
+   "posted_history": [
+    "2026-11-01T04:39:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Core Account Executive - FSI",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8910854002"
   },
   "8910860002": {
    "closed_at": null,
@@ -14723,6 +14757,21 @@
    "reopened": 0,
    "title": "Strategic Core Account Executive (Telco)",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8912711002"
+  },
+  "8916466002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-01T10:48:55+00:00",
+   "fp": "named hunter account executive singapore @ singapore",
+   "location": "Singapore",
+   "posted_at": "2026-11-01T04:29:42+00:00",
+   "posted_history": [
+    "2026-11-01T04:29:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Named Hunter Account Executive - Singapore",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8916466002"
   },
   "8916552002": {
    "closed_at": null,
@@ -15008,6 +15057,21 @@
    "reopened": 0,
    "title": "Lakebase Sales Specialist (Greater China Region)",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8924844002"
+  },
+  "8926307002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-01T10:48:55+00:00",
+   "fp": "sr solutions architect @ sydney, australia",
+   "location": "Sydney, Australia",
+   "posted_at": "2026-10-31T14:14:54+00:00",
+   "posted_history": [
+    "2026-10-31T14:14:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Solutions Architect (Energy)",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8926307002"
   }
  }
 }

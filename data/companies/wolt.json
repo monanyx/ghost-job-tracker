@@ -51,6 +51,10 @@
   {
    "date": "2026-10-31",
    "open": 199
+  },
+  {
+   "date": "2026-11-01",
+   "open": 198
   }
  ],
  "jobs": {
@@ -831,7 +835,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/7481725"
   },
   "7483616": {
-   "closed_at": null,
+   "closed_at": "2026-11-01T10:48:55+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",

@@ -51,6 +51,10 @@
   {
    "date": "2026-10-31",
    "open": 245
+  },
+  {
+   "date": "2026-11-01",
+   "open": 244
   }
  ],
  "jobs": {
@@ -3775,7 +3779,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8040380003"
   },
   "8040386003": {
-   "closed_at": null,
+   "closed_at": "2026-11-01T10:48:55+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",

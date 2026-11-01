@@ -51,6 +51,10 @@
   {
    "date": "2026-10-31",
    "open": 746
+  },
+  {
+   "date": "2026-11-01",
+   "open": 745
   }
  ],
  "jobs": {
@@ -3985,7 +3989,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8098866"
   },
   "8102337": {
-   "closed_at": null,
+   "closed_at": "2026-11-01T10:48:55+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
