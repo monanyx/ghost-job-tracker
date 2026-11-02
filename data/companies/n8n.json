@@ -55,6 +55,10 @@
   {
    "date": "2026-11-01",
    "open": 50
+  },
+  {
+   "date": "2026-11-02",
+   "open": 50
   }
  ],
  "jobs": {
@@ -89,7 +93,7 @@
    "url": "https://jobs.ashbyhq.com/n8n/01d9f6ac-4bc2-410d-aa2e-0bc7d471c210"
   },
   "01e97911-afbc-4d4b-bdc7-ea6cd5e51662": {
-   "closed_at": null,
+   "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -132,6 +136,21 @@
    "reopened": 0,
    "title": "Senior Customer Success Manager - German Speaking (Remote)",
    "url": "https://jobs.ashbyhq.com/n8n/0b21fdb3-006f-4cd3-98b1-68c33f5286fa"
+  },
+  "10fa4cac-9045-4f26-a945-9a690616e9b8": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-02T11:41:30+00:00",
+   "fp": "sales development representative north emea @ london office",
+   "location": "London Office",
+   "posted_at": "2026-11-02T09:31:31+00:00",
+   "posted_history": [
+    "2026-11-02T09:31:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales Development Representative - North EMEA",
+   "url": "https://jobs.ashbyhq.com/n8n/10fa4cac-9045-4f26-a945-9a690616e9b8"
   },
   "12d3b685-95b1-4152-b611-c82cd581e8fb": {
    "closed_at": null,
@@ -211,17 +230,18 @@
    "url": "https://jobs.ashbyhq.com/n8n/1fbf28aa-39c9-4ce4-a29a-238a725d8014"
   },
   "240f952d-fa35-4268-b84e-c5697024dab8": {
-   "closed_at": "2026-11-01T10:48:55+00:00",
+   "closed_at": null,
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
    "fp": "manager customer success @ berlin office",
    "location": "Berlin Office",
-   "posted_at": "2026-10-28T15:13:33+00:00",
+   "posted_at": "2026-11-02T08:59:11+00:00",
    "posted_history": [
-    "2026-10-28T15:13:33+00:00"
+    "2026-10-28T15:13:33+00:00",
+    "2026-11-02T08:59:11+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Manager, Customer Success (Remote - EMEA)",
    "url": "https://jobs.ashbyhq.com/n8n/240f952d-fa35-4268-b84e-c5697024dab8"
   },
@@ -271,7 +291,7 @@
    "url": "https://jobs.ashbyhq.com/n8n/3129949a-eae6-48c6-8c66-8d3e060a195c"
   },
   "33e46e4f-85b9-49ca-a010-16586c118c50": {
-   "closed_at": null,
+   "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "Marketing",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -482,7 +502,7 @@
    "url": "https://jobs.ashbyhq.com/n8n/592d917f-8dfc-4207-af49-ef48572fe3d2"
   },
   "5bd16c97-aaa4-499b-81a4-9599852fe6e9": {
-   "closed_at": null,
+   "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -572,7 +592,7 @@
    "url": "https://jobs.ashbyhq.com/n8n/7a223f15-4d26-4515-837c-dc8a3bcd98d4"
   },
   "8825850a-031b-4312-903c-3d3a25c45142": {
-   "closed_at": null,
+   "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -676,6 +696,21 @@
    "title": "Manager, Customer Success | Remote on West Coast",
    "url": "https://jobs.ashbyhq.com/n8n/a74530f1-92df-4487-8239-291f7abb6345"
   },
+  "ab37f9f4-805b-4464-8213-2e6b782b709a": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-02T11:41:30+00:00",
+   "fp": "sales development representative nordics benelux @ london office",
+   "location": "London Office",
+   "posted_at": "2026-11-02T09:23:13+00:00",
+   "posted_history": [
+    "2026-11-02T09:23:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales Development Representative - Nordics + Benelux",
+   "url": "https://jobs.ashbyhq.com/n8n/ab37f9f4-805b-4464-8213-2e6b782b709a"
+  },
   "b0fe5136-97b9-4f90-b8e9-00cf4e2fd69e": {
    "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "Operations",
@@ -690,6 +725,21 @@
    "reopened": 0,
    "title": "Head of Pricing and Monetization",
    "url": "https://jobs.ashbyhq.com/n8n/b0fe5136-97b9-4f90-b8e9-00cf4e2fd69e"
+  },
+  "b2a33331-6fa0-4e79-8ce2-7979be7702df": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-02T11:41:30+00:00",
+   "fp": "sales development representative south emea @ london office",
+   "location": "London Office",
+   "posted_at": "2026-11-02T09:22:46+00:00",
+   "posted_history": [
+    "2026-11-02T09:22:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales Development Representative - South EMEA",
+   "url": "https://jobs.ashbyhq.com/n8n/b2a33331-6fa0-4e79-8ce2-7979be7702df"
   },
   "b45f4511-fae8-4ea1-ae88-f17d26f13acb": {
    "closed_at": null,

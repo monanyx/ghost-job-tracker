@@ -55,6 +55,10 @@
   {
    "date": "2026-11-01",
    "open": 138
+  },
+  {
+   "date": "2026-11-02",
+   "open": 142
   }
  ],
  "jobs": {
@@ -240,7 +244,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/108c99e6-ba2b-44a0-b830-7d535e14a152"
   },
   "10e6475e-67ef-4621-8718-7b087c354651": {
-   "closed_at": null,
+   "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "Engineering & Product",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -411,10 +415,11 @@
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "mobile engineer elevenmusic @ remote",
    "location": "Remote",
-   "posted_at": "2026-10-27T10:37:34+00:00",
+   "posted_at": "2026-11-02T11:27:20+00:00",
    "posted_history": [
     "2026-10-19T09:45:53+00:00",
-    "2026-10-27T10:37:34+00:00"
+    "2026-10-27T10:37:34+00:00",
+    "2026-11-02T11:27:20+00:00"
    ],
    "reopened": 1,
    "title": "Mobile Engineer - ElevenMusic",
@@ -556,7 +561,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/27e92957-374f-409a-b787-166b10e0f042"
   },
   "2a99d0a0-adae-41b5-a7ef-f1d3faee60a7": {
-   "closed_at": null,
+   "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "Engineering & Product",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -677,7 +682,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/317e26ca-75d1-4993-8041-3c440c28416e"
   },
   "31a6f0f4-8e1d-4d77-9d00-026ed12213f2": {
-   "closed_at": null,
+   "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "Engineering & Product",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -690,6 +695,21 @@
    "reopened": 0,
    "title": "Infrastructure Engineer",
    "url": "https://jobs.ashbyhq.com/elevenlabs/31a6f0f4-8e1d-4d77-9d00-026ed12213f2"
+  },
+  "33bb01d0-993c-47fa-ae91-81c0c84f367e": {
+   "closed_at": null,
+   "department": "Growth",
+   "evergreen": false,
+   "first_seen": "2026-11-02T11:41:30+00:00",
+   "fp": "product marketing agents government @ united kingdom",
+   "location": "United Kingdom",
+   "posted_at": "2026-11-02T09:37:05+00:00",
+   "posted_history": [
+    "2026-11-02T09:37:05+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Marketing - Agents - Government",
+   "url": "https://jobs.ashbyhq.com/elevenlabs/33bb01d0-993c-47fa-ae91-81c0c84f367e"
   },
   "347282a4-74ff-4e56-a92d-3c4249ee6c28": {
    "closed_at": null,
@@ -812,6 +832,21 @@
    "title": "Full-Stack Engineer (Frontend-Leaning) - CreativeMusic",
    "url": "https://jobs.ashbyhq.com/elevenlabs/38bac641-02de-414d-96f3-d0adb603cb89"
   },
+  "3abf96ca-2937-4290-9d23-5208aece08b2": {
+   "closed_at": null,
+   "department": "Engineering & Product",
+   "evergreen": false,
+   "first_seen": "2026-11-02T11:41:30+00:00",
+   "fp": "full stack engineer ads engine @ united kingdom",
+   "location": "United Kingdom",
+   "posted_at": "2026-11-02T05:31:03+00:00",
+   "posted_history": [
+    "2026-11-02T05:31:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Full-Stack Engineer - Ads Engine",
+   "url": "https://jobs.ashbyhq.com/elevenlabs/3abf96ca-2937-4290-9d23-5208aece08b2"
+  },
   "3acbcb5a-605b-4192-baeb-3999004233a6": {
    "closed_at": null,
    "department": "Finance",
@@ -889,17 +924,18 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/3d650946-5ac2-4729-9ae4-129c43fcd0b5"
   },
   "3e9f8e45-cd55-4fb9-9452-0ebbd6e15de6": {
-   "closed_at": "2026-10-30T10:28:19+00:00",
+   "closed_at": null,
    "department": "Finance",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "equity administrator @ new york",
    "location": "New York",
-   "posted_at": "2026-10-13T16:59:01+00:00",
+   "posted_at": "2026-11-01T22:18:49+00:00",
    "posted_history": [
-    "2026-10-13T16:59:01+00:00"
+    "2026-10-13T16:59:01+00:00",
+    "2026-11-01T22:18:49+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Equity Administrator",
    "url": "https://jobs.ashbyhq.com/elevenlabs/3e9f8e45-cd55-4fb9-9452-0ebbd6e15de6"
   },
@@ -1475,6 +1511,21 @@
    "title": "GTM Enablement - Partner Program",
    "url": "https://jobs.ashbyhq.com/elevenlabs/820e5023-c637-4b36-91a9-f732f235998e"
   },
+  "830e66a8-892c-4c68-b61c-494591236eef": {
+   "closed_at": null,
+   "department": "Revenue",
+   "evergreen": false,
+   "first_seen": "2026-11-02T11:41:30+00:00",
+   "fp": "account manager dach @ germany",
+   "location": "Germany",
+   "posted_at": "2026-11-01T14:38:06+00:00",
+   "posted_history": [
+    "2026-11-01T14:38:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Manager - DACH",
+   "url": "https://jobs.ashbyhq.com/elevenlabs/830e66a8-892c-4c68-b61c-494591236eef"
+  },
   "84641293-96a2-47dc-b3c4-487f33f1485d": {
    "closed_at": null,
    "department": "Operations",
@@ -1778,17 +1829,18 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/9aca205e-b2bc-405b-85d6-3d2aadbe49b1"
   },
   "9d731858-01bf-4d42-89e5-5912ae94cf55": {
-   "closed_at": "2026-10-30T10:28:19+00:00",
+   "closed_at": null,
    "department": "Finance",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "revenue accountant @ new york",
    "location": "New York",
-   "posted_at": "2026-10-15T08:29:02+00:00",
+   "posted_at": "2026-11-01T22:20:03+00:00",
    "posted_history": [
-    "2026-10-15T08:29:02+00:00"
+    "2026-10-15T08:29:02+00:00",
+    "2026-11-01T22:20:03+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Revenue Accountant",
    "url": "https://jobs.ashbyhq.com/elevenlabs/9d731858-01bf-4d42-89e5-5912ae94cf55"
   },
@@ -1853,17 +1905,18 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/a3097257-a07a-4a7e-b9fe-b8555c1a0fa7"
   },
   "a435a526-e2b3-4fcf-a732-0e70864178bb": {
-   "closed_at": "2026-10-30T10:28:19+00:00",
+   "closed_at": null,
    "department": "Finance",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "finance systems lead @ united kingdom",
    "location": "United Kingdom",
-   "posted_at": "2026-10-13T17:35:27+00:00",
+   "posted_at": "2026-11-01T22:19:50+00:00",
    "posted_history": [
-    "2026-10-13T17:35:27+00:00"
+    "2026-10-13T17:35:27+00:00",
+    "2026-11-01T22:19:50+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Finance Systems Lead",
    "url": "https://jobs.ashbyhq.com/elevenlabs/a435a526-e2b3-4fcf-a732-0e70864178bb"
   },
@@ -2640,17 +2693,18 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/e6924f60-c8cc-42b3-9d05-2442ec30e12d"
   },
   "e7b83599-1b70-4830-85da-7132b99a3b57": {
-   "closed_at": "2026-10-30T10:28:19+00:00",
+   "closed_at": null,
    "department": "Finance",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "senior accountant @ poland",
    "location": "Poland",
-   "posted_at": "2026-10-15T09:01:31+00:00",
+   "posted_at": "2026-11-01T22:20:11+00:00",
    "posted_history": [
-    "2026-10-15T09:01:31+00:00"
+    "2026-10-15T09:01:31+00:00",
+    "2026-11-01T22:20:11+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Accountant",
    "url": "https://jobs.ashbyhq.com/elevenlabs/e7b83599-1b70-4830-85da-7132b99a3b57"
   },
@@ -2745,17 +2799,18 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/ede30aef-bc40-48b3-ae75-59cdc5d075b9"
   },
   "eec0ee0e-ad68-47af-a0a8-8d2191aee4ba": {
-   "closed_at": "2026-10-30T10:28:19+00:00",
+   "closed_at": null,
    "department": "Finance",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "fp a lead @ united kingdom",
    "location": "United Kingdom",
-   "posted_at": "2026-10-13T17:27:05+00:00",
+   "posted_at": "2026-11-01T22:19:56+00:00",
    "posted_history": [
-    "2026-10-13T17:27:05+00:00"
+    "2026-10-13T17:27:05+00:00",
+    "2026-11-01T22:19:56+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "FP&A Lead",
    "url": "https://jobs.ashbyhq.com/elevenlabs/eec0ee0e-ad68-47af-a0a8-8d2191aee4ba"
   },
@@ -2841,10 +2896,11 @@
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "partnerships private equity @ new york",
    "location": "New York",
-   "posted_at": "2026-10-23T21:13:40+00:00",
+   "posted_at": "2026-11-02T02:02:40+00:00",
    "posted_history": [
     "2026-10-13T13:09:04+00:00",
-    "2026-10-23T21:13:40+00:00"
+    "2026-10-23T21:13:40+00:00",
+    "2026-11-02T02:02:40+00:00"
    ],
    "reopened": 1,
    "title": "Partnerships - Private Equity",
@@ -2881,7 +2937,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/f805267e-2f77-4cdf-8d8a-a3ed5b07e726"
   },
   "f80d0420-b6e6-4110-940c-293f64b9761e": {
-   "closed_at": null,
+   "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "Engineering & Product",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

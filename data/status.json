@@ -3,16 +3,16 @@
   "ats": "greenhouse",
   "board": "affirm",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Affirm",
   "ok": true,
-  "open": 244
+  "open": 240
  },
  "airbnb": {
   "ats": "greenhouse",
   "board": "airbnb",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Airbnb",
   "ok": true,
   "open": 202
@@ -21,7 +21,7 @@
   "ats": "greenhouse",
   "board": "airtable",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Airtable",
   "ok": true,
   "open": 5
@@ -30,16 +30,16 @@
   "ats": "greenhouse",
   "board": "anthropic",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Anthropic",
   "ok": true,
-  "open": 675
+  "open": 678
  },
  "asana": {
   "ats": "greenhouse",
   "board": "asana",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Asana",
   "ok": true,
   "open": 110
@@ -48,7 +48,7 @@
   "ats": "lever",
   "board": "binance",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Binance",
   "ok": true,
   "open": 5
@@ -57,16 +57,16 @@
   "ats": "greenhouse",
   "board": "bitpanda",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Bitpanda",
   "ok": true,
-  "open": 32
+  "open": 33
  },
  "bosch": {
   "ats": "smartrecruiters",
   "board": "BoschGroup",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Bosch",
   "ok": true,
   "open": 3000
@@ -75,7 +75,7 @@
   "ats": "greenhouse",
   "board": "brex",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Brex",
   "ok": true,
   "open": 263
@@ -84,7 +84,7 @@
   "ats": "greenhouse",
   "board": "celonis",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Celonis",
   "ok": true,
   "open": 236
@@ -93,7 +93,7 @@
   "ats": "greenhouse",
   "board": "chime",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Chime",
   "ok": true,
   "open": 75
@@ -102,34 +102,34 @@
   "ats": "greenhouse",
   "board": "cloudflare",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Cloudflare",
   "ok": true,
-  "open": 464
+  "open": 466
  },
  "cohere": {
   "ats": "ashby",
   "board": "cohere",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Cohere",
   "ok": true,
-  "open": 122
+  "open": 120
  },
  "coinbase": {
   "ats": "greenhouse",
   "board": "coinbase",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Coinbase",
   "ok": true,
-  "open": 254
+  "open": 264
  },
  "contentful": {
   "ats": "greenhouse",
   "board": "contentful",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Contentful",
   "ok": true,
   "open": 29
@@ -138,25 +138,25 @@
   "ats": "ashby",
   "board": "cursor",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Cursor",
   "ok": true,
-  "open": 125
+  "open": 124
  },
  "databricks": {
   "ats": "greenhouse",
   "board": "databricks",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Databricks",
   "ok": true,
-  "open": 904
+  "open": 909
  },
  "datadog": {
   "ats": "greenhouse",
   "board": "datadog",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Datadog",
   "ok": true,
   "open": 397
@@ -165,7 +165,7 @@
   "ats": "greenhouse",
   "board": "discord",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Discord",
   "ok": true,
   "open": 41
@@ -174,7 +174,7 @@
   "ats": "greenhouse",
   "board": "doordashusa",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "DoorDash",
   "ok": true,
   "open": 439
@@ -183,7 +183,7 @@
   "ats": "greenhouse",
   "board": "dropbox",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Dropbox",
   "ok": true,
   "open": 24
@@ -192,34 +192,34 @@
   "ats": "greenhouse",
   "board": "duolingo",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Duolingo",
   "ok": true,
-  "open": 57
+  "open": 56
  },
  "elastic": {
   "ats": "greenhouse",
   "board": "elastic",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Elastic",
   "ok": true,
-  "open": 407
+  "open": 410
  },
  "elevenlabs": {
   "ats": "ashby",
   "board": "elevenlabs",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "ElevenLabs",
   "ok": true,
-  "open": 138
+  "open": 142
  },
  "epic-games": {
   "ats": "greenhouse",
   "board": "epicgames",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Epic Games",
   "ok": true,
   "open": 137
@@ -228,34 +228,34 @@
   "ats": "greenhouse",
   "board": "figma",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Figma",
   "ok": true,
-  "open": 140
+  "open": 141
  },
  "gitlab": {
   "ats": "greenhouse",
   "board": "gitlab",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "GitLab",
   "ok": true,
-  "open": 238
+  "open": 236
  },
  "gostudent": {
   "ats": "greenhouse",
   "board": "gostudent",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "GoStudent",
   "ok": true,
-  "open": 25
+  "open": 20
  },
  "gusto": {
   "ats": "greenhouse",
   "board": "gusto",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Gusto",
   "ok": true,
   "open": 84
@@ -264,25 +264,25 @@
   "ats": "ashby",
   "board": "harvey",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Harvey",
   "ok": true,
-  "open": 381
+  "open": 377
  },
  "hellofresh": {
   "ats": "greenhouse",
   "board": "hellofresh",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "HelloFresh",
   "ok": true,
-  "open": 394
+  "open": 390
  },
  "hokify": {
   "ats": "personio",
   "board": "hokify",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "hokify",
   "ok": true,
   "open": 1
@@ -291,16 +291,16 @@
   "ats": "greenhouse",
   "board": "instacart",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Instacart",
   "ok": true,
-  "open": 96
+  "open": 94
  },
  "linear": {
   "ats": "ashby",
   "board": "linear",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Linear",
   "ok": true,
   "open": 31
@@ -309,16 +309,16 @@
   "ats": "ashby",
   "board": "lovable",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Lovable",
   "ok": true,
-  "open": 80
+  "open": 78
  },
  "lyft": {
   "ats": "greenhouse",
   "board": "lyft",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Lyft",
   "ok": true,
   "open": 170
@@ -327,7 +327,7 @@
   "ats": "smartrecruiters",
   "board": "McDonaldsCorporation",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "McDonald's",
   "ok": true,
   "open": 4
@@ -336,16 +336,16 @@
   "ats": "greenhouse",
   "board": "mongodb",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "MongoDB",
   "ok": true,
-  "open": 366
+  "open": 364
  },
  "monzo": {
   "ats": "greenhouse",
   "board": "monzo",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Monzo",
   "ok": true,
   "open": 63
@@ -354,16 +354,16 @@
   "ats": "greenhouse",
   "board": "n26",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "N26",
   "ok": true,
-  "open": 32
+  "open": 31
  },
  "n8n": {
   "ats": "ashby",
   "board": "n8n",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "n8n",
   "ok": true,
   "open": 50
@@ -372,7 +372,7 @@
   "ats": "ashby",
   "board": "notion",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Notion",
   "ok": true,
   "open": 148
@@ -381,16 +381,16 @@
   "ats": "greenhouse",
   "board": "okta",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Okta",
   "ok": true,
-  "open": 387
+  "open": 390
  },
  "openai": {
   "ats": "ashby",
   "board": "openai",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "OpenAI",
   "ok": true,
   "open": 810
@@ -399,7 +399,7 @@
   "ats": "lever",
   "board": "palantir",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Palantir",
   "ok": true,
   "open": 301
@@ -408,7 +408,7 @@
   "ats": "greenhouse",
   "board": "peloton",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Peloton",
   "ok": true,
   "open": 58
@@ -417,7 +417,7 @@
   "ats": "ashby",
   "board": "perplexity",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Perplexity",
   "ok": true,
   "open": 138
@@ -426,7 +426,7 @@
   "ats": "lever",
   "board": "pigment",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Pigment",
   "ok": true,
   "open": 129
@@ -435,16 +435,16 @@
   "ats": "greenhouse",
   "board": "pinterest",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Pinterest",
   "ok": true,
-  "open": 170
+  "open": 171
  },
  "posthog": {
   "ats": "ashby",
   "board": "posthog",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "PostHog",
   "ok": true,
   "open": 11
@@ -453,7 +453,7 @@
   "ats": "personio",
   "board": "prewave",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Prewave",
   "ok": true,
   "open": 9
@@ -462,7 +462,7 @@
   "ats": "ashby",
   "board": "ramp",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Ramp",
   "ok": true,
   "open": 172
@@ -471,7 +471,7 @@
   "ats": "greenhouse",
   "board": "reddit",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Reddit",
   "ok": true,
   "open": 163
@@ -480,7 +480,7 @@
   "ats": "ashby",
   "board": "replit",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Replit",
   "ok": true,
   "open": 34
@@ -489,25 +489,25 @@
   "ats": "greenhouse",
   "board": "riotgames",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Riot Games",
   "ok": true,
-  "open": 184
+  "open": 183
  },
  "robinhood": {
   "ats": "greenhouse",
   "board": "robinhood",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Robinhood",
   "ok": true,
-  "open": 160
+  "open": 162
  },
  "roblox": {
   "ats": "greenhouse",
   "board": "roblox",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Roblox",
   "ok": true,
   "open": 268
@@ -516,7 +516,7 @@
   "ats": "ashby",
   "board": "runway",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Runway",
   "ok": true,
   "open": 3
@@ -525,16 +525,16 @@
   "ats": "greenhouse",
   "board": "samsara",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Samsara",
   "ok": true,
-  "open": 338
+  "open": 340
  },
  "scale-ai": {
   "ats": "greenhouse",
   "board": "scaleai",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Scale AI",
   "ok": true,
   "open": 170
@@ -543,7 +543,7 @@
   "ats": "ashby",
   "board": "sentry",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Sentry",
   "ok": true,
   "open": 40
@@ -552,7 +552,7 @@
   "ats": "greenhouse",
   "board": "spacex",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "SpaceX",
   "ok": true,
   "open": 2874
@@ -561,16 +561,16 @@
   "ats": "lever",
   "board": "spotify",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Spotify",
   "ok": true,
-  "open": 89
+  "open": 88
  },
  "squarespace": {
   "ats": "greenhouse",
   "board": "squarespace",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Squarespace",
   "ok": true,
   "open": 27
@@ -579,16 +579,16 @@
   "ats": "greenhouse",
   "board": "stripe",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Stripe",
   "ok": true,
-  "open": 745
+  "open": 749
  },
  "supabase": {
   "ats": "ashby",
   "board": "supabase",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Supabase",
   "ok": true,
   "open": 68
@@ -597,25 +597,25 @@
   "ats": "greenhouse",
   "board": "toast",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Toast",
   "ok": true,
-  "open": 329
+  "open": 327
  },
  "twilio": {
   "ats": "greenhouse",
   "board": "twilio",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Twilio",
   "ok": true,
-  "open": 132
+  "open": 135
  },
  "twitch": {
   "ats": "greenhouse",
   "board": "twitch",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Twitch",
   "ok": true,
   "open": 63
@@ -624,7 +624,7 @@
   "ats": "greenhouse",
   "board": "typeform",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Typeform",
   "ok": true,
   "open": 11
@@ -633,16 +633,16 @@
   "ats": "smartrecruiters",
   "board": "Ubisoft2",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Ubisoft",
   "ok": true,
-  "open": 306
+  "open": 303
  },
  "vanta": {
   "ats": "ashby",
   "board": "vanta",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Vanta",
   "ok": true,
   "open": 79
@@ -651,7 +651,7 @@
   "ats": "greenhouse",
   "board": "vercel",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Vercel",
   "ok": true,
   "open": 91
@@ -660,7 +660,7 @@
   "ats": "greenhouse",
   "board": "waymo",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Waymo",
   "ok": true,
   "open": 372
@@ -669,16 +669,16 @@
   "ats": "greenhouse",
   "board": "wolt",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Wolt",
   "ok": true,
-  "open": 198
+  "open": 199
  },
  "zapier": {
   "ats": "ashby",
   "board": "zapier",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Zapier",
   "ok": true,
   "open": 11
@@ -687,9 +687,9 @@
   "ats": "lever",
   "board": "zoox",
   "error": null,
-  "last_checked": "2026-11-01T10:48:55+00:00",
+  "last_checked": "2026-11-02T11:41:30+00:00",
   "name": "Zoox",
   "ok": true,
-  "open": 227
+  "open": 226
  }
 }

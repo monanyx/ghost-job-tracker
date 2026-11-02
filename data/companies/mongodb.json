@@ -55,6 +55,10 @@
   {
    "date": "2026-11-01",
    "open": 366
+  },
+  {
+   "date": "2026-11-02",
+   "open": 364
   }
  ],
  "jobs": {
@@ -914,7 +918,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=7590735"
   },
   "7593680": {
-   "closed_at": null,
+   "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4109,7 +4113,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8174052"
   },
   "8174075": {
-   "closed_at": null,
+   "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5069,7 +5073,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8226033"
   },
   "8226040": {
-   "closed_at": null,
+   "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6747,6 +6751,21 @@
    "reopened": 0,
    "title": "SVP, Revenue Marketing",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8331479"
+  },
+  "8333381": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-02T11:41:30+00:00",
+   "fp": "solutions architect @ singapore",
+   "location": "Singapore",
+   "posted_at": "2026-11-02T11:06:36+00:00",
+   "posted_history": [
+    "2026-11-02T11:06:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Solutions Architect",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8333381"
   },
   "8334108": {
    "closed_at": null,

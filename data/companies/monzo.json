@@ -55,6 +55,10 @@
   {
    "date": "2026-11-01",
    "open": 63
+  },
+  {
+   "date": "2026-11-02",
+   "open": 63
   }
  ],
  "jobs": {
@@ -764,7 +768,7 @@
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8156058"
   },
   "8156261": {
-   "closed_at": null,
+   "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1407,6 +1411,21 @@
    "reopened": 0,
    "title": "Credit Model Validation Manager",
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8331328"
+  },
+  "8336434": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-02T11:41:30+00:00",
+   "fp": "information security manager @ cardiff, london or remote (uk)",
+   "location": "Cardiff, London or Remote (UK)",
+   "posted_at": "2026-11-02T09:42:47+00:00",
+   "posted_history": [
+    "2026-11-02T09:42:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Information Security Manager",
+   "url": "https://job-boards.greenhouse.io/monzo/jobs/8336434"
   }
  }
 }

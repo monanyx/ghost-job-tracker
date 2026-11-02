@@ -55,6 +55,10 @@
   {
    "date": "2026-11-01",
    "open": 110
+  },
+  {
+   "date": "2026-11-02",
+   "open": 110
   }
  ],
  "jobs": {
@@ -537,6 +541,21 @@
    "reopened": 0,
    "title": "Staff Software Engineer, AI",
    "url": "https://www.asana.com/jobs/apply/7978671?gh_jid=7978671"
+  },
+  "7979918": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-02T11:41:30+00:00",
+   "fp": "engineering manager reporting horizons @ warsaw",
+   "location": "Warsaw",
+   "posted_at": "2026-06-03T17:49:28+00:00",
+   "posted_history": [
+    "2026-06-03T17:49:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager, Reporting Horizons",
+   "url": "https://www.asana.com/jobs/apply/7979918?gh_jid=7979918"
   },
   "8001349": {
    "closed_at": "2026-10-21T08:53:29+00:00",
@@ -1529,7 +1548,7 @@
    "url": "https://www.asana.com/jobs/apply/8250135?gh_jid=8250135"
   },
   "8250168": {
-   "closed_at": null,
+   "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

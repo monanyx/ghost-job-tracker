@@ -55,6 +55,10 @@
   {
    "date": "2026-11-01",
    "open": 238
+  },
+  {
+   "date": "2026-11-02",
+   "open": 236
   }
  ],
  "jobs": {
@@ -74,7 +78,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8396674002"
   },
   "8478405002": {
-   "closed_at": null,
+   "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -419,7 +423,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8623592002"
   },
   "8626740002": {
-   "closed_at": null,
+   "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1184,7 +1188,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8716271002"
   },
   "8725225002": {
-   "closed_at": null,
+   "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1229,7 +1233,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8726744002"
   },
   "8729451002": {
-   "closed_at": null,
+   "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1424,7 +1428,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8749950002"
   },
   "8749951002": {
-   "closed_at": null,
+   "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1677,6 +1681,21 @@
    "reopened": 0,
    "title": "Senior Backend Engineer, Database Excellence (Ruby)",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8778943002"
+  },
+  "8781299002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-02T11:41:30+00:00",
+   "fp": "staff software engineer nlp @ bangalore, india",
+   "location": "Bangalore, India",
+   "posted_at": "2026-09-24T06:04:48+00:00",
+   "posted_history": [
+    "2026-09-24T06:04:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer - NLP",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8781299002"
   },
   "8782153002": {
    "closed_at": "2026-10-28T10:01:46+00:00",
@@ -4287,6 +4306,36 @@
    "reopened": 0,
    "title": "Incident & Escalation Lead- Enterprise Customers",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8923092002"
+  },
+  "8923121002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-02T11:41:30+00:00",
+   "fp": "incident escalation lead enterprise customers @ remote, canada; remote, united states",
+   "location": "Remote, Canada; Remote, United States",
+   "posted_at": "2026-11-02T10:48:18+00:00",
+   "posted_history": [
+    "2026-11-02T10:48:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Incident & Escalation Lead- Enterprise Customers",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8923121002"
+  },
+  "8924923002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-02T11:41:30+00:00",
+   "fp": "intermediate data engineer @ bangalore, india",
+   "location": "Bangalore, India",
+   "posted_at": "2026-11-02T06:44:11+00:00",
+   "posted_history": [
+    "2026-11-02T06:44:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Intermediate Data Engineer",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8924923002"
   }
  }
 }

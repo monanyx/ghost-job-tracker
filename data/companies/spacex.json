@@ -55,6 +55,10 @@
   {
    "date": "2026-11-01",
    "open": 2874
+  },
+  {
+   "date": "2026-11-02",
+   "open": 2874
   }
  ],
  "jobs": {
@@ -41414,7 +41418,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8893104002?gh_jid=8893104002"
   },
   "8893131002": {
-   "closed_at": null,
+   "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -45822,6 +45826,21 @@
    "reopened": 0,
    "title": "IT Network Administrator",
    "url": "https://boards.greenhouse.io/spacex/jobs/8924408002?gh_jid=8924408002"
+  },
+  "8924420002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-02T11:41:30+00:00",
+   "fp": "avionics test technician starbase vibe test lab @ starbase, tx",
+   "location": "Starbase, TX",
+   "posted_at": "2026-11-02T02:48:59+00:00",
+   "posted_history": [
+    "2026-11-02T02:48:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Avionics Test Technician, Starbase Vibe Test Lab",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8924420002?gh_jid=8924420002"
   },
   "8924491002": {
    "closed_at": null,

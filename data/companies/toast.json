@@ -55,6 +55,10 @@
   {
    "date": "2026-11-01",
    "open": 329
+  },
+  {
+   "date": "2026-11-02",
+   "open": 327
   }
  ],
  "jobs": {
@@ -78,8 +82,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
-   "fp": "talent acquisition partner contract @ sydney, melbourne or brisbane",
-   "location": "Sydney, Melbourne or Brisbane",
+   "fp": "talent acquisition partner contract @ sydney, australia",
+   "location": "Sydney, Australia",
    "posted_at": "2026-10-22T02:03:51+00:00",
    "posted_history": [
     "2026-10-22T02:03:51+00:00"
@@ -3284,7 +3288,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=8203409"
   },
   "8205182": {
-   "closed_at": null,
+   "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3449,7 +3453,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=8215834"
   },
   "8219877": {
-   "closed_at": null,
+   "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -4739,7 +4743,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=8262807"
   },
   "8263535": {
-   "closed_at": null,
+   "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-26T09:22:13+00:00",
@@ -6447,6 +6451,21 @@
    "reopened": 0,
    "title": "Flex Territory Account Executive, SMB - Los Angeles, CA",
    "url": "https://careers.toasttab.com/jobs?gh_jid=8324824"
+  },
+  "8326864": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-02T11:41:30+00:00",
+   "fp": "program manager inclusion impact @ bangalore",
+   "location": "Bangalore",
+   "posted_at": "2026-11-02T05:33:54+00:00",
+   "posted_history": [
+    "2026-11-02T05:33:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Program Manager, Inclusion & Impact (APAC)",
+   "url": "https://careers.toasttab.com/jobs?gh_jid=8326864"
   },
   "8326932": {
    "closed_at": null,

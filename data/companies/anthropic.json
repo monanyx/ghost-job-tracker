@@ -55,6 +55,10 @@
   {
    "date": "2026-11-01",
    "open": 675
+  },
+  {
+   "date": "2026-11-02",
+   "open": 678
   }
  ],
  "jobs": {
@@ -5534,7 +5538,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391257008"
   },
   "5391289008": {
-   "closed_at": null,
+   "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6494,7 +6498,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5405548008"
   },
   "5405710008": {
-   "closed_at": null,
+   "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -9809,7 +9813,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5448539008"
   },
   "5448886008": {
-   "closed_at": null,
+   "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -9927,6 +9931,21 @@
    "reopened": 0,
    "title": "IT Systems Engineer, M&A",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5450479008"
+  },
+  "5450798008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-02T11:41:30+00:00",
+   "fp": "applied ai architect @ sydney, australia",
+   "location": "Sydney, Australia",
+   "posted_at": "2026-11-02T09:33:31+00:00",
+   "posted_history": [
+    "2026-11-02T09:33:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Applied AI Architect",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5450798008"
   },
   "5451081008": {
    "closed_at": null,
@@ -11278,6 +11297,21 @@
    "title": "Performance & Talent Programs Manager",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5465578008"
   },
+  "5465639008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-02T11:41:30+00:00",
+   "fp": "ai outcomes manager strategic tech @ san francisco, ca | seattle, wa | new york city, ny | washington, dc",
+   "location": "San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC",
+   "posted_at": "2026-11-02T07:07:52+00:00",
+   "posted_history": [
+    "2026-11-02T07:07:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "AI Outcomes Manager, Strategic Tech (Spanish-speaking)",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5465639008"
+  },
   "5466480008": {
    "closed_at": null,
    "department": "",
@@ -11352,6 +11386,36 @@
    "reopened": 0,
    "title": "Research Scientist, Life Sciences (Large Molecules, Process Development)",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5467099008"
+  },
+  "5467153008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-02T11:41:30+00:00",
+   "fp": "technical deployment lead @ paris, france",
+   "location": "Paris, France",
+   "posted_at": "2026-11-02T09:20:26+00:00",
+   "posted_history": [
+    "2026-11-02T09:20:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Deployment Lead",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5467153008"
+  },
+  "5467159008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-02T11:41:30+00:00",
+   "fp": "technical deployment lead @ munich, germany",
+   "location": "Munich, Germany",
+   "posted_at": "2026-11-02T09:30:29+00:00",
+   "posted_history": [
+    "2026-11-02T09:30:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Deployment Lead",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5467159008"
   },
   "5467233008": {
    "closed_at": null,
@@ -11457,6 +11521,36 @@
    "reopened": 0,
    "title": "Data Center Electrical Engineer – Design",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468392008"
+  },
+  "5468947008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-02T11:41:30+00:00",
+   "fp": "research engineer scientist pre training @ remote-friendly (travel-required) | san francisco, ca | seattle, wa | new york city, ny",
+   "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
+   "posted_at": "2026-11-02T04:16:27+00:00",
+   "posted_history": [
+    "2026-11-02T04:16:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Research Engineer / Scientist, Pre-training",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468947008"
+  },
+  "5469530008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-02T11:41:30+00:00",
+   "fp": "manager enterprise sales dach cee @ munich, germany",
+   "location": "Munich, Germany",
+   "posted_at": "2026-11-02T10:05:00+00:00",
+   "posted_history": [
+    "2026-11-02T10:05:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Enterprise Sales, DACH & CEE",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5469530008"
   }
  }
 }

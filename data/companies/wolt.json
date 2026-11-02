@@ -55,6 +55,10 @@
   {
    "date": "2026-11-01",
    "open": 198
+  },
+  {
+   "date": "2026-11-02",
+   "open": 199
   }
  ],
  "jobs": {
@@ -357,7 +361,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/6694005"
   },
   "6694009": {
-   "closed_at": null,
+   "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -835,7 +839,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/7481725"
   },
   "7483616": {
-   "closed_at": "2026-11-01T10:48:55+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -845,7 +849,7 @@
    "posted_history": [
     "2026-10-29T13:32:28+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Strategy & Operations Manager",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/7483616"
   },
@@ -2620,7 +2624,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8213982"
   },
   "8214168": {
-   "closed_at": null,
+   "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2695,18 +2699,18 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8222879"
   },
   "8223014": {
-   "closed_at": "2026-10-23T08:50:35+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "procurement operations analyst @ budapest, hungary",
+   "fp": "accounts payable accountant @ budapest, hungary",
    "location": "Budapest, Hungary",
    "posted_at": "2026-09-22T15:49:56+00:00",
    "posted_history": [
     "2026-09-22T15:49:56+00:00"
    ],
-   "reopened": 0,
-   "title": "Procurement Operations Analyst",
+   "reopened": 1,
+   "title": "Accounts Payable Accountant",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8223014"
   },
   "8223261": {
@@ -3938,6 +3942,21 @@
    "reopened": 0,
    "title": "Menu Growth Senior Specialist",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8337510"
+  },
+  "8344596": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-02T11:41:30+00:00",
+   "fp": "group support service manager @ haifa, israel",
+   "location": "Haifa, Israel",
+   "posted_at": "2026-11-01T14:52:38+00:00",
+   "posted_history": [
+    "2026-11-01T14:52:38+00:00"
+   ],
+   "reopened": 0,
+   "title": "Group Support Service Manager",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8344596"
   }
  }
 }

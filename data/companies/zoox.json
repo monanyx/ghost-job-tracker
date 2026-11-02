@@ -55,6 +55,10 @@
   {
    "date": "2026-11-01",
    "open": 227
+  },
+  {
+   "date": "2026-11-02",
+   "open": 226
   }
  ],
  "jobs": {
@@ -1859,7 +1863,7 @@
    "url": "https://jobs.lever.co/zoox/6efb15a8-ebe0-4ffc-bcc6-1d8f8375dbee"
   },
   "6f2f77a2-b0db-464c-8275-4d8e5aa7044c": {
-   "closed_at": null,
+   "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "Autonomy Software",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

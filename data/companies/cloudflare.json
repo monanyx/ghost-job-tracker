@@ -55,6 +55,10 @@
   {
    "date": "2026-11-01",
    "open": 464
+  },
+  {
+   "date": "2026-11-02",
+   "open": 466
   }
  ],
  "jobs": {
@@ -1094,7 +1098,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/7830335?gh_jid=7830335"
   },
   "7831810": {
-   "closed_at": null,
+   "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1619,7 +1623,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8042843?gh_jid=8042843"
   },
   "8043287": {
-   "closed_at": null,
+   "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3299,7 +3303,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8158527?gh_jid=8158527"
   },
   "8158614": {
-   "closed_at": null,
+   "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5909,7 +5913,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8245561?gh_jid=8245561"
   },
   "8245787": {
-   "closed_at": null,
+   "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7498,6 +7502,21 @@
    "title": "Hardware Systems Engineer",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8325821?gh_jid=8325821"
   },
+  "8326749": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-02T11:41:30+00:00",
+   "fp": "sales manager thailand indochina @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-02T01:15:00+00:00",
+   "posted_history": [
+    "2026-11-02T01:15:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales Manager, Thailand & IndoChina",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8326749?gh_jid=8326749"
+  },
   "8327153": {
    "closed_at": null,
    "department": "",
@@ -7634,7 +7653,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8330121?gh_jid=8330121"
   },
   "8330512": {
-   "closed_at": null,
+   "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
@@ -7708,6 +7727,81 @@
    "title": "Client Executive, SLED",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8332361?gh_jid=8332361"
   },
+  "8332951": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-02T11:41:30+00:00",
+   "fp": "named account executive vietnam @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-02T01:29:41+00:00",
+   "posted_history": [
+    "2026-11-02T01:29:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Named Account Executive, Vietnam",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8332951?gh_jid=8332951"
+  },
+  "8332956": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-02T11:41:30+00:00",
+   "fp": "named account executive philippines @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-02T01:30:03+00:00",
+   "posted_history": [
+    "2026-11-02T01:30:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Named Account Executive, Philippines",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8332956?gh_jid=8332956"
+  },
+  "8332958": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-02T11:41:30+00:00",
+   "fp": "enterprise account executive philippines @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-02T01:30:04+00:00",
+   "posted_history": [
+    "2026-11-02T01:30:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Account Executive, Philippines",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8332958?gh_jid=8332958"
+  },
+  "8332959": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-02T11:41:30+00:00",
+   "fp": "enterprise account executive vietnam @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-02T01:29:43+00:00",
+   "posted_history": [
+    "2026-11-02T01:29:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Account Executive, Vietnam",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8332959?gh_jid=8332959"
+  },
+  "8332960": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-02T11:41:30+00:00",
+   "fp": "named account executive indonesia @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-02T03:44:30+00:00",
+   "posted_history": [
+    "2026-11-02T03:44:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Named Account Executive, Indonesia (Public Sector)",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8332960?gh_jid=8332960"
+  },
   "8335069": {
    "closed_at": null,
    "department": "",
@@ -7752,6 +7846,21 @@
    "reopened": 0,
    "title": "Territory Account Executive, Saskatchewan / Manitoba",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8335469?gh_jid=8335469"
+  },
+  "8336674": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-02T11:41:30+00:00",
+   "fp": "systems engineer warp @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-02T09:35:19+00:00",
+   "posted_history": [
+    "2026-11-02T09:35:19+00:00"
+   ],
+   "reopened": 0,
+   "title": "Systems Engineer, WARP",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8336674?gh_jid=8336674"
   },
   "8338018": {
    "closed_at": null,

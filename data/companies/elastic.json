@@ -55,6 +55,10 @@
   {
    "date": "2026-11-01",
    "open": 407
+  },
+  {
+   "date": "2026-11-02",
+   "open": 410
   }
  ],
  "jobs": {
@@ -6583,6 +6587,21 @@
    "title": "Junior Public Sector Account Executive",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8313394&gh_jid=8313394"
   },
+  "8314141": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-02T11:41:30+00:00",
+   "fp": "senior full stack engineer observability apm ui @ spain",
+   "location": "Spain",
+   "posted_at": "2026-11-02T09:50:14+00:00",
+   "posted_history": [
+    "2026-11-02T09:50:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Full Stack Engineer - Observability APM UI",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8314141&gh_jid=8314141"
+  },
   "8314209": {
    "closed_at": null,
    "department": "",
@@ -6957,6 +6976,36 @@
    "reopened": 0,
    "title": "Senior Recruiter, G&A + Marketing",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8338305&gh_jid=8338305"
+  },
+  "8345719": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-02T11:41:30+00:00",
+   "fp": "senior full stack engineer observability apm ui @ portugal",
+   "location": "Portugal",
+   "posted_at": "2026-11-02T09:50:48+00:00",
+   "posted_history": [
+    "2026-11-02T09:50:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Full Stack Engineer - Observability APM UI",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8345719&gh_jid=8345719"
+  },
+  "8345720": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-02T11:41:30+00:00",
+   "fp": "senior full stack engineer observability apm ui @ greece",
+   "location": "Greece",
+   "posted_at": "2026-11-02T09:51:18+00:00",
+   "posted_history": [
+    "2026-11-02T09:51:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Full Stack Engineer - Observability APM UI",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8345720&gh_jid=8345720"
   }
  }
 }

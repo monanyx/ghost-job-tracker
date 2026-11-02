@@ -55,6 +55,10 @@
   {
    "date": "2026-11-01",
    "open": 32
+  },
+  {
+   "date": "2026-11-02",
+   "open": 33
   }
  ],
  "jobs": {
@@ -687,6 +691,21 @@
    "reopened": 0,
    "title": "Senior Product Designer, Web3",
    "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5013167101"
+  },
+  "5024636101": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-02T11:41:30+00:00",
+   "fp": "expert information security @ vienna, vienna, austria",
+   "location": "Vienna, Vienna, Austria",
+   "posted_at": "2026-11-02T08:39:58+00:00",
+   "posted_history": [
+    "2026-11-02T08:39:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Expert, Information Security",
+   "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5024636101"
   }
  }
 }

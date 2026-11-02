@@ -55,6 +55,10 @@
   {
    "date": "2026-11-01",
    "open": 810
+  },
+  {
+   "date": "2026-11-02",
+   "open": 810
   }
  ],
  "jobs": {
@@ -719,18 +723,19 @@
    "url": "https://jobs.ashbyhq.com/openai/0e76e8eb-cd22-43c8-a9d0-cc35a3b9cb08"
   },
   "0ed12b35-0115-4ad3-81f5-ea1bb05c9f6b": {
-   "closed_at": "2026-10-30T10:28:19+00:00",
+   "closed_at": null,
    "department": "Scaling",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "data center infrastructure engineering program manager @ san francisco",
+   "fp": "white space manager @ san francisco",
    "location": "San Francisco",
-   "posted_at": "2026-04-20T21:46:38+00:00",
+   "posted_at": "2026-11-02T00:59:01+00:00",
    "posted_history": [
-    "2026-04-20T21:46:38+00:00"
+    "2026-04-20T21:46:38+00:00",
+    "2026-11-02T00:59:01+00:00"
    ],
-   "reopened": 0,
-   "title": "Data Center Infrastructure Engineering Program Manager (Network and Whitespace)",
+   "reopened": 1,
+   "title": "White Space Manager",
    "url": "https://jobs.ashbyhq.com/openai/0ed12b35-0115-4ad3-81f5-ea1bb05c9f6b"
   },
   "0ed35971-23c6-4723-a5c6-c24ce0ca8350": {
@@ -2807,7 +2812,7 @@
    "url": "https://jobs.ashbyhq.com/openai/333ebd68-cc1d-4706-8d0a-07f3e50d7bfd"
   },
   "3397617d-19dd-49d1-bf8f-57e02a9ebb63": {
-   "closed_at": null,
+   "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "Go To Market",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4308,7 +4313,7 @@
    "url": "https://jobs.ashbyhq.com/openai/5431666c-530b-49c0-b67e-32477f9eaf5e"
   },
   "544af761-e37a-450c-884b-b96506c1b883": {
-   "closed_at": null,
+   "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "Global Affairs",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4428,7 +4433,7 @@
    "url": "https://jobs.ashbyhq.com/openai/566a5565-925c-4367-9912-6b64841beba2"
   },
   "569fcba5-c7a2-48ae-b580-e86e181adfd8": {
-   "closed_at": null,
+   "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "Go To Market",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4891,6 +4896,21 @@
    "reopened": 0,
    "title": "RE/RS, Data Understanding - Foundations",
    "url": "https://jobs.ashbyhq.com/openai/5d1a6c05-e18b-43a2-8808-6498929ac253"
+  },
+  "5d40f698-176e-455f-a4fd-de2d8cfec044": {
+   "closed_at": null,
+   "department": "Scaling",
+   "evergreen": false,
+   "first_seen": "2026-11-02T11:41:30+00:00",
+   "fp": "controls engineer power generation @ us - remote",
+   "location": "US - Remote",
+   "posted_at": "2026-11-02T01:09:41+00:00",
+   "posted_history": [
+    "2026-11-02T01:09:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Controls Engineer: Power Generation",
+   "url": "https://jobs.ashbyhq.com/openai/5d40f698-176e-455f-a4fd-de2d8cfec044"
   },
   "5d5a4116-b409-4676-b357-7094ad87d15d": {
    "closed_at": null,
@@ -5786,11 +5806,12 @@
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "enterprise account associate emea @ dublin, ireland",
    "location": "Dublin, Ireland",
-   "posted_at": "2026-10-30T14:16:25+00:00",
+   "posted_at": "2026-11-02T11:30:03+00:00",
    "posted_history": [
     "2026-09-02T09:48:08+00:00",
     "2026-10-22T13:52:31+00:00",
-    "2026-10-30T14:16:25+00:00"
+    "2026-10-30T14:16:25+00:00",
+    "2026-11-02T11:30:03+00:00"
    ],
    "reopened": 0,
    "title": "Enterprise Account Associate - EMEA (German Speaking)",
@@ -9125,6 +9146,21 @@
    "reopened": 0,
    "title": "Forward Deployed Engineer (FDE), Healthcare - Seattle",
    "url": "https://jobs.ashbyhq.com/openai/a4332746-163e-4506-b62a-90758fb7a950"
+  },
+  "a46ffc60-39c6-4b1e-bd0f-9c33a8b06703": {
+   "closed_at": null,
+   "department": "Scaling",
+   "evergreen": false,
+   "first_seen": "2026-11-02T11:41:30+00:00",
+   "fp": "data center controls engineer @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-11-02T01:05:15+00:00",
+   "posted_history": [
+    "2026-11-02T01:05:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Data Center Controls Engineer (BMS / EPMS)",
+   "url": "https://jobs.ashbyhq.com/openai/a46ffc60-39c6-4b1e-bd0f-9c33a8b06703"
   },
   "a4981ed2-331a-4927-a95f-fabb64c9c799": {
    "closed_at": null,

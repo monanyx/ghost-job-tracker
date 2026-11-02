@@ -55,6 +55,10 @@
   {
    "date": "2026-11-01",
    "open": 80
+  },
+  {
+   "date": "2026-11-02",
+   "open": 78
   }
  ],
  "jobs": {
@@ -240,7 +244,7 @@
    "url": "https://jobs.ashbyhq.com/lovable/2bad82d6-3fd0-42a2-afbf-f1e9511057d4"
   },
   "30887380-e180-4e2d-a239-00995ca84fcf": {
-   "closed_at": null,
+   "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "FDN",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -755,18 +759,18 @@
    "department": "EPD",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "data infrastructure engineer @ stockholm",
+   "fp": "staff software engineer data infrastructure @ stockholm",
    "location": "Stockholm",
    "posted_at": "2026-10-08T08:20:37+00:00",
    "posted_history": [
     "2026-10-08T08:20:37+00:00"
    ],
    "reopened": 0,
-   "title": "Data Infrastructure Engineer",
+   "title": "Staff Software Engineer, Data Infrastructure",
    "url": "https://jobs.ashbyhq.com/lovable/7ebba78c-4404-4e07-b783-c434a60e749a"
   },
   "7ee5ea78-9858-43c3-92b1-1d9a263414e1": {
-   "closed_at": null,
+   "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "FDN",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

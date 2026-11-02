@@ -55,6 +55,10 @@
   {
    "date": "2026-11-01",
    "open": 236
+  },
+  {
+   "date": "2026-11-02",
+   "open": 236
   }
  ],
  "jobs": {
@@ -1229,7 +1233,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7800008003?gh_jid=7800008003"
   },
   "7800448003": {
-   "closed_at": null,
+   "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3333,14 +3337,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
-   "fp": "applied ai value architect @ remote, canada",
+   "fp": "applied ai value consultant @ remote, canada",
    "location": "Remote, Canada",
    "posted_at": "2026-10-22T18:29:55+00:00",
    "posted_history": [
     "2026-10-22T18:29:55+00:00"
    ],
    "reopened": 0,
-   "title": "Applied AI Value Architect",
+   "title": "Applied AI Value Consultant",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8016645003?gh_jid=8016645003"
   },
   "8016657003": {
@@ -3507,6 +3511,21 @@
    "reopened": 0,
    "title": "Lead Value Engineer, Pharma",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8037003003?gh_jid=8037003003"
+  },
+  "8037359003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-02T11:41:30+00:00",
+   "fp": "lead project manager @ munich, germany",
+   "location": "Munich, Germany",
+   "posted_at": "2026-11-02T08:42:39+00:00",
+   "posted_history": [
+    "2026-11-02T08:42:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Lead Project Manager",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/8037359003?gh_jid=8037359003"
   },
   "8037367003": {
    "closed_at": null,

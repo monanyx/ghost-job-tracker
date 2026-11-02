@@ -55,6 +55,10 @@
   {
    "date": "2026-11-01",
    "open": 32
+  },
+  {
+   "date": "2026-11-02",
+   "open": 31
   }
  ],
  "jobs": {
@@ -479,7 +483,7 @@
    "url": "https://n26.com/en-eu/careers/positions/8201437?gh_jid=8201437"
   },
   "8201489": {
-   "closed_at": null,
+   "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

@@ -55,6 +55,10 @@
   {
    "date": "2026-11-01",
    "open": 904
+  },
+  {
+   "date": "2026-11-02",
+   "open": 909
   }
  ],
  "jobs": {
@@ -8009,7 +8013,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8632188002"
   },
   "8632282002": {
-   "closed_at": null,
+   "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -8684,7 +8688,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8648494002"
   },
   "8648496002": {
-   "closed_at": null,
+   "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -11339,18 +11343,18 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8785055002"
   },
   "8785057002": {
-   "closed_at": "2026-10-28T10:01:46+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "specialist solutions architect data warehousing @ seoul, south korea",
+   "fp": "specialist solutions architect ai ml @ seoul, south korea",
    "location": "Seoul, South Korea",
    "posted_at": "2026-09-10T06:59:30+00:00",
    "posted_history": [
     "2026-09-10T06:59:30+00:00"
    ],
-   "reopened": 0,
-   "title": "Specialist Solutions Architect - Data Warehousing",
+   "reopened": 1,
+   "title": "Specialist Solutions Architect - AI/ML",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8785057002"
   },
   "8785061002": {
@@ -13124,7 +13128,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8864290002"
   },
   "8864368002": {
-   "closed_at": null,
+   "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -13558,6 +13562,21 @@
    "title": "Strategic Core Account Executive",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8878722002"
   },
+  "8878946002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": true,
+   "first_seen": "2026-11-02T11:41:30+00:00",
+   "fp": "evergreen ai engineer ai fde @ bengaluru, india",
+   "location": "Bengaluru, India",
+   "posted_at": "2026-11-02T04:55:17+00:00",
+   "posted_history": [
+    "2026-11-02T04:55:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Evergreen - AI Engineer, AI FDE",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8878946002"
+  },
   "8879335002": {
    "closed_at": null,
    "department": "",
@@ -13603,6 +13622,21 @@
    "title": "Solutions Architect - Telco",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8880391002"
   },
+  "8880398002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-02T11:41:30+00:00",
+   "fp": "account executive digital native @ seoul, south korea",
+   "location": "Seoul, South Korea",
+   "posted_at": "2026-11-01T15:09:56+00:00",
+   "posted_history": [
+    "2026-11-01T15:09:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive - Digital Native",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8880398002"
+  },
   "8880400002": {
    "closed_at": null,
    "department": "",
@@ -13617,6 +13651,21 @@
    "reopened": 0,
    "title": "Strategic Hunter Account Executive",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8880400002"
+  },
+  "8880402002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-02T11:41:30+00:00",
+   "fp": "account executive strategic core @ seoul, south korea",
+   "location": "Seoul, South Korea",
+   "posted_at": "2026-11-01T15:26:33+00:00",
+   "posted_history": [
+    "2026-11-01T15:26:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive - Strategic Core",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8880402002"
   },
   "8880406002": {
    "closed_at": null,
@@ -14728,6 +14777,21 @@
    "title": "Solutions Architect",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8910860002"
   },
+  "8910864002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-02T11:41:30+00:00",
+   "fp": "enterprise account executive hunter @ seoul, south korea",
+   "location": "Seoul, South Korea",
+   "posted_at": "2026-11-01T15:37:37+00:00",
+   "posted_history": [
+    "2026-11-01T15:37:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Account Executive - Hunter (New Logo)",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8910864002"
+  },
   "8910988002": {
    "closed_at": null,
    "department": "",
@@ -14998,6 +15062,21 @@
    "title": "Sr. Collections Analyst",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8922730002"
   },
+  "8922941002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-02T11:41:30+00:00",
+   "fp": "sr forward deployment strategist @ singapore",
+   "location": "Singapore",
+   "posted_at": "2026-11-01T14:46:37+00:00",
+   "posted_history": [
+    "2026-11-01T14:46:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Forward Deployment Strategist",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8922941002"
+  },
   "8923269002": {
    "closed_at": null,
    "department": "",
@@ -15058,6 +15137,21 @@
    "title": "Lakebase Sales Specialist (Greater China Region)",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8924844002"
   },
+  "8924868002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-02T11:41:30+00:00",
+   "fp": "sr software engineer databricks ai @ bengaluru, india",
+   "location": "Bengaluru, India",
+   "posted_at": "2026-11-02T05:01:00+00:00",
+   "posted_history": [
+    "2026-11-02T05:01:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Software Engineer- Databricks AI",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8924868002"
+  },
   "8926307002": {
    "closed_at": null,
    "department": "",
@@ -15072,6 +15166,21 @@
    "reopened": 0,
    "title": "Sr. Solutions Architect (Energy)",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8926307002"
+  },
+  "8926498002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-02T11:41:30+00:00",
+   "fp": "staff software engineer databricks ai @ bengaluru, india",
+   "location": "Bengaluru, India",
+   "posted_at": "2026-11-02T05:02:35+00:00",
+   "posted_history": [
+    "2026-11-02T05:02:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer- Databricks AI",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8926498002"
   }
  }
 }

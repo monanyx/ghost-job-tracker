@@ -55,11 +55,15 @@
   {
    "date": "2026-11-01",
    "open": 25
+  },
+  {
+   "date": "2026-11-02",
+   "open": 20
   }
  ],
  "jobs": {
   "4384208101": {
-   "closed_at": null,
+   "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -74,7 +78,7 @@
    "url": "https://www.gostudent.org/en-gb/job-position/?gh_jid=4384208101"
   },
   "4428065101": {
-   "closed_at": null,
+   "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -134,7 +138,7 @@
    "url": "https://www.gostudent.org/en-gb/job-position/?gh_jid=4588655101"
   },
   "4665885101": {
-   "closed_at": null,
+   "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -149,7 +153,7 @@
    "url": "https://www.gostudent.org/en-gb/job-position/?gh_jid=4665885101"
   },
   "4665901101": {
-   "closed_at": null,
+   "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -164,7 +168,7 @@
    "url": "https://www.gostudent.org/en-gb/job-position/?gh_jid=4665901101"
   },
   "4665903101": {
-   "closed_at": null,
+   "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

@@ -55,6 +55,10 @@
   {
    "date": "2026-11-01",
    "open": 89
+  },
+  {
+   "date": "2026-11-02",
+   "open": 88
   }
  ],
  "jobs": {
@@ -1004,7 +1008,7 @@
    "url": "https://jobs.lever.co/spotify/9f66e598-8587-4a57-8552-2cdb8672014a"
   },
   "9fd98cde-6a1b-419c-a27a-daae7a7483f0": {
-   "closed_at": null,
+   "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "Premium Business",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

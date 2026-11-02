@@ -55,6 +55,10 @@
   {
    "date": "2026-11-01",
    "open": 381
+  },
+  {
+   "date": "2026-11-02",
+   "open": 377
   }
  ],
  "jobs": {
@@ -357,6 +361,21 @@
    "reopened": 0,
    "title": "Software Engineer, Agents",
    "url": "https://jobs.ashbyhq.com/harvey/0c3ccbfd-25d1-4f66-be9c-e3c680fbe2fc"
+  },
+  "0c5471bf-f296-4eaa-8f8b-700296387157": {
+   "closed_at": null,
+   "department": "Go to Market",
+   "evergreen": false,
+   "first_seen": "2026-11-02T11:41:30+00:00",
+   "fp": "sales manager enterprise @ london",
+   "location": "London",
+   "posted_at": "2026-11-02T10:09:15+00:00",
+   "posted_history": [
+    "2026-11-02T10:09:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales Manager, Enterprise",
+   "url": "https://jobs.ashbyhq.com/harvey/0c5471bf-f296-4eaa-8f8b-700296387157"
   },
   "0cc0c934-ce13-483b-8a11-99583d7908a1": {
    "closed_at": null,
@@ -796,7 +815,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/1f43fbbb-14b5-45ab-a579-72a86522274e"
   },
   "201ed7d8-0e04-4e0e-a012-1b9200b989b4": {
-   "closed_at": null,
+   "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "Human Resources",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -832,10 +851,11 @@
    "first_seen": "2026-10-22T08:55:54+00:00",
    "fp": "technical cx specialist emea @ dublin",
    "location": "Dublin",
-   "posted_at": "2026-10-29T17:19:04+00:00",
+   "posted_at": "2026-11-02T08:39:23+00:00",
    "posted_history": [
     "2026-10-21T09:15:32+00:00",
-    "2026-10-29T17:19:04+00:00"
+    "2026-10-29T17:19:04+00:00",
+    "2026-11-02T08:39:23+00:00"
    ],
    "reopened": 0,
    "title": "Technical CX Specialist, EMEA",
@@ -3006,7 +3026,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/775f03e0-c2a3-4ac9-822e-d84b212fdf1d"
   },
   "77716481-e377-4ce7-9d34-01b66eaac161": {
-   "closed_at": null,
+   "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "Customer Success",
    "evergreen": false,
    "first_seen": "2026-10-26T09:22:13+00:00",
@@ -4899,7 +4919,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/c143ce81-2b61-428b-a275-391514bd4eb4"
   },
   "c1872581-6069-4c6d-84e4-272d74b290ad": {
-   "closed_at": null,
+   "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "Human Resources",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4950,11 +4970,12 @@
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "strategic account executive dach @ munich",
    "location": "Munich",
-   "posted_at": "2026-10-27T18:36:54+00:00",
+   "posted_at": "2026-11-02T08:38:24+00:00",
    "posted_history": [
     "2026-10-07T16:03:20+00:00",
     "2026-10-26T10:18:35+00:00",
-    "2026-10-27T18:36:54+00:00"
+    "2026-10-27T18:36:54+00:00",
+    "2026-11-02T08:38:24+00:00"
    ],
    "reopened": 0,
    "title": "Strategic Account Executive, DACH",
@@ -5162,10 +5183,11 @@
    "first_seen": "2026-10-22T08:55:54+00:00",
    "fp": "technical cx specialist emea @ london",
    "location": "London",
-   "posted_at": "2026-10-29T17:18:59+00:00",
+   "posted_at": "2026-11-02T08:39:19+00:00",
    "posted_history": [
     "2026-10-21T09:15:09+00:00",
-    "2026-10-29T17:18:59+00:00"
+    "2026-10-29T17:18:59+00:00",
+    "2026-11-02T08:39:19+00:00"
    ],
    "reopened": 0,
    "title": "Technical CX Specialist, EMEA",
@@ -5878,7 +5900,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/e61e839d-8250-4945-8406-46921a86922f"
   },
   "e697261d-8322-4fab-a479-fd042bf64793": {
-   "closed_at": null,
+   "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "Customer Experience",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -5953,7 +5975,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/eb11a622-d435-4c24-946f-c3fdb6fcbbdf"
   },
   "eb29cd1a-6015-49a0-b6a9-259f10a0a4b1": {
-   "closed_at": null,
+   "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "Human Resources",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6395,11 +6417,12 @@
    "first_seen": "2026-10-22T08:55:54+00:00",
    "fp": "account executive enterprise asset management @ munich",
    "location": "Munich",
-   "posted_at": "2026-10-29T18:12:47+00:00",
+   "posted_at": "2026-11-02T08:39:44+00:00",
    "posted_history": [
     "2026-10-21T11:16:06+00:00",
     "2026-10-27T18:36:44+00:00",
-    "2026-10-29T18:12:47+00:00"
+    "2026-10-29T18:12:47+00:00",
+    "2026-11-02T08:39:44+00:00"
    ],
    "reopened": 0,
    "title": "Account Executive, Enterprise, Asset Management",
