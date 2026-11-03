@@ -59,6 +59,10 @@
   {
    "date": "2026-11-02",
    "open": 162
+  },
+  {
+   "date": "2026-11-03",
+   "open": 162
   }
  ],
  "jobs": {
@@ -198,18 +202,18 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/7350823?t=gh_src=&gh_jid=7350823"
   },
   "7460167": {
-   "closed_at": "2026-10-31T09:57:28+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "staff offensive security engineer @ bellevue, wa; denver, co; menlo park, ca; new york, ny",
-   "location": "Bellevue, WA; Denver, CO; Menlo Park, CA; New York, NY",
+   "fp": "offensive security engineer @ bellevue, wa",
+   "location": "Bellevue, WA",
    "posted_at": "2026-01-13T00:07:36+00:00",
    "posted_history": [
     "2026-01-13T00:07:36+00:00"
    ],
-   "reopened": 0,
-   "title": "Staff Offensive Security Engineer",
+   "reopened": 1,
+   "title": "Offensive Security Engineer",
    "url": "https://boards.greenhouse.io/robinhood/jobs/7460167?t=gh_src=&gh_jid=7460167"
   },
   "7460169": {
@@ -813,7 +817,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8076097?t=gh_src=&gh_jid=8076097"
   },
   "8077370": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -933,7 +937,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8082718?t=gh_src=&gh_jid=8082718"
   },
   "8083818": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-28T10:01:46+00:00",
@@ -1143,7 +1147,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8142278?t=gh_src=&gh_jid=8142278"
   },
   "8142909": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1248,7 +1252,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8164884?t=gh_src=&gh_jid=8164884"
   },
   "8164943": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-28T10:01:46+00:00",
@@ -1592,6 +1596,21 @@
    "title": "Internal Audit Senior Associate",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8202146?t=gh_src=&gh_jid=8202146"
   },
+  "8202183": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "people partner @ menlo park, ca",
+   "location": "Menlo Park, CA",
+   "posted_at": "2026-11-02T22:44:52+00:00",
+   "posted_history": [
+    "2026-11-02T22:44:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "People Partner",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8202183?t=gh_src=&gh_jid=8202183"
+  },
   "8202858": {
    "closed_at": null,
    "department": "",
@@ -1832,6 +1851,21 @@
    "title": "Senior Content Designer",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8220730?t=gh_src=&gh_jid=8220730"
   },
+  "8220757": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "software engineer ai security @ bellevue, wa; menlo park, ca",
+   "location": "Bellevue, WA; Menlo Park, CA",
+   "posted_at": "2026-10-09T21:58:39+00:00",
+   "posted_history": [
+    "2026-10-09T21:58:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, AI Security",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8220757?t=gh_src=&gh_jid=8220757"
+  },
   "8223546": {
    "closed_at": null,
    "department": "",
@@ -1882,8 +1916,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "overnight customer experience representative concierge @ denver, co; westlake, tx",
-   "location": "Denver, CO; Westlake, TX",
+   "fp": "overnight customer experience representative concierge @ chicago, il; denver, co; lake mary, fl; westlake, tx",
+   "location": "Chicago, IL; Denver, CO; Lake Mary, FL; Westlake, TX",
    "posted_at": "2026-09-22T23:17:12+00:00",
    "posted_history": [
     "2026-09-22T23:17:12+00:00"
@@ -1966,6 +2000,21 @@
    "reopened": 0,
    "title": "Customer Experience Representative, Trump Accounts",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8230730?t=gh_src=&gh_jid=8230730"
+  },
+  "8231449": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "director of corporate development @ menlo park, ca; new york, ny",
+   "location": "Menlo Park, CA; New York, NY",
+   "posted_at": "2026-11-03T00:56:12+00:00",
+   "posted_history": [
+    "2026-11-03T00:56:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Director of Corporate Development",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8231449?t=gh_src=&gh_jid=8231449"
   },
   "8232853": {
    "closed_at": null,
@@ -2478,7 +2527,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8268261?t=gh_src=&gh_jid=8268261"
   },
   "8268415": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2553,7 +2602,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8287392?t=gh_src=&gh_jid=8287392"
   },
   "8289327": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -2707,14 +2756,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
-   "fp": "ai operations engineer @ bellevue, wa; menlo park, ca; new york, ny",
+   "fp": "ai operations engineer enterprise tech @ bellevue, wa; menlo park, ca; new york, ny",
    "location": "Bellevue, WA; Menlo Park, CA; New York, NY",
    "posted_at": "2026-10-28T15:54:24+00:00",
    "posted_history": [
     "2026-10-28T15:54:24+00:00"
    ],
    "reopened": 0,
-   "title": "AI Operations Engineer",
+   "title": "AI Operations Engineer, Enterprise Tech",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8305772?t=gh_src=&gh_jid=8305772"
   },
   "8312485": {
@@ -2911,6 +2960,36 @@
    "reopened": 0,
    "title": "Senior Android Engineer, Event Contracts",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8335168?t=gh_src=&gh_jid=8335168"
+  },
+  "8348035": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "applications developer workday @ toronto, canada",
+   "location": "Toronto, Canada",
+   "posted_at": "2026-11-02T22:11:27+00:00",
+   "posted_history": [
+    "2026-11-02T22:11:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Applications Developer, Workday",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8348035?t=gh_src=&gh_jid=8348035"
+  },
+  "8348038": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "senior ai operations engineer enterprise tech @ bellevue, wa; menlo park, ca; new york, ny",
+   "location": "Bellevue, WA; Menlo Park, CA; New York, NY",
+   "posted_at": "2026-11-02T22:02:31+00:00",
+   "posted_history": [
+    "2026-11-02T22:02:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior AI Operations Engineer, Enterprise Tech",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8348038?t=gh_src=&gh_jid=8348038"
   }
  }
 }

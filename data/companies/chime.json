@@ -59,6 +59,10 @@
   {
    "date": "2026-11-02",
    "open": 75
+  },
+  {
+   "date": "2026-11-03",
+   "open": 74
   }
  ],
  "jobs": {
@@ -82,14 +86,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "principal product designer lending @ new york, ny, usa; san francisco, ca, usa",
+   "fp": "principal product designer growth @ new york, ny, usa; san francisco, ca, usa",
    "location": "New York, NY, USA; San Francisco, CA, USA",
    "posted_at": "2025-12-17T21:18:49+00:00",
    "posted_history": [
     "2025-12-17T21:18:49+00:00"
    ],
    "reopened": 0,
-   "title": "Principal Product Designer, Lending",
+   "title": "Principal Product Designer, Growth",
    "url": "https://boards.greenhouse.io/chime/jobs/8342899002?gh_jid=8342899002"
   },
   "8397325002": {
@@ -378,7 +382,7 @@
    "url": "https://boards.greenhouse.io/chime/jobs/8616359002?gh_jid=8616359002"
   },
   "8625622002": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

@@ -59,6 +59,10 @@
   {
    "date": "2026-11-02",
    "open": 810
+  },
+  {
+   "date": "2026-11-03",
+   "open": 805
   }
  ],
  "jobs": {
@@ -378,7 +382,7 @@
    "url": "https://jobs.ashbyhq.com/openai/082f4d82-499f-4150-892f-0b0d1105fffe"
   },
   "0867dab4-ed8e-46d5-92ce-a769ebda7c03": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "Communications",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -558,7 +562,7 @@
    "url": "https://jobs.ashbyhq.com/openai/0a7f5df1-f5aa-4df6-98a8-5afbc660782b"
   },
   "0adbf6f5-43bf-4c55-a0fd-10a0eff4bb3f": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "Marketing",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3161,14 +3165,14 @@
    "department": "Applied AI",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "full stack software engineer chatgpt finances @ san francisco",
+   "fp": "full stack software engineer consumer verticals @ san francisco",
    "location": "San Francisco",
    "posted_at": "2026-06-15T18:16:20+00:00",
    "posted_history": [
     "2026-06-15T18:16:20+00:00"
    ],
    "reopened": 0,
-   "title": "Full Stack Software Engineer, ChatGPT Finances",
+   "title": "Full Stack Software Engineer, Consumer Verticals",
    "url": "https://jobs.ashbyhq.com/openai/39e06ef9-5e62-425d-81e2-e8690188011f"
   },
   "3a05c5d7-fdd9-4e0e-823a-2ae08b59958b": {
@@ -3622,6 +3626,21 @@
    "title": "Site Operations Technician",
    "url": "https://jobs.ashbyhq.com/openai/43c9fed6-4eb2-4db6-afc5-cd804279779b"
   },
+  "45a0886d-a60d-4d5a-9afa-785a75042044": {
+   "closed_at": null,
+   "department": "Go To Market",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "sales and partnerships @ london, uk",
+   "location": "London, UK",
+   "posted_at": "2026-11-02T18:40:19+00:00",
+   "posted_history": [
+    "2026-11-02T18:40:19+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales and Partnerships",
+   "url": "https://jobs.ashbyhq.com/openai/45a0886d-a60d-4d5a-9afa-785a75042044"
+  },
   "460b4295-3803-4dda-983d-3b0fea0b0fc4": {
    "closed_at": null,
    "department": "Applied AI",
@@ -3983,7 +4002,7 @@
    "url": "https://jobs.ashbyhq.com/openai/4d104ebe-64ff-4421-94c3-03a8982b19ea"
   },
   "4d14449e-5e7f-45d4-b103-8776a6c87086": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "Scaling",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4102,6 +4121,21 @@
    "title": "Software Engineer, Life Sciences",
    "url": "https://jobs.ashbyhq.com/openai/4f0d64b8-bfa7-4c30-9972-a10d74b49075"
   },
+  "4f2d9849-ad00-48d5-a22f-0cb943723999": {
+   "closed_at": null,
+   "department": "Scaling",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "eda cloud developer infrastructure engineer @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-11-03T02:37:14+00:00",
+   "posted_history": [
+    "2026-11-03T02:37:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "EDA Cloud & Developer Infrastructure Engineer",
+   "url": "https://jobs.ashbyhq.com/openai/4f2d9849-ad00-48d5-a22f-0cb943723999"
+  },
   "4f6be73e-9a1d-4ec6-8b0e-b2af0b4becfb": {
    "closed_at": null,
    "department": "Scaling",
@@ -4116,6 +4150,21 @@
    "reopened": 0,
    "title": "Performance Modeling Engineer ~2",
    "url": "https://jobs.ashbyhq.com/openai/4f6be73e-9a1d-4ec6-8b0e-b2af0b4becfb"
+  },
+  "50053f7b-c154-45af-b497-3298c826a15f": {
+   "closed_at": null,
+   "department": "Go To Market",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "account director startups new business @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-11-02T19:30:27+00:00",
+   "posted_history": [
+    "2026-11-02T19:30:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Director, Startups | New Business",
+   "url": "https://jobs.ashbyhq.com/openai/50053f7b-c154-45af-b497-3298c826a15f"
   },
   "500c16b5-26ca-46be-9280-abbfff3b5c2b": {
    "closed_at": null,
@@ -6807,6 +6856,21 @@
    "title": "Deployment Lead, FDE- NYC",
    "url": "https://jobs.ashbyhq.com/openai/7bdd4df4-b53d-4442-a116-69be7d9d4b1f"
   },
+  "7be58f3a-6005-42ed-86fa-77773ebfb294": {
+   "closed_at": null,
+   "department": "Go To Market",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "applied ai engineer digital natives @ london, uk",
+   "location": "London, UK",
+   "posted_at": "2026-11-03T09:51:48+00:00",
+   "posted_history": [
+    "2026-11-03T09:51:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "Applied AI Engineer, Digital Natives",
+   "url": "https://jobs.ashbyhq.com/openai/7be58f3a-6005-42ed-86fa-77773ebfb294"
+  },
   "7bee6731-7619-4fb4-a2f4-7f0003a0fd9e": {
    "closed_at": null,
    "department": "Research",
@@ -6898,7 +6962,7 @@
    "url": "https://jobs.ashbyhq.com/openai/7d87459c-6085-4479-8e77-9255e6dd8329"
   },
   "7daff2af-1686-43fe-85c0-ca912c8747ac": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "Applied AI",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7228,7 +7292,7 @@
    "url": "https://jobs.ashbyhq.com/openai/83ac3381-99c0-46a0-897c-abcd8699b466"
   },
   "83b6755d-7785-4186-9050-5ef3ad127941": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "Scaling",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7318,7 +7382,7 @@
    "url": "https://jobs.ashbyhq.com/openai/850a0f1b-26ed-462e-9236-22c9f09aa03c"
   },
   "85fceac9-fb8a-4d71-a524-a8e5f1e9b01b": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "Scaling",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7722,6 +7786,21 @@
    "title": "Global Head of Education GTM",
    "url": "https://jobs.ashbyhq.com/openai/8ad567c5-70ca-46bf-85ae-eb5bbc8a2a39"
   },
+  "8c1ce3bb-4451-49da-8fc9-315549a77289": {
+   "closed_at": null,
+   "department": "Marketing",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "southern europe b2b marketing manager @ paris, france",
+   "location": "Paris, France",
+   "posted_at": "2026-11-02T11:54:37+00:00",
+   "posted_history": [
+    "2026-11-02T11:54:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Southern Europe B2B Marketing Manager",
+   "url": "https://jobs.ashbyhq.com/openai/8c1ce3bb-4451-49da-8fc9-315549a77289"
+  },
   "8c460221-77ba-4120-b74e-3b1ad7c82818": {
    "closed_at": null,
    "department": "IT",
@@ -8098,7 +8177,7 @@
    "url": "https://jobs.ashbyhq.com/openai/932c9cc1-c542-4f67-8d0d-443de87b8213"
   },
   "93568fc5-8c7a-4cc1-8aad-198d67bf348f": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "Forward Deployed Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -8246,6 +8325,21 @@
    "reopened": 0,
    "title": "Customer Success Manager, Ads Solutions (San Francisco)",
    "url": "https://jobs.ashbyhq.com/openai/95d078d9-fd33-494c-8ba0-22fbb8b193ad"
+  },
+  "961d2951-ff59-494f-971e-fe25414c234c": {
+   "closed_at": null,
+   "department": "Strategic Finance",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "head of data science strategic finance @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-11-02T22:25:00+00:00",
+   "posted_history": [
+    "2026-11-02T22:25:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Head of Data Science, Strategic Finance",
+   "url": "https://jobs.ashbyhq.com/openai/961d2951-ff59-494f-971e-fe25414c234c"
   },
   "96475a30-5aa1-4c56-802d-fe8a54c9cbd9": {
    "closed_at": null,
@@ -9163,7 +9257,7 @@
    "url": "https://jobs.ashbyhq.com/openai/a46ffc60-39c6-4b1e-bd0f-9c33a8b06703"
   },
   "a4981ed2-331a-4927-a95f-fabb64c9c799": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "Technical Program Management",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -9807,6 +9901,21 @@
    "title": "Backend Software Engineer, Applied Foundations",
    "url": "https://jobs.ashbyhq.com/openai/b398e1c6-0c32-4464-bb34-6ccda901b688"
   },
+  "b3c1b5a9-a8fe-49df-849b-d4a06a47562c": {
+   "closed_at": null,
+   "department": "Go To Market",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "technical success emea @ london, uk",
+   "location": "London, UK",
+   "posted_at": "2026-11-02T20:04:22+00:00",
+   "posted_history": [
+    "2026-11-02T20:04:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Success - EMEA",
+   "url": "https://jobs.ashbyhq.com/openai/b3c1b5a9-a8fe-49df-849b-d4a06a47562c"
+  },
   "b3e5fcf7-50ad-4765-ac03-ac71e8b20cb8": {
    "closed_at": null,
    "department": "User Operations",
@@ -10272,6 +10381,21 @@
    "title": "Data Center Design Manager",
    "url": "https://jobs.ashbyhq.com/openai/bbe1e108-b8cf-4c57-a646-f89eb1007f1c"
   },
+  "bc019c9d-6305-4700-9175-8035636177b3": {
+   "closed_at": null,
+   "department": "Marketing",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "creative experiments @ us - remote",
+   "location": "US - Remote",
+   "posted_at": "2026-11-02T22:01:44+00:00",
+   "posted_history": [
+    "2026-11-02T22:01:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Creative, Experiments",
+   "url": "https://jobs.ashbyhq.com/openai/bc019c9d-6305-4700-9175-8035636177b3"
+  },
   "bc059a72-8ff3-4a80-a499-5b82ccca1f05": {
    "closed_at": null,
    "department": "User Operations",
@@ -10288,7 +10412,7 @@
    "url": "https://jobs.ashbyhq.com/openai/bc059a72-8ff3-4a80-a499-5b82ccca1f05"
   },
   "bc0d4a9f-235f-4a4b-a854-c6cb0322ccaa": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "Data Science",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -10301,6 +10425,21 @@
    "reopened": 0,
    "title": "Analytics Engineer, GTM",
    "url": "https://jobs.ashbyhq.com/openai/bc0d4a9f-235f-4a4b-a854-c6cb0322ccaa"
+  },
+  "bc58f2d0-9b24-4205-a799-5a5d18bf64ee": {
+   "closed_at": null,
+   "department": "Partnerships",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "strategic partner lead creators culture emea @ paris, france",
+   "location": "Paris, France",
+   "posted_at": "2026-11-02T20:05:58+00:00",
+   "posted_history": [
+    "2026-11-02T20:05:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Partner Lead, Creators & Culture, EMEA",
+   "url": "https://jobs.ashbyhq.com/openai/bc58f2d0-9b24-4205-a799-5a5d18bf64ee"
   },
   "bc80a3ae-1e69-4a8d-8366-77fcdd56ff61": {
    "closed_at": null,
@@ -10483,6 +10622,21 @@
    "title": "AI Support Engineer - Singapore (Weekend Shift)",
    "url": "https://jobs.ashbyhq.com/openai/bfd83255-8491-4c92-be4d-04dd0911cbe6"
   },
+  "bfecbfa0-6573-4c00-8215-50e271f411bc": {
+   "closed_at": null,
+   "department": "Finance",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "accounting lead hardware @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-11-03T04:37:57+00:00",
+   "posted_history": [
+    "2026-11-03T04:37:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "Accounting Lead, Hardware",
+   "url": "https://jobs.ashbyhq.com/openai/bfecbfa0-6573-4c00-8215-50e271f411bc"
+  },
   "c00094f9-e071-4870-afec-104beb3ce499": {
    "closed_at": null,
    "department": "Go To Market",
@@ -10518,14 +10672,14 @@
    "department": "Finance",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "business systems lead procure to pay @ san francisco",
+   "fp": "business systems transformation lead procure to pay @ san francisco",
    "location": "San Francisco",
    "posted_at": "2026-09-15T18:24:53+00:00",
    "posted_history": [
     "2026-09-15T18:24:53+00:00"
    ],
    "reopened": 0,
-   "title": "Business Systems Lead, Procure-to-Pay",
+   "title": "Business Systems Transformation Lead, Procure-to-Pay",
    "url": "https://jobs.ashbyhq.com/openai/c0e1f65b-4731-48b3-ac60-93a269266494"
   },
   "c0f0136e-f4e7-43ca-b3d5-4d7aee5eed7f": {
@@ -10814,7 +10968,7 @@
    "url": "https://jobs.ashbyhq.com/openai/c442eab0-b8b4-40f6-b0f2-0fc91aea294a"
   },
   "c44a22a3-6d6f-41f3-bd54-3379034f3e59": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "Go To Market",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -11294,7 +11448,7 @@
    "url": "https://jobs.ashbyhq.com/openai/cc434f5b-dc0b-42fd-97ec-e0171545c6e9"
   },
   "cc6475e6-f71d-4f51-8d9d-4eb5a7822395": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "Consumer Devices",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -11399,7 +11553,7 @@
    "url": "https://jobs.ashbyhq.com/openai/cf1e5c80-f42e-45ab-a937-2a4024b961e1"
   },
   "cf29a76e-71a4-4e29-8a45-8cefdd301aca": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "Marketing",
    "evergreen": false,
    "first_seen": "2026-10-28T10:01:46+00:00",
@@ -11532,6 +11686,21 @@
    "reopened": 0,
    "title": "ITAV Event Technical Producer",
    "url": "https://jobs.ashbyhq.com/openai/d089cc3e-e81e-42b7-be77-23bbc9d02431"
+  },
+  "d0da9c00-a65b-49be-9ebf-a55c32642540": {
+   "closed_at": null,
+   "department": "Go To Market",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "growth lead brazil @ são paulo",
+   "location": "São Paulo",
+   "posted_at": "2026-11-02T21:32:58+00:00",
+   "posted_history": [
+    "2026-11-02T21:32:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Growth Lead, Brazil",
+   "url": "https://jobs.ashbyhq.com/openai/d0da9c00-a65b-49be-9ebf-a55c32642540"
   },
   "d1121575-a1a7-47c9-97e6-56c70f441143": {
    "closed_at": null,
@@ -11715,7 +11884,7 @@
    "url": "https://jobs.ashbyhq.com/openai/d44d9fac-3a9f-4731-a4fc-7a6759ddb427"
   },
   "d45d6005-ad46-4c3c-8cfc-d312bffe01d5": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "Marketing",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -11790,7 +11959,7 @@
    "url": "https://jobs.ashbyhq.com/openai/d49e3abe-0d02-4b73-a5b2-cc7f1414c1e8"
   },
   "d4a191f9-58f6-4c89-95f0-0c23ea59a8e4": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "Intelligence & Investigations",
    "evergreen": false,
    "first_seen": "2026-10-28T10:01:46+00:00",
@@ -12075,7 +12244,7 @@
    "url": "https://jobs.ashbyhq.com/openai/d9696b77-5b11-49c5-8d0b-b1826bb6115c"
   },
   "d969a2ff-fa51-4444-a061-c9369462141e": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "Global Affairs",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -12826,6 +12995,21 @@
    "title": "Data Scientist, Infrastructure",
    "url": "https://jobs.ashbyhq.com/openai/e71cf565-4b21-4b0d-bf45-b22e58ca95eb"
   },
+  "e74c8ec3-3317-4fea-bb66-703dc2d55a51": {
+   "closed_at": null,
+   "department": "Legal",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "senior counsel trademark @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-11-02T22:45:34+00:00",
+   "posted_history": [
+    "2026-11-02T22:45:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Counsel, Trademark",
+   "url": "https://jobs.ashbyhq.com/openai/e74c8ec3-3317-4fea-bb66-703dc2d55a51"
+  },
   "e7594296-a38b-43a1-b4f8-01253a3b7732": {
    "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "Scaling",
@@ -13155,6 +13339,21 @@
    "reopened": 0,
    "title": "Security Engineer, Application Security",
    "url": "https://jobs.ashbyhq.com/openai/ec5a5d98-6314-44d9-9466-8d4d7ee866f6"
+  },
+  "ed37f572-0310-43fb-99b8-0600d9123638": {
+   "closed_at": null,
+   "department": "Marketing",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "designer research and experiments @ us - remote",
+   "location": "US - Remote",
+   "posted_at": "2026-11-02T23:17:17+00:00",
+   "posted_history": [
+    "2026-11-02T23:17:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Designer, Research and Experiments",
+   "url": "https://jobs.ashbyhq.com/openai/ed37f572-0310-43fb-99b8-0600d9123638"
   },
   "ed9255f0-981f-49e9-8b01-9fd203141929": {
    "closed_at": null,
@@ -13607,7 +13806,7 @@
    "url": "https://jobs.ashbyhq.com/openai/f6278b60-dd42-4aa8-a3cd-c105f75ae8ae"
   },
   "f6880901-6527-4b71-9f70-bc8d38989b84": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "People",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -13757,7 +13956,7 @@
    "url": "https://jobs.ashbyhq.com/openai/f956b77c-3cc5-4fdd-9463-2a6e5047e57c"
   },
   "f9c64ecf-d52a-44f0-9d9f-99575ae80d7f": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "OpenAI for Gov",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -13937,7 +14136,7 @@
    "url": "https://jobs.ashbyhq.com/openai/fd0a10a9-80e5-48c4-b313-c2403f009761"
   },
   "fe7039ce-51e2-4cfa-9ea5-507eb7a0eee1": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "Research",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

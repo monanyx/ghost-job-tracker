@@ -59,6 +59,10 @@
   {
    "date": "2026-11-02",
    "open": 58
+  },
+  {
+   "date": "2026-11-03",
+   "open": 57
   }
  ],
  "jobs": {
@@ -843,7 +847,7 @@
    "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8233903"
   },
   "8245795": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1097,6 +1101,21 @@
    "title": "Sr. Data Scientist",
    "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8304455"
   },
+  "8304700": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "sr ai engineer @ new york, new york",
+   "location": "New York, New York",
+   "posted_at": "2026-11-02T22:22:40+00:00",
+   "posted_history": [
+    "2026-11-02T22:22:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. AI Engineer (Full Stack)",
+   "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8304700"
+  },
   "8310842": {
    "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
@@ -1128,7 +1147,7 @@
    "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8328338"
   },
   "8328340": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",

@@ -59,6 +59,10 @@
   {
    "date": "2026-11-02",
    "open": 142
+  },
+  {
+   "date": "2026-11-03",
+   "open": 149
   }
  ],
  "jobs": {
@@ -244,17 +248,18 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/108c99e6-ba2b-44a0-b830-7d535e14a152"
   },
   "10e6475e-67ef-4621-8718-7b087c354651": {
-   "closed_at": "2026-11-02T11:41:30+00:00",
+   "closed_at": null,
    "department": "Engineering & Product",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "full stack engineer productions @ remote",
    "location": "Remote",
-   "posted_at": "2026-10-13T14:11:32+00:00",
+   "posted_at": "2026-11-02T11:58:53+00:00",
    "posted_history": [
-    "2026-10-13T14:11:32+00:00"
+    "2026-10-13T14:11:32+00:00",
+    "2026-11-02T11:58:53+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Full-Stack Engineer - Productions",
    "url": "https://jobs.ashbyhq.com/elevenlabs/10e6475e-67ef-4621-8718-7b087c354651"
   },
@@ -712,7 +717,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/33bb01d0-993c-47fa-ae91-81c0c84f367e"
   },
   "347282a4-74ff-4e56-a92d-3c4249ee6c28": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -832,6 +837,21 @@
    "title": "Full-Stack Engineer (Frontend-Leaning) - CreativeMusic",
    "url": "https://jobs.ashbyhq.com/elevenlabs/38bac641-02de-414d-96f3-d0adb603cb89"
   },
+  "3a25ed8a-5870-4a0e-90e4-6e5a4b2c7e04": {
+   "closed_at": null,
+   "department": "Revenue",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "account manager enterprise @ new york",
+   "location": "New York",
+   "posted_at": "2026-11-02T22:21:12+00:00",
+   "posted_history": [
+    "2026-11-02T22:21:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Manager - Enterprise",
+   "url": "https://jobs.ashbyhq.com/elevenlabs/3a25ed8a-5870-4a0e-90e4-6e5a4b2c7e04"
+  },
   "3abf96ca-2937-4290-9d23-5208aece08b2": {
    "closed_at": null,
    "department": "Engineering & Product",
@@ -878,17 +898,18 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/3b57cc5c-f019-4a0b-a5ff-e1046e4f1fa1"
   },
   "3b7a423c-01fd-4405-ab9a-ee51ed354ba9": {
-   "closed_at": "2026-10-24T08:24:32+00:00",
+   "closed_at": null,
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "account manager mid market @ new york",
    "location": "New York",
-   "posted_at": "2026-10-16T19:40:42+00:00",
+   "posted_at": "2026-11-02T22:22:55+00:00",
    "posted_history": [
-    "2026-10-16T19:40:42+00:00"
+    "2026-10-16T19:40:42+00:00",
+    "2026-11-02T22:22:55+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Account Manager - Mid-Market",
    "url": "https://jobs.ashbyhq.com/elevenlabs/3b7a423c-01fd-4405-ab9a-ee51ed354ba9"
   },
@@ -1346,7 +1367,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/7389c057-3e25-4e7a-8a03-5e80f40a15a0"
   },
   "750a8325-7ce1-45ea-b0b1-61dab78a456e": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "Engineering & Product",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
@@ -1601,6 +1622,21 @@
    "title": "Enterprise Solutions Engineer - Mexico",
    "url": "https://jobs.ashbyhq.com/elevenlabs/8a587dcd-f3ff-4768-82d4-5f5e952edf6b"
   },
+  "8c068ebf-c79f-4f12-97ef-b4c9a4f7ae5f": {
+   "closed_at": null,
+   "department": "Engineering & Product",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "deployment strategist north america @ united states",
+   "location": "United States",
+   "posted_at": "2026-11-02T18:19:57+00:00",
+   "posted_history": [
+    "2026-11-02T18:19:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "Deployment Strategist - North America",
+   "url": "https://jobs.ashbyhq.com/elevenlabs/8c068ebf-c79f-4f12-97ef-b4c9a4f7ae5f"
+  },
   "8cf16203-4039-4bcb-828d-a3d3d6bab4a1": {
    "closed_at": null,
    "department": "Legal",
@@ -1828,6 +1864,21 @@
    "title": "IT Engineer",
    "url": "https://jobs.ashbyhq.com/elevenlabs/9aca205e-b2bc-405b-85d6-3d2aadbe49b1"
   },
+  "9c44055f-3246-42ab-8bb6-d89258a8c43a": {
+   "closed_at": null,
+   "department": "Operations",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "employee relations partner @ remote",
+   "location": "Remote",
+   "posted_at": "2026-11-03T10:07:43+00:00",
+   "posted_history": [
+    "2026-11-03T10:07:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Employee Relations Partner",
+   "url": "https://jobs.ashbyhq.com/elevenlabs/9c44055f-3246-42ab-8bb6-d89258a8c43a"
+  },
   "9d731858-01bf-4d42-89e5-5912ae94cf55": {
    "closed_at": null,
    "department": "Finance",
@@ -1889,8 +1940,23 @@
    "title": "Enterprise Deployment - Chief of Staff",
    "url": "https://jobs.ashbyhq.com/elevenlabs/a0389dc2-77d8-439b-960b-2acb8712991e"
   },
-  "a3097257-a07a-4a7e-b9fe-b8555c1a0fa7": {
+  "a1c86d02-e9df-4580-87e4-1333f2b83e94": {
    "closed_at": null,
+   "department": "Engineering & Product",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "full stack engineer studio @ remote",
+   "location": "Remote",
+   "posted_at": "2026-11-02T12:27:06+00:00",
+   "posted_history": [
+    "2026-11-02T12:27:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "Full-Stack Engineer (Backend Leaning) - Studio",
+   "url": "https://jobs.ashbyhq.com/elevenlabs/a1c86d02-e9df-4580-87e4-1333f2b83e94"
+  },
+  "a3097257-a07a-4a7e-b9fe-b8555c1a0fa7": {
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "Engineering & Product",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
@@ -2077,14 +2143,15 @@
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "sales lead government @ washington, d.c.",
+   "fp": "head of public sector united states @ washington, d.c.",
    "location": "Washington, D.C.",
-   "posted_at": "2026-10-14T12:44:27+00:00",
+   "posted_at": "2026-11-02T16:56:43+00:00",
    "posted_history": [
-    "2026-10-14T12:44:27+00:00"
+    "2026-10-14T12:44:27+00:00",
+    "2026-11-02T16:56:43+00:00"
    ],
    "reopened": 0,
-   "title": "Sales Lead - Government",
+   "title": "Head of Public Sector, United States",
    "url": "https://jobs.ashbyhq.com/elevenlabs/b43e388f-f204-41c5-a2bc-ee3bc1281e39"
   },
   "b85d7749-5b12-4f3c-87e9-61a477da77aa": {
@@ -2421,17 +2488,18 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/cdcf48bf-b6cf-41ce-88ee-34674768fb0d"
   },
   "ce3d5a59-fb8c-482b-bc3f-60e44576c5e0": {
-   "closed_at": "2026-11-01T10:48:55+00:00",
+   "closed_at": null,
    "department": "Engineering & Product",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "full stack engineer platform engineering @ remote",
    "location": "Remote",
-   "posted_at": "2026-10-14T10:03:44+00:00",
+   "posted_at": "2026-11-02T19:36:14+00:00",
    "posted_history": [
-    "2026-10-14T10:03:44+00:00"
+    "2026-10-14T10:03:44+00:00",
+    "2026-11-02T19:36:14+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Full-Stack Engineer (Backend Leaning) - Platform Engineering",
    "url": "https://jobs.ashbyhq.com/elevenlabs/ce3d5a59-fb8c-482b-bc3f-60e44576c5e0"
   },
@@ -2495,6 +2563,21 @@
    "title": "Sales Lead - Corporate - West",
    "url": "https://jobs.ashbyhq.com/elevenlabs/d1caf988-ab4a-4b72-9ed9-d18e986fb7f1"
   },
+  "d2443707-b19e-49c2-b2ec-de0c4c889089": {
+   "closed_at": null,
+   "department": "Operations",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "workplace experience new york @ new york",
+   "location": "New York",
+   "posted_at": "2026-11-02T16:03:00+00:00",
+   "posted_history": [
+    "2026-11-02T16:03:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Workplace Experience - New York",
+   "url": "https://jobs.ashbyhq.com/elevenlabs/d2443707-b19e-49c2-b2ec-de0c4c889089"
+  },
   "d7df0937-d88a-4cd1-8d7a-a38f176910d6": {
    "closed_at": null,
    "department": "Revenue",
@@ -2541,18 +2624,19 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/daf083cd-feda-4f28-ae49-7922b1a26ed7"
   },
   "db7abc8d-67b1-4d64-a623-59be88d65fba": {
-   "closed_at": "2026-11-01T10:48:55+00:00",
+   "closed_at": null,
    "department": "Growth",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "product technical communications @ united states",
    "location": "United States",
-   "posted_at": "2026-10-27T18:24:29+00:00",
+   "posted_at": "2026-11-03T09:42:51+00:00",
    "posted_history": [
     "2026-10-13T00:19:21+00:00",
-    "2026-10-27T18:24:29+00:00"
+    "2026-10-27T18:24:29+00:00",
+    "2026-11-03T09:42:51+00:00"
    ],
-   "reopened": 1,
+   "reopened": 2,
    "title": "Product & Technical Communications",
    "url": "https://jobs.ashbyhq.com/elevenlabs/db7abc8d-67b1-4d64-a623-59be88d65fba"
   },
@@ -2602,17 +2686,18 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/e22e14d8-0766-445f-9570-6037c7300c73"
   },
   "e4e0450f-d139-4f8e-b210-2f326a680d90": {
-   "closed_at": "2026-11-01T10:48:55+00:00",
+   "closed_at": null,
    "department": "Engineering & Product",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "full stack engineer payments engineering @ remote",
    "location": "Remote",
-   "posted_at": "2026-10-14T10:04:28+00:00",
+   "posted_at": "2026-11-02T19:36:35+00:00",
    "posted_history": [
-    "2026-10-14T10:04:28+00:00"
+    "2026-10-14T10:04:28+00:00",
+    "2026-11-02T19:36:35+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Full-Stack Engineer (Backend Leaning) - Payments Engineering",
    "url": "https://jobs.ashbyhq.com/elevenlabs/e4e0450f-d139-4f8e-b210-2f326a680d90"
   },
@@ -2684,9 +2769,10 @@
    "first_seen": "2026-10-23T08:50:35+00:00",
    "fp": "full stack engineer studio @ remote",
    "location": "Remote",
-   "posted_at": "2026-10-22T10:57:54+00:00",
+   "posted_at": "2026-11-03T10:59:45+00:00",
    "posted_history": [
-    "2026-10-22T10:57:54+00:00"
+    "2026-10-22T10:57:54+00:00",
+    "2026-11-03T10:59:45+00:00"
    ],
    "reopened": 0,
    "title": "Full-Stack Engineer (Frontend Leaning) - Studio",

@@ -59,6 +59,10 @@
   {
    "date": "2026-11-02",
    "open": 11
+  },
+  {
+   "date": "2026-11-03",
+   "open": 10
   }
  ],
  "jobs": {
@@ -153,7 +157,7 @@
    "url": "https://jobs.ashbyhq.com/posthog/3c592b84-8b34-4ae4-ae23-cadce8f2212d"
   },
   "43dbf072-0fc1-48c9-8c1e-7416db7d4a14": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",

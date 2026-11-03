@@ -59,6 +59,10 @@
   {
    "date": "2026-11-02",
    "open": 236
+  },
+  {
+   "date": "2026-11-03",
+   "open": 225
   }
  ],
  "jobs": {
@@ -123,7 +127,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7478077003?gh_jid=7478077003"
   },
   "7479634003": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -213,7 +217,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7548628003?gh_jid=7548628003"
   },
   "7559247003": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -438,7 +442,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7630970003?gh_jid=7630970003"
   },
   "7630992003": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -828,7 +832,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7742457003?gh_jid=7742457003"
   },
   "7742463003": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -978,7 +982,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7773228003?gh_jid=7773228003"
   },
   "7773238003": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1068,7 +1072,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7778135003?gh_jid=7778135003"
   },
   "7784391003": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1113,7 +1117,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7786762003?gh_jid=7786762003"
   },
   "7788423003": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1743,7 +1747,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7825688003?gh_jid=7825688003"
   },
   "7825720003": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2148,7 +2152,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7886054003?gh_jid=7886054003"
   },
   "7886062003": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2403,7 +2407,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7984249003?gh_jid=7984249003"
   },
   "7986192003": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2793,7 +2797,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7997661003?gh_jid=7997661003"
   },
   "7998856003": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2838,7 +2842,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8000413003?gh_jid=8000413003"
   },
   "8002255003": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3497,19 +3501,34 @@
    "title": "Value Engineer",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8036907003?gh_jid=8036907003"
   },
+  "8036958003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "software engineer data core @ munich, germany",
+   "location": "Munich, Germany",
+   "posted_at": "2026-11-02T16:42:01+00:00",
+   "posted_history": [
+    "2026-11-02T16:42:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "(Senior) Software Engineer - Data Core",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/8036958003?gh_jid=8036958003"
+  },
   "8037003003": {
    "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
-   "fp": "lead value engineer pharma @ munich, germany",
+   "fp": "lead value engineer @ munich, germany",
    "location": "Munich, Germany",
    "posted_at": "2026-10-23T11:04:00+00:00",
    "posted_history": [
     "2026-10-23T11:04:00+00:00"
    ],
    "reopened": 0,
-   "title": "Lead Value Engineer, Pharma",
+   "title": "Lead Value Engineer (Pharmaceutical & Utilities)",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8037003003?gh_jid=8037003003"
   },
   "8037359003": {
@@ -3847,14 +3866,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
-   "fp": "applied value engineer ai and value transformation consultant @ london, united kingdom",
+   "fp": "applied value engineer ai and pre sales consultant @ london, united kingdom",
    "location": "London, United Kingdom",
    "posted_at": "2026-10-29T07:58:51+00:00",
    "posted_history": [
     "2026-10-29T07:58:51+00:00"
    ],
    "reopened": 0,
-   "title": "Applied Value Engineer - AI and Value Transformation Consultant",
+   "title": "Applied Value Engineer - AI and Pre-Sales Consultant",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8067893003?gh_jid=8067893003"
   },
   "8068099003": {

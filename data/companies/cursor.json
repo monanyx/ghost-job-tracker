@@ -59,6 +59,10 @@
   {
    "date": "2026-11-02",
    "open": 124
+  },
+  {
+   "date": "2026-11-03",
+   "open": 122
   }
  ],
  "jobs": {
@@ -1265,7 +1269,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/7d6611cb-28bf-4277-8758-178154466934"
   },
   "7e1d8e07-c87b-4388-892a-6b138bebf665": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "Revenue Operations",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1445,7 +1449,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/94cc6684-9dbf-43f9-8ffc-405614e64ddd"
   },
   "9764046f-8303-4fca-8386-4e743dfc8722": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "Solutions",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",

@@ -59,6 +59,10 @@
   {
    "date": "2026-11-02",
    "open": 364
+  },
+  {
+   "date": "2026-11-03",
+   "open": 359
   }
  ],
  "jobs": {
@@ -363,7 +367,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=7113803"
   },
   "7141759": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -543,7 +547,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=7256839"
   },
   "7269518": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -662,6 +666,21 @@
    "title": "Account Development Representative, Hebrew Speaking",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=7334938"
   },
+  "7335567": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "account development representative french speaking @ dublin",
+   "location": "Dublin",
+   "posted_at": "2026-02-04T12:26:20+00:00",
+   "posted_history": [
+    "2026-02-04T12:26:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Development Representative, French Speaking",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=7335567"
+  },
   "7337287": {
    "closed_at": null,
    "department": "",
@@ -712,8 +731,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "enterprise account executive growth @ boston; new york city; pennsylvania",
-   "location": "Boston; New York City; Pennsylvania",
+   "fp": "enterprise account executive growth @ new york city",
+   "location": "New York City",
    "posted_at": "2026-02-05T13:37:05+00:00",
    "posted_history": [
     "2026-02-05T13:37:05+00:00"
@@ -1111,6 +1130,21 @@
    "reopened": 0,
    "title": "Senior Enterprise Account Executive, Growth",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=7687359"
+  },
+  "7694717": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "regional director commercial growth @ london",
+   "location": "London",
+   "posted_at": "2026-10-16T14:52:39+00:00",
+   "posted_history": [
+    "2026-10-16T14:52:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Regional Director, Commercial Growth",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=7694717"
   },
   "7719062": {
    "closed_at": "2026-10-23T08:50:35+00:00",
@@ -1567,14 +1601,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "staff software engineer query execution @ united states",
-   "location": "United States",
+   "fp": "staff engineer query execution @ austin; dallas; new york city; seattle",
+   "location": "Austin; Dallas; New York City; Seattle",
    "posted_at": "2026-05-13T20:14:53+00:00",
    "posted_history": [
     "2026-05-13T20:14:53+00:00"
    ],
    "reopened": 0,
-   "title": "Staff Software Engineer - Query Execution",
+   "title": "Staff Engineer, Query Execution",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=7915330"
   },
   "7944023": {
@@ -1668,7 +1702,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=7957589"
   },
   "7967394": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1998,7 +2032,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8023912"
   },
   "8023944": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2148,7 +2182,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8051197"
   },
   "8051379": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2163,7 +2197,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8051379"
   },
   "8051387": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2566,6 +2600,21 @@
    "reopened": 0,
    "title": "Director, Partner Programs",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8077491"
+  },
+  "8079676": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "enterprise account executive acquisition @ melbourne",
+   "location": "Melbourne",
+   "posted_at": "2026-07-23T10:45:23+00:00",
+   "posted_history": [
+    "2026-07-23T10:45:23+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Account Executive, Acquisition",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8079676"
   },
   "8079914": {
    "closed_at": null,
@@ -3108,7 +3157,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8127772"
   },
   "8127859": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4128,7 +4177,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8174075"
   },
   "8174879": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4443,7 +4492,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8195324"
   },
   "8200434": {
-   "closed_at": "2026-10-29T10:25:29+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4453,7 +4502,7 @@
    "posted_history": [
     "2026-10-06T06:37:38+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Technical Account Manager",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8200434"
   },
@@ -5058,7 +5107,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8224682"
   },
   "8226033": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5163,7 +5212,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8229891"
   },
   "8229892": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5763,7 +5812,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8263247"
   },
   "8263467": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
@@ -5913,7 +5962,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8267099"
   },
   "8267650": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6603,7 +6652,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8318370"
   },
   "8323294": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
@@ -6676,6 +6725,21 @@
    "reopened": 0,
    "title": "Senior Product Manager, Developer and Agentic Experience",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8328176"
+  },
+  "8328316": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "early talent recruiter @ gurugram",
+   "location": "Gurugram",
+   "posted_at": "2026-11-03T09:17:40+00:00",
+   "posted_history": [
+    "2026-11-03T09:17:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Early Talent Recruiter",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8328316"
   },
   "8328622": {
    "closed_at": null,
@@ -6781,6 +6845,51 @@
    "reopened": 0,
    "title": "Senior Manager, Engineering",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8334108"
+  },
+  "8337355": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "manager customer success operations @ new york city",
+   "location": "New York City",
+   "posted_at": "2026-11-02T15:21:26+00:00",
+   "posted_history": [
+    "2026-11-02T15:21:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Customer Success Operations",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8337355"
+  },
+  "8337357": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "manager customer success operations @ dublin",
+   "location": "Dublin",
+   "posted_at": "2026-11-02T17:32:08+00:00",
+   "posted_history": [
+    "2026-11-02T17:32:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Customer Success Operations",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8337357"
+  },
+  "8345848": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "senior solutions architect @ london",
+   "location": "London",
+   "posted_at": "2026-11-02T12:58:00+00:00",
+   "posted_history": [
+    "2026-11-02T12:58:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Solutions Architect",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8345848"
   }
  }
 }

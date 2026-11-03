@@ -59,6 +59,10 @@
   {
    "date": "2026-11-02",
    "open": 170
+  },
+  {
+   "date": "2026-11-03",
+   "open": 172
   }
  ],
  "jobs": {
@@ -2223,7 +2227,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8852959002?gh_jid=8852959002"
   },
   "8852982002": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2403,7 +2407,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8860849002?gh_jid=8860849002"
   },
   "8860904002": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3212,6 +3216,21 @@
    "title": "Fleet Operations Lead",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8910495002?gh_jid=8910495002"
   },
+  "8916916002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "senior actuarial analyst @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-02T18:36:07+00:00",
+   "posted_history": [
+    "2026-11-02T18:36:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Actuarial Analyst",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8916916002?gh_jid=8916916002"
+  },
   "8916920002": {
    "closed_at": null,
    "department": "",
@@ -3241,6 +3260,51 @@
    "reopened": 0,
    "title": "Senior Product Manager, Rider ML/AI",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8916924002?gh_jid=8916924002"
+  },
+  "8916976002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "senior actuarial analyst @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-11-02T18:36:09+00:00",
+   "posted_history": [
+    "2026-11-02T18:36:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Actuarial Analyst",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8916976002?gh_jid=8916976002"
+  },
+  "8916983002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "senior actuarial analyst @ seattle, wa",
+   "location": "Seattle, WA",
+   "posted_at": "2026-11-02T18:36:10+00:00",
+   "posted_history": [
+    "2026-11-02T18:36:10+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Actuarial Analyst",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8916983002?gh_jid=8916983002"
+  },
+  "8917063002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "senior actuarial analyst @ toronto, canada",
+   "location": "Toronto, Canada",
+   "posted_at": "2026-11-02T18:36:27+00:00",
+   "posted_history": [
+    "2026-11-02T18:36:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Actuarial Analyst",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8917063002?gh_jid=8917063002"
   },
   "8917426002": {
    "closed_at": null,

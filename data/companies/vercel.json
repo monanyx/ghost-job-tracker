@@ -59,6 +59,10 @@
   {
    "date": "2026-11-02",
    "open": 91
+  },
+  {
+   "date": "2026-11-03",
+   "open": 89
   }
  ],
  "jobs": {
@@ -543,7 +547,7 @@
    "url": "https://job-boards.greenhouse.io/vercel/jobs/5999792004"
   },
   "6011651004": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -738,7 +742,7 @@
    "url": "https://job-boards.greenhouse.io/vercel/jobs/6112845004"
   },
   "6113157004": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1128,7 +1132,7 @@
    "url": "https://job-boards.greenhouse.io/vercel/jobs/6179794004"
   },
   "6181755004": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1621,6 +1625,21 @@
    "reopened": 0,
    "title": "Technical Business Development Representative",
    "url": "https://job-boards.greenhouse.io/vercel/jobs/6236991004"
+  },
+  "6240736004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "software engineer compute @ hybrid - san francisco",
+   "location": "Hybrid - San Francisco",
+   "posted_at": "2026-11-02T17:26:43+00:00",
+   "posted_history": [
+    "2026-11-02T17:26:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Compute",
+   "url": "https://job-boards.greenhouse.io/vercel/jobs/6240736004"
   }
  }
 }

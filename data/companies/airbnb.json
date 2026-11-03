@@ -59,6 +59,10 @@
   {
    "date": "2026-11-02",
    "open": 202
+  },
+  {
+   "date": "2026-11-03",
+   "open": 213
   }
  ],
  "jobs": {
@@ -172,14 +176,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "staff software engineer marketplaces intelligence data and ai @ united states",
+   "fp": "staff software engineer guest host @ united states",
    "location": "United States",
    "posted_at": "2026-01-12T18:55:52+00:00",
    "posted_history": [
     "2026-01-12T18:55:52+00:00"
    ],
    "reopened": 0,
-   "title": "Staff Software Engineer, Marketplaces & Intelligence Data and AI",
+   "title": "Staff Software Engineer, Guest & Host",
    "url": "https://careers.airbnb.com/positions/7528577?gh_jid=7528577"
   },
   "7532824": {
@@ -262,14 +266,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "staff software engineer tech foundations @ united states",
+   "fp": "staff software engineer streaming infrastructure @ united states",
    "location": "United States",
    "posted_at": "2026-03-11T04:21:37+00:00",
    "posted_history": [
     "2026-03-11T04:21:37+00:00"
    ],
    "reopened": 0,
-   "title": "Staff Software Engineer, Tech Foundations",
+   "title": "Staff Software Engineer, Streaming Infrastructure",
    "url": "https://careers.airbnb.com/positions/7702714?gh_jid=7702714"
   },
   "7705262": {
@@ -1232,6 +1236,21 @@
    "title": "Staff Experience Designer, International",
    "url": "https://careers.airbnb.com/positions/8121074?gh_jid=8121074"
   },
+  "8125981": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "lead advanced analytics community support @ united states",
+   "location": "United States",
+   "posted_at": "2026-08-13T21:23:22+00:00",
+   "posted_history": [
+    "2026-08-13T21:23:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Lead, Advanced Analytics, Community Support",
+   "url": "https://careers.airbnb.com/positions/8125981?gh_jid=8125981"
+  },
   "8129371": {
    "closed_at": null,
    "department": "",
@@ -1291,6 +1310,21 @@
    "reopened": 0,
    "title": "Market Manager",
    "url": "https://careers.airbnb.com/positions/8131310?gh_jid=8131310"
+  },
+  "8136554": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "staff platform manager conversational products @ united states",
+   "location": "United States ",
+   "posted_at": "2026-08-19T21:50:25+00:00",
+   "posted_history": [
+    "2026-08-19T21:50:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Platform Manager, Conversational Products",
+   "url": "https://careers.airbnb.com/positions/8136554?gh_jid=8136554"
   },
   "8140993": {
    "closed_at": null,
@@ -1848,7 +1882,7 @@
    "url": "https://careers.airbnb.com/positions/8224032?gh_jid=8224032"
   },
   "8225578": {
-   "closed_at": "2026-10-27T09:20:56+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -1858,7 +1892,7 @@
    "posted_history": [
     "2026-10-22T02:51:31+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Support Specialist, Premium",
    "url": "https://careers.airbnb.com/positions/8225578?gh_jid=8225578"
   },
@@ -2058,7 +2092,7 @@
    "url": "https://careers.airbnb.com/positions/8241573?gh_jid=8241573"
   },
   "8242235": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-20T08:53:12+00:00",
@@ -2688,7 +2722,7 @@
    "url": "https://careers.airbnb.com/positions/8278753?gh_jid=8278753"
   },
   "8279065": {
-   "closed_at": "2026-10-27T09:20:56+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2698,12 +2732,12 @@
    "posted_history": [
     "2026-10-19T15:27:09+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Operations Manager, Luxe",
    "url": "https://careers.airbnb.com/positions/8279065?gh_jid=8279065"
   },
   "8279103": {
-   "closed_at": "2026-10-27T09:20:56+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2713,7 +2747,7 @@
    "posted_history": [
     "2026-10-19T15:27:11+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Operations Manager, Luxe",
    "url": "https://careers.airbnb.com/positions/8279103?gh_jid=8279103"
   },
@@ -2898,7 +2932,7 @@
    "url": "https://careers.airbnb.com/positions/8283664?gh_jid=8283664"
   },
   "8283730": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -3348,7 +3382,7 @@
    "url": "https://careers.airbnb.com/positions/8306555?gh_jid=8306555"
   },
   "8307226": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -3572,6 +3606,21 @@
    "title": "Supervisor - Trust and Safety Operations",
    "url": "https://careers.airbnb.com/positions/8327049?gh_jid=8327049"
   },
+  "8327439": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "senior communications lead india @ gurugram, india",
+   "location": "Gurugram, India",
+   "posted_at": "2026-11-02T19:54:26+00:00",
+   "posted_history": [
+    "2026-11-02T19:54:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Communications Lead, India",
+   "url": "https://careers.airbnb.com/positions/8327439?gh_jid=8327439"
+  },
   "8327611": {
    "closed_at": null,
    "department": "",
@@ -3586,6 +3635,21 @@
    "reopened": 0,
    "title": "Lead, Quality",
    "url": "https://careers.airbnb.com/positions/8327611?gh_jid=8327611"
+  },
+  "8327789": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "emergency response manager apac @ gurugram, india",
+   "location": "Gurugram, India",
+   "posted_at": "2026-11-02T19:33:32+00:00",
+   "posted_history": [
+    "2026-11-02T19:33:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Emergency Response Manager, APAC",
+   "url": "https://careers.airbnb.com/positions/8327789?gh_jid=8327789"
   },
   "8328748": {
    "closed_at": null,
@@ -3707,6 +3771,36 @@
    "title": "Regional Workplace Operations Manager",
    "url": "https://careers.airbnb.com/positions/8332540?gh_jid=8332540"
   },
+  "8334372": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "staff software engineer tech foundations @ united states",
+   "location": "United States",
+   "posted_at": "2026-11-02T19:03:07+00:00",
+   "posted_history": [
+    "2026-11-02T19:03:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer, Tech Foundations",
+   "url": "https://careers.airbnb.com/positions/8334372?gh_jid=8334372"
+  },
+  "8334730": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "senior planning partner content @ canada",
+   "location": "Canada",
+   "posted_at": "2026-11-02T16:38:52+00:00",
+   "posted_history": [
+    "2026-11-02T16:38:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Planning Partner, Content",
+   "url": "https://careers.airbnb.com/positions/8334730?gh_jid=8334730"
+  },
   "8334880": {
    "closed_at": null,
    "department": "",
@@ -3736,6 +3830,21 @@
    "reopened": 0,
    "title": "Backend Engineer, Profile & Community",
    "url": "https://careers.airbnb.com/positions/8334926?gh_jid=8334926"
+  },
+  "8335541": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "senior engineering manager partner ecosystem @ remote - united states",
+   "location": "Remote - United States ",
+   "posted_at": "2026-11-02T19:02:27+00:00",
+   "posted_history": [
+    "2026-11-02T19:02:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Engineering Manager - Partner Ecosystem",
+   "url": "https://careers.airbnb.com/positions/8335541?gh_jid=8335541"
   },
   "8336590": {
    "closed_at": null,
@@ -3841,6 +3950,66 @@
    "reopened": 0,
    "title": "AirCover Specialist, Claims Experience",
    "url": "https://careers.airbnb.com/positions/8345532?gh_jid=8345532"
+  },
+  "8346184": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "senior manager public policy pacific northwest @ united states",
+   "location": "United States",
+   "posted_at": "2026-11-03T02:24:56+00:00",
+   "posted_history": [
+    "2026-11-03T02:24:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Public Policy, Pacific Northwest",
+   "url": "https://careers.airbnb.com/positions/8346184?gh_jid=8346184"
+  },
+  "8347087": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "senior software engineer marketing technology @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-02T23:58:43+00:00",
+   "posted_history": [
+    "2026-11-02T23:58:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Marketing Technology",
+   "url": "https://careers.airbnb.com/positions/8347087?gh_jid=8347087"
+  },
+  "8348197": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "senior systems engineer biztech @ united states",
+   "location": "United States",
+   "posted_at": "2026-11-02T22:28:26+00:00",
+   "posted_history": [
+    "2026-11-02T22:28:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Systems Engineer, BizTech",
+   "url": "https://careers.airbnb.com/positions/8348197?gh_jid=8348197"
+  },
+  "8349121": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "senior risk tools automation lead @ remote, india",
+   "location": "Remote, India",
+   "posted_at": "2026-11-03T10:36:21+00:00",
+   "posted_history": [
+    "2026-11-03T10:36:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Risk Tools & Automation Lead",
+   "url": "https://careers.airbnb.com/positions/8349121?gh_jid=8349121"
   }
  }
 }

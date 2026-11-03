@@ -59,6 +59,10 @@
   {
    "date": "2026-11-02",
    "open": 129
+  },
+  {
+   "date": "2026-11-03",
+   "open": 129
   }
  ],
  "jobs": {
@@ -772,8 +776,8 @@
    "department": "Professional Services",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "expert builder paris @ paris",
-   "location": "Paris",
+   "fp": "expert builder paris @ london or paris",
+   "location": "London or Paris",
    "posted_at": "2025-02-20T14:32:46+00:00",
    "posted_history": [
     "2025-02-20T14:32:46+00:00"
@@ -1188,7 +1192,7 @@
    "url": "https://jobs.lever.co/pigment/869f8f33-87dd-4d34-b515-010d6078089a"
   },
   "86a0b92e-b309-49a9-aeef-7ee3960df884": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "Professional Services",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1727,6 +1731,21 @@
    "title": "Product Support Specialist",
    "url": "https://jobs.lever.co/pigment/c25dcd38-af0a-45af-8d98-120a18abdd30"
   },
+  "c2a39ff8-3dce-4d70-acbd-63ea7eca4df7": {
+   "closed_at": null,
+   "department": "Professional Services",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "partner excellence manager london @ london",
+   "location": "London",
+   "posted_at": "2026-01-26T09:31:48+00:00",
+   "posted_history": [
+    "2026-01-26T09:31:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "Partner Excellence Manager - London",
+   "url": "https://jobs.lever.co/pigment/c2a39ff8-3dce-4d70-acbd-63ea7eca4df7"
+  },
   "c2cc2ae1-e321-41ff-838a-568a2312836d": {
    "closed_at": null,
    "department": "Professional Services",
@@ -1773,7 +1792,7 @@
    "url": "https://jobs.lever.co/pigment/c6791d5a-5608-43dc-b5c3-15283cbeed3b"
   },
   "c88c4ec7-59da-42e1-a61f-95e6ea851f29": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "Customer Experience",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2221,6 +2240,21 @@
    "reopened": 0,
    "title": "Customer Success Manager, EPM  - San Francisco, Austin, or New York",
    "url": "https://jobs.lever.co/pigment/f5471302-f110-4940-a509-f18ece1bdd3d"
+  },
+  "f5630fd7-9d1f-4029-97ad-3b4ee3fc53a8": {
+   "closed_at": null,
+   "department": "Business Development",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "bdr south emea spain italy @ paris",
+   "location": "Paris",
+   "posted_at": "2026-11-02T14:36:55+00:00",
+   "posted_history": [
+    "2026-11-02T14:36:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "BDR - South EMEA - Spain & Italy",
+   "url": "https://jobs.lever.co/pigment/f5630fd7-9d1f-4029-97ad-3b4ee3fc53a8"
   },
   "f5c06df1-8457-42d9-b583-fdfd5cf74095": {
    "closed_at": null,

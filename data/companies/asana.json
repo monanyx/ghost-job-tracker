@@ -59,6 +59,10 @@
   {
    "date": "2026-11-02",
    "open": 110
+  },
+  {
+   "date": "2026-11-03",
+   "open": 108
   }
  ],
  "jobs": {
@@ -138,7 +142,7 @@
    "url": "https://www.asana.com/jobs/apply/7380414?gh_jid=7380414"
   },
   "7392983": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -183,7 +187,7 @@
    "url": "https://www.asana.com/jobs/apply/7586914?gh_jid=7586914"
   },
   "7586960": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -393,7 +397,7 @@
    "url": "https://www.asana.com/jobs/apply/7962306?gh_jid=7962306"
   },
   "7962412": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1057,8 +1061,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior product manager ai studio @ san francisco",
-   "location": "San Francisco",
+   "fp": "senior product manager ai studio @ vancouver, bc",
+   "location": "Vancouver, BC",
    "posted_at": "2026-10-02T20:54:11+00:00",
    "posted_history": [
     "2026-10-02T20:54:11+00:00"
@@ -1323,7 +1327,7 @@
    "url": "https://www.asana.com/jobs/apply/8221174?gh_jid=8221174"
   },
   "8226969": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1443,18 +1447,18 @@
    "url": "https://www.asana.com/jobs/apply/8237559?gh_jid=8237559"
   },
   "8237744": {
-   "closed_at": "2026-10-30T10:28:19+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "staff software engineer ai teammates @ san francisco",
+   "fp": "senior software engineer ai teammates platform @ san francisco",
    "location": "San Francisco",
    "posted_at": "2026-09-28T18:16:18+00:00",
    "posted_history": [
     "2026-09-28T18:16:18+00:00"
    ],
-   "reopened": 0,
-   "title": "Staff Software Engineer, AI Teammates",
+   "reopened": 1,
+   "title": "Senior Software Engineer, AI Teammates Platform",
    "url": "https://www.asana.com/jobs/apply/8237744?gh_jid=8237744"
   },
   "8241249": {
@@ -2041,6 +2045,21 @@
    "reopened": 0,
    "title": "Head of Web Strategy and Services",
    "url": "https://www.asana.com/jobs/apply/8324814?gh_jid=8324814"
+  },
+  "8326299": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "head of it systems engineering @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-11-02T19:58:12+00:00",
+   "posted_history": [
+    "2026-11-02T19:58:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Head of IT Systems Engineering",
+   "url": "https://www.asana.com/jobs/apply/8326299?gh_jid=8326299"
   },
   "8326988": {
    "closed_at": null,

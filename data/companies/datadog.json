@@ -59,6 +59,10 @@
   {
    "date": "2026-11-02",
    "open": 397
+  },
+  {
+   "date": "2026-11-03",
+   "open": 402
   }
  ],
  "jobs": {
@@ -127,8 +131,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior software engineer distributed systems @ bordeaux, france; grenoble, france; lyon, france; madrid, spain; montpellier, france; nantes, france; paris, france; sophia antipolis, france",
-   "location": "Bordeaux, France; Grenoble, France; Lyon, France; Madrid, Spain; Montpellier, France; Nantes, France; Paris, France; Sophia Antipolis, France",
+   "fp": "senior software engineer distributed systems @ paris, france",
+   "location": "Paris, France",
    "posted_at": "2022-10-05T14:56:15+00:00",
    "posted_history": [
     "2022-10-05T14:56:15+00:00"
@@ -138,7 +142,7 @@
    "url": "https://careers.datadoghq.com/detail/4599111/?gh_jid=4599111"
   },
   "4599148": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -543,7 +547,7 @@
    "url": "https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564"
   },
   "6665385": {
-   "closed_at": "2026-10-31T09:57:28+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -553,7 +557,7 @@
    "posted_history": [
     "2025-03-03T18:31:19+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Mid Market Account Executive",
    "url": "https://careers.datadoghq.com/detail/6665385/?gh_jid=6665385"
   },
@@ -1687,18 +1691,18 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "mid market sales @ amsterdam, the netherlands",
+   "fp": "mid market account executive @ amsterdam, the netherlands",
    "location": "Amsterdam, The Netherlands",
    "posted_at": "2026-03-03T15:51:29+00:00",
    "posted_history": [
     "2026-03-03T15:51:29+00:00"
    ],
    "reopened": 0,
-   "title": "Mid-Market Sales (CEE)",
+   "title": "Mid-Market Account Executive (CEE)",
    "url": "https://careers.datadoghq.com/detail/7530418/?gh_jid=7530418"
   },
   "7531575": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-20T08:53:12+00:00",
@@ -2176,6 +2180,21 @@
    "reopened": 0,
    "title": "Technical Account Manager 2 - São Paulo",
    "url": "https://careers.datadoghq.com/detail/7834545/?gh_jid=7834545"
+  },
+  "7857714": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "enterprise sales engineer rockies @ colorado, usa, remote",
+   "location": "Colorado, USA, Remote",
+   "posted_at": "2026-06-23T18:03:55+00:00",
+   "posted_history": [
+    "2026-06-23T18:03:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Sales Engineer - Rockies",
+   "url": "https://careers.datadoghq.com/detail/7857714/?gh_jid=7857714"
   },
   "7858788": {
    "closed_at": null,
@@ -3168,7 +3187,7 @@
    "url": "https://careers.datadoghq.com/detail/8080601/?gh_jid=8080601"
   },
   "8080628": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5602,14 +5621,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "regional manager sales engineering majors @ california, usa, remote; washington, usa, remote",
+   "fp": "regional manager sales engineering key accounts @ california, usa, remote; washington, usa, remote",
    "location": "California, USA, Remote; Washington, USA, Remote",
    "posted_at": "2026-10-01T20:03:54+00:00",
    "posted_history": [
     "2026-10-01T20:03:54+00:00"
    ],
    "reopened": 0,
-   "title": "Regional Manager, Sales Engineering - Majors (West)",
+   "title": "Regional Manager, Sales Engineering - Key Accounts (West)",
    "url": "https://careers.datadoghq.com/detail/8231877/?gh_jid=8231877"
   },
   "8233540": {
@@ -7027,8 +7046,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-28T10:01:46+00:00",
-   "fp": "manager mid market sales @ amsterdam, the netherlands",
-   "location": "Amsterdam, The Netherlands",
+   "fp": "manager mid market sales @ amsterdam, the netherlands; dublin, ireland",
+   "location": "Amsterdam, The Netherlands; Dublin, Ireland",
    "posted_at": "2026-10-27T09:32:51+00:00",
    "posted_history": [
     "2026-10-27T09:32:51+00:00"
@@ -7111,6 +7130,21 @@
    "reopened": 0,
    "title": "Group Product Manager - Code Security",
    "url": "https://careers.datadoghq.com/detail/8314006/?gh_jid=8314006"
+  },
+  "8314112": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "director enterprise sales @ district of columbia, usa, remote",
+   "location": "District of Columbia, USA, Remote",
+   "posted_at": "2026-11-02T15:25:52+00:00",
+   "posted_history": [
+    "2026-11-02T15:25:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "Director, Enterprise Sales (SLED)",
+   "url": "https://careers.datadoghq.com/detail/8314112/?gh_jid=8314112"
   },
   "8314268": {
    "closed_at": null,
@@ -7277,6 +7311,21 @@
    "title": "Customer Success Manager (Key Accounts)",
    "url": "https://careers.datadoghq.com/detail/8330344/?gh_jid=8330344"
   },
+  "8330644": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "customer success manager nordics @ amsterdam, the netherlands",
+   "location": "Amsterdam, The Netherlands",
+   "posted_at": "2026-11-02T13:11:59+00:00",
+   "posted_history": [
+    "2026-11-02T13:11:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Success Manager (Key Accounts ) - Nordics",
+   "url": "https://careers.datadoghq.com/detail/8330644/?gh_jid=8330644"
+  },
   "8333737": {
    "closed_at": null,
    "department": "",
@@ -7306,6 +7355,36 @@
    "reopened": 0,
    "title": "Mid-Market Account Executive",
    "url": "https://careers.datadoghq.com/detail/8334003/?gh_jid=8334003"
+  },
+  "8334237": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "mid market account executive @ riyadh, saudi arabia",
+   "location": "Riyadh, Saudi Arabia",
+   "posted_at": "2026-11-02T13:43:52+00:00",
+   "posted_history": [
+    "2026-11-02T13:43:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "Mid-Market Account Executive",
+   "url": "https://careers.datadoghq.com/detail/8334237/?gh_jid=8334237"
+  },
+  "8334273": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "mid market account executive @ dublin, ireland",
+   "location": "Dublin, Ireland",
+   "posted_at": "2026-11-02T12:52:18+00:00",
+   "posted_history": [
+    "2026-11-02T12:52:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Mid-Market Account Executive",
+   "url": "https://careers.datadoghq.com/detail/8334273/?gh_jid=8334273"
   },
   "8335047": {
    "closed_at": null,
@@ -7381,6 +7460,36 @@
    "reopened": 0,
    "title": "Staff Product Manager, Metering and Attribution",
    "url": "https://careers.datadoghq.com/detail/8337954/?gh_jid=8337954"
+  },
+  "8346056": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "director people business partner @ new york, new york, usa",
+   "location": "New York, New York, USA",
+   "posted_at": "2026-11-02T14:43:24+00:00",
+   "posted_history": [
+    "2026-11-02T14:43:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Director, People Business Partner",
+   "url": "https://careers.datadoghq.com/detail/8346056/?gh_jid=8346056"
+  },
+  "8346246": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "video script writer @ new york, new york, usa",
+   "location": "New York, New York, USA",
+   "posted_at": "2026-11-02T20:33:55+00:00",
+   "posted_history": [
+    "2026-11-02T20:33:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Video Script Writer",
+   "url": "https://careers.datadoghq.com/detail/8346246/?gh_jid=8346246"
   }
  }
 }

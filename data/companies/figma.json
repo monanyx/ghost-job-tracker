@@ -59,9 +59,28 @@
   {
    "date": "2026-11-02",
    "open": 141
+  },
+  {
+   "date": "2026-11-03",
+   "open": 144
   }
  ],
  "jobs": {
+  "5364702004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "account executive mid market @ berlin, germany",
+   "location": "Berlin, Germany",
+   "posted_at": "2024-11-01T10:05:10+00:00",
+   "posted_history": [
+    "2024-11-01T10:05:10+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, Mid-Market (Berlin, Germany)",
+   "url": "https://boards.greenhouse.io/figma/jobs/5364702004?gh_jid=5364702004"
+  },
   "5415515004": {
    "closed_at": null,
    "department": "",
@@ -502,8 +521,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "solutions consultant @ san francisco, ca • new york, ny • united states",
-   "location": "San Francisco, CA • New York, NY • United States",
+   "fp": "solutions consultant @ san francisco, ca • united states",
+   "location": "San Francisco, CA • United States",
    "posted_at": "2026-02-07T01:22:27+00:00",
    "posted_history": [
     "2026-02-07T01:22:27+00:00"
@@ -1038,7 +1057,7 @@
    "url": "https://boards.greenhouse.io/figma/jobs/6110744004?gh_jid=6110744004"
   },
   "6111166004": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1053,7 +1072,7 @@
    "url": "https://boards.greenhouse.io/figma/jobs/6111166004?gh_jid=6111166004"
   },
   "6112961004": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1098,7 +1117,7 @@
    "url": "https://boards.greenhouse.io/figma/jobs/6118332004?gh_jid=6118332004"
   },
   "6119781004": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1276,6 +1295,21 @@
    "reopened": 0,
    "title": "Customer Enablement Manager (Berlin, Germany)",
    "url": "https://boards.greenhouse.io/figma/jobs/6133181004?gh_jid=6133181004"
+  },
+  "6134770004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "product manager collaboration tools @ san francisco, ca • new york, ny • united states",
+   "location": "San Francisco, CA • New York, NY • United States",
+   "posted_at": "2026-11-02T20:58:55+00:00",
+   "posted_history": [
+    "2026-11-02T20:58:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Manager, Collaboration Tools",
+   "url": "https://boards.greenhouse.io/figma/jobs/6134770004?gh_jid=6134770004"
   },
   "6135656004": {
    "closed_at": null,
@@ -1548,7 +1582,7 @@
    "url": "https://boards.greenhouse.io/figma/jobs/6166608004?gh_jid=6166608004"
   },
   "6173031004": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2328,18 +2362,18 @@
    "url": "https://boards.greenhouse.io/figma/jobs/6229275004?gh_jid=6229275004"
   },
   "6230562004": {
-   "closed_at": "2026-10-26T09:22:13+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
-   "fp": "technical support engineer @ bengaluru, india",
+   "fp": "technical quality specialist @ bengaluru, india",
    "location": "Bengaluru, India",
    "posted_at": "2026-10-23T04:53:28+00:00",
    "posted_history": [
     "2026-10-23T04:53:28+00:00"
    ],
-   "reopened": 0,
-   "title": "Technical Support Engineer (Bengaluru, India)",
+   "reopened": 1,
+   "title": "Technical Quality Specialist (Bengaluru, India)",
    "url": "https://boards.greenhouse.io/figma/jobs/6230562004?gh_jid=6230562004"
   },
   "6230952004": {
@@ -2371,6 +2405,21 @@
    "reopened": 0,
    "title": "Product Designer, Core Experience",
    "url": "https://boards.greenhouse.io/figma/jobs/6231027004?gh_jid=6231027004"
+  },
+  "6231582004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "developer advocate payload @ san francisco, ca • new york, ny • united states",
+   "location": "San Francisco, CA • New York, NY • United States",
+   "posted_at": "2026-10-29T14:36:37+00:00",
+   "posted_history": [
+    "2026-10-29T14:36:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Developer Advocate, Payload",
+   "url": "https://boards.greenhouse.io/figma/jobs/6231582004?gh_jid=6231582004"
   },
   "6231832004": {
    "closed_at": null,
@@ -2552,6 +2601,36 @@
    "title": "Sales Operations Manager",
    "url": "https://boards.greenhouse.io/figma/jobs/6235320004?gh_jid=6235320004"
   },
+  "6236341004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "solutions consultant smb @ london, england",
+   "location": "London, England",
+   "posted_at": "2026-11-03T11:06:00+00:00",
+   "posted_history": [
+    "2026-11-03T11:06:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Solutions Consultant, SMB (London, United Kingdom)",
+   "url": "https://boards.greenhouse.io/figma/jobs/6236341004?gh_jid=6236341004"
+  },
+  "6237654004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "solutions consultant mid market @ san francisco, ca • united states",
+   "location": "San Francisco, CA • United States",
+   "posted_at": "2026-11-02T16:26:11+00:00",
+   "posted_history": [
+    "2026-11-02T16:26:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Solutions Consultant, Mid-Market",
+   "url": "https://boards.greenhouse.io/figma/jobs/6237654004?gh_jid=6237654004"
+  },
   "6237757004": {
    "closed_at": null,
    "department": "",
@@ -2596,6 +2675,21 @@
    "reopened": 0,
    "title": "Sales Recruiter (London, United Kingdom)",
    "url": "https://boards.greenhouse.io/figma/jobs/6238252004?gh_jid=6238252004"
+  },
+  "6239628004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "technical recruiter @ london, england",
+   "location": "London, England",
+   "posted_at": "2026-11-03T08:57:38+00:00",
+   "posted_history": [
+    "2026-11-03T08:57:38+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Recruiter (London, United Kingdom)",
+   "url": "https://boards.greenhouse.io/figma/jobs/6239628004?gh_jid=6239628004"
   }
  }
 }

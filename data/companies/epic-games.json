@@ -59,6 +59,10 @@
   {
    "date": "2026-11-02",
    "open": 137
+  },
+  {
+   "date": "2026-11-03",
+   "open": 137
   }
  ],
  "jobs": {
@@ -693,7 +697,7 @@
    "url": "https://epicgames.com/careers/jobs/6117647004?gh_jid=6117647004"
   },
   "6119874004": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -708,7 +712,7 @@
    "url": "https://epicgames.com/careers/jobs/6119874004?gh_jid=6119874004"
   },
   "6119876004": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1323,7 +1327,7 @@
    "url": "https://epicgames.com/careers/jobs/6174265004?gh_jid=6174265004"
   },
   "6178818004": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2087,6 +2091,36 @@
    "title": "Senior Programmer, Graphics Tools",
    "url": "https://epicgames.com/careers/jobs/6217252004?gh_jid=6217252004"
   },
+  "6218273004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "sr product manager @ cary,north carolina,united states",
+   "location": "Cary,North Carolina,United States",
+   "posted_at": "2026-11-02T16:06:43+00:00",
+   "posted_history": [
+    "2026-11-02T16:06:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Product Manager (Social & Identity Platform)",
+   "url": "https://epicgames.com/careers/jobs/6218273004?gh_jid=6218273004"
+  },
+  "6218275004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "sr product manager @ blank,blank,multiple locations",
+   "location": "BLANK,BLANK,Multiple Locations",
+   "posted_at": "2026-11-02T16:06:45+00:00",
+   "posted_history": [
+    "2026-11-02T16:06:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Product Manager (Social & Identity Platform)",
+   "url": "https://epicgames.com/careers/jobs/6218275004?gh_jid=6218275004"
+  },
   "6219626004": {
    "closed_at": null,
    "department": "",
@@ -2416,6 +2450,21 @@
    "reopened": 0,
    "title": "Director, Production (Licensed IP and Partner Titles - Fortnite Ecosystem)",
    "url": "https://epicgames.com/careers/jobs/6235186004?gh_jid=6235186004"
+  },
+  "6239259004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "tools programmer intern @ cary,north carolina,united states",
+   "location": "Cary,North Carolina,United States",
+   "posted_at": "2026-10-30T16:56:07+00:00",
+   "posted_history": [
+    "2026-10-30T16:56:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Tools Programmer Intern (Graphics)",
+   "url": "https://epicgames.com/careers/jobs/6239259004?gh_jid=6239259004"
   }
  }
 }

@@ -59,6 +59,10 @@
   {
    "date": "2026-11-02",
    "open": 163
+  },
+  {
+   "date": "2026-11-03",
+   "open": 163
   }
  ],
  "jobs": {
@@ -1668,7 +1672,7 @@
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8187521"
   },
   "8187652": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1953,7 +1957,7 @@
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8212175"
   },
   "8214910": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-20T08:53:12+00:00",
@@ -2372,6 +2376,21 @@
    "title": "Senior Ads Business Development & Partnership Manager",
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8282563"
   },
+  "8282748": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "senior staff applied scientist science platform @ remote - united states",
+   "location": "Remote - United States",
+   "posted_at": "2026-11-03T01:41:23+00:00",
+   "posted_history": [
+    "2026-11-03T01:41:23+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Staff Applied Scientist, Science Platform",
+   "url": "https://job-boards.greenhouse.io/reddit/jobs/8282748"
+  },
   "8282760": {
    "closed_at": null,
    "department": "",
@@ -2761,6 +2780,21 @@
    "reopened": 0,
    "title": "Staff Machine Learning Engineer, Ads Forecasting & Scenarios",
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8334138"
+  },
+  "8337444": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "software engineer infrastructure engineering @ remote - united states",
+   "location": "Remote - United States",
+   "posted_at": "2026-11-02T23:28:32+00:00",
+   "posted_history": [
+    "2026-11-02T23:28:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Infrastructure Engineering",
+   "url": "https://job-boards.greenhouse.io/reddit/jobs/8337444"
   }
  }
 }

@@ -59,6 +59,10 @@
   {
    "date": "2026-11-02",
    "open": 24
+  },
+  {
+   "date": "2026-11-03",
+   "open": 26
   }
  ],
  "jobs": {
@@ -363,7 +367,7 @@
    "url": "https://jobs.dropbox.com/listing/8208317?gh_jid=8208317"
   },
   "8234201": {
-   "closed_at": "2026-10-27T09:20:56+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -373,12 +377,12 @@
    "posted_history": [
     "2026-10-01T14:15:45+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Program Manager,  Employee Experience",
    "url": "https://jobs.dropbox.com/listing/8234201?gh_jid=8234201"
   },
   "8234202": {
-   "closed_at": "2026-10-27T09:20:56+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -388,7 +392,7 @@
    "posted_history": [
     "2026-10-01T14:15:47+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Program Manager, Employee Experience",
    "url": "https://jobs.dropbox.com/listing/8234202?gh_jid=8234202"
   },
@@ -543,7 +547,7 @@
    "url": "https://jobs.dropbox.com/listing/8285045?gh_jid=8285045"
   },
   "8286535": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -586,6 +590,21 @@
    "reopened": 0,
    "title": "Learning Experience Designer",
    "url": "https://jobs.dropbox.com/listing/8296377?gh_jid=8296377"
+  },
+  "8328394": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "product support representative @ remote - ireland",
+   "location": "Remote - Ireland",
+   "posted_at": "2026-11-02T16:59:02+00:00",
+   "posted_history": [
+    "2026-11-02T16:59:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Support Representative",
+   "url": "https://jobs.dropbox.com/listing/8328394?gh_jid=8328394"
   }
  }
 }

@@ -59,6 +59,10 @@
   {
    "date": "2026-11-02",
    "open": 88
+  },
+  {
+   "date": "2026-11-03",
+   "open": 85
   }
  ],
  "jobs": {
@@ -303,7 +307,7 @@
    "url": "https://jobs.lever.co/spotify/2344260b-477c-4086-b5a5-842dc4c587f0"
   },
   "234ec969-a406-4956-8d85-365b9053ccf5": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "Platform",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -513,7 +517,7 @@
    "url": "https://jobs.lever.co/spotify/53c07681-f798-4f2c-bef6-513c6d027c9e"
   },
   "56ea6f2e-f20b-4e46-ab94-d3eb0a89482d": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "Music",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
@@ -1037,6 +1041,21 @@
    "title": "Senior Technical Program Manager",
    "url": "https://jobs.lever.co/spotify/a343f789-bb7f-41eb-bd85-d7c6b45bda67"
   },
+  "a3c9129a-2160-4f3b-a2b5-d07868074aa1": {
+   "closed_at": null,
+   "department": "Operations and Strategy",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "markets strategy operations manager sea @ singapore",
+   "location": "Singapore",
+   "posted_at": "2026-09-15T03:03:45+00:00",
+   "posted_history": [
+    "2026-09-15T03:03:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Markets Strategy & Operations Manager, SEA",
+   "url": "https://jobs.lever.co/spotify/a3c9129a-2160-4f3b-a2b5-d07868074aa1"
+  },
   "a4c49acb-a095-4452-ad9e-69e4b778c256": {
    "closed_at": null,
    "department": "Personalization",
@@ -1068,7 +1087,7 @@
    "url": "https://jobs.lever.co/spotify/a57db22d-dc0d-4f36-9a2e-34acdf1ec046"
   },
   "a6f8c9a6-821e-45d9-85c8-e5783ec03eaf": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "Content Business",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1563,7 +1582,7 @@
    "url": "https://jobs.lever.co/spotify/f263a2af-0a4e-4540-a0f6-adb3655e027b"
   },
   "f7eb82ce-b57e-4dc0-b84a-7f7ec05bf66e": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "Automation and Agency Teams",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",

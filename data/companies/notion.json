@@ -59,6 +59,10 @@
   {
    "date": "2026-11-02",
    "open": 148
+  },
+  {
+   "date": "2026-11-03",
+   "open": 147
   }
  ],
  "jobs": {
@@ -97,14 +101,14 @@
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "forward deployed engineer manager london @ london, united kingdom",
+   "fp": "manager forward deployed engineer @ london, united kingdom",
    "location": "London, United Kingdom",
    "posted_at": "2026-09-09T16:23:19+00:00",
    "posted_history": [
     "2026-09-09T16:23:19+00:00"
    ],
    "reopened": 0,
-   "title": "Forward Deployed Engineer, Manager -London",
+   "title": "Manager, Forward Deployed Engineer",
    "url": "https://jobs.ashbyhq.com/notion/0439c4a6-7a8e-4ffa-8cfd-28ce373acbd5"
   },
   "05e14247-17c4-4e98-9a13-53828a4e2f13": {
@@ -226,6 +230,21 @@
    "reopened": 0,
    "title": "Campaign Manager, Brand",
    "url": "https://jobs.ashbyhq.com/notion/14879c7f-ded7-4e7f-932c-fb4a294afd68"
+  },
+  "14c52e6b-b00b-42b5-96fb-195919ef6bab": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "solutions consultant mid market france @ paris, france",
+   "location": "Paris, France",
+   "posted_at": "2026-11-02T12:55:06+00:00",
+   "posted_history": [
+    "2026-11-02T12:55:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "Solutions Consultant, Mid-Market, France",
+   "url": "https://jobs.ashbyhq.com/notion/14c52e6b-b00b-42b5-96fb-195919ef6bab"
   },
   "15dde0f5-b3fd-4d46-8ec2-0858ebdd888d": {
    "closed_at": null,
@@ -354,10 +373,11 @@
    "first_seen": "2026-10-28T10:01:46+00:00",
    "fp": "product support specialist @ hyderabad, india",
    "location": "Hyderabad, India",
-   "posted_at": "2026-10-29T07:04:04+00:00",
+   "posted_at": "2026-11-03T05:42:34+00:00",
    "posted_history": [
     "2026-10-27T17:34:16+00:00",
-    "2026-10-29T07:04:04+00:00"
+    "2026-10-29T07:04:04+00:00",
+    "2026-11-03T05:42:34+00:00"
    ],
    "reopened": 0,
    "title": "Product Support Specialist",
@@ -563,14 +583,14 @@
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "enterprise solutions consultant new york @ atlanta, georgia",
+   "fp": "enterprise solutions consultant @ atlanta, georgia",
    "location": "Atlanta, Georgia",
    "posted_at": "2026-07-27T13:01:22+00:00",
    "posted_history": [
     "2026-07-27T13:01:22+00:00"
    ],
    "reopened": 0,
-   "title": "Enterprise Solutions Consultant, New York",
+   "title": "Enterprise Solutions Consultant (Atlanta, GA)",
    "url": "https://jobs.ashbyhq.com/notion/43b37ac5-1ce9-4106-8df1-1ae8515087ee"
   },
   "45f60d0e-e44f-40c5-985e-4096a8966860": {
@@ -619,7 +639,7 @@
    "url": "https://jobs.ashbyhq.com/notion/4967b1cf-a1f7-417b-b650-feebbff767a3"
   },
   "49bdf081-6e20-4323-8c73-6d6b19544ff5": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1053,6 +1073,21 @@
    "title": "Solutions Consultant, Commercial, Benelux",
    "url": "https://jobs.ashbyhq.com/notion/7ee208b1-f87e-4627-9081-b2478327a02c"
   },
+  "82819e88-adf1-4ab6-a9d1-e091cc3330d2": {
+   "closed_at": null,
+   "department": "Outcomes Architect",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "manager commercial outcome architects @ new york, new york",
+   "location": "New York, New York",
+   "posted_at": "2026-11-02T14:20:19+00:00",
+   "posted_history": [
+    "2026-11-02T14:20:19+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Commercial Outcome Architects (Customer Success)",
+   "url": "https://jobs.ashbyhq.com/notion/82819e88-adf1-4ab6-a9d1-e091cc3330d2"
+  },
   "82e5fdb7-6eeb-4acd-9736-4f2d1b980793": {
    "closed_at": null,
    "department": "People",
@@ -1479,14 +1514,14 @@
    "department": "Legal",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "commercial counsel @ san francisco, california",
+   "fp": "commercial counsel enterprise @ san francisco, california",
    "location": "San Francisco, California",
    "posted_at": "2026-09-01T20:42:55+00:00",
    "posted_history": [
     "2026-09-01T20:42:55+00:00"
    ],
    "reopened": 0,
-   "title": "Commercial Counsel",
+   "title": "Commercial Counsel, Enterprise",
    "url": "https://jobs.ashbyhq.com/notion/a92eb06e-8ef3-4118-b496-94f3cdf8005d"
   },
   "ab383335-1dd5-4d6a-971f-439cebf48a9d": {
@@ -1700,7 +1735,7 @@
    "url": "https://jobs.ashbyhq.com/notion/bf2e9a54-4f46-423f-ad08-5317c1d1c9b4"
   },
   "c1324c38-abc7-4bcf-9b62-2e1f86d5aa72": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "Marketing",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1970,7 +2005,7 @@
    "url": "https://jobs.ashbyhq.com/notion/dc87f28a-5666-4c51-b1f5-f539c6a5ce2b"
   },
   "dccc45ce-b143-4e30-bba7-28f1cfd414ae": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "People",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",

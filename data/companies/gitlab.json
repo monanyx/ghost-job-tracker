@@ -59,6 +59,10 @@
   {
    "date": "2026-11-02",
    "open": 236
+  },
+  {
+   "date": "2026-11-03",
+   "open": 236
   }
  ],
  "jobs": {
@@ -228,7 +232,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8586667002"
   },
   "8591223002": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -892,8 +896,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "intermediate software engineer security factory vulnerability management @ remote, canada; remote, israel; remote, united kingdom",
-   "location": "Remote, Canada; Remote, Israel; Remote, United Kingdom",
+   "fp": "intermediate software engineer security factory vulnerability management @ remote, israel; remote, united kingdom",
+   "location": "Remote, Israel; Remote, United Kingdom",
    "posted_at": "2026-08-20T23:22:50+00:00",
    "posted_history": [
     "2026-08-20T23:22:50+00:00"
@@ -1158,7 +1162,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8716143002"
   },
   "8716179002": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1383,7 +1387,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8742248002"
   },
   "8745623002": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1833,7 +1837,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8789017002"
   },
   "8789857002": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3002,6 +3006,21 @@
    "title": "Pipeline Programs Manager",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8864903002"
   },
+  "8867649002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "threat research engineer @ bangalore, india",
+   "location": "Bangalore, India",
+   "posted_at": "2026-10-15T14:29:47+00:00",
+   "posted_history": [
+    "2026-10-15T14:29:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Threat Research Engineer",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8867649002"
+  },
   "8867725002": {
    "closed_at": null,
    "department": "",
@@ -3588,7 +3607,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8886626002"
   },
   "8886648002": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3932,6 +3951,36 @@
    "title": "Contract Talent Acquisition Sourcer, Sales (APJ)",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8904961002"
   },
+  "8905040002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "senior product manager data integrations @ bangalore, india",
+   "location": "Bangalore, India",
+   "posted_at": "2026-11-02T15:13:32+00:00",
+   "posted_history": [
+    "2026-11-02T15:13:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Manager - Data Integrations",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8905040002"
+  },
+  "8905402002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "intermediate backend engineer authorization @ bangalore, india",
+   "location": "Bangalore, India",
+   "posted_at": "2026-11-03T10:30:08+00:00",
+   "posted_history": [
+    "2026-11-03T10:30:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "Intermediate Backend Engineer, Authorization",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8905402002"
+  },
   "8906915002": {
    "closed_at": null,
    "department": "",
@@ -4187,6 +4236,21 @@
    "title": "Senior Executive Assistant",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8919962002"
   },
+  "8920177002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "staff regional marketing manager west @ remote, canada; remote, united states",
+   "location": "Remote, Canada; Remote, United States",
+   "posted_at": "2026-11-02T16:47:10+00:00",
+   "posted_history": [
+    "2026-11-02T16:47:10+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Regional Marketing Manager, West",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8920177002"
+  },
   "8920912002": {
    "closed_at": null,
    "department": "",
@@ -4336,6 +4400,21 @@
    "reopened": 0,
    "title": "Intermediate Data Engineer",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8924923002"
+  },
+  "8926435002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "senior ecosystems sales manager scale india @ remote, india",
+   "location": "Remote, India",
+   "posted_at": "2026-11-02T22:15:51+00:00",
+   "posted_history": [
+    "2026-11-02T22:15:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Ecosystems Sales Manager: Scale, India",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8926435002"
   }
  }
 }

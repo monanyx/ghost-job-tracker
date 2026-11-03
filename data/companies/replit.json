@@ -59,6 +59,10 @@
   {
    "date": "2026-11-02",
    "open": 34
+  },
+  {
+   "date": "2026-11-03",
+   "open": 34
   }
  ],
  "jobs": {
@@ -77,6 +81,21 @@
    "reopened": 1,
    "title": "Engineering Manager, Mobile",
    "url": "https://jobs.ashbyhq.com/replit/0170f630-f7c9-4471-8d2f-8c55fb184206"
+  },
+  "08062c98-b99a-4839-ab55-725fadc0c4da": {
+   "closed_at": null,
+   "department": "GTM",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "enterprise account executive @ remote - united kingdom",
+   "location": "Remote - United Kingdom",
+   "posted_at": "2026-11-02T23:08:43+00:00",
+   "posted_history": [
+    "2026-11-02T23:08:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Account Executive (London)",
+   "url": "https://jobs.ashbyhq.com/replit/08062c98-b99a-4839-ab55-725fadc0c4da"
   },
   "0a94327b-52c0-41d1-931f-b2aca5e90c1f": {
    "closed_at": null,
@@ -215,7 +234,7 @@
    "url": "https://jobs.ashbyhq.com/replit/2b4e24d0-7410-4641-9618-77db328ed761"
   },
   "2b5f50b9-0c83-46de-b795-aa71a50f85ae": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "GTM",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -365,17 +384,18 @@
    "url": "https://jobs.ashbyhq.com/replit/4df82fb0-0bcb-4034-89ce-09e679b00fe7"
   },
   "4e64e46f-f69d-4454-89b6-bd27302a464d": {
-   "closed_at": "2026-10-24T08:24:32+00:00",
+   "closed_at": null,
    "department": "User Operations",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "support engineer i @ nyc (soho)",
    "location": "NYC (SoHo)",
-   "posted_at": "2026-09-23T17:26:02+00:00",
+   "posted_at": "2026-11-02T18:12:14+00:00",
    "posted_history": [
-    "2026-09-23T17:26:02+00:00"
+    "2026-09-23T17:26:02+00:00",
+    "2026-11-02T18:12:14+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Support Engineer I (NYC, Weekend Shift)",
    "url": "https://jobs.ashbyhq.com/replit/4e64e46f-f69d-4454-89b6-bd27302a464d"
   },
@@ -516,7 +536,7 @@
    "url": "https://jobs.ashbyhq.com/replit/7b4bc2fe-5860-4f56-8746-aabb852cf0e1"
   },
   "7c3c9d29-cec2-4367-8564-eadaed165aea": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -651,22 +671,23 @@
    "url": "https://jobs.ashbyhq.com/replit/9398cc6a-8e30-4bfe-a6c3-59e8b384a848"
   },
   "951e0ebb-a957-45fa-8763-d56ba46750b4": {
-   "closed_at": "2026-10-24T08:24:32+00:00",
+   "closed_at": null,
    "department": "User Operations",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "support engineer i @ foster city, ca",
    "location": "Foster City, CA",
-   "posted_at": "2026-09-23T17:26:00+00:00",
+   "posted_at": "2026-11-02T18:12:17+00:00",
    "posted_history": [
-    "2026-09-23T17:26:00+00:00"
+    "2026-09-23T17:26:00+00:00",
+    "2026-11-02T18:12:17+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Support Engineer I (FC, Weekend Shift)",
    "url": "https://jobs.ashbyhq.com/replit/951e0ebb-a957-45fa-8763-d56ba46750b4"
   },
   "999e1432-3edd-453b-b598-ab4b26e1bc5c": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "GTM",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

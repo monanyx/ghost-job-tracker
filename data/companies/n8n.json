@@ -59,6 +59,10 @@
   {
    "date": "2026-11-02",
    "open": 50
+  },
+  {
+   "date": "2026-11-03",
+   "open": 52
   }
  ],
  "jobs": {
@@ -93,17 +97,18 @@
    "url": "https://jobs.ashbyhq.com/n8n/01d9f6ac-4bc2-410d-aa2e-0bc7d471c210"
   },
   "01e97911-afbc-4d4b-bdc7-ea6cd5e51662": {
-   "closed_at": "2026-11-02T11:41:30+00:00",
+   "closed_at": null,
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
    "fp": "enterprise sales leader @ london office",
    "location": "London Office",
-   "posted_at": "2026-10-21T17:06:27+00:00",
+   "posted_at": "2026-11-02T15:47:45+00:00",
    "posted_history": [
-    "2026-10-21T17:06:27+00:00"
+    "2026-10-21T17:06:27+00:00",
+    "2026-11-02T15:47:45+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Enterprise Sales Leader (UK-based)",
    "url": "https://jobs.ashbyhq.com/n8n/01e97911-afbc-4d4b-bdc7-ea6cd5e51662"
   },
@@ -321,7 +326,7 @@
    "url": "https://jobs.ashbyhq.com/n8n/343e9c53-f22c-496b-a26e-46f9f6bb418d"
   },
   "353d6536-bce8-424d-b4d5-8f7f93258fe6": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "Operations",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -379,6 +384,21 @@
    "reopened": 0,
    "title": "Large Enterprise Account Executive US West (Remote US West)",
    "url": "https://jobs.ashbyhq.com/n8n/40332dfe-2da2-4655-b343-87d847134b8e"
+  },
+  "473bcbae-ad3e-4611-8ca3-3499040e5f22": {
+   "closed_at": null,
+   "department": "Product",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "senior product manager ai gateway @ berlin office",
+   "location": "Berlin Office",
+   "posted_at": "2026-11-03T10:09:27+00:00",
+   "posted_history": [
+    "2026-11-03T10:09:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Manager - AI Gateway",
+   "url": "https://jobs.ashbyhq.com/n8n/473bcbae-ad3e-4611-8ca3-3499040e5f22"
   },
   "49e569f0-503e-4e42-a1ba-7e63684e90d3": {
    "closed_at": null,
@@ -1014,6 +1034,21 @@
    "reopened": 0,
    "title": "Staff Core Platform Engineer",
    "url": "https://jobs.ashbyhq.com/n8n/ea8efc33-c7b8-4b88-826c-3dca17c3aa47"
+  },
+  "fe05c209-8069-4a88-aeba-8da23488cd30": {
+   "closed_at": null,
+   "department": "Product",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "senior staff product designer @ germany",
+   "location": "Germany",
+   "posted_at": "2026-11-02T12:54:25+00:00",
+   "posted_history": [
+    "2026-11-02T12:54:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior/Staff Product Designer",
+   "url": "https://jobs.ashbyhq.com/n8n/fe05c209-8069-4a88-aeba-8da23488cd30"
   },
   "fe60fa54-837e-4b52-b64a-a2e8a3f36bf1": {
    "closed_at": null,

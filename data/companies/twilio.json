@@ -59,6 +59,10 @@
   {
    "date": "2026-11-02",
    "open": 135
+  },
+  {
+   "date": "2026-11-03",
+   "open": 133
   }
  ],
  "jobs": {
@@ -952,14 +956,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "principal presales engineer isv @ remote - us",
+   "fp": "principal presales engineer @ remote - us",
    "location": "Remote - US",
    "posted_at": "2026-08-24T18:06:34+00:00",
    "posted_history": [
     "2026-08-24T18:06:34+00:00"
    ],
    "reopened": 0,
-   "title": "Principal Presales Engineer - ISV",
+   "title": "Principal Presales Engineer",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8145984"
   },
   "8157344": {
@@ -1053,7 +1057,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8168599"
   },
   "8170555": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1188,7 +1192,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8178812"
   },
   "8180238": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1372,14 +1376,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "digital sales representative activate @ remote - us",
+   "fp": "digital sales representative @ remote - us",
    "location": "Remote - US",
    "posted_at": "2026-09-16T19:44:50+00:00",
    "posted_history": [
     "2026-09-16T19:44:50+00:00"
    ],
    "reopened": 0,
-   "title": "Digital Sales Representative - Activate",
+   "title": "Digital Sales Representative",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8205254"
   },
   "8206834": {
@@ -1608,7 +1612,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8241250"
   },
   "8241356": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2058,7 +2062,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8261705"
   },
   "8261708": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
@@ -2433,7 +2437,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8319160"
   },
   "8319386": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-02T11:41:30+00:00",
@@ -2582,6 +2586,21 @@
    "title": "Senior Solutions Engineer",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8327839"
   },
+  "8327942": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "digital sales representative expansion @ remote - us",
+   "location": "Remote - US",
+   "posted_at": "2026-11-03T01:43:06+00:00",
+   "posted_history": [
+    "2026-11-03T01:43:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "Digital Sales Representative - Expansion",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8327942"
+  },
   "8330326": {
    "closed_at": null,
    "department": "",
@@ -2611,6 +2630,36 @@
    "reopened": 0,
    "title": "Senior Program Manager, Talent Development",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8332638"
+  },
+  "8337880": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "marketing operations manager @ remote - us",
+   "location": "Remote - US",
+   "posted_at": "2026-11-02T19:01:13+00:00",
+   "posted_history": [
+    "2026-11-02T19:01:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Marketing Operations Manager",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8337880"
+  },
+  "8348199": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "principal manager procurement enablement contingent workforce @ remote - us",
+   "location": "Remote - US",
+   "posted_at": "2026-11-02T22:30:42+00:00",
+   "posted_history": [
+    "2026-11-02T22:30:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Manager, Procurement Enablement & Contingent Workforce",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8348199"
   }
  }
 }

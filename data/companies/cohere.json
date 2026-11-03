@@ -59,6 +59,10 @@
   {
    "date": "2026-11-02",
    "open": 120
+  },
+  {
+   "date": "2026-11-03",
+   "open": 120
   }
  ],
  "jobs": {
@@ -226,6 +230,21 @@
    "reopened": 0,
    "title": "Partner Development Manager - Japan",
    "url": "https://jobs.ashbyhq.com/cohere/1a31d80f-0d8b-475a-a60a-b13393ba8687"
+  },
+  "1a765f7b-ba66-43b1-8b17-86467a897ac4": {
+   "closed_at": null,
+   "department": "Security",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "senior security operations engineer @ united states",
+   "location": "United States",
+   "posted_at": "2026-11-02T21:18:19+00:00",
+   "posted_history": [
+    "2026-11-02T21:18:19+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Security Operations Engineer",
+   "url": "https://jobs.ashbyhq.com/cohere/1a765f7b-ba66-43b1-8b17-86467a897ac4"
   },
   "1b909aeb-1221-476f-88fe-8300a2065975": {
    "closed_at": null,
@@ -1264,7 +1283,7 @@
    "url": "https://jobs.ashbyhq.com/cohere/9b596ab8-0df4-41aa-85da-e07578c082b2"
   },
   "9baccd88-c051-474f-bfe8-6867fca54cee": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "Engineering & Infra",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

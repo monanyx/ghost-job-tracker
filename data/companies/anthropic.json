@@ -59,6 +59,10 @@
   {
    "date": "2026-11-02",
    "open": 678
+  },
+  {
+   "date": "2026-11-03",
+   "open": 676
   }
  ],
  "jobs": {
@@ -588,7 +592,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4976328008"
   },
   "4979585008": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -813,7 +817,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5017903008"
   },
   "5018472008": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1728,7 +1732,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5138289008"
   },
   "5139038008": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2418,7 +2422,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5209661008"
   },
   "5211241008": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2448,7 +2452,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5211297008"
   },
   "5211305008": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2463,7 +2467,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5211305008"
   },
   "5211498008": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2568,7 +2572,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5224564008"
   },
   "5225003008": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2838,7 +2842,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5250052008"
   },
   "5250091008": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4593,7 +4597,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383335008"
   },
   "5383388008": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6181,6 +6185,21 @@
    "reopened": 0,
    "title": "Incident Manager - Detection & Response",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5397749008"
+  },
+  "5397751008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "incident manager detection response @ zürich, ch",
+   "location": "Zürich, CH",
+   "posted_at": "2026-08-21T18:33:13+00:00",
+   "posted_history": [
+    "2026-08-21T18:33:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Incident Manager - Detection & Response",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5397751008"
   },
   "5398218008": {
    "closed_at": null,
@@ -10098,7 +10117,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5452699008"
   },
   "5452859008": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -10582,14 +10601,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "manager of applied ai architecture industries @ paris, france",
+   "fp": "head of southern europe mea applied ai @ paris, france",
    "location": "Paris, France",
    "posted_at": "2026-10-19T15:48:55+00:00",
    "posted_history": [
     "2026-10-19T15:48:55+00:00"
    ],
    "reopened": 0,
-   "title": "Manager of Applied AI Architecture, Industries",
+   "title": "Head of Southern Europe & MEA, Applied AI",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5456581008"
   },
   "5456619008": {
@@ -10743,7 +10762,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5458064008"
   },
   "5458322008": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -10966,6 +10985,21 @@
    "reopened": 0,
    "title": "Regional Research Economist, Economic Research",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5460521008"
+  },
+  "5460524008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "regional research economist economic research @ bangalore, india",
+   "location": "Bangalore, India",
+   "posted_at": "2026-10-22T18:24:10+00:00",
+   "posted_history": [
+    "2026-10-22T18:24:10+00:00"
+   ],
+   "reopened": 0,
+   "title": "Regional Research Economist, Economic Research",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5460524008"
   },
   "5460837008": {
    "closed_at": null,
@@ -11447,6 +11481,21 @@
    "title": "Business Recruiter",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5467425008"
   },
+  "5467561008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "marketing lead claude frontier academy @ san francisco, ca | new york city, ny",
+   "location": "San Francisco, CA | New York City, NY",
+   "posted_at": "2026-11-02T23:14:42+00:00",
+   "posted_history": [
+    "2026-11-02T23:14:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Marketing Lead, Claude Frontier Academy",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5467561008"
+  },
   "5467690008": {
    "closed_at": null,
    "department": "",
@@ -11476,6 +11525,21 @@
    "reopened": 0,
    "title": "Content Strategy Lead, Executive Programs",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468266008"
+  },
+  "5468352008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "data center asset management commercial associate @ san francisco, ca | new york city, ny",
+   "location": "San Francisco, CA | New York City, NY",
+   "posted_at": "2026-11-02T16:43:56+00:00",
+   "posted_history": [
+    "2026-11-02T16:43:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Data Center Asset Management, Commercial Associate",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468352008"
   },
   "5468374008": {
    "closed_at": null,
@@ -11522,6 +11586,21 @@
    "title": "Data Center Electrical Engineer – Design",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468392008"
   },
+  "5468875008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "data center strategic sourcing lead construction @ san francisco, ca | new york city, ny",
+   "location": "San Francisco, CA | New York City, NY",
+   "posted_at": "2026-11-03T03:33:12+00:00",
+   "posted_history": [
+    "2026-11-03T03:33:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Data Center Strategic Sourcing Lead - Construction",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468875008"
+  },
   "5468947008": {
    "closed_at": null,
    "department": "",
@@ -11536,6 +11615,66 @@
    "reopened": 0,
    "title": "Research Engineer / Scientist, Pre-training",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468947008"
+  },
+  "5469337008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "gas supply and transport lead us and canada @ san francisco, ca | new york city, ny",
+   "location": "San Francisco, CA | New York City, NY",
+   "posted_at": "2026-11-02T15:26:06+00:00",
+   "posted_history": [
+    "2026-11-02T15:26:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "Gas Supply and Transport Lead, US and Canada",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5469337008"
+  },
+  "5469339008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "energy special projects @ san francisco, ca | new york city, ny",
+   "location": "San Francisco, CA | New York City, NY",
+   "posted_at": "2026-11-02T15:24:45+00:00",
+   "posted_history": [
+    "2026-11-02T15:24:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Energy Special Projects",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5469339008"
+  },
+  "5469341008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "energy supply lead power supply and ppa @ san francisco, ca | new york city, ny",
+   "location": "San Francisco, CA | New York City, NY",
+   "posted_at": "2026-11-02T15:26:50+00:00",
+   "posted_history": [
+    "2026-11-02T15:26:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Energy Supply  Lead - Power Supply and PPA",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5469341008"
+  },
+  "5469367008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "senior data center pre construction and capacity delivery manager emea @ london, uk",
+   "location": "London, UK",
+   "posted_at": "2026-11-02T14:07:27+00:00",
+   "posted_history": [
+    "2026-11-02T14:07:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Data Center Pre-Construction and Capacity Delivery Manager, EMEA",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5469367008"
   },
   "5469530008": {
    "closed_at": null,

@@ -59,6 +59,10 @@
   {
    "date": "2026-11-02",
    "open": 240
+  },
+  {
+   "date": "2026-11-03",
+   "open": 237
   }
  ],
  "jobs": {
@@ -1698,7 +1702,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7894014003"
   },
   "7895270003": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2043,7 +2047,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7984716003"
   },
   "7985476003": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3168,7 +3172,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8013700003"
   },
   "8015158003": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3752,6 +3756,36 @@
    "title": "Senior Software Engineer, Backend (AI Platform)",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8040269003"
   },
+  "8040271003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "staff software engineer fullstack @ remote us",
+   "location": "Remote US",
+   "posted_at": "2026-11-03T02:35:11+00:00",
+   "posted_history": [
+    "2026-11-03T02:35:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer, Fullstack (Card Experiences)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8040271003"
+  },
+  "8040273003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "staff software engineer fullstack @ remote canada",
+   "location": "Remote Canada",
+   "posted_at": "2026-11-03T02:35:14+00:00",
+   "posted_history": [
+    "2026-11-03T02:35:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer, Fullstack (Card Experiences)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8040273003"
+  },
   "8040378003": {
    "closed_at": null,
    "department": "",
@@ -3948,7 +3982,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8041432003"
   },
   "8041656003": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
@@ -3963,7 +3997,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8041656003"
   },
   "8041662003": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",

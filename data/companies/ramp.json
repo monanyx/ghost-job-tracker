@@ -59,6 +59,10 @@
   {
    "date": "2026-11-02",
    "open": 172
+  },
+  {
+   "date": "2026-11-03",
+   "open": 170
   }
  ],
  "jobs": {
@@ -213,7 +217,7 @@
    "url": "https://jobs.ashbyhq.com/ramp/0d731586-3626-48fb-9dc5-3061ae5fd240"
   },
   "1285aefc-d2c4-4f7c-8357-6e8f97fb22d4": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "Customer Experience",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -468,7 +472,7 @@
    "url": "https://jobs.ashbyhq.com/ramp/2c101be9-f4b8-4a63-a634-9798d9a09eaa"
   },
   "2cfd7ba3-07ba-4dd9-9446-522eae0fe32d": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "Compliance",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1216,6 +1220,21 @@
    "reopened": 0,
    "title": "Senior Scaled Customer Activation Manager | Canada",
    "url": "https://jobs.ashbyhq.com/ramp/70958953-f10f-4dba-a606-80a10f80a8f6"
+  },
+  "70c26b31-1afb-4fab-b3d3-019261d428c2": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "customer activation manager accounts receivable @ new york, ny (hq)",
+   "location": "New York, NY (HQ)",
+   "posted_at": "2026-11-02T14:04:22+00:00",
+   "posted_history": [
+    "2026-11-02T14:04:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Activation Manager | Accounts Receivable",
+   "url": "https://jobs.ashbyhq.com/ramp/70c26b31-1afb-4fab-b3d3-019261d428c2"
   },
   "72ba7873-254f-45dc-9e7b-595c9d1f8acf": {
    "closed_at": null,
@@ -2389,7 +2408,7 @@
    "url": "https://jobs.ashbyhq.com/ramp/cf3516f6-4d6b-4872-831f-c8ef4a3078ee"
   },
   "d1183b00-6590-4fe4-a585-28d84e578fe3": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2492,6 +2511,21 @@
    "reopened": 0,
    "title": "Account Manager | Mid-Market",
    "url": "https://jobs.ashbyhq.com/ramp/d84bbf19-572a-499c-9c87-0c154ce85caf"
+  },
+  "d8925f84-562f-470c-a5bd-4f6c20009361": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "research engineer benchmarks evaluation @ new york, ny (hq)",
+   "location": "New York, NY (HQ)",
+   "posted_at": "2026-11-03T00:39:43+00:00",
+   "posted_history": [
+    "2026-11-03T00:39:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Research Engineer, Benchmarks & Evaluation",
+   "url": "https://jobs.ashbyhq.com/ramp/d8925f84-562f-470c-a5bd-4f6c20009361"
   },
   "dba53e68-4c96-449d-af4d-27dc475b814c": {
    "closed_at": null,
@@ -2869,7 +2903,7 @@
    "url": "https://jobs.ashbyhq.com/ramp/fcf118cc-521a-4a62-9d13-945e5b6e3cb8"
   },
   "fddcfe54-6fd2-4091-bf9c-346f35606cc9": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "Finance",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

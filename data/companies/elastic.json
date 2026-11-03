@@ -59,6 +59,10 @@
   {
    "date": "2026-11-02",
    "open": 410
+  },
+  {
+   "date": "2026-11-03",
+   "open": 409
   }
  ],
  "jobs": {
@@ -1053,7 +1057,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8053209&gh_jid=8053209"
   },
   "8053886": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1293,7 +1297,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8070011&gh_jid=8070011"
   },
   "8074285": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1981,6 +1985,21 @@
    "reopened": 0,
    "title": "Strategic Account Executive - AI Natives - West",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8114256&gh_jid=8114256"
+  },
+  "8119448": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "senior manager endpoint protections @ united states",
+   "location": "United States",
+   "posted_at": "2026-08-11T13:27:01+00:00",
+   "posted_history": [
+    "2026-08-11T13:27:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Endpoint Protections",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8119448&gh_jid=8119448"
   },
   "8119450": {
    "closed_at": null,
@@ -3122,6 +3141,66 @@
    "title": "Senior Software Engineer - Vector Search - Elasticsearch",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8161696&gh_jid=8161696"
   },
+  "8161819": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "senior manager endpoint protections @ canada",
+   "location": "Canada",
+   "posted_at": "2026-08-27T15:12:50+00:00",
+   "posted_history": [
+    "2026-08-27T15:12:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Endpoint Protections",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8161819&gh_jid=8161819"
+  },
+  "8161821": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "senior manager endpoint protections @ spain",
+   "location": "Spain",
+   "posted_at": "2026-08-27T15:13:29+00:00",
+   "posted_history": [
+    "2026-08-27T15:13:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Endpoint Protections",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8161821&gh_jid=8161821"
+  },
+  "8161836": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "senior security research engineer @ canada",
+   "location": "Canada",
+   "posted_at": "2026-08-27T15:19:36+00:00",
+   "posted_history": [
+    "2026-08-27T15:19:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Security Research Engineer",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8161836&gh_jid=8161836"
+  },
+  "8161837": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "senior security research engineer @ spain",
+   "location": "Spain",
+   "posted_at": "2026-08-27T15:20:00+00:00",
+   "posted_history": [
+    "2026-08-27T15:20:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Security Research Engineer",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8161837&gh_jid=8161837"
+  },
   "8162358": {
    "closed_at": null,
    "department": "",
@@ -3423,7 +3502,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8166580&gh_jid=8166580"
   },
   "8166582": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3513,7 +3592,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8170923&gh_jid=8170923"
   },
   "8171219": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3768,7 +3847,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8180497&gh_jid=8180497"
   },
   "8180970": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4488,7 +4567,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8224761&gh_jid=8224761"
   },
   "8225981": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4503,7 +4582,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8225981&gh_jid=8225981"
   },
   "8225984": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4518,7 +4597,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8225984&gh_jid=8225984"
   },
   "8225986": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4593,7 +4672,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8227107&gh_jid=8227107"
   },
   "8227130": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4683,7 +4762,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8232338&gh_jid=8232338"
   },
   "8232554": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4698,7 +4777,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8232554&gh_jid=8232554"
   },
   "8232557": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4713,7 +4792,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8232557&gh_jid=8232557"
   },
   "8232596": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4803,7 +4882,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8237466&gh_jid=8237466"
   },
   "8237600": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4818,7 +4897,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8237600&gh_jid=8237600"
   },
   "8237601": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4833,7 +4912,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8237601&gh_jid=8237601"
   },
   "8237605": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4936,6 +5015,21 @@
    "reopened": 0,
    "title": "Security Sales Executive",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8239273&gh_jid=8239273"
+  },
+  "8239296": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "enterprise account executive pnw @ washington, united states",
+   "location": "Washington, United States",
+   "posted_at": "2026-11-02T17:42:29+00:00",
+   "posted_history": [
+    "2026-11-02T17:42:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Account Executive - PNW",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8239296&gh_jid=8239296"
   },
   "8239653": {
    "closed_at": null,
@@ -6107,6 +6201,21 @@
    "title": "Software Engineering Manager - Global UX - Applications - Platform",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8301334&gh_jid=8301334"
   },
+  "8301469": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "federal account executive usps @ washington, dc, united states",
+   "location": "Washington, DC, United States",
+   "posted_at": "2026-11-02T18:40:11+00:00",
+   "posted_history": [
+    "2026-11-02T18:40:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Federal Account Executive - USPS",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8301469&gh_jid=8301469"
+  },
   "8301538": {
    "closed_at": null,
    "department": "",
@@ -6753,7 +6862,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8317779&gh_jid=8317779"
   },
   "8318182": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
@@ -6766,6 +6875,21 @@
    "reopened": 0,
    "title": "Regional Vice President – UK Defence & National Security",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8318182&gh_jid=8318182"
+  },
+  "8318187": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "senior engineering manager agents and context platform @ united kingdom",
+   "location": "United Kingdom",
+   "posted_at": "2026-11-02T15:48:39+00:00",
+   "posted_history": [
+    "2026-11-02T15:48:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Engineering Manager - Agents and Context - Platform",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8318187&gh_jid=8318187"
   },
   "8318605": {
    "closed_at": null,
@@ -7006,6 +7130,111 @@
    "reopened": 0,
    "title": "Senior Full Stack Engineer - Observability APM UI",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8345720&gh_jid=8345720"
+  },
+  "8346195": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "senior engineering manager agents and context platform @ spain",
+   "location": "Spain",
+   "posted_at": "2026-11-02T15:48:41+00:00",
+   "posted_history": [
+    "2026-11-02T15:48:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Engineering Manager - Agents and Context - Platform",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8346195&gh_jid=8346195"
+  },
+  "8346196": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "senior engineering manager agents and context platform @ ireland",
+   "location": "Ireland",
+   "posted_at": "2026-11-02T15:48:43+00:00",
+   "posted_history": [
+    "2026-11-02T15:48:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Engineering Manager - Agents and Context - Platform",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8346196&gh_jid=8346196"
+  },
+  "8346201": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "senior engineering manager agents and context platform @ poland",
+   "location": "Poland",
+   "posted_at": "2026-11-02T15:48:46+00:00",
+   "posted_history": [
+    "2026-11-02T15:48:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Engineering Manager - Agents and Context - Platform",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8346201&gh_jid=8346201"
+  },
+  "8346209": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "senior engineering manager agents and context platform @ greece",
+   "location": "Greece",
+   "posted_at": "2026-11-02T15:50:19+00:00",
+   "posted_history": [
+    "2026-11-02T15:50:19+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Engineering Manager - Agents and Context - Platform",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8346209&gh_jid=8346209"
+  },
+  "8346244": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "rvp uk defence and inteligence @ united kingdom",
+   "location": "United Kingdom",
+   "posted_at": "2026-11-03T10:46:14+00:00",
+   "posted_history": [
+    "2026-11-03T10:46:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "RVP - UK Defence and Inteligence",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8346244&gh_jid=8346244"
+  },
+  "8346541": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "enterprise account executive overlay pnw @ oregon, united states",
+   "location": "Oregon, United States",
+   "posted_at": "2026-11-02T17:44:18+00:00",
+   "posted_history": [
+    "2026-11-02T17:44:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Account Executive - Overlay - PNW",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8346541&gh_jid=8346541"
+  },
+  "8347901": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "senior security research engineer @ united states",
+   "location": "United States",
+   "posted_at": "2026-11-02T21:11:23+00:00",
+   "posted_history": [
+    "2026-11-02T21:11:23+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Security Research Engineer",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8347901&gh_jid=8347901"
   }
  }
 }

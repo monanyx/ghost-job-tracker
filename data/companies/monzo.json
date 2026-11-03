@@ -59,6 +59,10 @@
   {
    "date": "2026-11-02",
    "open": 63
+  },
+  {
+   "date": "2026-11-03",
+   "open": 58
   }
  ],
  "jobs": {
@@ -618,7 +622,7 @@
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8092745"
   },
   "8098655": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -633,7 +637,7 @@
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8098655"
   },
   "8098915": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -708,7 +712,7 @@
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8121253"
   },
   "8132044": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -797,8 +801,23 @@
    "title": "Senior Financial Control Analyst",
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8158933"
   },
-  "8168952": {
+  "8164092": {
    "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "senior financial crime analyst @ cardiff, london or remote (uk)",
+   "location": "Cardiff, London or Remote (UK)",
+   "posted_at": "2026-09-02T08:53:18+00:00",
+   "posted_history": [
+    "2026-09-02T08:53:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Financial Crime Analyst",
+   "url": "https://job-boards.greenhouse.io/monzo/jobs/8164092"
+  },
+  "8168952": {
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -858,7 +877,7 @@
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8185694"
   },
   "8195436": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -918,7 +937,7 @@
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8207682"
   },
   "8212919": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
@@ -1218,7 +1237,7 @@
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8288904"
   },
   "8300323": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1426,6 +1445,21 @@
    "reopened": 0,
    "title": "Information Security Manager",
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8336434"
+  },
+  "8346170": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "senior fraud investigator prevent @ london",
+   "location": "London",
+   "posted_at": "2026-11-03T09:59:05+00:00",
+   "posted_history": [
+    "2026-11-03T09:59:05+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Fraud Investigator, Prevent",
+   "url": "https://job-boards.greenhouse.io/monzo/jobs/8346170"
   }
  }
 }

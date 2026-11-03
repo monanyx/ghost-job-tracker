@@ -59,6 +59,10 @@
   {
    "date": "2026-11-02",
    "open": 33
+  },
+  {
+   "date": "2026-11-03",
+   "open": 36
   }
  ],
  "jobs": {
@@ -121,6 +125,21 @@
    "reopened": 0,
    "title": "Associate, Phone Support - DACH",
    "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4721614101"
+  },
+  "4834634101": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "seo and web growth manager @ barcelona, spain",
+   "location": "Barcelona, Spain",
+   "posted_at": "2026-09-25T09:06:33+00:00",
+   "posted_history": [
+    "2026-09-25T09:06:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "SEO and Web Growth Manager",
+   "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4834634101"
   },
   "4867987101": {
    "closed_at": null,
@@ -318,34 +337,64 @@
    "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4969789101"
   },
   "4983426101": {
-   "closed_at": "2026-10-31T09:57:28+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "manager growth analytics @ vienna, vienna, austria",
-   "location": "Vienna, Vienna, Austria",
+   "fp": "manager growth analytics @ kraków, lesser poland voivodeship, poland",
+   "location": "Kraków, Lesser Poland Voivodeship, Poland",
    "posted_at": "2026-09-25T09:01:41+00:00",
    "posted_history": [
     "2026-09-25T09:01:41+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Manager, Growth Analytics",
    "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4983426101"
   },
   "4987239101": {
-   "closed_at": "2026-10-31T09:57:28+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "manager growth analytics @ bucurești, bucharest, romania",
-   "location": "București, Bucharest, Romania",
+   "fp": "manager growth analytics @ barcelona, spain",
+   "location": "Barcelona, Spain",
    "posted_at": "2026-09-25T09:01:44+00:00",
    "posted_history": [
     "2026-09-25T09:01:44+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Manager, Growth Analytics",
    "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4987239101"
+  },
+  "4987243101": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "seo and web growth manager @ kraków, lesser poland voivodeship, poland",
+   "location": "Kraków, Lesser Poland Voivodeship, Poland",
+   "posted_at": "2026-09-25T09:06:35+00:00",
+   "posted_history": [
+    "2026-09-25T09:06:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "SEO and Web Growth Manager",
+   "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4987243101"
+  },
+  "4987248101": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-03T11:21:29+00:00",
+   "fp": "senior performance marketing specialist @ barcelona, spain",
+   "location": "Barcelona, Spain",
+   "posted_at": "2026-09-25T09:14:08+00:00",
+   "posted_history": [
+    "2026-09-25T09:14:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Performance Marketing Specialist",
+   "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4987248101"
   },
   "4987398101": {
    "closed_at": null,
@@ -378,7 +427,7 @@
    "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4988644101"
   },
   "4988645101": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -397,8 +446,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "specialist information security @ vienna, vienna, austria",
-   "location": "Vienna, Vienna, Austria",
+   "fp": "specialist information security @ barcelona, spain; berlin, berlin, germany; bucurești, bucharest, romania; vienna, vienna, austria",
+   "location": "Barcelona, Spain; Berlin, Berlin, Germany; București, Bucharest, Romania; Vienna, Vienna, Austria",
    "posted_at": "2026-10-09T09:41:28+00:00",
    "posted_history": [
     "2026-10-09T09:41:28+00:00"
@@ -408,7 +457,7 @@
    "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4989603101"
   },
   "4989839101": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -427,8 +476,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "lead information security @ vienna, vienna, austria",
-   "location": "Vienna, Vienna, Austria",
+   "fp": "lead information security @ barcelona, spain; berlin, berlin, germany; bucurești, bucharest, romania; vienna, vienna, austria",
+   "location": "Barcelona, Spain; Berlin, Berlin, Germany; București, Bucharest, Romania; Vienna, Vienna, Austria",
    "posted_at": "2026-10-09T09:41:25+00:00",
    "posted_history": [
     "2026-10-09T09:41:25+00:00"
@@ -532,8 +581,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior specialist information security @ vienna, vienna, austria",
-   "location": "Vienna, Vienna, Austria",
+   "fp": "senior specialist information security @ barcelona, spain; berlin, berlin, germany; bucurești, bucharest, romania; vienna, vienna, austria",
+   "location": "Barcelona, Spain; Berlin, Berlin, Germany; București, Bucharest, Romania; Vienna, Vienna, Austria",
    "posted_at": "2026-10-12T10:26:59+00:00",
    "posted_history": [
     "2026-10-12T10:26:59+00:00"
@@ -697,8 +746,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-02T11:41:30+00:00",
-   "fp": "expert information security @ vienna, vienna, austria",
-   "location": "Vienna, Vienna, Austria",
+   "fp": "expert information security @ barcelona, spain; berlin, berlin, germany; bucurești, bucharest, romania; vienna, vienna, austria",
+   "location": "Barcelona, Spain; Berlin, Berlin, Germany; București, Bucharest, Romania; Vienna, Vienna, Austria",
    "posted_at": "2026-11-02T08:39:58+00:00",
    "posted_history": [
     "2026-11-02T08:39:58+00:00"

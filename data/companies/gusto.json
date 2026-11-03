@@ -59,6 +59,10 @@
   {
    "date": "2026-11-02",
    "open": 84
+  },
+  {
+   "date": "2026-11-03",
+   "open": 84
   }
  ],
  "jobs": {
@@ -363,7 +367,7 @@
    "url": "https://job-boards.greenhouse.io/gusto/jobs/7943169"
   },
   "7947424": {
-   "closed_at": null,
+   "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1128,7 +1132,7 @@
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8180461"
   },
   "8189814": {
-   "closed_at": "2026-10-29T10:25:29+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1138,7 +1142,7 @@
    "posted_history": [
     "2026-09-09T22:01:06+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Partner Manager, Gusto Pro",
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8189814"
   },
