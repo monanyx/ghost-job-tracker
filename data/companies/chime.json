@@ -63,6 +63,10 @@
   {
    "date": "2026-11-03",
    "open": 74
+  },
+  {
+   "date": "2026-11-04",
+   "open": 72
   }
  ],
  "jobs": {
@@ -442,7 +446,7 @@
    "url": "https://boards.greenhouse.io/chime/jobs/8657011002?gh_jid=8657011002"
   },
   "8681193002": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -682,7 +686,7 @@
    "url": "https://boards.greenhouse.io/chime/jobs/8788322002?gh_jid=8788322002"
   },
   "8790029002": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -941,14 +945,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
-   "fp": "software engineer jade ai financial partner @ san francisco, ca, usa",
+   "fp": "software engineer jade foundation ai financial partner @ san francisco, ca, usa",
    "location": "San Francisco, CA, USA",
    "posted_at": "2026-10-31T00:06:33+00:00",
    "posted_history": [
     "2026-10-31T00:06:33+00:00"
    ],
    "reopened": 0,
-   "title": "Software Engineer, Jade - AI Financial Partner",
+   "title": "Software Engineer, Jade Foundation - AI Financial Partner",
    "url": "https://boards.greenhouse.io/chime/jobs/8868948002?gh_jid=8868948002"
   },
   "8868950002": {
@@ -1207,7 +1211,7 @@
    "url": "https://boards.greenhouse.io/chime/jobs/8895837002?gh_jid=8895837002"
   },
   "8900226002": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -1331,14 +1335,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
-   "fp": "software engineer membership experience @ san francisco, ca, usa",
+   "fp": "software engineer jade awareness ai financial partner @ san francisco, ca, usa",
    "location": "San Francisco, CA, USA",
    "posted_at": "2026-10-31T00:07:32+00:00",
    "posted_history": [
     "2026-10-31T00:07:32+00:00"
    ],
    "reopened": 0,
-   "title": "Software Engineer, Membership Experience",
+   "title": "Software Engineer, Jade Awareness - AI Financial Partner",
    "url": "https://boards.greenhouse.io/chime/jobs/8922481002?gh_jid=8922481002"
   },
   "8922747002": {
@@ -1355,6 +1359,21 @@
    "reopened": 0,
    "title": "Sr. CRM Operations Manager",
    "url": "https://boards.greenhouse.io/chime/jobs/8922747002?gh_jid=8922747002"
+  },
+  "8929507002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "sr growth product marketing manager chime enterprise @ new york, ny, usa",
+   "location": "New York, NY, USA",
+   "posted_at": "2026-11-04T00:08:36+00:00",
+   "posted_history": [
+    "2026-11-04T00:08:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Growth Product Marketing Manager, Chime Enterprise",
+   "url": "https://boards.greenhouse.io/chime/jobs/8929507002?gh_jid=8929507002"
   }
  }
 }

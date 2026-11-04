@@ -63,6 +63,10 @@
   {
    "date": "2026-11-03",
    "open": 144
+  },
+  {
+   "date": "2026-11-04",
+   "open": 145
   }
  ],
  "jobs": {
@@ -1627,7 +1631,7 @@
    "url": "https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004"
   },
   "6178857004": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2676,6 +2680,21 @@
    "title": "Sales Recruiter (London, United Kingdom)",
    "url": "https://boards.greenhouse.io/figma/jobs/6238252004?gh_jid=6238252004"
   },
+  "6239153004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "people partner @ san francisco, ca • new york, ny • united states",
+   "location": "San Francisco, CA • New York, NY • United States",
+   "posted_at": "2026-11-03T16:18:41+00:00",
+   "posted_history": [
+    "2026-11-03T16:18:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "People Partner",
+   "url": "https://boards.greenhouse.io/figma/jobs/6239153004?gh_jid=6239153004"
+  },
   "6239628004": {
    "closed_at": null,
    "department": "",
@@ -2690,6 +2709,21 @@
    "reopened": 0,
    "title": "Technical Recruiter (London, United Kingdom)",
    "url": "https://boards.greenhouse.io/figma/jobs/6239628004?gh_jid=6239628004"
+  },
+  "6240900004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "people operations coordinator @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-03T20:20:53+00:00",
+   "posted_history": [
+    "2026-11-03T20:20:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "People Operations Coordinator",
+   "url": "https://boards.greenhouse.io/figma/jobs/6240900004?gh_jid=6240900004"
   }
  }
 }

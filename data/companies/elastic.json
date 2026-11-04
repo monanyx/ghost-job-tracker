@@ -63,6 +63,10 @@
   {
    "date": "2026-11-03",
    "open": 409
+  },
+  {
+   "date": "2026-11-04",
+   "open": 422
   }
  ],
  "jobs": {
@@ -906,6 +910,21 @@
    "title": "Enterprise Account Executive",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8035004&gh_jid=8035004"
   },
+  "8037179": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "senior director of product marketing observability @ united states",
+   "location": "United States",
+   "posted_at": "2026-08-06T23:26:02+00:00",
+   "posted_history": [
+    "2026-08-06T23:26:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Director of Product Marketing, Observability",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8037179&gh_jid=8037179"
+  },
   "8040943": {
    "closed_at": null,
    "department": "",
@@ -1297,7 +1316,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8070011&gh_jid=8070011"
   },
   "8074285": {
-   "closed_at": "2026-11-03T11:21:29+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1307,7 +1326,7 @@
    "posted_history": [
     "2026-07-20T15:04:11+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Java Developer - Core/Infra - Elasticsearch",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8074285&gh_jid=8074285"
   },
@@ -1552,7 +1571,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8082617&gh_jid=8082617"
   },
   "8084261": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1777,7 +1796,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8103695&gh_jid=8103695"
   },
   "8104333": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2196,6 +2215,21 @@
    "title": "Principal Software Engineer (Networking) - Platform Infra",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8125987&gh_jid=8125987"
   },
+  "8126357": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "senior go kubernetes engineer core infra elasticsearch @ united states",
+   "location": "United States",
+   "posted_at": "2026-11-04T09:23:24+00:00",
+   "posted_history": [
+    "2026-11-04T09:23:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Go/Kubernetes Engineer - Core/Infra -  Elasticsearch",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8126357&gh_jid=8126357"
+  },
   "8127255": {
    "closed_at": null,
    "department": "",
@@ -2426,14 +2460,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "consulting architect security siem @ australia",
+   "fp": "principal consulting architect observability @ australia",
    "location": "Australia",
    "posted_at": "2026-08-24T05:29:58+00:00",
    "posted_history": [
     "2026-08-24T05:29:58+00:00"
    ],
    "reopened": 0,
-   "title": "Consulting Architect - Security/SIEM (Canberra)",
+   "title": "Principal Consulting Architect - Observability (Canberra)",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8138599&gh_jid=8138599"
   },
   "8138661": {
@@ -2797,7 +2831,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8158597&gh_jid=8158597"
   },
   "8161139": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3577,7 +3611,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8169102&gh_jid=8169102"
   },
   "8170923": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3877,7 +3911,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8186104&gh_jid=8186104"
   },
   "8186429": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4296,6 +4330,36 @@
    "title": "Principal Software Engineer - Search Infra - Elasticsearch",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8213963&gh_jid=8213963"
   },
+  "8214106": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "senior director of product management endpoint security xdr @ united states",
+   "location": "United States",
+   "posted_at": "2026-09-18T18:21:56+00:00",
+   "posted_history": [
+    "2026-09-18T18:21:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Director of Product Management, Endpoint Security & XDR",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8214106&gh_jid=8214106"
+  },
+  "8214187": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "senior director of product management endpoint security xdr @ canada",
+   "location": "Canada",
+   "posted_at": "2026-09-18T18:22:32+00:00",
+   "posted_history": [
+    "2026-09-18T18:22:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Director of Product Management, Endpoint Security & XDR",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8214187&gh_jid=8214187"
+  },
   "8214345": {
    "closed_at": null,
    "department": "",
@@ -4655,6 +4719,21 @@
    "reopened": 0,
    "title": "Enterprise Account Executive",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8226633&gh_jid=8226633"
+  },
+  "8227060": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "senior platform productivity engineer core infra elasticsearch @ united states",
+   "location": "United States",
+   "posted_at": "2026-11-04T09:17:55+00:00",
+   "posted_history": [
+    "2026-11-04T09:17:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Platform Productivity Engineer - Core/Infra - Elasticsearch",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8227060&gh_jid=8227060"
   },
   "8227107": {
    "closed_at": null,
@@ -5441,14 +5520,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "full stack senior software engineer @ united states",
+   "fp": "sr software engineer it software engineering @ united states",
    "location": "United States",
    "posted_at": "2026-10-05T22:48:51+00:00",
    "posted_history": [
     "2026-10-05T22:48:51+00:00"
    ],
    "reopened": 0,
-   "title": "Full-Stack Senior Software Engineer",
+   "title": "Sr. Software Engineer - IT Software Engineering",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8257322&gh_jid=8257322"
   },
   "8258750": {
@@ -5690,6 +5769,21 @@
    "reopened": 0,
    "title": "Marketing AI Engineer",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8265123&gh_jid=8265123"
+  },
+  "8266933": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "territory account executive west @ united states",
+   "location": "United States",
+   "posted_at": "2026-11-03T15:27:00+00:00",
+   "posted_history": [
+    "2026-11-03T15:27:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Territory Account Executive - West",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8266933&gh_jid=8266933"
   },
   "8267185": {
    "closed_at": null,
@@ -6246,6 +6340,21 @@
    "title": "Principal Competitive Intelligence Manager - Security",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8302154&gh_jid=8302154"
   },
+  "8302518": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "partner solutions architect public sector @ washington, dc, united states",
+   "location": "Washington, DC, United States",
+   "posted_at": "2026-11-03T19:19:47+00:00",
+   "posted_history": [
+    "2026-11-03T19:19:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Partner Solutions Architect - Public Sector",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8302518&gh_jid=8302518"
+  },
   "8303147": {
    "closed_at": null,
    "department": "",
@@ -6363,7 +6472,7 @@
     "2026-10-28T18:03:40+00:00"
    ],
    "reopened": 0,
-   "title": "Principal Analyst Sales, Compensation Systems & Administration",
+   "title": "Principal Analyst, Sales Compensation Systems & Administration",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8303741&gh_jid=8303741"
   },
   "8303806": {
@@ -6996,6 +7105,21 @@
    "title": "Channel Account Representative - Enterprise East",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8325182&gh_jid=8325182"
   },
+  "8325389": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "consulting architect @ united states",
+   "location": "United States",
+   "posted_at": "2026-11-04T00:48:14+00:00",
+   "posted_history": [
+    "2026-11-04T00:48:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Consulting Architect",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8325389&gh_jid=8325389"
+  },
   "8327970": {
    "closed_at": null,
    "department": "",
@@ -7025,6 +7149,21 @@
    "reopened": 0,
    "title": "Principal Product Manager, Security Pricing and Packaging (Serverless) - Security Solutions",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8332655&gh_jid=8332655"
+  },
+  "8336443": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "enterprise account executive @ austria",
+   "location": "Austria",
+   "posted_at": "2026-11-03T17:17:31+00:00",
+   "posted_history": [
+    "2026-11-03T17:17:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Account Executive",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8336443&gh_jid=8336443"
   },
   "8337721": {
    "closed_at": null,
@@ -7235,6 +7374,126 @@
    "reopened": 0,
    "title": "Senior Security Research Engineer",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8347901&gh_jid=8347901"
+  },
+  "8349970": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "senior recruiter g a marketing @ canada",
+   "location": "Canada",
+   "posted_at": "2026-11-03T16:34:35+00:00",
+   "posted_history": [
+    "2026-11-03T16:34:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Recruiter, G&A + Marketing",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8349970&gh_jid=8349970"
+  },
+  "8350647": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "partner solutions architect public sector @ florida, united states",
+   "location": "Florida, United States",
+   "posted_at": "2026-11-03T19:25:28+00:00",
+   "posted_history": [
+    "2026-11-03T19:25:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Partner Solutions Architect - Public Sector",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8350647&gh_jid=8350647"
+  },
+  "8352171": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "senior java engineer core infra elasticsearch @ poland",
+   "location": "Poland",
+   "posted_at": "2026-11-04T09:08:37+00:00",
+   "posted_history": [
+    "2026-11-04T09:08:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Java Engineer - Core/Infra - Elasticsearch",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8352171&gh_jid=8352171"
+  },
+  "8352180": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "senior java engineer core infra elasticsearch @ united states",
+   "location": "United States",
+   "posted_at": "2026-11-04T09:09:18+00:00",
+   "posted_history": [
+    "2026-11-04T09:09:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Java Engineer - Core/Infra - Elasticsearch",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8352180&gh_jid=8352180"
+  },
+  "8352181": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "senior java engineer core infra elasticsearch @ united kingdom",
+   "location": "United Kingdom",
+   "posted_at": "2026-11-04T09:10:16+00:00",
+   "posted_history": [
+    "2026-11-04T09:10:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Java Engineer - Core/Infra - Elasticsearch",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8352181&gh_jid=8352181"
+  },
+  "8352182": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "senior java engineer core infra elasticsearch @ spain",
+   "location": "Spain",
+   "posted_at": "2026-11-04T09:10:47+00:00",
+   "posted_history": [
+    "2026-11-04T09:10:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Java Engineer - Core/Infra - Elasticsearch",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8352182&gh_jid=8352182"
+  },
+  "8352185": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "senior platform productivity engineer core infra elasticsearch @ canada",
+   "location": "Canada",
+   "posted_at": "2026-11-04T09:17:57+00:00",
+   "posted_history": [
+    "2026-11-04T09:17:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Platform Productivity Engineer - Core/Infra - Elasticsearch",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8352185&gh_jid=8352185"
+  },
+  "8352187": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "senior go kubernetes engineer core infra elasticsearch @ canada",
+   "location": "Canada",
+   "posted_at": "2026-11-04T09:48:25+00:00",
+   "posted_history": [
+    "2026-11-04T09:48:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Go/Kubernetes Engineer - Core/Infra -  Elasticsearch",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8352187&gh_jid=8352187"
   }
  }
 }

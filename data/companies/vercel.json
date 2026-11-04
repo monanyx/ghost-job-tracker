@@ -63,6 +63,10 @@
   {
    "date": "2026-11-03",
    "open": 89
+  },
+  {
+   "date": "2026-11-04",
+   "open": 88
   }
  ],
  "jobs": {
@@ -937,7 +941,7 @@
    "url": "https://job-boards.greenhouse.io/vercel/jobs/6131210004"
   },
   "6132416004": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1072,7 +1076,7 @@
    "url": "https://job-boards.greenhouse.io/vercel/jobs/6148624004"
   },
   "6160974004": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1177,7 +1181,7 @@
    "url": "https://job-boards.greenhouse.io/vercel/jobs/6183272004"
   },
   "6188400004": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1640,6 +1644,36 @@
    "reopened": 0,
    "title": "Software Engineer, Compute",
    "url": "https://job-boards.greenhouse.io/vercel/jobs/6240736004"
+  },
+  "6242244004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "software engineer connect @ hybrid - san francisco",
+   "location": "Hybrid - San Francisco",
+   "posted_at": "2026-11-03T16:30:13+00:00",
+   "posted_history": [
+    "2026-11-03T16:30:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Connect",
+   "url": "https://job-boards.greenhouse.io/vercel/jobs/6242244004"
+  },
+  "6242246004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "software engineer agent auth @ hybrid - san francisco",
+   "location": "Hybrid - San Francisco",
+   "posted_at": "2026-11-03T16:31:46+00:00",
+   "posted_history": [
+    "2026-11-03T16:31:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Agent Auth",
+   "url": "https://job-boards.greenhouse.io/vercel/jobs/6242246004"
   }
  }
 }

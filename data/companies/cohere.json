@@ -63,6 +63,10 @@
   {
    "date": "2026-11-03",
    "open": 120
+  },
+  {
+   "date": "2026-11-04",
+   "open": 118
   }
  ],
  "jobs": {
@@ -110,6 +114,21 @@
    "reopened": 0,
    "title": "Head of Corporate Development",
    "url": "https://jobs.ashbyhq.com/cohere/0342fd5f-3760-4dcb-b026-333c7b63fc8d"
+  },
+  "0cf19dbd-bfa9-425f-a357-e2bd874bb489": {
+   "closed_at": null,
+   "department": "Data Quality (Contract)",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "data annotation specialist safety @ canada",
+   "location": "Canada",
+   "posted_at": "2026-11-03T21:17:55+00:00",
+   "posted_history": [
+    "2026-11-03T21:17:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Data Annotation Specialist, Safety",
+   "url": "https://jobs.ashbyhq.com/cohere/0cf19dbd-bfa9-425f-a357-e2bd874bb489"
   },
   "0ef0a9f8-33ac-4360-a833-f8ce8e108a31": {
    "closed_at": null,
@@ -1193,7 +1212,7 @@
    "url": "https://jobs.ashbyhq.com/cohere/8b6696e1-f1c4-4010-bde9-3cec1340a2a6"
   },
   "8c035d3d-081d-4c8a-914a-72f4efaad254": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "Internships",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1433,7 +1452,7 @@
    "url": "https://jobs.ashbyhq.com/cohere/a7321948-288c-4e9f-9fbe-2f9ccda07ffa"
   },
   "a87be947-00f0-4a4c-a690-a4922f88f553": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "Modeling",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1452,8 +1471,8 @@
    "department": "Product Management & Program Management",
    "evergreen": false,
    "first_seen": "2026-11-02T11:41:30+00:00",
-   "fp": "technical program manager ai delivery @ saudi arabia, eastern province",
-   "location": "Saudi Arabia, Eastern Province",
+   "fp": "technical program manager ai delivery @ saudi arabia",
+   "location": "Saudi Arabia",
    "posted_at": "2026-11-02T03:43:52+00:00",
    "posted_history": [
     "2026-11-02T03:43:52+00:00"
@@ -1734,7 +1753,7 @@
    "url": "https://jobs.ashbyhq.com/cohere/cd7de8ed-1b3d-4977-a909-5c0d04ddfcb3"
   },
   "cd987666-aeda-4da6-a23c-d84d4231d33b": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "Product Management & Program Management",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1860,10 +1879,11 @@
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "senior sales operations specialist @ washington, dc",
    "location": "Washington, DC",
-   "posted_at": "2026-10-29T20:48:59+00:00",
+   "posted_at": "2026-11-03T21:05:07+00:00",
    "posted_history": [
     "2026-10-19T14:23:37+00:00",
-    "2026-10-29T20:48:59+00:00"
+    "2026-10-29T20:48:59+00:00",
+    "2026-11-03T21:05:07+00:00"
    ],
    "reopened": 0,
    "title": "Senior Sales Operations Specialist",

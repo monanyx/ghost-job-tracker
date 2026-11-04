@@ -63,6 +63,10 @@
   {
    "date": "2026-11-03",
    "open": 108
+  },
+  {
+   "date": "2026-11-04",
+   "open": 109
   }
  ],
  "jobs": {
@@ -757,7 +761,7 @@
    "url": "https://www.asana.com/jobs/apply/8092044?gh_jid=8092044"
   },
   "8095543": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1567,7 +1571,7 @@
    "url": "https://www.asana.com/jobs/apply/8250168?gh_jid=8250168"
   },
   "8257456": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1926,6 +1930,21 @@
    "title": "Customer Enablement Manager",
    "url": "https://www.asana.com/jobs/apply/8304597?gh_jid=8304597"
   },
+  "8305286": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "administrative business partner @ vancouver, bc",
+   "location": "Vancouver, BC",
+   "posted_at": "2026-11-03T19:50:55+00:00",
+   "posted_history": [
+    "2026-11-03T19:50:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Administrative Business Partner",
+   "url": "https://www.asana.com/jobs/apply/8305286?gh_jid=8305286"
+  },
   "8311197": {
    "closed_at": null,
    "department": "",
@@ -2076,6 +2095,21 @@
    "title": "CX Technical Enablement Partner",
    "url": "https://www.asana.com/jobs/apply/8326988?gh_jid=8326988"
   },
+  "8331605": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "product owner netsuite @ vancouver, bc",
+   "location": "Vancouver, BC",
+   "posted_at": "2026-11-03T20:39:53+00:00",
+   "posted_history": [
+    "2026-11-03T20:39:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Owner - Netsuite",
+   "url": "https://www.asana.com/jobs/apply/8331605?gh_jid=8331605"
+  },
   "8337386": {
    "closed_at": null,
    "department": "",
@@ -2090,6 +2124,21 @@
    "reopened": 0,
    "title": "Implementation Manager",
    "url": "https://www.asana.com/jobs/apply/8337386?gh_jid=8337386"
+  },
+  "8349347": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "customer success manager @ us - remote",
+   "location": "US - Remote",
+   "posted_at": "2026-11-03T11:48:07+00:00",
+   "posted_history": [
+    "2026-11-03T11:48:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Success Manager (AI Success Architect)",
+   "url": "https://www.asana.com/jobs/apply/8349347?gh_jid=8349347"
   }
  }
 }

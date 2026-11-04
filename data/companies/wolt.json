@@ -63,6 +63,10 @@
   {
    "date": "2026-11-03",
    "open": 199
+  },
+  {
+   "date": "2026-11-04",
+   "open": 195
   }
  ],
  "jobs": {
@@ -305,7 +309,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/6693703"
   },
   "6693708": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -872,6 +876,21 @@
    "title": "Strategy & Operations Manager",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/7483616"
   },
+  "7526832": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "english and romanian speaking support associate remote work @ timisoara, romania",
+   "location": "Timisoara, Romania",
+   "posted_at": "2026-01-12T08:53:22+00:00",
+   "posted_history": [
+    "2026-01-12T08:53:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "English and Romanian Speaking Support Associate - Remote work",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/7526832"
+  },
   "7538295": {
    "closed_at": null,
    "department": "",
@@ -1067,8 +1086,23 @@
    "title": "Regional Workplace Manager, Region South",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/7818482"
   },
-  "7824072": {
+  "7821228": {
    "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "english and romanian speaking support associate part time @ timisoara, romania",
+   "location": "Timisoara, Romania",
+   "posted_at": "2026-04-16T14:30:44+00:00",
+   "posted_history": [
+    "2026-04-16T14:30:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "English and Romanian Speaking Support Associate - Part time",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/7821228"
+  },
+  "7824072": {
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1417,8 +1451,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "account management executive @ frankfurt am main, germany",
-   "location": "Frankfurt am Main, Germany",
+   "fp": "account management executive @ frankfurt am main, germany; mainz, germany; offenbach, germany; wiesbaden, germany",
+   "location": "Frankfurt am Main, Germany; Mainz, Germany; Offenbach, Germany; Wiesbaden, Germany",
    "posted_at": "2026-06-19T15:30:52+00:00",
    "posted_history": [
     "2026-06-19T15:30:52+00:00"
@@ -2148,7 +2182,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8164157"
   },
   "8166702": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2508,7 +2542,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8200882"
   },
   "8200951": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2748,7 +2782,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8223261"
   },
   "8223316": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2763,7 +2797,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8223316"
   },
   "8223321": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2958,7 +2992,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8237716"
   },
   "8239639": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4051,6 +4085,21 @@
    "reopened": 0,
    "title": "Store Manager (Wolt Market)",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8346566"
+  },
+  "8349382": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "bolti munkat rs wolt market budapest @ budapest, hungary",
+   "location": "Budapest, Hungary",
+   "posted_at": "2026-11-03T12:33:34+00:00",
+   "posted_history": [
+    "2026-11-03T12:33:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Bolti munkatárs - Wolt Market Budapest",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8349382"
   }
  }
 }

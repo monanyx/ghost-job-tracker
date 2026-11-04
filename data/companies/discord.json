@@ -63,6 +63,10 @@
   {
    "date": "2026-11-03",
    "open": 40
+  },
+  {
+   "date": "2026-11-04",
+   "open": 31
   }
  ],
  "jobs": {
@@ -142,7 +146,7 @@
    "url": "https://job-boards.greenhouse.io/discord/jobs/8464570002"
   },
   "8485884002": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -232,7 +236,7 @@
    "url": "https://job-boards.greenhouse.io/discord/jobs/8637688002"
   },
   "8642085002": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -247,7 +251,7 @@
    "url": "https://job-boards.greenhouse.io/discord/jobs/8642085002"
   },
   "8642087002": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -262,7 +266,7 @@
    "url": "https://job-boards.greenhouse.io/discord/jobs/8642087002"
   },
   "8642213002": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -322,7 +326,7 @@
    "url": "https://job-boards.greenhouse.io/discord/jobs/8652914002"
   },
   "8659978002": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -367,7 +371,7 @@
    "url": "https://job-boards.greenhouse.io/discord/jobs/8691572002"
   },
   "8697883002": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -592,7 +596,7 @@
    "url": "https://job-boards.greenhouse.io/discord/jobs/8811574002"
   },
   "8811881002": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -652,7 +656,7 @@
    "url": "https://job-boards.greenhouse.io/discord/jobs/8817776002"
   },
   "8821508002": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -697,7 +701,7 @@
    "url": "https://job-boards.greenhouse.io/discord/jobs/8827890002"
   },
   "8840756002": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -727,7 +731,7 @@
    "url": "https://job-boards.greenhouse.io/discord/jobs/8846330002"
   },
   "8846732002": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -802,7 +806,7 @@
    "url": "https://job-boards.greenhouse.io/discord/jobs/8881544002"
   },
   "8885940002": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -830,6 +834,36 @@
    "reopened": 0,
    "title": "Public Affairs Advisor",
    "url": "https://job-boards.greenhouse.io/discord/jobs/8904389002"
+  },
+  "8907804002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "senior manager global indirect tax @ san francisco bay area",
+   "location": "San Francisco Bay Area",
+   "posted_at": "2026-11-03T23:32:06+00:00",
+   "posted_history": [
+    "2026-11-03T23:32:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Global Indirect Tax",
+   "url": "https://job-boards.greenhouse.io/discord/jobs/8907804002"
+  },
+  "8917177002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "associate commercial counsel @ san francisco bay area or remote (u.s.)",
+   "location": "San Francisco Bay Area or Remote (U.S.)",
+   "posted_at": "2026-11-03T16:27:16+00:00",
+   "posted_history": [
+    "2026-11-03T16:27:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Associate Commercial Counsel",
+   "url": "https://job-boards.greenhouse.io/discord/jobs/8917177002"
   }
  }
 }

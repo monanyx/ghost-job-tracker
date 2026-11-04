@@ -63,6 +63,10 @@
   {
    "date": "2026-11-03",
    "open": 182
+  },
+  {
+   "date": "2026-11-04",
+   "open": 184
   }
  ],
  "jobs": {
@@ -1927,7 +1931,7 @@
    "url": "https://www.riotgames.com/en/work-with-us/job/8202900?gh_jid=8202900"
   },
   "8207202": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2677,7 +2681,7 @@
    "url": "https://www.riotgames.com/en/work-with-us/job/8287372?gh_jid=8287372"
   },
   "8287411": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3095,6 +3099,66 @@
    "reopened": 0,
    "title": "Senior Technical Producer - Central Technology, Infrastructure Platform",
    "url": "https://www.riotgames.com/en/work-with-us/job/8338268?gh_jid=8338268"
+  },
+  "8338311": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "playtest operations producer global research operations @ los angeles, usa",
+   "location": "Los Angeles, USA",
+   "posted_at": "2026-11-03T21:35:00+00:00",
+   "posted_history": [
+    "2026-11-03T21:35:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Playtest Operations Producer - Global Research Operations",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8338311?gh_jid=8338311"
+  },
+  "8348367": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "software engineer league of legends @ dublin, ireland",
+   "location": "Dublin, Ireland",
+   "posted_at": "2026-11-03T13:56:38+00:00",
+   "posted_history": [
+    "2026-11-03T13:56:38+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer - League of Legends",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8348367?gh_jid=8348367"
+  },
+  "8348369": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "principal engineer league of legends @ dublin, ireland",
+   "location": "Dublin, Ireland",
+   "posted_at": "2026-11-03T13:54:28+00:00",
+   "posted_history": [
+    "2026-11-03T13:54:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Engineer - League of Legends",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8348369?gh_jid=8348369"
+  },
+  "8348493": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "qa engineer ii valorant organized play @ los angeles, usa",
+   "location": "Los Angeles, USA",
+   "posted_at": "2026-11-04T00:41:08+00:00",
+   "posted_history": [
+    "2026-11-04T00:41:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "QA Engineer II - VALORANT, Organized Play",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8348493?gh_jid=8348493"
   },
   "8348724": {
    "closed_at": null,

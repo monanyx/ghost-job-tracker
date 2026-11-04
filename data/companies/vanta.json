@@ -63,6 +63,10 @@
   {
    "date": "2026-11-03",
    "open": 81
+  },
+  {
+   "date": "2026-11-04",
+   "open": 83
   }
  ],
  "jobs": {
@@ -262,7 +266,7 @@
    "url": "https://jobs.ashbyhq.com/vanta/1198e8b4-63d6-431c-bd37-8a709645ca63"
   },
   "1309bb8c-9cb5-463a-a30a-3a0c5fb5248a": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "Software Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -681,6 +685,21 @@
    "reopened": 0,
    "title": "Senior Software Engineer, Product Platform",
    "url": "https://jobs.ashbyhq.com/vanta/62945aae-55b0-4598-977a-b2dd00ec9081"
+  },
+  "6d2a60a8-7daf-4482-ab9a-6b87516548d0": {
+   "closed_at": null,
+   "department": "Software Engineering",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "senior software engineer ai platform @ remote u.s.",
+   "location": "Remote U.S.",
+   "posted_at": "2026-11-03T17:51:55+00:00",
+   "posted_history": [
+    "2026-11-03T17:51:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, AI Platform",
+   "url": "https://jobs.ashbyhq.com/vanta/6d2a60a8-7daf-4482-ab9a-6b87516548d0"
   },
   "6d6698d7-7272-4c2a-bc34-807dc269de43": {
    "closed_at": "2026-10-31T09:57:28+00:00",
@@ -1163,17 +1182,18 @@
    "url": "https://jobs.ashbyhq.com/vanta/c4f91672-04ee-4265-b4a7-6979a7e83308"
   },
   "c6090572-cbca-4b11-810e-127bf0183abf": {
-   "closed_at": "2026-10-30T10:28:19+00:00",
+   "closed_at": null,
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "senior gtm strategy operations manager mid late sales funnel @ remote u.s.",
    "location": "Remote U.S.",
-   "posted_at": "2026-08-26T18:59:45+00:00",
+   "posted_at": "2026-11-03T17:03:03+00:00",
    "posted_history": [
-    "2026-08-26T18:59:45+00:00"
+    "2026-08-26T18:59:45+00:00",
+    "2026-11-03T17:03:03+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior GTM Strategy & Operations Manager, Mid-Late Sales Funnel",
    "url": "https://jobs.ashbyhq.com/vanta/c6090572-cbca-4b11-810e-127bf0183abf"
   },
@@ -1266,6 +1286,21 @@
    "reopened": 0,
    "title": "Account Executive, Growth - DACH",
    "url": "https://jobs.ashbyhq.com/vanta/db79e344-6222-4377-b674-8117ea4d1817"
+  },
+  "e4e1f472-5113-4cd0-b8f9-dd10af087f5d": {
+   "closed_at": null,
+   "department": "Software Engineering",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "staff software engineer growth @ remote u.s.",
+   "location": "Remote U.S.",
+   "posted_at": "2026-11-03T16:43:15+00:00",
+   "posted_history": [
+    "2026-11-03T16:43:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer, Growth (Self Serve)",
+   "url": "https://jobs.ashbyhq.com/vanta/e4e1f472-5113-4cd0-b8f9-dd10af087f5d"
   },
   "e7370d8b-259e-402b-b494-20a0f963b215": {
    "closed_at": null,

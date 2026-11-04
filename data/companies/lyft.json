@@ -63,6 +63,10 @@
   {
    "date": "2026-11-03",
    "open": 172
+  },
+  {
+   "date": "2026-11-04",
+   "open": 177
   }
  ],
  "jobs": {
@@ -232,7 +236,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8584593002?gh_jid=8584593002"
   },
   "8584595002": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -247,7 +251,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8584595002?gh_jid=8584595002"
   },
   "8584688002": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -262,7 +266,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8584688002?gh_jid=8584688002"
   },
   "8584695002": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1477,7 +1481,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8783214002?gh_jid=8783214002"
   },
   "8783345002": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3052,7 +3056,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8907156002?gh_jid=8907156002"
   },
   "8908000002": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
@@ -3530,6 +3534,156 @@
    "reopened": 0,
    "title": "Fleet Operations Associate (Swing Shift)",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8925496002?gh_jid=8925496002"
+  },
+  "8927146002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "staff product manager i base pricing @ toronto, canada",
+   "location": "Toronto, Canada",
+   "posted_at": "2026-11-03T17:55:36+00:00",
+   "posted_history": [
+    "2026-11-03T17:55:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Product Manager I, Base Pricing",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8927146002?gh_jid=8927146002"
+  },
+  "8927244002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "digital ad ops coordinator lyft ads @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-04T01:07:28+00:00",
+   "posted_history": [
+    "2026-11-04T01:07:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Digital Ad Ops Coordinator, Lyft Ads",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8927244002?gh_jid=8927244002"
+  },
+  "8927263002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "senior software engineer forecasting real time optimization @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-03T16:10:07+00:00",
+   "posted_history": [
+    "2026-11-03T16:10:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Forecasting & Real-Time Optimization",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8927263002?gh_jid=8927263002"
+  },
+  "8927265002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "chief of staff lyft urban solutions @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-11-03T15:54:41+00:00",
+   "posted_history": [
+    "2026-11-03T15:54:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Chief of Staff, Lyft Urban Solutions",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8927265002?gh_jid=8927265002"
+  },
+  "8927268002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "software engineer backend @ toronto, canada",
+   "location": "Toronto, Canada",
+   "posted_at": "2026-11-03T21:57:11+00:00",
+   "posted_history": [
+    "2026-11-03T21:57:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Backend",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8927268002?gh_jid=8927268002"
+  },
+  "8927736002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "growth marketing manager lifecycle @ toronto, canada",
+   "location": "Toronto, Canada",
+   "posted_at": "2026-11-03T15:28:03+00:00",
+   "posted_history": [
+    "2026-11-03T15:28:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Growth Marketing Manager, Lifecycle",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8927736002?gh_jid=8927736002"
+  },
+  "8927794002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "accountant lease fleet @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-03T22:39:08+00:00",
+   "posted_history": [
+    "2026-11-03T22:39:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "Accountant, Lease & Fleet",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8927794002?gh_jid=8927794002"
+  },
+  "8927798002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "accountant lease fleet @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-11-03T22:39:10+00:00",
+   "posted_history": [
+    "2026-11-03T22:39:10+00:00"
+   ],
+   "reopened": 0,
+   "title": "Accountant, Lease & Fleet",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8927798002?gh_jid=8927798002"
+  },
+  "8928721002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "lyft business customer success associate @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-03T18:03:53+00:00",
+   "posted_history": [
+    "2026-11-03T18:03:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "Lyft Business Customer Success Associate",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8928721002?gh_jid=8928721002"
+  },
+  "8928746002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "lyft business customer success associate @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-11-03T18:03:55+00:00",
+   "posted_history": [
+    "2026-11-03T18:03:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Lyft Business Customer Success Associate",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8928746002?gh_jid=8928746002"
   }
  }
 }

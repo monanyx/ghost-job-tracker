@@ -63,6 +63,10 @@
   {
    "date": "2026-11-03",
    "open": 85
+  },
+  {
+   "date": "2026-11-04",
+   "open": 84
   }
  ],
  "jobs": {
@@ -727,7 +731,7 @@
    "url": "https://jobs.lever.co/spotify/80774cf2-a4f5-47b0-a585-2c122500cfd0"
   },
   "80c3a1cd-3f98-49e5-88d1-b45fca349d7f": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "Experience",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -906,6 +910,21 @@
    "title": "Audiobook Licensing & Partnerships Manager - Japan",
    "url": "https://jobs.lever.co/spotify/9838a290-bd6a-4233-acc3-bc5e4e6fa9c4"
   },
+  "9899871a-4307-4367-9f74-039569d7a650": {
+   "closed_at": null,
+   "department": "Music",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "full stack engineer music @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-10-02T17:43:05+00:00",
+   "posted_history": [
+    "2026-10-02T17:43:05+00:00"
+   ],
+   "reopened": 0,
+   "title": "Full Stack Engineer - Music",
+   "url": "https://jobs.lever.co/spotify/9899871a-4307-4367-9f74-039569d7a650"
+  },
   "9d0ac2f3-1bef-4e8d-a3cb-a3c855d2b2bd": {
    "closed_at": null,
    "department": "Platform",
@@ -922,7 +941,7 @@
    "url": "https://jobs.lever.co/spotify/9d0ac2f3-1bef-4e8d-a3cb-a3c855d2b2bd"
   },
   "9d1764a1-45fc-4e16-a823-7b7453b61d2e": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "Experience",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
@@ -1221,6 +1240,21 @@
    "title": "Manager FP&A, Distribution Partnerships",
    "url": "https://jobs.lever.co/spotify/c19b8f17-74f7-42b0-99a6-aced419b5756"
   },
+  "c2e4daa7-510f-4a30-ad85-a043481d85ac": {
+   "closed_at": null,
+   "department": "Subscriptions R&D",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "backend engineer subscriptions @ london",
+   "location": "London",
+   "posted_at": "2026-10-22T12:44:01+00:00",
+   "posted_history": [
+    "2026-10-22T12:44:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "Backend Engineer - Subscriptions",
+   "url": "https://jobs.lever.co/spotify/c2e4daa7-510f-4a30-ad85-a043481d85ac"
+  },
   "c322d068-5b59-4658-b618-bb2a032eeb9b": {
    "closed_at": null,
    "department": "Subscriptions R&D",
@@ -1402,7 +1436,7 @@
    "url": "https://jobs.lever.co/spotify/d87833d0-fb78-4794-b45d-3fe5c8274bc8"
   },
   "da45648b-3b35-4e4b-81df-31667aa4a76d": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "Podcast Business",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

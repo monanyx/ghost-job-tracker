@@ -63,6 +63,10 @@
   {
    "date": "2026-11-03",
    "open": 236
+  },
+  {
+   "date": "2026-11-04",
+   "open": 239
   }
  ],
  "jobs": {
@@ -727,7 +731,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8646544002"
   },
   "8646556002": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2377,7 +2381,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8845483002"
   },
   "8845972002": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2452,7 +2456,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8853813002"
   },
   "8853843002": {
-   "closed_at": "2026-10-22T08:55:54+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2462,7 +2466,7 @@
    "posted_history": [
     "2026-09-29T20:09:55+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Director of Engineering, Database Excellence",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8853843002"
   },
@@ -3067,7 +3071,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8868220002"
   },
   "8868652002": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3131,8 +3135,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior cx platform engineer @ remote",
-   "location": "Remote",
+   "fp": "senior cx platform engineer @ remote, canada; remote, united states",
+   "location": "Remote, Canada; Remote, United States",
    "posted_at": "2026-10-07T16:49:26+00:00",
    "posted_history": [
     "2026-10-07T16:49:26+00:00"
@@ -3491,8 +3495,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "director analytics engineering @ remote, united states",
-   "location": "Remote, United States",
+   "fp": "director analytics engineering @ remote, canada; remote, united states",
+   "location": "Remote, Canada; Remote, United States",
    "posted_at": "2026-10-13T14:52:13+00:00",
    "posted_history": [
     "2026-10-13T14:52:13+00:00"
@@ -4146,6 +4150,21 @@
    "title": "Backend Engineer, Source Code: Repository Services (Ruby)",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8912709002"
   },
+  "8912969002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "recruiter gtm @ remote, netherlands; remote, united kingdom",
+   "location": "Remote, Netherlands; Remote, United Kingdom",
+   "posted_at": "2026-11-03T20:54:55+00:00",
+   "posted_history": [
+    "2026-11-03T20:54:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Recruiter, GTM (EMEA)",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8912969002"
+  },
   "8913412002": {
    "closed_at": null,
    "department": "",
@@ -4221,6 +4240,21 @@
    "title": "Senior Assigned Support Engineer-(Designated / Premier Support)",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8918853002"
   },
+  "8919537002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "staff product manager tenant scale @ remote, canada; remote, united states",
+   "location": "Remote, Canada; Remote, United States",
+   "posted_at": "2026-11-03T16:15:32+00:00",
+   "posted_history": [
+    "2026-11-03T16:15:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Product Manager, Tenant Scale",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8919537002"
+  },
   "8919962002": {
    "closed_at": null,
    "department": "",
@@ -4286,8 +4320,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
-   "fp": "data scientist enterprise analytics @ remote, united states",
-   "location": "Remote, United States",
+   "fp": "data scientist enterprise analytics @ remote, canada; remote, united states",
+   "location": "Remote, Canada; Remote, United States",
    "posted_at": "2026-10-30T19:59:39+00:00",
    "posted_history": [
     "2026-10-30T19:59:39+00:00"
@@ -4301,8 +4335,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
-   "fp": "senior manager data science @ remote, united states",
-   "location": "Remote, United States",
+   "fp": "senior manager data science @ remote, canada; remote, united states",
+   "location": "Remote, Canada; Remote, United States",
    "posted_at": "2026-10-30T19:07:37+00:00",
    "posted_history": [
     "2026-10-30T19:07:37+00:00"
@@ -4310,6 +4344,21 @@
    "reopened": 0,
    "title": "Senior Manager, Data Science",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8922062002"
+  },
+  "8922249002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "intermediate fullstack engineer subscription lifecycle @ remote, canada; remote, united states",
+   "location": "Remote, Canada; Remote, United States",
+   "posted_at": "2026-11-03T16:38:14+00:00",
+   "posted_history": [
+    "2026-11-03T16:38:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Intermediate Fullstack Engineer, Subscription Lifecycle",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8922249002"
   },
   "8922427002": {
    "closed_at": null,
@@ -4357,7 +4406,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8922872002"
   },
   "8923092002": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
@@ -4372,7 +4421,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8923092002"
   },
   "8923121002": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-02T11:41:30+00:00",
@@ -4385,6 +4434,51 @@
    "reopened": 0,
    "title": "Incident & Escalation Lead- Enterprise Customers",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8923121002"
+  },
+  "8923757002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "associate renewals manager france @ remote",
+   "location": "Remote",
+   "posted_at": "2026-11-03T15:21:43+00:00",
+   "posted_history": [
+    "2026-11-03T15:21:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Associate Renewals Manager - France",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8923757002"
+  },
+  "8924789002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "principal executive recruiter @ remote, canada; remote, united states",
+   "location": "Remote, Canada; Remote, United States",
+   "posted_at": "2026-11-03T22:36:05+00:00",
+   "posted_history": [
+    "2026-11-03T22:36:05+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Executive Recruiter",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8924789002"
+  },
+  "8924841002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "incident escalation lead enterprise customers @ remote, united kingdom",
+   "location": "Remote, United Kingdom",
+   "posted_at": "2026-11-04T05:48:03+00:00",
+   "posted_history": [
+    "2026-11-04T05:48:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Incident & Escalation Lead- Enterprise Customers",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8924841002"
   },
   "8924923002": {
    "closed_at": null,
@@ -4415,6 +4509,21 @@
    "reopened": 0,
    "title": "Senior Ecosystems Sales Manager: Scale, India",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8926435002"
+  },
+  "8928675002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "senior backend engineer development health @ bangalore, india",
+   "location": "Bangalore, India",
+   "posted_at": "2026-11-04T06:44:52+00:00",
+   "posted_history": [
+    "2026-11-04T06:44:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Backend Engineer, Development Health",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8928675002"
   }
  }
 }

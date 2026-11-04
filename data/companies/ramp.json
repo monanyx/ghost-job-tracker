@@ -63,6 +63,10 @@
   {
    "date": "2026-11-03",
    "open": 170
+  },
+  {
+   "date": "2026-11-04",
+   "open": 168
   }
  ],
  "jobs": {
@@ -172,7 +176,7 @@
    "url": "https://jobs.ashbyhq.com/ramp/09a9381c-677b-40a5-9ff1-027bd4302c13"
   },
   "0cf79980-4cb6-4001-8bea-635f3b22914f": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -215,6 +219,21 @@
    "reopened": 0,
    "title": "Customer Experience Associate - London",
    "url": "https://jobs.ashbyhq.com/ramp/0d731586-3626-48fb-9dc5-3061ae5fd240"
+  },
+  "100c09be-f179-406f-893e-8a212f32c642": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "technical consultant commercial @ remote (us)",
+   "location": "Remote (US)",
+   "posted_at": "2026-11-03T22:33:38+00:00",
+   "posted_history": [
+    "2026-11-03T22:33:38+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Consultant, Commercial",
+   "url": "https://jobs.ashbyhq.com/ramp/100c09be-f179-406f-893e-8a212f32c642"
   },
   "1285aefc-d2c4-4f7c-8357-6e8f97fb22d4": {
    "closed_at": "2026-11-03T11:21:29+00:00",
@@ -277,7 +296,7 @@
    "url": "https://jobs.ashbyhq.com/ramp/157bb000-868b-4a6d-9143-67619871812f"
   },
   "190c265a-ca4f-48b7-b2a4-13412299249d": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -365,6 +384,21 @@
    "reopened": 0,
    "title": "Technical Consultant, S/4HANA",
    "url": "https://jobs.ashbyhq.com/ramp/218e3fef-0fa7-4ad4-b401-9ba0c76c0ff0"
+  },
+  "220e674a-fc70-439f-bacf-687553ca59c9": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "solutions consultant commercial @ remote (us)",
+   "location": "Remote (US)",
+   "posted_at": "2026-11-03T17:04:10+00:00",
+   "posted_history": [
+    "2026-11-03T17:04:10+00:00"
+   ],
+   "reopened": 0,
+   "title": "Solutions Consultant, Commercial",
+   "url": "https://jobs.ashbyhq.com/ramp/220e674a-fc70-439f-bacf-687553ca59c9"
   },
   "24f29060-8af5-400e-ba4c-14d656e42339": {
    "closed_at": "2026-10-29T10:25:29+00:00",
@@ -590,6 +624,21 @@
    "reopened": 0,
    "title": "Security Engineer, Cloud",
    "url": "https://jobs.ashbyhq.com/ramp/34413f8d-26bf-4bbc-8ade-eb309a0e2245"
+  },
+  "390f4cd0-e0e4-451c-ae28-e6b19861dda9": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "partner development representative advisory and services @ new york, ny (hq)",
+   "location": "New York, NY (HQ)",
+   "posted_at": "2026-11-04T03:18:27+00:00",
+   "posted_history": [
+    "2026-11-04T03:18:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Partner Development Representative | Advisory and Services",
+   "url": "https://jobs.ashbyhq.com/ramp/390f4cd0-e0e4-451c-ae28-e6b19861dda9"
   },
   "397d2098-59c4-4987-9ca9-ec019c37000e": {
    "closed_at": null,
@@ -847,7 +896,7 @@
    "url": "https://jobs.ashbyhq.com/ramp/4c24a55a-ea3b-4cea-a5b5-7862938616bf"
   },
   "4e64ab86-4e30-403b-b1b9-41dc052570ce": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1072,7 +1121,7 @@
    "url": "https://jobs.ashbyhq.com/ramp/6310f1b3-1ae2-476c-b4ce-affe530ede26"
   },
   "66b5410f-339d-4656-92a6-cf4e31285bc9": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1867,7 +1916,7 @@
    "url": "https://jobs.ashbyhq.com/ramp/a8451979-2691-440e-851b-49a3b807729b"
   },
   "a85afad0-8051-4333-ae89-0f82321dea87": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "People & Talent",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2532,14 +2581,15 @@
    "department": "Product",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "product operations specialist juno @ new york, ny (hq)",
+   "fp": "travel operations lead @ new york, ny (hq)",
    "location": "New York, NY (HQ)",
-   "posted_at": "2026-09-02T19:10:13+00:00",
+   "posted_at": "2026-11-03T20:55:21+00:00",
    "posted_history": [
-    "2026-09-02T19:10:13+00:00"
+    "2026-09-02T19:10:13+00:00",
+    "2026-11-03T20:55:21+00:00"
    ],
    "reopened": 0,
-   "title": "Product Operations Specialist | Juno",
+   "title": "Travel Operations Lead",
    "url": "https://jobs.ashbyhq.com/ramp/dba53e68-4c96-449d-af4d-27dc475b814c"
   },
   "deca582c-a1d0-4705-9975-60aed81ba89f": {
@@ -2843,7 +2893,7 @@
    "url": "https://jobs.ashbyhq.com/ramp/f859c941-4579-402a-aad5-a7bacbf33175"
   },
   "f99558f9-639c-4f36-81af-2d0910703560": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "People & Talent",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2916,6 +2966,21 @@
    "reopened": 0,
    "title": "Director, Strategic Finance",
    "url": "https://jobs.ashbyhq.com/ramp/fddcfe54-6fd2-4091-bf9c-346f35606cc9"
+  },
+  "fe280d10-4258-420a-b0bb-0dc9021bd803": {
+   "closed_at": null,
+   "department": "Customer Experience",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "senior manager customer experience strategy operations @ new york, ny (hq)",
+   "location": "New York, NY (HQ)",
+   "posted_at": "2026-11-03T23:23:04+00:00",
+   "posted_history": [
+    "2026-11-03T23:23:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Customer Experience Strategy & Operations",
+   "url": "https://jobs.ashbyhq.com/ramp/fe280d10-4258-420a-b0bb-0dc9021bd803"
   }
  }
 }

@@ -63,6 +63,10 @@
   {
    "date": "2026-11-03",
    "open": 40
+  },
+  {
+   "date": "2026-11-04",
+   "open": 39
   }
  ],
  "jobs": {
@@ -172,7 +176,7 @@
    "url": "https://jobs.ashbyhq.com/sentry/35193bfb-bb6b-4479-85be-0945e5b94a3e"
   },
   "4067f08e-5229-4af4-9028-a7c69d3791d0": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "G&A",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

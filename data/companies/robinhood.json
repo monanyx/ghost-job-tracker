@@ -63,6 +63,10 @@
   {
    "date": "2026-11-03",
    "open": 162
+  },
+  {
+   "date": "2026-11-04",
+   "open": 159
   }
  ],
  "jobs": {
@@ -967,7 +971,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8093267?t=gh_src=&gh_jid=8093267"
   },
   "8097597": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1055,6 +1059,21 @@
    "reopened": 0,
    "title": "Staff Android Engineer",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8114730?t=gh_src=&gh_jid=8114730"
+  },
+  "8120094": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "software engineer enterprise build @ menlo park, ca",
+   "location": "Menlo Park, CA",
+   "posted_at": "2026-08-18T18:25:23+00:00",
+   "posted_history": [
+    "2026-08-18T18:25:23+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Enterprise Build",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8120094?t=gh_src=&gh_jid=8120094"
   },
   "8120101": {
    "closed_at": null,
@@ -1421,14 +1440,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "head of ai data science finance strategy @ menlo park, ca",
+   "fp": "senior manager finance strategy data science @ menlo park, ca",
    "location": "Menlo Park, CA",
    "posted_at": "2026-09-22T18:11:52+00:00",
    "posted_history": [
     "2026-09-22T18:11:52+00:00"
    ],
    "reopened": 0,
-   "title": "Head of AI/Data Science, Finance & Strategy",
+   "title": "Senior Manager,  Finance & Strategy Data Science",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8180757?t=gh_src=&gh_jid=8180757"
   },
   "8186166": {
@@ -1701,6 +1720,21 @@
    "title": "Engineering Manager, AI Platform & Agentic Apps",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8205579?t=gh_src=&gh_jid=8205579"
   },
+  "8207701": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "software engineer international expansion @ toronto, canada",
+   "location": "Toronto, Canada",
+   "posted_at": "2026-11-03T13:45:05+00:00",
+   "posted_history": [
+    "2026-11-03T13:45:05+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, International Expansion",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8207701?t=gh_src=&gh_jid=8207701"
+  },
   "8209838": {
    "closed_at": null,
    "department": "",
@@ -1852,7 +1886,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8220730?t=gh_src=&gh_jid=8220730"
   },
   "8220757": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -2047,7 +2081,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8232855?t=gh_src=&gh_jid=8232855"
   },
   "8238000": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2242,7 +2276,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8250341?t=gh_src=&gh_jid=8250341"
   },
   "8255840": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2257,7 +2291,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8255840?t=gh_src=&gh_jid=8255840"
   },
   "8255842": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2302,7 +2336,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8257655?t=gh_src=&gh_jid=8257655"
   },
   "8258305": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2317,7 +2351,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8258305?t=gh_src=&gh_jid=8258305"
   },
   "8258307": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2726,8 +2760,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
-   "fp": "senior manager strategic partnerships integrations @ clearwater, fl",
-   "location": "Clearwater, FL",
+   "fp": "senior manager strategic partnerships integrations @ chicago, il; clearwater, fl; westlake, tx",
+   "location": "Chicago, IL; Clearwater, FL; Westlake, TX",
    "posted_at": "2026-10-28T20:50:38+00:00",
    "posted_history": [
     "2026-10-28T20:50:38+00:00"
@@ -2752,7 +2786,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8304315?t=gh_src=&gh_jid=8304315"
   },
   "8305772": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
@@ -2765,6 +2799,21 @@
    "reopened": 0,
    "title": "AI Operations Engineer, Enterprise Tech",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8305772?t=gh_src=&gh_jid=8305772"
+  },
+  "8310197": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "senior content designer national impact @ menlo park, ca; new york, ny",
+   "location": "Menlo Park, CA; New York, NY",
+   "posted_at": "2026-11-03T19:57:43+00:00",
+   "posted_history": [
+    "2026-11-03T19:57:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Content Designer, National Impact",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8310197?t=gh_src=&gh_jid=8310197"
   },
   "8312485": {
    "closed_at": "2026-10-30T10:28:19+00:00",
@@ -2916,6 +2965,21 @@
    "title": "Senior Counsel, Corporate & M&A",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8332458?t=gh_src=&gh_jid=8332458"
   },
+  "8333757": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "staff software engineer government products @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-11-04T01:21:44+00:00",
+   "posted_history": [
+    "2026-11-04T01:21:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer, Government Products",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8333757?t=gh_src=&gh_jid=8333757"
+  },
   "8334344": {
    "closed_at": null,
    "department": "",
@@ -2960,6 +3024,21 @@
    "reopened": 0,
    "title": "Senior Android Engineer, Event Contracts",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8335168?t=gh_src=&gh_jid=8335168"
+  },
+  "8346031": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "web engineer international expansion @ toronto, canada",
+   "location": "Toronto, Canada",
+   "posted_at": "2026-11-03T13:27:04+00:00",
+   "posted_history": [
+    "2026-11-03T13:27:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "Web Engineer, International Expansion",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8346031?t=gh_src=&gh_jid=8346031"
   },
   "8348035": {
    "closed_at": null,

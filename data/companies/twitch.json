@@ -63,6 +63,10 @@
   {
    "date": "2026-11-03",
    "open": 55
+  },
+  {
+   "date": "2026-11-04",
+   "open": 58
   }
  ],
  "jobs": {
@@ -457,7 +461,7 @@
    "url": "https://job-boards.greenhouse.io/twitch/jobs/8811998002"
   },
   "8812415002": {
-   "closed_at": "2026-11-03T11:21:29+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -467,12 +471,12 @@
    "posted_history": [
     "2026-09-16T17:34:53+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Security Incident Response Engineer",
    "url": "https://job-boards.greenhouse.io/twitch/jobs/8812415002"
   },
   "8812422002": {
-   "closed_at": "2026-11-03T11:21:29+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -482,12 +486,12 @@
    "posted_history": [
     "2026-09-16T17:34:55+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Security Incident Response Engineer",
    "url": "https://job-boards.greenhouse.io/twitch/jobs/8812422002"
   },
   "8812423002": {
-   "closed_at": "2026-11-03T11:21:29+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -497,7 +501,7 @@
    "posted_history": [
     "2026-09-16T17:34:58+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Security Incident Response Engineer",
    "url": "https://job-boards.greenhouse.io/twitch/jobs/8812423002"
   },

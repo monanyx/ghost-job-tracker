@@ -63,6 +63,10 @@
   {
    "date": "2026-11-03",
    "open": 80
+  },
+  {
+   "date": "2026-11-04",
+   "open": 79
   }
  ],
  "jobs": {
@@ -930,9 +934,10 @@
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "payroll lead @ stockholm",
    "location": "Stockholm",
-   "posted_at": "2026-08-26T08:36:27+00:00",
+   "posted_at": "2026-11-03T15:40:37+00:00",
    "posted_history": [
-    "2026-08-26T08:36:27+00:00"
+    "2026-08-26T08:36:27+00:00",
+    "2026-11-03T15:40:37+00:00"
    ],
    "reopened": 0,
    "title": "Payroll Lead",
@@ -1227,7 +1232,7 @@
    "url": "https://jobs.ashbyhq.com/lovable/d23a9470-7c53-4a3d-9859-73590db8deee"
   },
   "d5ae0701-9fad-4971-bc90-a57dada936d2": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "EPD",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

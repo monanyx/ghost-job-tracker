@@ -63,6 +63,10 @@
   {
    "date": "2026-11-03",
    "open": 370
+  },
+  {
+   "date": "2026-11-04",
+   "open": 369
   }
  ],
  "jobs": {
@@ -746,14 +750,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
-   "fp": "onboard developer platform software engineer @ mountain view, ca, usa",
+   "fp": "senior onboard developer platform software engineer @ mountain view, ca, usa",
    "location": "Mountain View, CA, USA",
    "posted_at": "2025-12-15T21:24:08+00:00",
    "posted_history": [
     "2025-12-15T21:24:08+00:00"
    ],
    "reopened": 0,
-   "title": "Onboard Developer Platform Software Engineer",
+   "title": "Senior Onboard Developer Platform Software Engineer",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=7461052"
   },
   "7466529": {
@@ -1972,7 +1976,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=7978589"
   },
   "7981535": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4132,7 +4136,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8203191"
   },
   "8203200": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -4987,7 +4991,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8240198"
   },
   "8240632": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5932,7 +5936,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8301577"
   },
   "8301804": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6246,20 +6250,65 @@
    "title": "Sr. Staff Systems Engineer, Perception-Planner Risk",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8319591"
   },
+  "8327902": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "market operations lead germany @ munich, germany",
+   "location": "Munich, Germany ",
+   "posted_at": "2026-11-03T16:28:08+00:00",
+   "posted_history": [
+    "2026-11-03T16:28:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "Market Operations Lead - Germany",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8327902"
+  },
+  "8327904": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "market operations lead spain @ madrid, spain",
+   "location": "Madrid, Spain ",
+   "posted_at": "2026-11-03T17:11:58+00:00",
+   "posted_history": [
+    "2026-11-03T17:11:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Market Operations Lead- Spain",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8327904"
+  },
   "8328202": {
    "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
-   "fp": "staff product data scientist marketplace machine learning @ mountain view, ca, usa; san francisco, ca, usa",
+   "fp": "staff product data scientist marketplace ml @ mountain view, ca, usa; san francisco, ca, usa",
    "location": "Mountain View, CA, USA; San Francisco, CA, USA ",
    "posted_at": "2026-10-30T22:29:28+00:00",
    "posted_history": [
     "2026-10-30T22:29:28+00:00"
    ],
    "reopened": 0,
-   "title": "Staff Product Data Scientist, Marketplace Machine Learning",
+   "title": "Staff Product Data Scientist, Marketplace ML",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8328202"
+  },
+  "8328913": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "escalation manager event response team @ fukuoka, japan",
+   "location": "Fukuoka, Japan",
+   "posted_at": "2026-11-03T17:12:20+00:00",
+   "posted_history": [
+    "2026-11-03T17:12:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Escalation Manager, Event Response Team; エスカレーション マネージャー、イベント対応チーム",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8328913"
   },
   "8334474": {
    "closed_at": null,

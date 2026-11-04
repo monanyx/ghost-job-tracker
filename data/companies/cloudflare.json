@@ -63,6 +63,10 @@
   {
    "date": "2026-11-03",
    "open": 467
+  },
+  {
+   "date": "2026-11-04",
+   "open": 468
   }
  ],
  "jobs": {
@@ -682,7 +686,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/7572075?gh_jid=7572075"
   },
   "7579269": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1226,14 +1230,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "principal presales customer engineer @ distributed",
+   "fp": "senior presales customer engineer @ distributed",
    "location": "Distributed",
    "posted_at": "2026-08-25T02:01:48+00:00",
    "posted_history": [
     "2026-08-25T02:01:48+00:00"
    ],
    "reopened": 0,
-   "title": "Principal Presales Customer Engineer (based in Canberra)",
+   "title": "Senior Presales Customer Engineer (based in Canberra)",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/7956845?gh_jid=7956845"
   },
   "7967144": {
@@ -2576,14 +2580,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior named account executive md va dc @ distributed",
+   "fp": "senior named account executive @ distributed",
    "location": "Distributed",
    "posted_at": "2026-08-06T19:31:27+00:00",
    "posted_history": [
     "2026-08-06T19:31:27+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Named Account Executive, MD/VA/DC",
+   "title": "Senior Named Account Executive ( Northern VA/DC Metro)",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8112200?gh_jid=8112200"
   },
   "8113115": {
@@ -2602,7 +2606,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8113115?gh_jid=8113115"
   },
   "8119184": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5317,7 +5321,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8226000?gh_jid=8226000"
   },
   "8226448": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
@@ -5448,7 +5452,7 @@
     "2026-09-24T23:23:47+00:00"
    ],
    "reopened": 0,
-   "title": "Named Sales Director, East",
+   "title": "Named Sales Director, East (Northern VA/DC Metro)",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8231630?gh_jid=8231630"
   },
   "8232768": {
@@ -5932,7 +5936,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8245503?gh_jid=8245503"
   },
   "8245561": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6711,6 +6715,21 @@
    "title": "Data Scientist",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8275927?gh_jid=8275927"
   },
+  "8275944": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "engineering manager stablecoins @ in-office",
+   "location": "In-Office",
+   "posted_at": "2026-10-29T13:19:20+00:00",
+   "posted_history": [
+    "2026-10-29T13:19:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager, Stablecoins",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8275944?gh_jid=8275944"
+  },
   "8276155": {
    "closed_at": null,
    "department": "",
@@ -7296,6 +7315,21 @@
    "title": "Data Center Network Operations Engineer",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8311378?gh_jid=8311378"
   },
+  "8312215": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "engineering manager bots fraud @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-03T21:06:46+00:00",
+   "posted_history": [
+    "2026-11-03T21:06:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager, Bots & Fraud",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8312215?gh_jid=8312215"
+  },
   "8312254": {
    "closed_at": null,
    "department": "",
@@ -7616,8 +7650,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
-   "fp": "principal gtm business operations manager @ hybrid",
-   "location": "Hybrid",
+   "fp": "principal gtm business operations manager @ distributed; hybrid",
+   "location": "Distributed; Hybrid",
    "posted_at": "2026-11-02T18:50:37+00:00",
    "posted_history": [
     "2026-11-02T18:50:37+00:00"
@@ -7760,6 +7794,21 @@
    "reopened": 0,
    "title": "Project Coordinator, Professional Services",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8331522?gh_jid=8331522"
+  },
+  "8331928": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "engineering manager revenue engineering @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-03T21:42:45+00:00",
+   "posted_history": [
+    "2026-11-03T21:42:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager, Revenue Engineering",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8331928?gh_jid=8331928"
   },
   "8332008": {
    "closed_at": null,
@@ -8030,6 +8079,36 @@
    "reopened": 0,
    "title": "Territory Sales Director, West (Los Angeles/Phoenix)",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8345223?gh_jid=8345223"
+  },
+  "8346327": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "senior product manager zero day protection @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-03T23:19:34+00:00",
+   "posted_history": [
+    "2026-11-03T23:19:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Manager - Zero-Day Protection",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8346327?gh_jid=8346327"
+  },
+  "8349425": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "senior product manager signals data products @ hybrid; in-office",
+   "location": "Hybrid; In-Office",
+   "posted_at": "2026-11-04T09:45:58+00:00",
+   "posted_history": [
+    "2026-11-04T09:45:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Manager, Signals & Data Products",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8349425?gh_jid=8349425"
   }
  }
 }

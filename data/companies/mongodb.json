@@ -63,6 +63,10 @@
   {
    "date": "2026-11-03",
    "open": 359
+  },
+  {
+   "date": "2026-11-04",
+   "open": 364
   }
  ],
  "jobs": {
@@ -82,7 +86,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=5607962"
   },
   "6381035": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -581,14 +585,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "enterprise sales development representative @ austin",
+   "fp": "strategic enterprise sales development representative @ austin",
    "location": "Austin",
    "posted_at": "2025-10-21T20:12:22+00:00",
    "posted_history": [
     "2025-10-21T20:12:22+00:00"
    ],
    "reopened": 0,
-   "title": "Enterprise Sales Development Representative",
+   "title": "Strategic Enterprise Sales Development Representative",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=7311204"
   },
   "7311234": {
@@ -712,7 +716,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=7338090"
   },
   "7362411": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1132,7 +1136,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=7687359"
   },
   "7694717": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -1852,7 +1856,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=7996805"
   },
   "7997764": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2152,7 +2156,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8046751"
   },
   "8049846": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2486,14 +2490,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "lead platform engineering @ gurugram",
+   "fp": "senior platform engineer @ gurugram",
    "location": "Gurugram",
    "posted_at": "2026-07-22T11:04:30+00:00",
    "posted_history": [
     "2026-07-22T11:04:30+00:00"
    ],
    "reopened": 0,
-   "title": "Lead, Platform Engineering",
+   "title": "Senior Platform Engineer",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8071475"
   },
   "8072504": {
@@ -3802,7 +3806,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8160195"
   },
   "8160426": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4061,8 +4065,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "staff engineer atlas agent engine @ new york city",
-   "location": "New York City",
+   "fp": "staff engineer atlas agent engine @ united states",
+   "location": "United States",
    "posted_at": "2026-09-21T18:16:00+00:00",
    "posted_history": [
     "2026-09-21T18:16:00+00:00"
@@ -4070,6 +4074,21 @@
    "reopened": 0,
    "title": "Staff Engineer, Atlas Agent Engine",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8173735"
+  },
+  "8173737": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "staff engineer atlas agent engine @ ontario; quebec; toronto",
+   "location": "Ontario; Quebec; Toronto",
+   "posted_at": "2026-11-03T20:53:31+00:00",
+   "posted_history": [
+    "2026-11-03T20:53:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Engineer, Atlas Agent Engine",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8173737"
   },
   "8173745": {
    "closed_at": null,
@@ -4356,6 +4375,21 @@
    "title": "Enterprise Account Executive, Growth (Vietnam)",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8184727"
   },
+  "8187896": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "account development representative @ sydney",
+   "location": "Sydney",
+   "posted_at": "2026-09-11T01:11:34+00:00",
+   "posted_history": [
+    "2026-09-11T01:11:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Development Representative",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8187896"
+  },
   "8188788": {
    "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
@@ -4496,14 +4530,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "technical account manager @ tokyo",
+   "fp": "technical services engineer @ tokyo",
    "location": "Tokyo",
    "posted_at": "2026-10-06T06:37:38+00:00",
    "posted_history": [
     "2026-10-06T06:37:38+00:00"
    ],
    "reopened": 1,
-   "title": "Technical Account Manager",
+   "title": "Technical Services Engineer",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8200434"
   },
   "8200773": {
@@ -5346,6 +5380,21 @@
    "title": "Senior Technical Writer",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8231370"
   },
+  "8233734": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "senior product manager @ dublin, ireland",
+   "location": "Dublin, Ireland",
+   "posted_at": "2026-11-04T11:14:40+00:00",
+   "posted_history": [
+    "2026-11-04T11:14:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Manager",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8233734"
+  },
   "8234338": {
    "closed_at": null,
    "department": "",
@@ -6126,6 +6175,21 @@
    "title": "IT Support Specialist 2",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8275429"
   },
+  "8279464": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "regional director enterprise growth @ london",
+   "location": "London",
+   "posted_at": "2026-11-04T08:16:00+00:00",
+   "posted_history": [
+    "2026-11-04T08:16:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Regional Director, Enterprise, Growth",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8279464"
+  },
   "8280948": {
    "closed_at": null,
    "department": "",
@@ -6142,7 +6206,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8280948"
   },
   "8280979": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6531,6 +6595,21 @@
    "title": "Account Development Representative - English Speaking (SDR/BDR)",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8305915"
   },
+  "8306274": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "senior partner enablement manager @ tokyo",
+   "location": "Tokyo",
+   "posted_at": "2026-11-04T11:29:08+00:00",
+   "posted_history": [
+    "2026-11-04T11:29:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Partner Enablement Manager",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8306274"
+  },
   "8309811": {
    "closed_at": null,
    "department": "",
@@ -6651,6 +6730,21 @@
    "title": "Renewals Manager (Italian Speaker)",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8318370"
   },
+  "8318378": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "senior technical compliance analyst @ united states",
+   "location": "United States",
+   "posted_at": "2026-11-03T19:47:36+00:00",
+   "posted_history": [
+    "2026-11-03T19:47:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Technical Compliance Analyst",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8318378"
+  },
   "8323294": {
    "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
@@ -6666,6 +6760,21 @@
    "title": "Manager, Software Engineering",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8323294"
   },
+  "8323296": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "engineering manager customer tools @ mexico city",
+   "location": "Mexico City",
+   "posted_at": "2026-11-03T16:05:26+00:00",
+   "posted_history": [
+    "2026-11-03T16:05:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager, Customer Tools",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8323296"
+  },
   "8323897": {
    "closed_at": null,
    "department": "",
@@ -6680,6 +6789,21 @@
    "reopened": 0,
    "title": "Senior Software Engineer",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8323897"
+  },
+  "8325357": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "manager customer success operations @ new york city",
+   "location": "New York City",
+   "posted_at": "2026-11-03T19:37:47+00:00",
+   "posted_history": [
+    "2026-11-03T19:37:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Customer Success Operations",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8325357"
   },
   "8325493": {
    "closed_at": null,
@@ -6741,6 +6865,21 @@
    "title": "Early Talent Recruiter",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8328316"
   },
+  "8328355": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "senior manager regional employee experience @ gurugram",
+   "location": "Gurugram",
+   "posted_at": "2026-11-03T13:06:38+00:00",
+   "posted_history": [
+    "2026-11-03T13:06:38+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Regional Employee Experience",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8328355"
+  },
   "8328622": {
    "closed_at": null,
    "department": "",
@@ -6800,6 +6939,21 @@
    "reopened": 0,
    "title": "Senior Solutions Architect",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8331146"
+  },
+  "8331447": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "executive assistant @ palo alto",
+   "location": "Palo Alto",
+   "posted_at": "2026-11-03T20:46:51+00:00",
+   "posted_history": [
+    "2026-11-03T20:46:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Executive Assistant",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8331447"
   },
   "8331479": {
    "closed_at": null,
@@ -6876,6 +7030,21 @@
    "title": "Manager, Customer Success Operations",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8337357"
   },
+  "8337727": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "program manager @ dublin, ireland",
+   "location": "Dublin, Ireland",
+   "posted_at": "2026-11-03T16:00:02+00:00",
+   "posted_history": [
+    "2026-11-03T16:00:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Program Manager",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8337727"
+  },
   "8345848": {
    "closed_at": null,
    "department": "",
@@ -6890,6 +7059,21 @@
    "reopened": 0,
    "title": "Senior Solutions Architect",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8345848"
+  },
+  "8350841": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "renewals specialist @ hong kong",
+   "location": "Hong Kong",
+   "posted_at": "2026-11-04T10:04:03+00:00",
+   "posted_history": [
+    "2026-11-04T10:04:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Renewals Specialist",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8350841"
   }
  }
 }

@@ -63,6 +63,10 @@
   {
    "date": "2026-11-03",
    "open": 305
+  },
+  {
+   "date": "2026-11-04",
+   "open": 307
   }
  ],
  "jobs": {
@@ -216,6 +220,21 @@
    "title": "Information Security Engineer",
    "url": "https://jobs.lever.co/palantir/1124402c-2088-40c6-b6aa-b9ef7777519b"
   },
+  "1198d36e-8163-4205-9492-effd3c86896c": {
+   "closed_at": null,
+   "department": "Legal",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "regulatory attorney @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2022-09-05T15:01:39+00:00",
+   "posted_history": [
+    "2022-09-05T15:01:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Regulatory Attorney",
+   "url": "https://jobs.lever.co/palantir/1198d36e-8163-4205-9492-effd3c86896c"
+  },
   "12d13a31-5764-4678-8835-809f0deae49b": {
    "closed_at": null,
    "department": "Mission Operations",
@@ -245,6 +264,21 @@
    "reopened": 1,
    "title": "Forward Deployed Software Engineer - Japan Government",
    "url": "https://jobs.lever.co/palantir/12e94938-55cb-4ad9-9c05-405ebc9ef430"
+  },
+  "133e2f49-685b-4234-b118-8d8e6851fb2e": {
+   "closed_at": null,
+   "department": "Recruiting",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "talent program and events strategist @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-11-03T21:42:43+00:00",
+   "posted_history": [
+    "2026-11-03T21:42:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Talent Program and Events Strategist",
+   "url": "https://jobs.lever.co/palantir/133e2f49-685b-4234-b118-8d8e6851fb2e"
   },
   "1345438c-ebfc-4fa5-b545-30c1414f317c": {
    "closed_at": null,
@@ -1491,6 +1525,21 @@
    "title": "Talent Strategist",
    "url": "https://jobs.lever.co/palantir/484658a9-d6da-4d5f-9ab3-7c9f6ae3cd71"
   },
+  "484908de-c32a-4259-be91-6b1f8738c14a": {
+   "closed_at": null,
+   "department": "Legal",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "regulatory attorney @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2022-04-04T21:48:10+00:00",
+   "posted_history": [
+    "2022-04-04T21:48:10+00:00"
+   ],
+   "reopened": 0,
+   "title": "Regulatory Attorney",
+   "url": "https://jobs.lever.co/palantir/484908de-c32a-4259-be91-6b1f8738c14a"
+  },
   "491a0133-b580-45c3-9fd4-2314faf82fb9": {
    "closed_at": null,
    "department": "Delta",
@@ -2392,7 +2441,7 @@
    "url": "https://jobs.lever.co/palantir/72e51928-07f0-4be0-aae5-0ae6956a4846"
   },
   "73d1a90c-162d-4cb6-9e0c-4c8de9561ad0": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "Delta",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

@@ -63,6 +63,10 @@
   {
    "date": "2026-11-03",
    "open": 20
+  },
+  {
+   "date": "2026-11-04",
+   "open": 21
   }
  ],
  "jobs": {
@@ -530,6 +534,21 @@
    "reopened": 0,
    "title": "LernQuadrat - Center Manager (w/m/d) in Grieskirchen (Oberösterreich)",
    "url": "https://www.gostudent.org/en-gb/job-position/?gh_jid=5011129101"
+  },
+  "5026854101": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "lernquadrat standortleitung in dornbirn @ dornbirn, vorarlberg, austria",
+   "location": "Dornbirn, Vorarlberg, Austria",
+   "posted_at": "2026-11-04T07:38:00+00:00",
+   "posted_history": [
+    "2026-11-04T07:38:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "LernQuadrat - Standortleitung (w/m/d) in Dornbirn (Vorarlberg)",
+   "url": "https://www.gostudent.org/en-gb/job-position/?gh_jid=5026854101"
   }
  }
 }

@@ -63,6 +63,10 @@
   {
    "date": "2026-11-03",
    "open": 163
+  },
+  {
+   "date": "2026-11-04",
+   "open": 163
   }
  ],
  "jobs": {
@@ -576,8 +580,23 @@
    "title": "Senior Program Manager, Business Process Transformation",
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8010425"
   },
-  "8017242": {
+  "8011428": {
    "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "staff backend engineer moderation enforcement @ remote - united states",
+   "location": "Remote - United States",
+   "posted_at": "2026-06-23T16:42:51+00:00",
+   "posted_history": [
+    "2026-06-23T16:42:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Backend Engineer, Moderation Enforcement",
+   "url": "https://job-boards.greenhouse.io/reddit/jobs/8011428"
+  },
+  "8017242": {
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1132,7 +1151,7 @@
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8110339"
   },
   "8120503": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2795,6 +2814,21 @@
    "reopened": 0,
    "title": "Software Engineer, Infrastructure Engineering",
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8337444"
+  },
+  "8350749": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "senior software engineer grc @ remote - united states",
+   "location": "Remote - United States",
+   "posted_at": "2026-11-03T20:11:18+00:00",
+   "posted_history": [
+    "2026-11-03T20:11:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, GRC",
+   "url": "https://job-boards.greenhouse.io/reddit/jobs/8350749"
   }
  }
 }

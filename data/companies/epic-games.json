@@ -63,6 +63,10 @@
   {
    "date": "2026-11-03",
    "open": 137
+  },
+  {
+   "date": "2026-11-04",
+   "open": 138
   }
  ],
  "jobs": {
@@ -742,7 +746,7 @@
    "url": "https://epicgames.com/careers/jobs/6121292004?gh_jid=6121292004"
   },
   "6122085004": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -832,7 +836,7 @@
    "url": "https://epicgames.com/careers/jobs/6130892004?gh_jid=6130892004"
   },
   "6131367004": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -847,7 +851,7 @@
    "url": "https://epicgames.com/careers/jobs/6131367004?gh_jid=6131367004"
   },
   "6131368004": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2451,8 +2455,23 @@
    "title": "Director, Production (Licensed IP and Partner Titles - Fortnite Ecosystem)",
    "url": "https://epicgames.com/careers/jobs/6235186004?gh_jid=6235186004"
   },
-  "6239259004": {
+  "6238837004": {
    "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "senior cyber defense operations analyst @ cary,north carolina,united states",
+   "location": "Cary,North Carolina,United States",
+   "posted_at": "2026-11-03T19:35:25+00:00",
+   "posted_history": [
+    "2026-11-03T19:35:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Cyber Defense Operations Analyst",
+   "url": "https://epicgames.com/careers/jobs/6238837004?gh_jid=6238837004"
+  },
+  "6239259004": {
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -2465,6 +2484,66 @@
    "reopened": 0,
    "title": "Tools Programmer Intern (Graphics)",
    "url": "https://epicgames.com/careers/jobs/6239259004?gh_jid=6239259004"
+  },
+  "6239490004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "environment art outsource lead @ cary,north carolina,united states",
+   "location": "Cary,North Carolina,United States",
+   "posted_at": "2026-11-03T16:05:42+00:00",
+   "posted_history": [
+    "2026-11-03T16:05:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Environment Art Outsource Lead",
+   "url": "https://epicgames.com/careers/jobs/6239490004?gh_jid=6239490004"
+  },
+  "6239492004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "environment art outsource lead @ blank,blank,multiple locations",
+   "location": "BLANK,BLANK,Multiple Locations",
+   "posted_at": "2026-11-03T16:05:43+00:00",
+   "posted_history": [
+    "2026-11-03T16:05:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Environment Art Outsource Lead",
+   "url": "https://epicgames.com/careers/jobs/6239492004?gh_jid=6239492004"
+  },
+  "6242521004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "senior cyber defense operations analyst @ vancouver,british columbia,canada",
+   "location": "Vancouver,British Columbia,Canada",
+   "posted_at": "2026-11-03T19:35:31+00:00",
+   "posted_history": [
+    "2026-11-03T19:35:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Cyber Defense Operations Analyst",
+   "url": "https://epicgames.com/careers/jobs/6242521004?gh_jid=6242521004"
+  },
+  "6242546004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "senior cyber defense operations analyst @ montreal,quebec,canada",
+   "location": "Montreal,Quebec,Canada",
+   "posted_at": "2026-11-03T20:18:38+00:00",
+   "posted_history": [
+    "2026-11-03T20:18:38+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Cyber Defense Operations Analyst",
+   "url": "https://epicgames.com/careers/jobs/6242546004?gh_jid=6242546004"
   }
  }
 }

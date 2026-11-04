@@ -63,6 +63,10 @@
   {
    "date": "2026-11-03",
    "open": 166
+  },
+  {
+   "date": "2026-11-04",
+   "open": 167
   }
  ],
  "jobs": {
@@ -476,14 +480,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "machine learning engineer ii visual ai @ san francisco, ca, us; remote, us",
+   "fp": "machine learning engineer ii responsible ai @ san francisco, ca, us; remote, us",
    "location": "San Francisco, CA, US; Remote, US",
    "posted_at": "2026-03-10T23:56:48+00:00",
    "posted_history": [
     "2026-03-10T23:56:48+00:00"
    ],
    "reopened": 0,
-   "title": "Machine Learning Engineer II, Visual AI",
+   "title": "Machine Learning Engineer II, Responsible AI",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7697137"
   },
   "7718015": {
@@ -1211,14 +1215,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "staff software engineer ads core serving platform @ palo alto, ca, us; san francisco, ca, us",
+   "fp": "staff software engineer delivery platform @ palo alto, ca, us; san francisco, ca, us",
    "location": "Palo Alto, CA, US; San Francisco, CA, US",
    "posted_at": "2026-09-09T20:59:25+00:00",
    "posted_history": [
     "2026-09-09T20:59:25+00:00"
    ],
    "reopened": 0,
-   "title": "Staff Software Engineer, Ads & Core Serving Platform",
+   "title": "Staff Software Engineer, Delivery Platform",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8055266"
   },
   "8074880": {
@@ -1406,8 +1410,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "programmatic ads sales lead @ new york, ny, us",
-   "location": "New York, NY, US",
+   "fp": "programmatic ads sales lead @ chicago, il, us",
+   "location": "Chicago, IL, US",
    "posted_at": "2026-09-02T22:09:01+00:00",
    "posted_history": [
     "2026-09-02T22:09:01+00:00"
@@ -1732,7 +1736,7 @@
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8152750"
   },
   "8162046": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1927,7 +1931,7 @@
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8209845"
   },
   "8209905": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2497,7 +2501,7 @@
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8248469"
   },
   "8249643": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2632,7 +2636,7 @@
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8267930"
   },
   "8268312": {
-   "closed_at": "2026-11-03T11:21:29+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-28T10:01:46+00:00",
@@ -2642,9 +2646,39 @@
    "posted_history": [
     "2026-10-28T09:24:13+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "UK Brand Partnerships Manager",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268312"
+  },
+  "8268316": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "brand partnerships manager europe @ london, uk",
+   "location": "London, UK",
+   "posted_at": "2026-11-03T14:33:17+00:00",
+   "posted_history": [
+    "2026-11-03T14:33:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Brand Partnerships Manager, Europe",
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268316"
+  },
+  "8268318": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "lead digital producer @ san francisco, ca, us; remote, ca, us",
+   "location": "San Francisco, CA, US; Remote, CA, US",
+   "posted_at": "2026-11-03T15:46:10+00:00",
+   "posted_history": [
+    "2026-11-03T15:46:10+00:00"
+   ],
+   "reopened": 0,
+   "title": "Lead Digital Producer",
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268318"
   },
   "8268323": {
    "closed_at": "2026-11-03T11:21:29+00:00",
@@ -2711,14 +2745,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-25T08:43:53+00:00",
-   "fp": "designer @ remote, us",
+   "fp": "designer ppm smb @ remote, us",
    "location": "Remote, US",
    "posted_at": "2026-10-24T13:44:09+00:00",
    "posted_history": [
     "2026-10-24T13:44:09+00:00"
    ],
    "reopened": 0,
-   "title": "Designer",
+   "title": "Designer, PPM SMB",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268336"
   },
   "8268338": {
@@ -2750,6 +2784,21 @@
    "reopened": 0,
    "title": "Lead Art Director",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268340"
+  },
+  "8268342": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "motion designer ppm smb @ san francisco, ca, us; remote, us",
+   "location": "San Francisco, CA, US; Remote, US",
+   "posted_at": "2026-11-03T19:00:40+00:00",
+   "posted_history": [
+    "2026-11-03T19:00:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Motion Designer, PPM SMB",
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268342"
   },
   "8268344": {
    "closed_at": null,
@@ -3116,8 +3165,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
-   "fp": "sr client partner tech @ new york, ny, us",
-   "location": "New York, NY, US",
+   "fp": "sr client partner tech @ new york, ny, us; san francisco, ca, us",
+   "location": "New York, NY, US; San Francisco, CA, US",
    "posted_at": "2026-11-02T21:23:19+00:00",
    "posted_history": [
     "2026-11-02T21:23:19+00:00"

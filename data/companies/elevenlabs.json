@@ -63,9 +63,28 @@
   {
    "date": "2026-11-03",
    "open": 149
+  },
+  {
+   "date": "2026-11-04",
+   "open": 147
   }
  ],
  "jobs": {
+  "00686b87-a6e2-4fbc-9dd5-b3b35ad02638": {
+   "closed_at": null,
+   "department": "Operations",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "people partner gtm @ remote",
+   "location": "Remote",
+   "posted_at": "2026-11-03T15:07:36+00:00",
+   "posted_history": [
+    "2026-11-03T15:07:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "People Partner GTM",
+   "url": "https://jobs.ashbyhq.com/elevenlabs/00686b87-a6e2-4fbc-9dd5-b3b35ad02638"
+  },
   "02d5b86d-00e5-4204-b61a-8419c3cc1c10": {
    "closed_at": null,
    "department": "Growth",
@@ -399,7 +418,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/19b21930-d142-4dae-be23-751f5425b0af"
   },
   "1b43cf6f-bc1f-4241-b8a2-5f85fb4ea028": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -1051,17 +1070,18 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/4738893a-de4f-4a06-b104-315c6a4d366c"
   },
   "4aaebda4-53be-424c-8246-cde77ff853bb": {
-   "closed_at": "2026-10-24T08:24:32+00:00",
+   "closed_at": null,
    "department": "Operations",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "company operations lead @ london",
    "location": "London",
-   "posted_at": "2026-10-14T17:46:56+00:00",
+   "posted_at": "2026-11-03T14:37:01+00:00",
    "posted_history": [
-    "2026-10-14T17:46:56+00:00"
+    "2026-10-14T17:46:56+00:00",
+    "2026-11-03T14:37:01+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Company Operations Lead",
    "url": "https://jobs.ashbyhq.com/elevenlabs/4aaebda4-53be-424c-8246-cde77ff853bb"
   },
@@ -1156,7 +1176,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/5da4bb46-0bac-4e35-8731-9e182ad02bee"
   },
   "5e43ae90-da6a-4a94-b497-458fd6b160e2": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -1397,7 +1417,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/75f7890c-2d11-4c18-a95f-03ef85e6bd15"
   },
   "78c564eb-ee87-46d9-b2fd-4322a223a547": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2091,6 +2111,21 @@
    "title": "Account Executive - Japan",
    "url": "https://jobs.ashbyhq.com/elevenlabs/ac7cc39a-a58b-4ef2-961a-ca16e060a361"
   },
+  "b050f85c-70d5-4da6-8224-bf9f8f4c5563": {
+   "closed_at": null,
+   "department": "Operations",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "people partner engineering product @ remote",
+   "location": "Remote",
+   "posted_at": "2026-11-03T15:00:30+00:00",
+   "posted_history": [
+    "2026-11-03T15:00:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "People Partner Engineering & Product",
+   "url": "https://jobs.ashbyhq.com/elevenlabs/b050f85c-70d5-4da6-8224-bf9f8f4c5563"
+  },
   "b178d5b8-2edf-44e9-bcd8-9a2be5b7f188": {
    "closed_at": null,
    "department": "Revenue",
@@ -2549,7 +2584,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/d16a7ad6-ffbd-4655-8716-4872263f99ce"
   },
   "d1caf988-ab4a-4b72-9ed9-d18e986fb7f1": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-20T08:53:12+00:00",
@@ -2810,7 +2845,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/e815e2a8-e3bd-4e41-bbc3-ebe57277927b"
   },
   "ea5ed1d0-332d-4777-ba7a-4662c6f0b4d2": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",

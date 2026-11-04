@@ -63,6 +63,10 @@
   {
    "date": "2026-11-03",
    "open": 261
+  },
+  {
+   "date": "2026-11-04",
+   "open": 275
   }
  ],
  "jobs": {
@@ -1086,19 +1090,34 @@
    "title": "Staff Applied Data Scientist, Pricing",
    "url": "https://www.coinbase.com/careers/positions/8083051?gh_jid=8083051"
   },
+  "8083906": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "customer support specialist ii 3 @ manila, philippines",
+   "location": "Manila, Philippines",
+   "posted_at": "2026-11-04T00:47:30+00:00",
+   "posted_history": [
+    "2026-11-04T00:47:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Support Specialist II-3",
+   "url": "https://www.coinbase.com/careers/positions/8083906?gh_jid=8083906"
+  },
   "8088201": {
    "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior software engineer frontend coinbase card team @ remote - usa",
+   "fp": "senior mobile engineer @ remote - usa",
    "location": "Remote - USA",
    "posted_at": "2026-07-28T17:00:31+00:00",
    "posted_history": [
     "2026-07-28T17:00:31+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Software Engineer - Frontend - Coinbase Card team",
+   "title": "Senior Mobile Engineer, (iOS/Android)",
    "url": "https://www.coinbase.com/careers/positions/8088201?gh_jid=8088201"
   },
   "8089161": {
@@ -2782,7 +2801,7 @@
    "url": "https://www.coinbase.com/careers/positions/8230848?gh_jid=8230848"
   },
   "8232211": {
-   "closed_at": "2026-10-31T09:57:28+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2792,7 +2811,7 @@
    "posted_history": [
     "2026-09-28T23:10:00+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Strategic Program Manager",
    "url": "https://www.coinbase.com/careers/positions/8232211?gh_jid=8232211"
   },
@@ -4161,6 +4180,36 @@
    "title": "Manager, People Ops & Automation",
    "url": "https://www.coinbase.com/careers/positions/8335575?gh_jid=8335575"
   },
+  "8335618": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "social support specialist i @ remote - usa",
+   "location": "Remote - USA",
+   "posted_at": "2026-11-04T00:52:09+00:00",
+   "posted_history": [
+    "2026-11-04T00:52:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Social Support Specialist I",
+   "url": "https://www.coinbase.com/careers/positions/8335618?gh_jid=8335618"
+  },
+  "8335621": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "social support specialist i @ remote - usa",
+   "location": "Remote - USA",
+   "posted_at": "2026-11-04T00:54:24+00:00",
+   "posted_history": [
+    "2026-11-04T00:54:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Social Support Specialist I",
+   "url": "https://www.coinbase.com/careers/positions/8335621?gh_jid=8335621"
+  },
   "8335796": {
    "closed_at": null,
    "department": "",
@@ -4565,6 +4614,156 @@
    "reopened": 0,
    "title": "Senior Risk Analyst, Payments Risk Operations",
    "url": "https://www.coinbase.com/careers/positions/8346266?gh_jid=8346266"
+  },
+  "8348153": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "staff enterprise architect @ remote - usa",
+   "location": "Remote - USA",
+   "posted_at": "2026-11-03T21:24:26+00:00",
+   "posted_history": [
+    "2026-11-03T21:24:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Enterprise Architect",
+   "url": "https://www.coinbase.com/careers/positions/8348153?gh_jid=8348153"
+  },
+  "8348406": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "senior product manager risk @ remote - usa",
+   "location": "Remote - USA",
+   "posted_at": "2026-11-03T17:17:23+00:00",
+   "posted_history": [
+    "2026-11-03T17:17:23+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Manager, Risk",
+   "url": "https://www.coinbase.com/careers/positions/8348406?gh_jid=8348406"
+  },
+  "8350017": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "it support engineer @ london, uk",
+   "location": "London, UK",
+   "posted_at": "2026-11-03T16:49:47+00:00",
+   "posted_history": [
+    "2026-11-03T16:49:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "IT Support Engineer",
+   "url": "https://www.coinbase.com/careers/positions/8350017?gh_jid=8350017"
+  },
+  "8350050": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "senior associate compliance model governance @ remote - usa",
+   "location": "Remote - USA",
+   "posted_at": "2026-11-04T02:24:02+00:00",
+   "posted_history": [
+    "2026-11-04T02:24:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Associate, Compliance Model Governance",
+   "url": "https://www.coinbase.com/careers/positions/8350050?gh_jid=8350050"
+  },
+  "8350362": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "customer support specialist ll @ manila, philippines",
+   "location": "Manila, Philippines",
+   "posted_at": "2026-11-03T20:38:43+00:00",
+   "posted_history": [
+    "2026-11-03T20:38:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Support Specialist ll",
+   "url": "https://www.coinbase.com/careers/positions/8350362?gh_jid=8350362"
+  },
+  "8350367": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "customer support specialist ll @ manila, philippines",
+   "location": "Manila, Philippines",
+   "posted_at": "2026-11-04T03:46:12+00:00",
+   "posted_history": [
+    "2026-11-04T03:46:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Support Specialist ll",
+   "url": "https://www.coinbase.com/careers/positions/8350367?gh_jid=8350367"
+  },
+  "8350371": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "customer support specialist ll @ manila, philippines",
+   "location": "Manila, Philippines",
+   "posted_at": "2026-11-04T03:59:07+00:00",
+   "posted_history": [
+    "2026-11-04T03:59:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Support Specialist ll",
+   "url": "https://www.coinbase.com/careers/positions/8350371?gh_jid=8350371"
+  },
+  "8350374": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "customer support specialist ll @ manila, philippines",
+   "location": "Manila, Philippines",
+   "posted_at": "2026-11-04T04:08:55+00:00",
+   "posted_history": [
+    "2026-11-04T04:08:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Support Specialist ll",
+   "url": "https://www.coinbase.com/careers/positions/8350374?gh_jid=8350374"
+  },
+  "8351163": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "senior software engineer backend @ remote - usa",
+   "location": "Remote - USA",
+   "posted_at": "2026-11-03T21:52:11+00:00",
+   "posted_history": [
+    "2026-11-03T21:52:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Backend (Consumer - Risk)",
+   "url": "https://www.coinbase.com/careers/positions/8351163?gh_jid=8351163"
+  },
+  "8351419": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "head of creative operations @ remote - usa",
+   "location": "Remote - USA",
+   "posted_at": "2026-11-04T02:55:06+00:00",
+   "posted_history": [
+    "2026-11-04T02:55:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "Head of Creative Operations",
+   "url": "https://www.coinbase.com/careers/positions/8351419?gh_jid=8351419"
   }
  }
 }

@@ -63,6 +63,10 @@
   {
    "date": "2026-11-03",
    "open": 374
+  },
+  {
+   "date": "2026-11-04",
+   "open": 376
   }
  ],
  "jobs": {
@@ -517,6 +521,21 @@
    "title": "Staff Software Engineer, Production Engineering",
    "url": "https://jobs.ashbyhq.com/harvey/11571c63-2fc5-41ce-b855-c949ead5efca"
   },
+  "118f1c4c-5e46-416a-8caa-d6f026fcbcfe": {
+   "closed_at": null,
+   "department": "Design",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "staff content designer @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-11-03T19:31:14+00:00",
+   "posted_history": [
+    "2026-11-03T19:31:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Content Designer",
+   "url": "https://jobs.ashbyhq.com/harvey/118f1c4c-5e46-416a-8caa-d6f026fcbcfe"
+  },
   "11db9001-3c62-4058-8822-ab384213a806": {
    "closed_at": null,
    "department": "Customer Experience",
@@ -788,6 +807,21 @@
    "reopened": 0,
    "title": "Legal Engineer, Custom Solutions",
    "url": "https://jobs.ashbyhq.com/harvey/1d279004-4491-4baa-b95c-1a3b374dc4db"
+  },
+  "1e198178-a4db-4587-a024-f8171ce0e8fd": {
+   "closed_at": null,
+   "department": "Design",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "staff content designer @ new york",
+   "location": "New York",
+   "posted_at": "2026-11-03T19:31:21+00:00",
+   "posted_history": [
+    "2026-11-03T19:31:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Content Designer",
+   "url": "https://jobs.ashbyhq.com/harvey/1e198178-a4db-4587-a024-f8171ce0e8fd"
   },
   "1f0af901-144e-402e-8b42-297020c0b9a1": {
    "closed_at": null,
@@ -1637,7 +1671,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/4154ddf4-99e3-4863-9509-826a6faddeea"
   },
   "4167f471-715b-413b-86c5-0596aae42eb8": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "IT",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1984,7 +2018,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/4d661139-19ad-42af-9f6c-a68c71263e14"
   },
   "4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2285,7 +2319,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/5960a059-9da8-4dc2-a599-2c7c0949b2b4"
   },
   "5a1452ff-566c-4a80-905d-61281a02a40f": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "Recruiting",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2300,17 +2334,18 @@
    "url": "https://jobs.ashbyhq.com/harvey/5a1452ff-566c-4a80-905d-61281a02a40f"
   },
   "5a22d5da-6be0-4f97-87d2-bb6a52aba554": {
-   "closed_at": "2026-10-29T10:25:29+00:00",
+   "closed_at": null,
    "department": "Customer Success",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "majors customer success manager @ san francisco",
    "location": "San Francisco",
-   "posted_at": "2026-09-22T20:17:44+00:00",
+   "posted_at": "2026-11-03T20:39:24+00:00",
    "posted_history": [
-    "2026-09-22T20:17:44+00:00"
+    "2026-09-22T20:17:44+00:00",
+    "2026-11-03T20:39:24+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Majors Customer Success Manager",
    "url": "https://jobs.ashbyhq.com/harvey/5a22d5da-6be0-4f97-87d2-bb6a52aba554"
   },
@@ -2810,6 +2845,21 @@
    "reopened": 0,
    "title": "Staff Software Engineer, Backend",
    "url": "https://jobs.ashbyhq.com/harvey/6ad3902b-2888-4c02-913d-de942e807133"
+  },
+  "6b91c32f-2fc6-4215-a743-9e83151de61e": {
+   "closed_at": null,
+   "department": "Go to Market",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "legal engineer @ boston",
+   "location": "Boston",
+   "posted_at": "2026-11-03T16:06:21+00:00",
+   "posted_history": [
+    "2026-11-03T16:06:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Legal Engineer (Law Firm, Litigation/Regulatory)",
+   "url": "https://jobs.ashbyhq.com/harvey/6b91c32f-2fc6-4215-a743-9e83151de61e"
   },
   "6be92530-1e2f-433b-974a-55586bc3ba0c": {
    "closed_at": null,
@@ -4046,6 +4096,21 @@
    "title": "International Law School Manager",
    "url": "https://jobs.ashbyhq.com/harvey/992f731a-7b8b-48d5-a856-ecef79ea8366"
   },
+  "993e43fa-a9a1-45be-9d74-3a96c7c303ef": {
+   "closed_at": null,
+   "department": "Customer Success",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "majors customer success manager @ new york",
+   "location": "New York",
+   "posted_at": "2026-11-03T20:57:17+00:00",
+   "posted_history": [
+    "2026-11-03T20:57:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Majors Customer Success Manager (Asset Management)",
+   "url": "https://jobs.ashbyhq.com/harvey/993e43fa-a9a1-45be-9d74-3a96c7c303ef"
+  },
   "99aceabe-916e-4491-97e9-42f2471bf087": {
    "closed_at": null,
    "department": "Go to Market",
@@ -4348,17 +4413,18 @@
    "url": "https://jobs.ashbyhq.com/harvey/a840849a-c8bd-49f1-b96c-230b03d953d5"
   },
   "a8a0c22a-fb05-4eb0-85c2-8ea334058324": {
-   "closed_at": "2026-10-29T10:25:29+00:00",
+   "closed_at": null,
    "department": "Customer Success",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "majors customer success manager @ new york",
    "location": "New York",
-   "posted_at": "2026-09-22T20:19:04+00:00",
+   "posted_at": "2026-11-03T20:38:22+00:00",
    "posted_history": [
-    "2026-09-22T20:19:04+00:00"
+    "2026-09-22T20:19:04+00:00",
+    "2026-11-03T20:38:22+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Majors Customer Success Manager",
    "url": "https://jobs.ashbyhq.com/harvey/a8a0c22a-fb05-4eb0-85c2-8ea334058324"
   },
@@ -4589,7 +4655,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/b0570329-6c45-4446-9314-146c9dead90b"
   },
   "b0996df6-6b6e-42be-a4f9-0084536068f5": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4660,7 +4726,7 @@
     "2026-05-13T23:34:40+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Software Engineer, Full Stack",
+   "title": "Senior Software Engineer, Full Stack (Backend)",
    "url": "https://jobs.ashbyhq.com/harvey/b4f45d7f-6a88-40d5-83a6-e4db27f3e402"
   },
   "b6cfee1e-67c7-420e-a3fc-24677eda6d2c": {
@@ -5403,6 +5469,21 @@
    "title": "Staff Security Software Engineer, IAM",
    "url": "https://jobs.ashbyhq.com/harvey/d16bd223-cb68-46f3-8bf6-41267b9770cb"
   },
+  "d18248c2-06dc-4e04-9ba6-965cfa9ba72b": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "staff software engineer full stack @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-11-03T17:00:44+00:00",
+   "posted_history": [
+    "2026-11-03T17:00:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer, Full Stack (Frontend)",
+   "url": "https://jobs.ashbyhq.com/harvey/d18248c2-06dc-4e04-9ba6-965cfa9ba72b"
+  },
   "d2624850-8dd4-4eb4-b5dc-f386b715a26f": {
    "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "Security",
@@ -5463,6 +5544,21 @@
    "reopened": 0,
    "title": "Staff Product Manager, Infrastructure",
    "url": "https://jobs.ashbyhq.com/harvey/d629fa64-599d-435c-b4ef-a925299ddac8"
+  },
+  "d630f79b-346f-4ef7-a231-51bac8887f9e": {
+   "closed_at": null,
+   "department": "Go to Market",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "account executive enterprise quebec montreal @ remote",
+   "location": "Remote",
+   "posted_at": "2026-11-04T01:00:53+00:00",
+   "posted_history": [
+    "2026-11-04T01:00:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, Enterprise - Quebec, Montreal",
+   "url": "https://jobs.ashbyhq.com/harvey/d630f79b-346f-4ef7-a231-51bac8887f9e"
   },
   "d6ba6f18-42c8-4bcd-88a7-f6145c472c78": {
    "closed_at": "2026-10-31T09:57:28+00:00",
@@ -5720,6 +5816,21 @@
    "title": "Mid-Market Customer Success Manager (San Francisco)",
    "url": "https://jobs.ashbyhq.com/harvey/dcacb8c5-d91b-4f8f-a444-d8c86cb606c9"
   },
+  "dd56ec18-3c16-42e0-89c1-2348b25c1a98": {
+   "closed_at": null,
+   "department": "Go to Market",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "gtm strategy operations @ new york",
+   "location": "New York",
+   "posted_at": "2026-11-04T00:53:26+00:00",
+   "posted_history": [
+    "2026-11-04T00:53:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "GTM Strategy & Operations",
+   "url": "https://jobs.ashbyhq.com/harvey/dd56ec18-3c16-42e0-89c1-2348b25c1a98"
+  },
   "ddba7b8c-d44b-48f5-982f-c4ca651f5ab3": {
    "closed_at": null,
    "department": "Customer Experience",
@@ -5736,7 +5847,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/ddba7b8c-d44b-48f5-982f-c4ca651f5ab3"
   },
   "de0168ee-1abc-4f43-ad3b-e8d8bcba67e5": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "IT",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5766,7 +5877,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/de1d9fbe-c7a9-49ac-b5c0-aaaa606325b2"
   },
   "de62296b-ea86-4986-8786-5341792db477": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "Go to Market",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6413,7 +6524,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/f996dd71-e08c-487d-abe1-9900c8d29331"
   },
   "f9b5a7bc-c872-4206-9201-477034913473": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "Go to Market",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

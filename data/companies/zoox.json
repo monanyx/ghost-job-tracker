@@ -63,6 +63,10 @@
   {
    "date": "2026-11-03",
    "open": 223
+  },
+  {
+   "date": "2026-11-04",
+   "open": 225
   }
  ],
  "jobs": {
@@ -352,7 +356,7 @@
    "url": "https://jobs.lever.co/zoox/0da91b55-fd12-4d1f-8f35-e11804f591ab"
   },
   "0dd5de4b-4e98-4808-85fd-e739e7fc5bba": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "Software Platforms and Product",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -791,14 +795,14 @@
    "department": "Software Platforms and Product",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior staff software engineer ml ai applications @ foster city, ca",
+   "fp": "senior staff software engineer ai ml models agents tools @ foster city, ca",
    "location": "Foster City, CA",
    "posted_at": "2026-05-05T19:48:58+00:00",
    "posted_history": [
     "2026-05-05T19:48:58+00:00"
    ],
    "reopened": 0,
-   "title": "Senior/Staff Software Engineer - ML/AI Applications",
+   "title": "Senior/Staff Software Engineer - AI/ML Models, Agents & Tools",
    "url": "https://jobs.lever.co/zoox/2aa94106-52ac-4f67-871b-1140f8644ea4"
   },
   "2ae1f38f-1b7e-4ec1-8a20-cc3816f96878": {
@@ -2391,6 +2395,21 @@
    "title": "Release Engineer",
    "url": "https://jobs.lever.co/zoox/89d5927e-db67-443b-9dd2-53d367c11f9b"
   },
+  "8aa27b7f-76b2-4760-9ebb-70a47e7cbbf6": {
+   "closed_at": null,
+   "department": "Vehicle Integration, Testing & Validation",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "operational strength attribute lead vehicle integration @ foster city, ca",
+   "location": "Foster City, CA",
+   "posted_at": "2026-11-03T23:11:26+00:00",
+   "posted_history": [
+    "2026-11-03T23:11:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Operational Strength Attribute Lead, Vehicle Integration",
+   "url": "https://jobs.lever.co/zoox/8aa27b7f-76b2-4760-9ebb-70a47e7cbbf6"
+  },
   "8aecfb4f-9e7a-46e2-832e-bfc9478ef39b": {
    "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "RiderOps and TeleOps",
@@ -2720,6 +2739,21 @@
    "reopened": 0,
    "title": "Manager, Manufacturing Systems",
    "url": "https://jobs.lever.co/zoox/a0ffbca7-3613-498a-9f7b-c8dc13858184"
+  },
+  "a1e4ce53-12b7-440c-b222-c1b598384c31": {
+   "closed_at": null,
+   "department": "Direct Procurement",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "strategic sourcing manager battery @ foster city, ca",
+   "location": "Foster City, CA",
+   "posted_at": "2026-10-07T16:39:34+00:00",
+   "posted_history": [
+    "2026-10-07T16:39:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Sourcing Manager, Battery",
+   "url": "https://jobs.lever.co/zoox/a1e4ce53-12b7-440c-b222-c1b598384c31"
   },
   "a30574c9-8ef3-408f-bc85-39aad54ad115": {
    "closed_at": null,
@@ -3411,19 +3445,34 @@
    "title": "Senior / Staff Machine Learning Engineer - 3D Sensor Simulation",
    "url": "https://jobs.lever.co/zoox/d6748d5e-b0ee-424b-b303-c5688713662a"
   },
+  "d68c5944-5ae5-4371-945f-aecad726c1c7": {
+   "closed_at": null,
+   "department": "Autonomy Software",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "senior manager director cartography @ foster city, ca",
+   "location": "Foster City, CA",
+   "posted_at": "2026-11-02T19:56:31+00:00",
+   "posted_history": [
+    "2026-11-02T19:56:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager/Director, Cartography",
+   "url": "https://jobs.lever.co/zoox/d68c5944-5ae5-4371-945f-aecad726c1c7"
+  },
   "d82e1f4a-a2db-4374-957b-95c5c4cf7826": {
    "closed_at": null,
    "department": "AHMO",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior technical program manager manufacturing capacity @ fremont, ca",
+   "fp": "senior technical program manager advanced hardware manufacturing @ fremont, ca",
    "location": "Fremont, CA",
    "posted_at": "2026-10-13T23:15:31+00:00",
    "posted_history": [
     "2026-10-13T23:15:31+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Technical Program Manager, Manufacturing Capacity",
+   "title": "Senior Technical Program Manager, Advanced Hardware Manufacturing",
    "url": "https://jobs.lever.co/zoox/d82e1f4a-a2db-4374-957b-95c5c4cf7826"
   },
   "d856c631-446c-452f-81f5-0359b50403c9": {
@@ -3491,14 +3540,14 @@
    "department": "Software Systems",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "staff software engineer hpc @ foster city, ca",
+   "fp": "senior staff software engineer hpc @ foster city, ca",
    "location": "Foster City, CA",
    "posted_at": "2026-08-10T18:50:33+00:00",
    "posted_history": [
     "2026-08-10T18:50:33+00:00"
    ],
    "reopened": 0,
-   "title": "Staff Software Engineer, HPC",
+   "title": "Senior/Staff Software Engineer, HPC",
    "url": "https://jobs.lever.co/zoox/de43fa7a-1cf2-41b9-ba99-244f699e3870"
   },
   "e0d46302-6fa2-45a7-927d-cd11ccf1843e": {

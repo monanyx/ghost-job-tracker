@@ -63,6 +63,10 @@
   {
    "date": "2026-11-03",
    "open": 225
+  },
+  {
+   "date": "2026-11-04",
+   "open": 222
   }
  ],
  "jobs": {
@@ -247,7 +251,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7559294003?gh_jid=7559294003"
   },
   "7562947003": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -262,7 +266,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7562947003?gh_jid=7562947003"
   },
   "7584475003": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
@@ -686,14 +690,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "lead applied value engineer technology consultant @ redwood city, us, california",
+   "fp": "lead applied value engineer @ redwood city, us, california",
    "location": "Redwood City, US, California",
    "posted_at": "2026-05-08T15:45:58+00:00",
    "posted_history": [
     "2026-05-08T15:45:58+00:00"
    ],
    "reopened": 0,
-   "title": "Lead Applied Value Engineer - Technology Consultant",
+   "title": "Lead Applied Value Engineer",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7725802003?gh_jid=7725802003"
   },
   "7725826003": {
@@ -757,7 +761,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7741095003?gh_jid=7741095003"
   },
   "7741669003": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
@@ -1286,14 +1290,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "lead value engineer life sciences @ new york, us, new york",
+   "fp": "lead value engineer @ new york, us, new york",
    "location": "New York, US, New York",
    "posted_at": "2026-07-10T21:19:52+00:00",
    "posted_history": [
     "2026-07-10T21:19:52+00:00"
    ],
    "reopened": 0,
-   "title": "Lead Value Engineer - Life Sciences",
+   "title": "Lead Value Engineer",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7800529003?gh_jid=7800529003"
   },
   "7800552003": {
@@ -1462,7 +1466,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7816927003?gh_jid=7816927003"
   },
   "7816965003": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1586,14 +1590,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior value engineer enterprise customer success @ redwood city, us, california",
+   "fp": "senior value engineer @ redwood city, us, california",
    "location": "Redwood City, US, California",
    "posted_at": "2026-08-05T18:45:02+00:00",
    "posted_history": [
     "2026-08-05T18:45:02+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Value Engineer - Enterprise Customer Success",
+   "title": "Senior Value Engineer",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7817377003?gh_jid=7817377003"
   },
   "7817387003": {
@@ -1961,14 +1965,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior value engineer technology consultant @ raleigh, us, north carolina",
+   "fp": "senior value engineer @ raleigh, us, north carolina",
    "location": "Raleigh, US, North Carolina",
    "posted_at": "2026-08-15T13:42:25+00:00",
    "posted_history": [
     "2026-08-15T13:42:25+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Value Engineer - Technology Consultant",
+   "title": "Senior Value Engineer",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7875762003?gh_jid=7875762003"
   },
   "7884206003": {
@@ -2122,7 +2126,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7885993003?gh_jid=7885993003"
   },
   "7886038003": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2171,14 +2175,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "client value partner high tech industry @ remote, us, texas",
+   "fp": "client value partner @ remote, us, texas",
    "location": "Remote, US, Texas",
    "posted_at": "2026-08-17T13:41:59+00:00",
    "posted_history": [
     "2026-08-17T13:41:59+00:00"
    ],
    "reopened": 0,
-   "title": "Client Value Partner - High Tech Industry",
+   "title": "Client Value Partner",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7886119003?gh_jid=7886119003"
   },
   "7887061003": {
@@ -2666,14 +2670,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior applied value engineer high tech consulting @ redwood city, us, california",
+   "fp": "senior applied value engineer @ redwood city, us, california",
    "location": "Redwood City, US, California",
    "posted_at": "2026-09-15T21:03:08+00:00",
    "posted_history": [
     "2026-09-15T21:03:08+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Applied Value Engineer - High Tech Consulting",
+   "title": "Senior Applied Value Engineer",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7995461003?gh_jid=7995461003"
   },
   "7995493003": {
@@ -2966,14 +2970,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior lead ai deployment engineer @ amsterdam, netherlands",
+   "fp": "senior data ai consultant @ amsterdam, netherlands",
    "location": "Amsterdam, Netherlands",
    "posted_at": "2026-09-30T12:06:19+00:00",
    "posted_history": [
     "2026-09-30T12:06:19+00:00"
    ],
    "reopened": 0,
-   "title": "Senior/ Lead AI Deployment Engineer",
+   "title": "Senior Data & AI Consultant",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8007989003?gh_jid=8007989003"
   },
   "8008440003": {
@@ -3892,7 +3896,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8068099003?gh_jid=8068099003"
   },
   "8110066003": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
@@ -3907,7 +3911,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8110066003?gh_jid=8110066003"
   },
   "8110297003": {
-   "closed_at": null,
+   "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
@@ -3920,6 +3924,66 @@
    "reopened": 0,
    "title": "Senior Deployment Engineer",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8110297003?gh_jid=8110297003"
+  },
+  "8156989003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "intern strategic program management @ munich, germany",
+   "location": "Munich, Germany",
+   "posted_at": "2026-11-03T12:53:36+00:00",
+   "posted_history": [
+    "2026-11-03T12:53:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Intern Strategic Program Management",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/8156989003?gh_jid=8156989003"
+  },
+  "8156996003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "intern strategic program management @ madrid, spain",
+   "location": "Madrid, Spain",
+   "posted_at": "2026-11-03T12:53:38+00:00",
+   "posted_history": [
+    "2026-11-03T12:53:38+00:00"
+   ],
+   "reopened": 0,
+   "title": "Intern Strategic Program Management",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/8156996003?gh_jid=8156996003"
+  },
+  "8173334003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "lead project manager @ amsterdam, netherlands",
+   "location": "Amsterdam, Netherlands",
+   "posted_at": "2026-11-04T08:49:33+00:00",
+   "posted_history": [
+    "2026-11-04T08:49:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Lead Project Manager",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/8173334003?gh_jid=8173334003"
+  },
+  "8179618003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-04T11:35:04+00:00",
+   "fp": "principal enterprise account executive @ seoul, south korea",
+   "location": "Seoul, South Korea",
+   "posted_at": "2026-11-04T00:49:04+00:00",
+   "posted_history": [
+    "2026-11-04T00:49:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Enterprise Account Executive",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/8179618003?gh_jid=8179618003"
   }
  }
 }
