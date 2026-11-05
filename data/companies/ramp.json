@@ -67,6 +67,10 @@
   {
    "date": "2026-11-04",
    "open": 168
+  },
+  {
+   "date": "2026-11-05",
+   "open": 171
   }
  ],
  "jobs": {
@@ -806,7 +810,7 @@
    "url": "https://jobs.ashbyhq.com/ramp/465799ed-c58b-4c6a-a290-2e95b52ef0bb"
   },
   "4745807e-82f4-4b1a-857c-dc8dadc73076": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "Risk",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1119,6 +1123,21 @@
    "reopened": 0,
    "title": "GTM Business Systems Engineer, Quote-to-Cash",
    "url": "https://jobs.ashbyhq.com/ramp/6310f1b3-1ae2-476c-b4ce-affe530ede26"
+  },
+  "6511d68f-b65d-4499-962f-7e2f75eabe3f": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "software engineer frontend @ new york, ny (hq)",
+   "location": "New York, NY (HQ)",
+   "posted_at": "2026-11-04T19:56:37+00:00",
+   "posted_history": [
+    "2026-11-04T19:56:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Frontend",
+   "url": "https://jobs.ashbyhq.com/ramp/6511d68f-b65d-4499-962f-7e2f75eabe3f"
   },
   "66b5410f-339d-4656-92a6-cf4e31285bc9": {
    "closed_at": "2026-11-04T11:35:04+00:00",
@@ -1509,6 +1528,21 @@
    "reopened": 0,
    "title": "Customer Activation Manager | Mid-Market",
    "url": "https://jobs.ashbyhq.com/ramp/8086c65e-b4cc-4bdd-8f1f-5bdf03130ff4"
+  },
+  "814edb3c-fa7a-452f-bde6-91daa9ffdd86": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "manager account manager growth @ new york, ny (hq)",
+   "location": "New York, NY (HQ)",
+   "posted_at": "2026-11-05T02:27:54+00:00",
+   "posted_history": [
+    "2026-11-05T02:27:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Account Manager | Growth",
+   "url": "https://jobs.ashbyhq.com/ramp/814edb3c-fa7a-452f-bde6-91daa9ffdd86"
   },
   "83e5a0bb-c7c4-4118-9526-0215f260bfc2": {
    "closed_at": null,
@@ -2021,6 +2055,21 @@
    "title": "Software Engineering Intern, Backend",
    "url": "https://jobs.ashbyhq.com/ramp/acf6b28d-767f-483f-8ff2-114620cd7e04"
   },
+  "ad8bb2ef-9c8a-4379-829a-47143257a23b": {
+   "closed_at": null,
+   "department": "Risk",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "manager fraud operations @ new york, ny (hq)",
+   "location": "New York, NY (HQ)",
+   "posted_at": "2026-11-04T19:40:52+00:00",
+   "posted_history": [
+    "2026-11-04T19:40:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Fraud Operations",
+   "url": "https://jobs.ashbyhq.com/ramp/ad8bb2ef-9c8a-4379-829a-47143257a23b"
+  },
   "ad9d3118-1ab4-488a-a6e8-3784082f92a4": {
    "closed_at": null,
    "department": "Sales",
@@ -2035,6 +2084,21 @@
    "reopened": 0,
    "title": "Senior Channel Partner Manager, Canada",
    "url": "https://jobs.ashbyhq.com/ramp/ad9d3118-1ab4-488a-a6e8-3784082f92a4"
+  },
+  "af262319-1c4f-4a36-93bd-ef260cb02aed": {
+   "closed_at": null,
+   "department": "People & Talent",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "recruiting coordinator @ new york, ny (hq)",
+   "location": "New York, NY (HQ)",
+   "posted_at": "2026-11-04T22:31:42+00:00",
+   "posted_history": [
+    "2026-11-04T22:31:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Recruiting Coordinator (Fixed Term)",
+   "url": "https://jobs.ashbyhq.com/ramp/af262319-1c4f-4a36-93bd-ef260cb02aed"
   },
   "afe866c3-3725-4416-9e5f-530ed89b295d": {
    "closed_at": null,
@@ -2052,7 +2116,7 @@
    "url": "https://jobs.ashbyhq.com/ramp/afe866c3-3725-4416-9e5f-530ed89b295d"
   },
   "b0433f82-e0c0-4dd8-9d41-c6bf2371c2ea": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "People & Talent",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2155,6 +2219,21 @@
    "reopened": 0,
    "title": "Partner Development Representative | Reseller",
    "url": "https://jobs.ashbyhq.com/ramp/b599c5a9-9c9d-4826-b67a-ca5e012faaad"
+  },
+  "b6132946-62e7-4ed4-9b93-f7cbe0e2c1fe": {
+   "closed_at": null,
+   "department": "Risk",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "fraud operations specialist @ new york, ny (hq)",
+   "location": "New York, NY (HQ)",
+   "posted_at": "2026-11-04T20:58:36+00:00",
+   "posted_history": [
+    "2026-11-04T20:58:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Fraud Operations Specialist",
+   "url": "https://jobs.ashbyhq.com/ramp/b6132946-62e7-4ed4-9b93-f7cbe0e2c1fe"
   },
   "b614563f-3ce6-4dca-b5ba-0e5a6c8bda27": {
    "closed_at": null,

@@ -67,6 +67,10 @@
   {
    "date": "2026-11-04",
    "open": 58
+  },
+  {
+   "date": "2026-11-05",
+   "open": 65
   }
  ],
  "jobs": {
@@ -86,7 +90,7 @@
    "url": "https://job-boards.greenhouse.io/twitch/jobs/8482236002"
   },
   "8482392002": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -326,7 +330,7 @@
    "url": "https://job-boards.greenhouse.io/twitch/jobs/8779882002"
   },
   "8784407002": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1059,6 +1063,141 @@
    "reopened": 0,
    "title": "Sr. Program Manager, Accessibility",
    "url": "https://job-boards.greenhouse.io/twitch/jobs/8918711002"
+  },
+  "8929508002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "senior financial analyst ai transformation @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-04T22:11:30+00:00",
+   "posted_history": [
+    "2026-11-04T22:11:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Financial Analyst, AI Transformation",
+   "url": "https://job-boards.greenhouse.io/twitch/jobs/8929508002"
+  },
+  "8929545002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "software dev engineer i security platform @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-04T23:49:55+00:00",
+   "posted_history": [
+    "2026-11-04T23:49:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Dev Engineer I - Security Platform",
+   "url": "https://job-boards.greenhouse.io/twitch/jobs/8929545002"
+  },
+  "8929584002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "senior manager global creator programs @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-05T03:09:24+00:00",
+   "posted_history": [
+    "2026-11-05T03:09:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Global Creator Programs",
+   "url": "https://job-boards.greenhouse.io/twitch/jobs/8929584002"
+  },
+  "8931183002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "senior financial analyst ai transformation @ seattle, wa",
+   "location": "Seattle, WA",
+   "posted_at": "2026-11-04T22:11:28+00:00",
+   "posted_history": [
+    "2026-11-04T22:11:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Financial Analyst, AI Transformation",
+   "url": "https://job-boards.greenhouse.io/twitch/jobs/8931183002"
+  },
+  "8931194002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "senior financial analyst ai transformation @ new york city",
+   "location": "New York City",
+   "posted_at": "2026-11-04T22:11:26+00:00",
+   "posted_history": [
+    "2026-11-04T22:11:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Financial Analyst, AI Transformation",
+   "url": "https://job-boards.greenhouse.io/twitch/jobs/8931194002"
+  },
+  "8931343002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "software dev engineer i security platform @ seattle, wa",
+   "location": "Seattle, WA",
+   "posted_at": "2026-11-04T23:49:58+00:00",
+   "posted_history": [
+    "2026-11-04T23:49:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Dev Engineer I - Security Platform",
+   "url": "https://job-boards.greenhouse.io/twitch/jobs/8931343002"
+  },
+  "8931345002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "software dev engineer i security platform @ irvine, ca",
+   "location": "Irvine, CA",
+   "posted_at": "2026-11-04T23:50:00+00:00",
+   "posted_history": [
+    "2026-11-04T23:50:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Dev Engineer I - Security Platform",
+   "url": "https://job-boards.greenhouse.io/twitch/jobs/8931345002"
+  },
+  "8931458002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "senior manager global creator programs @ seattle, wa",
+   "location": "Seattle, WA",
+   "posted_at": "2026-11-05T03:09:26+00:00",
+   "posted_history": [
+    "2026-11-05T03:09:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Global Creator Programs",
+   "url": "https://job-boards.greenhouse.io/twitch/jobs/8931458002"
+  },
+  "8931461002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "senior manager global creator programs @ new york city",
+   "location": "New York City",
+   "posted_at": "2026-11-05T03:09:28+00:00",
+   "posted_history": [
+    "2026-11-05T03:09:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Global Creator Programs",
+   "url": "https://job-boards.greenhouse.io/twitch/jobs/8931461002"
   }
  }
 }

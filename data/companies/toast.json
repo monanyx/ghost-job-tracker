@@ -67,6 +67,10 @@
   {
    "date": "2026-11-04",
    "open": 349
+  },
+  {
+   "date": "2026-11-05",
+   "open": 340
   }
  ],
  "jobs": {
@@ -236,7 +240,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=7473670"
   },
   "7473671": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -266,7 +270,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=7473672"
   },
   "7473673": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -311,7 +315,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=7473675"
   },
   "7473680": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -326,7 +330,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=7473680"
   },
   "7473681": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -341,7 +345,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=7473681"
   },
   "7473682": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -1061,7 +1065,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=7845688"
   },
   "7851279": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
@@ -1916,7 +1920,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=8067483"
   },
   "8067675": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2186,7 +2190,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=8089144"
   },
   "8094646": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3146,7 +3150,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=8180264"
   },
   "8180701": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3176,7 +3180,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=8184675"
   },
   "8185551": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -3791,7 +3795,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=8220460"
   },
   "8221535": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -4121,7 +4125,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=8233154"
   },
   "8233156": {
-   "closed_at": "2026-11-04T11:35:04+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -4131,7 +4135,7 @@
    "posted_history": [
     "2026-09-29T15:42:33+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Software Engineer II",
    "url": "https://careers.toasttab.com/jobs?gh_jid=8233156"
   },
@@ -4466,7 +4470,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=8245420"
   },
   "8245633": {
-   "closed_at": "2026-10-22T08:55:54+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -4476,7 +4480,7 @@
    "posted_history": [
     "2026-10-13T14:02:51+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Software Engineer II, Developer Experience",
    "url": "https://careers.toasttab.com/jobs?gh_jid=8245633"
   },
@@ -4945,6 +4949,21 @@
    "title": "Manager, Embedded Finance Operations",
    "url": "https://careers.toasttab.com/jobs?gh_jid=8259365"
   },
+  "8259736": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "senior manager lifecycle marketing @ remote- can",
+   "location": "Remote- CAN",
+   "posted_at": "2026-11-04T19:39:24+00:00",
+   "posted_history": [
+    "2026-11-04T19:39:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Lifecycle Marketing",
+   "url": "https://careers.toasttab.com/jobs?gh_jid=8259736"
+  },
   "8259888": {
    "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
@@ -5260,8 +5279,23 @@
    "title": "Senior Engineering Manager - AI Foundations Team",
    "url": "https://careers.toasttab.com/jobs?gh_jid=8267171"
   },
-  "8267753": {
+  "8267686": {
    "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "senior software engineer infrastructure @ dublin, ireland",
+   "location": "Dublin, Ireland",
+   "posted_at": "2026-11-05T10:48:47+00:00",
+   "posted_history": [
+    "2026-11-05T10:48:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer - Infrastructure",
+   "url": "https://careers.toasttab.com/jobs?gh_jid=8267686"
+  },
+  "8267753": {
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
@@ -5411,7 +5445,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=8279405"
   },
   "8279540": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-01T10:48:55+00:00",
@@ -5426,7 +5460,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=8279540"
   },
   "8279768": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5621,7 +5655,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=8282364"
   },
   "8282408": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5831,7 +5865,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=8287295"
   },
   "8288350": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5846,7 +5880,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=8288350"
   },
   "8288358": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6041,7 +6075,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=8301665"
   },
   "8301812": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6071,7 +6105,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=8301813"
   },
   "8301834": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6326,7 +6360,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=8304298"
   },
   "8304318": {
-   "closed_at": "2026-10-28T10:01:46+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -6336,7 +6370,7 @@
    "posted_history": [
     "2026-10-21T13:49:07+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Territory Account Executive , SMB - Wilmington, DE",
    "url": "https://careers.toasttab.com/jobs?gh_jid=8304318"
   },
@@ -6506,7 +6540,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=8311988"
   },
   "8311990": {
-   "closed_at": "2026-10-28T10:01:46+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
@@ -6516,7 +6550,7 @@
    "posted_history": [
     "2026-10-22T18:43:11+00:00"
    ],
-   "reopened": 1,
+   "reopened": 2,
    "title": "Senior Software Engineer",
    "url": "https://careers.toasttab.com/jobs?gh_jid=8311990"
   },
@@ -6805,6 +6839,21 @@
    "title": "Senior Manager, Care Escalations",
    "url": "https://careers.toasttab.com/jobs?gh_jid=8318198"
   },
+  "8324560": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "flex territory account executive smb central new jersey @ new jersey",
+   "location": "New Jersey",
+   "posted_at": "2026-11-04T16:19:42+00:00",
+   "posted_history": [
+    "2026-11-04T16:19:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Flex Territory Account Executive, SMB - Central New Jersey",
+   "url": "https://careers.toasttab.com/jobs?gh_jid=8324560"
+  },
   "8324623": {
    "closed_at": null,
    "department": "",
@@ -6864,6 +6913,21 @@
    "reopened": 0,
    "title": "Senior Solutions Engineer",
    "url": "https://careers.toasttab.com/jobs?gh_jid=8326932"
+  },
+  "8327113": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "hardware program manager @ taipei city, taiwan",
+   "location": "Taipei City, Taiwan",
+   "posted_at": "2026-11-04T20:12:40+00:00",
+   "posted_history": [
+    "2026-11-04T20:12:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Hardware Program Manager",
+   "url": "https://careers.toasttab.com/jobs?gh_jid=8327113"
   },
   "8327267": {
    "closed_at": null,
@@ -7045,6 +7109,21 @@
    "title": "Territory Account Executive, Retail - Austin West",
    "url": "https://careers.toasttab.com/jobs?gh_jid=8328811"
   },
+  "8329141": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "field implementation technician i @ greater toronto area, canada",
+   "location": "Greater Toronto Area, Canada",
+   "posted_at": "2026-11-04T22:22:41+00:00",
+   "posted_history": [
+    "2026-11-04T22:22:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Field Implementation Technician I",
+   "url": "https://careers.toasttab.com/jobs?gh_jid=8329141"
+  },
   "8329298": {
    "closed_at": null,
    "department": "",
@@ -7151,7 +7230,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=8334794"
   },
   "8334826": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
@@ -7241,7 +7320,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=8335195"
   },
   "8335241": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -7256,7 +7335,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=8335241"
   },
   "8335260": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -7301,7 +7380,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=8336841"
   },
   "8337403": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
@@ -7734,6 +7813,81 @@
    "reopened": 0,
    "title": "Bilingual Strategic Cuisines Flex Account Executive - Dallas, TX (Spanish)",
    "url": "https://careers.toasttab.com/jobs?gh_jid=8351242"
+  },
+  "8353200": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "bilingual strategic cuisines account executive south austin tx @ austin, tx",
+   "location": "Austin, TX",
+   "posted_at": "2026-11-04T17:18:58+00:00",
+   "posted_history": [
+    "2026-11-04T17:18:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Bilingual Strategic Cuisines Account Executive (Spanish) - South Austin, TX",
+   "url": "https://careers.toasttab.com/jobs?gh_jid=8353200"
+  },
+  "8353226": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "bilingual strategic cuisines account executive south houston tx @ south houston, tx",
+   "location": "South Houston, TX",
+   "posted_at": "2026-11-04T17:29:49+00:00",
+   "posted_history": [
+    "2026-11-04T17:29:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Bilingual Strategic Cuisines Account Executive - South Houston, TX (Spanish)",
+   "url": "https://careers.toasttab.com/jobs?gh_jid=8353226"
+  },
+  "8354173": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "bilingual strategic cuisines account executive east houston tx spanish @ east houston, tx",
+   "location": "East Houston, TX",
+   "posted_at": "2026-11-04T22:00:34+00:00",
+   "posted_history": [
+    "2026-11-04T22:00:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Bilingual Strategic Cuisines Account Executive, East Houston, TX - Spanish",
+   "url": "https://careers.toasttab.com/jobs?gh_jid=8354173"
+  },
+  "8354677": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "strategic cuisines flex account executive vietnamese pacific northwest @ seattle, wa",
+   "location": "Seattle, WA",
+   "posted_at": "2026-11-05T03:29:41+00:00",
+   "posted_history": [
+    "2026-11-05T03:29:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Cuisines Flex Account Executive, Vietnamese - Pacific Northwest",
+   "url": "https://careers.toasttab.com/jobs?gh_jid=8354677"
+  },
+  "8354679": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "strategic cuisines account executive spanish central ca @ bakersfield, ca",
+   "location": "Bakersfield, CA",
+   "posted_at": "2026-11-05T03:33:14+00:00",
+   "posted_history": [
+    "2026-11-05T03:33:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Cuisines Account Executive, Spanish - Central, CA",
+   "url": "https://careers.toasttab.com/jobs?gh_jid=8354679"
   }
  }
 }

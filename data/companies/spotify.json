@@ -67,6 +67,10 @@
   {
    "date": "2026-11-04",
    "open": 84
+  },
+  {
+   "date": "2026-11-05",
+   "open": 86
   }
  ],
  "jobs": {
@@ -234,6 +238,21 @@
    "reopened": 0,
    "title": "Senior Web Engineer - Subscriptions",
    "url": "https://jobs.lever.co/spotify/1e8c984e-fa8e-4dbb-8f74-6f608ae3bfa1"
+  },
+  "1ee5dcb7-a5fe-465b-91da-d42ebab374c8": {
+   "closed_at": null,
+   "department": "Platform",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "security engineer product security @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-10-16T18:47:31+00:00",
+   "posted_history": [
+    "2026-10-16T18:47:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Security Engineer - Product Security",
+   "url": "https://jobs.lever.co/spotify/1ee5dcb7-a5fe-465b-91da-d42ebab374c8"
   },
   "1f56d4be-4e54-441a-ad05-946b9efcc391": {
    "closed_at": null,
@@ -416,7 +435,7 @@
    "url": "https://jobs.lever.co/spotify/2d67c471-9015-41c0-a041-b982ec4a14fd"
   },
   "4310f31c-90e1-4e8d-bdcf-dce39c145b8c": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "Audio Books & Gated Content",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1420,6 +1439,21 @@
    "title": "Tax Analyst",
    "url": "https://jobs.lever.co/spotify/d2489df3-87cb-48bb-81af-83aab5f03bdc"
   },
+  "d86e7feb-15df-434d-8054-b7fb65010586": {
+   "closed_at": null,
+   "department": "Platform",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "staff engineer identity and access management user platform @ stockholm",
+   "location": "Stockholm",
+   "posted_at": "2026-11-04T16:12:53+00:00",
+   "posted_history": [
+    "2026-11-04T16:12:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Engineer – Identity and Access Management User Platform",
+   "url": "https://jobs.lever.co/spotify/d86e7feb-15df-434d-8054-b7fb65010586"
+  },
   "d87833d0-fb78-4794-b45d-3fe5c8274bc8": {
    "closed_at": null,
    "department": "Music Business",
@@ -1494,6 +1528,21 @@
    "reopened": 0,
    "title": "Senior Software Engineer",
    "url": "https://jobs.lever.co/spotify/e04833c0-9cff-4b5e-b217-91a3bcb57051"
+  },
+  "e0ba7aee-1a0a-43ab-a4c0-d8856c6c2ce3": {
+   "closed_at": null,
+   "department": "Experience",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "senior product manager core experience @ london",
+   "location": "London",
+   "posted_at": "2026-10-21T17:36:29+00:00",
+   "posted_history": [
+    "2026-10-21T17:36:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Manager - Core Experience",
+   "url": "https://jobs.lever.co/spotify/e0ba7aee-1a0a-43ab-a4c0-d8856c6c2ce3"
   },
   "e2c7bbb8-f873-42c7-811f-0bd45bf452ae": {
    "closed_at": null,

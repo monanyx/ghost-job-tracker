@@ -67,6 +67,10 @@
   {
    "date": "2026-11-04",
    "open": 31
+  },
+  {
+   "date": "2026-11-05",
+   "open": 27
   }
  ],
  "jobs": {
@@ -206,7 +210,7 @@
    "url": "https://job-boards.greenhouse.io/discord/jobs/8595014002"
   },
   "8604768002": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -521,7 +525,7 @@
    "url": "https://job-boards.greenhouse.io/discord/jobs/8780263002"
   },
   "8796132002": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -555,8 +559,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "staff software engineer machine learning @ san francisco bay area or remote (u.s.)",
-   "location": "San Francisco Bay Area or Remote (U.S.)",
+   "fp": "staff software engineer machine learning @ san francisco bay area",
+   "location": "San Francisco Bay Area",
    "posted_at": "2026-09-22T00:35:05+00:00",
    "posted_history": [
     "2026-09-22T00:35:05+00:00"
@@ -581,7 +585,7 @@
    "url": "https://job-boards.greenhouse.io/discord/jobs/8806482002"
   },
   "8811574002": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -641,7 +645,7 @@
    "url": "https://job-boards.greenhouse.io/discord/jobs/8815116002"
   },
   "8817776002": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -761,7 +765,7 @@
    "url": "https://job-boards.greenhouse.io/discord/jobs/8847080002"
   },
   "8856467002": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -849,6 +853,21 @@
    "reopened": 0,
    "title": "Senior Manager, Global Indirect Tax",
    "url": "https://job-boards.greenhouse.io/discord/jobs/8907804002"
+  },
+  "8910013002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "senior machine learning engineer @ san francisco bay area",
+   "location": "San Francisco Bay Area",
+   "posted_at": "2026-11-04T19:52:48+00:00",
+   "posted_history": [
+    "2026-11-04T19:52:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Machine Learning Engineer (Growth)",
+   "url": "https://job-boards.greenhouse.io/discord/jobs/8910013002"
   },
   "8917177002": {
    "closed_at": null,

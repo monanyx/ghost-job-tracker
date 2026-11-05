@@ -67,6 +67,10 @@
   {
    "date": "2026-11-04",
    "open": 88
+  },
+  {
+   "date": "2026-11-05",
+   "open": 88
   }
  ],
  "jobs": {
@@ -131,7 +135,7 @@
    "url": "https://job-boards.greenhouse.io/vercel/jobs/5179639004"
   },
   "5428982004": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -146,7 +150,7 @@
    "url": "https://job-boards.greenhouse.io/vercel/jobs/5428982004"
   },
   "5430088004": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -307,7 +311,7 @@
     "2026-01-08T16:54:22+00:00"
    ],
    "reopened": 0,
-   "title": "Account Executive-Startups, EMEA (French Speaker)",
+   "title": "Account Executive-Startups, EMEA (French or German Speaker)",
    "url": "https://job-boards.greenhouse.io/vercel/jobs/5752956004"
   },
   "5778418004": {
@@ -491,7 +495,7 @@
    "url": "https://job-boards.greenhouse.io/vercel/jobs/5971203004"
   },
   "5974107004": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -825,14 +829,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "technical account manager @ hybrid - london, berlin",
+   "fp": "senior technical account manager @ hybrid - london, berlin",
    "location": "Hybrid - London, Berlin",
    "posted_at": "2026-07-21T16:02:43+00:00",
    "posted_history": [
     "2026-07-21T16:02:43+00:00"
    ],
    "reopened": 0,
-   "title": "Technical Account Manager",
+   "title": "Senior Technical Account Manager",
    "url": "https://job-boards.greenhouse.io/vercel/jobs/6121381004"
   },
   "6121468004": {
@@ -1001,7 +1005,7 @@
    "url": "https://job-boards.greenhouse.io/vercel/jobs/6137983004"
   },
   "6140055004": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1224,6 +1228,21 @@
    "reopened": 0,
    "title": "Strategic Product Partnerships Lead",
    "url": "https://job-boards.greenhouse.io/vercel/jobs/6188898004"
+  },
+  "6195153004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "software engineer backend @ hybrid - san francisco, new york city",
+   "location": "Hybrid - San Francisco, New York City",
+   "posted_at": "2026-11-04T22:00:22+00:00",
+   "posted_history": [
+    "2026-11-04T22:00:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Backend",
+   "url": "https://job-boards.greenhouse.io/vercel/jobs/6195153004"
   },
   "6195280004": {
    "closed_at": null,
@@ -1545,14 +1564,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
-   "fp": "member of technical staff finance data @ hybrid - san francisco, new york city",
+   "fp": "member of technical staff financial data @ hybrid - san francisco, new york city",
    "location": "Hybrid - San Francisco, New York City",
    "posted_at": "2026-10-22T15:46:02+00:00",
    "posted_history": [
     "2026-10-22T15:46:02+00:00"
    ],
    "reopened": 0,
-   "title": "Member of Technical Staff, Finance Data",
+   "title": "Member of Technical Staff, Financial Data",
    "url": "https://job-boards.greenhouse.io/vercel/jobs/6231535004"
   },
   "6231540004": {
@@ -1674,6 +1693,51 @@
    "reopened": 0,
    "title": "Software Engineer, Agent Auth",
    "url": "https://job-boards.greenhouse.io/vercel/jobs/6242246004"
+  },
+  "6248589004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "activations manager startups @ hybrid - new york city",
+   "location": "Hybrid - New York City",
+   "posted_at": "2026-11-04T20:17:14+00:00",
+   "posted_history": [
+    "2026-11-04T20:17:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Activations Manager, Startups",
+   "url": "https://job-boards.greenhouse.io/vercel/jobs/6248589004"
+  },
+  "6248594004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "greenfield manager startups @ hybrid - san francisco, new york city",
+   "location": "Hybrid - San Francisco, New York City",
+   "posted_at": "2026-11-04T21:07:00+00:00",
+   "posted_history": [
+    "2026-11-04T21:07:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Greenfield Manager, Startups",
+   "url": "https://job-boards.greenhouse.io/vercel/jobs/6248594004"
+  },
+  "6248603004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "install base manager startups @ hybrid - san francisco, new york city, austin",
+   "location": "Hybrid - San Francisco, New York City, Austin",
+   "posted_at": "2026-11-04T21:59:18+00:00",
+   "posted_history": [
+    "2026-11-04T21:59:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Install Base Manager, Startups",
+   "url": "https://job-boards.greenhouse.io/vercel/jobs/6248603004"
   }
  }
 }

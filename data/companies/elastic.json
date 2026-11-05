@@ -67,6 +67,10 @@
   {
    "date": "2026-11-04",
    "open": 422
+  },
+  {
+   "date": "2026-11-05",
+   "open": 426
   }
  ],
  "jobs": {
@@ -1061,7 +1065,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8048319&gh_jid=8048319"
   },
   "8053209": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -1511,7 +1515,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8080862&gh_jid=8080862"
   },
   "8080876": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1526,7 +1530,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8080876&gh_jid=8080876"
   },
   "8082602": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2261,7 +2265,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8128211&gh_jid=8128211"
   },
   "8129741": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2621,7 +2625,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8140339&gh_jid=8140339"
   },
   "8140341": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3806,7 +3810,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8175050&gh_jid=8175050"
   },
   "8176627": {
-   "closed_at": "2026-10-29T10:25:29+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3816,7 +3820,7 @@
    "posted_history": [
     "2026-09-18T10:02:03+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Enterprise Account Executive",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8176627&gh_jid=8176627"
   },
@@ -5381,7 +5385,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8249255&gh_jid=8249255"
   },
   "8249856": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6056,18 +6060,18 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8281119&gh_jid=8281119"
   },
   "8281375": {
-   "closed_at": "2026-10-23T08:50:35+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "analyst sales strategy finance @ united states",
+   "fp": "sales operations associate @ united states",
    "location": "United States",
    "posted_at": "2026-10-16T13:49:53+00:00",
    "posted_history": [
     "2026-10-16T13:49:53+00:00"
    ],
-   "reopened": 0,
-   "title": "Analyst, Sales Strategy & Finance",
+   "reopened": 1,
+   "title": "Sales Operations Associate",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8281375&gh_jid=8281375"
   },
   "8281506": {
@@ -6086,7 +6090,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8281506&gh_jid=8281506"
   },
   "8281637": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6101,7 +6105,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8281637&gh_jid=8281637"
   },
   "8281644": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6116,7 +6120,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8281644&gh_jid=8281644"
   },
   "8281661": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6264,6 +6268,21 @@
    "reopened": 0,
    "title": "Tech Lead, Web Development - Full Stack",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8285465&gh_jid=8285465"
+  },
+  "8289153": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "coordinator marketing operations @ bangalore, india",
+   "location": "Bangalore, India",
+   "posted_at": "2026-11-05T10:25:09+00:00",
+   "posted_history": [
+    "2026-11-05T10:25:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Coordinator, Marketing Operations",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8289153&gh_jid=8289153"
   },
   "8301329": {
    "closed_at": null,
@@ -7000,6 +7019,21 @@
    "title": "Senior Engineering Manager - Agents and Context - Platform",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8318187&gh_jid=8318187"
   },
+  "8318197": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "senior java engineer security elasticsearch @ united states",
+   "location": "United States",
+   "posted_at": "2026-11-05T10:45:11+00:00",
+   "posted_history": [
+    "2026-11-05T10:45:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Java Engineer - Security - Elasticsearch",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8318197&gh_jid=8318197"
+  },
   "8318605": {
    "closed_at": null,
    "department": "",
@@ -7119,6 +7153,21 @@
    "reopened": 0,
    "title": "Consulting Architect",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8325389&gh_jid=8325389"
+  },
+  "8325392": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "senior sales operations associate enterprise @ united states",
+   "location": "United States",
+   "posted_at": "2026-11-04T21:09:52+00:00",
+   "posted_history": [
+    "2026-11-04T21:09:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Sales Operations Associate - Enterprise",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8325392&gh_jid=8325392"
   },
   "8327970": {
    "closed_at": null,
@@ -7494,6 +7543,126 @@
    "reopened": 0,
    "title": "Senior Go/Kubernetes Engineer - Core/Infra -  Elasticsearch",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8352187&gh_jid=8352187"
+  },
+  "8352578": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "principal java engineer distributed systems serverless elasticsearch @ switzerland",
+   "location": "Switzerland",
+   "posted_at": "2026-11-04T14:17:49+00:00",
+   "posted_history": [
+    "2026-11-04T14:17:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Java Engineer - Distributed Systems, Serverless - Elasticsearch",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8352578&gh_jid=8352578"
+  },
+  "8352581": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "principal java engineer distributed systems serverless elasticsearch @ united kingdom",
+   "location": "United Kingdom",
+   "posted_at": "2026-11-04T14:17:51+00:00",
+   "posted_history": [
+    "2026-11-04T14:17:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Java Engineer - Distributed Systems, Serverless - Elasticsearch",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8352581&gh_jid=8352581"
+  },
+  "8352585": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "principal java engineer distributed systems serverless elasticsearch @ poland",
+   "location": "Poland",
+   "posted_at": "2026-11-04T14:18:45+00:00",
+   "posted_history": [
+    "2026-11-04T14:18:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Java Engineer - Distributed Systems, Serverless - Elasticsearch",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8352585&gh_jid=8352585"
+  },
+  "8355143": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "senior java engineer security elasticsearch @ canada",
+   "location": "Canada",
+   "posted_at": "2026-11-05T10:46:54+00:00",
+   "posted_history": [
+    "2026-11-05T10:46:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Java Engineer - Security - Elasticsearch",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8355143&gh_jid=8355143"
+  },
+  "8355152": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "senior java engineer security elasticsearch @ israel",
+   "location": "Israel",
+   "posted_at": "2026-11-05T10:47:58+00:00",
+   "posted_history": [
+    "2026-11-05T10:47:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Java Engineer - Security - Elasticsearch",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8355152&gh_jid=8355152"
+  },
+  "8355157": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "senior java engineer security elasticsearch @ united kingdom",
+   "location": "United Kingdom",
+   "posted_at": "2026-11-05T10:48:45+00:00",
+   "posted_history": [
+    "2026-11-05T10:48:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Java Engineer - Security - Elasticsearch",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8355157&gh_jid=8355157"
+  },
+  "8355158": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "senior java engineer security elasticsearch @ poland",
+   "location": "Poland",
+   "posted_at": "2026-11-05T10:49:12+00:00",
+   "posted_history": [
+    "2026-11-05T10:49:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Java Engineer - Security - Elasticsearch",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8355158&gh_jid=8355158"
+  },
+  "8355159": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "senior java engineer security elasticsearch @ spain",
+   "location": "Spain",
+   "posted_at": "2026-11-05T10:49:39+00:00",
+   "posted_history": [
+    "2026-11-05T10:49:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Java Engineer - Security - Elasticsearch",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8355159&gh_jid=8355159"
   }
  }
 }

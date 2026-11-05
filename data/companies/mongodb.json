@@ -67,6 +67,10 @@
   {
    "date": "2026-11-04",
    "open": 364
+  },
+  {
+   "date": "2026-11-05",
+   "open": 362
   }
  ],
  "jobs": {
@@ -670,6 +674,21 @@
    "title": "Account Development Representative, Hebrew Speaking",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=7334938"
   },
+  "7335205": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "account development representative spanish speaking @ dublin",
+   "location": "Dublin",
+   "posted_at": "2026-01-06T10:53:30+00:00",
+   "posted_history": [
+    "2026-01-06T10:53:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Development Representative, Spanish Speaking",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=7335205"
+  },
   "7335567": {
    "closed_at": null,
    "department": "",
@@ -1181,7 +1200,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=7721659"
   },
   "7727873": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1736,7 +1755,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=7974991"
   },
   "7975695": {
-   "closed_at": "2026-10-30T10:28:19+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1746,7 +1765,7 @@
    "posted_history": [
     "2026-06-22T15:05:22+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Product Manager, Technical Services Engineering",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=7975695"
   },
@@ -2302,7 +2321,7 @@
     "2026-08-04T00:39:17+00:00"
    ],
    "reopened": 0,
-   "title": "Technical Services Engineer",
+   "title": "Technical Services Engineer (Weekend Shift)",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8055356"
   },
   "8055422": {
@@ -3266,7 +3285,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8129887"
   },
   "8129890": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3836,7 +3855,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8160506"
   },
   "8160600": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4361,7 +4380,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8184637"
   },
   "8184727": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4691,7 +4710,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8205425"
   },
   "8205430": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4856,7 +4875,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8209989"
   },
   "8210719": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4886,7 +4905,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8211464"
   },
   "8211844": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7074,6 +7093,51 @@
    "reopened": 0,
    "title": "Renewals Specialist",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8350841"
+  },
+  "8352010": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "account development representative @ beijing; shanghai; shenzhen",
+   "location": "Beijing; Shanghai; Shenzhen",
+   "posted_at": "2026-11-04T21:48:24+00:00",
+   "posted_history": [
+    "2026-11-04T21:48:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Development Representative",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8352010"
+  },
+  "8352883": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "executive assistant @ colorado",
+   "location": "Colorado",
+   "posted_at": "2026-11-05T08:05:53+00:00",
+   "posted_history": [
+    "2026-11-05T08:05:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "Executive Assistant",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8352883"
+  },
+  "8353184": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "mid market account development representative @ dublin, ireland",
+   "location": "Dublin, Ireland",
+   "posted_at": "2026-11-04T17:18:29+00:00",
+   "posted_history": [
+    "2026-11-04T17:18:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Mid Market Account Development Representative",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8353184"
   }
  }
 }

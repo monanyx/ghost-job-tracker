@@ -67,6 +67,10 @@
   {
    "date": "2026-11-04",
    "open": 21
+  },
+  {
+   "date": "2026-11-05",
+   "open": 21
   }
  ],
  "jobs": {
@@ -251,7 +255,7 @@
    "url": "https://www.gostudent.org/en-gb/job-position/?gh_jid=4926143101"
   },
   "4950685101": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -431,7 +435,7 @@
    "url": "https://www.gostudent.org/en-gb/job-position/?gh_jid=5006968101"
   },
   "5009670101": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -461,7 +465,7 @@
    "url": "https://www.gostudent.org/en-gb/job-position/?gh_jid=5009687101"
   },
   "5009711101": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -506,7 +510,7 @@
    "url": "https://www.gostudent.org/en-gb/job-position/?gh_jid=5010173101"
   },
   "5010733101": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-20T08:53:12+00:00",
@@ -549,6 +553,66 @@
    "reopened": 0,
    "title": "LernQuadrat - Standortleitung (w/m/d) in Dornbirn (Vorarlberg)",
    "url": "https://www.gostudent.org/en-gb/job-position/?gh_jid=5026854101"
+  },
+  "5028336101": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "centre sales operations coordinator busto arsizio @ milan, italy",
+   "location": "Milan, Italy",
+   "posted_at": "2026-11-05T09:42:06+00:00",
+   "posted_history": [
+    "2026-11-05T09:42:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "Centre Sales & Operations Coordinator – Busto Arsizio (Tempo determinato – 30h/settimana)",
+   "url": "https://www.gostudent.org/en-gb/job-position/?gh_jid=5028336101"
+  },
+  "5028340101": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "centre sales operations coordinator varese @ italy remote",
+   "location": "Italy Remote",
+   "posted_at": "2026-11-05T09:46:09+00:00",
+   "posted_history": [
+    "2026-11-05T09:46:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Centre Sales & Operations Coordinator – Varese (Tempo determinato – 30h/settimana)",
+   "url": "https://www.gostudent.org/en-gb/job-position/?gh_jid=5028340101"
+  },
+  "5028352101": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "centre sales operations coordinator arese @ milan, italy",
+   "location": "Milan, Italy",
+   "posted_at": "2026-11-05T09:57:43+00:00",
+   "posted_history": [
+    "2026-11-05T09:57:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Centre Sales & Operations Coordinator – Arese (Tempo determinato – 30h/settimana)",
+   "url": "https://www.gostudent.org/en-gb/job-position/?gh_jid=5028352101"
+  },
+  "5028357101": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "centre sales operations coordinator piola milano @ milan, italy",
+   "location": "Milan, Italy",
+   "posted_at": "2026-11-05T09:58:53+00:00",
+   "posted_history": [
+    "2026-11-05T09:58:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "Centre Sales & Operations Coordinator – Piola, Milano (Tempo determinato – 30h/settimana)",
+   "url": "https://www.gostudent.org/en-gb/job-position/?gh_jid=5028357101"
   }
  }
 }

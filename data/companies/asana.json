@@ -67,9 +67,28 @@
   {
    "date": "2026-11-04",
    "open": 109
+  },
+  {
+   "date": "2026-11-05",
+   "open": 110
   }
  ],
  "jobs": {
+  "6352958": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "senior product data scientist @ warsaw",
+   "location": "Warsaw",
+   "posted_at": "2024-10-25T22:39:55+00:00",
+   "posted_history": [
+    "2024-10-25T22:39:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Data Scientist (Analyst)",
+   "url": "https://www.asana.com/jobs/apply/6352958?gh_jid=6352958"
+  },
   "6887013": {
    "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "",
@@ -340,6 +359,21 @@
    "title": "People Partner",
    "url": "https://www.asana.com/jobs/apply/7898640?gh_jid=7898640"
   },
+  "7950767": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "security risk engineer @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-06-29T18:42:34+00:00",
+   "posted_history": [
+    "2026-06-29T18:42:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Security Risk Engineer",
+   "url": "https://www.asana.com/jobs/apply/7950767?gh_jid=7950767"
+  },
   "7952123": {
    "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
@@ -356,7 +390,7 @@
    "url": "https://www.asana.com/jobs/apply/7952123?gh_jid=7952123"
   },
   "7959069": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -881,7 +915,7 @@
    "url": "https://www.asana.com/jobs/apply/8121619?gh_jid=8121619"
   },
   "8129531": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1140,14 +1174,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "ai gtm specialist @ san francisco",
+   "fp": "ai gtm account executive @ san francisco",
    "location": "San Francisco",
    "posted_at": "2026-10-07T20:32:34+00:00",
    "posted_history": [
     "2026-10-07T20:32:34+00:00"
    ],
    "reopened": 0,
-   "title": "AI GTM Specialist",
+   "title": "AI GTM Account Executive",
    "url": "https://www.asana.com/jobs/apply/8194380?gh_jid=8194380"
   },
   "8194410": {
@@ -1659,6 +1693,21 @@
    "reopened": 0,
    "title": "Senior Software Engineer",
    "url": "https://www.asana.com/jobs/apply/8264096?gh_jid=8264096"
+  },
+  "8268877": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "emerging enterprise account executive healthcare @ new york city",
+   "location": "New York City",
+   "posted_at": "2026-11-04T20:09:54+00:00",
+   "posted_history": [
+    "2026-11-04T20:09:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Emerging Enterprise Account Executive, Healthcare",
+   "url": "https://www.asana.com/jobs/apply/8268877?gh_jid=8268877"
   },
   "8275101": {
    "closed_at": null,

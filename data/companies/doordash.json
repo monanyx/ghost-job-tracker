@@ -67,6 +67,10 @@
   {
    "date": "2026-11-04",
    "open": 438
+  },
+  {
+   "date": "2026-11-05",
+   "open": 440
   }
  ],
  "jobs": {
@@ -810,14 +814,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "operations specialist robot doordash dot @ dublin, ca; san francisco, ca",
+   "fp": "robot operations specialist @ dublin, ca; san francisco, ca",
    "location": "Dublin, CA; San Francisco, CA",
    "posted_at": "2025-04-17T20:35:43+00:00",
    "posted_history": [
     "2025-04-17T20:35:43+00:00"
    ],
    "reopened": 0,
-   "title": "Operations Specialist, Robot - DoorDash Dot",
+   "title": "Robot Operations Specialist",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/6813973"
   },
   "6819210": {
@@ -1841,7 +1845,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7818935"
   },
   "7819552": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1899,6 +1903,21 @@
    "reopened": 0,
    "title": "Engineering Manager, Red Team",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7833708"
+  },
+  "7837458": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "strategic account executive @ atlanta, ga; tempe, az; houston, tx; dallas, tx; las vegas, nv; portland, or; orland, fl; raleigh, nc; boston, ma; detroit, mi; indianapolis, in; minneapolis, mn; cleveland, oh; nashville, tn; salt lake, ut; st. louis, mo; austin, tx; chicago, il; denver, co; philadelphia, pa; miami, fl",
+   "location": "Atlanta, GA; Tempe, AZ; Houston, TX; Dallas, TX; Las Vegas, NV; Portland, OR; Orland, FL; Raleigh, NC; Boston, MA; Detroit, MI; Indianapolis, IN; Minneapolis, MN; Cleveland, OH; Nashville, TN; Salt Lake, UT; St. Louis, MO; Austin, TX; Chicago, IL; Denver, CO; Philadelphia, PA; Miami, FL",
+   "posted_at": "2026-04-21T14:01:42+00:00",
+   "posted_history": [
+    "2026-04-21T14:01:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Account Executive",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7837458"
   },
   "7844202": {
    "closed_at": null,
@@ -2170,6 +2189,21 @@
    "title": "Associate Manager, Emerging Partnerships",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7909102"
   },
+  "7927511": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "account executive ad sales @ new york, ny; los angeles, ca; atlanta, ga; chicago, il; san francisco, ca",
+   "location": "New York, NY; Los Angeles, CA; Atlanta, GA; Chicago, IL; San Francisco, CA",
+   "posted_at": "2026-05-15T14:55:36+00:00",
+   "posted_history": [
+    "2026-05-15T14:55:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, Ad Sales",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7927511"
+  },
   "7947255": {
    "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
@@ -2231,7 +2265,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7951899"
   },
   "7955008": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2261,7 +2295,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7958917"
   },
   "7961650": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4916,7 +4950,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8193584"
   },
   "8195185": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6311,7 +6345,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8257415"
   },
   "8258179": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7376,7 +7410,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8303882"
   },
   "8304190": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -7440,14 +7474,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
-   "fp": "solutions architect grocery retail services @ new york, ny; san francisco, ca; seattle, wa; los angeles, ca; washington, d.c., chicago, il; tempe, az",
+   "fp": "technical account manager grocery retail services @ new york, ny; san francisco, ca; seattle, wa; los angeles, ca; washington, d.c., chicago, il; tempe, az",
    "location": "New York, NY; San Francisco, CA; Seattle, WA; Los Angeles, CA; Washington, D.C., Chicago, IL; Tempe, AZ",
    "posted_at": "2026-10-21T14:17:29+00:00",
    "posted_history": [
     "2026-10-21T14:17:29+00:00"
    ],
    "reopened": 0,
-   "title": "Solutions Architect - Grocery & Retail Services",
+   "title": "Technical Account Manager - Grocery & Retail Services",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8305939"
   },
   "8306624": {
@@ -7511,7 +7545,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8311047"
   },
   "8312381": {
-   "closed_at": "2026-10-24T08:24:32+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
@@ -7521,7 +7555,7 @@
    "posted_history": [
     "2026-10-22T13:31:00+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Drone Operations, Intern - Labs (Summer 2027)",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8312381"
   },
@@ -7931,7 +7965,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8334997"
   },
   "8335071": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -8021,7 +8055,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8346813"
   },
   "8346926": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -8100,8 +8134,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
-   "fp": "perception state estimation engineer doordash air @ san francisco",
-   "location": "San Francisco",
+   "fp": "perception state estimation engineer doordash air @ san francisco, ca",
+   "location": "San Francisco, CA",
    "posted_at": "2026-11-03T08:08:35+00:00",
    "posted_history": [
     "2026-11-03T08:08:35+00:00"
@@ -8145,14 +8179,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
-   "fp": "associate manager new verticals fulfillment dasher strategy operations @ new york, ny; san francisco, ca; seattle, wa; los angeles, ca; seattle, wa; washington, dc; chicago, il; tempe, az",
+   "fp": "associate manager new verticals in store ai platform strategy operations @ new york, ny; san francisco, ca; seattle, wa; los angeles, ca; seattle, wa; washington, dc; chicago, il; tempe, az",
    "location": "New York, NY; San Francisco, CA; Seattle, WA; Los Angeles, CA; Seattle, WA; Washington, DC; Chicago, IL; Tempe, AZ",
    "posted_at": "2026-11-03T18:24:28+00:00",
    "posted_history": [
     "2026-11-03T18:24:28+00:00"
    ],
    "reopened": 0,
-   "title": "Associate Manager, New Verticals - Fulfillment Dasher Strategy & Operations",
+   "title": "Associate Manager, New Verticals - In-Store AI Platform Strategy & Operations",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8350225"
   },
   "8350324": {
@@ -8186,7 +8220,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8350408"
   },
   "8350867": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
@@ -8199,6 +8233,126 @@
    "reopened": 0,
    "title": "Manager, Strategic Sourcing - Marketing",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8350867"
+  },
+  "8350965": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "senior software engineer developer experience android @ san francisco, ca; sunnyvale, ca; los angeles, ca; seattle, wa; new york, ny",
+   "location": "San Francisco, CA; Sunnyvale, CA; Los Angeles, CA; Seattle, WA; New York, NY",
+   "posted_at": "2026-11-04T13:12:41+00:00",
+   "posted_history": [
+    "2026-11-04T13:12:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer - Developer Experience, Android",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8350965"
+  },
+  "8351118": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "strategic account executive mandarin speaking @ atlanta, ga; tempe, az; houston, tx; dallas, tx; las vegas, nv; portland, or; orland, fl; raleigh, nc; boston, ma; detroit, mi; indianapolis, in; minneapolis, mn; cleveland, oh; nashville, tn; salt lake, ut; st. louis, mo; austin, tx; chicago, il; denver, co; philadelphia, pa; miami, fl",
+   "location": "Atlanta, GA; Tempe, AZ; Houston, TX; Dallas, TX; Las Vegas, NV; Portland, OR; Orland, FL; Raleigh, NC; Boston, MA; Detroit, MI; Indianapolis, IN; Minneapolis, MN; Cleveland, OH; Nashville, TN; Salt Lake, UT; St. Louis, MO; Austin, TX; Chicago, IL; Denver, CO; Philadelphia, PA; Miami, FL",
+   "posted_at": "2026-11-04T17:48:51+00:00",
+   "posted_history": [
+    "2026-11-04T17:48:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Account Executive - Mandarin Speaking",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8351118"
+  },
+  "8352563": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "associate manager marketplace restaurant growth strategy operations @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-11-04T14:17:04+00:00",
+   "posted_history": [
+    "2026-11-04T14:17:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "Associate Manager, Marketplace - Restaurant Growth Strategy & Operations",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8352563"
+  },
+  "8353606": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "account executive cpg @ new york, ny; los angeles, ca; atlanta, ga; chicago, il; san francisco, ca",
+   "location": "New York, NY; Los Angeles, CA; Atlanta, GA; Chicago, IL; San Francisco, CA",
+   "posted_at": "2026-11-05T02:19:36+00:00",
+   "posted_history": [
+    "2026-11-05T02:19:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, CPG",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8353606"
+  },
+  "8353649": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "sr associate dasher retention marketing @ new york, ny; san francisco, ca; seattle, wa; los angeles, ca; sunnyvale, ca; chicago, il; austin, tx; denver, co; atlanta, ga; miami, fl; boston, ma; washington, dc",
+   "location": "New York, NY; San Francisco, CA; Seattle, WA; Los Angeles, CA; Sunnyvale, CA; Chicago, IL; Austin, TX; Denver, CO; Atlanta, GA; Miami, FL; Boston, MA; Washington, DC ",
+   "posted_at": "2026-11-04T19:54:06+00:00",
+   "posted_history": [
+    "2026-11-04T19:54:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Associate, Dasher Retention Marketing",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8353649"
+  },
+  "8353733": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "associate enterprise strategy planning @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-11-04T20:00:45+00:00",
+   "posted_history": [
+    "2026-11-04T20:00:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Associate, Enterprise Strategy & Planning",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8353733"
+  },
+  "8353930": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "manager new verticals pharmacy strategy operations @ new york, ny; san francisco, ca",
+   "location": "New York, NY; San Francisco, CA",
+   "posted_at": "2026-11-04T22:32:12+00:00",
+   "posted_history": [
+    "2026-11-04T22:32:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, New Verticals - Pharmacy Strategy & Operations",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8353930"
+  },
+  "8353943": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "site manager dashmart @ north olmsted, oh",
+   "location": "North Olmsted, OH",
+   "posted_at": "2026-11-04T21:01:03+00:00",
+   "posted_history": [
+    "2026-11-04T21:01:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Site Manager, DashMart",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8353943"
   }
  }
 }

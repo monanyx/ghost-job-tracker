@@ -67,6 +67,10 @@
   {
    "date": "2026-11-04",
    "open": 376
+  },
+  {
+   "date": "2026-11-05",
+   "open": 367
   }
  ],
  "jobs": {
@@ -206,7 +210,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/04eb457b-e985-4e3b-9635-0a2b867ada97"
   },
   "04ee546e-7432-4154-abf2-cb3b2d7abf7a": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -402,7 +406,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/0cc0c934-ce13-483b-8a11-99583d7908a1"
   },
   "0d4cd334-10fc-45f1-b462-c549379c07a2": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "Transformation Office",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -460,6 +464,21 @@
    "reopened": 0,
    "title": "Staff Brand Designer",
    "url": "https://jobs.ashbyhq.com/harvey/0f28d396-8240-4caf-a8aa-18bb8c6d35bf"
+  },
+  "0f979347-a9f9-4aa3-8689-b2a14a7675bf": {
+   "closed_at": null,
+   "department": "Go to Market",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "gtm strategy and operations apac @ sydney",
+   "location": "Sydney",
+   "posted_at": "2026-11-04T22:15:35+00:00",
+   "posted_history": [
+    "2026-11-04T22:15:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "GTM Strategy and Operations, APAC",
+   "url": "https://jobs.ashbyhq.com/harvey/0f979347-a9f9-4aa3-8689-b2a14a7675bf"
   },
   "0fd353e8-616d-44f4-b93a-bed92f15b043": {
    "closed_at": null,
@@ -628,7 +647,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/16b67976-02a3-4179-9eca-afc86c551b8a"
   },
   "18454695-e72d-40a5-a6c1-99677ef516ad": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -890,11 +909,12 @@
    "first_seen": "2026-10-22T08:55:54+00:00",
    "fp": "technical cx specialist emea @ dublin",
    "location": "Dublin",
-   "posted_at": "2026-11-02T08:39:23+00:00",
+   "posted_at": "2026-11-05T08:57:20+00:00",
    "posted_history": [
     "2026-10-21T09:15:32+00:00",
     "2026-10-29T17:19:04+00:00",
-    "2026-11-02T08:39:23+00:00"
+    "2026-11-02T08:39:23+00:00",
+    "2026-11-05T08:57:20+00:00"
    ],
    "reopened": 0,
    "title": "Technical CX Specialist, EMEA",
@@ -992,7 +1012,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/235f1793-7b5a-470b-b6ee-4f0f0249623c"
   },
   "23a93539-af9f-400d-9da6-dd9165364002": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "Go to Market",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1068,7 +1088,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/26b1c092-b466-47b6-9493-402eed406b7a"
   },
   "27e13512-0e66-4e1a-8048-c3786926c830": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "Transformation Office",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -1165,9 +1185,10 @@
    "first_seen": "2026-11-03T11:21:29+00:00",
    "fp": "enterprise customer success manager @ dallas",
    "location": "Dallas",
-   "posted_at": "2026-11-02T18:17:54+00:00",
+   "posted_at": "2026-11-04T19:43:04+00:00",
    "posted_history": [
-    "2026-11-02T18:17:54+00:00"
+    "2026-11-02T18:17:54+00:00",
+    "2026-11-04T19:43:04+00:00"
    ],
    "reopened": 0,
    "title": "Enterprise Customer Success Manager",
@@ -1309,7 +1330,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/2f35e50f-2978-44c3-a495-7cbfc1f512d4"
   },
   "2fa7de61-6ca1-4892-822e-bb1d458a7b90": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "Human Resources",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1324,7 +1345,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/2fa7de61-6ca1-4892-822e-bb1d458a7b90"
   },
   "2faddc24-1463-4878-9b43-ec8090a39c88": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "Go to Market",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1414,6 +1435,21 @@
    "title": "People Operations Coordinator, Onboarding",
    "url": "https://jobs.ashbyhq.com/harvey/3188a79d-c5f2-40c3-8f9f-bf1c37938f9f"
   },
+  "31cfe42b-6c69-4a73-9913-01ae85a8e68a": {
+   "closed_at": null,
+   "department": "Marketing",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "video editor shooter @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-11-04T20:05:48+00:00",
+   "posted_history": [
+    "2026-11-04T20:05:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "Video Editor/Shooter",
+   "url": "https://jobs.ashbyhq.com/harvey/31cfe42b-6c69-4a73-9913-01ae85a8e68a"
+  },
   "3240924a-de11-45c5-aabe-980474f8b0a8": {
    "closed_at": null,
    "department": "Go to Market",
@@ -1434,11 +1470,12 @@
    "department": "Go to Market",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "legal innovation partner munich @ london",
-   "location": "London",
-   "posted_at": "2026-10-09T12:28:53+00:00",
+   "fp": "legal innovation partner munich @ munich",
+   "location": "Munich",
+   "posted_at": "2026-11-04T19:43:40+00:00",
    "posted_history": [
-    "2026-10-09T12:28:53+00:00"
+    "2026-10-09T12:28:53+00:00",
+    "2026-11-04T19:43:40+00:00"
    ],
    "reopened": 0,
    "title": "Legal Innovation Partner, Munich",
@@ -1747,7 +1784,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/43c6e218-ea85-4519-b2fe-dd188ff3234f"
   },
   "446091c7-8a78-4c1c-8de3-4a2289be6072": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "Go to Market",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1807,7 +1844,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/45f16834-5b6a-469d-b7ac-94e4e0773e0a"
   },
   "463bac67-20c1-49c5-8835-a64ca0e94c73": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "Go to Market",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2425,7 +2462,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/5d2e22a2-f9db-4baa-8398-38f3e52067fc"
   },
   "5d4531c4-0901-4543-b663-aa8bf8ce2aa0": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "Transformation Office",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -4239,9 +4276,10 @@
    "first_seen": "2026-11-03T11:21:29+00:00",
    "fp": "enterprise customer success manager @ chicago",
    "location": "Chicago",
-   "posted_at": "2026-11-02T18:18:12+00:00",
+   "posted_at": "2026-11-04T19:42:45+00:00",
    "posted_history": [
-    "2026-11-02T18:18:12+00:00"
+    "2026-11-02T18:18:12+00:00",
+    "2026-11-04T19:42:45+00:00"
    ],
    "reopened": 0,
    "title": "Enterprise Customer Success Manager",
@@ -5339,11 +5377,12 @@
    "first_seen": "2026-10-22T08:55:54+00:00",
    "fp": "technical cx specialist emea @ london",
    "location": "London",
-   "posted_at": "2026-11-02T08:39:19+00:00",
+   "posted_at": "2026-11-05T08:57:16+00:00",
    "posted_history": [
     "2026-10-21T09:15:09+00:00",
     "2026-10-29T17:18:59+00:00",
-    "2026-11-02T08:39:19+00:00"
+    "2026-11-02T08:39:19+00:00",
+    "2026-11-05T08:57:16+00:00"
    ],
    "reopened": 0,
    "title": "Technical CX Specialist, EMEA",
@@ -5393,6 +5432,21 @@
    "reopened": 0,
    "title": "Senior Analytics Engineer, Finance",
    "url": "https://jobs.ashbyhq.com/harvey/cf7b6b62-44c6-40ae-ac94-7f903370dcd5"
+  },
+  "cf7e31c1-d44a-4453-977c-c8270ad274bf": {
+   "closed_at": null,
+   "department": "IT",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "gtm systems administrator emea @ london",
+   "location": "London",
+   "posted_at": "2026-11-04T18:41:12+00:00",
+   "posted_history": [
+    "2026-11-04T18:41:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "GTM Systems Administrator, EMEA",
+   "url": "https://jobs.ashbyhq.com/harvey/cf7e31c1-d44a-4453-977c-c8270ad274bf"
   },
   "d00dc18e-862b-4391-a3f1-5cd49c07f8e7": {
    "closed_at": null,
@@ -6329,7 +6383,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/f0e4e24a-2a7a-4fc4-8872-9a8a762fecf5"
   },
   "f10fb9da-676a-4dc6-9d7d-0065490dfd57": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "Transformation Office",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -6344,7 +6398,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/f10fb9da-676a-4dc6-9d7d-0065490dfd57"
   },
   "f1679188-b64e-435c-b0c6-bbcf552bed38": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "Go to Market",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

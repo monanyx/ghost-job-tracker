@@ -67,6 +67,10 @@
   {
    "date": "2026-11-04",
    "open": 138
+  },
+  {
+   "date": "2026-11-05",
+   "open": 133
   }
  ],
  "jobs": {
@@ -116,7 +120,7 @@
    "url": "https://epicgames.com/careers/jobs/5658563004?gh_jid=5658563004"
   },
   "5674509004": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -131,7 +135,7 @@
    "url": "https://epicgames.com/careers/jobs/5674509004?gh_jid=5674509004"
   },
   "5674511004": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -416,7 +420,7 @@
    "url": "https://epicgames.com/careers/jobs/6001593004?gh_jid=6001593004"
   },
   "6001702004": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -431,7 +435,7 @@
    "url": "https://epicgames.com/careers/jobs/6001702004?gh_jid=6001702004"
   },
   "6001704004": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -626,7 +630,7 @@
    "url": "https://epicgames.com/careers/jobs/6020030004?gh_jid=6020030004"
   },
   "6020510004": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1676,7 +1680,7 @@
    "url": "https://epicgames.com/careers/jobs/6200782004?gh_jid=6200782004"
   },
   "6201355004": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1691,7 +1695,7 @@
    "url": "https://epicgames.com/careers/jobs/6201355004?gh_jid=6201355004"
   },
   "6201357004": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1976,7 +1980,7 @@
    "url": "https://epicgames.com/careers/jobs/6210202004?gh_jid=6210202004"
   },
   "6210210004": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1991,7 +1995,7 @@
    "url": "https://epicgames.com/careers/jobs/6210210004?gh_jid=6210210004"
   },
   "6210212004": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2006,7 +2010,7 @@
    "url": "https://epicgames.com/careers/jobs/6210212004?gh_jid=6210212004"
   },
   "6210323004": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2021,7 +2025,7 @@
    "url": "https://epicgames.com/careers/jobs/6210323004?gh_jid=6210323004"
   },
   "6210333004": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2335,6 +2339,21 @@
    "title": "QA Engineer",
    "url": "https://epicgames.com/careers/jobs/6230312004?gh_jid=6230312004"
   },
+  "6230434004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "counsel @ london,england,united kingdom",
+   "location": "London,England,United Kingdom",
+   "posted_at": "2026-11-03T17:45:21+00:00",
+   "posted_history": [
+    "2026-11-03T17:45:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Counsel (Regulatory)",
+   "url": "https://epicgames.com/careers/jobs/6230434004?gh_jid=6230434004"
+  },
   "6230436004": {
    "closed_at": null,
    "department": "",
@@ -2455,6 +2474,36 @@
    "title": "Director, Production (Licensed IP and Partner Titles - Fortnite Ecosystem)",
    "url": "https://epicgames.com/careers/jobs/6235186004?gh_jid=6235186004"
   },
+  "6236543004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "senior language programmer @ cary,north carolina,united states",
+   "location": "Cary,North Carolina,United States",
+   "posted_at": "2026-11-04T15:38:32+00:00",
+   "posted_history": [
+    "2026-11-04T15:38:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Language Programmer",
+   "url": "https://epicgames.com/careers/jobs/6236543004?gh_jid=6236543004"
+  },
+  "6236545004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "senior language programmer @ blank,blank,multiple locations",
+   "location": "BLANK,BLANK,Multiple Locations",
+   "posted_at": "2026-11-04T15:38:34+00:00",
+   "posted_history": [
+    "2026-11-04T15:38:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Language Programmer",
+   "url": "https://epicgames.com/careers/jobs/6236545004?gh_jid=6236545004"
+  },
   "6238837004": {
    "closed_at": null,
    "department": "",
@@ -2515,6 +2564,21 @@
    "title": "Environment Art Outsource Lead",
    "url": "https://epicgames.com/careers/jobs/6239492004?gh_jid=6239492004"
   },
+  "6242379004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "counsel @ blank,blank,multiple locations",
+   "location": "BLANK,BLANK,Multiple Locations",
+   "posted_at": "2026-11-03T17:45:23+00:00",
+   "posted_history": [
+    "2026-11-03T17:45:23+00:00"
+   ],
+   "reopened": 0,
+   "title": "Counsel (Regulatory)",
+   "url": "https://epicgames.com/careers/jobs/6242379004?gh_jid=6242379004"
+  },
   "6242521004": {
    "closed_at": null,
    "department": "",
@@ -2544,6 +2608,36 @@
    "reopened": 0,
    "title": "Senior Cyber Defense Operations Analyst",
    "url": "https://epicgames.com/careers/jobs/6242546004?gh_jid=6242546004"
+  },
+  "6248467004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "senior language programmer @ vancouver,british columbia,canada",
+   "location": "Vancouver,British Columbia,Canada",
+   "posted_at": "2026-11-04T15:38:37+00:00",
+   "posted_history": [
+    "2026-11-04T15:38:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Language Programmer",
+   "url": "https://epicgames.com/careers/jobs/6248467004?gh_jid=6248467004"
+  },
+  "6248481004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "senior language programmer @ london,england,united kingdom",
+   "location": "London,England,United Kingdom",
+   "posted_at": "2026-11-04T15:38:39+00:00",
+   "posted_history": [
+    "2026-11-04T15:38:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Language Programmer",
+   "url": "https://epicgames.com/careers/jobs/6248481004?gh_jid=6248481004"
   }
  }
 }

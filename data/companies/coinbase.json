@@ -67,6 +67,10 @@
   {
    "date": "2026-11-04",
    "open": 275
+  },
+  {
+   "date": "2026-11-05",
+   "open": 278
   }
  ],
  "jobs": {
@@ -926,7 +930,7 @@
    "url": "https://www.coinbase.com/careers/positions/8060577?gh_jid=8060577"
   },
   "8060662": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1211,7 +1215,7 @@
    "url": "https://www.coinbase.com/careers/positions/8097292?gh_jid=8097292"
   },
   "8097444": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2666,7 +2670,7 @@
    "url": "https://www.coinbase.com/careers/positions/8221241?gh_jid=8221241"
   },
   "8221985": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3686,7 +3690,7 @@
    "url": "https://www.coinbase.com/careers/positions/8304038?gh_jid=8304038"
   },
   "8304052": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -4465,6 +4469,66 @@
    "title": "Customer Support Specialist ll",
    "url": "https://www.coinbase.com/careers/positions/8337144?gh_jid=8337144"
   },
+  "8337149": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "payments risk specialist i @ manila, philippines",
+   "location": "Manila, Philippines",
+   "posted_at": "2026-11-04T11:39:59+00:00",
+   "posted_history": [
+    "2026-11-04T11:39:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Payments Risk Specialist I",
+   "url": "https://www.coinbase.com/careers/positions/8337149?gh_jid=8337149"
+  },
+  "8337152": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "payments risk specialist i @ manila, philippines",
+   "location": "Manila, Philippines",
+   "posted_at": "2026-11-04T12:28:12+00:00",
+   "posted_history": [
+    "2026-11-04T12:28:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Payments Risk Specialist I",
+   "url": "https://www.coinbase.com/careers/positions/8337152?gh_jid=8337152"
+  },
+  "8337157": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "payments risk specialist i @ manila, philippines",
+   "location": "Manila, Philippines",
+   "posted_at": "2026-11-04T12:40:48+00:00",
+   "posted_history": [
+    "2026-11-04T12:40:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "Payments Risk Specialist I",
+   "url": "https://www.coinbase.com/careers/positions/8337157?gh_jid=8337157"
+  },
+  "8337162": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "payments risk specialist i @ manila, philippines",
+   "location": "Manila, Philippines",
+   "posted_at": "2026-11-04T12:49:34+00:00",
+   "posted_history": [
+    "2026-11-04T12:49:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Payments Risk Specialist I",
+   "url": "https://www.coinbase.com/careers/positions/8337162?gh_jid=8337162"
+  },
   "8337203": {
    "closed_at": null,
    "department": "",
@@ -4750,8 +4814,38 @@
    "title": "Senior Software Engineer, Backend (Consumer - Risk)",
    "url": "https://www.coinbase.com/careers/positions/8351163?gh_jid=8351163"
   },
-  "8351419": {
+  "8351170": {
    "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "senior product manager payments @ remote - usa",
+   "location": "Remote - USA",
+   "posted_at": "2026-11-04T20:57:28+00:00",
+   "posted_history": [
+    "2026-11-04T20:57:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Manager, Payments",
+   "url": "https://www.coinbase.com/careers/positions/8351170?gh_jid=8351170"
+  },
+  "8351400": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "senior operations associate @ remote - usa",
+   "location": "Remote - USA",
+   "posted_at": "2026-11-04T17:33:11+00:00",
+   "posted_history": [
+    "2026-11-04T17:33:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Operations Associate",
+   "url": "https://www.coinbase.com/careers/positions/8351400?gh_jid=8351400"
+  },
+  "8351419": {
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
@@ -4764,6 +4858,36 @@
    "reopened": 0,
    "title": "Head of Creative Operations",
    "url": "https://www.coinbase.com/careers/positions/8351419?gh_jid=8351419"
+  },
+  "8351568": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "prime financing trading analyst @ remote - usa",
+   "location": "Remote - USA",
+   "posted_at": "2026-11-04T19:00:20+00:00",
+   "posted_history": [
+    "2026-11-04T19:00:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Prime Financing Trading Analyst",
+   "url": "https://www.coinbase.com/careers/positions/8351568?gh_jid=8351568"
+  },
+  "8352329": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "customer support specialist ii @ manila, philippines",
+   "location": "Manila, Philippines",
+   "posted_at": "2026-11-04T14:45:50+00:00",
+   "posted_history": [
+    "2026-11-04T14:45:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Support Specialist II",
+   "url": "https://www.coinbase.com/careers/positions/8352329?gh_jid=8352329"
   }
  }
 }

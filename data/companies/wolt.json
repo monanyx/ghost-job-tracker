@@ -67,6 +67,10 @@
   {
    "date": "2026-11-04",
    "open": 195
+  },
+  {
+   "date": "2026-11-05",
+   "open": 193
   }
  ],
  "jobs": {
@@ -877,7 +881,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/7483616"
   },
   "7526832": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
@@ -1087,7 +1091,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/7818482"
   },
   "7821228": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
@@ -1477,7 +1481,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8025611"
   },
   "8026164": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2092,17 +2096,17 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8155294"
   },
   "8156073": {
-   "closed_at": "2026-10-23T08:50:35+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "strategy operations manager emea growth engagement @ helsinki, finland",
-   "location": "Helsinki, Finland",
+   "fp": "strategy operations manager emea growth engagement @ berlin, germany; london, united kingdom",
+   "location": "Berlin, Germany; London, United Kingdom",
    "posted_at": "2026-08-25T12:07:08+00:00",
    "posted_history": [
     "2026-08-25T12:07:08+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Strategy & Operations Manager, EMEA Growth & Engagement",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8156073"
   },
@@ -2212,7 +2216,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8166865"
   },
   "8166941": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3127,7 +3131,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8256019"
   },
   "8256322": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3892,7 +3896,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8334064"
   },
   "8334374": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
@@ -4100,6 +4104,51 @@
    "reopened": 0,
    "title": "Bolti munkatárs - Wolt Market Budapest",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8349382"
+  },
+  "8352255": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "sales support associate @ athens, greece",
+   "location": "Athens, Greece",
+   "posted_at": "2026-11-04T10:31:16+00:00",
+   "posted_history": [
+    "2026-11-04T10:31:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales Support Associate",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8352255"
+  },
+  "8352589": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "engineering manager chat platform @ helsinki, finland",
+   "location": "Helsinki, Finland",
+   "posted_at": "2026-11-04T14:22:02+00:00",
+   "posted_history": [
+    "2026-11-04T14:22:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager - Chat Platform",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8352589"
+  },
+  "8353583": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "category manager @ almaty, kazakhstan",
+   "location": "Almaty, Kazakhstan",
+   "posted_at": "2026-11-05T02:54:59+00:00",
+   "posted_history": [
+    "2026-11-05T02:54:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Category Manager (WM)",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8353583"
   }
  }
 }

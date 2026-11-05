@@ -67,6 +67,10 @@
   {
    "date": "2026-11-04",
    "open": 166
+  },
+  {
+   "date": "2026-11-05",
+   "open": 165
   }
  ],
  "jobs": {
@@ -101,7 +105,7 @@
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4363623005"
   },
   "4413992005": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -161,7 +165,7 @@
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4513943005"
   },
   "4518690005": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -626,7 +630,7 @@
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4643029005"
   },
   "4644742005": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1616,7 +1620,7 @@
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4714527005"
   },
   "4714727005": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -1710,8 +1714,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "field engineer public sector @ austin, tx; colorado springs, co; omaha, ne; st. louis, mo; washington, dc",
-   "location": "Austin, TX; Colorado Springs, CO; Omaha, NE; St. Louis, MO; Washington, DC",
+   "fp": "field engineer public sector @ honolulu, hi; omaha, ne; st. louis, mo; washington, dc",
+   "location": "Honolulu, HI; Omaha, NE; St. Louis, MO; Washington, DC",
    "posted_at": "2026-07-22T19:12:01+00:00",
    "posted_history": [
     "2026-07-22T19:12:01+00:00"
@@ -2995,6 +2999,21 @@
    "title": "Strategist, Bids & Business Development",
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4748372005"
   },
+  "4748953005": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "strategic finance manager bu partnership @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-04T18:53:59+00:00",
+   "posted_history": [
+    "2026-11-04T18:53:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Finance Manager, BU Partnership",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4748953005"
+  },
   "4748981005": {
    "closed_at": null,
    "department": "",
@@ -3024,6 +3043,36 @@
    "reopened": 0,
    "title": "Growth Program Manager",
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4749989005"
+  },
+  "4750929005": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "quality lead gen ai @ san francisco, ca; new york, ny",
+   "location": "San Francisco, CA; New York, NY",
+   "posted_at": "2026-11-04T18:16:27+00:00",
+   "posted_history": [
+    "2026-11-04T18:16:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Quality Lead, Gen AI",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4750929005"
+  },
+  "4751081005": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "senior applied ai engineer @ london, uk",
+   "location": "London, UK",
+   "posted_at": "2026-11-04T17:46:00+00:00",
+   "posted_history": [
+    "2026-11-04T17:46:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Applied AI Engineer",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4751081005"
   }
  }
 }

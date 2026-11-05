@@ -67,6 +67,10 @@
   {
    "date": "2026-11-04",
    "open": 177
+  },
+  {
+   "date": "2026-11-05",
+   "open": 176
   }
  ],
  "jobs": {
@@ -131,7 +135,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8445493002?gh_jid=8445493002"
   },
   "8483261002": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2261,7 +2265,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8853037002?gh_jid=8853037002"
   },
   "8856438002": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
@@ -2321,7 +2325,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8856443002?gh_jid=8856443002"
   },
   "8856992002": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
@@ -2426,7 +2430,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8860904002?gh_jid=8860904002"
   },
   "8861939002": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2936,7 +2940,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8900844002?gh_jid=8900844002"
   },
   "8901107002": {
-   "closed_at": "2026-10-23T08:50:35+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -2946,7 +2950,7 @@
    "posted_history": [
     "2026-10-21T08:48:13+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Software Engineer, Growth Platforms",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8901107002?gh_jid=8901107002"
   },
@@ -3684,6 +3688,36 @@
    "reopened": 0,
    "title": "Lyft Business Customer Success Associate",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8928746002?gh_jid=8928746002"
+  },
+  "8930012002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "sr manager gtm strategy sales packaging @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-04T14:50:02+00:00",
+   "posted_history": [
+    "2026-11-04T14:50:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Manager, GTM Strategy & Sales Packaging",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8930012002?gh_jid=8930012002"
+  },
+  "8930438002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "growth marketing manager lifecycle @ seattle, wa",
+   "location": "Seattle, WA",
+   "posted_at": "2026-11-04T17:59:01+00:00",
+   "posted_history": [
+    "2026-11-04T17:59:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "Growth Marketing Manager, Lifecycle",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8930438002?gh_jid=8930438002"
   }
  }
 }

@@ -67,6 +67,10 @@
   {
    "date": "2026-11-04",
    "open": 468
+  },
+  {
+   "date": "2026-11-05",
+   "open": 462
   }
  ],
  "jobs": {
@@ -476,7 +480,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/7478874?gh_jid=7478874"
   },
   "7479271": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1540,6 +1544,21 @@
    "title": "Senior Professional Services Engineer",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8025521?gh_jid=8025521"
   },
+  "8028403": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "network security support engineer @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-06-30T19:30:57+00:00",
+   "posted_history": [
+    "2026-06-30T19:30:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "Network Security Support Engineer",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8028403?gh_jid=8028403"
+  },
   "8030240": {
    "closed_at": null,
    "department": "",
@@ -1901,7 +1920,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8063946?gh_jid=8063946"
   },
   "8064473": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1991,7 +2010,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8071416?gh_jid=8071416"
   },
   "8071586": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2831,7 +2850,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8132642?gh_jid=8132642"
   },
   "8139424": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3056,7 +3075,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8146536?gh_jid=8146536"
   },
   "8147174": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4106,7 +4125,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8179461?gh_jid=8179461"
   },
   "8180488": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4166,7 +4185,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8181043?gh_jid=8181043"
   },
   "8184169": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4541,7 +4560,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8199958?gh_jid=8199958"
   },
   "8200670": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5546,7 +5565,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8234073?gh_jid=8234073"
   },
   "8234130": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5786,7 +5805,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8242481?gh_jid=8242481"
   },
   "8242904": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5996,7 +6015,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8247433?gh_jid=8247433"
   },
   "8247492": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6056,7 +6075,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8248563?gh_jid=8248563"
   },
   "8248635": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6191,7 +6210,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8256872?gh_jid=8256872"
   },
   "8257140": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6236,7 +6255,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8257533?gh_jid=8257533"
   },
   "8258111": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6720,8 +6739,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
-   "fp": "engineering manager stablecoins @ in-office",
-   "location": "In-Office",
+   "fp": "engineering manager stablecoins @ hybrid; in-office",
+   "location": "Hybrid; In-Office",
    "posted_at": "2026-10-29T13:19:20+00:00",
    "posted_history": [
     "2026-10-29T13:19:20+00:00"
@@ -7210,6 +7229,21 @@
    "title": "Product Cost Analyst",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8305918?gh_jid=8305918"
   },
+  "8306486": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "hardware systems engineer hardware tools firmware @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-04T23:03:21+00:00",
+   "posted_history": [
+    "2026-11-04T23:03:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Hardware Systems Engineer, Hardware Tools / Firmware",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8306486?gh_jid=8306486"
+  },
   "8306580": {
    "closed_at": null,
    "department": "",
@@ -7585,6 +7619,36 @@
    "title": "Hardware Systems Engineer",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8325821?gh_jid=8325821"
   },
+  "8325834": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "hardware systems engineer ai hardware @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-04T22:45:27+00:00",
+   "posted_history": [
+    "2026-11-04T22:45:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Hardware Systems Engineer - AI Hardware",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8325834?gh_jid=8325834"
+  },
+  "8326536": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "senior territory account executive bengaluru @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-05T03:23:31+00:00",
+   "posted_history": [
+    "2026-11-05T03:23:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Territory Account Executive, Bengaluru",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8326536?gh_jid=8326536"
+  },
   "8326749": {
    "closed_at": null,
    "department": "",
@@ -7644,6 +7708,21 @@
    "reopened": 0,
    "title": "Global Vendor Manager, Data Center Infrastructure",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8328089?gh_jid=8328089"
+  },
+  "8328562": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "senior software engineer ai infrastructure planning @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-05T01:18:11+00:00",
+   "posted_history": [
+    "2026-11-05T01:18:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, AI & Infrastructure Planning",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8328562?gh_jid=8328562"
   },
   "8328820": {
    "closed_at": null,
@@ -7960,6 +8039,21 @@
    "title": "Named Account Executive, Indonesia (Public Sector)",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8332960?gh_jid=8332960"
   },
+  "8333371": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "presales customer engineer @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-05T01:02:28+00:00",
+   "posted_history": [
+    "2026-11-05T01:02:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Presales Customer Engineer",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8333371?gh_jid=8333371"
+  },
   "8335069": {
    "closed_at": null,
    "department": "",
@@ -7991,7 +8085,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8335468?gh_jid=8335468"
   },
   "8335469": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
@@ -8085,8 +8179,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
-   "fp": "senior product manager zero day protection @ hybrid",
-   "location": "Hybrid",
+   "fp": "senior product manager zero day protection @ distributed",
+   "location": "Distributed",
    "posted_at": "2026-11-03T23:19:34+00:00",
    "posted_history": [
     "2026-11-03T23:19:34+00:00"
@@ -8109,6 +8203,51 @@
    "reopened": 0,
    "title": "Senior Product Manager, Signals & Data Products",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8349425?gh_jid=8349425"
+  },
+  "8354678": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "hr operations specialist singapore @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-05T03:33:00+00:00",
+   "posted_history": [
+    "2026-11-05T03:33:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "HR Operations Specialist, Singapore (12-months contract)",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8354678?gh_jid=8354678"
+  },
+  "8354680": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "people operations specialist singapore @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-05T03:34:20+00:00",
+   "posted_history": [
+    "2026-11-05T03:34:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "People Operations Specialist, Singapore (12-months contract)",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8354680?gh_jid=8354680"
+  },
+  "8354857": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "recruiting coordinator @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-05T06:27:13+00:00",
+   "posted_history": [
+    "2026-11-05T06:27:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Recruiting Coordinator (11-month contract)",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8354857?gh_jid=8354857"
   }
  }
 }

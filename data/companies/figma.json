@@ -67,6 +67,10 @@
   {
    "date": "2026-11-04",
    "open": 145
+  },
+  {
+   "date": "2026-11-05",
+   "open": 144
   }
  ],
  "jobs": {
@@ -521,7 +525,7 @@
    "url": "https://boards.greenhouse.io/figma/jobs/5753209004?gh_jid=5753209004"
   },
   "5783377004": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -881,7 +885,7 @@
    "url": "https://boards.greenhouse.io/figma/jobs/6010279004?gh_jid=6010279004"
   },
   "6010992004": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2724,6 +2728,21 @@
    "reopened": 0,
    "title": "People Operations Coordinator",
    "url": "https://boards.greenhouse.io/figma/jobs/6240900004?gh_jid=6240900004"
+  },
+  "6241542004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "phd intern software engineer interaction design @ san francisco, ca • new york, ny",
+   "location": "San Francisco, CA • New York, NY",
+   "posted_at": "2026-11-04T16:53:19+00:00",
+   "posted_history": [
+    "2026-11-04T16:53:19+00:00"
+   ],
+   "reopened": 0,
+   "title": "PhD Intern, Software Engineer - Interaction Design (2027)",
+   "url": "https://boards.greenhouse.io/figma/jobs/6241542004?gh_jid=6241542004"
   }
  }
 }

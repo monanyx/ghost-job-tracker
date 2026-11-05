@@ -67,6 +67,10 @@
   {
    "date": "2026-11-04",
    "open": 51
+  },
+  {
+   "date": "2026-11-05",
+   "open": 47
   }
  ],
  "jobs": {
@@ -131,7 +135,7 @@
    "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=7718331"
   },
   "7785644": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -146,7 +150,7 @@
    "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=7785644"
   },
   "7785648": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -176,7 +180,7 @@
    "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=7953889"
   },
   "7976903": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -716,7 +720,7 @@
    "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8223434"
   },
   "8223436": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -776,7 +780,7 @@
    "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8223464"
   },
   "8227311": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1209,6 +1213,21 @@
    "reopened": 0,
    "title": "Join Team Peloton: San Francisco Hiring Event!",
    "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8337677"
+  },
+  "8338265": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "associate production director @ new york, new york",
+   "location": "New York, New York",
+   "posted_at": "2026-11-04T20:51:18+00:00",
+   "posted_history": [
+    "2026-11-04T20:51:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Associate Production Director",
+   "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8338265"
   }
  }
 }

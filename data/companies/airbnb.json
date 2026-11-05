@@ -67,6 +67,10 @@
   {
    "date": "2026-11-04",
    "open": 210
+  },
+  {
+   "date": "2026-11-05",
+   "open": 208
   }
  ],
  "jobs": {
@@ -311,7 +315,7 @@
    "url": "https://careers.airbnb.com/positions/7716341?gh_jid=7716341"
   },
   "7747259": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -491,7 +495,7 @@
    "url": "https://careers.airbnb.com/positions/7867435?gh_jid=7867435"
   },
   "7916840": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2471,7 +2475,7 @@
    "url": "https://careers.airbnb.com/positions/8263303?gh_jid=8263303"
   },
   "8264826": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2486,7 +2490,7 @@
    "url": "https://careers.airbnb.com/positions/8264826?gh_jid=8264826"
   },
   "8264827": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2591,7 +2595,7 @@
    "url": "https://careers.airbnb.com/positions/8272929?gh_jid=8272929"
   },
   "8274152": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -2606,7 +2610,7 @@
    "url": "https://careers.airbnb.com/positions/8274152?gh_jid=8274152"
   },
   "8274802": {
-   "closed_at": "2026-10-21T08:53:29+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2616,7 +2620,7 @@
    "posted_history": [
     "2026-10-12T20:32:34+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Software Engineer, Payments Platform",
    "url": "https://careers.airbnb.com/positions/8274802?gh_jid=8274802"
   },
@@ -2951,7 +2955,7 @@
    "url": "https://careers.airbnb.com/positions/8283730?gh_jid=8283730"
   },
   "8284841": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3296,7 +3300,7 @@
    "url": "https://careers.airbnb.com/positions/8303971?gh_jid=8303971"
   },
   "8304030": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -3675,8 +3679,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
-   "fp": "senior growth marketing manager influencer affiliates @ united states",
-   "location": "United States",
+   "fp": "senior growth marketing manager influencer affiliates @ san francisco",
+   "location": "San Francisco",
    "posted_at": "2026-10-29T21:44:05+00:00",
    "posted_history": [
     "2026-10-29T21:44:05+00:00"
@@ -3720,8 +3724,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
-   "fp": "marketing lead partnerships @ united states",
-   "location": "United States",
+   "fp": "marketing lead partnerships @ san francisco",
+   "location": "San Francisco",
    "posted_at": "2026-10-29T20:30:44+00:00",
    "posted_history": [
     "2026-10-29T20:30:44+00:00"
@@ -3729,6 +3733,21 @@
    "reopened": 0,
    "title": "Marketing Lead, Partnerships",
    "url": "https://careers.airbnb.com/positions/8330167?gh_jid=8330167"
+  },
+  "8331899": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "staff advanced analytics @ united states",
+   "location": "United States",
+   "posted_at": "2026-11-04T22:30:40+00:00",
+   "posted_history": [
+    "2026-11-04T22:30:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff, Advanced Analytics",
+   "url": "https://careers.airbnb.com/positions/8331899?gh_jid=8331899"
   },
   "8331990": {
    "closed_at": null,
@@ -4030,6 +4049,21 @@
    "title": "Law Enforcement Engagement Lead - LATAM",
    "url": "https://careers.airbnb.com/positions/8348207?gh_jid=8348207"
   },
+  "8349065": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "senior account executive hotels @ tokyo, japan",
+   "location": "Tokyo, Japan",
+   "posted_at": "2026-11-05T09:42:53+00:00",
+   "posted_history": [
+    "2026-11-05T09:42:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Account Executive, Hotels",
+   "url": "https://careers.airbnb.com/positions/8349065?gh_jid=8349065"
+  },
   "8349111": {
    "closed_at": null,
    "department": "",
@@ -4042,7 +4076,7 @@
     "2026-11-04T06:29:28+00:00"
    ],
    "reopened": 0,
-   "title": "Vendor Performance Manager, APAC",
+   "title": "Vendor Performance Manager, APAC (Sales focus)",
    "url": "https://careers.airbnb.com/positions/8349111?gh_jid=8349111"
   },
   "8349121": {
@@ -4090,8 +4124,38 @@
    "title": "Creative Lead, Art",
    "url": "https://careers.airbnb.com/positions/8349633?gh_jid=8349633"
   },
-  "8351417": {
+  "8350117": {
    "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "market manager spain portugal @ barcelona, spain",
+   "location": "Barcelona, Spain",
+   "posted_at": "2026-11-04T12:57:08+00:00",
+   "posted_history": [
+    "2026-11-04T12:57:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "Market Manager, Spain & Portugal",
+   "url": "https://careers.airbnb.com/positions/8350117?gh_jid=8350117"
+  },
+  "8351393": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "senior influencer manager @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2026-11-04T14:20:50+00:00",
+   "posted_history": [
+    "2026-11-04T14:20:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Influencer Manager",
+   "url": "https://careers.airbnb.com/positions/8351393?gh_jid=8351393"
+  },
+  "8351417": {
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
@@ -4119,6 +4183,21 @@
    "reopened": 0,
    "title": "Senior Market Manager, Luxe",
    "url": "https://careers.airbnb.com/positions/8351488?gh_jid=8351488"
+  },
+  "8354382": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "senior manager business technology enablement @ united states",
+   "location": "United States",
+   "posted_at": "2026-11-04T23:49:21+00:00",
+   "posted_history": [
+    "2026-11-04T23:49:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Business Technology Enablement",
+   "url": "https://careers.airbnb.com/positions/8354382?gh_jid=8354382"
   }
  }
 }

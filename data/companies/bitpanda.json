@@ -67,6 +67,10 @@
   {
    "date": "2026-11-04",
    "open": 34
+  },
+  {
+   "date": "2026-11-05",
+   "open": 39
   }
  ],
  "jobs": {
@@ -251,7 +255,7 @@
    "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4932337101"
   },
   "4940716101": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -701,7 +705,7 @@
    "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5011135101"
   },
   "5012230101": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
@@ -745,6 +749,21 @@
    "title": "Senior Product Designer, Web3",
    "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5013167101"
   },
+  "5014940101": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "senior resilience specialist @ vienna, vienna, austria",
+   "location": "Vienna, Vienna, Austria",
+   "posted_at": "2026-11-05T11:05:58+00:00",
+   "posted_history": [
+    "2026-11-05T11:05:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Resilience Specialist",
+   "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5014940101"
+  },
   "5024636101": {
    "closed_at": null,
    "department": "",
@@ -759,6 +778,96 @@
    "reopened": 0,
    "title": "Expert, Information Security",
    "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5024636101"
+  },
+  "5025155101": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "senior specialist assurance and audit coordination @ barcelona, spain; berlin, berlin, germany; bucurești, bucharest, romania; vienna, vienna, austria",
+   "location": "Barcelona, Spain; Berlin, Berlin, Germany; București, Bucharest, Romania; Vienna, Vienna, Austria",
+   "posted_at": "2026-11-05T10:56:47+00:00",
+   "posted_history": [
+    "2026-11-05T10:56:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Specialist, Assurance and Audit Coordination",
+   "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5025155101"
+  },
+  "5027189101": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "lead technical product manager protocol @ berlin, berlin, germany",
+   "location": "Berlin, Berlin, Germany",
+   "posted_at": "2026-11-04T11:37:44+00:00",
+   "posted_history": [
+    "2026-11-04T11:37:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Lead Technical Product Manager, Protocol (Vision Chain)",
+   "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5027189101"
+  },
+  "5027192101": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "lead technical product manager protocol @ barcelona, spain",
+   "location": "Barcelona, Spain",
+   "posted_at": "2026-11-04T11:40:43+00:00",
+   "posted_history": [
+    "2026-11-04T11:40:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Lead Technical Product Manager, Protocol (Vision Chain)",
+   "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5027192101"
+  },
+  "5027198101": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "lead product manager defi @ barcelona, spain",
+   "location": "Barcelona, Spain",
+   "posted_at": "2026-11-04T11:41:35+00:00",
+   "posted_history": [
+    "2026-11-04T11:41:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Lead Product Manager, DeFi",
+   "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5027198101"
+  },
+  "5027200101": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "lead product manager defi @ berlin, berlin, germany",
+   "location": "Berlin, Berlin, Germany",
+   "posted_at": "2026-11-04T11:42:47+00:00",
+   "posted_history": [
+    "2026-11-04T11:42:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Lead Product Manager, DeFi",
+   "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5027200101"
+  },
+  "5027695101": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "crm campaign manager @ kraków, lesser poland voivodeship, poland",
+   "location": "Kraków, Lesser Poland Voivodeship, Poland",
+   "posted_at": "2026-11-04T16:48:56+00:00",
+   "posted_history": [
+    "2026-11-04T16:48:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "CRM Campaign Manager",
+   "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5027695101"
   }
  }
 }

@@ -67,6 +67,10 @@
   {
    "date": "2026-11-04",
    "open": 81
+  },
+  {
+   "date": "2026-11-05",
+   "open": 81
   }
  ],
  "jobs": {
@@ -536,7 +540,7 @@
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8008696"
   },
   "8008902": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -566,7 +570,7 @@
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8013480"
   },
   "8022493": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -656,7 +660,7 @@
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8069947"
   },
   "8073232": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -671,7 +675,7 @@
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8073232"
   },
   "8075901": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -705,8 +709,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "manager of health insurance renewals team @ denver, co - hybrid",
-   "location": "Denver, CO - Hybrid",
+   "fp": "manager of health insurance renewals team @ denver, co - hybrid; phoenix, az - hybrid",
+   "location": "Denver, CO - Hybrid; Phoenix, AZ - Hybrid",
    "posted_at": "2026-07-29T15:15:43+00:00",
    "posted_history": [
     "2026-07-29T15:15:43+00:00"
@@ -1230,8 +1234,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "staff software engineer retirement money planning @ atlanta, ga - hybrid; burlingame, ca - hybrid; canada; chicago, il - remote; denver, co - hybrid; los angeles, ca - remote; new york, ny - hybrid; san francisco, ca - hybrid; seattle, wa - remote",
-   "location": "Atlanta, GA - Hybrid; Burlingame, CA - Hybrid; Canada; Chicago, IL - Remote; Denver, CO - Hybrid; Los Angeles, CA - Remote; New York, NY - Hybrid; San Francisco, CA - Hybrid; Seattle, WA - Remote",
+   "fp": "staff software engineer retirement money planning @ burlingame, ca - hybrid; denver, co - hybrid; new york, ny - hybrid; san francisco, ca - hybrid",
+   "location": "Burlingame, CA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
    "posted_at": "2026-09-25T22:46:39+00:00",
    "posted_history": [
     "2026-09-25T22:46:39+00:00"
@@ -1510,6 +1514,21 @@
    "title": "Retirement Onboarding Specialist (New Plans)",
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8248245"
   },
+  "8248374": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "sales engineer @ denver, co - hybrid; new york, ny - hybrid; san francisco, ca - hybrid; scottsdale, az - hybrid",
+   "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Scottsdale, AZ - Hybrid",
+   "posted_at": "2026-11-04T22:22:08+00:00",
+   "posted_history": [
+    "2026-11-04T22:22:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales Engineer",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8248374"
+  },
   "8250243": {
    "closed_at": null,
    "department": "",
@@ -1539,6 +1558,21 @@
    "reopened": 0,
    "title": "Finance Intern (Summer 2027)",
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8257115"
+  },
+  "8257482": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "people tech business systems analyst @ denver, co - hybrid; new york, ny - hybrid; san francisco, ca - hybrid",
+   "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+   "posted_at": "2026-11-04T16:13:28+00:00",
+   "posted_history": [
+    "2026-11-04T16:13:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "People Tech Business Systems Analyst",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8257482"
   },
   "8257486": {
    "closed_at": null,
@@ -1575,14 +1609,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "manager business insurance servicing @ denver, co - hybrid",
+   "fp": "senior commercial lines account manager @ denver, co - hybrid",
    "location": "Denver, CO - Hybrid",
    "posted_at": "2026-10-14T02:54:26+00:00",
    "posted_history": [
     "2026-10-14T02:54:26+00:00"
    ],
    "reopened": 0,
-   "title": "Manager, Business Insurance Servicing",
+   "title": "Senior Commercial Lines Account Manager",
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8257877"
   },
   "8268021": {
@@ -1734,6 +1768,36 @@
    "reopened": 0,
    "title": "Product Counsel, Payroll and Fintech",
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8304582"
+  },
+  "8353774": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "channel partnerships manager investor ecosystems @ denver, co - hybrid; new york, ny - hybrid; san francisco, ca - hybrid; toronto, ontario - remote",
+   "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Toronto, Ontario - Remote",
+   "posted_at": "2026-11-04T19:37:40+00:00",
+   "posted_history": [
+    "2026-11-04T19:37:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Channel Partnerships Manager, Investor Ecosystems (VC & PE)",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8353774"
+  },
+  "8353794": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "peo sales account executive @ atlanta, ga - hybrid; denver, co - hybrid; phoenix, az - hybrid; san francisco, ca - hybrid",
+   "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid; Phoenix, AZ - Hybrid; San Francisco, CA - Hybrid",
+   "posted_at": "2026-11-04T19:44:25+00:00",
+   "posted_history": [
+    "2026-11-04T19:44:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "PEO Sales, Account Executive",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8353794"
   }
  }
 }

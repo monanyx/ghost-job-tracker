@@ -67,6 +67,10 @@
   {
    "date": "2026-11-04",
    "open": 184
+  },
+  {
+   "date": "2026-11-05",
+   "open": 187
   }
  ],
  "jobs": {
@@ -911,7 +915,7 @@
    "url": "https://www.riotgames.com/en/work-with-us/job/8014875?gh_jid=8014875"
   },
   "8017748": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2710,6 +2714,21 @@
    "title": "Senior Software Engineer, VALORANT, Personalization",
    "url": "https://www.riotgames.com/en/work-with-us/job/8287413?gh_jid=8287413"
   },
+  "8287460": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "manager 3d character art unpublished r d product @ singapore",
+   "location": "Singapore",
+   "posted_at": "2026-11-04T11:52:17+00:00",
+   "posted_history": [
+    "2026-11-04T11:52:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, 3D Character Art - Unpublished R&D Product",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8287460?gh_jid=8287460"
+  },
   "8287462": {
    "closed_at": null,
    "department": "",
@@ -2934,6 +2953,21 @@
    "reopened": 0,
    "title": "Manager, Quality Assurance - VALORANT",
    "url": "https://www.riotgames.com/en/work-with-us/job/8302722?gh_jid=8302722"
+  },
+  "8304784": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "senior security engineer player security @ los angeles, usa",
+   "location": "Los Angeles, USA",
+   "posted_at": "2026-11-04T18:24:02+00:00",
+   "posted_history": [
+    "2026-11-04T18:24:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Security Engineer, Player Security",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8304784?gh_jid=8304784"
   },
   "8306765": {
    "closed_at": null,
@@ -3174,6 +3208,36 @@
    "reopened": 0,
    "title": "Illustration Artist - Riftbound",
    "url": "https://www.riotgames.com/en/work-with-us/job/8348724?gh_jid=8348724"
+  },
+  "8351148": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "event producer iii esports @ singapore",
+   "location": "Singapore",
+   "posted_at": "2026-11-05T02:44:05+00:00",
+   "posted_history": [
+    "2026-11-05T02:44:05+00:00"
+   ],
+   "reopened": 0,
+   "title": "Event Producer III - Esports",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8351148?gh_jid=8351148"
+  },
+  "8353725": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "senior software engineer services valorant player dynamics @ los angeles, usa; mercer island, usa",
+   "location": "Los Angeles, USA; Mercer Island, USA",
+   "posted_at": "2026-11-04T21:56:51+00:00",
+   "posted_history": [
+    "2026-11-04T21:56:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Services - VALORANT, Player Dynamics",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8353725?gh_jid=8353725"
   }
  }
 }

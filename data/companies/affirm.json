@@ -67,6 +67,10 @@
   {
    "date": "2026-11-04",
    "open": 237
+  },
+  {
+   "date": "2026-11-05",
+   "open": 235
   }
  ],
  "jobs": {
@@ -791,7 +795,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7806920003"
   },
   "7807506003": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -806,7 +810,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003"
   },
   "7807508003": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1151,7 +1155,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7819891003"
   },
   "7820306003": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1166,7 +1170,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7820306003"
   },
   "7820308003": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1421,7 +1425,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7832312003"
   },
   "7832318003": {
-   "closed_at": "2026-10-27T09:20:56+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1431,7 +1435,7 @@
    "posted_history": [
     "2026-09-07T14:40:17+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Analyst II, Credit",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7832318003"
   },
@@ -2246,7 +2250,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7995361003"
   },
   "7995763003": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2906,7 +2910,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8010608003"
   },
   "8010610003": {
-   "closed_at": "2026-10-31T09:57:28+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2916,7 +2920,7 @@
    "posted_history": [
     "2026-10-08T16:18:27+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Software Engineer II, Frontend (Marketing and Privacy)",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8010610003"
   },
@@ -4314,6 +4318,21 @@
    "reopened": 0,
    "title": "Staff Software Engineer, Backend (Observability)",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8098803003"
+  },
+  "8194342003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "vice president deputy general counsel product regulatory litigation @ remote us",
+   "location": "Remote US",
+   "posted_at": "2026-11-04T19:19:57+00:00",
+   "posted_history": [
+    "2026-11-04T19:19:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "Vice President, Deputy General Counsel, Product, Regulatory & Litigation",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8194342003"
   }
  }
 }

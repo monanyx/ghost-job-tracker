@@ -67,6 +67,10 @@
   {
    "date": "2026-11-04",
    "open": 69
+  },
+  {
+   "date": "2026-11-05",
+   "open": 70
   }
  ],
  "jobs": {
@@ -75,14 +79,14 @@
    "department": "Marketing",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
-   "fp": "video producer @ remote, san francisco, ca",
-   "location": "Remote, San Francisco, CA",
+   "fp": "video producer @ remote, san francisco, ca, us",
+   "location": "Remote, San Francisco, CA, US",
    "posted_at": "2026-10-26T13:06:36+00:00",
    "posted_history": [
     "2026-10-26T13:06:36+00:00"
    ],
    "reopened": 0,
-   "title": "Video Producer (San Francisco, CA)",
+   "title": "Video Producer",
    "url": "https://jobs.ashbyhq.com/supabase/05226c15-0501-4559-833d-3815fdf01f56"
   },
   "06752423-eebb-472c-95b5-c7ff2559fd60": {
@@ -187,7 +191,7 @@
     "2026-10-28T18:04:32+00:00"
    ],
    "reopened": 0,
-   "title": "Partner Solutions Architect , AI Builder",
+   "title": "Partner Solutions Architect, AI Builder",
    "url": "https://jobs.ashbyhq.com/supabase/282d1dfb-b162-4ce4-a938-c4b2173230e0"
   },
   "2e718684-4f75-4a99-8d6b-3b6bd44e4228": {
@@ -285,8 +289,8 @@
    "department": "Support",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
-   "fp": "support engineer @ remote, global",
-   "location": "Remote, Global",
+   "fp": "support engineer @ remote, apac",
+   "location": "Remote, APAC",
    "posted_at": "2026-10-26T14:29:18+00:00",
    "posted_history": [
     "2026-10-26T14:29:18+00:00"
@@ -345,8 +349,8 @@
    "department": "Support",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "support engineer @ remote, global",
-   "location": "Remote, Global",
+   "fp": "support engineer @ remote, emea",
+   "location": "Remote, EMEA",
    "posted_at": "2026-07-31T19:04:49+00:00",
    "posted_history": [
     "2026-07-31T19:04:49+00:00"
@@ -382,7 +386,7 @@
     "2026-05-19T14:43:21+00:00"
    ],
    "reopened": 0,
-   "title": "OrioleDB Developer (AMER)",
+   "title": "OrioleDB Developer",
    "url": "https://jobs.ashbyhq.com/supabase/621516b5-4d8f-4ee9-8287-2da12e63d023"
   },
   "62945518-2468-4cf5-9f36-904b60f75183": {
@@ -435,8 +439,8 @@
    "department": "Product",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "product manager strategic partner integrations @ remote, bay area, ca",
-   "location": "Remote, Bay Area, CA",
+   "fp": "product manager strategic partner integrations @ remote, bay area, ca, us",
+   "location": "Remote, Bay Area, CA, US",
    "posted_at": "2026-08-21T11:40:44+00:00",
    "posted_history": [
     "2026-08-21T11:40:44+00:00"
@@ -610,13 +614,28 @@
    "title": "Data API Engineer",
    "url": "https://jobs.ashbyhq.com/supabase/950e8ffc-79a5-4626-b1dd-115fcbcddad0"
   },
+  "985abb8d-cb2b-4f32-97d7-497e9f89e3ce": {
+   "closed_at": null,
+   "department": "Marketing",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "senior developer relations twitter brand rep @ remote, global",
+   "location": "Remote, Global",
+   "posted_at": "2026-11-04T14:33:58+00:00",
+   "posted_history": [
+    "2026-11-04T14:33:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Developer Relations, Twitter Brand Rep",
+   "url": "https://jobs.ashbyhq.com/supabase/985abb8d-cb2b-4f32-97d7-497e9f89e3ce"
+  },
   "98ae5c78-eab7-4879-b143-96b98e4d0dbb": {
    "closed_at": null,
    "department": "Marketing",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "developer relations engineer @ remote, new york, us",
-   "location": "Remote, New York, US",
+   "fp": "developer relations engineer @ remote, new york, ny, us",
+   "location": "Remote, New York, NY, US",
    "posted_at": "2026-08-21T00:23:04+00:00",
    "posted_history": [
     "2026-08-21T00:23:04+00:00"
@@ -705,7 +724,7 @@
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "account executive dach @ remote, emea",
+   "fp": "account executive @ remote, emea",
    "location": "Remote, EMEA",
    "posted_at": "2026-10-31T09:47:47+00:00",
    "posted_history": [
@@ -713,7 +732,7 @@
     "2026-10-31T09:47:47+00:00"
    ],
    "reopened": 0,
-   "title": "Account Executive DACH (German-Speaking)",
+   "title": "Account Executive (German-Speaking)",
    "url": "https://jobs.ashbyhq.com/supabase/a069c886-1107-408e-88b4-e1aa8d33d4bc"
   },
   "a1320bbf-bfae-49a8-a1b7-12eeccaf39ca": {
@@ -721,8 +740,8 @@
    "department": "Marketing",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "developer relations engineer @ remote, san francisco, ca",
-   "location": "Remote, San Francisco, CA",
+   "fp": "developer relations engineer @ remote, san francisco, ca, us",
+   "location": "Remote, San Francisco, CA, US",
    "posted_at": "2026-08-21T03:26:51+00:00",
    "posted_history": [
     "2026-08-21T03:26:51+00:00"
@@ -848,7 +867,7 @@
     "2026-02-27T13:33:39+00:00"
    ],
    "reopened": 0,
-   "title": "Postgres Engineer (AMER)",
+   "title": "Postgres Engineer",
    "url": "https://jobs.ashbyhq.com/supabase/c16bd707-29f2-46fb-8409-7270ff00978b"
   },
   "c20228c2-45ff-4b77-ab77-906f39a06ca3": {
@@ -893,7 +912,7 @@
     "2026-09-23T19:21:08+00:00"
    ],
    "reopened": 0,
-   "title": "OrioleDB Deployment Engineer (AMER)",
+   "title": "OrioleDB Deployment Engineer",
    "url": "https://jobs.ashbyhq.com/supabase/c9f78e74-fb9d-4cd0-af0b-b1cec4632331"
   },
   "cb04ae3a-3a47-4e21-928f-c2456b7b214e": {
@@ -901,8 +920,8 @@
    "department": "Partnerships",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "member of technical staff @ remote, bay area, ca",
-   "location": "Remote, Bay Area, CA",
+   "fp": "member of technical staff @ remote, bay area, ca, us",
+   "location": "Remote, Bay Area, CA, US",
    "posted_at": "2026-07-14T21:22:38+00:00",
    "posted_history": [
     "2026-07-14T21:22:38+00:00"

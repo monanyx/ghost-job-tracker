@@ -67,6 +67,10 @@
   {
    "date": "2026-11-04",
    "open": 394
+  },
+  {
+   "date": "2026-11-05",
+   "open": 396
   }
  ],
  "jobs": {
@@ -2302,7 +2306,7 @@
     "2026-05-15T07:49:09+00:00"
    ],
    "reopened": 0,
-   "title": "Commercial Account Executive (Hong Kong Market)",
+   "title": "Commercial Account Executive (Hong Kong and Taiwan Market)",
    "url": "https://careers.datadoghq.com/detail/7919037/?gh_jid=7919037"
   },
   "7926141": {
@@ -3521,7 +3525,7 @@
    "url": "https://careers.datadoghq.com/detail/8098863/?gh_jid=8098863"
   },
   "8098939": {
-   "closed_at": "2026-10-28T10:01:46+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3531,7 +3535,7 @@
    "posted_history": [
     "2026-07-31T15:22:46+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Engineering Manager I, Commercial Audit",
    "url": "https://careers.datadoghq.com/detail/8098939/?gh_jid=8098939"
   },
@@ -3911,7 +3915,7 @@
    "url": "https://careers.datadoghq.com/detail/8128182/?gh_jid=8128182"
   },
   "8128450": {
-   "closed_at": "2026-10-29T10:25:29+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3921,7 +3925,7 @@
    "posted_history": [
     "2026-08-13T16:40:56+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Staff Engineer - Cloud Networks",
    "url": "https://careers.datadoghq.com/detail/8128450/?gh_jid=8128450"
   },

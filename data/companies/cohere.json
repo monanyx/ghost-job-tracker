@@ -67,6 +67,10 @@
   {
    "date": "2026-11-04",
    "open": 118
+  },
+  {
+   "date": "2026-11-05",
+   "open": 118
   }
  ],
  "jobs": {
@@ -356,7 +360,7 @@
    "url": "https://jobs.ashbyhq.com/cohere/247a481a-21cc-4829-94c7-8447b692c89e"
   },
   "277827a9-02b7-49ca-8590-458e93cab0e6": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -480,14 +484,15 @@
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "head of sales defense intelligence emea @ berlin",
-   "location": "Berlin",
-   "posted_at": "2026-08-04T10:41:25+00:00",
+   "fp": "head of sales defense intelligence @ toronto",
+   "location": "Toronto",
+   "posted_at": "2026-11-04T14:05:21+00:00",
    "posted_history": [
-    "2026-08-04T10:41:25+00:00"
+    "2026-08-04T10:41:25+00:00",
+    "2026-11-04T14:05:21+00:00"
    ],
    "reopened": 0,
-   "title": "Head of Sales, Defense & Intelligence, EMEA",
+   "title": "Head of Sales, Defense & Intelligence",
    "url": "https://jobs.ashbyhq.com/cohere/334b2a07-0c6a-4764-b4a8-c8bf68513cde"
   },
   "36d1f52f-8270-4652-adf5-5303a0ff341b": {
@@ -2038,6 +2043,21 @@
    "reopened": 0,
    "title": "Solutions Architect - UAE",
    "url": "https://jobs.ashbyhq.com/cohere/f154a1cb-b7c1-4f74-ac50-04ef9dcfc9e0"
+  },
+  "f161c820-ad71-4be5-adff-2c51126e96d1": {
+   "closed_at": null,
+   "department": "People Operations",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "talent partner gtm @ new york",
+   "location": "New York",
+   "posted_at": "2026-11-04T21:44:09+00:00",
+   "posted_history": [
+    "2026-11-04T21:44:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Talent Partner, GTM",
+   "url": "https://jobs.ashbyhq.com/cohere/f161c820-ad71-4be5-adff-2c51126e96d1"
   },
   "f3290fb2-66f1-44c7-9824-3f416f44af5a": {
    "closed_at": null,

@@ -67,6 +67,10 @@
   {
    "date": "2026-11-04",
    "open": 369
+  },
+  {
+   "date": "2026-11-05",
+   "open": 365
   }
  ],
  "jobs": {
@@ -840,14 +844,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "machine learning engineer perception llm vlm @ mountain view, ca usa; san francisco, ca usa;",
-   "location": "Mountain View, CA USA;  San Francisco, CA USA;",
+   "fp": "machine learning engineer perception vision language models @ mountain view, ca usa; san francisco, ca usa",
+   "location": "Mountain View, CA USA;  San Francisco, CA USA",
    "posted_at": "2025-12-22T23:35:42+00:00",
    "posted_history": [
     "2025-12-22T23:35:42+00:00"
    ],
    "reopened": 0,
-   "title": "Machine Learning Engineer, Perception, LLM/VLM (PhD, New Grad)",
+   "title": "Machine Learning Engineer, Perception, Vision-Language Models",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=7488508"
   },
   "7488596": {
@@ -855,14 +859,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior machine learning engineer perception llm vlm @ mountain view, ca usa; san francisco, ca usa;",
+   "fp": "senior machine learning engineer perception vision language models @ mountain view, ca usa; san francisco, ca usa;",
    "location": "Mountain View, CA USA;  San Francisco, CA USA;",
    "posted_at": "2025-12-22T23:35:45+00:00",
    "posted_history": [
     "2025-12-22T23:35:45+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Machine Learning Engineer, Perception LLM/VLM",
+   "title": "Senior Machine Learning Engineer, Perception, Vision-Language Models",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=7488596"
   },
   "7490150": {
@@ -1316,7 +1320,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=7816359"
   },
   "7819951": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1406,7 +1410,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=7839759"
   },
   "7843377": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1721,7 +1725,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=7917933"
   },
   "7922569": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2111,7 +2115,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8012271"
   },
   "8013843": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2261,7 +2265,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8032339"
   },
   "8034894": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2366,7 +2370,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8042148"
   },
   "8042365": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2441,17 +2445,17 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8044544"
   },
   "8047200": {
-   "closed_at": "2026-10-29T10:25:29+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "partner audit remediation program manager @ remote, us",
-   "location": "Remote, US",
+   "fp": "partner audit remediation program manager @ remote, us, seattle, wa, usa, chicago, il, usa",
+   "location": "Remote, US, Seattle, WA, USA, Chicago, IL, USA",
    "posted_at": "2026-08-20T19:06:09+00:00",
    "posted_history": [
     "2026-08-20T19:06:09+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Partner Audit Remediation Program Manager",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8047200"
   },
@@ -2831,7 +2835,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8076964"
   },
   "8077618": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3105,8 +3109,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "staff software engineer collision avoidance testing @ mountain view, ca, usa;san francisco, ca, usa",
-   "location": "Mountain View, Ca, USA;San Francisco, Ca, USA",
+   "fp": "staff software engineer collision avoidance testing @ mountain view, ca, usa; san francisco, ca, usa",
+   "location": "Mountain View, CA, USA; San Francisco, CA, USA",
    "posted_at": "2026-08-06T16:53:25+00:00",
    "posted_history": [
     "2026-08-06T16:53:25+00:00"
@@ -3776,7 +3780,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8174504"
   },
   "8177506": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4016,7 +4020,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8198192"
   },
   "8198218": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4316,7 +4320,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8211704"
   },
   "8211728": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4991,7 +4995,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8240198"
   },
   "8240632": {
-   "closed_at": "2026-11-04T11:35:04+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5001,7 +5005,7 @@
    "posted_history": [
     "2026-10-01T17:01:59+00:00"
    ],
-   "reopened": 1,
+   "reopened": 2,
    "title": "Senior Software Engineer, Chassis",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8240632"
   },
@@ -6354,6 +6358,66 @@
    "reopened": 0,
    "title": "2027 Summer Intern, PhD, Research Scientist Intern",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8337719"
+  },
+  "8350687": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "2027 summer intern ms phd depot automation @ san francisco, california",
+   "location": "San Francisco, California",
+   "posted_at": "2026-11-05T00:22:49+00:00",
+   "posted_history": [
+    "2026-11-05T00:22:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "2027 Summer Intern, MS/PhD, Depot Automation",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8350687"
+  },
+  "8351491": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "senior staff machine learning engineer perception simulation realism @ mountain view, california, united states; san francisco, california, united states",
+   "location": "Mountain View, California, United States; San Francisco, California, United States",
+   "posted_at": "2026-11-04T18:54:49+00:00",
+   "posted_history": [
+    "2026-11-04T18:54:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Staff Machine Learning Engineer, Perception, Simulation Realism",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8351491"
+  },
+  "8353664": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "senior diagnostics engineer @ mountain view, ca, usa",
+   "location": "Mountain View, CA, USA ",
+   "posted_at": "2026-11-04T19:03:18+00:00",
+   "posted_history": [
+    "2026-11-04T19:03:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Diagnostics Engineer",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8353664"
+  },
+  "8354166": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "pcba reliability engineer @ mountain view, ca, usa",
+   "location": "Mountain View, CA, USA ",
+   "posted_at": "2026-11-05T00:53:56+00:00",
+   "posted_history": [
+    "2026-11-05T00:53:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "PCBA Reliability Engineer",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8354166"
   }
  }
 }

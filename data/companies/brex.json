@@ -67,6 +67,10 @@
   {
    "date": "2026-11-04",
    "open": 270
+  },
+  {
+   "date": "2026-11-05",
+   "open": 271
   }
  ],
  "jobs": {
@@ -2261,7 +2265,7 @@
    "url": "https://www.brex.com/careers/8735070002?gh_jid=8735070002"
   },
   "8743271002": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2831,7 +2835,7 @@
    "url": "https://www.brex.com/careers/8797771002?gh_jid=8797771002"
   },
   "8802224002": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3566,7 +3570,7 @@
    "url": "https://www.brex.com/careers/8857110002?gh_jid=8857110002"
   },
   "8857189002": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3581,7 +3585,7 @@
    "url": "https://www.brex.com/careers/8857189002?gh_jid=8857189002"
   },
   "8857190002": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4615,6 +4619,21 @@
    "title": "Commercial Account Executive",
    "url": "https://www.brex.com/careers/8918263002?gh_jid=8918263002"
   },
+  "8919847002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "senior product designer t e @ united states",
+   "location": "United States",
+   "posted_at": "2026-11-04T23:35:13+00:00",
+   "posted_history": [
+    "2026-11-04T23:35:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Designer, T&E",
+   "url": "https://www.brex.com/careers/8919847002?gh_jid=8919847002"
+  },
   "8922246002": {
    "closed_at": null,
    "department": "",
@@ -4809,6 +4828,66 @@
    "reopened": 0,
    "title": "Senior Director, Client Sales",
    "url": "https://www.brex.com/careers/8928814002?gh_jid=8928814002"
+  },
+  "8929244002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "senior design recruiter @ san francisco, california, united states",
+   "location": "San Francisco, California, United States",
+   "posted_at": "2026-11-04T23:38:17+00:00",
+   "posted_history": [
+    "2026-11-04T23:38:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Design Recruiter",
+   "url": "https://www.brex.com/careers/8929244002?gh_jid=8929244002"
+  },
+  "8931317002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "senior design recruiter @ seattle, washington, united states",
+   "location": "Seattle, Washington, United States",
+   "posted_at": "2026-11-04T23:38:32+00:00",
+   "posted_history": [
+    "2026-11-04T23:38:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Design Recruiter",
+   "url": "https://www.brex.com/careers/8931317002?gh_jid=8931317002"
+  },
+  "8931333002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "senior design recruiter @ new york, new york, united states",
+   "location": "New York, New York, United States",
+   "posted_at": "2026-11-04T23:44:58+00:00",
+   "posted_history": [
+    "2026-11-04T23:44:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Design Recruiter",
+   "url": "https://www.brex.com/careers/8931333002?gh_jid=8931333002"
+  },
+  "8931335002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "senior design recruiter @ vancouver, british columbia, canada",
+   "location": "Vancouver, British Columbia, Canada",
+   "posted_at": "2026-11-04T23:45:40+00:00",
+   "posted_history": [
+    "2026-11-04T23:45:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Design Recruiter",
+   "url": "https://www.brex.com/careers/8931335002?gh_jid=8931335002"
   }
  }
 }

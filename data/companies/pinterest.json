@@ -67,6 +67,10 @@
   {
    "date": "2026-11-04",
    "open": 167
+  },
+  {
+   "date": "2026-11-05",
+   "open": 169
   }
  ],
  "jobs": {
@@ -2711,7 +2715,7 @@
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268325"
   },
   "8268329": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -2816,7 +2820,7 @@
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268344"
   },
   "8268346": {
-   "closed_at": "2026-11-03T11:21:29+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -2826,7 +2830,7 @@
    "posted_history": [
     "2026-10-21T16:48:46+00:00"
    ],
-   "reopened": 1,
+   "reopened": 2,
    "title": "Sr. Integrated Marketing Lead",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268346"
   },
@@ -2906,7 +2910,7 @@
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8280111"
   },
   "8280238": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -3145,6 +3149,21 @@
    "title": "Director of Sales, Entertainment",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8325601"
   },
+  "8328868": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "staff software engineer ads agent infra @ san francisco, ca, us; remote, us",
+   "location": "San Francisco, CA, US; Remote, US",
+   "posted_at": "2026-11-04T17:11:59+00:00",
+   "posted_history": [
+    "2026-11-04T17:11:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer, Ads Agent Infra",
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8328868"
+  },
   "8331501": {
    "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
@@ -3160,6 +3179,21 @@
    "title": "Sr. Industry Manager, Food",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8331501"
   },
+  "8334884": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "content enablement intern 2027 @ san francisco, ca, us; remote, us",
+   "location": "San Francisco, CA, US; Remote, US",
+   "posted_at": "2026-11-04T15:54:46+00:00",
+   "posted_history": [
+    "2026-11-04T15:54:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "Content Enablement Intern 2027 (USA)",
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8334884"
+  },
   "8346364": {
    "closed_at": null,
    "department": "",
@@ -3174,6 +3208,21 @@
    "reopened": 0,
    "title": "Sr. Client Partner, Tech",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8346364"
+  },
+  "8350415": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "sr business intelligence analyst @ singapore, sg",
+   "location": "Singapore, SG",
+   "posted_at": "2026-11-05T07:05:43+00:00",
+   "posted_history": [
+    "2026-11-05T07:05:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Business Intelligence Analyst",
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8350415"
   }
  }
 }

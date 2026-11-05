@@ -67,6 +67,10 @@
   {
    "date": "2026-11-04",
    "open": 130
+  },
+  {
+   "date": "2026-11-05",
+   "open": 128
   }
  ],
  "jobs": {
@@ -116,7 +120,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/7595407"
   },
   "7657993": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -701,7 +705,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8076981"
   },
   "8077538": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1691,7 +1695,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8244723"
   },
   "8245812": {
-   "closed_at": "2026-11-04T11:35:04+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1701,7 +1705,7 @@
    "posted_history": [
     "2026-10-01T15:32:18+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Partner Marketing Manager",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8245812"
   },
@@ -1736,7 +1740,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8247185"
   },
   "8247286": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1946,7 +1950,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8258589"
   },
   "8258593": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2321,7 +2325,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8284815"
   },
   "8287927": {
-   "closed_at": null,
+   "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
@@ -2709,6 +2713,36 @@
    "reopened": 0,
    "title": "Principal Manager, Procurement Enablement & Contingent Workforce",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8348199"
+  },
+  "8350197": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "staff technical account manager @ remote - us",
+   "location": "Remote - US",
+   "posted_at": "2026-11-04T20:01:51+00:00",
+   "posted_history": [
+    "2026-11-04T20:01:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff, Technical Account Manager",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8350197"
+  },
+  "8350289": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-05T11:30:12+00:00",
+   "fp": "strategic account executive @ remote - japan",
+   "location": "Remote - Japan",
+   "posted_at": "2026-11-05T06:22:46+00:00",
+   "posted_history": [
+    "2026-11-05T06:22:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Account Executive",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8350289"
   }
  }
 }
