@@ -71,6 +71,10 @@
   {
    "date": "2026-11-05",
    "open": 129
+  },
+  {
+   "date": "2026-11-06",
+   "open": 127
   }
  ],
  "jobs": {
@@ -169,14 +173,14 @@
    "department": "Customer Experience",
    "evergreen": false,
    "first_seen": "2026-11-05T11:30:12+00:00",
-   "fp": "customer success lead @ san francisco",
+   "fp": "customer success lead san francisco @ san francisco",
    "location": "San Francisco",
    "posted_at": "2026-11-04T16:16:14+00:00",
    "posted_history": [
     "2026-11-04T16:16:14+00:00"
    ],
    "reopened": 0,
-   "title": "Customer Success Lead",
+   "title": "Customer Success Lead - San Francisco",
    "url": "https://jobs.lever.co/pigment/104912fb-cc2b-4199-8d04-504d06ba4f5c"
   },
   "122e0ef3-f97d-4f32-91f0-a8b2924705bf": {
@@ -570,7 +574,7 @@
    "url": "https://jobs.lever.co/pigment/3ad3e4c6-33f2-49ef-8e97-a39abf812113"
   },
   "3b04c449-097a-4113-b822-afdbbd27c09d": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1455,7 +1459,7 @@
    "url": "https://jobs.lever.co/pigment/a78fa6da-7b14-4fd5-bf3b-f3cbfa569e58"
   },
   "a95d0382-c3cf-4c9c-9f1c-3dba04d8dcb3": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

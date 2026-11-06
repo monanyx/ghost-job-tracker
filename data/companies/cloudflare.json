@@ -71,6 +71,10 @@
   {
    "date": "2026-11-05",
    "open": 462
+  },
+  {
+   "date": "2026-11-06",
+   "open": 462
   }
  ],
  "jobs": {
@@ -1260,7 +1264,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/7967144?gh_jid=7967144"
   },
   "7972135": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1545,7 +1549,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8025521?gh_jid=8025521"
   },
   "8028403": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-05T11:30:12+00:00",
@@ -1699,14 +1703,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior machine learning engineer @ hybrid",
+   "fp": "member of technical staff workers ai applied research @ hybrid",
    "location": "Hybrid",
    "posted_at": "2026-07-09T19:53:44+00:00",
    "posted_history": [
     "2026-07-09T19:53:44+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Machine Learning Engineer",
+   "title": "Member of Technical Staff - Workers AI Applied Research",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8043974?gh_jid=8043974"
   },
   "8044712": {
@@ -5115,7 +5119,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8220770?gh_jid=8220770"
   },
   "8221187": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6315,7 +6319,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8259113?gh_jid=8259113"
   },
   "8259402": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6373,6 +6377,21 @@
    "reopened": 0,
    "title": "Senior Territory Account Executive, San Francisco",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8262821?gh_jid=8262821"
+  },
+  "8263016": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "senior software engineer kubernetes platform @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-06T00:01:53+00:00",
+   "posted_history": [
+    "2026-11-06T00:01:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer - Kubernetes platform",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8263016?gh_jid=8263016"
   },
   "8263503": {
    "closed_at": null,
@@ -7470,7 +7489,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8319231?gh_jid=8319231"
   },
   "8319377": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
@@ -8174,6 +8193,21 @@
    "title": "Territory Sales Director, West (Los Angeles/Phoenix)",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8345223?gh_jid=8345223"
   },
+  "8346149": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "senior software engineer ztc @ in-office",
+   "location": "In-Office",
+   "posted_at": "2026-11-05T12:03:34+00:00",
+   "posted_history": [
+    "2026-11-05T12:03:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer - ZTC",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8346149?gh_jid=8346149"
+  },
   "8346327": {
    "closed_at": null,
    "department": "",
@@ -8204,6 +8238,36 @@
    "title": "Senior Product Manager, Signals & Data Products",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8349425?gh_jid=8349425"
   },
+  "8350481": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "principal customer strategy storytelling @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-05T16:21:34+00:00",
+   "posted_history": [
+    "2026-11-05T16:21:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal, Customer Strategy & Storytelling",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8350481?gh_jid=8350481"
+  },
+  "8354632": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "principal hr apjc benefits and program manager @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-06T09:27:56+00:00",
+   "posted_history": [
+    "2026-11-06T09:27:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal HR - APJC Benefits and Program Manager",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8354632?gh_jid=8354632"
+  },
   "8354678": {
    "closed_at": null,
    "department": "",
@@ -8233,6 +8297,21 @@
    "reopened": 0,
    "title": "People Operations Specialist, Singapore (12-months contract)",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8354680?gh_jid=8354680"
+  },
+  "8354692": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "hr operations specialist @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-06T09:26:06+00:00",
+   "posted_history": [
+    "2026-11-06T09:26:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "HR Operations Specialist",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8354692?gh_jid=8354692"
   },
   "8354857": {
    "closed_at": null,

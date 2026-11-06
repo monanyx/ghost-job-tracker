@@ -71,6 +71,10 @@
   {
    "date": "2026-11-05",
    "open": 187
+  },
+  {
+   "date": "2026-11-06",
+   "open": 188
   }
  ],
  "jobs": {
@@ -825,7 +829,7 @@
    "url": "https://www.riotgames.com/en/work-with-us/job/8001082?gh_jid=8001082"
   },
   "8001087": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1350,7 +1354,7 @@
    "url": "https://www.riotgames.com/en/work-with-us/job/8104538?gh_jid=8104538"
   },
   "8108097": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1979,6 +1983,21 @@
    "title": "Project Coordinator, Games (Contract)",
    "url": "https://www.riotgames.com/en/work-with-us/job/8212137?gh_jid=8212137"
   },
+  "8214979": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "associate art director league cosmetics @ los angeles, usa",
+   "location": "Los Angeles, USA",
+   "posted_at": "2026-11-06T00:00:47+00:00",
+   "posted_history": [
+    "2026-11-06T00:00:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Associate Art Director - League Cosmetics",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8214979?gh_jid=8214979"
+  },
   "8221963": {
    "closed_at": null,
    "department": "",
@@ -2160,7 +2179,7 @@
    "url": "https://www.riotgames.com/en/work-with-us/job/8231348?gh_jid=8231348"
   },
   "8232198": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2744,6 +2763,21 @@
    "title": "Senior Software Engineer, Engine & Tools - Unpublished R&D Product",
    "url": "https://www.riotgames.com/en/work-with-us/job/8287462?gh_jid=8287462"
   },
+  "8288459": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "manager insights riot discovery studio insights @ los angeles, usa",
+   "location": "Los Angeles, USA",
+   "posted_at": "2026-11-05T20:28:49+00:00",
+   "posted_history": [
+    "2026-11-05T20:28:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Insights - Riot Discovery Studio Insights",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8288459?gh_jid=8288459"
+  },
   "8293677": {
    "closed_at": null,
    "department": "",
@@ -3119,6 +3153,21 @@
    "title": "Game Producer - League of Legends",
    "url": "https://www.riotgames.com/en/work-with-us/job/8335839?gh_jid=8335839"
   },
+  "8335850": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "senior game product manager unpublished r d product @ los angeles, usa",
+   "location": "Los Angeles, USA",
+   "posted_at": "2026-11-05T20:32:24+00:00",
+   "posted_history": [
+    "2026-11-05T20:32:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Game Product Manager - Unpublished R&D Product",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8335850?gh_jid=8335850"
+  },
   "8338268": {
    "closed_at": null,
    "department": "",
@@ -3224,8 +3273,38 @@
    "title": "Event Producer III - Esports",
    "url": "https://www.riotgames.com/en/work-with-us/job/8351148?gh_jid=8351148"
   },
-  "8353725": {
+  "8351154": {
    "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "music supervision partnerships lead cn apac @ shanghai, china",
+   "location": "Shanghai, China",
+   "posted_at": "2026-11-06T11:11:19+00:00",
+   "posted_history": [
+    "2026-11-06T11:11:19+00:00"
+   ],
+   "reopened": 0,
+   "title": "Music Supervision & Partnerships Lead, CN/APAC",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8351154?gh_jid=8351154"
+  },
+  "8353230": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "production coordinator league of legends @ dublin, ireland",
+   "location": "Dublin, Ireland",
+   "posted_at": "2026-11-05T17:37:06+00:00",
+   "posted_history": [
+    "2026-11-05T17:37:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "Production Coordinator - League of Legends (12 Month Contract)",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8353230?gh_jid=8353230"
+  },
+  "8353725": {
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-05T11:30:12+00:00",

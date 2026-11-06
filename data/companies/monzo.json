@@ -71,6 +71,10 @@
   {
    "date": "2026-11-05",
    "open": 57
+  },
+  {
+   "date": "2026-11-06",
+   "open": 58
   }
  ],
  "jobs": {
@@ -930,7 +934,7 @@
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8204229"
   },
   "8207682": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1469,8 +1473,23 @@
    "title": "Information Security Manager",
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8336434"
   },
-  "8346170": {
+  "8336726": {
    "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "data director growth and marketing @ cardiff, london or remote (uk)",
+   "location": "Cardiff, London or Remote (UK)",
+   "posted_at": "2026-11-05T16:20:00+00:00",
+   "posted_history": [
+    "2026-11-05T16:20:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Data Director, Growth and Marketing",
+   "url": "https://job-boards.greenhouse.io/monzo/jobs/8336726"
+  },
+  "8346170": {
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -1483,6 +1502,36 @@
    "reopened": 0,
    "title": "Senior Fraud Investigator, Prevent",
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8346170"
+  },
+  "8354936": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "partner strategy delivery lead @ remote (uk)",
+   "location": "Remote (UK)",
+   "posted_at": "2026-11-05T16:40:13+00:00",
+   "posted_history": [
+    "2026-11-05T16:40:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Partner Strategy & Delivery Lead",
+   "url": "https://job-boards.greenhouse.io/monzo/jobs/8354936"
+  },
+  "8355433": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "regulatory affairs manager @ dublin",
+   "location": "Dublin",
+   "posted_at": "2026-11-05T15:28:30+00:00",
+   "posted_history": [
+    "2026-11-05T15:28:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Regulatory Affairs Manager",
+   "url": "https://job-boards.greenhouse.io/monzo/jobs/8355433"
   }
  }
 }

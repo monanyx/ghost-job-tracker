@@ -71,6 +71,10 @@
   {
    "date": "2026-11-05",
    "open": 235
+  },
+  {
+   "date": "2026-11-06",
+   "open": 236
   }
  ],
  "jobs": {
@@ -420,7 +424,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7775355003"
   },
   "7780490003": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1320,7 +1324,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7822288003"
   },
   "7822387003": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1530,7 +1534,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7849659003"
   },
   "7850544003": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2925,7 +2929,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8010610003"
   },
   "8010615003": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3390,7 +3394,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8017505003"
   },
   "8017509003": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -3643,6 +3647,21 @@
    "reopened": 0,
    "title": "Staff Software Engineer, Frontend (Decisions Orchestration)",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8034827003"
+  },
+  "8035736003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "senior product security engineer @ remote canada",
+   "location": "Remote Canada",
+   "posted_at": "2026-11-06T06:51:23+00:00",
+   "posted_history": [
+    "2026-11-06T06:51:23+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Security Engineer",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8035736003"
   },
   "8036613003": {
    "closed_at": null,
@@ -4139,6 +4158,36 @@
    "title": "Senior Manager, Software Engineering (Card)",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8043029003"
   },
+  "8043259003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "senior manager narrative intelligence @ remote us",
+   "location": "Remote US",
+   "posted_at": "2026-11-05T21:09:39+00:00",
+   "posted_history": [
+    "2026-11-05T21:09:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Narrative Intelligence",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8043259003"
+  },
+  "8043261003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "senior manager narrative intelligence @ remote canada",
+   "location": "Remote Canada",
+   "posted_at": "2026-11-05T21:09:40+00:00",
+   "posted_history": [
+    "2026-11-05T21:09:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Narrative Intelligence",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8043261003"
+  },
   "8043921003": {
    "closed_at": null,
    "department": "",
@@ -4183,6 +4232,21 @@
    "reopened": 0,
    "title": "Senior Technical Account Manager (Strategic Alliances)",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8044928003"
+  },
+  "8045293003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "senior manager policy communications campaigns @ remote us",
+   "location": "Remote US",
+   "posted_at": "2026-11-05T19:46:01+00:00",
+   "posted_history": [
+    "2026-11-05T19:46:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Policy & Communications Campaigns",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8045293003"
   },
   "8045376003": {
    "closed_at": null,
@@ -4318,6 +4382,36 @@
    "reopened": 0,
    "title": "Staff Software Engineer, Backend (Observability)",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8098803003"
+  },
+  "8162556003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "staff software engineer fullstack @ remote us",
+   "location": "Remote US",
+   "posted_at": "2026-11-05T16:30:13+00:00",
+   "posted_history": [
+    "2026-11-05T16:30:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer, Fullstack (Account Management)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8162556003"
+  },
+  "8162558003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "staff software engineer fullstack @ remote canada",
+   "location": "Remote Canada",
+   "posted_at": "2026-11-05T16:30:14+00:00",
+   "posted_history": [
+    "2026-11-05T16:30:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer, Fullstack (Account Management)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8162558003"
   },
   "8194342003": {
    "closed_at": null,

@@ -71,6 +71,10 @@
   {
    "date": "2026-11-05",
    "open": 128
+  },
+  {
+   "date": "2026-11-06",
+   "open": 126
   }
  ],
  "jobs": {
@@ -135,7 +139,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/7657993"
   },
   "7661919": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -210,7 +214,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/7808464"
   },
   "7816159": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
@@ -270,7 +274,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/7917665"
   },
   "7926891": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -360,7 +364,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/7987837"
   },
   "7987840": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -495,7 +499,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8026199"
   },
   "8026207": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -510,7 +514,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8026207"
   },
   "8026211": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -523,6 +527,21 @@
    "reopened": 0,
    "title": "Software Engineer, Platform Access (L2)",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8026211"
+  },
+  "8028473": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "technical support engineer 2 @ remote - india",
+   "location": "Remote - India",
+   "posted_at": "2026-11-05T14:57:26+00:00",
+   "posted_history": [
+    "2026-11-05T14:57:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Support Engineer 2",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8028473"
   },
   "8028956": {
    "closed_at": "2026-10-29T10:25:29+00:00",
@@ -795,7 +814,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8099162"
   },
   "8100236": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1110,7 +1129,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8170597"
   },
   "8171112": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1365,7 +1384,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8202189"
   },
   "8204152": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1559,6 +1578,21 @@
    "title": "Principal Product Manager",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8236862"
   },
+  "8236865": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "staff software engineer @ remote - india",
+   "location": "Remote - India",
+   "posted_at": "2026-10-06T05:23:32+00:00",
+   "posted_history": [
+    "2026-10-06T05:23:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer (L4)",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8236865"
+  },
   "8237699": {
    "closed_at": null,
    "department": "",
@@ -1709,6 +1743,21 @@
    "title": "Senior Partner Marketing Manager",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8245812"
   },
+  "8246725": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "customer success manager @ remote - us",
+   "location": "Remote - US",
+   "posted_at": "2026-11-05T20:26:31+00:00",
+   "posted_history": [
+    "2026-11-05T20:26:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Success Manager",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8246725"
+  },
   "8247182": {
    "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
@@ -1755,7 +1804,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8247286"
   },
   "8249194": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
@@ -1890,7 +1939,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8256912"
   },
   "8257820": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2040,7 +2089,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8261277"
   },
   "8261442": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2475,7 +2524,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8319160"
   },
   "8319386": {
-   "closed_at": "2026-11-03T11:21:29+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-02T11:41:30+00:00",
@@ -2485,7 +2534,7 @@
    "posted_history": [
     "2026-11-02T09:49:58+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Software Engineer (L3)",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8319386"
   },
@@ -2505,7 +2554,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8319388"
   },
   "8319434": {
-   "closed_at": "2026-11-04T11:35:04+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-02T11:41:30+00:00",
@@ -2515,7 +2564,7 @@
    "posted_history": [
     "2026-11-02T09:44:40+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Staff, Software Engineer (L4)",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8319434"
   },
@@ -2569,14 +2618,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
-   "fp": "sr director marketing strategy analytics innovation @ remote - us",
+   "fp": "sr director marketing strategy and analytics @ remote - us",
    "location": "Remote - US",
    "posted_at": "2026-10-27T02:37:16+00:00",
    "posted_history": [
     "2026-10-27T02:37:16+00:00"
    ],
    "reopened": 0,
-   "title": "Sr. Director, Marketing Strategy, Analytics & Innovation",
+   "title": "Sr. Director, Marketing Strategy and Analytics",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8325734"
   },
   "8327434": {
@@ -2669,6 +2718,21 @@
    "title": "Senior Program Manager, Talent Development",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8332638"
   },
+  "8334053": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "phone number specialist 1 @ remote - india",
+   "location": "Remote - India",
+   "posted_at": "2026-11-05T15:01:06+00:00",
+   "posted_history": [
+    "2026-11-05T15:01:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "Phone Number specialist 1",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8334053"
+  },
   "8337880": {
    "closed_at": null,
    "department": "",
@@ -2683,6 +2747,21 @@
    "reopened": 0,
    "title": "Marketing Operations Manager",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8337880"
+  },
+  "8346263": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "phone number specialist 1 @ remote - india",
+   "location": "Remote - India",
+   "posted_at": "2026-11-05T15:03:53+00:00",
+   "posted_history": [
+    "2026-11-05T15:03:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "Phone Number specialist 1",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8346263"
   },
   "8347887": {
    "closed_at": null,
@@ -2743,6 +2822,51 @@
    "reopened": 0,
    "title": "Strategic Account Executive",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8350289"
+  },
+  "8355801": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "phone numbers operations specialist 2 @ remote - india",
+   "location": "Remote - India",
+   "posted_at": "2026-11-06T07:39:58+00:00",
+   "posted_history": [
+    "2026-11-06T07:39:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Phone Numbers Operations Specialist 2",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8355801"
+  },
+  "8355804": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "onboarding operations specialist 1 @ remote - india",
+   "location": "Remote - India",
+   "posted_at": "2026-11-06T07:30:27+00:00",
+   "posted_history": [
+    "2026-11-06T07:30:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Onboarding Operations Specialist 1",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8355804"
+  },
+  "8356548": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "staff software engineer mobile @ remote - canada",
+   "location": "Remote - Canada",
+   "posted_at": "2026-11-05T18:58:15+00:00",
+   "posted_history": [
+    "2026-11-05T18:58:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer, Mobile (P4)",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8356548"
   }
  }
 }

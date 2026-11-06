@@ -71,6 +71,10 @@
   {
    "date": "2026-11-05",
    "open": 296
+  },
+  {
+   "date": "2026-11-06",
+   "open": 297
   }
  ],
  "jobs": {
@@ -7740,7 +7744,7 @@
    "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000158761109"
   },
   "744000158761629": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "Ubisoft",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
@@ -8085,7 +8089,7 @@
    "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000158786283"
   },
   "744000158786619": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "Ubisoft",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
@@ -8803,6 +8807,51 @@
    "reopened": 0,
    "title": "R&D Engineer (C++)",
    "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000159824028"
+  },
+  "744000160135969": {
+   "closed_at": null,
+   "department": "Ubisoft",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "lead game designer @ barcelona, ct, spain",
+   "location": "Barcelona, CT, Spain",
+   "posted_at": "2026-11-06T08:21:46+00:00",
+   "posted_history": [
+    "2026-11-06T08:21:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "Lead Game Designer",
+   "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000160135969"
+  },
+  "744000160147039": {
+   "closed_at": null,
+   "department": "Ubisoft",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "data analyst @ barcelona, ct, spain",
+   "location": "Barcelona, CT, Spain",
+   "posted_at": "2026-11-06T09:09:41+00:00",
+   "posted_history": [
+    "2026-11-06T09:09:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Data Analyst",
+   "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000160147039"
+  },
+  "744000160151994": {
+   "closed_at": null,
+   "department": "Ubisoft",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "expert technical artist shader @ annecy, auvergne-rhône-alpes, france",
+   "location": "Annecy, Auvergne-Rhône-Alpes, France",
+   "posted_at": "2026-11-06T09:49:52+00:00",
+   "posted_history": [
+    "2026-11-06T09:49:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "Expert Technical Artist - Shader  (F/H/NB) [AAA Project]",
+   "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000160151994"
   }
  }
 }

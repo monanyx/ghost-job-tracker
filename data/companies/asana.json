@@ -71,6 +71,10 @@
   {
    "date": "2026-11-05",
    "open": 110
+  },
+  {
+   "date": "2026-11-06",
+   "open": 110
   }
  ],
  "jobs": {
@@ -360,7 +364,7 @@
    "url": "https://www.asana.com/jobs/apply/7898640?gh_jid=7898640"
   },
   "7950767": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-05T11:30:12+00:00",
@@ -649,14 +653,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior solutions architect @ dublin",
+   "fp": "solutions architect @ dublin",
    "location": "Dublin",
    "posted_at": "2026-06-24T21:30:25+00:00",
    "posted_history": [
     "2026-06-24T21:30:25+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Solutions Architect",
+   "title": "Solutions Architect",
    "url": "https://www.asana.com/jobs/apply/8027399?gh_jid=8027399"
   },
   "8031595": {
@@ -1290,7 +1294,7 @@
    "url": "https://www.asana.com/jobs/apply/8212172?gh_jid=8212172"
   },
   "8212344": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1875,7 +1879,7 @@
    "url": "https://www.asana.com/jobs/apply/8282574?gh_jid=8282574"
   },
   "8282680": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
@@ -2159,6 +2163,21 @@
    "title": "Product Owner - Netsuite",
    "url": "https://www.asana.com/jobs/apply/8331605?gh_jid=8331605"
   },
+  "8335947": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "senior analyst channel strategy operations @ chicago",
+   "location": "Chicago",
+   "posted_at": "2026-11-05T15:56:06+00:00",
+   "posted_history": [
+    "2026-11-05T15:56:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Analyst, Channel Strategy & Operations",
+   "url": "https://www.asana.com/jobs/apply/8335947?gh_jid=8335947"
+  },
   "8337386": {
    "closed_at": null,
    "department": "",
@@ -2174,6 +2193,21 @@
    "title": "Implementation Manager",
    "url": "https://www.asana.com/jobs/apply/8337386?gh_jid=8337386"
   },
+  "8338202": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "lead product manager apis and mcp @ vancouver, bc",
+   "location": "Vancouver, BC",
+   "posted_at": "2026-11-05T17:02:32+00:00",
+   "posted_history": [
+    "2026-11-05T17:02:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Lead Product Manager, APIs and MCP",
+   "url": "https://www.asana.com/jobs/apply/8338202?gh_jid=8338202"
+  },
   "8349347": {
    "closed_at": null,
    "department": "",
@@ -2188,6 +2222,21 @@
    "reopened": 0,
    "title": "Customer Success Manager (AI Success Architect)",
    "url": "https://www.asana.com/jobs/apply/8349347?gh_jid=8349347"
+  },
+  "8355820": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "security risk engineer @ vancouver, bc",
+   "location": "Vancouver, BC",
+   "posted_at": "2026-11-05T15:52:19+00:00",
+   "posted_history": [
+    "2026-11-05T15:52:19+00:00"
+   ],
+   "reopened": 0,
+   "title": "Security Risk Engineer",
+   "url": "https://www.asana.com/jobs/apply/8355820?gh_jid=8355820"
   }
  }
 }

@@ -71,6 +71,10 @@
   {
    "date": "2026-11-05",
    "open": 31
+  },
+  {
+   "date": "2026-11-06",
+   "open": 33
   }
  ],
  "jobs": {
@@ -244,14 +248,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "regional sales operations manager emea @ remote - ireland; remote - united kingdom",
+   "fp": "emea sales operations manager gtm @ remote - ireland; remote - united kingdom",
    "location": "Remote - Ireland; Remote - United Kingdom",
    "posted_at": "2026-07-27T11:07:44+00:00",
    "posted_history": [
     "2026-07-27T11:07:44+00:00"
    ],
    "reopened": 0,
-   "title": "Regional Sales Operations Manager - EMEA (Remote)",
+   "title": "EMEA Sales Operations Manager - GTM",
    "url": "https://jobs.dropbox.com/listing/8075216?gh_jid=8075216"
   },
   "8137895": {
@@ -674,6 +678,21 @@
    "title": "Legal Operations Associate",
    "url": "https://jobs.dropbox.com/listing/8328469?gh_jid=8328469"
   },
+  "8328470": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "legal operations associate @ remote - canada: select locations",
+   "location": "Remote - Canada: Select locations",
+   "posted_at": "2026-11-05T18:23:24+00:00",
+   "posted_history": [
+    "2026-11-05T18:23:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Legal Operations Associate",
+   "url": "https://jobs.dropbox.com/listing/8328470?gh_jid=8328470"
+  },
   "8328476": {
    "closed_at": null,
    "department": "",
@@ -688,6 +707,21 @@
    "reopened": 0,
    "title": "Stock Administrator",
    "url": "https://jobs.dropbox.com/listing/8328476?gh_jid=8328476"
+  },
+  "8356282": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "director data science engineering finance @ remote - us: select locations",
+   "location": "Remote - US: Select locations",
+   "posted_at": "2026-11-05T21:27:46+00:00",
+   "posted_history": [
+    "2026-11-05T21:27:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "Director, Data Science & Engineering, Finance",
+   "url": "https://jobs.dropbox.com/listing/8356282?gh_jid=8356282"
   }
  }
 }

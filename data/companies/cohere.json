@@ -71,6 +71,10 @@
   {
    "date": "2026-11-05",
    "open": 118
+  },
+  {
+   "date": "2026-11-06",
+   "open": 119
   }
  ],
  "jobs": {
@@ -210,7 +214,7 @@
    "url": "https://jobs.ashbyhq.com/cohere/14aef6d9-763e-4f56-a498-206fb31dd0c6"
   },
   "1599cc22-313e-49c9-ac69-b365f5f8f227": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "Security",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -886,6 +890,21 @@
    "title": "Member of Technical Staff, Data Analysis and Evaluation",
    "url": "https://jobs.ashbyhq.com/cohere/61703710-4379-42fd-a508-946f2a5fb6bc"
   },
+  "653e8ebb-bed4-4dae-b4bf-e936d6422a72": {
+   "closed_at": null,
+   "department": "Revenue",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "revenue enablement manager apac @ japan",
+   "location": "Japan",
+   "posted_at": "2026-11-05T13:48:36+00:00",
+   "posted_history": [
+    "2026-11-05T13:48:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Revenue Enablement Manager - APAC",
+   "url": "https://jobs.ashbyhq.com/cohere/653e8ebb-bed4-4dae-b4bf-e936d6422a72"
+  },
   "65c1f098-97b0-4478-81a6-6f8c9b8c5ef0": {
    "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "Modeling",
@@ -960,6 +979,21 @@
    "reopened": 0,
    "title": "Solutions Architect - Public Sector",
    "url": "https://jobs.ashbyhq.com/cohere/6d0f0753-ff22-46fd-90e9-08998914a8e7"
+  },
+  "7069b63c-f0cf-4e53-9ad2-3dfa7dc79c80": {
+   "closed_at": null,
+   "department": "Revenue",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "head of sales southern europe @ europe",
+   "location": "Europe",
+   "posted_at": "2026-11-05T20:00:37+00:00",
+   "posted_history": [
+    "2026-11-05T20:00:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Head of Sales, Southern Europe (Italy, Spain, Portugal)",
+   "url": "https://jobs.ashbyhq.com/cohere/7069b63c-f0cf-4e53-9ad2-3dfa7dc79c80"
   },
   "70a8dc77-ac84-4790-aff6-13b4dcd4554a": {
    "closed_at": null,
@@ -2075,7 +2109,7 @@
    "url": "https://jobs.ashbyhq.com/cohere/f3290fb2-66f1-44c7-9824-3f416f44af5a"
   },
   "f6100cdd-94fc-4f4b-bac5-7efa5069cdd5": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2150,18 +2184,19 @@
    "url": "https://jobs.ashbyhq.com/cohere/fdf2e205-0c85-4940-9450-aa024379746a"
   },
   "fe2e2971-e2c0-43fd-9ab1-187571776a5d": {
-   "closed_at": "2026-10-23T08:50:35+00:00",
+   "closed_at": null,
    "department": "Product Management & Program Management",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "product manager managed north @ toronto",
+   "fp": "product manager inference platform @ toronto",
    "location": "Toronto",
-   "posted_at": "2026-09-01T11:57:31+00:00",
+   "posted_at": "2026-11-05T11:53:53+00:00",
    "posted_history": [
-    "2026-09-01T11:57:31+00:00"
+    "2026-09-01T11:57:31+00:00",
+    "2026-11-05T11:53:53+00:00"
    ],
-   "reopened": 0,
-   "title": "Product Manager,  Managed North",
+   "reopened": 1,
+   "title": "Product Manager,  Inference Platform",
    "url": "https://jobs.ashbyhq.com/cohere/fe2e2971-e2c0-43fd-9ab1-187571776a5d"
   },
   "fee0951d-8f8a-41ad-a7d5-4b0083bbe777": {

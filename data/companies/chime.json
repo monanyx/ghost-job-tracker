@@ -71,6 +71,10 @@
   {
    "date": "2026-11-05",
    "open": 74
+  },
+  {
+   "date": "2026-11-06",
+   "open": 73
   }
  ],
  "jobs": {
@@ -469,8 +473,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "sr product marketing manager lending @ new york, ny, usa; san francisco, ca, usa",
-   "location": "New York, NY, USA; San Francisco, CA, USA",
+   "fp": "sr product marketing manager lending @ san francisco, ca, usa",
+   "location": "San Francisco, CA, USA",
    "posted_at": "2026-08-11T22:14:22+00:00",
    "posted_history": [
     "2026-08-11T22:14:22+00:00"
@@ -555,7 +559,7 @@
    "url": "https://boards.greenhouse.io/chime/jobs/8733757002?gh_jid=8733757002"
   },
   "8742766002": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1020,7 +1024,7 @@
    "url": "https://boards.greenhouse.io/chime/jobs/8869627002?gh_jid=8869627002"
   },
   "8869629002": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1348,6 +1352,21 @@
    "reopened": 0,
    "title": "Senior Operations Manager, Partner Management",
    "url": "https://boards.greenhouse.io/chime/jobs/8920142002?gh_jid=8920142002"
+  },
+  "8922004002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "sr brand manager @ san francisco, ca, usa",
+   "location": "San Francisco, CA, USA",
+   "posted_at": "2026-11-06T00:46:55+00:00",
+   "posted_history": [
+    "2026-11-06T00:46:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Brand Manager",
+   "url": "https://boards.greenhouse.io/chime/jobs/8922004002?gh_jid=8922004002"
   },
   "8922481002": {
    "closed_at": null,

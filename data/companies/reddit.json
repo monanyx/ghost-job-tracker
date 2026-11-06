@@ -71,6 +71,10 @@
   {
    "date": "2026-11-05",
    "open": 163
+  },
+  {
+   "date": "2026-11-06",
+   "open": 163
   }
  ],
  "jobs": {
@@ -1275,7 +1279,7 @@
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8126946"
   },
   "8127002": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2130,7 +2134,7 @@
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8244067"
   },
   "8244090": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2175,7 +2179,7 @@
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8249259"
   },
   "8249469": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2834,6 +2838,36 @@
    "title": "Software Engineer, Infrastructure Engineering",
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8337444"
   },
+  "8349881": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "business analyst @ new york city, ny",
+   "location": "New York City, NY",
+   "posted_at": "2026-11-05T16:15:52+00:00",
+   "posted_history": [
+    "2026-11-05T16:15:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "Business Analyst",
+   "url": "https://job-boards.greenhouse.io/reddit/jobs/8349881"
+  },
+  "8349916": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "machine learning engineer @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-05T16:13:17+00:00",
+   "posted_history": [
+    "2026-11-05T16:13:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Machine Learning Engineer",
+   "url": "https://job-boards.greenhouse.io/reddit/jobs/8349916"
+  },
   "8350749": {
    "closed_at": null,
    "department": "",
@@ -2848,6 +2882,21 @@
    "reopened": 0,
    "title": "Senior Software Engineer, GRC",
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8350749"
+  },
+  "8355688": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "senior data scientist @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-05T16:09:14+00:00",
+   "posted_history": [
+    "2026-11-05T16:09:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Data Scientist",
+   "url": "https://job-boards.greenhouse.io/reddit/jobs/8355688"
   }
  }
 }

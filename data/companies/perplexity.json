@@ -71,6 +71,10 @@
   {
    "date": "2026-11-05",
    "open": 139
+  },
+  {
+   "date": "2026-11-06",
+   "open": 137
   }
  ],
  "jobs": {
@@ -919,7 +923,7 @@
    "url": "https://jobs.ashbyhq.com/perplexity/5930b6bf-b4b1-4134-a183-832d69dd085f"
   },
   "598e1f7d-b802-4de2-99ac-90eb2bc33315": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "AI Research & Systems",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2362,7 +2366,7 @@
    "url": "https://jobs.ashbyhq.com/perplexity/f4d81f6b-958c-4bc0-a9aa-9850c3508ca9"
   },
   "fa088d92-b08b-43f7-9232-275b0ae08827": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "Product Management",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

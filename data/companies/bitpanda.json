@@ -71,22 +71,56 @@
   {
    "date": "2026-11-05",
    "open": 39
+  },
+  {
+   "date": "2026-11-06",
+   "open": 43
   }
  ],
  "jobs": {
+  "4643990101": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "aml operations associate @ vienna, vienna, austria",
+   "location": "Vienna, Vienna, Austria",
+   "posted_at": "2026-01-12T10:49:29+00:00",
+   "posted_history": [
+    "2026-01-12T10:49:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "AML Operations Associate",
+   "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4643990101"
+  },
+  "4647006101": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "aml operations associate @ barcelona, spain",
+   "location": "Barcelona, Spain",
+   "posted_at": "2025-07-30T14:13:33+00:00",
+   "posted_history": [
+    "2025-07-30T14:13:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "AML Operations Associate",
+   "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4647006101"
+  },
   "4691242101": {
-   "closed_at": "2026-10-28T10:01:46+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "specialist trading operations night shift @ barcelona, spain; vienna, vienna, austria",
+   "fp": "specialist trading operations @ barcelona, spain; vienna, vienna, austria",
    "location": "Barcelona, Spain; Vienna, Vienna, Austria",
    "posted_at": "2025-10-21T10:34:50+00:00",
    "posted_history": [
     "2025-10-21T10:34:50+00:00"
    ],
-   "reopened": 0,
-   "title": "Specialist, Trading Operations - Night Shift",
+   "reopened": 1,
+   "title": "Specialist, Trading Operations",
    "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4691242101"
   },
   "4699355101": {
@@ -555,7 +589,7 @@
    "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4999439101"
   },
   "5001505101": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -868,6 +902,36 @@
    "reopened": 0,
    "title": "CRM Campaign Manager",
    "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5027695101"
+  },
+  "5028621101": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "specialist trading asset operations @ berlin, berlin, germany; vienna, vienna, austria",
+   "location": "Berlin, Berlin, Germany; Vienna, Vienna, Austria",
+   "posted_at": "2026-11-05T12:00:25+00:00",
+   "posted_history": [
+    "2026-11-05T12:00:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Specialist, Trading & Asset Operations",
+   "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5028621101"
+  },
+  "5029055101": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "german copywriter content editor @ vienna, vienna, austria",
+   "location": "Vienna, Vienna, Austria",
+   "posted_at": "2026-11-05T18:36:36+00:00",
+   "posted_history": [
+    "2026-11-05T18:36:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "German Copywriter & Content Editor",
+   "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5029055101"
   }
  }
 }

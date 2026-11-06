@@ -71,6 +71,10 @@
   {
    "date": "2026-11-05",
    "open": 144
+  },
+  {
+   "date": "2026-11-06",
+   "open": 139
   }
  ],
  "jobs": {
@@ -90,7 +94,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/00686b87-a6e2-4fbc-9dd5-b3b35ad02638"
   },
   "02d5b86d-00e5-4204-b61a-8419c3cc1c10": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "Growth",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -559,7 +563,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/275f43d0-b62d-401d-830c-7c1ac0e688aa"
   },
   "277de6ad-3db5-4b96-afb5-cec3d797e788": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -574,7 +578,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/277de6ad-3db5-4b96-afb5-cec3d797e788"
   },
   "27e92957-374f-409a-b787-166b10e0f042": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
@@ -620,7 +624,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/2ae519e9-1068-423b-8e07-dfdebbdca7b4"
   },
   "2c9dfcd0-0aa3-466a-8a5a-2b2351afbf81": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "Legal",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -759,8 +763,8 @@
    "department": "Engineering & Product",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
-   "fp": "full stack engineer elevencreative enterprise @ united kingdom",
-   "location": "United Kingdom",
+   "fp": "full stack engineer elevencreative enterprise @ remote",
+   "location": "Remote",
    "posted_at": "2026-10-29T12:53:03+00:00",
    "posted_history": [
     "2026-10-22T07:30:30+00:00",
@@ -769,6 +773,21 @@
    "reopened": 1,
    "title": "Full-Stack Engineer - ElevenCreative Enterprise",
    "url": "https://jobs.ashbyhq.com/elevenlabs/34dbe44c-9815-40b2-81f4-91c607fd84b2"
+  },
+  "34e2d52b-f57a-4833-87a1-0a7b0c4c5532": {
+   "closed_at": null,
+   "department": "Operations",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "talent lead @ london",
+   "location": "London",
+   "posted_at": "2026-11-05T17:08:15+00:00",
+   "posted_history": [
+    "2026-11-05T17:08:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Talent Lead",
+   "url": "https://jobs.ashbyhq.com/elevenlabs/34e2d52b-f57a-4833-87a1-0a7b0c4c5532"
   },
   "34e9eed1-3fd4-4a25-8f02-dff7f12bebf6": {
    "closed_at": null,
@@ -880,8 +899,8 @@
    "department": "Engineering & Product",
    "evergreen": false,
    "first_seen": "2026-11-02T11:41:30+00:00",
-   "fp": "full stack engineer ads engine @ united kingdom",
-   "location": "United Kingdom",
+   "fp": "full stack engineer ads engine @ remote",
+   "location": "Remote",
    "posted_at": "2026-11-02T05:31:03+00:00",
    "posted_history": [
     "2026-11-02T05:31:03+00:00"
@@ -906,7 +925,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/3acbcb5a-605b-4192-baeb-3999004233a6"
   },
   "3b57cc5c-f019-4a0b-a5ff-e1046e4f1fa1": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "Engineering & Product",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1105,7 +1124,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/4e544a96-ed24-42c0-ba70-7f0bab6ffbb2"
   },
   "507e390a-eaeb-4000-936e-83e3e498c760": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "Engineering & Product",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1330,7 +1349,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6"
   },
   "6d4c4080-b53b-4b00-8b1d-3ec1e0955135": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1496,7 +1515,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/7ab03a75-830a-40ee-b4e5-bf83b31b1d24"
   },
   "7d01b1ec-511d-40bf-a6ed-88b212932edb": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "Finance",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1811,6 +1830,21 @@
    "title": "Account Manager Lead - Corporate",
    "url": "https://jobs.ashbyhq.com/elevenlabs/9271907b-1aad-4868-8995-b9ed32fb92ac"
   },
+  "92997f8a-9f90-40fe-a76e-89ffbc44d0cc": {
+   "closed_at": null,
+   "department": "Engineering & Product",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "account executive creative specialist enterprise @ united states",
+   "location": "United States",
+   "posted_at": "2026-11-05T22:30:58+00:00",
+   "posted_history": [
+    "2026-11-05T22:30:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive  - Creative Specialist - Enterprise",
+   "url": "https://jobs.ashbyhq.com/elevenlabs/92997f8a-9f90-40fe-a76e-89ffbc44d0cc"
+  },
   "934dbe9d-1c1f-4939-944a-6671469009db": {
    "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "Engineering & Product",
@@ -1933,6 +1967,21 @@
    "title": "Employee Relations Partner",
    "url": "https://jobs.ashbyhq.com/elevenlabs/9c44055f-3246-42ab-8bb6-d89258a8c43a"
   },
+  "9d13a6ac-6dfc-4bd1-bd81-d341b576c44e": {
+   "closed_at": null,
+   "department": "Operations",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "gtm recruiter @ new york",
+   "location": "New York",
+   "posted_at": "2026-11-05T18:15:09+00:00",
+   "posted_history": [
+    "2026-11-05T18:15:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "GTM Recruiter",
+   "url": "https://jobs.ashbyhq.com/elevenlabs/9d13a6ac-6dfc-4bd1-bd81-d341b576c44e"
+  },
   "9d731858-01bf-4d42-89e5-5912ae94cf55": {
    "closed_at": null,
    "department": "Finance",
@@ -2008,6 +2057,21 @@
    "reopened": 0,
    "title": "Full-Stack Engineer (Backend Leaning) - Studio",
    "url": "https://jobs.ashbyhq.com/elevenlabs/a1c86d02-e9df-4580-87e4-1333f2b83e94"
+  },
+  "a2910e63-1dcc-4da2-a8ee-bc2a044e4613": {
+   "closed_at": null,
+   "department": "Finance",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "billing operations manager @ london",
+   "location": "London",
+   "posted_at": "2026-11-05T15:22:28+00:00",
+   "posted_history": [
+    "2026-11-05T15:22:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Billing Operations Manager",
+   "url": "https://jobs.ashbyhq.com/elevenlabs/a2910e63-1dcc-4da2-a8ee-bc2a044e4613"
   },
   "a3097257-a07a-4a7e-b9fe-b8555c1a0fa7": {
    "closed_at": "2026-11-03T11:21:29+00:00",
@@ -2086,7 +2150,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/a605e308-0d28-42b6-8cbb-03cc7799cecc"
   },
   "a787e8ee-f1c4-422d-95f8-61ffd4eefb95": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "Engineering & Product",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2864,17 +2928,18 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/e7b83599-1b70-4830-85da-7132b99a3b57"
   },
   "e815e2a8-e3bd-4e41-bbc3-ebe57277927b": {
-   "closed_at": "2026-10-27T09:20:56+00:00",
+   "closed_at": null,
    "department": "Growth",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "global events lead @ remote",
    "location": "Remote",
-   "posted_at": "2026-10-12T19:15:24+00:00",
+   "posted_at": "2026-11-06T10:16:06+00:00",
    "posted_history": [
-    "2026-10-12T19:15:24+00:00"
+    "2026-10-12T19:15:24+00:00",
+    "2026-11-06T10:16:06+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Global Events Lead",
    "url": "https://jobs.ashbyhq.com/elevenlabs/e815e2a8-e3bd-4e41-bbc3-ebe57277927b"
   },
@@ -2954,7 +3019,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/ede30aef-bc40-48b3-ae75-59cdc5d075b9"
   },
   "eec0ee0e-ad68-47af-a0a8-8d2191aee4ba": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "Finance",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3128,10 +3193,11 @@
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "gtm recruiter @ new york",
    "location": "New York",
-   "posted_at": "2026-10-23T17:03:19+00:00",
+   "posted_at": "2026-11-05T17:05:52+00:00",
    "posted_history": [
     "2026-07-31T03:55:30+00:00",
-    "2026-10-23T17:03:19+00:00"
+    "2026-10-23T17:03:19+00:00",
+    "2026-11-05T17:05:52+00:00"
    ],
    "reopened": 1,
    "title": "GTM Recruiter",

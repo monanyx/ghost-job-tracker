@@ -71,6 +71,10 @@
   {
    "date": "2026-11-05",
    "open": 309
+  },
+  {
+   "date": "2026-11-06",
+   "open": 309
   }
  ],
  "jobs": {
@@ -465,7 +469,7 @@
    "url": "https://jobs.lever.co/palantir/1a581b97-ce5b-4b4c-84b0-dd54cf8cfe14"
   },
   "1a84bb07-812d-487c-a3b7-8a78b8c8b083": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "Finance",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1185,7 +1189,7 @@
    "url": "https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116"
   },
   "38758e88-5884-4a11-98ac-d23cab51bc7a": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "Mission Operations",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1408,6 +1412,21 @@
    "reopened": 0,
    "title": "Software Engineer – Query Engines",
    "url": "https://jobs.lever.co/palantir/4056c8f6-0e6a-43f7-b387-4a97bd3dbb19"
+  },
+  "40840cef-bbd7-4557-bb21-cbdcf4be616e": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "software engineer internship sovereign ai systems @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2026-11-05T18:34:04+00:00",
+   "posted_history": [
+    "2026-11-05T18:34:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Internship - Sovereign AI Systems",
+   "url": "https://jobs.lever.co/palantir/40840cef-bbd7-4557-bb21-cbdcf4be616e"
   },
   "40d0499b-e2ec-42cc-8a19-c454ed510195": {
    "closed_at": null,
@@ -1755,7 +1774,7 @@
    "url": "https://jobs.lever.co/palantir/4e7d0732-f477-4c7a-aac9-abd62f8c9987"
   },
   "4e99e055-96c7-497e-8099-3318e1ce0626": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "Echo",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2113,6 +2132,21 @@
    "reopened": 0,
    "title": "Neurodivergent Fellowship",
    "url": "https://jobs.lever.co/palantir/61eaa54c-e1b7-4064-afad-f7df3d48d652"
+  },
+  "62d74def-2134-427d-baa0-4783f2187266": {
+   "closed_at": null,
+   "department": "Business Development",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "operations analyst us government @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2025-11-17T19:43:49+00:00",
+   "posted_history": [
+    "2025-11-17T19:43:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Operations Analyst - US Government",
+   "url": "https://jobs.lever.co/palantir/62d74def-2134-427d-baa0-4783f2187266"
   },
   "636fc05c-d348-4a06-be51-597cb9e07488": {
    "closed_at": null,
@@ -2610,7 +2644,7 @@
    "url": "https://jobs.lever.co/palantir/7d75bed5-45d8-4876-840a-2d92ea79c98d"
   },
   "7d91ca36-1e23-4603-b0f1-82a835e27d3f": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "Mission Operations",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3120,7 +3154,7 @@
    "url": "https://jobs.lever.co/palantir/9804d4d1-bd2f-42d5-ae3e-3e3e51aa3830"
   },
   "98b81271-9e15-40b7-8dce-0c62f24702f9": {
-   "closed_at": "2026-10-23T08:50:35+00:00",
+   "closed_at": null,
    "department": "Delta",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3130,7 +3164,7 @@
    "posted_history": [
     "2022-01-26T23:55:32+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Forward Deployed Software Engineer",
    "url": "https://jobs.lever.co/palantir/98b81271-9e15-40b7-8dce-0c62f24702f9"
   },
@@ -3178,6 +3212,21 @@
    "reopened": 0,
    "title": "People Partner",
    "url": "https://jobs.lever.co/palantir/99ab8dbd-fd69-4216-8c2a-09a202a1cb17"
+  },
+  "9aadca04-df88-4b46-95d8-c3b2628b30b0": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "backend software engineer data connectors @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-11-04T20:57:06+00:00",
+   "posted_history": [
+    "2026-11-04T20:57:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "Backend Software Engineer - Data Connectors",
+   "url": "https://jobs.lever.co/palantir/9aadca04-df88-4b46-95d8-c3b2628b30b0"
   },
   "9ace479e-a9e4-4610-a553-122d3831863a": {
    "closed_at": null,
@@ -3255,7 +3304,7 @@
    "url": "https://jobs.lever.co/palantir/a194220b-684a-4b4e-b918-1f70154b464c"
   },
   "a237973c-cb29-41fe-9c80-416e6f42e087": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "Administrative",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3375,7 +3424,7 @@
    "url": "https://jobs.lever.co/palantir/a576c5ef-2a51-4522-9c98-bca5ac2abbb3"
   },
   "a5f93bb6-4f13-4451-80a4-f63090830269": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "Administrative",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3643,6 +3692,21 @@
    "reopened": 0,
    "title": "Technical Writer",
    "url": "https://jobs.lever.co/palantir/b11a97bd-ac86-4cf8-a008-ffe1772a190a"
+  },
+  "b14585f4-9a68-49e8-97af-3f03f2a6c357": {
+   "closed_at": null,
+   "department": "Business Development",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "operations analyst us government @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2022-08-12T19:09:25+00:00",
+   "posted_history": [
+    "2022-08-12T19:09:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Operations Analyst - US Government",
+   "url": "https://jobs.lever.co/palantir/b14585f4-9a68-49e8-97af-3f03f2a6c357"
   },
   "b229baac-494b-4a0d-9a13-2e38806e06f3": {
    "closed_at": null,
@@ -4183,6 +4247,21 @@
    "reopened": 0,
    "title": "Software Engineer - Environment Platform",
    "url": "https://jobs.lever.co/palantir/cd2423c6-da68-430c-8be5-0ae7eea36497"
+  },
+  "cd64bcd4-50bb-4aeb-a135-4e0487ffd312": {
+   "closed_at": null,
+   "department": "Dev",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "software engineer internship sovereign ai systems @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-11-05T18:29:35+00:00",
+   "posted_history": [
+    "2026-11-05T18:29:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Internship - Sovereign AI Systems",
+   "url": "https://jobs.lever.co/palantir/cd64bcd4-50bb-4aeb-a135-4e0487ffd312"
   },
   "ce8ca664-60dc-4f9a-8986-3c96673bcfdf": {
    "closed_at": null,

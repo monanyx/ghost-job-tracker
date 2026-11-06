@@ -71,6 +71,10 @@
   {
    "date": "2026-11-05",
    "open": 169
+  },
+  {
+   "date": "2026-11-06",
+   "open": 166
   }
  ],
  "jobs": {
@@ -360,7 +364,7 @@
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494740"
   },
   "7507652": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1080,7 +1084,7 @@
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8016717"
   },
   "8016723": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2610,7 +2614,7 @@
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8265119"
   },
   "8267923": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -2749,14 +2753,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-25T08:43:53+00:00",
-   "fp": "designer ppm smb @ remote, us",
+   "fp": "designer ppm @ remote, us",
    "location": "Remote, US",
    "posted_at": "2026-10-24T13:44:09+00:00",
    "posted_history": [
     "2026-10-24T13:44:09+00:00"
    ],
    "reopened": 0,
-   "title": "Designer, PPM SMB",
+   "title": "Designer, PPM",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268336"
   },
   "8268338": {
@@ -2820,7 +2824,7 @@
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268344"
   },
   "8268346": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -3214,15 +3218,30 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-05T11:30:12+00:00",
-   "fp": "sr business intelligence analyst @ singapore, sg",
+   "fp": "sr business analyst strategy operations @ singapore, sg",
    "location": "Singapore, SG",
    "posted_at": "2026-11-05T07:05:43+00:00",
    "posted_history": [
     "2026-11-05T07:05:43+00:00"
    ],
    "reopened": 0,
-   "title": "Sr. Business Intelligence Analyst",
+   "title": "Sr. Business Analyst, Strategy & Operations (12 month contract)",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8350415"
+  },
+  "8351619": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "sr industry manager travel @ new york, ny, us",
+   "location": "New York, NY, US",
+   "posted_at": "2026-11-05T21:35:29+00:00",
+   "posted_history": [
+    "2026-11-05T21:35:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Industry Manager, Travel",
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8351619"
   }
  }
 }

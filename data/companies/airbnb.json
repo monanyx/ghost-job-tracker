@@ -71,6 +71,10 @@
   {
    "date": "2026-11-05",
    "open": 208
+  },
+  {
+   "date": "2026-11-06",
+   "open": 201
   }
  ],
  "jobs": {
@@ -1245,7 +1249,7 @@
    "url": "https://careers.airbnb.com/positions/8121074?gh_jid=8121074"
   },
   "8125981": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -1695,7 +1699,7 @@
    "url": "https://careers.airbnb.com/positions/8196013?gh_jid=8196013"
   },
   "8197652": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1830,7 +1834,7 @@
    "url": "https://careers.airbnb.com/positions/8209244?gh_jid=8209244"
   },
   "8209984": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1874,6 +1878,21 @@
    "title": "Senior Executive IT Support Engineer, Tech Foundations",
    "url": "https://careers.airbnb.com/positions/8214375?gh_jid=8214375"
   },
+  "8220091": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "senior manager quality @ gurugram, india",
+   "location": "Gurugram, India",
+   "posted_at": "2026-11-06T08:57:27+00:00",
+   "posted_history": [
+    "2026-11-06T08:57:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Quality",
+   "url": "https://careers.airbnb.com/positions/8220091?gh_jid=8220091"
+  },
   "8224032": {
    "closed_at": null,
    "department": "",
@@ -1890,7 +1909,7 @@
    "url": "https://careers.airbnb.com/positions/8224032?gh_jid=8224032"
   },
   "8225578": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -2190,7 +2209,7 @@
    "url": "https://careers.airbnb.com/positions/8243975?gh_jid=8243975"
   },
   "8244229": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2610,7 +2629,7 @@
    "url": "https://careers.airbnb.com/positions/8274152?gh_jid=8274152"
   },
   "8274802": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3199,8 +3218,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
-   "fp": "product manager trips @ united states",
-   "location": "United States ",
+   "fp": "product manager trips @ san francisco, ca",
+   "location": "San Francisco, CA",
    "posted_at": "2026-10-20T18:36:57+00:00",
    "posted_history": [
     "2026-10-20T18:36:57+00:00"
@@ -3510,7 +3529,7 @@
    "url": "https://careers.airbnb.com/positions/8318155?gh_jid=8318155"
   },
   "8325039": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -3525,7 +3544,7 @@
    "url": "https://careers.airbnb.com/positions/8325039?gh_jid=8325039"
   },
   "8325040": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -3574,14 +3593,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
-   "fp": "staff software engineer ui tooling @ united states",
+   "fp": "staff software engineer prototyping platform @ united states",
    "location": "United States",
    "posted_at": "2026-10-26T22:12:12+00:00",
    "posted_history": [
     "2026-10-26T22:12:12+00:00"
    ],
    "reopened": 0,
-   "title": "Staff Software Engineer, UI Tooling (Full Stack)",
+   "title": "Staff Software Engineer, Prototyping Platform (Full Stack)",
    "url": "https://careers.airbnb.com/positions/8325753?gh_jid=8325753"
   },
   "8325813": {
@@ -3679,8 +3698,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
-   "fp": "senior growth marketing manager influencer affiliates @ san francisco",
-   "location": "San Francisco",
+   "fp": "senior growth marketing manager influencer affiliates @ united states",
+   "location": "United States",
    "posted_at": "2026-10-29T21:44:05+00:00",
    "posted_history": [
     "2026-10-29T21:44:05+00:00"
@@ -3705,7 +3724,7 @@
    "url": "https://careers.airbnb.com/positions/8329612?gh_jid=8329612"
   },
   "8329756": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -4198,6 +4217,21 @@
    "reopened": 0,
    "title": "Senior Manager, Business Technology Enablement",
    "url": "https://careers.airbnb.com/positions/8354382?gh_jid=8354382"
+  },
+  "8357059": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "business operations and growth lead dach cee @ berlin, germany",
+   "location": "Berlin, Germany ",
+   "posted_at": "2026-11-06T09:52:49+00:00",
+   "posted_history": [
+    "2026-11-06T09:52:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Business Operations and Growth Lead - DACH & CEE",
+   "url": "https://careers.airbnb.com/positions/8357059?gh_jid=8357059"
   }
  }
 }

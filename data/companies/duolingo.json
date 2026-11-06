@@ -71,6 +71,10 @@
   {
    "date": "2026-11-05",
    "open": 55
+  },
+  {
+   "date": "2026-11-06",
+   "open": 57
   }
  ],
  "jobs": {
@@ -1108,6 +1112,36 @@
    "reopened": 0,
    "title": "VP of Learning Design",
    "url": "https://careers.duolingo.com/jobs/8929982002?gh_jid=8929982002"
+  },
+  "8932477002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "staff product manager core app experience @ new york, ny; pittsburgh, pa",
+   "location": "New York, NY; Pittsburgh, PA",
+   "posted_at": "2026-11-05T19:35:09+00:00",
+   "posted_history": [
+    "2026-11-05T19:35:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Product Manager, Core App Experience",
+   "url": "https://careers.duolingo.com/jobs/8932477002?gh_jid=8932477002"
+  },
+  "8932683002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "staff ai research engineer @ new york, ny; pittsburgh, pa",
+   "location": "New York, NY; Pittsburgh, PA",
+   "posted_at": "2026-11-05T21:34:42+00:00",
+   "posted_history": [
+    "2026-11-05T21:34:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff AI Research Engineer",
+   "url": "https://careers.duolingo.com/jobs/8932683002?gh_jid=8932683002"
   }
  }
 }

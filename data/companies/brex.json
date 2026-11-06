@@ -71,6 +71,10 @@
   {
    "date": "2026-11-05",
    "open": 271
+  },
+  {
+   "date": "2026-11-06",
+   "open": 272
   }
  ],
  "jobs": {
@@ -3345,7 +3349,7 @@
    "url": "https://www.brex.com/careers/8832353002?gh_jid=8832353002"
   },
   "8833729002": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3390,7 +3394,7 @@
    "url": "https://www.brex.com/careers/8834122002?gh_jid=8834122002"
   },
   "8834133002": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4634,6 +4638,21 @@
    "title": "Senior Product Designer, T&E",
    "url": "https://www.brex.com/careers/8919847002?gh_jid=8919847002"
   },
+  "8920564002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "brand design manager growth @ san francisco, california, united states",
+   "location": "San Francisco, California, United States",
+   "posted_at": "2026-11-05T19:07:25+00:00",
+   "posted_history": [
+    "2026-11-05T19:07:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Brand Design Manager, Growth",
+   "url": "https://www.brex.com/careers/8920564002?gh_jid=8920564002"
+  },
   "8922246002": {
    "closed_at": null,
    "department": "",
@@ -4888,6 +4907,36 @@
    "reopened": 0,
    "title": "Senior Design Recruiter",
    "url": "https://www.brex.com/careers/8931335002?gh_jid=8931335002"
+  },
+  "8932572002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "brand design manager growth @ new york, new york, united states",
+   "location": "New York, New York, United States",
+   "posted_at": "2026-11-05T20:14:11+00:00",
+   "posted_history": [
+    "2026-11-05T20:14:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Brand Design Manager, Growth",
+   "url": "https://www.brex.com/careers/8932572002?gh_jid=8932572002"
+  },
+  "8932573002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "brand design manager growth @ seattle, washington, united states",
+   "location": "Seattle, Washington, United States",
+   "posted_at": "2026-11-05T20:14:50+00:00",
+   "posted_history": [
+    "2026-11-05T20:14:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Brand Design Manager, Growth",
+   "url": "https://www.brex.com/careers/8932573002?gh_jid=8932573002"
   }
  }
 }

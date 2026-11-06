@@ -71,6 +71,10 @@
   {
    "date": "2026-11-05",
    "open": 681
+  },
+  {
+   "date": "2026-11-06",
+   "open": 674
   }
  ],
  "jobs": {
@@ -300,7 +304,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4631822008"
   },
   "4641822008": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -465,7 +469,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4938436008"
   },
   "4942024008": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1275,7 +1279,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5097490008"
   },
   "5097742008": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1500,7 +1504,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5112018008"
   },
   "5113224008": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1845,7 +1849,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5149802008"
   },
   "5150472008": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2205,7 +2209,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5195705008"
   },
   "5195866008": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2400,7 +2404,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5205704008"
   },
   "5206978008": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3958,6 +3962,21 @@
    "reopened": 0,
    "title": "Finance & Strategy, Deal Strategy",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358090008"
+  },
+  "5358096008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "product finance strategy claude platform forecasting rhythms @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-09-18T21:08:22+00:00",
+   "posted_history": [
+    "2026-09-18T21:08:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Finance & Strategy, Claude Platform, Forecasting & Rhythms",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358096008"
   },
   "5358098008": {
    "closed_at": null,
@@ -6195,7 +6214,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5397596008"
   },
   "5397654008": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7650,7 +7669,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5423737008"
   },
   "5423931008": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -8355,7 +8374,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5432554008"
   },
   "5432558008": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -9090,7 +9109,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5440636008"
   },
   "5440752008": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -9449,6 +9468,21 @@
    "title": "Technical Editor",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5443997008"
   },
+  "5444002008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "internal communications manager product @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-05T16:54:12+00:00",
+   "posted_history": [
+    "2026-11-05T16:54:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Internal Communications Manager, Product",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5444002008"
+  },
   "5444482008": {
    "closed_at": null,
    "department": "",
@@ -9480,7 +9514,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5444583008"
   },
   "5444766008": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -9495,7 +9529,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5444766008"
   },
   "5444769008": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -9840,7 +9874,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5447368008"
   },
   "5447973008": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -9855,7 +9889,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5447973008"
   },
   "5448167008": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -10474,8 +10508,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
-   "fp": "data center energy lead @ san francisco, ca | new york city, ny",
-   "location": "San Francisco, CA | New York City, NY",
+   "fp": "data center energy lead @ remote-friendly (travel-required) | san francisco, ca | seattle, wa | new york city, ny",
+   "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
    "posted_at": "2026-11-03T22:25:34+00:00",
    "posted_history": [
     "2026-11-03T22:25:34+00:00"
@@ -11175,7 +11209,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5460837008"
   },
   "5460956008": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
@@ -11203,6 +11237,21 @@
    "reopened": 0,
    "title": "Enterprise Account Executive - Semiconductors",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5461024008"
+  },
+  "5461190008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "head of enablement experience innovation @ san francisco, ca | new york city, ny",
+   "location": "San Francisco, CA | New York City, NY",
+   "posted_at": "2026-11-05T17:18:44+00:00",
+   "posted_history": [
+    "2026-11-05T17:18:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Head of Enablement Experience & Innovation",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5461190008"
   },
   "5461252008": {
    "closed_at": null,
@@ -11428,6 +11477,36 @@
    "reopened": 0,
    "title": "Customer Program Manager, Executive Briefings",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5463187008"
+  },
+  "5463197008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "equity accounting and reporting @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-05T23:09:04+00:00",
+   "posted_history": [
+    "2026-11-05T23:09:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "Equity Accounting and Reporting",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5463197008"
+  },
+  "5463598008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "research engineer cybersecurity rl @ san francisco, ca | new york city, ny",
+   "location": "San Francisco, CA | New York City, NY",
+   "posted_at": "2026-11-06T08:10:22+00:00",
+   "posted_history": [
+    "2026-11-06T08:10:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Research Engineer, Cybersecurity RL (Reinforcement Learning)",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5463598008"
   },
   "5463888008": {
    "closed_at": null,
@@ -11685,7 +11764,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5467233008"
   },
   "5467425008": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -11834,6 +11913,36 @@
    "title": "Data Center Strategic Sourcing Lead - Construction",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468875008"
   },
+  "5468937008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "research scientist discovery @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-05T18:52:27+00:00",
+   "posted_history": [
+    "2026-11-05T18:52:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Research Scientist, Discovery (Engineering & Applied Sciences)",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468937008"
+  },
+  "5468939008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "applied scientist engineering @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-05T17:22:17+00:00",
+   "posted_history": [
+    "2026-11-05T17:22:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Applied Scientist, Engineering",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468939008"
+  },
   "5468947008": {
    "closed_at": null,
    "department": "",
@@ -11924,6 +12033,21 @@
    "title": "Manager, Enterprise Sales, DACH & CEE",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5469530008"
   },
+  "5470680008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "recruiter gtm singapore @ singapore",
+   "location": "Singapore",
+   "posted_at": "2026-11-06T08:44:47+00:00",
+   "posted_history": [
+    "2026-11-06T08:44:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Recruiter, GTM - Singapore",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5470680008"
+  },
   "5470905008": {
    "closed_at": null,
    "department": "",
@@ -12000,7 +12124,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5471361008"
   },
   "5471539008": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-05T11:30:12+00:00",
@@ -12030,7 +12154,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5471721008"
   },
   "5471925008": {
-   "closed_at": "2026-11-05T11:30:12+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
@@ -12040,7 +12164,7 @@
    "posted_history": [
     "2026-11-03T23:55:19+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Head of Partner Services Delivery and Success",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5471925008"
   },
@@ -12089,6 +12213,21 @@
    "title": "Recruiter, Applied AI",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5473079008"
   },
+  "5473110008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "public policy strategic advisory @ san francisco, ca; washington, dc",
+   "location": "San Francisco, CA; Washington, DC",
+   "posted_at": "2026-11-06T00:03:42+00:00",
+   "posted_history": [
+    "2026-11-06T00:03:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Public Policy, Strategic Advisory",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5473110008"
+  },
   "5473216008": {
    "closed_at": null,
    "department": "",
@@ -12103,6 +12242,21 @@
    "reopened": 0,
    "title": "Scaled Account Manager, Beneficial Deployments",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5473216008"
+  },
+  "5473862008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "recruiter gtm seoul @ seoul, south korea",
+   "location": "Seoul, South Korea",
+   "posted_at": "2026-11-06T08:13:34+00:00",
+   "posted_history": [
+    "2026-11-06T08:13:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Recruiter, GTM  - Seoul",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5473862008"
   }
  }
 }

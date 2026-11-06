@@ -71,6 +71,10 @@
   {
    "date": "2026-11-05",
    "open": 88
+  },
+  {
+   "date": "2026-11-06",
+   "open": 90
   }
  ],
  "jobs": {
@@ -675,7 +679,7 @@
    "url": "https://instacart.careers/job/?gh_jid=8120705"
   },
   "8120707": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-05T11:30:12+00:00",
@@ -870,7 +874,7 @@
    "url": "https://instacart.careers/job/?gh_jid=8155140"
   },
   "8157736": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -885,7 +889,7 @@
    "url": "https://instacart.careers/job/?gh_jid=8157736"
   },
   "8157738": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2263,6 +2267,81 @@
    "reopened": 0,
    "title": "Deal Desk Specialist",
    "url": "https://instacart.careers/job/?gh_jid=8347897"
+  },
+  "8355990": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "lifecycle marketing coordinator crm @ united states - remote",
+   "location": "United States - Remote",
+   "posted_at": "2026-11-05T17:17:42+00:00",
+   "posted_history": [
+    "2026-11-05T17:17:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Lifecycle Marketing Coordinator, CRM",
+   "url": "https://instacart.careers/job/?gh_jid=8355990"
+  },
+  "8355992": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "lifecycle marketing coordinator crm @ canada - remote (on, ab, bc, or ns only)",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-11-05T17:17:44+00:00",
+   "posted_history": [
+    "2026-11-05T17:17:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Lifecycle Marketing Coordinator, CRM",
+   "url": "https://instacart.careers/job/?gh_jid=8355992"
+  },
+  "8356128": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "principal product manager ads quality @ united states - remote",
+   "location": "United States - Remote",
+   "posted_at": "2026-11-05T18:59:08+00:00",
+   "posted_history": [
+    "2026-11-05T18:59:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Product Manager, Ads Quality",
+   "url": "https://instacart.careers/job/?gh_jid=8356128"
+  },
+  "8356130": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "principal product manager ads quality @ canada - remote (on, ab, bc, or ns only)",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-11-05T18:59:09+00:00",
+   "posted_history": [
+    "2026-11-05T18:59:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Product Manager, Ads Quality",
+   "url": "https://instacart.careers/job/?gh_jid=8356130"
+  },
+  "8356881": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "senior data scientist @ canada - remote (on, ab, bc, or ns only)",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-11-06T03:10:11+00:00",
+   "posted_history": [
+    "2026-11-06T03:10:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Data Scientist",
+   "url": "https://instacart.careers/job/?gh_jid=8356881"
   }
  }
 }

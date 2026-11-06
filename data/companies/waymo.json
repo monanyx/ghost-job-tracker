@@ -71,6 +71,10 @@
   {
    "date": "2026-11-05",
    "open": 365
+  },
+  {
+   "date": "2026-11-06",
+   "open": 366
   }
  ],
  "jobs": {
@@ -1215,7 +1219,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=7733791"
   },
   "7747032": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2224,14 +2228,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "event response global service delivery lead @ tempe, az, usa",
+   "fp": "event response global bpo service delivery lead @ tempe, az, usa",
    "location": "Tempe, AZ, USA",
    "posted_at": "2026-06-26T20:59:46+00:00",
    "posted_history": [
     "2026-06-26T20:59:46+00:00"
    ],
    "reopened": 0,
-   "title": "Event Response Global Service Delivery Lead",
+   "title": "Event Response Global BPO Service Delivery Lead",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8029653"
   },
   "8031615": {
@@ -2265,18 +2269,18 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8032339"
   },
   "8034894": {
-   "closed_at": "2026-11-05T11:30:12+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "staff product data scientist infrastructure @ mountain view, ca, usa; san francisco, ca, usa",
+   "fp": "staff product data scientist fleet infrastructure @ mountain view, ca, usa; san francisco, ca, usa",
    "location": "Mountain View, CA, USA; San Francisco, CA, USA",
    "posted_at": "2026-06-29T16:51:51+00:00",
    "posted_history": [
     "2026-06-29T16:51:51+00:00"
    ],
-   "reopened": 0,
-   "title": "Staff Product Data Scientist, Infrastructure",
+   "reopened": 1,
+   "title": "Staff Product Data Scientist, Fleet Infrastructure",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8034894"
   },
   "8036947": {
@@ -3049,14 +3053,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "technical program manager vehicle security @ mountain view, ca, usa; san francisco, ca, usa; novi, mi, usa",
+   "fp": "technical program manager product security @ mountain view, ca, usa; san francisco, ca, usa; novi, mi, usa",
    "location": "Mountain View, CA, USA; San Francisco, CA, USA; Novi, MI, USA ",
    "posted_at": "2026-08-05T18:57:59+00:00",
    "posted_history": [
     "2026-08-05T18:57:59+00:00"
    ],
    "reopened": 0,
-   "title": "Technical Program Manager, Vehicle Security",
+   "title": "Technical Program Manager, Product Security",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8109523"
   },
   "8109626": {
@@ -3195,7 +3199,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8122146"
   },
   "8124243": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3645,7 +3649,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8164435"
   },
   "8164870": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4879,14 +4883,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "2027 summer intern phd perception systems engineering pedestrian detection precision @ san francisco, california",
+   "fp": "2027 summer intern ms phd perception systems engineering pedestrian detection precision @ san francisco, california",
    "location": "San Francisco, California",
    "posted_at": "2026-09-28T19:34:51+00:00",
    "posted_history": [
     "2026-09-28T19:34:51+00:00"
    ],
    "reopened": 0,
-   "title": "2027 Summer Intern, PhD, Perception Systems Engineering: Pedestrian Detection Precision",
+   "title": "2027 Summer Intern, MS/PhD, Perception Systems Engineering: Pedestrian Detection Precision",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8234670"
   },
   "8234876": {
@@ -6169,14 +6173,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
-   "fp": "mapping ops senior program manager real time disruptions @ mountain view, ca, usa",
+   "fp": "mapping ops staff program manager real time disruptions @ mountain view, ca, usa",
    "location": "Mountain View, CA, USA",
    "posted_at": "2026-10-22T20:29:39+00:00",
    "posted_history": [
     "2026-10-22T20:29:39+00:00"
    ],
    "reopened": 0,
-   "title": "Mapping Ops Senior Program Manager, Real-time Disruptions",
+   "title": "Mapping Ops Staff Program Manager, Real-time Disruptions",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8315141"
   },
   "8315881": {
@@ -6253,6 +6257,21 @@
    "reopened": 0,
    "title": "Sr. Staff Systems Engineer, Perception-Planner Risk",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8319591"
+  },
+  "8325820": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "senior counsel trade @ mountain view, ca, usa; washington d.c., usa",
+   "location": "Mountain View, CA, USA; Washington D.C., USA",
+   "posted_at": "2026-11-05T14:47:39+00:00",
+   "posted_history": [
+    "2026-11-05T14:47:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Counsel, Trade",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8325820"
   },
   "8327902": {
    "closed_at": null,
@@ -6359,6 +6378,21 @@
    "title": "2027 Summer Intern, PhD, Research Scientist Intern",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8337719"
   },
+  "8350276": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "senior category manager it software hardware @ remote",
+   "location": "Remote",
+   "posted_at": "2026-11-05T14:47:56+00:00",
+   "posted_history": [
+    "2026-11-05T14:47:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Category Manager, IT Software & Hardware",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8350276"
+  },
   "8350687": {
    "closed_at": null,
    "department": "",
@@ -6418,6 +6452,21 @@
    "reopened": 0,
    "title": "PCBA Reliability Engineer",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8354166"
+  },
+  "8354804": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "staff machine learning engineer ai infrastructure @ mountain view, ca, usa; san francisco, ca, usa; new york, ny, usa",
+   "location": "Mountain View, CA, USA; San Francisco, CA, USA;  New York, NY, USA",
+   "posted_at": "2026-11-05T19:19:39+00:00",
+   "posted_history": [
+    "2026-11-05T19:19:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Machine Learning Engineer, AI Infrastructure",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8354804"
   }
  }
 }

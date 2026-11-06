@@ -71,6 +71,10 @@
   {
    "date": "2026-11-05",
    "open": 86
+  },
+  {
+   "date": "2026-11-06",
+   "open": 86
   }
  ],
  "jobs": {
@@ -244,8 +248,8 @@
    "department": "Platform",
    "evergreen": false,
    "first_seen": "2026-11-05T11:30:12+00:00",
-   "fp": "security engineer product security @ new york, ny",
-   "location": "New York, NY",
+   "fp": "security engineer product security @ toronto",
+   "location": "Toronto",
    "posted_at": "2026-10-16T18:47:31+00:00",
    "posted_history": [
     "2026-10-16T18:47:31+00:00"
@@ -434,6 +438,21 @@
    "title": "Account Executive - Commercial, Spotify Technology",
    "url": "https://jobs.lever.co/spotify/2d67c471-9015-41c0-a041-b982ec4a14fd"
   },
+  "35fb13f5-27fe-40e4-9ec9-61be91e73a2b": {
+   "closed_at": null,
+   "department": "Marketing",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "marketing lead colombia @ bogotá",
+   "location": "Bogotá",
+   "posted_at": "2025-05-13T14:29:05+00:00",
+   "posted_history": [
+    "2025-05-13T14:29:05+00:00"
+   ],
+   "reopened": 0,
+   "title": "Marketing Lead - Colombia",
+   "url": "https://jobs.lever.co/spotify/35fb13f5-27fe-40e4-9ec9-61be91e73a2b"
+  },
   "4310f31c-90e1-4e8d-bdcf-dce39c145b8c": {
    "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "Audio Books & Gated Content",
@@ -508,6 +527,21 @@
    "reopened": 0,
    "title": "Senior Staff Machine Learning Engineer - Content Platform",
    "url": "https://jobs.lever.co/spotify/499543e3-78e7-473a-8a1d-a82ce9ce9030"
+  },
+  "4c0aa107-bdb7-4061-b2c7-be616e059340": {
+   "closed_at": null,
+   "department": "Experience",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "staff backend engineer content platform @ london",
+   "location": "London",
+   "posted_at": "2026-11-05T13:45:45+00:00",
+   "posted_history": [
+    "2026-11-05T13:45:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Backend Engineer - Content Platform",
+   "url": "https://jobs.lever.co/spotify/4c0aa107-bdb7-4061-b2c7-be616e059340"
   },
   "4e4ab485-06f1-46b1-88e0-44f3fda4b62a": {
    "closed_at": null,
@@ -1440,7 +1474,7 @@
    "url": "https://jobs.lever.co/spotify/d2489df3-87cb-48bb-81af-83aab5f03bdc"
   },
   "d86e7feb-15df-434d-8054-b7fb65010586": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "Platform",
    "evergreen": false,
    "first_seen": "2026-11-05T11:30:12+00:00",
@@ -1455,7 +1489,7 @@
    "url": "https://jobs.lever.co/spotify/d86e7feb-15df-434d-8054-b7fb65010586"
   },
   "d87833d0-fb78-4794-b45d-3fe5c8274bc8": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "Music Business",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1545,7 +1579,7 @@
    "url": "https://jobs.lever.co/spotify/e0ba7aee-1a0a-43ab-a4c0-d8856c6c2ce3"
   },
   "e2c7bbb8-f873-42c7-811f-0bd45bf452ae": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "Music",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1648,6 +1682,21 @@
    "reopened": 0,
    "title": "Staff Product Designer - Platform Design",
    "url": "https://jobs.lever.co/spotify/f02fb195-ba10-40bd-a926-0318a34a7fae"
+  },
+  "f1a0bdaa-a6c6-4020-bdd3-4cb195c40747": {
+   "closed_at": null,
+   "department": "Operations and Strategy",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "head of markets strategy operations japan @ tokyo",
+   "location": "Tokyo",
+   "posted_at": "2026-10-15T09:24:49+00:00",
+   "posted_history": [
+    "2026-10-15T09:24:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Head of Markets Strategy & Operations, Japan",
+   "url": "https://jobs.lever.co/spotify/f1a0bdaa-a6c6-4020-bdd3-4cb195c40747"
   },
   "f263a2af-0a4e-4540-a0f6-adb3655e027b": {
    "closed_at": null,

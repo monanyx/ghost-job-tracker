@@ -71,6 +71,10 @@
   {
    "date": "2026-11-05",
    "open": 367
+  },
+  {
+   "date": "2026-11-06",
+   "open": 361
   }
  ],
  "jobs": {
@@ -180,7 +184,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/03b44b0d-d3a3-4c9f-8b16-f94614aea44d"
   },
   "04e17f81-d0a7-4f83-8526-ec4c9532ddcc": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -481,7 +485,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/0f979347-a9f9-4aa3-8689-b2a14a7675bf"
   },
   "0fd353e8-616d-44f4-b93a-bed92f15b043": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -496,7 +500,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/0fd353e8-616d-44f4-b93a-bed92f15b043"
   },
   "103b7c8a-80c5-4932-9380-1d76dcc7fe7b": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "Business Development",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -614,6 +618,21 @@
    "reopened": 0,
    "title": "Senior Software Engineer, Backend",
    "url": "https://jobs.ashbyhq.com/harvey/1406ae6f-1dfc-4b5a-985d-cccbffe283e1"
+  },
+  "1483470d-c402-4d26-8f11-e1a2e404ce79": {
+   "closed_at": null,
+   "department": "Human Resources",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "executive assistant @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-11-05T15:41:22+00:00",
+   "posted_history": [
+    "2026-11-05T15:41:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Executive Assistant",
+   "url": "https://jobs.ashbyhq.com/harvey/1483470d-c402-4d26-8f11-e1a2e404ce79"
   },
   "15ded4d6-3cc1-4f27-b849-3ad686bd3b28": {
    "closed_at": null,
@@ -1042,7 +1061,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/24616c39-e293-4bcc-a3dd-e6f33a71c8ee"
   },
   "24f9a3fa-476a-490f-87bf-e8cebb7b3928": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1073,7 +1092,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/264aac9e-3f8d-402f-a33b-04d2fe1e16be"
   },
   "26b1c092-b466-47b6-9493-402eed406b7a": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "Human Resources",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1086,6 +1105,21 @@
    "reopened": 0,
    "title": "Workplace Specialist",
    "url": "https://jobs.ashbyhq.com/harvey/26b1c092-b466-47b6-9493-402eed406b7a"
+  },
+  "27c345f8-e664-40be-a50c-e494cd158fbd": {
+   "closed_at": null,
+   "department": "Marketing",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "head of video @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-11-05T15:01:18+00:00",
+   "posted_history": [
+    "2026-11-05T15:01:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Head of Video",
+   "url": "https://jobs.ashbyhq.com/harvey/27c345f8-e664-40be-a50c-e494cd158fbd"
   },
   "27e13512-0e66-4e1a-8048-c3786926c830": {
    "closed_at": "2026-11-05T11:30:12+00:00",
@@ -1360,7 +1394,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/2faddc24-1463-4878-9b43-ec8090a39c88"
   },
   "302a0914-2763-4e16-b044-b54de4367808": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "Go to Market",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1890,7 +1924,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/46912896-5a97-4955-ae27-1b110b3487ec"
   },
   "46ca5e0d-20c3-44e6-b30e-09eac08726ab": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "Go to Market",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2731,6 +2765,21 @@
    "title": "Staff Software Engineer, Backend Platform",
    "url": "https://jobs.ashbyhq.com/harvey/66a13783-3073-4474-8dad-90f4146885ef"
   },
+  "66bded30-3d30-4edd-b70f-25f4519b0e1c": {
+   "closed_at": null,
+   "department": "Go to Market",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "legal engineer manager product specialist germany @ germany",
+   "location": "Germany",
+   "posted_at": "2026-11-05T13:37:34+00:00",
+   "posted_history": [
+    "2026-11-05T13:37:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Legal Engineer Manager, Product Specialist, Germany",
+   "url": "https://jobs.ashbyhq.com/harvey/66bded30-3d30-4edd-b70f-25f4519b0e1c"
+  },
   "6708bb0c-e466-44e4-a992-486ad3300fd6": {
    "closed_at": null,
    "department": "Engineering",
@@ -2793,7 +2842,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/68bb5519-f4a5-4fa4-ba47-886f0abc36d8"
   },
   "6926b8ea-a3bc-4f29-bcc7-5ed70780b4c6": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "Business Development",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3050,7 +3099,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/7046c0a2-6fd0-47e1-a6b3-e340a2db8885"
   },
   "70de1761-168d-4d89-be08-7eed3f834649": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "Marketing",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3473,6 +3522,21 @@
    "title": "Account Executive, SMB, EMEA",
    "url": "https://jobs.ashbyhq.com/harvey/80de9204-db5f-4ed9-95f6-014d33994a75"
   },
+  "811bcdd3-8f87-4f7e-9550-3f47ce3698a9": {
+   "closed_at": null,
+   "department": "Go to Market",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "legal engineer @ germany",
+   "location": "Germany",
+   "posted_at": "2026-11-05T12:01:22+00:00",
+   "posted_history": [
+    "2026-11-05T12:01:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Legal Engineer (Transactional or In-house)",
+   "url": "https://jobs.ashbyhq.com/harvey/811bcdd3-8f87-4f7e-9550-3f47ce3698a9"
+  },
   "812cdf8b-1702-460e-84b4-ffbfb2088ceb": {
    "closed_at": null,
    "department": "Marketing",
@@ -3714,7 +3778,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/89d41987-0df3-4817-bb55-c83e321a8b2f"
   },
   "8afd7e79-96be-413f-a8a8-391e7d2113e6": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3924,7 +3988,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/905454df-38a7-44bb-8ea0-b93b1d85b04c"
   },
   "9318ba76-60df-4b39-b036-95f488a46c7c": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "Go to Market",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4119,7 +4183,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/992183a0-4526-4ea6-be3d-799a2401da4f"
   },
   "992f731a-7b8b-48d5-a856-ecef79ea8366": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "Business Development",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4286,7 +4350,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/9f47cf57-4297-4f55-ae26-4196dced1b7a"
   },
   "9f4a2d85-8fa6-4374-9f1d-800492967dc7": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
@@ -4753,7 +4817,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/b21e4fa4-824e-4664-9e9f-ba0204f83a58"
   },
   "b4f45d7f-6a88-40d5-83a6-e4db27f3e402": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6200,6 +6264,21 @@
    "title": "CX Data Analyst",
    "url": "https://jobs.ashbyhq.com/harvey/e69f2050-b4c0-4fbb-9852-2c60d2adbb45"
   },
+  "e8696182-927b-4a66-a058-be39ab583e7b": {
+   "closed_at": null,
+   "department": "Go to Market",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "legal engineer manager germany @ germany",
+   "location": "Germany",
+   "posted_at": "2026-11-05T13:39:10+00:00",
+   "posted_history": [
+    "2026-11-05T13:39:10+00:00"
+   ],
+   "reopened": 0,
+   "title": "Legal Engineer Manager, Germany",
+   "url": "https://jobs.ashbyhq.com/harvey/e8696182-927b-4a66-a058-be39ab583e7b"
+  },
   "e8dbf438-3086-42af-810e-4f4459cf7400": {
    "closed_at": null,
    "department": "Go to Market",
@@ -6214,6 +6293,21 @@
    "reopened": 0,
    "title": "Legal Engineer (Law Firm, Litigation/Regulatory)",
    "url": "https://jobs.ashbyhq.com/harvey/e8dbf438-3086-42af-810e-4f4459cf7400"
+  },
+  "eab239f7-11b5-4033-aa51-001a5423e7e1": {
+   "closed_at": null,
+   "department": "Go to Market",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "legal engineer @ toronto",
+   "location": "Toronto",
+   "posted_at": "2026-11-05T22:49:04+00:00",
+   "posted_history": [
+    "2026-11-05T22:49:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "Legal Engineer",
+   "url": "https://jobs.ashbyhq.com/harvey/eab239f7-11b5-4033-aa51-001a5423e7e1"
   },
   "eaf0f789-5d7f-400b-bd48-e398a32f307a": {
    "closed_at": null,
@@ -6412,6 +6506,21 @@
    "title": "Engagement Manager",
    "url": "https://jobs.ashbyhq.com/harvey/f1679188-b64e-435c-b0c6-bbcf552bed38"
   },
+  "f292e181-fc41-4e9b-b860-2893ea15da41": {
+   "closed_at": null,
+   "department": "Go to Market",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "legal engineer mexico @ mexico",
+   "location": "Mexico",
+   "posted_at": "2026-11-05T23:07:55+00:00",
+   "posted_history": [
+    "2026-11-05T23:07:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Legal Engineer, Mexico",
+   "url": "https://jobs.ashbyhq.com/harvey/f292e181-fc41-4e9b-b860-2893ea15da41"
+  },
   "f30a1b59-279c-43cb-bf56-1745a84dfd82": {
    "closed_at": null,
    "department": "Security",
@@ -6546,6 +6655,21 @@
    "reopened": 0,
    "title": "Head of AMER Legal Engineering (In-House)",
    "url": "https://jobs.ashbyhq.com/harvey/f7ec0066-2b12-491c-978f-e411a834e1fd"
+  },
+  "f855afb3-74d9-43f3-b7ff-964ea387db37": {
+   "closed_at": null,
+   "department": "Human Resources",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "executive assistant @ new york",
+   "location": "New York",
+   "posted_at": "2026-11-05T15:41:18+00:00",
+   "posted_history": [
+    "2026-11-05T15:41:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Executive Assistant",
+   "url": "https://jobs.ashbyhq.com/harvey/f855afb3-74d9-43f3-b7ff-964ea387db37"
   },
   "f8857e81-4062-4669-a7e3-7b73b114979b": {
    "closed_at": null,
@@ -6689,12 +6813,13 @@
    "first_seen": "2026-10-22T08:55:54+00:00",
    "fp": "account executive enterprise asset management @ munich",
    "location": "Munich",
-   "posted_at": "2026-11-02T08:39:44+00:00",
+   "posted_at": "2026-11-05T16:44:46+00:00",
    "posted_history": [
     "2026-10-21T11:16:06+00:00",
     "2026-10-27T18:36:44+00:00",
     "2026-10-29T18:12:47+00:00",
-    "2026-11-02T08:39:44+00:00"
+    "2026-11-02T08:39:44+00:00",
+    "2026-11-05T16:44:46+00:00"
    ],
    "reopened": 0,
    "title": "Account Executive, Enterprise, Asset Management",

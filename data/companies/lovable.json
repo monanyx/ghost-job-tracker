@@ -71,6 +71,10 @@
   {
    "date": "2026-11-05",
    "open": 78
+  },
+  {
+   "date": "2026-11-06",
+   "open": 78
   }
  ],
  "jobs": {
@@ -827,7 +831,7 @@
    "url": "https://jobs.ashbyhq.com/lovable/827c066d-222d-4729-b0a7-968fa7edad03"
   },
   "82b7f137-3648-4996-b6ff-2b1e5d1a27d2": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "FDN",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1159,6 +1163,21 @@
    "reopened": 0,
    "title": "Data Scientist, Product",
    "url": "https://jobs.ashbyhq.com/lovable/c5bc3891-8482-4276-816e-fe38302b1a3c"
+  },
+  "cf5c382b-95a1-4c94-b3f4-f1181126bb2b": {
+   "closed_at": null,
+   "department": "GTM",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "founding business development representative @ london",
+   "location": "London",
+   "posted_at": "2026-11-05T17:21:49+00:00",
+   "posted_history": [
+    "2026-11-05T17:21:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Founding Business Development Representative",
+   "url": "https://jobs.ashbyhq.com/lovable/cf5c382b-95a1-4c94-b3f4-f1181126bb2b"
   },
   "cf78be5e-41ca-478a-b480-0d0839c24543": {
    "closed_at": null,

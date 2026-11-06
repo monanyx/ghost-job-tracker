@@ -71,6 +71,10 @@
   {
    "date": "2026-11-05",
    "open": 440
+  },
+  {
+   "date": "2026-11-06",
+   "open": 438
   }
  ],
  "jobs": {
@@ -495,7 +499,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/6056628"
   },
   "6101593": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -855,7 +859,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/6821409"
   },
   "6842604": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1033,6 +1037,21 @@
    "reopened": 0,
    "title": "DashMart Shift Lead",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7118174"
+  },
+  "7144500": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "shift lead chicago il @ chicago, il",
+   "location": "Chicago, IL",
+   "posted_at": "2026-06-12T21:54:16+00:00",
+   "posted_history": [
+    "2026-06-12T21:54:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Shift Lead - Chicago, IL",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7144500"
   },
   "7144702": {
    "closed_at": null,
@@ -1365,7 +1384,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7490108"
   },
   "7490373": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1410,7 +1429,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7492146"
   },
   "7514895": {
-   "closed_at": "2026-11-03T11:21:29+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -1420,7 +1439,7 @@
    "posted_history": [
     "2026-01-07T16:52:18+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Account Executive, New Verticals",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7514895"
   },
@@ -2490,7 +2509,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7990850"
   },
   "7993015": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2775,7 +2794,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8049133"
   },
   "8049282": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4324,14 +4343,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "associate manager new verticals fulfillment product strategy operations @ new york, ny; san francisco, ca; los angeles, ca; chicago, il; seattle, wa; tempe, az; washington, d.c.",
+   "fp": "associate manager new verticals fulfillment strategy operations @ new york, ny; san francisco, ca; los angeles, ca; chicago, il; seattle, wa; tempe, az; washington, d.c.",
    "location": "New York, NY; San Francisco, CA; Los Angeles, CA; Chicago, IL; Seattle, WA; Tempe, AZ; Washington, D.C.",
    "posted_at": "2026-08-26T20:33:17+00:00",
    "posted_history": [
     "2026-08-26T20:33:17+00:00"
    ],
    "reopened": 0,
-   "title": "Associate Manager, New Verticals - Fulfillment Product Strategy & Operations",
+   "title": "Associate Manager, New Verticals - Fulfillment Strategy & Operations",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8160170"
   },
   "8160193": {
@@ -4545,7 +4564,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8167999"
   },
   "8168885": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5115,7 +5134,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8201979"
   },
   "8202720": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5419,8 +5438,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "director new growth bets strategy operations @ new york city, ny; san francisco, ca; seattle, wa; los angeles, ca",
-   "location": "New York City, NY; San Francisco, CA; Seattle, WA; Los Angeles, CA",
+   "fp": "director new growth bets strategy operations @ new york city, ny; san francisco, ca; san jose, ca; austin, tx; baltimore, md; chicago, il; denver, co; hartford, ct; new haven, ct; philadelphia, pa; miami, fl; providence, ri; seattle, wa; los angeles, ca; boston, ma; washington d.c.; atlanta; ga; tempe, az",
+   "location": "New York City, NY; San Francisco, CA; San Jose, CA; Austin, TX; Baltimore, MD; Chicago, IL; Denver, CO; Hartford, CT; New Haven, CT; Philadelphia, PA; Miami, FL; Providence, RI; Seattle, WA; Los Angeles, CA; Boston, MA; Washington D.C.; Atlanta; GA; Tempe, AZ",
    "posted_at": "2026-09-23T22:09:16+00:00",
    "posted_history": [
     "2026-09-23T22:09:16+00:00"
@@ -5880,7 +5899,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8236031"
   },
   "8236946": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -8220,7 +8239,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8350408"
   },
   "8350867": {
-   "closed_at": "2026-11-05T11:30:12+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
@@ -8230,7 +8249,7 @@
    "posted_history": [
     "2026-11-03T20:52:17+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Manager, Strategic Sourcing - Marketing",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8350867"
   },
@@ -8280,7 +8299,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8352563"
   },
   "8353606": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-05T11:30:12+00:00",
@@ -8353,6 +8372,66 @@
    "reopened": 0,
    "title": "Site Manager, DashMart",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8353943"
+  },
+  "8355717": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "full stack engineer applied ai @ san francisco, ca; sunnyvale, ca",
+   "location": "San Francisco, CA; Sunnyvale, CA",
+   "posted_at": "2026-11-05T15:22:38+00:00",
+   "posted_history": [
+    "2026-11-05T15:22:38+00:00"
+   ],
+   "reopened": 0,
+   "title": "Full Stack Engineer, Applied AI",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8355717"
+  },
+  "8356499": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "research operations manager @ san francisco, ca ; sunnyvale, ca; new york, ny",
+   "location": "San Francisco, CA ; Sunnyvale, CA; New York, NY",
+   "posted_at": "2026-11-05T21:27:50+00:00",
+   "posted_history": [
+    "2026-11-05T21:27:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Research Operations Manager",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8356499"
+  },
+  "8356604": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "enterprise account executive cpg ads @ new york, ny; los angeles, ca; atlanta, ga; chicago, il; san francisco, ca",
+   "location": "New York, NY; Los Angeles, CA; Atlanta, GA; Chicago, IL; San Francisco, CA",
+   "posted_at": "2026-11-05T20:13:53+00:00",
+   "posted_history": [
+    "2026-11-05T20:13:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Account Executive - CPG Ads",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8356604"
+  },
+  "8356727": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "associate dasher logistics rotational leadership program @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-05T21:54:36+00:00",
+   "posted_history": [
+    "2026-11-05T21:54:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Associate, Dasher & Logistics Rotational Leadership Program",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8356727"
   }
  }
 }

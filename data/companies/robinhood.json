@@ -71,6 +71,10 @@
   {
    "date": "2026-11-05",
    "open": 154
+  },
+  {
+   "date": "2026-11-06",
+   "open": 153
   }
  ],
  "jobs": {
@@ -90,7 +94,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/4738660?t=gh_src=&gh_jid=4738660"
   },
   "5319465": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -420,7 +424,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/7729019?t=gh_src=&gh_jid=7729019"
   },
   "7737164": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -600,7 +604,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/7997218?t=gh_src=&gh_jid=7997218"
   },
   "8008723": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1259,6 +1263,21 @@
    "title": "Senior Product Designer, Trading",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8160668?t=gh_src=&gh_jid=8160668"
   },
+  "8162169": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "customer experience manager robinhood concierge @ denver, co; westlake, tx",
+   "location": "Denver, CO; Westlake, TX",
+   "posted_at": "2026-09-11T16:19:03+00:00",
+   "posted_history": [
+    "2026-09-11T16:19:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Experience Manager, Robinhood Concierge",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8162169?t=gh_src=&gh_jid=8162169"
+  },
   "8162450": {
    "closed_at": null,
    "department": "",
@@ -1290,7 +1309,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8164459?t=gh_src=&gh_jid=8164459"
   },
   "8164884": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1425,7 +1444,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8174853?t=gh_src=&gh_jid=8174853"
   },
   "8175213": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1440,7 +1459,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8175213?t=gh_src=&gh_jid=8175213"
   },
   "8175215": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2175,7 +2194,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8244209?t=gh_src=&gh_jid=8244209"
   },
   "8244634": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3060,7 +3079,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8335168?t=gh_src=&gh_jid=8335168"
   },
   "8346031": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
@@ -3073,6 +3092,21 @@
    "reopened": 0,
    "title": "Web Engineer, International Expansion",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8346031?t=gh_src=&gh_jid=8346031"
+  },
+  "8346036": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "senior backend engineer growth @ menlo park, ca",
+   "location": "Menlo Park, CA",
+   "posted_at": "2026-11-05T19:29:28+00:00",
+   "posted_history": [
+    "2026-11-05T19:29:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Backend Engineer, Growth",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8346036?t=gh_src=&gh_jid=8346036"
   },
   "8348035": {
    "closed_at": null,
@@ -3103,6 +3137,81 @@
    "reopened": 0,
    "title": "Senior AI Operations Engineer, Enterprise Tech",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8348038?t=gh_src=&gh_jid=8348038"
+  },
+  "8350199": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "peoplex transformation manager @ chicago, il; menlo park, ca; new york, ny",
+   "location": "Chicago, IL; Menlo Park, CA; New York, NY",
+   "posted_at": "2026-11-05T15:13:58+00:00",
+   "posted_history": [
+    "2026-11-05T15:13:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "PeopleX Transformation Manager",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8350199?t=gh_src=&gh_jid=8350199"
+  },
+  "8350712": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "president bitstamp europe @ luxembourg, luxembourg (bitstamp)",
+   "location": "Luxembourg, Luxembourg (Bitstamp)",
+   "posted_at": "2026-11-05T18:55:20+00:00",
+   "posted_history": [
+    "2026-11-05T18:55:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "President, Bitstamp Europe",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8350712?t=gh_src=&gh_jid=8350712"
+  },
+  "8356278": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "customer experience associate prediction markets @ westlake, tx",
+   "location": "Westlake, TX",
+   "posted_at": "2026-11-05T21:56:31+00:00",
+   "posted_history": [
+    "2026-11-05T21:56:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Experience Associate, Prediction Markets",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8356278?t=gh_src=&gh_jid=8356278"
+  },
+  "8356970": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "registration and onboarding specialist @ chicago, il; denver, co; lake mary, fl; new york, ny",
+   "location": "Chicago, IL; Denver, CO; Lake Mary, FL; New York, NY",
+   "posted_at": "2026-11-05T22:40:02+00:00",
+   "posted_history": [
+    "2026-11-05T22:40:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Registration and Onboarding Specialist",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8356970?t=gh_src=&gh_jid=8356970"
+  },
+  "8357602": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "customer experience team lead rhm executive office @ denver, co; westlake, tx",
+   "location": "Denver, CO; Westlake, TX",
+   "posted_at": "2026-11-05T23:45:35+00:00",
+   "posted_history": [
+    "2026-11-05T23:45:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Experience Team Lead, RHM Executive Office",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8357602?t=gh_src=&gh_jid=8357602"
   }
  }
 }

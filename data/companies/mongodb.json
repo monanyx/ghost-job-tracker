@@ -71,6 +71,10 @@
   {
    "date": "2026-11-05",
    "open": 362
+  },
+  {
+   "date": "2026-11-06",
+   "open": 369
   }
  ],
  "jobs": {
@@ -499,8 +503,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "enterprise account executive growth @ berlin; frankfurt; munich",
-   "location": "Berlin; Frankfurt; Munich",
+   "fp": "enterprise account executive growth @ berlin; frankfurt",
+   "location": "Berlin; Frankfurt",
    "posted_at": "2026-05-27T15:40:49+00:00",
    "posted_history": [
     "2026-05-27T15:40:49+00:00"
@@ -589,14 +593,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "strategic enterprise sales development representative @ austin",
+   "fp": "enterprise sales development representative @ austin",
    "location": "Austin",
    "posted_at": "2025-10-21T20:12:22+00:00",
    "posted_history": [
     "2025-10-21T20:12:22+00:00"
    ],
    "reopened": 0,
-   "title": "Strategic Enterprise Sales Development Representative",
+   "title": "Enterprise Sales Development Representative",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=7311204"
   },
   "7311234": {
@@ -1769,8 +1773,23 @@
    "title": "Senior Product Manager, Technical Services Engineering",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=7975695"
   },
-  "7982613": {
+  "7976421": {
    "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "senior solutions architect @ melbourne; sydney",
+   "location": "Melbourne; Sydney",
+   "posted_at": "2026-06-02T13:59:24+00:00",
+   "posted_history": [
+    "2026-06-02T13:59:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Solutions Architect",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=7976421"
+  },
+  "7982613": {
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2704,8 +2723,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "manager travel @ austin",
-   "location": "Austin",
+   "fp": "manager travel @ new york city; palo alto; seattle",
+   "location": "New York City; Palo Alto; Seattle",
    "posted_at": "2026-07-29T14:11:33+00:00",
    "posted_history": [
     "2026-07-29T14:11:33+00:00"
@@ -2970,7 +2989,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8110822"
   },
   "8111979": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4245,7 +4264,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8175160"
   },
   "8176521": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4710,7 +4729,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8205425"
   },
   "8205430": {
-   "closed_at": "2026-11-05T11:30:12+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4720,7 +4739,7 @@
    "posted_history": [
     "2026-09-24T05:54:52+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Associate TSE II",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8205430"
   },
@@ -5415,7 +5434,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8233734"
   },
   "8234338": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5443,6 +5462,21 @@
    "reopened": 0,
    "title": "Associate Technical Services Engineer II",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8234520"
+  },
+  "8234586": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "lead technical services engineer partners @ bengaluru",
+   "location": "Bengaluru",
+   "posted_at": "2026-11-06T06:30:15+00:00",
+   "posted_history": [
+    "2026-11-06T06:30:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Lead, Technical Services Engineer - Partners",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8234586"
   },
   "8236841": {
    "closed_at": null,
@@ -5479,14 +5513,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "associate tse ii @ gurugram",
+   "fp": "associate tse @ gurugram",
    "location": "Gurugram",
    "posted_at": "2026-09-30T10:25:36+00:00",
    "posted_history": [
     "2026-09-30T10:25:36+00:00"
    ],
    "reopened": 0,
-   "title": "Associate TSE II",
+   "title": "Associate TSE",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8238617"
   },
   "8238623": {
@@ -5565,7 +5599,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8240010"
   },
   "8241351": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6133,6 +6167,21 @@
    "reopened": 0,
    "title": "Principal Security Engineer",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8274032"
+  },
+  "8274035": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "senior staff technical program manager global security office @ united states",
+   "location": "United States",
+   "posted_at": "2026-11-05T18:09:10+00:00",
+   "posted_history": [
+    "2026-11-05T18:09:10+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Staff Technical Program Manager, Global Security Office",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8274035"
   },
   "8274059": {
    "closed_at": null,
@@ -6854,6 +6903,21 @@
    "title": "Product Manager 2, Source2Pay",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8327081"
   },
+  "8327493": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "manager executive communications @ united states",
+   "location": "United States",
+   "posted_at": "2026-11-05T18:15:15+00:00",
+   "posted_history": [
+    "2026-11-05T18:15:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Executive Communications",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8327493"
+  },
   "8328176": {
    "closed_at": null,
    "department": "",
@@ -6928,6 +6992,21 @@
    "reopened": 0,
    "title": "Senior Industry Consultant, Healthcare",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8328627"
+  },
+  "8328780": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "senior data analyst @ gurugram",
+   "location": "Gurugram",
+   "posted_at": "2026-11-05T12:07:35+00:00",
+   "posted_history": [
+    "2026-11-05T12:07:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Data Analyst",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8328780"
   },
   "8331143": {
    "closed_at": null,
@@ -7064,6 +7143,21 @@
    "title": "Program Manager",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8337727"
   },
+  "8340799": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "senior solutions architect @ chicago",
+   "location": "Chicago",
+   "posted_at": "2026-11-05T20:45:42+00:00",
+   "posted_history": [
+    "2026-11-05T20:45:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Solutions Architect (Pre-Sales)",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8340799"
+  },
   "8345848": {
    "closed_at": null,
    "department": "",
@@ -7078,6 +7172,21 @@
    "reopened": 0,
    "title": "Senior Solutions Architect",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8345848"
+  },
+  "8348261": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "regional director commercial growth @ austin",
+   "location": "Austin",
+   "posted_at": "2026-11-05T14:55:58+00:00",
+   "posted_history": [
+    "2026-11-05T14:55:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Regional Director, Commercial Growth",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8348261"
   },
   "8350841": {
    "closed_at": null,
@@ -7109,6 +7218,21 @@
    "title": "Account Development Representative",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8352010"
   },
+  "8352433": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "senior software engineer database integration observability @ austin; boston; chicago; dallas; new york city; palo alto; san francisco; seattle; united states",
+   "location": "Austin; Boston; Chicago; Dallas; New York City; Palo Alto; San Francisco; Seattle; United States",
+   "posted_at": "2026-11-05T19:17:34+00:00",
+   "posted_history": [
+    "2026-11-05T19:17:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Database Integration & Observability",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8352433"
+  },
   "8352883": {
    "closed_at": null,
    "department": "",
@@ -7138,6 +7262,51 @@
    "reopened": 0,
    "title": "Mid Market Account Development Representative",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8353184"
+  },
+  "8353315": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "lead engineering backup @ new york",
+   "location": "New York",
+   "posted_at": "2026-11-05T20:59:34+00:00",
+   "posted_history": [
+    "2026-11-05T20:59:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Lead, Engineering Backup",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8353315"
+  },
+  "8355408": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "senior solutions architect @ switzerland",
+   "location": "Switzerland",
+   "posted_at": "2026-11-05T13:54:38+00:00",
+   "posted_history": [
+    "2026-11-05T13:54:38+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Solutions Architect",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8355408"
+  },
+  "8355989": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "senior product manager marketing ai @ dublin, ireland",
+   "location": "Dublin, Ireland",
+   "posted_at": "2026-11-05T16:39:22+00:00",
+   "posted_history": [
+    "2026-11-05T16:39:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Manager, Marketing AI",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8355989"
   }
  }
 }

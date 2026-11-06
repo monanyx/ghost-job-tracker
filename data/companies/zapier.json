@@ -71,11 +71,15 @@
   {
    "date": "2026-11-05",
    "open": 11
+  },
+  {
+   "date": "2026-11-06",
+   "open": 10
   }
  ],
  "jobs": {
   "04838dc8-0efa-4fe5-b705-c99f6b3f17c6": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "Legal",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

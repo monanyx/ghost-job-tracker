@@ -71,6 +71,10 @@
   {
    "date": "2026-11-05",
    "open": 171
+  },
+  {
+   "date": "2026-11-06",
+   "open": 170
   }
  ],
  "jobs": {
@@ -1335,7 +1339,7 @@
    "url": "https://jobs.ashbyhq.com/ramp/72c3ef8f-e390-4ee1-9c0d-83b7b616ee17"
   },
   "73fd7b0f-ee20-4a83-8765-0ce4663f2d41": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "Marketing",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1693,6 +1697,21 @@
    "reopened": 0,
    "title": "Account Executive | Commercial",
    "url": "https://jobs.ashbyhq.com/ramp/8c004352-f162-4d89-858f-75a649e77ec4"
+  },
+  "8d516dbd-e5b7-43da-922f-1417ead4d082": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "account executive inside sales @ new york, ny (hq)",
+   "location": "New York, NY (HQ)",
+   "posted_at": "2026-11-06T00:21:17+00:00",
+   "posted_history": [
+    "2026-11-06T00:21:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, Inside Sales",
+   "url": "https://jobs.ashbyhq.com/ramp/8d516dbd-e5b7-43da-922f-1417ead4d082"
   },
   "8efd3a0a-fc66-46e2-9415-bffba10e2919": {
    "closed_at": null,
@@ -2146,7 +2165,7 @@
    "url": "https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956"
   },
   "b3b0875d-cbf2-41ed-bda3-2714c82c4b57": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "Security",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2165,8 +2184,8 @@
    "department": "Legal",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "lead counsel employment @ san francisco, ca",
-   "location": "San Francisco, CA",
+   "fp": "lead counsel employment @ new york, ny (hq)",
+   "location": "New York, NY (HQ)",
    "posted_at": "2026-10-16T20:52:37+00:00",
    "posted_history": [
     "2026-10-16T20:52:37+00:00"
@@ -2285,14 +2304,14 @@
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
-   "fp": "senior backend engineer token spend management @ new york, ny (hq)",
+   "fp": "senior backend engineer ai spend management @ new york, ny (hq)",
    "location": "New York, NY (HQ)",
    "posted_at": "2026-10-20T13:40:20+00:00",
    "posted_history": [
     "2026-10-20T13:40:20+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Backend Engineer | Token Spend Management",
+   "title": "Senior Backend Engineer | AI Spend Management",
    "url": "https://jobs.ashbyhq.com/ramp/b7514711-8a29-4bd2-a97a-967be14e336f"
   },
   "b9568fb8-a47e-4738-87fb-a6d88c3a505f": {

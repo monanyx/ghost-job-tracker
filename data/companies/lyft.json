@@ -71,6 +71,10 @@
   {
    "date": "2026-11-05",
    "open": 176
+  },
+  {
+   "date": "2026-11-06",
+   "open": 167
   }
  ],
  "jobs": {
@@ -180,7 +184,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8513755002?gh_jid=8513755002"
   },
   "8514422002": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -375,7 +379,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8603653002?gh_jid=8603653002"
   },
   "8611874002": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -390,7 +394,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8611874002?gh_jid=8611874002"
   },
   "8612151002": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1095,7 +1099,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8755550002?gh_jid=8755550002"
   },
   "8760350002": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1110,7 +1114,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8760350002?gh_jid=8760350002"
   },
   "8760360002": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1545,7 +1549,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8790689002?gh_jid=8790689002"
   },
   "8790999002": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1590,7 +1594,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8792050002?gh_jid=8792050002"
   },
   "8792059002": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1950,7 +1954,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8814897002?gh_jid=8814897002"
   },
   "8814971002": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2505,7 +2509,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8863960002?gh_jid=8863960002"
   },
   "8868958002": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2640,7 +2644,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8883423002?gh_jid=8883423002"
   },
   "8883515002": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3553,6 +3557,21 @@
    "reopened": 0,
    "title": "Staff Product Manager I, Base Pricing",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8927146002?gh_jid=8927146002"
+  },
+  "8927242002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "associate account manager @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-11-05T21:24:06+00:00",
+   "posted_history": [
+    "2026-11-05T21:24:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "Associate Account Manager",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8927242002?gh_jid=8927242002"
   },
   "8927244002": {
    "closed_at": null,

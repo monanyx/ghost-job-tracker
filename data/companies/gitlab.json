@@ -71,6 +71,10 @@
   {
    "date": "2026-11-05",
    "open": 243
+  },
+  {
+   "date": "2026-11-06",
+   "open": 249
   }
  ],
  "jobs": {
@@ -435,7 +439,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8623389002"
   },
   "8623592002": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2475,7 +2479,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8846318002"
   },
   "8853813002": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3854,6 +3858,21 @@
    "title": "Intermediate Fullstack Engineer (Ruby/Vue.js), Growth",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8891836002"
   },
+  "8893054002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "director of product management platforms @ remote, united states",
+   "location": "Remote, United States",
+   "posted_at": "2026-11-05T20:56:38+00:00",
+   "posted_history": [
+    "2026-11-05T20:56:38+00:00"
+   ],
+   "reopened": 0,
+   "title": "Director of Product Management, Platforms",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8893054002"
+  },
   "8894457002": {
    "closed_at": null,
    "department": "",
@@ -4394,6 +4413,21 @@
    "title": "Engineering Manager, Architecture Engineering: Async",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8921380002"
   },
+  "8921443002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "commercial account executive netherlands @ remote",
+   "location": "Remote",
+   "posted_at": "2026-11-05T14:52:41+00:00",
+   "posted_history": [
+    "2026-11-05T14:52:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Commercial Account Executive, Netherlands",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8921443002"
+  },
   "8922013002": {
    "closed_at": null,
    "department": "",
@@ -4604,6 +4638,36 @@
    "title": "Senior Journey Architect",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8927560002"
   },
+  "8927630002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "principal field security engineer @ remote, united states",
+   "location": "Remote, United States",
+   "posted_at": "2026-11-05T14:35:04+00:00",
+   "posted_history": [
+    "2026-11-05T14:35:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Field Security Engineer (US)",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8927630002"
+  },
+  "8928280002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "new business account executive east @ remote, united states",
+   "location": "Remote, United States",
+   "posted_at": "2026-11-05T20:55:15+00:00",
+   "posted_history": [
+    "2026-11-05T20:55:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "New Business Account Executive - East",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8928280002"
+  },
   "8928675002": {
    "closed_at": null,
    "department": "",
@@ -4618,6 +4682,21 @@
    "reopened": 0,
    "title": "Senior Backend Engineer, Development Health",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8928675002"
+  },
+  "8928711002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "senior security technical program manager fraud abuse @ remote, canada; remote, united states",
+   "location": "Remote, Canada; Remote, United States",
+   "posted_at": "2026-11-05T21:30:43+00:00",
+   "posted_history": [
+    "2026-11-05T21:30:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Security Technical Program Manager, Fraud & Abuse",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8928711002"
   },
   "8928762002": {
    "closed_at": null,
@@ -4678,6 +4757,51 @@
    "reopened": 0,
    "title": "Senior Renewals Manager, Public Sector",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8929514002"
+  },
+  "8931298002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "senior corporate security engineer @ remote, canada; remote, united states",
+   "location": "Remote, Canada; Remote, United States",
+   "posted_at": "2026-11-05T17:36:56+00:00",
+   "posted_history": [
+    "2026-11-05T17:36:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Corporate Security Engineer",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8931298002"
+  },
+  "8931347002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "customer success engineer @ remote, united states",
+   "location": "Remote, United States",
+   "posted_at": "2026-11-06T01:19:13+00:00",
+   "posted_history": [
+    "2026-11-06T01:19:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Success Engineer",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8931347002"
+  },
+  "8931768002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "director data science @ remote, canada; remote, united states",
+   "location": "Remote, Canada; Remote, United States",
+   "posted_at": "2026-11-05T22:37:25+00:00",
+   "posted_history": [
+    "2026-11-05T22:37:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Director, Data Science",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8931768002"
   }
  }
 }

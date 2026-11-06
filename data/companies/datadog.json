@@ -71,6 +71,10 @@
   {
    "date": "2026-11-05",
    "open": 396
+  },
+  {
+   "date": "2026-11-06",
+   "open": 399
   }
  ],
  "jobs": {
@@ -645,7 +649,7 @@
    "url": "https://careers.datadoghq.com/detail/6761448/?gh_jid=6761448"
   },
   "6781197": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2174,6 +2178,21 @@
    "title": "Services Architect 3 - Denver",
    "url": "https://careers.datadoghq.com/detail/7807783/?gh_jid=7807783"
   },
+  "7811662": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "senior sales engineer public sector japan @ tokyo, japan",
+   "location": "Tokyo, Japan",
+   "posted_at": "2026-04-21T01:33:03+00:00",
+   "posted_history": [
+    "2026-04-21T01:33:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Sales Engineer, Public Sector Japan",
+   "url": "https://careers.datadoghq.com/detail/7811662/?gh_jid=7811662"
+  },
   "7834545": {
    "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
@@ -2400,7 +2419,7 @@
    "url": "https://careers.datadoghq.com/detail/7960450/?gh_jid=7960450"
   },
   "7964141": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2490,7 +2509,7 @@
    "url": "https://careers.datadoghq.com/detail/7982644/?gh_jid=7982644"
   },
   "7984962": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2955,7 +2974,7 @@
    "url": "https://careers.datadoghq.com/detail/8042600/?gh_jid=8042600"
   },
   "8045964": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4155,7 +4174,7 @@
    "url": "https://careers.datadoghq.com/detail/8139279/?gh_jid=8139279"
   },
   "8139396": {
-   "closed_at": "2026-11-04T11:35:04+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4165,7 +4184,7 @@
    "posted_history": [
     "2026-08-20T15:54:14+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Sales Development Representative (LATAM - Portuguese Speaking)",
    "url": "https://careers.datadoghq.com/detail/8139396/?gh_jid=8139396"
   },
@@ -4410,7 +4429,7 @@
    "url": "https://careers.datadoghq.com/detail/8148092/?gh_jid=8148092"
   },
   "8152975": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4650,7 +4669,7 @@
    "url": "https://careers.datadoghq.com/detail/8172091/?gh_jid=8172091"
   },
   "8172855": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4695,7 +4714,7 @@
    "url": "https://careers.datadoghq.com/detail/8173840/?gh_jid=8173840"
   },
   "8173897": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4710,7 +4729,7 @@
    "url": "https://careers.datadoghq.com/detail/8173897/?gh_jid=8173897"
   },
   "8173964": {
-   "closed_at": null,
+   "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5794,8 +5813,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior sales engineer ai accounts @ california, usa, remote; illinois, usa, remote; massachusetts, usa, remote; new york, usa, remote",
-   "location": "California, USA, Remote; Illinois, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote",
+   "fp": "senior sales engineer ai accounts @ california, usa, remote",
+   "location": "California, USA, Remote",
    "posted_at": "2026-09-29T11:43:15+00:00",
    "posted_history": [
     "2026-09-29T11:43:15+00:00"
@@ -6809,6 +6828,21 @@
    "title": "Regional Manager, Sales Engineering - AI Accounts",
    "url": "https://careers.datadoghq.com/detail/8284998/?gh_jid=8284998"
   },
+  "8285486": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "sales development representative summer 2027 graduates @ denver, colorado, usa",
+   "location": "Denver, Colorado, USA",
+   "posted_at": "2026-11-05T20:27:04+00:00",
+   "posted_history": [
+    "2026-11-05T20:27:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales Development Representative - Summer 2027 Graduates (Denver)",
+   "url": "https://careers.datadoghq.com/detail/8285486/?gh_jid=8285486"
+  },
   "8285495": {
    "closed_at": null,
    "department": "",
@@ -7109,6 +7143,21 @@
    "title": "Manager I, Engineering - Reference Tables Access",
    "url": "https://careers.datadoghq.com/detail/8310668/?gh_jid=8310668"
   },
+  "8311586": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "mid market account executive @ sydney, australia",
+   "location": "Sydney, Australia",
+   "posted_at": "2026-11-06T00:38:22+00:00",
+   "posted_history": [
+    "2026-11-06T00:38:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Mid Market Account Executive",
+   "url": "https://careers.datadoghq.com/detail/8311586/?gh_jid=8311586"
+  },
   "8312285": {
    "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
@@ -7394,6 +7443,21 @@
    "title": "Mid-Market Account Executive",
    "url": "https://careers.datadoghq.com/detail/8334237/?gh_jid=8334237"
   },
+  "8334261": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "mid market account executive nordics @ amsterdam, the netherlands; dublin, ireland",
+   "location": "Amsterdam, The Netherlands; Dublin, Ireland",
+   "posted_at": "2026-11-05T22:47:08+00:00",
+   "posted_history": [
+    "2026-11-05T22:47:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "Mid-Market Account Executive - Nordics",
+   "url": "https://careers.datadoghq.com/detail/8334261/?gh_jid=8334261"
+  },
   "8334273": {
    "closed_at": null,
    "department": "",
@@ -7408,6 +7472,21 @@
    "reopened": 0,
    "title": "Mid-Market Account Executive - UKI",
    "url": "https://careers.datadoghq.com/detail/8334273/?gh_jid=8334273"
+  },
+  "8334294": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "mid market account executive @ amsterdam, the netherlands; dublin, ireland",
+   "location": "Amsterdam, The Netherlands; Dublin, Ireland",
+   "posted_at": "2026-11-03T12:42:20+00:00",
+   "posted_history": [
+    "2026-11-03T12:42:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Mid-Market Account Executive (France)",
+   "url": "https://careers.datadoghq.com/detail/8334294/?gh_jid=8334294"
   },
   "8335047": {
    "closed_at": null,
@@ -7424,6 +7503,21 @@
    "title": "Senior Product Manager, Chat, Video, and Collaboration Integrations",
    "url": "https://careers.datadoghq.com/detail/8335047/?gh_jid=8335047"
   },
+  "8335262": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "delivery manager web @ new york, new york, usa",
+   "location": "New York, New York, USA",
+   "posted_at": "2026-11-05T18:56:03+00:00",
+   "posted_history": [
+    "2026-11-05T18:56:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Delivery Manager, Web",
+   "url": "https://careers.datadoghq.com/detail/8335262/?gh_jid=8335262"
+  },
   "8335306": {
    "closed_at": null,
    "department": "",
@@ -7438,6 +7532,21 @@
    "reopened": 0,
    "title": "Senior UX Researcher, Core Pillars",
    "url": "https://careers.datadoghq.com/detail/8335306/?gh_jid=8335306"
+  },
+  "8335703": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "vice president people business partner @ new york, new york, usa",
+   "location": "New York, New York, USA",
+   "posted_at": "2026-11-05T21:45:39+00:00",
+   "posted_history": [
+    "2026-11-05T21:45:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Vice President, People Business Partner",
+   "url": "https://careers.datadoghq.com/detail/8335703/?gh_jid=8335703"
   },
   "8336601": {
    "closed_at": null,
@@ -7544,6 +7653,21 @@
    "title": "Video Script Writer",
    "url": "https://careers.datadoghq.com/detail/8346246/?gh_jid=8346246"
   },
+  "8347905": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "incident and escalations manager 2 nyc @ new york, new york, usa",
+   "location": "New York, New York, USA",
+   "posted_at": "2026-11-05T14:05:17+00:00",
+   "posted_history": [
+    "2026-11-05T14:05:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Incident and Escalations Manager 2 - NYC",
+   "url": "https://careers.datadoghq.com/detail/8347905/?gh_jid=8347905"
+  },
   "8350419": {
    "closed_at": null,
    "department": "",
@@ -7558,6 +7682,36 @@
    "reopened": 0,
    "title": "Manager I, Engineering - Zero Trust Networking",
    "url": "https://careers.datadoghq.com/detail/8350419/?gh_jid=8350419"
+  },
+  "8355189": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "technical escalations engineer 2 emea @ dublin, ireland; paris, france",
+   "location": "Dublin, Ireland; Paris, France",
+   "posted_at": "2026-11-05T14:05:33+00:00",
+   "posted_history": [
+    "2026-11-05T14:05:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Escalations Engineer 2 (Alerting) - EMEA",
+   "url": "https://careers.datadoghq.com/detail/8355189/?gh_jid=8355189"
+  },
+  "8358479": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-06T11:30:42+00:00",
+   "fp": "manager i engineering client sdks @ madrid, spain; paris, france",
+   "location": "Madrid, Spain; Paris, France",
+   "posted_at": "2026-11-06T09:52:14+00:00",
+   "posted_history": [
+    "2026-11-06T09:52:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager I, Engineering - Client SDKs (Mobile & Browser)",
+   "url": "https://careers.datadoghq.com/detail/8358479/?gh_jid=8358479"
   }
  }
 }
