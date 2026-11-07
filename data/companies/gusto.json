@@ -75,6 +75,10 @@
   {
    "date": "2026-11-06",
    "open": 81
+  },
+  {
+   "date": "2026-11-07",
+   "open": 83
   }
  ],
  "jobs": {
@@ -814,7 +818,7 @@
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8104180"
   },
   "8104213": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -858,6 +862,21 @@
    "title": "Staff Software Engineer, Business Insurance",
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8110106"
   },
+  "8119978": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "cx business intelligence analyst @ denver, co - hybrid; new york, ny - hybrid",
+   "location": "Denver, CO - Hybrid; New York, NY - Hybrid",
+   "posted_at": "2026-09-01T16:35:09+00:00",
+   "posted_history": [
+    "2026-09-01T16:35:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "CX Business Intelligence Analyst",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8119978"
+  },
   "8120017": {
    "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
@@ -874,7 +893,7 @@
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8120017"
   },
   "8128422": {
-   "closed_at": "2026-10-29T10:25:29+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
@@ -884,7 +903,7 @@
    "posted_history": [
     "2026-09-04T23:00:33+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior L&D Specialist",
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8128422"
   },
@@ -1009,7 +1028,7 @@
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8158019"
   },
   "8160675": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1249,7 +1268,7 @@
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8205075"
   },
   "8205624": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1294,7 +1313,7 @@
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8205633"
   },
   "8208066": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1638,6 +1657,21 @@
    "title": "Senior Commercial Lines Account Manager",
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8257877"
   },
+  "8260099": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "principal product manager hr experiences @ new york, ny - hybrid",
+   "location": "New York, NY - Hybrid",
+   "posted_at": "2026-11-06T21:05:00+00:00",
+   "posted_history": [
+    "2026-11-06T21:05:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Product Manager, HR Experiences",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8260099"
+  },
   "8268021": {
    "closed_at": null,
    "department": "",
@@ -1729,7 +1763,7 @@
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8282084"
   },
   "8282088": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1818,6 +1852,51 @@
    "title": "Solution Architect",
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8346979"
   },
+  "8347750": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "partner manager franchise @ denver, co - hybrid",
+   "location": "Denver, CO - Hybrid",
+   "posted_at": "2026-11-06T17:10:51+00:00",
+   "posted_history": [
+    "2026-11-06T17:10:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Partner Manager, Franchise",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8347750"
+  },
+  "8348189": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "security operations analyst @ denver, co - hybrid; new york, ny - hybrid; san francisco, ca - hybrid",
+   "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+   "posted_at": "2026-11-06T20:49:31+00:00",
+   "posted_history": [
+    "2026-11-06T20:49:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Security Operations Analyst",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8348189"
+  },
+  "8350346": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "hr consultant ask an expert @ denver, co - hybrid; scottsdale, az - hybrid",
+   "location": "Denver, CO - Hybrid; Scottsdale, AZ - Hybrid",
+   "posted_at": "2026-11-06T19:14:47+00:00",
+   "posted_history": [
+    "2026-11-06T19:14:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "HR Consultant, Ask An Expert",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8350346"
+  },
   "8353774": {
    "closed_at": null,
    "department": "",
@@ -1862,6 +1941,21 @@
    "reopened": 0,
    "title": "Senior Performance Marketing Manager, Paid Social",
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8356810"
+  },
+  "8357701": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "product marketing lead business insurance @ atlanta, ga - hybrid; denver, co - hybrid; new york, ny - hybrid; san francisco, ca - hybrid",
+   "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+   "posted_at": "2026-11-06T17:53:04+00:00",
+   "posted_history": [
+    "2026-11-06T17:53:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Marketing Lead, Business Insurance",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8357701"
   }
  }
 }

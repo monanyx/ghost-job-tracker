@@ -75,6 +75,10 @@
   {
    "date": "2026-11-06",
    "open": 272
+  },
+  {
+   "date": "2026-11-07",
+   "open": 268
   }
  ],
  "jobs": {
@@ -769,7 +773,7 @@
    "url": "https://www.brex.com/careers/8463703002?gh_jid=8463703002"
   },
   "8472632002": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -784,7 +788,7 @@
    "url": "https://www.brex.com/careers/8472632002?gh_jid=8472632002"
   },
   "8472633002": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -799,7 +803,7 @@
    "url": "https://www.brex.com/careers/8472633002?gh_jid=8472633002"
   },
   "8472634002": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -814,7 +818,7 @@
    "url": "https://www.brex.com/careers/8472634002?gh_jid=8472634002"
   },
   "8472635002": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -844,7 +848,7 @@
    "url": "https://www.brex.com/careers/8475632002?gh_jid=8475632002"
   },
   "8477314002": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4937,6 +4941,21 @@
    "reopened": 0,
    "title": "Brand Design Manager, Growth",
    "url": "https://www.brex.com/careers/8932573002?gh_jid=8932573002"
+  },
+  "8934022002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "startup vc partnerships manager @ san francisco, california, united states",
+   "location": "San Francisco, California, United States",
+   "posted_at": "2026-11-06T22:10:38+00:00",
+   "posted_history": [
+    "2026-11-06T22:10:38+00:00"
+   ],
+   "reopened": 0,
+   "title": "Startup & VC Partnerships Manager",
+   "url": "https://www.brex.com/careers/8934022002?gh_jid=8934022002"
   }
  }
 }

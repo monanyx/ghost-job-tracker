@@ -75,6 +75,10 @@
   {
    "date": "2026-11-06",
    "open": 153
+  },
+  {
+   "date": "2026-11-07",
+   "open": 150
   }
  ],
  "jobs": {
@@ -604,7 +608,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/7997218?t=gh_src=&gh_jid=7997218"
   },
   "8008723": {
-   "closed_at": "2026-11-06T11:30:42+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -614,7 +618,7 @@
    "posted_history": [
     "2026-06-17T19:08:23+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Full Stack Software Engineer, Credit Cards & Banking",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8008723?t=gh_src=&gh_jid=8008723"
   },
@@ -1099,7 +1103,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8114730?t=gh_src=&gh_jid=8114730"
   },
   "8120094": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
@@ -1354,7 +1358,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8167194?t=gh_src=&gh_jid=8167194"
   },
   "8167541": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2509,7 +2513,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8259772?t=gh_src=&gh_jid=8259772"
   },
   "8262110": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2749,7 +2753,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8301728?t=gh_src=&gh_jid=8301728"
   },
   "8302220": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",

@@ -75,6 +75,10 @@
   {
    "date": "2026-11-06",
    "open": 119
+  },
+  {
+   "date": "2026-11-07",
+   "open": 124
   }
  ],
  "jobs": {
@@ -122,6 +126,21 @@
    "reopened": 0,
    "title": "Head of Corporate Development",
    "url": "https://jobs.ashbyhq.com/cohere/0342fd5f-3760-4dcb-b026-333c7b63fc8d"
+  },
+  "068e9b49-e22b-493c-824f-0cc52840c80c": {
+   "closed_at": null,
+   "department": "Revenue",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "vp of services customer success support @ toronto",
+   "location": "Toronto",
+   "posted_at": "2026-11-06T18:53:07+00:00",
+   "posted_history": [
+    "2026-11-06T18:53:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "VP of Services, Customer Success & Support",
+   "url": "https://jobs.ashbyhq.com/cohere/068e9b49-e22b-493c-824f-0cc52840c80c"
   },
   "0cf19dbd-bfa9-425f-a357-e2bd874bb489": {
    "closed_at": null,
@@ -407,6 +426,21 @@
    "reopened": 0,
    "title": "Member of Technical Staff, Model Efficiency",
    "url": "https://jobs.ashbyhq.com/cohere/2a989030-6d14-4924-88c1-d878911e26fa"
+  },
+  "2a9a9b65-4f1b-4387-aa7f-d58c78e738c4": {
+   "closed_at": null,
+   "department": "Engineering & Infra",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "software engineer ml ops @ london",
+   "location": "London",
+   "posted_at": "2026-11-06T15:53:30+00:00",
+   "posted_history": [
+    "2026-11-06T15:53:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, ML Ops",
+   "url": "https://jobs.ashbyhq.com/cohere/2a9a9b65-4f1b-4387-aa7f-d58c78e738c4"
   },
   "2d256112-b336-4539-8133-a0bf7f6698f0": {
    "closed_at": null,
@@ -1015,15 +1049,30 @@
    "department": "Engineering & Infra",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior full stack engineer internal applications @ toronto",
+   "fp": "senior full stack engineer annotation platform @ toronto",
    "location": "Toronto",
    "posted_at": "2026-09-15T18:21:37+00:00",
    "posted_history": [
     "2026-09-15T18:21:37+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Full-Stack Engineer, Internal Applications",
+   "title": "Senior Full-Stack Engineer, Annotation Platform",
    "url": "https://jobs.ashbyhq.com/cohere/7133d205-5421-4336-a8e2-6037b5f55073"
+  },
+  "735f26a3-9456-49e2-8f84-23804534cfe4": {
+   "closed_at": null,
+   "department": "Engineering & Infra",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "software engineer gpu infrastructure @ seattle",
+   "location": "Seattle",
+   "posted_at": "2026-11-06T14:28:37+00:00",
+   "posted_history": [
+    "2026-11-06T14:28:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, GPU Infrastructure",
+   "url": "https://jobs.ashbyhq.com/cohere/735f26a3-9456-49e2-8f84-23804534cfe4"
   },
   "73bd3e2b-6597-4124-b64b-1e5dbc32e785": {
    "closed_at": null,
@@ -1069,6 +1118,21 @@
    "reopened": 0,
    "title": "Forward Deployed Engineer, Agentic Platform",
    "url": "https://jobs.ashbyhq.com/cohere/75c0032c-7200-48bf-9d6d-355880dd93d9"
+  },
+  "77885bc2-a88a-421b-a2d6-ae209a8fa758": {
+   "closed_at": null,
+   "department": "Business Operations",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "manager corporate accounting @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-11-06T20:27:54+00:00",
+   "posted_history": [
+    "2026-11-06T20:27:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Corporate Accounting",
+   "url": "https://jobs.ashbyhq.com/cohere/77885bc2-a88a-421b-a2d6-ae209a8fa758"
   },
   "7e0e08ed-4b12-4aaa-8dda-ad6292992061": {
    "closed_at": null,
@@ -1279,6 +1343,21 @@
    "reopened": 0,
    "title": "Forward Deployed Engineer, Inference",
    "url": "https://jobs.ashbyhq.com/cohere/8df498e9-aba8-487f-80ba-362b492bad09"
+  },
+  "8f60b8e2-55b9-4258-a4cc-813273161f97": {
+   "closed_at": null,
+   "department": "Engineering & Infra",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "software engineer ml workload platform @ canada",
+   "location": "Canada",
+   "posted_at": "2026-11-06T15:27:08+00:00",
+   "posted_history": [
+    "2026-11-06T15:27:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, ML Workload Platform",
+   "url": "https://jobs.ashbyhq.com/cohere/8f60b8e2-55b9-4258-a4cc-813273161f97"
   },
   "96c74af4-b3d7-4960-a666-212ce4debac8": {
    "closed_at": null,
@@ -1813,9 +1892,10 @@
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "partner development manager aws @ united states",
    "location": "United States",
-   "posted_at": "2026-09-02T23:10:47+00:00",
+   "posted_at": "2026-11-06T20:07:00+00:00",
    "posted_history": [
-    "2026-09-02T23:10:47+00:00"
+    "2026-09-02T23:10:47+00:00",
+    "2026-11-06T20:07:00+00:00"
    ],
    "reopened": 0,
    "title": "Partner Development Manager - AWS",

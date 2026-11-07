@@ -75,6 +75,10 @@
   {
    "date": "2026-11-06",
    "open": 170
+  },
+  {
+   "date": "2026-11-07",
+   "open": 168
   }
  ],
  "jobs": {
@@ -739,7 +743,7 @@
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4651559005"
   },
   "4651614005": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1028,18 +1032,18 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "research scientist agent robustness @ san francisco, ca; new york, ny",
+   "fp": "research scientist ai safety and alignment @ san francisco, ca; new york, ny",
    "location": "San Francisco, CA; New York, NY",
    "posted_at": "2026-03-20T18:48:59+00:00",
    "posted_history": [
     "2026-03-20T18:48:59+00:00"
    ],
    "reopened": 0,
-   "title": "Research Scientist, Agent Robustness",
+   "title": "Research Scientist, AI Safety and Alignment",
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4675684005"
   },
   "4675694005": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1099,7 +1103,7 @@
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4676610005"
   },
   "4677657005": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1399,7 +1403,7 @@
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4695042005"
   },
   "4696595005": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1553,8 +1557,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "deployment strategist space systems command @ los angeles, ca",
-   "location": "Los Angeles, CA",
+   "fp": "deployment strategist space systems command @ colorado springs, co; los angeles, ca; washington, dc",
+   "location": "Colorado Springs, CO; Los Angeles, CA; Washington, DC",
    "posted_at": "2026-07-09T16:47:20+00:00",
    "posted_history": [
     "2026-07-09T16:47:20+00:00"
@@ -1654,7 +1658,7 @@
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4715325005"
   },
   "4715976005": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1789,7 +1793,7 @@
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4718917005"
   },
   "4719479005": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2873,14 +2877,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "safety research scholar human frontier labs @ canada; united kingdom; united states",
+   "fp": "ai safety residency slprep @ canada; united kingdom; united states",
    "location": "Canada; United Kingdom; United States",
    "posted_at": "2026-10-16T18:44:43+00:00",
    "posted_history": [
     "2026-10-16T18:44:43+00:00"
    ],
    "reopened": 1,
-   "title": "Safety Research Scholar - Human Frontier Labs",
+   "title": "AI Safety Residency - SLPreP",
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4744402005"
   },
   "4745021005": {
@@ -3078,6 +3082,36 @@
    "title": "Quality Operations Lead, Gen AI",
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4750929005"
   },
+  "4751057005": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "engagement manager @ kuwait city, kuwait",
+   "location": "Kuwait City, Kuwait",
+   "posted_at": "2026-11-06T14:39:07+00:00",
+   "posted_history": [
+    "2026-11-06T14:39:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engagement Manager",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4751057005"
+  },
+  "4751059005": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "applied ai engineer @ kuwait city, kuwait",
+   "location": "Kuwait City, Kuwait",
+   "posted_at": "2026-11-06T14:23:21+00:00",
+   "posted_history": [
+    "2026-11-06T14:23:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Applied AI Engineer",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4751059005"
+  },
   "4751081005": {
    "closed_at": null,
    "department": "",
@@ -3107,6 +3141,21 @@
    "reopened": 0,
    "title": "Strategist",
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4751098005"
+  },
+  "4751108005": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "product manager ai applications @ kuwait city, kuwait",
+   "location": "Kuwait City, Kuwait",
+   "posted_at": "2026-11-06T13:40:26+00:00",
+   "posted_history": [
+    "2026-11-06T13:40:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Manager, AI Applications",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4751108005"
   },
   "4751159005": {
    "closed_at": null,
@@ -3152,6 +3201,21 @@
    "reopened": 0,
    "title": "Full-Stack Software Engineer, (Forward Deployed), GPS",
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4751645005"
+  },
+  "4751693005": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "technical revenue accounting manager @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-06T19:16:25+00:00",
+   "posted_history": [
+    "2026-11-06T19:16:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Revenue Accounting Manager",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4751693005"
   }
  }
 }

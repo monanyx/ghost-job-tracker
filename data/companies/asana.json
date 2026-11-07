@@ -75,6 +75,10 @@
   {
    "date": "2026-11-06",
    "open": 110
+  },
+  {
+   "date": "2026-11-07",
+   "open": 108
   }
  ],
  "jobs": {
@@ -1219,7 +1223,7 @@
    "url": "https://www.asana.com/jobs/apply/8194506?gh_jid=8194506"
   },
   "8194522": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1489,7 +1493,7 @@
    "url": "https://www.asana.com/jobs/apply/8237559?gh_jid=8237559"
   },
   "8237744": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1504,7 +1508,7 @@
    "url": "https://www.asana.com/jobs/apply/8237744?gh_jid=8237744"
   },
   "8241249": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2012,6 +2016,21 @@
    "reopened": 0,
    "title": "Senior Implementation Manager",
    "url": "https://www.asana.com/jobs/apply/8311197?gh_jid=8311197"
+  },
+  "8311518": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "customer enablement manager @ chicago",
+   "location": "Chicago",
+   "posted_at": "2026-11-06T19:46:40+00:00",
+   "posted_history": [
+    "2026-11-06T19:46:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Enablement Manager",
+   "url": "https://www.asana.com/jobs/apply/8311518?gh_jid=8311518"
   },
   "8311577": {
    "closed_at": null,

@@ -75,6 +75,10 @@
   {
    "date": "2026-11-06",
    "open": 462
+  },
+  {
+   "date": "2026-11-07",
+   "open": 464
   }
  ],
  "jobs": {
@@ -1639,7 +1643,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8042034?gh_jid=8042034"
   },
   "8042843": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1789,7 +1793,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8046869?gh_jid=8046869"
   },
   "8049608": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1999,7 +2003,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8071056?gh_jid=8071056"
   },
   "8071416": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2089,7 +2093,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8077614?gh_jid=8077614"
   },
   "8078323": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2254,7 +2258,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8084082?gh_jid=8084082"
   },
   "8087769": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2464,7 +2468,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8099018?gh_jid=8099018"
   },
   "8099671": {
-   "closed_at": "2026-10-31T09:57:28+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2474,7 +2478,7 @@
    "posted_history": [
     "2026-08-07T16:47:38+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Network Deployment Engineer",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8099671?gh_jid=8099671"
   },
@@ -5213,14 +5217,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "principal customer engineer central majors toronto canada @ hybrid",
+   "fp": "principal customer engineer toronto canada @ hybrid",
    "location": "Hybrid",
    "posted_at": "2026-09-24T16:25:22+00:00",
    "posted_history": [
     "2026-09-24T16:25:22+00:00"
    ],
    "reopened": 0,
-   "title": "Principal Customer Engineer, Central Majors - Toronto Canada",
+   "title": "Principal Customer Engineer - Toronto Canada",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8223319?gh_jid=8223319"
   },
   "8223359": {
@@ -5273,14 +5277,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior customer engineer named vancouver bc @ hybrid",
+   "fp": "senior customer engineer vancouver bc @ hybrid",
    "location": "Hybrid",
    "posted_at": "2026-09-25T13:30:33+00:00",
    "posted_history": [
     "2026-09-25T13:30:33+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Customer Engineer, Named - Vancouver, BC",
+   "title": "Senior Customer Engineer - Vancouver, BC",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8223736?gh_jid=8223736"
   },
   "8224347": {
@@ -5363,14 +5367,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior customer engineer central territory toronto canada @ hybrid",
+   "fp": "senior customer engineer toronto canada @ hybrid",
    "location": "Hybrid",
    "posted_at": "2026-09-25T16:20:28+00:00",
    "posted_history": [
     "2026-09-25T16:20:28+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Customer Engineer, Central Territory - Toronto, Canada",
+   "title": "Senior Customer Engineer - Toronto, Canada",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8226556?gh_jid=8226556"
   },
   "8227167": {
@@ -5524,7 +5528,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8233344?gh_jid=8233344"
   },
   "8233538": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6348,6 +6352,21 @@
    "title": "Senior Practice Leader, Developer Platform for Professional Services, APAC",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8260743?gh_jid=8260743"
   },
+  "8260956": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "senior director digital native customer engineering @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-06T20:21:10+00:00",
+   "posted_history": [
+    "2026-11-06T20:21:10+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Director Digital Native, Customer Engineering",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8260956?gh_jid=8260956"
+  },
   "8262000": {
    "closed_at": null,
    "department": "",
@@ -6383,8 +6402,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-06T11:30:42+00:00",
-   "fp": "senior software engineer kubernetes platform @ hybrid",
-   "location": "Hybrid",
+   "fp": "senior software engineer kubernetes platform @ distributed; hybrid",
+   "location": "Distributed; Hybrid",
    "posted_at": "2026-11-06T00:01:53+00:00",
    "posted_history": [
     "2026-11-06T00:01:53+00:00"
@@ -7114,7 +7133,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8301509?gh_jid=8301509"
   },
   "8301592": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -7698,19 +7717,34 @@
    "title": "Territory Account Executive, UAE - Startups",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8327153?gh_jid=8327153"
   },
+  "8327958": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "senior majors account executive phoenix @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-06T23:35:41+00:00",
+   "posted_history": [
+    "2026-11-06T23:35:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Majors Account Executive - Phoenix",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8327958?gh_jid=8327958"
+  },
   "8327965": {
    "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
-   "fp": "senior customer engineer digital native vancouver bc @ distributed",
+   "fp": "senior customer engineer vancouver bc @ distributed",
    "location": "Distributed",
    "posted_at": "2026-10-28T13:34:41+00:00",
    "posted_history": [
     "2026-10-28T13:34:41+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Customer Engineer, Digital Native - Vancouver BC",
+   "title": "Senior Customer Engineer - Vancouver BC",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8327965?gh_jid=8327965"
   },
   "8328089": {
@@ -8123,14 +8157,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
-   "fp": "senior customer engineer named enterprise montreal qc @ distributed",
+   "fp": "senior customer engineer montreal qc @ distributed",
    "location": "Distributed",
    "posted_at": "2026-11-02T19:55:43+00:00",
    "posted_history": [
     "2026-11-02T19:55:43+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Customer Engineer, Named Enterprise - Montreal, QC",
+   "title": "Senior Customer Engineer - Montreal, QC",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8335624?gh_jid=8335624"
   },
   "8336674": {
@@ -8238,6 +8272,21 @@
    "title": "Senior Product Manager, Signals & Data Products",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8349425?gh_jid=8349425"
   },
+  "8350166": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "people team intern hr transformation @ in-office",
+   "location": "In-Office",
+   "posted_at": "2026-11-06T17:20:43+00:00",
+   "posted_history": [
+    "2026-11-06T17:20:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "People Team Intern, HR Transformation (Winter 2027)",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8350166?gh_jid=8350166"
+  },
   "8350481": {
    "closed_at": null,
    "department": "",
@@ -8252,6 +8301,36 @@
    "reopened": 0,
    "title": "Principal, Customer Strategy & Storytelling",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8350481?gh_jid=8350481"
+  },
+  "8350645": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "enterprise account executive mexico @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-06T20:30:36+00:00",
+   "posted_history": [
+    "2026-11-06T20:30:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Account Executive Mexico",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8350645?gh_jid=8350645"
+  },
+  "8350836": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "customer engineer ai start up s @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-06T20:30:57+00:00",
+   "posted_history": [
+    "2026-11-06T20:30:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Engineer AI/ Start Up's",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8350836?gh_jid=8350836"
   },
   "8354632": {
    "closed_at": null,
@@ -8327,6 +8406,51 @@
    "reopened": 0,
    "title": "Recruiting Coordinator (11-month contract)",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8354857?gh_jid=8354857"
+  },
+  "8355420": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "senior territory account executive igaming @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-06T15:05:53+00:00",
+   "posted_history": [
+    "2026-11-06T15:05:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Territory Account Executive, iGaming (ASEAN)",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8355420?gh_jid=8355420"
+  },
+  "8358934": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "principal customer storytelling advocacy @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-06T14:15:47+00:00",
+   "posted_history": [
+    "2026-11-06T14:15:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal, Customer Storytelling & Advocacy",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8358934?gh_jid=8358934"
+  },
+  "8360609": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "software engineer load balancing @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-06T23:35:18+00:00",
+   "posted_history": [
+    "2026-11-06T23:35:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer - Load Balancing",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8360609?gh_jid=8360609"
   }
  }
 }

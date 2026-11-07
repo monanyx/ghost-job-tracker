@@ -75,6 +75,10 @@
   {
    "date": "2026-11-06",
    "open": 78
+  },
+  {
+   "date": "2026-11-07",
+   "open": 79
   }
  ],
  "jobs": {
@@ -1481,17 +1485,18 @@
    "url": "https://jobs.ashbyhq.com/lovable/f7ffd722-a5bc-4229-9a9f-1d2c952dd7ba"
   },
   "f8590c0f-5374-4753-839b-e5c7315a71c2": {
-   "closed_at": "2026-10-30T10:28:19+00:00",
+   "closed_at": null,
    "department": "EPD",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "forward deployed engineering lead @ stockholm",
    "location": "Stockholm",
-   "posted_at": "2026-10-07T14:29:49+00:00",
+   "posted_at": "2026-11-06T17:31:58+00:00",
    "posted_history": [
-    "2026-10-07T14:29:49+00:00"
+    "2026-10-07T14:29:49+00:00",
+    "2026-11-06T17:31:58+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Forward Deployed Engineering Lead",
    "url": "https://jobs.ashbyhq.com/lovable/f8590c0f-5374-4753-839b-e5c7315a71c2"
   }

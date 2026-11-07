@@ -75,6 +75,10 @@
   {
    "date": "2026-11-06",
    "open": 163
+  },
+  {
+   "date": "2026-11-07",
+   "open": 163
   }
  ],
  "jobs": {
@@ -979,7 +983,7 @@
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8075185"
   },
   "8077785": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1103,8 +1107,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "staff data scientist ads measurement signals privacy @ remote - ontario, canada",
-   "location": "Remote - Ontario, Canada",
+   "fp": "staff data scientist ads measurement signals privacy @ remote - british columbia, canada",
+   "location": "Remote - British Columbia, Canada",
    "posted_at": "2026-08-03T17:30:50+00:00",
    "posted_history": [
     "2026-08-03T17:30:50+00:00"
@@ -1358,8 +1362,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior client partner large customer sales @ chicago, il; new york city, ny",
-   "location": "Chicago, IL; New York City, NY",
+   "fp": "senior client partner large customer sales @ new york city, ny",
+   "location": "New York City, NY",
    "posted_at": "2026-08-31T16:41:15+00:00",
    "posted_history": [
     "2026-08-31T16:41:15+00:00"
@@ -1504,7 +1508,7 @@
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8157275"
   },
   "8157580": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1892,6 +1896,21 @@
    "reopened": 0,
    "title": "Senior Staff Machine Learning Engineer, Agentic AI Platform (Ads Ranking)",
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8201359"
+  },
+  "8201913": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "senior product designer ads @ remote - united states",
+   "location": "Remote - United States",
+   "posted_at": "2026-11-06T19:57:17+00:00",
+   "posted_history": [
+    "2026-11-06T19:57:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Designer, Ads",
+   "url": "https://job-boards.greenhouse.io/reddit/jobs/8201913"
   },
   "8203478": {
    "closed_at": null,
@@ -2689,7 +2708,7 @@
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8318010"
   },
   "8319536": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
@@ -2897,6 +2916,36 @@
    "reopened": 0,
    "title": "Senior Data Scientist",
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8355688"
+  },
+  "8359289": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "senior product manager finance technology @ remote - united states",
+   "location": "Remote - United States",
+   "posted_at": "2026-11-06T21:22:57+00:00",
+   "posted_history": [
+    "2026-11-06T21:22:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Manager, Finance Technology (Procure-to-Pay & Record-to-Report)",
+   "url": "https://job-boards.greenhouse.io/reddit/jobs/8359289"
+  },
+  "8360267": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "senior client partner mid market sales @ los angeles, ca",
+   "location": "Los Angeles, CA",
+   "posted_at": "2026-11-06T20:27:40+00:00",
+   "posted_history": [
+    "2026-11-06T20:27:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Client Partner, Mid-Market Sales (Goods)",
+   "url": "https://job-boards.greenhouse.io/reddit/jobs/8360267"
   }
  }
 }

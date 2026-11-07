@@ -75,6 +75,10 @@
   {
    "date": "2026-11-06",
    "open": 39
+  },
+  {
+   "date": "2026-11-07",
+   "open": 39
   }
  ],
  "jobs": {
@@ -138,6 +142,21 @@
    "title": "Senior Technical Program Manager, AI Platform",
    "url": "https://jobs.ashbyhq.com/sentry/278476b1-87c5-461f-ad7e-950cd31e5f31"
   },
+  "29de413e-afbb-437f-9e69-e18ae5c4dd26": {
+   "closed_at": null,
+   "department": "Engineering ",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "software engineer size analysis snapshots @ vienna, austria",
+   "location": "Vienna, Austria",
+   "posted_at": "2026-11-06T17:09:54+00:00",
+   "posted_history": [
+    "2026-11-06T17:09:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Size Analysis & Snapshots",
+   "url": "https://jobs.ashbyhq.com/sentry/29de413e-afbb-437f-9e69-e18ae5c4dd26"
+  },
   "2b5e1ac5-9709-4280-9ceb-51bff95328e3": {
    "closed_at": null,
    "department": "Support",
@@ -154,7 +173,7 @@
    "url": "https://jobs.ashbyhq.com/sentry/2b5e1ac5-9709-4280-9ceb-51bff95328e3"
   },
   "2cdc2ba7-8406-452a-b84f-d94d8e7a09bb": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "Sales ",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

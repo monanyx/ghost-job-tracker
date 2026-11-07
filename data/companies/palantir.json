@@ -75,6 +75,10 @@
   {
    "date": "2026-11-06",
    "open": 309
+  },
+  {
+   "date": "2026-11-07",
+   "open": 305
   }
  ],
  "jobs": {
@@ -919,7 +923,7 @@
    "url": "https://jobs.lever.co/palantir/2cd25c0b-088d-4a5c-9b96-1165a33fe652"
   },
   "2d8a194e-40fa-4ccd-bb93-c40f9ce869d7": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "Echo",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -962,6 +966,21 @@
    "reopened": 0,
    "title": "Full Stack Software Engineer - Application Development",
    "url": "https://jobs.lever.co/palantir/2da4be12-bc7a-4950-87db-e9d68d955ff7"
+  },
+  "2da72708-a7b0-4178-9cb2-6b009eb6e07f": {
+   "closed_at": null,
+   "department": "Business Development",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "site reliability operations analyst @ warsaw, poland",
+   "location": "Warsaw, Poland",
+   "posted_at": "2026-10-02T14:00:03+00:00",
+   "posted_history": [
+    "2026-10-02T14:00:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Site Reliability Operations Analyst",
+   "url": "https://jobs.lever.co/palantir/2da72708-a7b0-4178-9cb2-6b009eb6e07f"
   },
   "2e193bdf-e668-49c1-ba32-66cc1aa131a4": {
    "closed_at": null,
@@ -1384,7 +1403,7 @@
    "url": "https://jobs.lever.co/palantir/3e59369e-1392-42f2-8d03-86648e87e963"
   },
   "3f662628-2877-42fb-8866-a2b709de17ca": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "Echo",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2299,7 +2318,7 @@
    "url": "https://jobs.lever.co/palantir/69ab7e24-8f5d-426e-84f7-6d3b2d4a7efd"
   },
   "6a104c4e-35d4-4a1f-98ef-bec00ae4b458": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "Echo",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2404,7 +2423,7 @@
    "url": "https://jobs.lever.co/palantir/701a9307-0619-45d3-b077-cabe9897cd12"
   },
   "70facf19-1508-4fb9-bee9-d731aafada56": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "Echo",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2794,7 +2813,7 @@
    "url": "https://jobs.lever.co/palantir/84131e3f-455e-47fc-9c11-898d95f09048"
   },
   "842d6bc5-823c-4a77-8839-3f0f427bcd8c": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "Echo",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4714,7 +4733,7 @@
    "url": "https://jobs.lever.co/palantir/e5b8c2f0-aa26-4615-ba92-f4b5c175c112"
   },
   "e65e0d73-1d91-4696-809f-7810ecd474d1": {
-   "closed_at": "2026-10-22T08:55:54+00:00",
+   "closed_at": null,
    "department": "Echo",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4724,7 +4743,7 @@
    "posted_history": [
     "2016-04-08T15:51:10+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Deployment Strategist",
    "url": "https://jobs.lever.co/palantir/e65e0d73-1d91-4696-809f-7810ecd474d1"
   },
@@ -4834,7 +4853,7 @@
    "url": "https://jobs.lever.co/palantir/ead4e034-e6e1-4993-86d1-ad9b8e2933a5"
   },
   "ec006383-f48c-452c-a124-88657b5e3277": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "Echo",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

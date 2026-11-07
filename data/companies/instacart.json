@@ -75,6 +75,10 @@
   {
    "date": "2026-11-06",
    "open": 90
+  },
+  {
+   "date": "2026-11-07",
+   "open": 90
   }
  ],
  "jobs": {
@@ -979,7 +983,7 @@
    "url": "https://instacart.careers/job/?gh_jid=8168196"
   },
   "8177972": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1759,7 +1763,7 @@
    "url": "https://instacart.careers/job/?gh_jid=8250361"
   },
   "8257641": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1898,14 +1902,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior product manager ad formats @ united states - remote",
+   "fp": "product manager ad formats @ united states - remote",
    "location": "United States - Remote",
    "posted_at": "2026-10-14T14:18:55+00:00",
    "posted_history": [
     "2026-10-14T14:18:55+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Product Manager, Ad Formats",
+   "title": "Product Manager, Ad Formats",
    "url": "https://instacart.careers/job/?gh_jid=8281405"
   },
   "8281407": {
@@ -1913,14 +1917,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior product manager ad formats @ canada - remote (on, ab, bc, or ns only)",
+   "fp": "product manager ad formats @ canada - remote (on, ab, bc, or ns only)",
    "location": "Canada - Remote (ON, AB, BC, or NS Only)",
    "posted_at": "2026-10-14T14:18:57+00:00",
    "posted_history": [
     "2026-10-14T14:18:57+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Product Manager, Ad Formats",
+   "title": "Product Manager, Ad Formats",
    "url": "https://instacart.careers/job/?gh_jid=8281407"
   },
   "8281965": {
@@ -2342,6 +2346,36 @@
    "reopened": 0,
    "title": "Senior Data Scientist",
    "url": "https://instacart.careers/job/?gh_jid=8356881"
+  },
+  "8359775": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "senior global mobility and immigration specialist @ united states - remote",
+   "location": "United States - Remote",
+   "posted_at": "2026-11-06T18:34:08+00:00",
+   "posted_history": [
+    "2026-11-06T18:34:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Global Mobility and Immigration Specialist",
+   "url": "https://instacart.careers/job/?gh_jid=8359775"
+  },
+  "8359777": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "senior global mobility and immigration specialist @ canada - remote (on, ab, bc, or ns only)",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-11-06T18:34:12+00:00",
+   "posted_history": [
+    "2026-11-06T18:34:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Global Mobility and Immigration Specialist",
+   "url": "https://instacart.careers/job/?gh_jid=8359777"
   }
  }
 }

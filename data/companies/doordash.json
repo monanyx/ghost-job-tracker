@@ -75,6 +75,10 @@
   {
    "date": "2026-11-06",
    "open": 438
+  },
+  {
+   "date": "2026-11-07",
+   "open": 439
   }
  ],
  "jobs": {
@@ -1039,7 +1043,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7118174"
   },
   "7144500": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-06T11:30:42+00:00",
@@ -1728,6 +1732,21 @@
    "title": "Electrical Engineer - DoorDash Dot",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7729872"
   },
+  "7749114": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "operations research scientist @ san francisco, ca; sunnyvale, ca",
+   "location": "San Francisco, CA; Sunnyvale, CA",
+   "posted_at": "2026-03-25T14:18:22+00:00",
+   "posted_history": [
+    "2026-03-25T14:18:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Operations Research Scientist",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7749114"
+  },
   "7750664": {
    "closed_at": null,
    "department": "",
@@ -2044,7 +2063,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7863361"
   },
   "7863636": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3064,7 +3083,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8075091"
   },
   "8076068": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4354,7 +4373,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8160170"
   },
   "8160193": {
-   "closed_at": "2026-10-29T10:25:29+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4364,7 +4383,7 @@
    "posted_history": [
     "2026-08-26T18:20:03+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Regional Merchant Lead - Los Angeles",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8160193"
   },
@@ -4399,7 +4418,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8160362"
   },
   "8160437": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5074,7 +5093,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8200707"
   },
   "8200957": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6019,7 +6038,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8238312"
   },
   "8238643": {
-   "closed_at": "2026-10-21T08:53:29+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6029,7 +6048,7 @@
    "posted_history": [
     "2026-09-29T06:40:32+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Insurance Data Lead",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8238643"
   },
@@ -7534,7 +7553,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8306636"
   },
   "8310956": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -7774,7 +7793,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8324659"
   },
   "8327944": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-28T10:01:46+00:00",
@@ -8374,7 +8393,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8353943"
   },
   "8355717": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-06T11:30:42+00:00",
@@ -8423,15 +8442,105 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-06T11:30:42+00:00",
-   "fp": "associate dasher logistics rotational leadership program @ san francisco, ca",
-   "location": "San Francisco, CA",
+   "fp": "associate dasher logistics rotational leadership program @ san francisco, ca; new york, ny",
+   "location": "San Francisco, CA; New York, NY",
    "posted_at": "2026-11-05T21:54:36+00:00",
    "posted_history": [
     "2026-11-05T21:54:36+00:00"
    ],
    "reopened": 0,
-   "title": "Associate, Dasher & Logistics Rotational Leadership Program",
+   "title": "Associate, Dasher & Logistics — Rotational Leadership Program",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8356727"
+  },
+  "8358145": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "studio central product designer @ san francisco, ca; seattle, wa; new york, ny",
+   "location": "San Francisco, CA; Seattle, WA; New York, NY",
+   "posted_at": "2026-11-06T19:59:16+00:00",
+   "posted_history": [
+    "2026-11-06T19:59:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Studio Central Product Designer",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8358145"
+  },
+  "8359091": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "mechanical engineer structural simulation @ oakland, ca",
+   "location": "Oakland, CA",
+   "posted_at": "2026-11-06T18:07:36+00:00",
+   "posted_history": [
+    "2026-11-06T18:07:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Mechanical Engineer - Structural Simulation",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8359091"
+  },
+  "8359271": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "kitchen manager dashmart @ norfolk, va",
+   "location": "Norfolk, VA",
+   "posted_at": "2026-11-06T18:43:23+00:00",
+   "posted_history": [
+    "2026-11-06T18:43:23+00:00"
+   ],
+   "reopened": 0,
+   "title": "Kitchen Manager, DashMart",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8359271"
+  },
+  "8359503": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "shift lead dashmart wick field @ milwaukee, wi",
+   "location": "Milwaukee, WI",
+   "posted_at": "2026-11-06T17:07:35+00:00",
+   "posted_history": [
+    "2026-11-06T17:07:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Shift Lead, Dashmart - Wick Field",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8359503"
+  },
+  "8359599": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "manager new verticals in store data platform strategy operations @ new york, ny; san francisco, ca; seattle, wa; los angeles, ca; seattle, wa; washington, dc; chicago, il; tempe, az",
+   "location": "New York, NY; San Francisco, CA; Seattle, WA; Los Angeles, CA; Seattle, WA; Washington, DC; Chicago, IL; Tempe, AZ",
+   "posted_at": "2026-11-06T18:48:43+00:00",
+   "posted_history": [
+    "2026-11-06T18:48:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, New Verticals - In-Store Data Platform Strategy & Operations",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8359599"
+  },
+  "8359671": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "technical revenue accounting manager @ chicago, il",
+   "location": "Chicago, IL",
+   "posted_at": "2026-11-06T20:23:37+00:00",
+   "posted_history": [
+    "2026-11-06T20:23:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Revenue Accounting Manager",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8359671"
   }
  }
 }

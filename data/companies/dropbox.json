@@ -75,6 +75,10 @@
   {
    "date": "2026-11-06",
    "open": 33
+  },
+  {
+   "date": "2026-11-07",
+   "open": 33
   }
  ],
  "jobs": {
@@ -122,6 +126,21 @@
    "reopened": 0,
    "title": "Backend Product Software Engineer",
    "url": "https://jobs.dropbox.com/listing/7172701?gh_jid=7172701"
+  },
+  "7172713": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "infrastructure software engineer @ remote - mexico",
+   "location": "Remote - Mexico",
+   "posted_at": "2026-11-06T18:35:23+00:00",
+   "posted_history": [
+    "2026-11-06T18:35:23+00:00"
+   ],
+   "reopened": 0,
+   "title": "Infrastructure Software Engineer",
+   "url": "https://jobs.dropbox.com/listing/7172713?gh_jid=7172713"
   },
   "7172839": {
    "closed_at": null,
@@ -649,7 +668,7 @@
    "url": "https://jobs.dropbox.com/listing/8296377?gh_jid=8296377"
   },
   "8328394": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",

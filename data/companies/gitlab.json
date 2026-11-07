@@ -75,6 +75,10 @@
   {
    "date": "2026-11-06",
    "open": 249
+  },
+  {
+   "date": "2026-11-07",
+   "open": 248
   }
  ],
  "jobs": {
@@ -304,7 +308,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8597805002"
   },
   "8604996002": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -619,7 +623,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8636713002"
   },
   "8637426002": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -904,7 +908,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8687926002"
   },
   "8687958002": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -934,7 +938,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8688078002"
   },
   "8689236002": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1384,7 +1388,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8738179002"
   },
   "8739391002": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2273,14 +2277,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior professional services engineer pubsec us only @ remote, united states",
+   "fp": "senior professional services engineer pubsec dc metro @ remote, united states",
    "location": "Remote, United States",
    "posted_at": "2026-10-07T18:53:41+00:00",
    "posted_history": [
     "2026-10-07T18:53:41+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Professional Services Engineer - PubSec - US Only",
+   "title": "Senior Professional Services Engineer - PubSec - DC Metro",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8838331002"
   },
   "8838394002": {
@@ -2288,14 +2292,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-28T10:01:46+00:00",
-   "fp": "senior professional services engineer pubsec @ remote, united states",
+   "fp": "senior professional services engineer pubsec dc metro @ remote, united states",
    "location": "Remote, United States",
    "posted_at": "2026-10-27T16:49:08+00:00",
    "posted_history": [
     "2026-10-27T16:49:08+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Professional Services Engineer - PubSec",
+   "title": "Senior Professional Services Engineer - PubSec - DC Metro",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8838394002"
   },
   "8842171002": {
@@ -2839,7 +2843,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8860248002"
   },
   "8860267002": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4383,6 +4387,21 @@
    "title": "Staff Regional Marketing Manager, West",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8920177002"
   },
+  "8920764002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "senior professional services engineer north carolina @ remote, united states",
+   "location": "Remote, United States",
+   "posted_at": "2026-11-06T21:25:46+00:00",
+   "posted_history": [
+    "2026-11-06T21:25:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Professional Services Engineer - North Carolina",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8920764002"
+  },
   "8920912002": {
    "closed_at": null,
    "department": "",
@@ -4643,14 +4662,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-06T11:30:42+00:00",
-   "fp": "principal field security engineer @ remote, united states",
+   "fp": "principal security grc manager legal assurance @ remote, united states",
    "location": "Remote, United States",
    "posted_at": "2026-11-05T14:35:04+00:00",
    "posted_history": [
     "2026-11-05T14:35:04+00:00"
    ],
    "reopened": 0,
-   "title": "Principal Field Security Engineer (US)",
+   "title": "Principal Security GRC Manager, Legal Assurance (USA)",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8927630002"
   },
   "8928280002": {
@@ -4667,6 +4686,21 @@
    "reopened": 0,
    "title": "New Business Account Executive - East",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8928280002"
+  },
+  "8928552002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "executive assistant office of the cfo @ remote, united states",
+   "location": "Remote, United States",
+   "posted_at": "2026-11-07T00:43:56+00:00",
+   "posted_history": [
+    "2026-11-07T00:43:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Executive Assistant, Office of the CFO",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8928552002"
   },
   "8928675002": {
    "closed_at": null,
@@ -4728,6 +4762,21 @@
    "title": "Lead Journey Architect",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8929004002"
   },
+  "8929468002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "professional services program manager @ remote, canada; remote, united states",
+   "location": "Remote, Canada; Remote, United States",
+   "posted_at": "2026-11-06T21:28:11+00:00",
+   "posted_history": [
+    "2026-11-06T21:28:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Professional Services, Program Manager",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8929468002"
+  },
   "8929477002": {
    "closed_at": null,
    "department": "",
@@ -4758,8 +4807,23 @@
    "title": "Senior Renewals Manager, Public Sector",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8929514002"
   },
-  "8931298002": {
+  "8931179002": {
    "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "lead community growth marketing manager @ remote, canada; remote, united states",
+   "location": "Remote, Canada; Remote, United States",
+   "posted_at": "2026-11-06T23:20:16+00:00",
+   "posted_history": [
+    "2026-11-06T23:20:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Lead, Community Growth Marketing Manager",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8931179002"
+  },
+  "8931298002": {
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-06T11:30:42+00:00",
@@ -4772,6 +4836,21 @@
    "reopened": 0,
    "title": "Senior Corporate Security Engineer",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8931298002"
+  },
+  "8931337002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "customer success latam @ remote, united states",
+   "location": "Remote, United States",
+   "posted_at": "2026-11-06T22:55:25+00:00",
+   "posted_history": [
+    "2026-11-06T22:55:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Success LATAM",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8931337002"
   },
   "8931347002": {
    "closed_at": null,
@@ -4802,6 +4881,21 @@
    "reopened": 0,
    "title": "Director, Data Science",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8931768002"
+  },
+  "8933640002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "principal growth marketing strategist @ remote, canada; remote, united states",
+   "location": "Remote, Canada; Remote, United States",
+   "posted_at": "2026-11-06T23:44:07+00:00",
+   "posted_history": [
+    "2026-11-06T23:44:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Growth Marketing Strategist",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8933640002"
   }
  }
 }

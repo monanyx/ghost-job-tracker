@@ -75,6 +75,10 @@
   {
    "date": "2026-11-06",
    "open": 8
+  },
+  {
+   "date": "2026-11-07",
+   "open": 10
   }
  ],
  "jobs": {
@@ -91,37 +95,38 @@
    ],
    "reopened": 0,
    "title": "Technical Customer Success Manager - EMEA",
-   "url": "https://jobs.ashbyhq.com/posthog/0be1b52c-2401-4ae2-b7fc-5d018c1ff96f"
+   "url": "https://jobs.ashbyhq.com/PostHog/0be1b52c-2401-4ae2-b7fc-5d018c1ff96f"
   },
   "1464036f-94d5-4dbd-aef8-fe99246a26d4": {
    "closed_at": null,
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "site reliability engineer @ san francisco, ca",
-   "location": "San Francisco, CA",
+   "fp": "site reliability engineer @ remote (us)",
+   "location": "Remote (US)",
    "posted_at": "2026-08-06T08:48:53+00:00",
    "posted_history": [
     "2026-08-06T08:48:53+00:00"
    ],
    "reopened": 0,
    "title": "Site Reliability Engineer (US - Pacific time)",
-   "url": "https://jobs.ashbyhq.com/posthog/1464036f-94d5-4dbd-aef8-fe99246a26d4"
+   "url": "https://jobs.ashbyhq.com/PostHog/1464036f-94d5-4dbd-aef8-fe99246a26d4"
   },
   "20ab9628-20ff-4ae3-bd6a-46ae7e9dc6b8": {
-   "closed_at": "2026-11-04T11:35:04+00:00",
+   "closed_at": null,
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "product engineer @ remote",
    "location": "Remote",
-   "posted_at": "2026-09-24T16:56:29+00:00",
+   "posted_at": "2026-11-06T15:26:39+00:00",
    "posted_history": [
-    "2026-09-24T16:56:29+00:00"
+    "2026-09-24T16:56:29+00:00",
+    "2026-11-06T15:26:39+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Product Engineer",
-   "url": "https://jobs.ashbyhq.com/posthog/20ab9628-20ff-4ae3-bd6a-46ae7e9dc6b8"
+   "url": "https://jobs.ashbyhq.com/PostHog/20ab9628-20ff-4ae3-bd6a-46ae7e9dc6b8"
   },
   "2a78f2f8-4fd3-413b-9c7d-55db568e68c1": {
    "closed_at": null,
@@ -136,7 +141,7 @@
    ],
    "reopened": 0,
    "title": "Finance Manager, Revenue Accounting",
-   "url": "https://jobs.ashbyhq.com/posthog/2a78f2f8-4fd3-413b-9c7d-55db568e68c1"
+   "url": "https://jobs.ashbyhq.com/PostHog/2a78f2f8-4fd3-413b-9c7d-55db568e68c1"
   },
   "36d5ce14-851c-450f-879a-45cbb896225e": {
    "closed_at": "2026-10-29T10:25:29+00:00",
@@ -166,7 +171,7 @@
    ],
    "reopened": 0,
    "title": "Product Manager, Observability (ex-founder or ex-product engineer)",
-   "url": "https://jobs.ashbyhq.com/posthog/3c592b84-8b34-4ae4-ae23-cadce8f2212d"
+   "url": "https://jobs.ashbyhq.com/PostHog/3c592b84-8b34-4ae4-ae23-cadce8f2212d"
   },
   "43dbf072-0fc1-48c9-8c1e-7416db7d4a14": {
    "closed_at": "2026-11-03T11:21:29+00:00",
@@ -197,7 +202,7 @@
    ],
    "reopened": 0,
    "title": "Animator & Motion Graphics Designer",
-   "url": "https://jobs.ashbyhq.com/posthog/4a8a1ee5-aa45-447e-a438-919b4577f14d"
+   "url": "https://jobs.ashbyhq.com/PostHog/4a8a1ee5-aa45-447e-a438-919b4577f14d"
   },
   "82ef4227-e7a6-4e59-a128-2b3333951e21": {
    "closed_at": null,
@@ -212,7 +217,7 @@
    ],
    "reopened": 0,
    "title": "Developer Marketer - Sales",
-   "url": "https://jobs.ashbyhq.com/posthog/82ef4227-e7a6-4e59-a128-2b3333951e21"
+   "url": "https://jobs.ashbyhq.com/PostHog/82ef4227-e7a6-4e59-a128-2b3333951e21"
   },
   "8854fb74-8457-40cd-bc10-60125a0c0cd4": {
    "closed_at": null,
@@ -227,7 +232,7 @@
    ],
    "reopened": 0,
    "title": "Technical Customer Success Manager - Americas",
-   "url": "https://jobs.ashbyhq.com/posthog/8854fb74-8457-40cd-bc10-60125a0c0cd4"
+   "url": "https://jobs.ashbyhq.com/PostHog/8854fb74-8457-40cd-bc10-60125a0c0cd4"
   },
   "8dc3f33a-b930-4c54-b4c4-3e6bd2ff28d3": {
    "closed_at": null,
@@ -242,22 +247,23 @@
    ],
    "reopened": 0,
    "title": "AI Research Engineer",
-   "url": "https://jobs.ashbyhq.com/posthog/8dc3f33a-b930-4c54-b4c4-3e6bd2ff28d3"
+   "url": "https://jobs.ashbyhq.com/PostHog/8dc3f33a-b930-4c54-b4c4-3e6bd2ff28d3"
   },
   "db808740-242e-4a40-ad43-d41f26c049d7": {
-   "closed_at": "2026-11-04T11:35:04+00:00",
+   "closed_at": null,
    "department": "Support Engineering",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
    "fp": "technical support engineer @ remote",
    "location": "Remote",
-   "posted_at": "2026-10-28T14:43:56+00:00",
+   "posted_at": "2026-11-06T15:25:28+00:00",
    "posted_history": [
-    "2026-10-28T14:43:56+00:00"
+    "2026-10-28T14:43:56+00:00",
+    "2026-11-06T15:25:28+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Technical Support Engineer",
-   "url": "https://jobs.ashbyhq.com/posthog/db808740-242e-4a40-ad43-d41f26c049d7"
+   "url": "https://jobs.ashbyhq.com/PostHog/db808740-242e-4a40-ad43-d41f26c049d7"
   }
  }
 }

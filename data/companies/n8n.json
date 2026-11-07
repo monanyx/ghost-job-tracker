@@ -75,6 +75,10 @@
   {
    "date": "2026-11-06",
    "open": 51
+  },
+  {
+   "date": "2026-11-07",
+   "open": 48
   }
  ],
  "jobs": {
@@ -170,7 +174,7 @@
    "url": "https://jobs.ashbyhq.com/n8n/10fa4cac-9045-4f26-a945-9a690616e9b8"
   },
   "12d3b685-95b1-4152-b611-c82cd581e8fb": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "Finance & Legal",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
@@ -201,7 +205,7 @@
    "url": "https://jobs.ashbyhq.com/n8n/163162f1-9873-45b4-932e-aff27beea78a"
   },
   "178a1783-90a6-43ea-b019-74e8af3e8f73": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
@@ -488,7 +492,7 @@
    "url": "https://jobs.ashbyhq.com/n8n/5705243b-2eb0-43c5-b7df-c9c18d8d3248"
   },
   "588577b5-f7c6-4b46-9f07-4250000a40ed": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",

@@ -75,6 +75,10 @@
   {
    "date": "2026-11-06",
    "open": 26
+  },
+  {
+   "date": "2026-11-07",
+   "open": 27
   }
  ],
  "jobs": {
@@ -887,6 +891,21 @@
    "reopened": 0,
    "title": "Associate Commercial Counsel",
    "url": "https://job-boards.greenhouse.io/discord/jobs/8917177002"
+  },
+  "8933480002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "senior staff brand designer @ san francisco bay area",
+   "location": "San Francisco Bay Area",
+   "posted_at": "2026-11-06T19:26:22+00:00",
+   "posted_history": [
+    "2026-11-06T19:26:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Staff Brand Designer",
+   "url": "https://job-boards.greenhouse.io/discord/jobs/8933480002"
   }
  }
 }

@@ -75,6 +75,10 @@
   {
    "date": "2026-11-06",
    "open": 922
+  },
+  {
+   "date": "2026-11-07",
+   "open": 924
   }
  ],
  "jobs": {
@@ -1233,6 +1237,21 @@
    "title": "Sr. Software Engineer - Backend",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7643201002"
   },
+  "7647294002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "senior software engineer backend infrastructure @ bengaluru, india",
+   "location": "Bengaluru, India",
+   "posted_at": "2026-11-07T08:50:11+00:00",
+   "posted_history": [
+    "2026-11-07T08:50:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer - Backend Infrastructure",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7647294002"
+  },
   "7647353002": {
    "closed_at": null,
    "department": "",
@@ -1279,7 +1298,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7648669002"
   },
   "7648674002": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2298,6 +2317,21 @@
    "title": "Staff Software Engineer - Customer Engagement & Docs Platform",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8032546002"
   },
+  "8035969002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "senior backend software engineer @ mountain view, california; san francisco, california",
+   "location": "Mountain View, California; San Francisco, California",
+   "posted_at": "2025-06-30T17:16:26+00:00",
+   "posted_history": [
+    "2025-06-30T17:16:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Backend Software Engineer- (AI Platform)",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8035969002"
+  },
   "8037500002": {
    "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "",
@@ -2648,14 +2682,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "sr engineering manager notebook dataplane @ san francisco, california",
+   "fp": "senior engineering manager notebook dataplane @ san francisco, california",
    "location": "San Francisco, California",
    "posted_at": "2025-09-29T19:21:35+00:00",
    "posted_history": [
     "2025-09-29T19:21:35+00:00"
    ],
    "reopened": 0,
-   "title": "Sr. Engineering Manager - Notebook Dataplane",
+   "title": "Senior Engineering Manager - Notebook Dataplane",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8190108002"
   },
   "8193165002": {
@@ -3379,7 +3413,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8357216002"
   },
   "8367019002": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3392,6 +3426,21 @@
    "reopened": 0,
    "title": "Staff Backend Software Engineer- (Databricks AI)",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8367019002"
+  },
+  "8367021002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "staff backend software engineer @ san francisco, california",
+   "location": "San Francisco, California",
+   "posted_at": "2026-03-31T04:29:27+00:00",
+   "posted_history": [
+    "2026-03-31T04:29:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Backend Software Engineer- (AI Platform)",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8367021002"
   },
   "8371312002": {
    "closed_at": null,
@@ -6844,7 +6893,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8578144002"
   },
   "8578177002": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7849,7 +7898,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8614863002"
   },
   "8614977002": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -8284,18 +8333,18 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8635225002"
   },
   "8636157002": {
-   "closed_at": "2026-10-24T08:24:32+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "director americas field marketing at databricks @ united states",
+   "fp": "sr director americas field marketing @ united states",
    "location": "United States",
    "posted_at": "2026-07-16T18:37:25+00:00",
    "posted_history": [
     "2026-07-16T18:37:25+00:00"
    ],
-   "reopened": 0,
-   "title": "Director, Americas Field Marketing at Databricks",
+   "reopened": 1,
+   "title": "Sr. Director, Americas Field Marketing",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8636157002"
   },
   "8637368002": {
@@ -11089,7 +11138,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8768958002"
   },
   "8769750002": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -11104,7 +11153,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8769750002"
   },
   "8769764002": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -11119,7 +11168,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8769764002"
   },
   "8769768002": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -11884,7 +11933,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8802708002"
   },
   "8805589002": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-28T10:01:46+00:00",
@@ -12017,6 +12066,21 @@
    "reopened": 0,
    "title": "Enterprise Account Executive - Telecommunications",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8808527002"
+  },
+  "8811059002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "tech sourcer @ bengaluru, india",
+   "location": "Bengaluru, India",
+   "posted_at": "2026-11-07T07:00:25+00:00",
+   "posted_history": [
+    "2026-11-07T07:00:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Tech Sourcer (Contract)",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8811059002"
   },
   "8811265002": {
    "closed_at": null,
@@ -13669,17 +13733,17 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8872760002"
   },
   "8873053002": {
-   "closed_at": "2026-10-30T10:28:19+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "strategy execution manager @ london, united kingdom",
-   "location": "London, United Kingdom",
+   "fp": "strategy execution manager @ london, united kingdom; paris, france",
+   "location": "London, United Kingdom; Paris, France",
    "posted_at": "2026-10-07T11:45:39+00:00",
    "posted_history": [
     "2026-10-07T11:45:39+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Strategy & Execution Manager",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8873053002"
   },
@@ -15109,18 +15173,18 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8907990002"
   },
   "8908544002": {
-   "closed_at": "2026-10-30T10:28:19+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
-   "fp": "emerging enterprise hunter account executive france @ paris, france",
+   "fp": "emerging enterprise account executive france @ paris, france",
    "location": "Paris, France",
    "posted_at": "2026-10-26T11:06:49+00:00",
    "posted_history": [
     "2026-10-26T11:06:49+00:00"
    ],
-   "reopened": 0,
-   "title": "Emerging Enterprise Hunter Account Executive, France",
+   "reopened": 1,
+   "title": "Emerging Enterprise Account Executive, France",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8908544002"
   },
   "8909305002": {
@@ -15993,6 +16057,36 @@
    "title": "Revenue Enablement Manager",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8931269002"
   },
+  "8931581002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "strategic account executive telco @ finland",
+   "location": "Finland",
+   "posted_at": "2026-11-06T11:59:28+00:00",
+   "posted_history": [
+    "2026-11-06T11:59:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Account Executive, Telco",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8931581002"
+  },
+  "8931716002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "senior delivery partner manager services @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2026-11-06T15:16:57+00:00",
+   "posted_history": [
+    "2026-11-06T15:16:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Delivery Partner Manager, Services",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8931716002"
+  },
   "8932117002": {
    "closed_at": null,
    "department": "",
@@ -16037,6 +16131,21 @@
    "reopened": 0,
    "title": "Senior Solutions Architect - Lakebase",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8932964002"
+  },
+  "8933236002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "senior delivery partner manager services @ paris, france",
+   "location": "Paris, France",
+   "posted_at": "2026-11-06T15:18:37+00:00",
+   "posted_history": [
+    "2026-11-06T15:18:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Delivery Partner Manager, Services",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8933236002"
   }
  }
 }

@@ -75,6 +75,10 @@
   {
    "date": "2026-11-06",
    "open": 238
+  },
+  {
+   "date": "2026-11-07",
+   "open": 241
   }
  ],
  "jobs": {
@@ -137,6 +141,21 @@
    "reopened": 0,
    "title": "Sr. Electrical Integration Engineer  - Diagnostics",
    "url": "https://jobs.lever.co/zoox/013b341d-8019-431d-bfda-8be411a14d84"
+  },
+  "0168ad29-2fd8-4c91-865c-b9fff8aa30c1": {
+   "closed_at": null,
+   "department": "Safety Policy and Strategy",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "ai workflows safety decision making intern @ foster city, ca",
+   "location": "Foster City, CA",
+   "posted_at": "2026-11-07T00:27:55+00:00",
+   "posted_history": [
+    "2026-11-07T00:27:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "AI Workflows & Safety Decision Making Intern [2027]",
+   "url": "https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1"
   },
   "01ff8f1c-eda8-4c45-9cca-b4461d8757d5": {
    "closed_at": null,
@@ -398,14 +417,14 @@
    "department": "Body, Closures and Chassis",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior staff closures engineer @ foster city, ca",
+   "fp": "senior mechanical engineer closures @ foster city, ca",
    "location": "Foster City, CA",
    "posted_at": "2026-09-22T22:08:49+00:00",
    "posted_history": [
     "2026-09-22T22:08:49+00:00"
    ],
    "reopened": 0,
-   "title": "Senior/Staff Closures Engineer",
+   "title": "Senior Mechanical Engineer - Closures",
    "url": "https://jobs.lever.co/zoox/0da91b55-fd12-4d1f-8f35-e11804f591ab"
   },
   "0dd5de4b-4e98-4808-85fd-e739e7fc5bba": {
@@ -1399,7 +1418,7 @@
    "url": "https://jobs.lever.co/zoox/48a7c3a9-3d0a-4b15-8a18-5ed786298316"
   },
   "4a26b266-b3b2-4a08-be0d-de81029da441": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "PMO",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1743,6 +1762,21 @@
    "title": "Contract Student Worker Software Engineer (6-month Contract) (20/hrs week)",
    "url": "https://jobs.lever.co/zoox/5f10dfaf-5920-4506-8a09-b39b29e6f48b"
   },
+  "614f35d6-a415-4f44-be38-cb38877df1db": {
+   "closed_at": null,
+   "department": "Safety Policy and Strategy",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "safety reporting benchmarking intern @ foster city, ca",
+   "location": "Foster City, CA",
+   "posted_at": "2026-11-07T00:13:23+00:00",
+   "posted_history": [
+    "2026-11-07T00:13:23+00:00"
+   ],
+   "reopened": 0,
+   "title": "Safety Reporting & Benchmarking Intern [Summer 2027]",
+   "url": "https://jobs.lever.co/zoox/614f35d6-a415-4f44-be38-cb38877df1db"
+  },
   "62ba74a7-862e-4561-904b-075f3b4c8a7b": {
    "closed_at": null,
    "department": "Data Science",
@@ -1894,7 +1928,7 @@
    "url": "https://jobs.lever.co/zoox/6da52aa7-0ccb-48d0-af25-0889f41ddee5"
   },
   "6e2c1641-a814-43ad-a807-34f585a35fd9": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "Platform Safety Engineering and Analysis",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -2373,6 +2407,21 @@
    "title": "Financial Analyst, Production Manufacturing",
    "url": "https://jobs.lever.co/zoox/85b40783-bc13-4564-b6b6-1ea0801653b1"
   },
+  "85c6aec7-8da2-445d-9c4d-812365dbce97": {
+   "closed_at": null,
+   "department": "Data Science",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "data science intern @ foster city, ca",
+   "location": "Foster City, CA",
+   "posted_at": "2026-11-06T23:14:17+00:00",
+   "posted_history": [
+    "2026-11-06T23:14:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Data Science Intern [Summer 2027]",
+   "url": "https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97"
+  },
   "86b340fe-0d63-4f03-9aec-72b958f96c7f": {
    "closed_at": null,
    "department": "Body, Closures and Chassis",
@@ -2524,7 +2573,7 @@
    "url": "https://jobs.lever.co/zoox/896f37b9-80b7-4077-a937-e499151ce5f2"
   },
   "89adda42-9575-4028-bba8-a38e5f0feb94": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "PMO",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2883,6 +2932,21 @@
    "title": "Senior AI Developer Productivity Engineer",
    "url": "https://jobs.lever.co/zoox/9e0751cd-f651-4cc7-bea7-f21663f082c0"
   },
+  "9e5326f4-d879-465f-8118-4584b1ba6018": {
+   "closed_at": null,
+   "department": "PMO",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "senior staff technical program manager automation scaling @ foster city, ca",
+   "location": "Foster City, CA",
+   "posted_at": "2026-11-06T20:03:28+00:00",
+   "posted_history": [
+    "2026-11-06T20:03:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior/Staff Technical Program Manager - Automation & Scaling",
+   "url": "https://jobs.lever.co/zoox/9e5326f4-d879-465f-8118-4584b1ba6018"
+  },
   "9f30b1a9-9637-431b-ad46-83ba696108bd": {
    "closed_at": null,
    "department": "Logistics",
@@ -3167,6 +3231,21 @@
    "reopened": 0,
    "title": "Program Manager, Fleet Support Specialists",
    "url": "https://jobs.lever.co/zoox/aee9fb25-2129-4bf8-9d59-65e71ecba5cb"
+  },
+  "affbfa7d-30c5-4639-aa56-2ba138200bd8": {
+   "closed_at": null,
+   "department": "Fleet Operations",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "program manager infrastructure operations intern @ foster city, ca",
+   "location": "Foster City, CA",
+   "posted_at": "2026-11-06T23:11:55+00:00",
+   "posted_history": [
+    "2026-11-06T23:11:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Program Manager, Infrastructure Operations Intern [Summer 2027]",
+   "url": "https://jobs.lever.co/zoox/affbfa7d-30c5-4639-aa56-2ba138200bd8"
   },
   "b1bba11f-2b04-4a4a-8095-752c04182af1": {
    "closed_at": null,
@@ -3512,6 +3591,21 @@
    "reopened": 0,
    "title": "Staff Program Manager, Executive Operations & Strategy",
    "url": "https://jobs.lever.co/zoox/ccddfb39-ba95-485c-b18e-b9c3cb08dcec"
+  },
+  "cf38cf65-d821-402d-819b-cb9c89194513": {
+   "closed_at": null,
+   "department": "Powertrain, Thermal, & Electrical Engineering",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "senior electrical harness engineer @ foster city, ca",
+   "location": "Foster City, CA",
+   "posted_at": "2026-11-06T18:32:05+00:00",
+   "posted_history": [
+    "2026-11-06T18:32:05+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Electrical Harness Engineer",
+   "url": "https://jobs.lever.co/zoox/cf38cf65-d821-402d-819b-cb9c89194513"
   },
   "cfb9dff3-844f-443e-9be8-46133eb9e656": {
    "closed_at": null,
@@ -4024,7 +4118,7 @@
    "url": "https://jobs.lever.co/zoox/f2da6b2e-791a-49b1-87e6-d0313b105507"
   },
   "f30603f7-cc6f-41b5-91e5-ead70d880135": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "Places and Build",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4172,6 +4266,21 @@
    "reopened": 0,
    "title": "Manager, Technical Program Management - System Safety for Cross Functional Initiatives",
    "url": "https://jobs.lever.co/zoox/fa7b53e5-b6f4-4912-943c-d20155435180"
+  },
+  "fbc2a7a6-b916-4f3f-b825-a4b3d5d60852": {
+   "closed_at": null,
+   "department": "Fleet Operations",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "process improvement intern @ foster city, ca",
+   "location": "Foster City, CA",
+   "posted_at": "2026-11-07T00:20:36+00:00",
+   "posted_history": [
+    "2026-11-07T00:20:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Process Improvement Intern [2027]",
+   "url": "https://jobs.lever.co/zoox/fbc2a7a6-b916-4f3f-b825-a4b3d5d60852"
   },
   "fc0e28a6-99ba-4298-80b4-a62986363dae": {
    "closed_at": null,

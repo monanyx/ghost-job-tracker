@@ -75,6 +75,10 @@
   {
    "date": "2026-11-06",
    "open": 86
+  },
+  {
+   "date": "2026-11-07",
+   "open": 85
   }
  ],
  "jobs": {
@@ -394,7 +398,7 @@
    "url": "https://jobs.lever.co/spotify/281e7db9-86ba-4a1c-8773-c23b96ed32dc"
   },
   "29252640-3fc6-4ba9-8dac-2838093bab96": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "Marketing",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -559,7 +563,7 @@
    "url": "https://jobs.lever.co/spotify/4e4ab485-06f1-46b1-88e0-44f3fda4b62a"
   },
   "53c07681-f798-4f2c-bef6-513c6d027c9e": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "Podcast Business",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1203,6 +1207,21 @@
    "title": "Data Scientist  - Business Analytics",
    "url": "https://jobs.lever.co/spotify/b4f6cd01-1d5d-41a9-b287-6d10416da03c"
   },
+  "babebec3-0061-4c39-a4ad-c51a54d23567": {
+   "closed_at": null,
+   "department": "Music",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "senior data scientist artist first ai music lab @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-10-08T15:54:35+00:00",
+   "posted_history": [
+    "2026-10-08T15:54:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Data Scientist, Artist-First AI Music lab",
+   "url": "https://jobs.lever.co/spotify/babebec3-0061-4c39-a4ad-c51a54d23567"
+  },
   "bb2c10a2-2bf8-4b21-901e-48b0e2e09cc8": {
    "closed_at": null,
    "department": "Advertising Sales - Enterprise",
@@ -1403,8 +1422,8 @@
    "department": "Experience",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior staff engineer platform partner experience @ london",
-   "location": "London",
+   "fp": "senior staff engineer platform partner experience @ munich",
+   "location": "Munich",
    "posted_at": "2026-08-10T10:56:59+00:00",
    "posted_history": [
     "2026-08-10T10:56:59+00:00"

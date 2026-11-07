@@ -75,6 +75,10 @@
   {
    "date": "2026-11-06",
    "open": 233
+  },
+  {
+   "date": "2026-11-07",
+   "open": 233
   }
  ],
  "jobs": {
@@ -364,7 +368,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7618724003?gh_jid=7618724003"
   },
   "7627681003": {
-   "closed_at": "2026-10-28T10:01:46+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -374,12 +378,12 @@
    "posted_history": [
     "2026-02-12T15:32:09+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Associate Deployment Engineer - Galaxy Graduate Program",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7627681003?gh_jid=7627681003"
   },
   "7627708003": {
-   "closed_at": "2026-10-28T10:01:46+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -389,7 +393,7 @@
    "posted_history": [
     "2026-02-12T15:32:04+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Associate Deployment Engineer - Galaxy Graduate Program",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7627708003?gh_jid=7627708003"
   },
@@ -2539,7 +2543,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7986246003?gh_jid=7986246003"
   },
   "7986440003": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
@@ -3949,7 +3953,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8042640003?gh_jid=8042640003"
   },
   "8042925003": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",

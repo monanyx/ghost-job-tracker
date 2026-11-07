@@ -75,6 +75,10 @@
   {
    "date": "2026-11-06",
    "open": 366
+  },
+  {
+   "date": "2026-11-07",
+   "open": 370
   }
  ],
  "jobs": {
@@ -683,14 +687,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior machine learning engineer maneuvering tech @ mountain view, ca, usa; san francisco, ca, usa; pittsburgh, pa, usa",
+   "fp": "senior machine learning engineer driver refinement validation @ mountain view, ca, usa; san francisco, ca, usa; pittsburgh, pa, usa",
    "location": "Mountain View, CA, USA; San Francisco, CA, USA; Pittsburgh, PA, USA",
    "posted_at": "2025-12-15T16:37:54+00:00",
    "posted_history": [
     "2025-12-15T16:37:54+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Machine Learning Engineer, Maneuvering Tech",
+   "title": "Senior Machine Learning Engineer, Driver Refinement & Validation",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=7456936"
   },
   "7458013": {
@@ -1924,7 +1928,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=7964897"
   },
   "7974252": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2033,14 +2037,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "staff machine learning engineer maneuvering tech @ mountain view, ca, usa; san francisco, ca, usa; pittsburgh, pa, usa",
+   "fp": "staff machine learning engineer driver refinement validation @ mountain view, ca, usa; san francisco, ca, usa; pittsburgh, pa, usa",
    "location": "Mountain View, CA, USA; San Francisco, CA, USA; Pittsburgh, PA, USA",
    "posted_at": "2026-06-11T16:37:09+00:00",
    "posted_history": [
     "2026-06-11T16:37:09+00:00"
    ],
    "reopened": 0,
-   "title": "Staff Machine Learning Engineer, Maneuvering Tech",
+   "title": "Staff Machine Learning Engineer, Driver Refinement & Validation",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8001059"
   },
   "8001797": {
@@ -2164,7 +2168,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8026543"
   },
   "8027001": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2303,14 +2307,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "machine learning engineer maneuvering tech @ mountain view, ca, usa; san francisco, ca, usa; pittsburgh, pa, usa",
+   "fp": "machine learning engineer driver refinement validation @ mountain view, ca, usa; san francisco, ca, usa; pittsburgh, pa, usa",
    "location": "Mountain View, CA, USA; San Francisco, CA, USA; Pittsburgh, PA, USA",
    "posted_at": "2026-06-30T18:18:55+00:00",
    "posted_history": [
     "2026-06-30T18:18:55+00:00"
    ],
    "reopened": 0,
-   "title": "Machine Learning Engineer, Maneuvering Tech",
+   "title": "Machine Learning Engineer, Driver Refinement & Validation",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8039191"
   },
   "8039334": {
@@ -3709,7 +3713,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8168543"
   },
   "8168620": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3990,7 +3994,7 @@
     "2026-09-16T20:08:32+00:00"
    ],
    "reopened": 0,
-   "title": "2027 Summer Intern, MS, PhD, Quantitative Software Engineer",
+   "title": "2027 Summer Intern, MS/PhD, Quantitative Software Engineer",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8197554"
   },
   "8197899": {
@@ -4579,7 +4583,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8222061"
   },
   "8222098": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6393,6 +6397,21 @@
    "title": "Senior Category Manager, IT Software & Hardware",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8350276"
   },
+  "8350535": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "people experience partner @ mountain view, ca, usa",
+   "location": "Mountain View, CA, USA ",
+   "posted_at": "2026-11-06T21:51:56+00:00",
+   "posted_history": [
+    "2026-11-06T21:51:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "People Experience Partner",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8350535"
+  },
   "8350687": {
    "closed_at": null,
    "department": "",
@@ -6407,6 +6426,36 @@
    "reopened": 0,
    "title": "2027 Summer Intern, MS/PhD, Depot Automation",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8350687"
+  },
+  "8350832": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "2027 summer intern ms phd software engineer multiverse @ san francisco, california, usa",
+   "location": "San Francisco, California, USA",
+   "posted_at": "2026-11-06T14:21:23+00:00",
+   "posted_history": [
+    "2026-11-06T14:21:23+00:00"
+   ],
+   "reopened": 0,
+   "title": "2027 Summer Intern, MS/PhD, Software Engineer, Multiverse",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8350832"
+  },
+  "8351210": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "2027 summer intern phd machine learning generative world models controllable simulation @ mountain view, california, united states",
+   "location": "Mountain View, California, United States",
+   "posted_at": "2026-11-06T20:59:41+00:00",
+   "posted_history": [
+    "2026-11-06T20:59:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "2027 Summer Intern, PhD, Machine Learning - Generative World Models & Controllable Simulation",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8351210"
   },
   "8351491": {
    "closed_at": null,
@@ -6467,6 +6516,81 @@
    "reopened": 0,
    "title": "Staff Machine Learning Engineer, AI Infrastructure",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8354804"
+  },
+  "8357254": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "facilities manager east central @ chicago, il, usa; new york, ny, usa; washington, dc, usa",
+   "location": "Chicago, IL, USA; New York, NY, USA; Washington, DC, USA",
+   "posted_at": "2026-11-06T18:47:53+00:00",
+   "posted_history": [
+    "2026-11-06T18:47:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "Facilities Manager East & Central",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8357254"
+  },
+  "8357285": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "facilities market specialist chicago @ chicago, il, usa",
+   "location": "Chicago, IL, USA",
+   "posted_at": "2026-11-06T18:38:51+00:00",
+   "posted_history": [
+    "2026-11-06T18:38:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Facilities Market Specialist, Chicago",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8357285"
+  },
+  "8357287": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "facilities market specialist sf bay area @ san francisco, ca, usa",
+   "location": "San Francisco, CA, USA",
+   "posted_at": "2026-11-06T18:47:15+00:00",
+   "posted_history": [
+    "2026-11-06T18:47:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Facilities Market Specialist, SF Bay Area",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8357287"
+  },
+  "8358262": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "2027 summer intern machine learning ms phd simulation realism @ mountain view, california, united states",
+   "location": "Mountain View, California, United States",
+   "posted_at": "2026-11-06T20:50:56+00:00",
+   "posted_history": [
+    "2026-11-06T20:50:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "2027 Summer Intern, Machine Learning, MS/PhD, Simulation Realism (World Model)",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8358262"
+  },
+  "8360600": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "senior systems engineer vehicle security @ mountain view, ca, usa",
+   "location": "Mountain View, CA, USA",
+   "posted_at": "2026-11-06T23:18:42+00:00",
+   "posted_history": [
+    "2026-11-06T23:18:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Systems Engineer, Vehicle Security",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8360600"
   }
  }
 }

@@ -75,6 +75,10 @@
   {
    "date": "2026-11-06",
    "open": 132
+  },
+  {
+   "date": "2026-11-07",
+   "open": 131
   }
  ],
  "jobs": {
@@ -1309,7 +1313,7 @@
    "url": "https://epicgames.com/careers/jobs/6173450004?gh_jid=6173450004"
   },
   "6173862004": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1579,7 +1583,7 @@
    "url": "https://epicgames.com/careers/jobs/6196661004?gh_jid=6196661004"
   },
   "6200355004": {
-   "closed_at": null,
+   "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2102,6 +2106,21 @@
    "reopened": 0,
    "title": "Senior Programmer, Graphics Tools",
    "url": "https://epicgames.com/careers/jobs/6217252004?gh_jid=6217252004"
+  },
+  "6218206004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-07T10:41:11+00:00",
+   "fp": "player marketing intern @ cary,north carolina,united states",
+   "location": "Cary,North Carolina,United States",
+   "posted_at": "2026-11-06T22:49:54+00:00",
+   "posted_history": [
+    "2026-11-06T22:49:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Player Marketing Intern (MBA)",
+   "url": "https://epicgames.com/careers/jobs/6218206004?gh_jid=6218206004"
   },
   "6218273004": {
    "closed_at": null,
