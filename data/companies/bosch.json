@@ -79,6 +79,10 @@
   {
    "date": "2026-11-07",
    "open": 3000
+  },
+  {
+   "date": "2026-11-08",
+   "open": 3000
   }
  ],
  "jobs": {
@@ -8318,7 +8322,7 @@
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000147099789"
   },
   "744000147127322": {
-   "closed_at": null,
+   "closed_at": "2026-11-08T10:46:34+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -8363,7 +8367,7 @@
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000147145179"
   },
   "744000147145320": {
-   "closed_at": null,
+   "closed_at": "2026-11-08T10:46:34+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -70491,6 +70495,36 @@
    "reopened": 0,
    "title": "Executive Assistant | Bosch Building Technologies",
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160437899"
+  },
+  "744000160483119": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-08T10:46:34+00:00",
+   "fp": "senior process engineer ma @ nanjing, jiangsu, china",
+   "location": "Nanjing, Jiangsu, China",
+   "posted_at": "2026-11-08T07:52:49+00:00",
+   "posted_history": [
+    "2026-11-08T07:52:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Process Engineer_MA",
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160483119"
+  },
+  "744000160484449": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-08T10:46:34+00:00",
+   "fp": "servie sales manager @ mellansel, västernorrlands län, sweden",
+   "location": "Mellansel, Västernorrlands län, Sweden",
+   "posted_at": "2026-11-08T10:00:03+00:00",
+   "posted_history": [
+    "2026-11-08T10:00:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Servie Sales Manager",
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160484449"
   }
  }
 }

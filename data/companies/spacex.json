@@ -79,6 +79,10 @@
   {
    "date": "2026-11-07",
    "open": 2898
+  },
+  {
+   "date": "2026-11-08",
+   "open": 2900
   }
  ],
  "jobs": {
@@ -9788,7 +9792,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8583930002?gh_jid=8583930002"
   },
   "8583974002": {
-   "closed_at": null,
+   "closed_at": "2026-11-08T10:46:34+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -30608,7 +30612,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8784479002?gh_jid=8784479002"
   },
   "8784543002": {
-   "closed_at": null,
+   "closed_at": "2026-11-08T10:46:34+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -41572,6 +41576,21 @@
    "title": "Sr. Logistician (Starship)",
    "url": "https://boards.greenhouse.io/spacex/jobs/8893131002?gh_jid=8893131002"
   },
+  "8893290002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-08T10:46:34+00:00",
+   "fp": "internal fleet driver @ vandenberg, ca",
+   "location": "Vandenberg, CA",
+   "posted_at": "2026-11-07T21:05:24+00:00",
+   "posted_history": [
+    "2026-11-07T21:05:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Internal Fleet Driver",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8893290002?gh_jid=8893290002"
+  },
   "8893292002": {
    "closed_at": null,
    "department": "",
@@ -41601,6 +41620,21 @@
    "reopened": 0,
    "title": "Supplier Quality Specialist (Starship)",
    "url": "https://boards.greenhouse.io/spacex/jobs/8893314002?gh_jid=8893314002"
+  },
+  "8893331002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-08T10:46:34+00:00",
+   "fp": "inventory specialist @ vandenberg, ca",
+   "location": "Vandenberg, CA",
+   "posted_at": "2026-11-07T18:57:26+00:00",
+   "posted_history": [
+    "2026-11-07T18:57:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Inventory Specialist",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8893331002?gh_jid=8893331002"
   },
   "8893406002": {
    "closed_at": null,
@@ -49611,6 +49645,36 @@
    "reopened": 0,
    "title": "Sr. Security Engineer (Vulnerability Management)",
    "url": "https://boards.greenhouse.io/spacex/jobs/8934146002?gh_jid=8934146002"
+  },
+  "8934413002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-08T10:46:34+00:00",
+   "fp": "production coordinator @ long beach, ca",
+   "location": "Long Beach, CA",
+   "posted_at": "2026-11-07T21:14:42+00:00",
+   "posted_history": [
+    "2026-11-07T21:14:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Production Coordinator",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8934413002?gh_jid=8934413002"
+  },
+  "8934430002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-08T10:46:34+00:00",
+   "fp": "talent sourcer temporary @ hawthorne, ca",
+   "location": "Hawthorne, CA",
+   "posted_at": "2026-11-08T03:48:14+00:00",
+   "posted_history": [
+    "2026-11-08T03:48:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Talent Sourcer - Temporary",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8934430002?gh_jid=8934430002"
   }
  }
 }

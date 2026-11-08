@@ -79,6 +79,10 @@
   {
    "date": "2026-11-07",
    "open": 171
+  },
+  {
+   "date": "2026-11-08",
+   "open": 169
   }
  ],
  "jobs": {
@@ -879,7 +883,7 @@
    "url": "https://jobs.ashbyhq.com/ramp/4b3063cb-bb07-40d5-93d3-b7ce556f96e8"
   },
   "4bc09b14-0389-40cd-9d5b-f5557f451d50": {
-   "closed_at": null,
+   "closed_at": "2026-11-08T10:46:34+00:00",
    "department": "IT",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1059,7 +1063,7 @@
    "url": "https://jobs.ashbyhq.com/ramp/606475af-b74f-42c4-978a-dde138a86ac7"
   },
   "6075e1dc-c833-4e27-a789-61d3a596c66c": {
-   "closed_at": null,
+   "closed_at": "2026-11-08T10:46:34+00:00",
    "department": "Security",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",

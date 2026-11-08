@@ -79,6 +79,10 @@
   {
    "date": "2026-11-07",
    "open": 137
+  },
+  {
+   "date": "2026-11-08",
+   "open": 137
   }
  ],
  "jobs": {
@@ -246,6 +250,21 @@
    "reopened": 0,
    "title": "Member of Technical Staff (Software Engineer, Cloud Infrastructure)",
    "url": "https://jobs.ashbyhq.com/Perplexity/0d722589-0f8c-4500-ae79-d3bba5c8a0ea"
+  },
+  "1056951e-8a42-4330-b72c-90162b3cd1c9": {
+   "closed_at": null,
+   "department": "AI Research & Systems",
+   "evergreen": false,
+   "first_seen": "2026-11-08T10:46:34+00:00",
+   "fp": "member of technical staff @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-11-07T20:08:31+00:00",
+   "posted_history": [
+    "2026-11-07T20:08:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff (Software Engineer, AI Policy and Strategic Initiatives)",
+   "url": "https://jobs.ashbyhq.com/Perplexity/1056951e-8a42-4330-b72c-90162b3cd1c9"
   },
   "1523826c-80ca-4e32-95f2-ddd6604afd26": {
    "closed_at": "2026-10-23T08:50:35+00:00",
@@ -1363,7 +1382,7 @@
    "url": "https://jobs.ashbyhq.com/perplexity/7dedcdea-42be-4bb0-b603-791146ff73f0"
   },
   "7e4a95c3-6322-4300-9455-96c511ab2621": {
-   "closed_at": null,
+   "closed_at": "2026-11-08T10:46:34+00:00",
    "department": "AI Research & Systems",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
