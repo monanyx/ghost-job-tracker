@@ -83,6 +83,10 @@
   {
    "date": "2026-11-08",
    "open": 675
+  },
+  {
+   "date": "2026-11-09",
+   "open": 677
   }
  ],
  "jobs": {
@@ -867,7 +871,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5022845008"
   },
   "5025624008": {
-   "closed_at": null,
+   "closed_at": "2026-11-09T12:08:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -8367,7 +8371,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5432425008"
   },
   "5432528008": {
-   "closed_at": null,
+   "closed_at": "2026-11-09T12:08:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -11066,6 +11070,21 @@
    "title": "Research Engineer, Chip Design RL",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5459098008"
   },
+  "5459191008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-09T12:08:42+00:00",
+   "fp": "research engineer cybersecurity rl @ san francisco, ca | new york city, ny",
+   "location": "San Francisco, CA | New York City, NY",
+   "posted_at": "2026-11-08T19:12:32+00:00",
+   "posted_history": [
+    "2026-11-08T19:12:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Research Engineer, Cybersecurity RL",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5459191008"
+  },
   "5459272008": {
    "closed_at": null,
    "department": "",
@@ -12401,6 +12420,36 @@
    "title": "Legal Specialist, Law Enforcement",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5474559008"
   },
+  "5475099008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-09T12:08:42+00:00",
+   "fp": "national security lead apac @ canberra, australia",
+   "location": "Canberra, Australia",
+   "posted_at": "2026-11-09T03:49:33+00:00",
+   "posted_history": [
+    "2026-11-09T03:49:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "National Security Lead, APAC",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5475099008"
+  },
+  "5475156008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-09T12:08:42+00:00",
+   "fp": "revenue strategy and operations anz @ sydney, australia",
+   "location": "Sydney, Australia",
+   "posted_at": "2026-11-09T10:41:07+00:00",
+   "posted_history": [
+    "2026-11-09T10:41:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Revenue Strategy and Operations , ANZ",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5475156008"
+  },
   "5475240008": {
    "closed_at": null,
    "department": "",
@@ -12460,6 +12509,21 @@
    "reopened": 0,
    "title": "Strategic Partner Development, Product Partnerships",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5475830008"
+  },
+  "5476577008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-09T12:08:42+00:00",
+   "fp": "applied ai architect @ seoul, south korea",
+   "location": "Seoul, South Korea",
+   "posted_at": "2026-11-09T06:47:38+00:00",
+   "posted_history": [
+    "2026-11-09T06:47:38+00:00"
+   ],
+   "reopened": 0,
+   "title": "Applied AI Architect",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5476577008"
   }
  }
 }

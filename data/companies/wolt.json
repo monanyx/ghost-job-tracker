@@ -83,9 +83,28 @@
   {
    "date": "2026-11-08",
    "open": 206
+  },
+  {
+   "date": "2026-11-09",
+   "open": 202
   }
  ],
  "jobs": {
+  "6693301": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-09T12:08:42+00:00",
+   "fp": "support associate @ copenhagen, denmark",
+   "location": "Copenhagen, Denmark",
+   "posted_at": "2025-03-10T09:11:39+00:00",
+   "posted_history": [
+    "2025-03-10T09:11:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Support Associate",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/6693301"
+  },
   "6693347": {
    "closed_at": null,
    "department": "",
@@ -908,7 +927,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/7483616"
   },
   "7526832": {
-   "closed_at": null,
+   "closed_at": "2026-11-09T12:08:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
@@ -942,8 +961,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "support team lead @ almaty, kazakhstan",
-   "location": "Almaty, Kazakhstan",
+   "fp": "support team lead @ astana, kazakhstan",
+   "location": "Astana, Kazakhstan",
    "posted_at": "2026-04-30T07:21:33+00:00",
    "posted_history": [
     "2026-04-30T07:21:33+00:00"
@@ -1133,7 +1152,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/7818482"
   },
   "7821228": {
-   "closed_at": null,
+   "closed_at": "2026-11-09T12:08:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
@@ -2603,7 +2622,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8200951"
   },
   "8201361": {
-   "closed_at": null,
+   "closed_at": "2026-11-09T12:08:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3293,7 +3312,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8261826"
   },
   "8261974": {
-   "closed_at": null,
+   "closed_at": "2026-11-09T12:08:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3323,7 +3342,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8264306"
   },
   "8264392": {
-   "closed_at": null,
+   "closed_at": "2026-11-09T12:08:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

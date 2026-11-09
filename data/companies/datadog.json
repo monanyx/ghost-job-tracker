@@ -83,6 +83,10 @@
   {
    "date": "2026-11-08",
    "open": 401
+  },
+  {
+   "date": "2026-11-09",
+   "open": 402
   }
  ],
  "jobs": {
@@ -3102,7 +3106,7 @@
    "url": "https://careers.datadoghq.com/detail/8050591/?gh_jid=8050591"
   },
   "8051068": {
-   "closed_at": null,
+   "closed_at": "2026-11-09T12:08:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5341,8 +5345,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "regional director enterprise sales @ osaka, japan",
-   "location": "Osaka, Japan",
+   "fp": "regional director enterprise sales @ tokyo, japan",
+   "location": "Tokyo, Japan",
    "posted_at": "2026-09-23T02:29:51+00:00",
    "posted_history": [
     "2026-09-23T02:29:51+00:00"
@@ -5356,8 +5360,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "regional director enterprise sales @ osaka, japan",
-   "location": "Osaka, Japan",
+   "fp": "regional director enterprise sales @ tokyo, japan",
+   "location": "Tokyo, Japan",
    "posted_at": "2026-09-23T02:29:53+00:00",
    "posted_history": [
     "2026-09-23T02:29:53+00:00"
@@ -7541,6 +7545,21 @@
    "title": "Mid-Market Account Executive (France)",
    "url": "https://careers.datadoghq.com/detail/8334294/?gh_jid=8334294"
   },
+  "8334640": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-09T12:08:42+00:00",
+   "fp": "senior sales engineer @ melbourne, australia",
+   "location": "Melbourne, Australia",
+   "posted_at": "2026-11-09T00:25:02+00:00",
+   "posted_history": [
+    "2026-11-09T00:25:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Sales Engineer",
+   "url": "https://careers.datadoghq.com/detail/8334640/?gh_jid=8334640"
+  },
   "8335047": {
    "closed_at": null,
    "department": "",
@@ -7840,6 +7859,21 @@
    "reopened": 0,
    "title": "Director, Engineering - Graphing and Visualization",
    "url": "https://careers.datadoghq.com/detail/8359339/?gh_jid=8359339"
+  },
+  "8364908": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-09T12:08:42+00:00",
+   "fp": "senior ai research engineer llm training inference infrastructure @ paris, france",
+   "location": "Paris, France",
+   "posted_at": "2026-11-09T10:13:54+00:00",
+   "posted_history": [
+    "2026-11-09T10:13:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior AI Research Engineer - LLM Training & Inference Infrastructure",
+   "url": "https://careers.datadoghq.com/detail/8364908/?gh_jid=8364908"
   }
  }
 }

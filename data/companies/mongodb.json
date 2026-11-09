@@ -83,6 +83,10 @@
   {
    "date": "2026-11-08",
    "open": 374
+  },
+  {
+   "date": "2026-11-09",
+   "open": 375
   }
  ],
  "jobs": {
@@ -7216,14 +7220,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
-   "fp": "program manager @ dublin, ireland",
+   "fp": "program manager grc audit @ dublin, ireland",
    "location": "Dublin, Ireland",
    "posted_at": "2026-11-03T16:00:02+00:00",
    "posted_history": [
     "2026-11-03T16:00:02+00:00"
    ],
    "reopened": 0,
-   "title": "Program Manager",
+   "title": "Program Manager, GRC Audit",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8337727"
   },
   "8340799": {
@@ -7405,6 +7409,21 @@
    "reopened": 0,
    "title": "Lead, Engineering Backup",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8353315"
+  },
+  "8355268": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-09T12:08:42+00:00",
+   "fp": "senior technical project manager @ germany",
+   "location": "Germany",
+   "posted_at": "2026-11-09T09:55:56+00:00",
+   "posted_history": [
+    "2026-11-09T09:55:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Technical Project Manager",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8355268"
   },
   "8355408": {
    "closed_at": null,

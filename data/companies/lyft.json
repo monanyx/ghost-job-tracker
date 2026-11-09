@@ -83,6 +83,10 @@
   {
    "date": "2026-11-08",
    "open": 166
+  },
+  {
+   "date": "2026-11-09",
+   "open": 165
   }
  ],
  "jobs": {
@@ -1527,7 +1531,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8790623002?gh_jid=8790623002"
   },
   "8790686002": {
-   "closed_at": null,
+   "closed_at": "2026-11-09T12:08:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

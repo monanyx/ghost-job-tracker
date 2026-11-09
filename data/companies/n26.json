@@ -83,6 +83,10 @@
   {
    "date": "2026-11-08",
    "open": 36
+  },
+  {
+   "date": "2026-11-09",
+   "open": 38
   }
  ],
  "jobs": {
@@ -807,7 +811,7 @@
    "url": "https://n26.com/en-eu/careers/positions/8305489?gh_jid=8305489"
   },
   "8305606": {
-   "closed_at": "2026-11-03T11:21:29+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-28T10:01:46+00:00",
@@ -817,7 +821,7 @@
    "posted_history": [
     "2026-10-27T11:26:16+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Analytics Manager - Grow & Engage",
    "url": "https://n26.com/en-eu/careers/positions/8305606?gh_jid=8305606"
   },
@@ -837,7 +841,7 @@
    "url": "https://n26.com/en-eu/careers/positions/8312214?gh_jid=8312214"
   },
   "8330667": {
-   "closed_at": null,
+   "closed_at": "2026-11-09T12:08:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -923,7 +927,7 @@
     "2026-11-06T13:42:22+00:00"
    ],
    "reopened": 0,
-   "title": "AFC Associate - SAR Delegate",
+   "title": "AFC Associate - SAR Delegate (Italian speaker)",
    "url": "https://n26.com/en-eu/careers/positions/8345614?gh_jid=8345614"
   },
   "8345616": {
@@ -938,7 +942,7 @@
     "2026-11-06T13:40:01+00:00"
    ],
    "reopened": 0,
-   "title": "AFC Associate - SAR Writer",
+   "title": "AFC Associate - SAR Writer (Italian speaker)",
    "url": "https://n26.com/en-eu/careers/positions/8345616?gh_jid=8345616"
   },
   "8345813": {
@@ -1030,6 +1034,36 @@
    "reopened": 0,
    "title": "Business Strategy Associate - Lending",
    "url": "https://n26.com/en-eu/careers/positions/8355016?gh_jid=8355016"
+  },
+  "8358521": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-09T12:08:42+00:00",
+   "fp": "forecasting expert @ madrid",
+   "location": "Madrid",
+   "posted_at": "2026-11-09T08:58:30+00:00",
+   "posted_history": [
+    "2026-11-09T08:58:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forecasting Expert",
+   "url": "https://n26.com/en-eu/careers/positions/8358521?gh_jid=8358521"
+  },
+  "8364763": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-09T12:08:42+00:00",
+   "fp": "complaints audit manager @ madrid",
+   "location": "Madrid",
+   "posted_at": "2026-11-09T07:45:54+00:00",
+   "posted_history": [
+    "2026-11-09T07:45:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Complaints Audit Manager",
+   "url": "https://n26.com/en-eu/careers/positions/8364763?gh_jid=8364763"
   }
  }
 }

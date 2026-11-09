@@ -83,6 +83,10 @@
   {
    "date": "2026-11-08",
    "open": 369
+  },
+  {
+   "date": "2026-11-09",
+   "open": 369
   }
  ],
  "jobs": {
@@ -807,7 +811,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=7477172"
   },
   "7480724": {
-   "closed_at": null,
+   "closed_at": "2026-11-09T12:08:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
@@ -3012,7 +3016,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8104309"
   },
   "8106385": {
-   "closed_at": null,
+   "closed_at": "2026-11-09T12:08:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6386,6 +6390,21 @@
    "title": "2027 Summer Intern, PhD, Research Scientist Intern",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8337719"
   },
+  "8346963": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-09T12:08:42+00:00",
+   "fp": "security operations technical program manager @ tempe, az, usa",
+   "location": "Tempe, AZ, USA",
+   "posted_at": "2026-11-09T02:29:51+00:00",
+   "posted_history": [
+    "2026-11-09T02:29:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Security Operations Technical Program Manager",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8346963"
+  },
   "8350276": {
    "closed_at": null,
    "department": "",
@@ -6640,6 +6659,21 @@
    "reopened": 0,
    "title": "Staff Systems Engineer, Driving Behaviors",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8363213"
+  },
+  "8364459": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-09T12:08:42+00:00",
+   "fp": "staff systems test engineer scenario quality and maintenance systems @ mountain view, ca, usa; san francisco, ca, usa",
+   "location": "Mountain View, CA, USA; San Francisco, CA, USA",
+   "posted_at": "2026-11-09T01:22:27+00:00",
+   "posted_history": [
+    "2026-11-09T01:22:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Systems Test Engineer, Scenario Quality and Maintenance Systems",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8364459"
   }
  }
 }

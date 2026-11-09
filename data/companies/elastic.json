@@ -83,6 +83,10 @@
   {
    "date": "2026-11-08",
    "open": 425
+  },
+  {
+   "date": "2026-11-09",
+   "open": 425
   }
  ],
  "jobs": {
@@ -837,7 +841,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8021466&gh_jid=8021466"
   },
   "8023149": {
-   "closed_at": null,
+   "closed_at": "2026-11-09T12:08:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7705,6 +7709,21 @@
    "reopened": 0,
    "title": "Principal Java Engineer - Distributed Systems, Serverless - Elasticsearch",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8352585&gh_jid=8352585"
+  },
+  "8352728": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-09T12:08:42+00:00",
+   "fp": "consulting architect search @ united states",
+   "location": "United States",
+   "posted_at": "2026-11-08T19:40:09+00:00",
+   "posted_history": [
+    "2026-11-08T19:40:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Consulting Architect - Search",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8352728&gh_jid=8352728"
   },
   "8355143": {
    "closed_at": null,

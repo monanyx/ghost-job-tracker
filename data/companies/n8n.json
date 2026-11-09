@@ -83,6 +83,10 @@
   {
    "date": "2026-11-08",
    "open": 48
+  },
+  {
+   "date": "2026-11-09",
+   "open": 51
   }
  ],
  "jobs": {
@@ -496,17 +500,18 @@
    "url": "https://jobs.ashbyhq.com/n8n/5705243b-2eb0-43c5-b7df-c9c18d8d3248"
   },
   "588577b5-f7c6-4b46-9f07-4250000a40ed": {
-   "closed_at": "2026-11-07T10:41:11+00:00",
+   "closed_at": null,
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
    "fp": "low touch customer success manager @ berlin office",
    "location": "Berlin Office",
-   "posted_at": "2026-10-30T17:03:57+00:00",
+   "posted_at": "2026-11-09T11:12:40+00:00",
    "posted_history": [
-    "2026-10-30T17:03:57+00:00"
+    "2026-10-30T17:03:57+00:00",
+    "2026-11-09T11:12:40+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Low-touch Customer Success Manager (Remote - EMEA)",
    "url": "https://jobs.ashbyhq.com/n8n/588577b5-f7c6-4b46-9f07-4250000a40ed"
   },
@@ -873,6 +878,21 @@
    "title": "Forward Deployed Engineer - EMEA",
    "url": "https://jobs.ashbyhq.com/n8n/c9fc97fa-a473-4133-b3cb-502785649ecd"
   },
+  "cc7a3cf6-44ea-4a49-9a0b-f929dea2a0d7": {
+   "closed_at": null,
+   "department": "Finance & Legal",
+   "evergreen": false,
+   "first_seen": "2026-11-09T12:08:42+00:00",
+   "fp": "senior legal counsel product @ berlin office",
+   "location": "Berlin Office",
+   "posted_at": "2026-11-08T14:50:44+00:00",
+   "posted_history": [
+    "2026-11-08T14:50:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Legal Counsel, Product",
+   "url": "https://jobs.ashbyhq.com/n8n/cc7a3cf6-44ea-4a49-9a0b-f929dea2a0d7"
+  },
   "ce930abc-2c80-4f42-adb9-4377bb56c3f1": {
    "closed_at": null,
    "department": "Sales",
@@ -1056,17 +1076,18 @@
    "url": "https://jobs.ashbyhq.com/n8n/ea8efc33-c7b8-4b88-826c-3dca17c3aa47"
   },
   "fe05c209-8069-4a88-aeba-8da23488cd30": {
-   "closed_at": "2026-11-05T11:30:12+00:00",
+   "closed_at": null,
    "department": "Product",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
    "fp": "senior staff product designer @ germany",
    "location": "Germany",
-   "posted_at": "2026-11-02T12:54:25+00:00",
+   "posted_at": "2026-11-09T10:40:44+00:00",
    "posted_history": [
-    "2026-11-02T12:54:25+00:00"
+    "2026-11-02T12:54:25+00:00",
+    "2026-11-09T10:40:44+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior/Staff Product Designer",
    "url": "https://jobs.ashbyhq.com/n8n/fe05c209-8069-4a88-aeba-8da23488cd30"
   },

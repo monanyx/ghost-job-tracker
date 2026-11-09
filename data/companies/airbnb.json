@@ -83,6 +83,10 @@
   {
    "date": "2026-11-08",
    "open": 205
+  },
+  {
+   "date": "2026-11-09",
+   "open": 205
   }
  ],
  "jobs": {
@@ -1827,7 +1831,7 @@
    "url": "https://careers.airbnb.com/positions/8207084?gh_jid=8207084"
   },
   "8207095": {
-   "closed_at": null,
+   "closed_at": "2026-11-09T12:08:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4315,6 +4319,21 @@
    "reopened": 0,
    "title": "Regulatory Operations Lead",
    "url": "https://careers.airbnb.com/positions/8358671?gh_jid=8358671"
+  },
+  "8364499": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-09T12:08:42+00:00",
+   "fp": "senior communications manager korea @ seoul, south korea",
+   "location": "Seoul, South Korea",
+   "posted_at": "2026-11-09T04:10:31+00:00",
+   "posted_history": [
+    "2026-11-09T04:10:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Communications Manager, Korea",
+   "url": "https://careers.airbnb.com/positions/8364499?gh_jid=8364499"
   }
  }
 }

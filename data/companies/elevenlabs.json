@@ -83,6 +83,10 @@
   {
    "date": "2026-11-08",
    "open": 137
+  },
+  {
+   "date": "2026-11-09",
+   "open": 136
   }
  ],
  "jobs": {
@@ -2160,7 +2164,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/a5a999e3-17f6-4f1f-aef3-bab73518244a"
   },
   "a605e308-0d28-42b6-8cbb-03cc7799cecc": {
-   "closed_at": null,
+   "closed_at": "2026-11-09T12:08:42+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

@@ -83,6 +83,10 @@
   {
    "date": "2026-11-08",
    "open": 58
+  },
+  {
+   "date": "2026-11-09",
+   "open": 61
   }
  ],
  "jobs": {
@@ -1181,6 +1185,21 @@
    "title": "Team Manager, Financial Crime, EU (Spanish Speaking)",
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8274038"
   },
+  "8281171": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-09T12:08:42+00:00",
+   "fp": "analytics engineering manager fincrime @ cardiff, london or remote (uk); london; remote (uk)",
+   "location": "Cardiff, London or Remote (UK); London; Remote (UK)",
+   "posted_at": "2026-11-09T09:08:37+00:00",
+   "posted_history": [
+    "2026-11-09T09:08:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Analytics Engineering Manager, FinCrime",
+   "url": "https://job-boards.greenhouse.io/monzo/jobs/8281171"
+  },
   "8281352": {
    "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "",
@@ -1512,7 +1531,7 @@
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8346046"
   },
   "8346054": {
-   "closed_at": null,
+   "closed_at": "2026-11-09T12:08:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",
@@ -1571,6 +1590,36 @@
    "title": "Regulatory Affairs Manager",
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8355433"
   },
+  "8356252": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-09T12:08:42+00:00",
+   "fp": "vaib strategy manager @ cardiff, london or remote (uk)",
+   "location": "Cardiff, London or Remote (UK)",
+   "posted_at": "2026-11-09T10:53:35+00:00",
+   "posted_history": [
+    "2026-11-09T10:53:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "VAIB Strategy Manager",
+   "url": "https://job-boards.greenhouse.io/monzo/jobs/8356252"
+  },
+  "8356553": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-09T12:08:42+00:00",
+   "fp": "external partnerships engagement manager @ cardiff, london or remote (uk)",
+   "location": "Cardiff, London or Remote (UK)",
+   "posted_at": "2026-11-09T11:16:06+00:00",
+   "posted_history": [
+    "2026-11-09T11:16:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "External Partnerships & Engagement Manager",
+   "url": "https://job-boards.greenhouse.io/monzo/jobs/8356553"
+  },
   "8358652": {
    "closed_at": null,
    "department": "",
@@ -1585,6 +1634,21 @@
    "reopened": 0,
    "title": "Property & Facilities Lead",
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8358652"
+  },
+  "8359155": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-09T12:08:42+00:00",
+   "fp": "vaib strategy analyst @ cardiff, london or remote (uk)",
+   "location": "Cardiff, London or Remote (UK)",
+   "posted_at": "2026-11-09T10:44:44+00:00",
+   "posted_history": [
+    "2026-11-09T10:44:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "VAIB Strategy Analyst",
+   "url": "https://job-boards.greenhouse.io/monzo/jobs/8359155"
   }
  }
 }

@@ -83,6 +83,10 @@
   {
    "date": "2026-11-08",
    "open": 2900
+  },
+  {
+   "date": "2026-11-09",
+   "open": 2908
   }
  ],
  "jobs": {
@@ -2922,7 +2926,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8521329002?gh_jid=8521329002"
   },
   "8521383002": {
-   "closed_at": null,
+   "closed_at": "2026-11-09T12:08:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -9597,7 +9601,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8581415002?gh_jid=8581415002"
   },
   "8581417002": {
-   "closed_at": null,
+   "closed_at": "2026-11-09T12:08:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -9702,7 +9706,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8582792002?gh_jid=8582792002"
   },
   "8582845002": {
-   "closed_at": null,
+   "closed_at": "2026-11-09T12:08:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -14607,7 +14611,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8631952002?gh_jid=8631952002"
   },
   "8632015002": {
-   "closed_at": null,
+   "closed_at": "2026-11-09T12:08:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -14982,7 +14986,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8633426002?gh_jid=8633426002"
   },
   "8633437002": {
-   "closed_at": null,
+   "closed_at": "2026-11-09T12:08:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -14997,7 +15001,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8633437002?gh_jid=8633437002"
   },
   "8633448002": {
-   "closed_at": null,
+   "closed_at": "2026-11-09T12:08:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -15687,7 +15691,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8639190002?gh_jid=8639190002"
   },
   "8639247002": {
-   "closed_at": null,
+   "closed_at": "2026-11-09T12:08:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -15717,7 +15721,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8639251002?gh_jid=8639251002"
   },
   "8639268002": {
-   "closed_at": null,
+   "closed_at": "2026-11-09T12:08:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -16842,7 +16846,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8644743002?gh_jid=8644743002"
   },
   "8644858002": {
-   "closed_at": null,
+   "closed_at": "2026-11-09T12:08:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -22797,7 +22801,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8696995002?gh_jid=8696995002"
   },
   "8697007002": {
-   "closed_at": null,
+   "closed_at": "2026-11-09T12:08:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -24192,7 +24196,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8706537002?gh_jid=8706537002"
   },
   "8706543002": {
-   "closed_at": null,
+   "closed_at": "2026-11-09T12:08:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -30897,7 +30901,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8785079002?gh_jid=8785079002"
   },
   "8785502002": {
-   "closed_at": null,
+   "closed_at": "2026-11-09T12:08:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -48641,6 +48645,21 @@
    "title": "Test Specialist - Multiple Shifts (Components) - Level 4/5",
    "url": "https://boards.greenhouse.io/spacex/jobs/8930375002?gh_jid=8930375002"
   },
+  "8930403002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-09T12:08:42+00:00",
+   "fp": "electrical hardware engineer ai satellites @ bastrop, tx",
+   "location": "Bastrop, TX",
+   "posted_at": "2026-11-09T03:39:15+00:00",
+   "posted_history": [
+    "2026-11-09T03:39:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Electrical Hardware Engineer, AI Satellites (Starmind)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8930403002?gh_jid=8930403002"
+  },
   "8930419002": {
    "closed_at": null,
    "department": "",
@@ -48670,6 +48689,21 @@
    "reopened": 0,
    "title": "Site Reliability Engineer",
    "url": "https://boards.greenhouse.io/spacex/jobs/8930443002?gh_jid=8930443002"
+  },
+  "8931042002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-09T12:08:42+00:00",
+   "fp": "optical test engineer ai satellites @ bastrop, tx",
+   "location": "Bastrop, TX",
+   "posted_at": "2026-11-09T02:50:40+00:00",
+   "posted_history": [
+    "2026-11-09T02:50:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Optical Test Engineer, AI Satellites (Starmind)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8931042002?gh_jid=8931042002"
   },
   "8931060002": {
    "closed_at": null,
@@ -48715,6 +48749,21 @@
    "reopened": 0,
    "title": "Database Administrator",
    "url": "https://boards.greenhouse.io/spacex/jobs/8931068002?gh_jid=8931068002"
+  },
+  "8931110002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-09T12:08:42+00:00",
+   "fp": "power electronics engineer ai satellites @ bastrop, tx",
+   "location": "Bastrop, TX",
+   "posted_at": "2026-11-09T02:48:04+00:00",
+   "posted_history": [
+    "2026-11-09T02:48:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "Power Electronics Engineer, AI Satellites (Starmind)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8931110002?gh_jid=8931110002"
   },
   "8931114002": {
    "closed_at": null,
@@ -49121,6 +49170,21 @@
    "title": "Cook",
    "url": "https://boards.greenhouse.io/spacex/jobs/8932393002?gh_jid=8932393002"
   },
+  "8932403002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-09T12:08:42+00:00",
+   "fp": "electrical engineer hardware reliability @ bastrop, tx",
+   "location": "Bastrop, TX",
+   "posted_at": "2026-11-09T02:40:23+00:00",
+   "posted_history": [
+    "2026-11-09T02:40:23+00:00"
+   ],
+   "reopened": 0,
+   "title": "Electrical Engineer, Hardware Reliability (Starlink)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8932403002?gh_jid=8932403002"
+  },
   "8932465002": {
    "closed_at": null,
    "department": "",
@@ -49135,6 +49199,21 @@
    "reopened": 0,
    "title": "Construction Project Manager, Critical Transport (Starship)",
    "url": "https://boards.greenhouse.io/spacex/jobs/8932465002?gh_jid=8932465002"
+  },
+  "8932471002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-09T12:08:42+00:00",
+   "fp": "hardware reliability technician @ bastrop, tx",
+   "location": "Bastrop, TX",
+   "posted_at": "2026-11-09T02:59:58+00:00",
+   "posted_history": [
+    "2026-11-09T02:59:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Hardware Reliability Technician (Starlink)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8932471002?gh_jid=8932471002"
   },
   "8932628002": {
    "closed_at": null,
@@ -49166,6 +49245,36 @@
    "title": "Fiber Supervisor",
    "url": "https://boards.greenhouse.io/spacex/jobs/8932644002?gh_jid=8932644002"
   },
+  "8932696002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-09T12:08:42+00:00",
+   "fp": "hardware reliability specialist @ bastrop, tx",
+   "location": "Bastrop, TX",
+   "posted_at": "2026-11-09T02:30:12+00:00",
+   "posted_history": [
+    "2026-11-09T02:30:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Hardware Reliability Specialist (Starlink)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8932696002?gh_jid=8932696002"
+  },
+  "8932719002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-09T12:08:42+00:00",
+   "fp": "supervisor hardware reliability @ bastrop, tx",
+   "location": "Bastrop, TX",
+   "posted_at": "2026-11-09T04:05:42+00:00",
+   "posted_history": [
+    "2026-11-09T04:05:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Supervisor, Hardware Reliability (Starlink)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8932719002?gh_jid=8932719002"
+  },
   "8932728002": {
    "closed_at": null,
    "department": "",
@@ -49180,6 +49289,21 @@
    "reopened": 0,
    "title": "Network Connectivity Engineer, Fiber Optic Layout (Starmind)",
    "url": "https://boards.greenhouse.io/spacex/jobs/8932728002?gh_jid=8932728002"
+  },
+  "8932736002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-09T12:08:42+00:00",
+   "fp": "wi fi engineer hardware reliability @ bastrop, tx",
+   "location": "Bastrop, TX",
+   "posted_at": "2026-11-09T04:06:09+00:00",
+   "posted_history": [
+    "2026-11-09T04:06:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Wi-Fi Engineer, Hardware Reliability (Starlink)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8932736002?gh_jid=8932736002"
   },
   "8932743002": {
    "closed_at": null,
@@ -49211,6 +49335,21 @@
    "title": "Sourcing Manager, AI Satellite Electronics (Starmind)",
    "url": "https://boards.greenhouse.io/spacex/jobs/8932746002?gh_jid=8932746002"
   },
+  "8932765002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-09T12:08:42+00:00",
+   "fp": "lead electrical hardware reliability engineer @ bastrop, tx",
+   "location": "Bastrop, TX",
+   "posted_at": "2026-11-09T02:56:10+00:00",
+   "posted_history": [
+    "2026-11-09T02:56:10+00:00"
+   ],
+   "reopened": 0,
+   "title": "Lead Electrical Hardware Reliability Engineer (Starlink)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8932765002?gh_jid=8932765002"
+  },
   "8932774002": {
    "closed_at": null,
    "department": "",
@@ -49225,6 +49364,21 @@
    "reopened": 0,
    "title": "Sr. Environmental Regulatory Engineer, Air Permitting",
    "url": "https://boards.greenhouse.io/spacex/jobs/8932774002?gh_jid=8932774002"
+  },
+  "8932776002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-09T12:08:42+00:00",
+   "fp": "sr electrical engineer hardware reliability @ bastrop, tx",
+   "location": "Bastrop, TX",
+   "posted_at": "2026-11-09T02:46:37+00:00",
+   "posted_history": [
+    "2026-11-09T02:46:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Electrical Engineer, Hardware Reliability (Starlink)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8932776002?gh_jid=8932776002"
   },
   "8932780002": {
    "closed_at": null,
@@ -49270,6 +49424,21 @@
    "reopened": 0,
    "title": "Sr. Counsel, Datacenter Development & Infrastructure",
    "url": "https://boards.greenhouse.io/spacex/jobs/8932787002?gh_jid=8932787002"
+  },
+  "8932795002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-09T12:08:42+00:00",
+   "fp": "mechanical engineer hardware reliability @ bastrop, tx",
+   "location": "Bastrop, TX",
+   "posted_at": "2026-11-09T02:52:04+00:00",
+   "posted_history": [
+    "2026-11-09T02:52:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "Mechanical Engineer, Hardware Reliability (Starlink)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8932795002?gh_jid=8932795002"
   },
   "8932797002": {
    "closed_at": null,
@@ -49601,6 +49770,21 @@
    "title": "Loads & Dynamics Engineer (Starshield)",
    "url": "https://boards.greenhouse.io/spacex/jobs/8933985002?gh_jid=8933985002"
   },
+  "8933992002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-09T12:08:42+00:00",
+   "fp": "manager supplier development engineering @ cape canaveral, fl",
+   "location": "Cape Canaveral, FL",
+   "posted_at": "2026-11-09T02:13:52+00:00",
+   "posted_history": [
+    "2026-11-09T02:13:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Supplier Development Engineering",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8933992002?gh_jid=8933992002"
+  },
   "8934049002": {
    "closed_at": null,
    "department": "",
@@ -49615,6 +49799,21 @@
    "reopened": 0,
    "title": "Manufacturing Engineer (Starlink Development)",
    "url": "https://boards.greenhouse.io/spacex/jobs/8934049002?gh_jid=8934049002"
+  },
+  "8934055002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-09T12:08:42+00:00",
+   "fp": "telecommunications engineer fiber @ college station, tx",
+   "location": "College Station, TX",
+   "posted_at": "2026-11-08T17:59:41+00:00",
+   "posted_history": [
+    "2026-11-08T17:59:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Telecommunications Engineer, Fiber",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8934055002?gh_jid=8934055002"
   },
   "8934072002": {
    "closed_at": null,
@@ -49675,6 +49874,111 @@
    "reopened": 0,
    "title": "Talent Sourcer - Temporary",
    "url": "https://boards.greenhouse.io/spacex/jobs/8934430002?gh_jid=8934430002"
+  },
+  "8934560002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-09T12:08:42+00:00",
+   "fp": "principal site reliability engineer @ bastrop, tx",
+   "location": "Bastrop, TX",
+   "posted_at": "2026-11-08T22:49:29+00:00",
+   "posted_history": [
+    "2026-11-08T22:49:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Site Reliability Engineer (Vehicle Engineering)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8934560002?gh_jid=8934560002"
+  },
+  "8934563002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-09T12:08:42+00:00",
+   "fp": "full stack software engineer internal platforms @ hawthorne, ca",
+   "location": "Hawthorne, CA",
+   "posted_at": "2026-11-09T01:15:11+00:00",
+   "posted_history": [
+    "2026-11-09T01:15:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Full Stack Software Engineer, Internal Platforms",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8934563002?gh_jid=8934563002"
+  },
+  "8934566002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-09T12:08:42+00:00",
+   "fp": "full stack software engineer internal platforms @ starbase, tx",
+   "location": "Starbase, TX",
+   "posted_at": "2026-11-09T01:18:42+00:00",
+   "posted_history": [
+    "2026-11-09T01:18:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Full Stack Software Engineer, Internal Platforms",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8934566002?gh_jid=8934566002"
+  },
+  "8934567002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-09T12:08:42+00:00",
+   "fp": "full stack software engineer manufacturing systems @ bastrop, tx",
+   "location": "Bastrop, TX",
+   "posted_at": "2026-11-09T01:29:14+00:00",
+   "posted_history": [
+    "2026-11-09T01:29:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Full Stack Software Engineer, Manufacturing Systems",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8934567002?gh_jid=8934567002"
+  },
+  "8934568002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-09T12:08:42+00:00",
+   "fp": "sr full stack software engineer @ bastrop, tx",
+   "location": "Bastrop, TX",
+   "posted_at": "2026-11-09T01:29:53+00:00",
+   "posted_history": [
+    "2026-11-09T01:29:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Full Stack Software Engineer",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8934568002?gh_jid=8934568002"
+  },
+  "8934569002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-09T12:08:42+00:00",
+   "fp": "sr full stack software engineer manufacturing systems @ bastrop, tx",
+   "location": "Bastrop, TX",
+   "posted_at": "2026-11-09T01:30:36+00:00",
+   "posted_history": [
+    "2026-11-09T01:30:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Full Stack Software Engineer, Manufacturing Systems",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8934569002?gh_jid=8934569002"
+  },
+  "8934570002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-09T12:08:42+00:00",
+   "fp": "sr full stack engineer fight software @ hawthorne, ca",
+   "location": "Hawthorne, CA",
+   "posted_at": "2026-11-09T01:48:11+00:00",
+   "posted_history": [
+    "2026-11-09T01:48:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Full Stack Engineer, Fight Software",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8934570002?gh_jid=8934570002"
   }
  }
 }

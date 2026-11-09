@@ -83,6 +83,10 @@
   {
    "date": "2026-11-08",
    "open": 380
+  },
+  {
+   "date": "2026-11-09",
+   "open": 379
   }
  ],
  "jobs": {
@@ -1947,7 +1951,7 @@
    "url": "https://careers.hellofresh.com/global/en/job/8121142?gh_jid=8121142"
   },
   "8124420": {
-   "closed_at": null,
+   "closed_at": "2026-11-09T12:08:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3357,7 +3361,7 @@
    "url": "https://careers.hellofresh.com/global/en/job/8171541?gh_jid=8171541"
   },
   "8172825": {
-   "closed_at": null,
+   "closed_at": "2026-11-09T12:08:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3552,7 +3556,7 @@
    "url": "https://careers.hellofresh.com/global/en/job/8176723?gh_jid=8176723"
   },
   "8179382": {
-   "closed_at": null,
+   "closed_at": "2026-11-09T12:08:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
@@ -4467,7 +4471,7 @@
    "url": "https://careers.hellofresh.com/global/en/job/8222416?gh_jid=8222416"
   },
   "8222546": {
-   "closed_at": null,
+   "closed_at": "2026-11-09T12:08:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4917,7 +4921,7 @@
    "url": "https://careers.hellofresh.com/global/en/job/8234489?gh_jid=8234489"
   },
   "8236264": {
-   "closed_at": null,
+   "closed_at": "2026-11-09T12:08:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6042,7 +6046,7 @@
    "url": "https://careers.hellofresh.com/global/en/job/8266597?gh_jid=8266597"
   },
   "8267131": {
-   "closed_at": "2026-11-06T11:30:42+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6052,7 +6056,7 @@
    "posted_history": [
     "2026-10-13T09:18:14+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Head of Photo Production (All genders)",
    "url": "https://careers.hellofresh.com/global/en/job/8267131?gh_jid=8267131"
   },
@@ -6376,14 +6380,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "staff data scientist @ sydney, new south wales, australia",
+   "fp": "senior data scientist @ sydney, new south wales, australia",
    "location": "Sydney, New South Wales, Australia",
    "posted_at": "2026-10-14T23:21:31+00:00",
    "posted_history": [
     "2026-10-14T23:21:31+00:00"
    ],
    "reopened": 0,
-   "title": "Staff Data Scientist",
+   "title": "Senior Data Scientist",
    "url": "https://careers.hellofresh.com/global/en/job/8280296?gh_jid=8280296"
   },
   "8280627": {
@@ -6417,7 +6421,7 @@
    "url": "https://careers.hellofresh.com/global/en/job/8280765?gh_jid=8280765"
   },
   "8280899": {
-   "closed_at": "2026-10-25T08:43:53+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
@@ -6427,7 +6431,7 @@
    "posted_history": [
     "2026-10-22T09:32:51+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Software Engineer - Marketing Automation (all genders)",
    "url": "https://careers.hellofresh.com/global/en/job/8280899?gh_jid=8280899"
   },
@@ -8082,7 +8086,7 @@
    "url": "https://careers.hellofresh.com/global/en/job/8349401?gh_jid=8349401"
   },
   "8349688": {
-   "closed_at": "2026-11-06T11:30:42+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
@@ -8092,7 +8096,7 @@
    "posted_history": [
     "2026-11-03T15:42:51+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Head of Video (all genders)",
    "url": "https://careers.hellofresh.com/global/en/job/8349688?gh_jid=8349688"
   },
@@ -8350,6 +8354,21 @@
    "reopened": 0,
    "title": "[US DC] Associate Field Learning Manager",
    "url": "https://careers.hellofresh.com/global/en/job/8353849?gh_jid=8353849"
+  },
+  "8355109": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-09T12:08:42+00:00",
+   "fp": "senior global mobility manager @ berlin, berlin, germany",
+   "location": "Berlin, Berlin, Germany",
+   "posted_at": "2026-11-09T09:39:01+00:00",
+   "posted_history": [
+    "2026-11-09T09:39:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Global Mobility Manager (all genders)",
+   "url": "https://careers.hellofresh.com/global/en/job/8355109?gh_jid=8355109"
   },
   "8356005": {
    "closed_at": null,

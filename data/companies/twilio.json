@@ -83,6 +83,10 @@
   {
    "date": "2026-11-08",
    "open": 128
+  },
+  {
+   "date": "2026-11-09",
+   "open": 129
   }
  ],
  "jobs": {
@@ -1936,14 +1940,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "people generalist @ remote - india",
+   "fp": "hr partner @ remote - india",
    "location": "Remote - India",
    "posted_at": "2026-10-09T16:46:45+00:00",
    "posted_history": [
     "2026-10-09T16:46:45+00:00"
    ],
    "reopened": 0,
-   "title": "People Generalist",
+   "title": "HR Partner",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8256431"
   },
   "8256912": {
@@ -2890,6 +2894,21 @@
    "reopened": 0,
    "title": "Staff Software Engineer, Mobile (P4)",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8356548"
+  },
+  "8362926": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-09T12:08:42+00:00",
+   "fp": "senior manager strategic accounts @ remote - japan",
+   "location": "Remote - Japan",
+   "posted_at": "2026-11-09T03:20:16+00:00",
+   "posted_history": [
+    "2026-11-09T03:20:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Strategic Accounts",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8362926"
   }
  }
 }

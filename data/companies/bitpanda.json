@@ -83,6 +83,10 @@
   {
    "date": "2026-11-08",
    "open": 43
+  },
+  {
+   "date": "2026-11-09",
+   "open": 42
   }
  ],
  "jobs": {
@@ -522,7 +526,7 @@
    "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4989839101"
   },
   "4995059101": {
-   "closed_at": null,
+   "closed_at": "2026-11-09T12:08:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

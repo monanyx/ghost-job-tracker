@@ -83,6 +83,10 @@
   {
    "date": "2026-11-08",
    "open": 464
+  },
+  {
+   "date": "2026-11-09",
+   "open": 465
   }
  ],
  "jobs": {
@@ -2412,7 +2416,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8098311?gh_jid=8098311"
   },
   "8098922": {
-   "closed_at": null,
+   "closed_at": "2026-11-09T12:08:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7347,7 +7351,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8311164?gh_jid=8311164"
   },
   "8311366": {
-   "closed_at": null,
+   "closed_at": "2026-11-09T12:08:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
@@ -7495,6 +7499,36 @@
    "reopened": 0,
    "title": "Customer Reliability Engineer",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8317751?gh_jid=8317751"
+  },
+  "8317920": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-09T12:08:42+00:00",
+   "fp": "inside sales representative @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-09T10:28:52+00:00",
+   "posted_history": [
+    "2026-11-09T10:28:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "Inside Sales Representative",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8317920?gh_jid=8317920"
+  },
+  "8317970": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-09T12:08:42+00:00",
+   "fp": "inside sales representative @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-09T10:31:58+00:00",
+   "posted_history": [
+    "2026-11-09T10:31:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Inside Sales Representative",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8317970?gh_jid=8317970"
   },
   "8319231": {
    "closed_at": null,
@@ -8171,6 +8205,21 @@
    "title": "Senior Customer Engineer - Montreal, QC",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8335624?gh_jid=8335624"
   },
+  "8336559": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-09T12:08:42+00:00",
+   "fp": "senior product manager agentic search @ in-office",
+   "location": "In-Office",
+   "posted_at": "2026-11-03T16:07:53+00:00",
+   "posted_history": [
+    "2026-11-03T16:07:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Manager, Agentic Search",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8336559?gh_jid=8336559"
+  },
   "8336674": {
    "closed_at": null,
    "department": "",
@@ -8386,14 +8435,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-06T11:30:42+00:00",
-   "fp": "hr operations specialist @ hybrid",
+   "fp": "people operations specialist @ hybrid",
    "location": "Hybrid",
    "posted_at": "2026-11-06T09:26:06+00:00",
    "posted_history": [
     "2026-11-06T09:26:06+00:00"
    ],
    "reopened": 0,
-   "title": "HR Operations Specialist",
+   "title": "People Operations Specialist",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8354692?gh_jid=8354692"
   },
   "8354857": {

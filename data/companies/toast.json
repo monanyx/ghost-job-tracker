@@ -83,6 +83,10 @@
   {
    "date": "2026-11-08",
    "open": 332
+  },
+  {
+   "date": "2026-11-09",
+   "open": 334
   }
  ],
  "jobs": {
@@ -2907,7 +2911,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=8161736"
   },
   "8162174": {
-   "closed_at": "2026-11-07T10:41:11+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
@@ -2917,7 +2921,7 @@
    "posted_history": [
     "2026-10-23T19:36:36+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Software Engineer, Consumer",
    "url": "https://careers.toasttab.com/jobs?gh_jid=8162174"
   },
@@ -3762,7 +3766,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=8215834"
   },
   "8219877": {
-   "closed_at": "2026-11-02T11:41:30+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -3772,7 +3776,7 @@
    "posted_history": [
     "2026-10-29T10:53:56+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Corporate Security Engineer",
    "url": "https://careers.toasttab.com/jobs?gh_jid=8219877"
   },
@@ -5937,7 +5941,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=8288350"
   },
   "8288358": {
-   "closed_at": "2026-11-05T11:30:12+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5947,7 +5951,7 @@
    "posted_history": [
     "2026-10-16T06:11:37+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Customer Care Tech Specialist - Voice Process",
    "url": "https://careers.toasttab.com/jobs?gh_jid=8288358"
   },
@@ -6582,7 +6586,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=8311088"
   },
   "8311872": {
-   "closed_at": null,
+   "closed_at": "2026-11-09T12:08:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
@@ -7497,7 +7501,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=8345739"
   },
   "8345741": {
-   "closed_at": null,
+   "closed_at": "2026-11-09T12:08:42+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-06T11:30:42+00:00",
@@ -8185,6 +8189,21 @@
    "reopened": 0,
    "title": "Territory Account Executive , Retail - Bartlett, IL",
    "url": "https://careers.toasttab.com/jobs?gh_jid=8360368"
+  },
+  "8363046": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-09T12:08:42+00:00",
+   "fp": "solutions lead international upmarket @ remote, usa",
+   "location": "Remote, USA",
+   "posted_at": "2026-11-08T14:15:53+00:00",
+   "posted_history": [
+    "2026-11-08T14:15:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "Solutions Lead, International Upmarket",
+   "url": "https://careers.toasttab.com/jobs?gh_jid=8363046"
   }
  }
 }
