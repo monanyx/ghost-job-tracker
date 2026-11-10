@@ -87,6 +87,10 @@
   {
    "date": "2026-11-09",
    "open": 85
+  },
+  {
+   "date": "2026-11-10",
+   "open": 86
   }
  ],
  "jobs": {
@@ -271,7 +275,7 @@
    "url": "https://jobs.lever.co/spotify/1ee5dcb7-a5fe-465b-91da-d42ebab374c8"
   },
   "1f56d4be-4e54-441a-ad05-946b9efcc391": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Podcast Business",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -465,6 +469,21 @@
    "title": "Marketing Lead - Colombia",
    "url": "https://jobs.lever.co/spotify/35fb13f5-27fe-40e4-9ec9-61be91e73a2b"
   },
+  "3616d255-dd0f-4771-a0c8-92bdc2abdccd": {
+   "closed_at": null,
+   "department": "Accounting",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "senior accountant general ledger accounting @ stockholm",
+   "location": "Stockholm",
+   "posted_at": "2026-11-09T13:53:42+00:00",
+   "posted_history": [
+    "2026-11-09T13:53:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Accountant, General Ledger Accounting",
+   "url": "https://jobs.lever.co/spotify/3616d255-dd0f-4771-a0c8-92bdc2abdccd"
+  },
   "4310f31c-90e1-4e8d-bdcf-dce39c145b8c": {
    "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "Audio Books & Gated Content",
@@ -586,7 +605,7 @@
    "url": "https://jobs.lever.co/spotify/53c07681-f798-4f2c-bef6-513c6d027c9e"
   },
   "56ea6f2e-f20b-4e46-ab94-d3eb0a89482d": {
-   "closed_at": "2026-11-03T11:21:29+00:00",
+   "closed_at": null,
    "department": "Music",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
@@ -596,7 +615,7 @@
    "posted_history": [
     "2026-09-10T13:13:31+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Data Scientist - Music Promotion",
    "url": "https://jobs.lever.co/spotify/56ea6f2e-f20b-4e46-ab94-d3eb0a89482d"
   },
@@ -841,7 +860,7 @@
    "url": "https://jobs.lever.co/spotify/819f584f-84a5-485d-8082-3412545f6c8a"
   },
   "8a9cc53c-48c0-4d43-8287-d81ab09e74fa": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Company Planning",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -884,6 +903,21 @@
    "reopened": 0,
    "title": "Legal Counsel, Litigation and Copyright",
    "url": "https://jobs.lever.co/spotify/8d54dd6d-d7e0-4298-b051-423bcec4089e"
+  },
+  "9057bb9b-3aa2-49ba-9fd0-a9395018d0ea": {
+   "closed_at": null,
+   "department": "Marketing",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "retention engagement marketing lead @ mumbai",
+   "location": "Mumbai",
+   "posted_at": "2026-11-09T18:16:22+00:00",
+   "posted_history": [
+    "2026-11-09T18:16:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Retention & Engagement Marketing Lead",
+   "url": "https://jobs.lever.co/spotify/9057bb9b-3aa2-49ba-9fd0-a9395018d0ea"
   },
   "92375b47-968c-4bad-83ee-c89b26b24e1d": {
    "closed_at": null,
@@ -1066,7 +1100,7 @@
    "url": "https://jobs.lever.co/spotify/9eca14d3-8e0b-46de-8161-704e07f3d9d0"
   },
   "9eeb10f9-6b63-4113-95dd-137519120084": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Subscriptions R&D",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1139,6 +1173,21 @@
    "reopened": 0,
    "title": "Markets Strategy & Operations Manager, SEA",
    "url": "https://jobs.lever.co/spotify/a3c9129a-2160-4f3b-a2b5-d07868074aa1"
+  },
+  "a4651332-6400-40e8-8c22-5491e7a34161": {
+   "closed_at": null,
+   "department": "Accounting",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "analyst royalty operations @ stockholm",
+   "location": "Stockholm",
+   "posted_at": "2026-11-09T20:04:59+00:00",
+   "posted_history": [
+    "2026-11-09T20:04:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Analyst, Royalty Operations",
+   "url": "https://jobs.lever.co/spotify/a4651332-6400-40e8-8c22-5491e7a34161"
   },
   "a4c49acb-a095-4452-ad9e-69e4b778c256": {
    "closed_at": null,
@@ -1471,7 +1520,7 @@
    "url": "https://jobs.lever.co/spotify/d174a24c-bf16-4661-9b9a-32396e883c25"
   },
   "d1df9e53-27a1-4399-aa8b-7144cf634360": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Platform",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1649,6 +1698,21 @@
    "reopened": 0,
    "title": "Senior Product Manager - Audiobooks Format Foundations",
    "url": "https://jobs.lever.co/spotify/e7b01c1e-4246-4f31-83ea-9219c8b22c83"
+  },
+  "ea20d13d-aedc-4d02-a4aa-b6d6b1400aed": {
+   "closed_at": null,
+   "department": "Personalization",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "machine learning engineering manager ii @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-11-09T15:33:48+00:00",
+   "posted_history": [
+    "2026-11-09T15:33:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "Machine Learning Engineering Manager II",
+   "url": "https://jobs.lever.co/spotify/ea20d13d-aedc-4d02-a4aa-b6d6b1400aed"
   },
   "ed409ff1-a241-4c2c-96ea-c988ca131671": {
    "closed_at": null,

@@ -87,6 +87,10 @@
   {
    "date": "2026-11-09",
    "open": 168
+  },
+  {
+   "date": "2026-11-10",
+   "open": 169
   }
  ],
  "jobs": {
@@ -1040,8 +1044,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "research scientist ai safety and alignment @ san francisco, ca; new york, ny",
-   "location": "San Francisco, CA; New York, NY",
+   "fp": "research scientist ai safety and alignment @ san francisco, ca",
+   "location": "San Francisco, CA",
    "posted_at": "2026-03-20T18:48:59+00:00",
    "posted_history": [
     "2026-03-20T18:48:59+00:00"
@@ -1715,8 +1719,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "executive assistant @ washington, dc",
-   "location": "Washington, DC",
+   "fp": "executive assistant @ san francisco, ca; washington, dc",
+   "location": "San Francisco, CA; Washington, DC",
    "posted_at": "2026-07-23T13:54:56+00:00",
    "posted_history": [
     "2026-07-23T13:54:56+00:00"
@@ -2041,7 +2045,7 @@
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4722998005"
   },
   "4723000005": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3224,6 +3228,36 @@
    "reopened": 0,
    "title": "Technical Revenue Accounting Manager",
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4751693005"
+  },
+  "4752554005": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "ai policy lead @ new york, ny; san francisco, ca; washington, dc",
+   "location": "New York, NY; San Francisco, CA; Washington, DC",
+   "posted_at": "2026-11-09T19:34:29+00:00",
+   "posted_history": [
+    "2026-11-09T19:34:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "AI Policy Lead",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4752554005"
+  },
+  "4752556005": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "us executive branch policy international engagement lead @ washington, dc",
+   "location": "Washington, DC",
+   "posted_at": "2026-11-09T19:35:49+00:00",
+   "posted_history": [
+    "2026-11-09T19:35:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "US Executive Branch Policy & International Engagement Lead",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4752556005"
   }
  }
 }

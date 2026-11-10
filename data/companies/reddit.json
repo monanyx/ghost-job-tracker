@@ -87,6 +87,10 @@
   {
    "date": "2026-11-09",
    "open": 163
+  },
+  {
+   "date": "2026-11-10",
+   "open": 157
   }
  ],
  "jobs": {
@@ -466,7 +470,7 @@
    "url": "https://job-boards.greenhouse.io/reddit/jobs/7954001"
   },
   "7954598": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -660,8 +664,23 @@
    "title": "Staff Machine Learning Engineer, Ads Foundational Representations",
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8018517"
   },
-  "8022260": {
+  "8018555": {
    "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "staff sre site experience @ remote - united states",
+   "location": "Remote - United States",
+   "posted_at": "2026-06-19T15:28:52+00:00",
+   "posted_history": [
+    "2026-06-19T15:28:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff SRE, Site Experience",
+   "url": "https://job-boards.greenhouse.io/reddit/jobs/8018555"
+  },
+  "8022260": {
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -676,7 +695,7 @@
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8022260"
   },
   "8022441": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -691,7 +710,7 @@
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8022441"
   },
   "8022446": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -706,7 +725,7 @@
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8022446"
   },
   "8022447": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -721,7 +740,7 @@
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8022447"
   },
   "8022448": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -736,7 +755,7 @@
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8022448"
   },
   "8022449": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -856,7 +875,7 @@
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8044767"
   },
   "8048988": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1981,7 +2000,7 @@
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8205702"
   },
   "8211850": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2101,7 +2120,7 @@
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8237639"
   },
   "8238227": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -2820,6 +2839,21 @@
    "title": "Senior Software Engineer, Infrastructure Engineering",
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8331341"
   },
+  "8331370": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "product manager developer ecosystem @ remote - united states",
+   "location": "Remote - United States",
+   "posted_at": "2026-11-09T18:38:01+00:00",
+   "posted_history": [
+    "2026-11-09T18:38:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Manager, Developer Ecosystem",
+   "url": "https://job-boards.greenhouse.io/reddit/jobs/8331370"
+  },
   "8334138": {
    "closed_at": null,
    "department": "",
@@ -2954,6 +2988,36 @@
    "reopened": 0,
    "title": "Senior Client Partner, Mid-Market Sales (Goods)",
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8360267"
+  },
+  "8369169": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "senior staff sre site experience @ remote - united states",
+   "location": "Remote - United States",
+   "posted_at": "2026-11-10T01:05:06+00:00",
+   "posted_history": [
+    "2026-11-10T01:05:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Staff SRE, Site Experience",
+   "url": "https://job-boards.greenhouse.io/reddit/jobs/8369169"
+  },
+  "8369767": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "senior sre site experience @ remote - united states",
+   "location": "Remote - United States",
+   "posted_at": "2026-11-10T00:48:16+00:00",
+   "posted_history": [
+    "2026-11-10T00:48:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior SRE, Site Experience",
+   "url": "https://job-boards.greenhouse.io/reddit/jobs/8369767"
   }
  }
 }

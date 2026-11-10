@@ -87,11 +87,30 @@
   {
    "date": "2026-11-09",
    "open": 121
+  },
+  {
+   "date": "2026-11-10",
+   "open": 115
   }
  ],
  "jobs": {
-  "010063bd-6083-4fc0-a455-e6f0193b5347": {
+  "006079b2-d763-4f08-9beb-1533171f66c2": {
    "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "strategic account executive enterprise philippines @ philippines",
+   "location": "Philippines",
+   "posted_at": "2026-11-09T19:57:04+00:00",
+   "posted_history": [
+    "2026-11-09T19:57:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Account Executive, Enterprise - Philippines",
+   "url": "https://jobs.ashbyhq.com/cursor/006079b2-d763-4f08-9beb-1533171f66c2"
+  },
+  "010063bd-6083-4fc0-a455-e6f0193b5347": {
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -106,7 +125,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/010063bd-6083-4fc0-a455-e6f0193b5347"
   },
   "0130118d-1cce-4eea-8325-2fc95ab6c584": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Customer Success",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -120,8 +139,53 @@
    "title": "AI Deployment Manager, Scale",
    "url": "https://jobs.ashbyhq.com/cursor/0130118d-1cce-4eea-8325-2fc95ab6c584"
   },
-  "0320a8db-cb1b-407b-bd62-b23734b83330": {
+  "01396f08-3acd-4e0c-9782-a6944fd2a957": {
    "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "sales development representative anz @ australia",
+   "location": "Australia",
+   "posted_at": "2026-11-09T20:14:53+00:00",
+   "posted_history": [
+    "2026-11-09T20:14:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales Development Representative - ANZ",
+   "url": "https://jobs.ashbyhq.com/cursor/01396f08-3acd-4e0c-9782-a6944fd2a957"
+  },
+  "014605a9-3a17-4f7d-9037-6c8bb3278e08": {
+   "closed_at": null,
+   "department": "Solutions",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "field engineer @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-11-09T21:22:15+00:00",
+   "posted_history": [
+    "2026-11-09T21:22:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Field Engineer",
+   "url": "https://jobs.ashbyhq.com/cursor/014605a9-3a17-4f7d-9037-6c8bb3278e08"
+  },
+  "02139aed-c356-47e6-88f6-6ff1a1bb266f": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "strategic account executive enterprise thailand @ singapore",
+   "location": "Singapore",
+   "posted_at": "2026-11-09T20:25:46+00:00",
+   "posted_history": [
+    "2026-11-09T20:25:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Account Executive, Enterprise - Thailand",
+   "url": "https://jobs.ashbyhq.com/cursor/02139aed-c356-47e6-88f6-6ff1a1bb266f"
+  },
+  "0320a8db-cb1b-407b-bd62-b23734b83330": {
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -136,7 +200,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/0320a8db-cb1b-407b-bd62-b23734b83330"
   },
   "03b454f2-c586-48cb-a19c-5fc57be55f43": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -151,7 +215,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/03b454f2-c586-48cb-a19c-5fc57be55f43"
   },
   "040ac0f8-dba7-4d13-8171-b902e925f334": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Solutions",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -165,8 +229,53 @@
    "title": "Regional Director, Field Engineering - Verticals",
    "url": "https://jobs.ashbyhq.com/cursor/040ac0f8-dba7-4d13-8171-b902e925f334"
   },
-  "066afe7d-e580-4f13-88d9-828a50bea894": {
+  "0473120a-7dd7-4604-b5f6-0b834cc6e782": {
    "closed_at": null,
+   "department": "Solutions",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "regional director forward deployed engineering public sector @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2026-11-09T21:17:17+00:00",
+   "posted_history": [
+    "2026-11-09T21:17:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Regional Director, Forward Deployed Engineering - Public Sector",
+   "url": "https://jobs.ashbyhq.com/cursor/0473120a-7dd7-4604-b5f6-0b834cc6e782"
+  },
+  "053a8b5a-32bc-4a08-8dad-b4fc20f2883c": {
+   "closed_at": null,
+   "department": "Customer Success",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "ai deployment manager scale @ remote",
+   "location": "Remote",
+   "posted_at": "2026-11-09T20:11:35+00:00",
+   "posted_history": [
+    "2026-11-09T20:11:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "AI Deployment Manager, Scale",
+   "url": "https://jobs.ashbyhq.com/cursor/053a8b5a-32bc-4a08-8dad-b4fc20f2883c"
+  },
+  "06675830-9b99-4347-8436-8110ca9c99a4": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "software engineer research tooling @ palo alto, ca",
+   "location": "Palo Alto, CA",
+   "posted_at": "2026-11-10T00:22:31+00:00",
+   "posted_history": [
+    "2026-11-10T00:22:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Research Tooling",
+   "url": "https://jobs.ashbyhq.com/cursor/06675830-9b99-4347-8436-8110ca9c99a4"
+  },
+  "066afe7d-e580-4f13-88d9-828a50bea894": {
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Solutions",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -181,7 +290,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/066afe7d-e580-4f13-88d9-828a50bea894"
   },
   "0a82f564-de1b-4c72-9ba4-10cf2b63c483": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Solutions",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -241,7 +350,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/0b37a162-0bba-4627-8ec9-e497080abace"
   },
   "0cf937d6-ed98-42fa-a737-bb3f9f9b8aed": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "User Ops",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -255,8 +364,23 @@
    "title": "Technical Support Engineering Leader, Singapore, Australia, New Zealand, Indonesia",
    "url": "https://jobs.ashbyhq.com/cursor/0cf937d6-ed98-42fa-a737-bb3f9f9b8aed"
   },
-  "0ec39ed7-a5dc-4551-bb26-b7f4f9fb4a74": {
+  "0e02e92d-3621-432f-b9e5-00472a563180": {
    "closed_at": null,
+   "department": "Marketing",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "head of americas field marketing @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-09T23:31:32+00:00",
+   "posted_history": [
+    "2026-11-09T23:31:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Head of Americas Field Marketing",
+   "url": "https://jobs.ashbyhq.com/cursor/0e02e92d-3621-432f-b9e5-00472a563180"
+  },
+  "0ec39ed7-a5dc-4551-bb26-b7f4f9fb4a74": {
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -271,7 +395,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/0ec39ed7-a5dc-4551-bb26-b7f4f9fb4a74"
   },
   "0ecf8ce6-a31a-410a-a49c-d73e76a94c49": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -285,8 +409,38 @@
    "title": "Strategic Account Executive, Healthcare",
    "url": "https://jobs.ashbyhq.com/cursor/0ecf8ce6-a31a-410a-a49c-d73e76a94c49"
   },
-  "123af173-6f9b-4089-9d96-d0c028b9e841": {
+  "1001d08e-741f-489f-9a87-702bd05bb5ce": {
    "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "account executive geo enterprise @ austin, tx",
+   "location": "Austin, TX",
+   "posted_at": "2026-11-09T19:38:49+00:00",
+   "posted_history": [
+    "2026-11-09T19:38:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, Geo Enterprise",
+   "url": "https://jobs.ashbyhq.com/cursor/1001d08e-741f-489f-9a87-702bd05bb5ce"
+  },
+  "1229c0a1-f3f8-4739-88f3-b576248e8c08": {
+   "closed_at": null,
+   "department": "Solutions",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "field engineer south korea @ south korea",
+   "location": "South Korea",
+   "posted_at": "2026-11-09T19:59:28+00:00",
+   "posted_history": [
+    "2026-11-09T19:59:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Field Engineer - South Korea",
+   "url": "https://jobs.ashbyhq.com/cursor/1229c0a1-f3f8-4739-88f3-b576248e8c08"
+  },
+  "123af173-6f9b-4089-9d96-d0c028b9e841": {
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Marketing",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -301,7 +455,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/123af173-6f9b-4089-9d96-d0c028b9e841"
   },
   "1240b4aa-8074-4afb-ae36-a690869c8233": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -316,7 +470,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/1240b4aa-8074-4afb-ae36-a690869c8233"
   },
   "13517b5d-1c6c-4720-9650-b1d0db72c697": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Customer Success",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -345,8 +499,23 @@
    "title": "Account Executive, Commercial",
    "url": "https://jobs.ashbyhq.com/cursor/13ceadb8-638f-40c7-a59d-70dab2f4de0b"
   },
-  "166c3951-1d2a-4e61-b79b-bedefe96073b": {
+  "164e27cd-289e-4bcd-8aaf-5280e75c5ed6": {
    "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "software engineer new grad 2027 @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-10T00:20:41+00:00",
+   "posted_history": [
+    "2026-11-10T00:20:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, New Grad 2027",
+   "url": "https://jobs.ashbyhq.com/cursor/164e27cd-289e-4bcd-8aaf-5280e75c5ed6"
+  },
+  "166c3951-1d2a-4e61-b79b-bedefe96073b": {
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Solutions",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -361,7 +530,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/166c3951-1d2a-4e61-b79b-bedefe96073b"
   },
   "167f0e93-6915-4d56-803a-be89d1441fb5": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -376,7 +545,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/167f0e93-6915-4d56-803a-be89d1441fb5"
   },
   "1703501f-53a1-4307-93ec-84b723be92ef": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -391,7 +560,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/1703501f-53a1-4307-93ec-84b723be92ef"
   },
   "175cb50f-063c-4d02-8954-568a9c3821bf": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Solutions",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -404,6 +573,21 @@
    "reopened": 0,
    "title": "Field Engineering - Japan",
    "url": "https://jobs.ashbyhq.com/cursor/175cb50f-063c-4d02-8954-568a9c3821bf"
+  },
+  "18d5d868-a393-4a94-b65b-01c89eee26d2": {
+   "closed_at": null,
+   "department": "Customer Success",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "ai deployment manager japan @ japan",
+   "location": "Japan",
+   "posted_at": "2026-11-09T19:58:39+00:00",
+   "posted_history": [
+    "2026-11-09T19:58:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "AI Deployment Manager - Japan",
+   "url": "https://jobs.ashbyhq.com/cursor/18d5d868-a393-4a94-b65b-01c89eee26d2"
   },
   "1910bd0e-806c-4e60-bfd6-157e369d6d02": {
    "closed_at": "2026-10-24T08:24:32+00:00",
@@ -421,7 +605,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/1910bd0e-806c-4e60-bfd6-157e369d6d02"
   },
   "193c326d-2ffc-4c11-8bba-73d243fd178b": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Customer Success",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -436,7 +620,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/193c326d-2ffc-4c11-8bba-73d243fd178b"
   },
   "1a584899-847d-4e5b-8181-fb889fe4e06e": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Marketing",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -451,7 +635,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/1a584899-847d-4e5b-8181-fb889fe4e06e"
   },
   "1b422774-a090-455f-a8f8-64f68d7f86e5": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Customer Success",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -466,7 +650,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/1b422774-a090-455f-a8f8-64f68d7f86e5"
   },
   "1cfacf1a-4ba7-4e68-9f65-4fb8e3525bde": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Solutions",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -496,7 +680,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/1d3a2047-4739-479b-914d-377046f0fd1a"
   },
   "1d56ed97-eee3-406d-91e2-7feed88ce6f0": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -511,7 +695,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/1d56ed97-eee3-406d-91e2-7feed88ce6f0"
   },
   "1d6dbbb2-a5af-41a6-a70a-ca97690d9313": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "User Ops",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -525,8 +709,68 @@
    "title": "Software Engineer, User Operations",
    "url": "https://jobs.ashbyhq.com/cursor/1d6dbbb2-a5af-41a6-a70a-ca97690d9313"
   },
-  "232223c1-913a-4318-982b-1970e2842710": {
+  "1f4f9aea-af74-49dc-9495-203c4c631379": {
    "closed_at": null,
+   "department": "Solutions",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "field engineer public sector @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2026-11-09T21:27:17+00:00",
+   "posted_history": [
+    "2026-11-09T21:27:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Field Engineer, Public Sector",
+   "url": "https://jobs.ashbyhq.com/cursor/1f4f9aea-af74-49dc-9495-203c4c631379"
+  },
+  "204c679c-d56a-4496-b868-b0b7399d0174": {
+   "closed_at": null,
+   "department": "Revenue Operations",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "deal desk analyst americas @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-09T21:14:01+00:00",
+   "posted_history": [
+    "2026-11-09T21:14:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "Deal Desk Analyst - Americas",
+   "url": "https://jobs.ashbyhq.com/cursor/204c679c-d56a-4496-b868-b0b7399d0174"
+  },
+  "218f9338-306f-48ef-8561-7e462fbb5191": {
+   "closed_at": null,
+   "department": "Partnerships",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "manager channel partners @ japan",
+   "location": "Japan",
+   "posted_at": "2026-11-09T21:57:30+00:00",
+   "posted_history": [
+    "2026-11-09T21:57:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Channel & Partners",
+   "url": "https://jobs.ashbyhq.com/cursor/218f9338-306f-48ef-8561-7e462fbb5191"
+  },
+  "220925c5-5eb3-467b-b4ff-31ec31df6a71": {
+   "closed_at": null,
+   "department": "Marketing",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "performance marketing manager @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-09T23:47:45+00:00",
+   "posted_history": [
+    "2026-11-09T23:47:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Performance Marketing Manager",
+   "url": "https://jobs.ashbyhq.com/cursor/220925c5-5eb3-467b-b4ff-31ec31df6a71"
+  },
+  "232223c1-913a-4318-982b-1970e2842710": {
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -540,8 +784,23 @@
    "title": "Strategic Account Executive, Enterprise - Thailand",
    "url": "https://jobs.ashbyhq.com/cursor/232223c1-913a-4318-982b-1970e2842710"
   },
-  "2514161d-be85-41bd-9b16-38d3771616ad": {
+  "236b6232-a98b-43c0-a0ed-d2b475b8e579": {
    "closed_at": null,
+   "department": "Customer Success",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "solutions architect @ remote",
+   "location": "Remote",
+   "posted_at": "2026-11-09T22:06:43+00:00",
+   "posted_history": [
+    "2026-11-09T22:06:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Solutions Architect",
+   "url": "https://jobs.ashbyhq.com/cursor/236b6232-a98b-43c0-a0ed-d2b475b8e579"
+  },
+  "2514161d-be85-41bd-9b16-38d3771616ad": {
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -555,8 +814,23 @@
    "title": "Strategic Account Executive, Federal Sales  - Australia",
    "url": "https://jobs.ashbyhq.com/cursor/2514161d-be85-41bd-9b16-38d3771616ad"
   },
-  "27a7ac90-fe2a-4352-ad56-3548a64c9b64": {
+  "2575f103-bf9a-4fc4-91be-23bec1142e88": {
    "closed_at": null,
+   "department": "Solutions",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "field engineer asean @ singapore",
+   "location": "Singapore",
+   "posted_at": "2026-11-09T21:34:36+00:00",
+   "posted_history": [
+    "2026-11-09T21:34:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Field Engineer - ASEAN",
+   "url": "https://jobs.ashbyhq.com/cursor/2575f103-bf9a-4fc4-91be-23bec1142e88"
+  },
+  "27a7ac90-fe2a-4352-ad56-3548a64c9b64": {
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -570,8 +844,23 @@
    "title": "Strategic Account Executive, Federal Sales — DoW",
    "url": "https://jobs.ashbyhq.com/cursor/27a7ac90-fe2a-4352-ad56-3548a64c9b64"
   },
-  "299ce422-0281-4282-aadd-bc22553be0b5": {
+  "27effc80-412f-4a2b-bbc5-f48e51f77382": {
    "closed_at": null,
+   "department": "Marketing",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "senior integrated campaigns manager amer @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-09T23:59:08+00:00",
+   "posted_history": [
+    "2026-11-09T23:59:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Integrated Campaigns Manager, AMER",
+   "url": "https://jobs.ashbyhq.com/cursor/27effc80-412f-4a2b-bbc5-f48e51f77382"
+  },
+  "299ce422-0281-4282-aadd-bc22553be0b5": {
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -585,8 +874,23 @@
    "title": "Software Engineer, Storage",
    "url": "https://jobs.ashbyhq.com/cursor/299ce422-0281-4282-aadd-bc22553be0b5"
   },
-  "2ba388d9-8cb1-4738-a9a2-37d97fc17216": {
+  "29c33f1b-d597-48a9-b8ad-77659c19bb3c": {
    "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "regional director geo enterprise @ austin, tx",
+   "location": "Austin, TX",
+   "posted_at": "2026-11-09T20:26:50+00:00",
+   "posted_history": [
+    "2026-11-09T20:26:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Regional Director, Geo Enterprise",
+   "url": "https://jobs.ashbyhq.com/cursor/29c33f1b-d597-48a9-b8ad-77659c19bb3c"
+  },
+  "2ba388d9-8cb1-4738-a9a2-37d97fc17216": {
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -616,7 +920,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/2bbe9f02-83a5-4173-98be-9085d1cb5693"
   },
   "2bc45647-93ff-497e-8db9-9b4f42d17240": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Marketing",
    "evergreen": false,
    "first_seen": "2026-10-20T08:53:12+00:00",
@@ -630,8 +934,23 @@
    "title": "Integrated Campaigns Manager, AMER",
    "url": "https://jobs.ashbyhq.com/cursor/2bc45647-93ff-497e-8db9-9b4f42d17240"
   },
-  "2c7fafcd-0e0a-489a-a54f-20f84f8e55a4": {
+  "2bd4336d-ca2a-40c6-befc-6dc070a3109c": {
    "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "strategic enterprise account executive japan @ japan",
+   "location": "Japan",
+   "posted_at": "2026-11-09T21:37:20+00:00",
+   "posted_history": [
+    "2026-11-09T21:37:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Enterprise Account Executive - Japan",
+   "url": "https://jobs.ashbyhq.com/cursor/2bd4336d-ca2a-40c6-befc-6dc070a3109c"
+  },
+  "2c7fafcd-0e0a-489a-a54f-20f84f8e55a4": {
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Customer Success",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
@@ -646,7 +965,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/2c7fafcd-0e0a-489a-a54f-20f84f8e55a4"
   },
   "2ca532ac-da2a-4f45-ba60-fe4de80ca821": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -661,7 +980,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/2ca532ac-da2a-4f45-ba60-fe4de80ca821"
   },
   "2e98f028-1b77-4537-aeee-e2962668c970": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -675,8 +994,23 @@
    "title": "Strategic Account Executive, Enterprise - Phillippines",
    "url": "https://jobs.ashbyhq.com/cursor/2e98f028-1b77-4537-aeee-e2962668c970"
   },
-  "32350e7d-b6c8-4556-b8ba-3e58490f7cb7": {
+  "2f568bb6-9a03-4f45-9392-0c62127011c6": {
    "closed_at": null,
+   "department": "Customer Success",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "technical program manager field @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-09T23:43:00+00:00",
+   "posted_history": [
+    "2026-11-09T23:43:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Program Manager, Field",
+   "url": "https://jobs.ashbyhq.com/cursor/2f568bb6-9a03-4f45-9392-0c62127011c6"
+  },
+  "32350e7d-b6c8-4556-b8ba-3e58490f7cb7": {
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Solutions",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -705,6 +1039,21 @@
    "title": "Forward Deployed Engineer",
    "url": "https://jobs.ashbyhq.com/cursor/34cecd0c-c392-4454-8ef5-261310541011"
   },
+  "3550b122-d151-40d4-b726-6dd187be648d": {
+   "closed_at": null,
+   "department": "Marketing",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "creator campaign manager @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-09T21:13:57+00:00",
+   "posted_history": [
+    "2026-11-09T21:13:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "Creator Campaign Manager",
+   "url": "https://jobs.ashbyhq.com/cursor/3550b122-d151-40d4-b726-6dd187be648d"
+  },
   "3551cdaa-cf08-4c04-adbe-a968185bc769": {
    "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "Engineering",
@@ -719,6 +1068,21 @@
    "reopened": 0,
    "title": "Software Engineer, Product",
    "url": "https://jobs.ashbyhq.com/cursor/3551cdaa-cf08-4c04-adbe-a968185bc769"
+  },
+  "359cb8e6-77e8-4a77-be67-a39eb46d2c10": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "software engineer infrastructure @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-10T00:12:31+00:00",
+   "posted_history": [
+    "2026-11-10T00:12:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Infrastructure",
+   "url": "https://jobs.ashbyhq.com/cursor/359cb8e6-77e8-4a77-be67-a39eb46d2c10"
   },
   "364b0b05-47d8-428a-90b5-210d81fbc950": {
    "closed_at": null,
@@ -765,8 +1129,23 @@
    "title": "Engineering Manager, ML",
    "url": "https://jobs.ashbyhq.com/cursor/3752886b-a6e2-402c-ba2a-47d0659ff335"
   },
-  "38bd03a3-3d65-4868-87df-cb248d0a45e3": {
+  "378409f3-a9d9-4b5e-bc91-8112a582d24c": {
    "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "software engineer model routing inference @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-11-10T06:34:45+00:00",
+   "posted_history": [
+    "2026-11-10T06:34:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Model Routing & Inference",
+   "url": "https://jobs.ashbyhq.com/cursor/378409f3-a9d9-4b5e-bc91-8112a582d24c"
+  },
+  "38bd03a3-3d65-4868-87df-cb248d0a45e3": {
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Solutions",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -781,7 +1160,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/38bd03a3-3d65-4868-87df-cb248d0a45e3"
   },
   "38f2d7b3-f431-464d-abdb-b10f71df9a72": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -795,8 +1174,38 @@
    "title": "Strategic Account Executive, Enterprise - Victoria",
    "url": "https://jobs.ashbyhq.com/cursor/38f2d7b3-f431-464d-abdb-b10f71df9a72"
   },
-  "3b1ec65c-0d2b-43e1-81db-4d33a9a2faa4": {
+  "39386c17-568f-4f9c-b8de-e641c092deaa": {
    "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "software engineer client infrastructure @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-10T00:10:43+00:00",
+   "posted_history": [
+    "2026-11-10T00:10:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Client Infrastructure",
+   "url": "https://jobs.ashbyhq.com/cursor/39386c17-568f-4f9c-b8de-e641c092deaa"
+  },
+  "39928fa7-8acc-41b9-9143-97b760774f05": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "software engineer enterprise @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-10T00:13:58+00:00",
+   "posted_history": [
+    "2026-11-10T00:13:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Enterprise",
+   "url": "https://jobs.ashbyhq.com/cursor/39928fa7-8acc-41b9-9143-97b760774f05"
+  },
+  "3b1ec65c-0d2b-43e1-81db-4d33a9a2faa4": {
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -809,6 +1218,21 @@
    "reopened": 0,
    "title": "Strategic Account Executive, High Tech",
    "url": "https://jobs.ashbyhq.com/cursor/3b1ec65c-0d2b-43e1-81db-4d33a9a2faa4"
+  },
+  "3d35fde4-b950-40ae-8ed8-aaac9f371693": {
+   "closed_at": null,
+   "department": "Customer Success",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "ai deployment manager india @ bengaluru",
+   "location": "Bengaluru",
+   "posted_at": "2026-11-09T20:28:07+00:00",
+   "posted_history": [
+    "2026-11-09T20:28:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "AI Deployment Manager - India",
+   "url": "https://jobs.ashbyhq.com/cursor/3d35fde4-b950-40ae-8ed8-aaac9f371693"
   },
   "3d9da649-b3e6-4b4c-943d-1d081dae9497": {
    "closed_at": "2026-11-04T11:35:04+00:00",
@@ -841,7 +1265,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/409d6bff-d60c-45b7-8d4c-21f6574010de"
   },
   "413e0e15-4b48-4c9c-be9d-85dc46ff60c2": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Marketing",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -856,7 +1280,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/413e0e15-4b48-4c9c-be9d-85dc46ff60c2"
   },
   "41f0d1a2-9449-4980-8592-f23290a9b65e": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Solutions",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -869,6 +1293,51 @@
    "reopened": 0,
    "title": "Field Engineer, Life Sciences",
    "url": "https://jobs.ashbyhq.com/cursor/41f0d1a2-9449-4980-8592-f23290a9b65e"
+  },
+  "42c030dd-7b5a-4ea1-8627-2052dd89b1d6": {
+   "closed_at": null,
+   "department": "Solutions",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "field engineer india @ bengaluru",
+   "location": "Bengaluru",
+   "posted_at": "2026-11-09T20:37:08+00:00",
+   "posted_history": [
+    "2026-11-09T20:37:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "Field Engineer - India",
+   "url": "https://jobs.ashbyhq.com/cursor/42c030dd-7b5a-4ea1-8627-2052dd89b1d6"
+  },
+  "438ff4ff-2bdc-4e43-97bb-98e289694f8c": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "model engineer @ palo alto, ca",
+   "location": "Palo Alto, CA",
+   "posted_at": "2026-11-10T00:05:24+00:00",
+   "posted_history": [
+    "2026-11-10T00:05:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Model Engineer",
+   "url": "https://jobs.ashbyhq.com/cursor/438ff4ff-2bdc-4e43-97bb-98e289694f8c"
+  },
+  "440142f9-6b81-46e2-98aa-305f35b388bd": {
+   "closed_at": null,
+   "department": "Marketing",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "head of apj field marketing @ singapore",
+   "location": "Singapore",
+   "posted_at": "2026-11-09T23:36:38+00:00",
+   "posted_history": [
+    "2026-11-09T23:36:38+00:00"
+   ],
+   "reopened": 0,
+   "title": "Head of APJ Field Marketing",
+   "url": "https://jobs.ashbyhq.com/cursor/440142f9-6b81-46e2-98aa-305f35b388bd"
   },
   "44264403-5674-40b7-8b8d-e60b0a86e9ec": {
    "closed_at": null,
@@ -885,8 +1354,23 @@
    "title": "Forward Deployed Engineer (Australia)",
    "url": "https://jobs.ashbyhq.com/cursor/44264403-5674-40b7-8b8d-e60b0a86e9ec"
   },
-  "45c815b0-5100-4934-8558-0e750b8aed79": {
+  "45abdab8-6d12-4e46-8108-e23aba34cec1": {
    "closed_at": null,
+   "department": "Customer Success",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "ai deployment manager australia @ australia",
+   "location": "Australia",
+   "posted_at": "2026-11-09T20:23:22+00:00",
+   "posted_history": [
+    "2026-11-09T20:23:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "AI Deployment Manager - Australia",
+   "url": "https://jobs.ashbyhq.com/cursor/45abdab8-6d12-4e46-8108-e23aba34cec1"
+  },
+  "45c815b0-5100-4934-8558-0e750b8aed79": {
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -901,7 +1385,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/45c815b0-5100-4934-8558-0e750b8aed79"
   },
   "47496e80-79d6-49ce-adfb-19b7d1d4248f": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -916,7 +1400,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/47496e80-79d6-49ce-adfb-19b7d1d4248f"
   },
   "47994d20-cc6a-436b-8da0-2eceabfd413e": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -930,8 +1414,23 @@
    "title": "Software Engineer, Billing",
    "url": "https://jobs.ashbyhq.com/cursor/47994d20-cc6a-436b-8da0-2eceabfd413e"
   },
-  "4a1f9223-627b-4582-a038-0d7005d7a31d": {
+  "49476056-d5da-44d1-8c26-3640ac386441": {
    "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "executive assistant japan @ japan",
+   "location": "Japan",
+   "posted_at": "2026-11-09T20:12:48+00:00",
+   "posted_history": [
+    "2026-11-09T20:12:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "Executive Assistant - Japan",
+   "url": "https://jobs.ashbyhq.com/cursor/49476056-d5da-44d1-8c26-3640ac386441"
+  },
+  "4a1f9223-627b-4582-a038-0d7005d7a31d": {
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Revenue Operations",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -944,6 +1443,21 @@
    "reopened": 0,
    "title": "Deal Desk Analyst - Americas",
    "url": "https://jobs.ashbyhq.com/cursor/4a1f9223-627b-4582-a038-0d7005d7a31d"
+  },
+  "4d08173a-687b-4d5f-ac03-759cce3696f1": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "strategic account executive sled @ remote",
+   "location": "Remote",
+   "posted_at": "2026-11-09T19:52:25+00:00",
+   "posted_history": [
+    "2026-11-09T19:52:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Account Executive, SLED",
+   "url": "https://jobs.ashbyhq.com/cursor/4d08173a-687b-4d5f-ac03-759cce3696f1"
   },
   "4eb9c1a5-0c02-4c35-abea-62a6fe704eeb": {
    "closed_at": "2026-10-20T08:53:12+00:00",
@@ -961,7 +1475,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/4eb9c1a5-0c02-4c35-abea-62a6fe704eeb"
   },
   "52d3d043-ee24-4663-9673-0ac4c0493eba": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Revenue Operations",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -977,7 +1491,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/52d3d043-ee24-4663-9673-0ac4c0493eba"
   },
   "539edb8a-b82a-48f8-ae7a-5c94fffbfa0a": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Revenue Operations",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
@@ -991,8 +1505,23 @@
    "title": "Customer Success Strategy & Operations Manager",
    "url": "https://jobs.ashbyhq.com/cursor/539edb8a-b82a-48f8-ae7a-5c94fffbfa0a"
   },
-  "54a9cfcd-570a-4e9c-b52c-bd2336c60991": {
+  "53dcb040-7a27-4164-b380-9bb0a0a8c5f1": {
    "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "sales development representative new york @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-11-09T19:40:34+00:00",
+   "posted_history": [
+    "2026-11-09T19:40:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales Development Representative - New York",
+   "url": "https://jobs.ashbyhq.com/cursor/53dcb040-7a27-4164-b380-9bb0a0a8c5f1"
+  },
+  "54a9cfcd-570a-4e9c-b52c-bd2336c60991": {
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1007,7 +1536,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/54a9cfcd-570a-4e9c-b52c-bd2336c60991"
   },
   "5729deab-ba2b-4a39-bbdd-c981287d8515": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Marketing",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1021,8 +1550,23 @@
    "title": "Performance Marketing Manager",
    "url": "https://jobs.ashbyhq.com/cursor/5729deab-ba2b-4a39-bbdd-c981287d8515"
   },
-  "59d55195-2a9e-4b07-a9fc-b721008bc378": {
+  "58b0081f-8b3f-4cac-a620-140063798adf": {
    "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "account executive geo enterprise new york @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-11-09T19:27:17+00:00",
+   "posted_history": [
+    "2026-11-09T19:27:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, Geo Enterprise - New York",
+   "url": "https://jobs.ashbyhq.com/cursor/58b0081f-8b3f-4cac-a620-140063798adf"
+  },
+  "59d55195-2a9e-4b07-a9fc-b721008bc378": {
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Customer Success",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1037,7 +1581,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/59d55195-2a9e-4b07-a9fc-b721008bc378"
   },
   "5ac08fc5-e486-498b-a5b5-991ddb490059": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1052,7 +1596,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/5ac08fc5-e486-498b-a5b5-991ddb490059"
   },
   "5afc044a-00ed-4392-8759-59c7effe179d": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1066,8 +1610,113 @@
    "title": "Software Engineer, Grok Connectors",
    "url": "https://jobs.ashbyhq.com/cursor/5afc044a-00ed-4392-8759-59c7effe179d"
   },
-  "61e4677d-cf3d-458a-bf6c-02287d5d2c39": {
+  "5aff7957-9655-4cc1-98d8-813e33aeb380": {
    "closed_at": null,
+   "department": "Revenue Operations",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "deal desk manager apj @ singapore",
+   "location": "Singapore",
+   "posted_at": "2026-11-09T20:32:17+00:00",
+   "posted_history": [
+    "2026-11-09T20:32:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Deal Desk Manager, APJ",
+   "url": "https://jobs.ashbyhq.com/cursor/5aff7957-9655-4cc1-98d8-813e33aeb380"
+  },
+  "5b744208-cb2c-4c31-9217-e0cbbf8ad7af": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "software engineer ml platform @ palo alto, ca",
+   "location": "Palo Alto, CA",
+   "posted_at": "2026-11-10T00:19:31+00:00",
+   "posted_history": [
+    "2026-11-10T00:19:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, ML Platform",
+   "url": "https://jobs.ashbyhq.com/cursor/5b744208-cb2c-4c31-9217-e0cbbf8ad7af"
+  },
+  "5bbbd83b-2299-4a5e-9f49-d260fd9ca02e": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "software engineer enterprise platform @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-10T02:11:59+00:00",
+   "posted_history": [
+    "2026-11-10T02:11:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Enterprise Platform",
+   "url": "https://jobs.ashbyhq.com/cursor/5bbbd83b-2299-4a5e-9f49-d260fd9ca02e"
+  },
+  "5df283dc-d53e-4769-9b30-1190a06a9adc": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "strategic account executive federal sales dow @ remote",
+   "location": "Remote",
+   "posted_at": "2026-11-09T20:02:37+00:00",
+   "posted_history": [
+    "2026-11-09T20:02:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Account Executive, Federal Sales — DoW",
+   "url": "https://jobs.ashbyhq.com/cursor/5df283dc-d53e-4769-9b30-1190a06a9adc"
+  },
+  "5eca4fb7-1ae0-4eb2-8f87-fa470b3c1d17": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "software engineer model lifecycle and signals @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-11-10T00:20:00+00:00",
+   "posted_history": [
+    "2026-11-10T00:20:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Model Lifecycle and Signals",
+   "url": "https://jobs.ashbyhq.com/cursor/5eca4fb7-1ae0-4eb2-8f87-fa470b3c1d17"
+  },
+  "5f17ee48-29e8-4f48-bbc4-dc250731250b": {
+   "closed_at": null,
+   "department": "Solutions",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "forward deployed engineer india @ bengaluru",
+   "location": "Bengaluru",
+   "posted_at": "2026-11-09T20:01:11+00:00",
+   "posted_history": [
+    "2026-11-09T20:01:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Engineer - India",
+   "url": "https://jobs.ashbyhq.com/cursor/5f17ee48-29e8-4f48-bbc4-dc250731250b"
+  },
+  "60a3541f-f6b6-4da2-a168-40e867a51740": {
+   "closed_at": null,
+   "department": "Solutions",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "field engineer healthcare @ remote",
+   "location": "Remote",
+   "posted_at": "2026-11-09T21:24:58+00:00",
+   "posted_history": [
+    "2026-11-09T21:24:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Field Engineer, Healthcare",
+   "url": "https://jobs.ashbyhq.com/cursor/60a3541f-f6b6-4da2-a168-40e867a51740"
+  },
+  "61e4677d-cf3d-458a-bf6c-02287d5d2c39": {
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1081,8 +1730,23 @@
    "title": "Account Executive, Geo Enterprise - San Francisco",
    "url": "https://jobs.ashbyhq.com/cursor/61e4677d-cf3d-458a-bf6c-02287d5d2c39"
   },
-  "635bd64f-b554-4d37-9128-cefad35913af": {
+  "6222602a-f0ca-4558-8364-06970723e917": {
    "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "software engineer billing @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-10T00:09:12+00:00",
+   "posted_history": [
+    "2026-11-10T00:09:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Billing",
+   "url": "https://jobs.ashbyhq.com/cursor/6222602a-f0ca-4558-8364-06970723e917"
+  },
+  "635bd64f-b554-4d37-9128-cefad35913af": {
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1097,7 +1761,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/635bd64f-b554-4d37-9128-cefad35913af"
   },
   "64606b00-0273-4f74-966b-19f3ea01c469": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Revenue Operations",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1112,7 +1776,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/64606b00-0273-4f74-966b-19f3ea01c469"
   },
   "646f20fa-9cea-4a23-a245-4339619a5497": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Solutions",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1127,7 +1791,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/646f20fa-9cea-4a23-a245-4339619a5497"
   },
   "64a6cb18-493b-4d18-9f22-c661ae533bfa": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Solutions",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1141,8 +1805,23 @@
    "title": "Field Engineer",
    "url": "https://jobs.ashbyhq.com/cursor/64a6cb18-493b-4d18-9f22-c661ae533bfa"
   },
-  "6868de4a-f753-4f10-8dc5-f7aabef03b56": {
+  "65be8830-8f83-4420-baf3-5070fe19097d": {
    "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "strategic account executive enterprise victoria @ australia",
+   "location": "Australia",
+   "posted_at": "2026-11-09T20:39:55+00:00",
+   "posted_history": [
+    "2026-11-09T20:39:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Account Executive, Enterprise - Victoria",
+   "url": "https://jobs.ashbyhq.com/cursor/65be8830-8f83-4420-baf3-5070fe19097d"
+  },
+  "6868de4a-f753-4f10-8dc5-f7aabef03b56": {
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
@@ -1203,7 +1882,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/6acdd80a-3a1b-4701-a607-ca10d86c6847"
   },
   "6c80d6e2-5e59-418e-9ea6-15dface61698": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Design",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1217,8 +1896,23 @@
    "title": "Senior Brand Designer",
    "url": "https://jobs.ashbyhq.com/cursor/6c80d6e2-5e59-418e-9ea6-15dface61698"
   },
-  "6d576a09-f30d-4e5e-bb58-5d7ef56cb511": {
+  "6d31e7ae-d3fb-483c-a62a-b1bc843b329e": {
    "closed_at": null,
+   "department": "User Ops",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "technical support engineering leader singapore australia new zealand indonesia @ singapore",
+   "location": "Singapore",
+   "posted_at": "2026-11-09T23:58:06+00:00",
+   "posted_history": [
+    "2026-11-09T23:58:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Support Engineering Leader, Singapore, Australia, New Zealand, Indonesia",
+   "url": "https://jobs.ashbyhq.com/cursor/6d31e7ae-d3fb-483c-a62a-b1bc843b329e"
+  },
+  "6d576a09-f30d-4e5e-bb58-5d7ef56cb511": {
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1248,7 +1942,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/6e6f5bc2-eb32-40e2-bba9-cfa56479600d"
   },
   "6eef7144-f2cc-48a8-b065-01f04e4c70ff": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1262,8 +1956,68 @@
    "title": "Software Engineer, Services Platform",
    "url": "https://jobs.ashbyhq.com/cursor/6eef7144-f2cc-48a8-b065-01f04e4c70ff"
   },
-  "723239cc-f90f-409d-86ec-3b02df603239": {
+  "6f67c0c9-717c-4eb2-919b-5ab7d54e9a8b": {
    "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "software engineer security @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-10T00:24:39+00:00",
+   "posted_history": [
+    "2026-11-10T00:24:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Security",
+   "url": "https://jobs.ashbyhq.com/cursor/6f67c0c9-717c-4eb2-919b-5ab7d54e9a8b"
+  },
+  "6f6ca11a-6fba-4c16-8633-a8b15cb81d1d": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "strategic account executive healthcare @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-11-09T19:55:39+00:00",
+   "posted_history": [
+    "2026-11-09T19:55:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Account Executive, Healthcare",
+   "url": "https://jobs.ashbyhq.com/cursor/6f6ca11a-6fba-4c16-8633-a8b15cb81d1d"
+  },
+  "7178c350-7570-4b61-9a74-b190ab4d4a9a": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "sales development representative san francisco @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-09T19:41:26+00:00",
+   "posted_history": [
+    "2026-11-09T19:41:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales Development Representative - San Francisco",
+   "url": "https://jobs.ashbyhq.com/cursor/7178c350-7570-4b61-9a74-b190ab4d4a9a"
+  },
+  "7190ab6b-a585-44b4-a84b-e6fca581e1c4": {
+   "closed_at": null,
+   "department": "Marketing",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "field marketing manager @ japan",
+   "location": "Japan",
+   "posted_at": "2026-11-09T23:59:54+00:00",
+   "posted_history": [
+    "2026-11-09T23:59:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Field Marketing Manager",
+   "url": "https://jobs.ashbyhq.com/cursor/7190ab6b-a585-44b4-a84b-e6fca581e1c4"
+  },
+  "723239cc-f90f-409d-86ec-3b02df603239": {
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Marketing",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1276,6 +2030,36 @@
    "reopened": 0,
    "title": "Brand Paid Media Manager",
    "url": "https://jobs.ashbyhq.com/cursor/723239cc-f90f-409d-86ec-3b02df603239"
+  },
+  "72cbb522-a52b-4c38-ad5c-fdab256aa8ad": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "account executive commercial expansion new york @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-11-09T19:16:15+00:00",
+   "posted_history": [
+    "2026-11-09T19:16:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, Commercial Expansion - New York",
+   "url": "https://jobs.ashbyhq.com/cursor/72cbb522-a52b-4c38-ad5c-fdab256aa8ad"
+  },
+  "73276c7b-2e2a-4891-9d33-3739c9053baf": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "strategic account executive enterprise indonesia @ indonesia",
+   "location": "Indonesia",
+   "posted_at": "2026-11-09T19:56:18+00:00",
+   "posted_history": [
+    "2026-11-09T19:56:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Account Executive, Enterprise - Indonesia",
+   "url": "https://jobs.ashbyhq.com/cursor/73276c7b-2e2a-4891-9d33-3739c9053baf"
   },
   "736ebf73-beb1-417f-87a3-a74176399ba6": {
    "closed_at": null,
@@ -1292,6 +2076,21 @@
    "title": "HRBP, GTM",
    "url": "https://jobs.ashbyhq.com/cursor/736ebf73-beb1-417f-87a3-a74176399ba6"
   },
+  "7469c39d-0dd4-47e3-9437-5f14b4fc8509": {
+   "closed_at": null,
+   "department": "Solutions",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "field engineering japan @ japan",
+   "location": "Japan",
+   "posted_at": "2026-11-09T21:35:35+00:00",
+   "posted_history": [
+    "2026-11-09T21:35:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Field Engineering - Japan",
+   "url": "https://jobs.ashbyhq.com/cursor/7469c39d-0dd4-47e3-9437-5f14b4fc8509"
+  },
   "74a6ac48-d85f-45a0-9775-3cdb8b713e1a": {
    "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "Engineering",
@@ -1307,8 +2106,23 @@
    "title": "Engineering Manager, Evals",
    "url": "https://jobs.ashbyhq.com/cursor/74a6ac48-d85f-45a0-9775-3cdb8b713e1a"
   },
-  "77bf35db-119c-4533-8187-1e8d5ae08c45": {
+  "7678325b-cd6c-4cf6-97af-26ba37e615ab": {
    "closed_at": null,
+   "department": "Solutions",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "forward deployed engineer japan @ japan",
+   "location": "Japan",
+   "posted_at": "2026-11-09T19:54:56+00:00",
+   "posted_history": [
+    "2026-11-09T19:54:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Engineer - Japan",
+   "url": "https://jobs.ashbyhq.com/cursor/7678325b-cd6c-4cf6-97af-26ba37e615ab"
+  },
+  "77bf35db-119c-4533-8187-1e8d5ae08c45": {
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1321,6 +2135,36 @@
    "reopened": 0,
    "title": "Software Engineer, Core Services",
    "url": "https://jobs.ashbyhq.com/cursor/77bf35db-119c-4533-8187-1e8d5ae08c45"
+  },
+  "79b07509-13dc-49d3-b133-2bc10d161f6f": {
+   "closed_at": null,
+   "department": "Solutions",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "solutions architect australia @ australia",
+   "location": "Australia",
+   "posted_at": "2026-11-09T19:48:07+00:00",
+   "posted_history": [
+    "2026-11-09T19:48:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Solutions Architect - Australia",
+   "url": "https://jobs.ashbyhq.com/cursor/79b07509-13dc-49d3-b133-2bc10d161f6f"
+  },
+  "7a3714ab-8566-44c7-90e5-46a5c9f20e5f": {
+   "closed_at": null,
+   "department": "Customer Success",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "product education engineer @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-11-09T22:09:00+00:00",
+   "posted_history": [
+    "2026-11-09T22:09:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Education Engineer",
+   "url": "https://jobs.ashbyhq.com/cursor/7a3714ab-8566-44c7-90e5-46a5c9f20e5f"
   },
   "7b0b5994-5405-419c-bdca-c7b7ca05b613": {
    "closed_at": "2026-10-27T09:20:56+00:00",
@@ -1337,8 +2181,38 @@
    "title": "Sales Development Representative",
    "url": "https://jobs.ashbyhq.com/cursor/7b0b5994-5405-419c-bdca-c7b7ca05b613"
   },
-  "7d6611cb-28bf-4277-8758-178154466934": {
+  "7b7362e4-d422-4c82-b536-6c0b40da177c": {
    "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "account executive commercial anz @ australia",
+   "location": "Australia",
+   "posted_at": "2026-11-09T21:30:38+00:00",
+   "posted_history": [
+    "2026-11-09T21:30:38+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, Commercial - ANZ",
+   "url": "https://jobs.ashbyhq.com/cursor/7b7362e4-d422-4c82-b536-6c0b40da177c"
+  },
+  "7bd4ecc4-e5b6-4a95-870a-2ae41a9b40cf": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "strategic account executive federal sales civilian @ remote",
+   "location": "Remote",
+   "posted_at": "2026-11-09T20:17:10+00:00",
+   "posted_history": [
+    "2026-11-09T20:17:10+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Account Executive, Federal Sales — Civilian",
+   "url": "https://jobs.ashbyhq.com/cursor/7bd4ecc4-e5b6-4a95-870a-2ae41a9b40cf"
+  },
+  "7d6611cb-28bf-4277-8758-178154466934": {
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Solutions",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
@@ -1367,8 +2241,23 @@
    "title": "GTM Strategy & Ops Lead - APJ",
    "url": "https://jobs.ashbyhq.com/cursor/7e1d8e07-c87b-4388-892a-6b138bebf665"
   },
-  "85c98417-583b-412e-b31a-e4052195b703": {
+  "7fc92832-a196-460b-924c-ee1d93b20184": {
    "closed_at": null,
+   "department": "Customer Success",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "solutions architect japan @ japan",
+   "location": "Japan",
+   "posted_at": "2026-11-09T21:38:52+00:00",
+   "posted_history": [
+    "2026-11-09T21:38:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "Solutions Architect - Japan",
+   "url": "https://jobs.ashbyhq.com/cursor/7fc92832-a196-460b-924c-ee1d93b20184"
+  },
+  "85c98417-583b-412e-b31a-e4052195b703": {
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1382,8 +2271,68 @@
    "title": "Account Executive, Commercial Expansion - San Francisco",
    "url": "https://jobs.ashbyhq.com/cursor/85c98417-583b-412e-b31a-e4052195b703"
   },
-  "88d47f97-0bea-448c-9abb-4720e4acf17a": {
+  "8759ece1-451e-4074-93dd-9d247a648ef7": {
    "closed_at": null,
+   "department": "Solutions",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "solutions architect central europe @ germany",
+   "location": "Germany",
+   "posted_at": "2026-11-09T21:40:34+00:00",
+   "posted_history": [
+    "2026-11-09T21:40:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Solutions Architect, Central Europe",
+   "url": "https://jobs.ashbyhq.com/cursor/8759ece1-451e-4074-93dd-9d247a648ef7"
+  },
+  "875d2445-b01b-49cd-935f-19ffb6fe04e3": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "engineering manager agent product security @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-11-10T00:07:15+00:00",
+   "posted_history": [
+    "2026-11-10T00:07:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager, Agent & Product Security",
+   "url": "https://jobs.ashbyhq.com/cursor/875d2445-b01b-49cd-935f-19ffb6fe04e3"
+  },
+  "8790d158-7bdc-43c0-bcb1-bbacb6e8f720": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "strategic account executive federal sales australia @ australia",
+   "location": "Australia",
+   "posted_at": "2026-11-09T21:43:02+00:00",
+   "posted_history": [
+    "2026-11-09T21:43:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Account Executive, Federal Sales - Australia",
+   "url": "https://jobs.ashbyhq.com/cursor/8790d158-7bdc-43c0-bcb1-bbacb6e8f720"
+  },
+  "87d82c14-ed50-43c9-b8c0-a2e495169148": {
+   "closed_at": null,
+   "department": "Marketing",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "product marketing manager @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-10T00:31:53+00:00",
+   "posted_history": [
+    "2026-11-10T00:31:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Marketing Manager",
+   "url": "https://jobs.ashbyhq.com/cursor/87d82c14-ed50-43c9-b8c0-a2e495169148"
+  },
+  "88d47f97-0bea-448c-9abb-4720e4acf17a": {
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1398,7 +2347,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/88d47f97-0bea-448c-9abb-4720e4acf17a"
   },
   "89949cac-643b-4354-8bd3-744f6cde732b": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1413,7 +2362,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/89949cac-643b-4354-8bd3-744f6cde732b"
   },
   "8acfb92a-eb71-4159-acef-a988eac40fcb": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Marketing",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1442,8 +2391,23 @@
    "title": "Recruiting Coordinator",
    "url": "https://jobs.ashbyhq.com/cursor/8b795459-4f93-45b2-a570-bed630cb09ee"
   },
-  "8dc2a190-cde2-4c81-a1a8-bd1bc264a8fb": {
+  "8d4e9639-3e65-46d1-a1e7-e5facaefcb00": {
    "closed_at": null,
+   "department": "Customer Success",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "ai deployment manager @ remote",
+   "location": "Remote",
+   "posted_at": "2026-11-09T19:30:35+00:00",
+   "posted_history": [
+    "2026-11-09T19:30:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "AI Deployment Manager",
+   "url": "https://jobs.ashbyhq.com/cursor/8d4e9639-3e65-46d1-a1e7-e5facaefcb00"
+  },
+  "8dc2a190-cde2-4c81-a1a8-bd1bc264a8fb": {
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1457,8 +2421,23 @@
    "title": "Sales Development Representative - New York",
    "url": "https://jobs.ashbyhq.com/cursor/8dc2a190-cde2-4c81-a1a8-bd1bc264a8fb"
   },
-  "90f3ffbe-8174-4dc1-a0f5-ca9cb48fdda7": {
+  "8eb59c77-0463-46e7-a641-72a6e43d0df8": {
    "closed_at": null,
+   "department": "Customer Success",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "regional director ai deployment @ remote",
+   "location": "Remote",
+   "posted_at": "2026-11-09T20:51:43+00:00",
+   "posted_history": [
+    "2026-11-09T20:51:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Regional Director, AI Deployment",
+   "url": "https://jobs.ashbyhq.com/cursor/8eb59c77-0463-46e7-a641-72a6e43d0df8"
+  },
+  "90f3ffbe-8174-4dc1-a0f5-ca9cb48fdda7": {
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Marketing",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1473,7 +2452,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/90f3ffbe-8174-4dc1-a0f5-ca9cb48fdda7"
   },
   "919704fe-a3b7-4a15-8d2b-5df649b5168c": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Partnerships",
    "evergreen": false,
    "first_seen": "2026-10-28T10:01:46+00:00",
@@ -1488,7 +2467,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/919704fe-a3b7-4a15-8d2b-5df649b5168c"
   },
   "919b3d00-fef8-4038-8b71-165fae5d54e7": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1518,7 +2497,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/9287df8c-4138-4d75-ae92-cc98d3963856"
   },
   "94cc6684-9dbf-43f9-8ffc-405614e64ddd": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1531,6 +2510,21 @@
    "reopened": 0,
    "title": "Software Engineer, Security",
    "url": "https://jobs.ashbyhq.com/cursor/94cc6684-9dbf-43f9-8ffc-405614e64ddd"
+  },
+  "95dbf92c-6593-4f2b-af1f-7deccf155750": {
+   "closed_at": null,
+   "department": "User Ops",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "support operations systems lead @ remote",
+   "location": "Remote",
+   "posted_at": "2026-11-10T00:09:44+00:00",
+   "posted_history": [
+    "2026-11-10T00:09:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Support Operations Systems Lead",
+   "url": "https://jobs.ashbyhq.com/cursor/95dbf92c-6593-4f2b-af1f-7deccf155750"
   },
   "9764046f-8303-4fca-8386-4e743dfc8722": {
    "closed_at": "2026-11-03T11:21:29+00:00",
@@ -1547,8 +2541,23 @@
    "title": "Field Engineer, Commercial",
    "url": "https://jobs.ashbyhq.com/cursor/9764046f-8303-4fca-8386-4e743dfc8722"
   },
-  "98dbc051-5dfc-4760-8c14-bbaf8529256c": {
+  "978087b5-59fa-442f-8b58-97950d7169f7": {
    "closed_at": null,
+   "department": "Marketing",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "field marketing manager healthcare sled @ remote",
+   "location": "Remote",
+   "posted_at": "2026-11-09T21:19:07+00:00",
+   "posted_history": [
+    "2026-11-09T21:19:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Field Marketing Manager, Healthcare / SLED",
+   "url": "https://jobs.ashbyhq.com/cursor/978087b5-59fa-442f-8b58-97950d7169f7"
+  },
+  "98dbc051-5dfc-4760-8c14-bbaf8529256c": {
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Marketing",
    "evergreen": false,
    "first_seen": "2026-10-20T08:53:12+00:00",
@@ -1563,7 +2572,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/98dbc051-5dfc-4760-8c14-bbaf8529256c"
   },
   "99641cfd-8523-4f55-8100-958d72b5924b": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Marketing",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1607,8 +2616,23 @@
    "title": "Forward Deployed Strategist",
    "url": "https://jobs.ashbyhq.com/cursor/9b897011-11bc-4d8f-beb4-d2155d36e941"
   },
-  "9d7c8f36-eeb7-4e9f-acbe-d959f6280e46": {
+  "9d756f3e-ec33-4820-9971-f803de7b2d63": {
    "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "software engineer core services @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-10T00:12:19+00:00",
+   "posted_history": [
+    "2026-11-10T00:12:19+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Core Services",
+   "url": "https://jobs.ashbyhq.com/cursor/9d756f3e-ec33-4820-9971-f803de7b2d63"
+  },
+  "9d7c8f36-eeb7-4e9f-acbe-d959f6280e46": {
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Revenue Operations",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1621,6 +2645,21 @@
    "reopened": 0,
    "title": "GTM Applications Engineer",
    "url": "https://jobs.ashbyhq.com/cursor/9d7c8f36-eeb7-4e9f-acbe-d959f6280e46"
+  },
+  "9e81fd85-59cd-4138-8386-6ad768ed6dc1": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "account executive geo enterprise san francisco @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-09T19:27:56+00:00",
+   "posted_history": [
+    "2026-11-09T19:27:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, Geo Enterprise - San Francisco",
+   "url": "https://jobs.ashbyhq.com/cursor/9e81fd85-59cd-4138-8386-6ad768ed6dc1"
   },
   "9f1b3e17-4ab5-4d70-acc2-be1d1972b922": {
    "closed_at": "2026-10-27T09:20:56+00:00",
@@ -1638,7 +2677,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/9f1b3e17-4ab5-4d70-acc2-be1d1972b922"
   },
   "a4e8f126-9761-4a01-ab21-84e20c8b5de9": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Customer Success",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -1653,7 +2692,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/a4e8f126-9761-4a01-ab21-84e20c8b5de9"
   },
   "a4fcfac1-8bf1-4804-a0fb-0ea97037772e": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1668,7 +2707,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/a4fcfac1-8bf1-4804-a0fb-0ea97037772e"
   },
   "a577902e-28e9-4e68-9ee9-91e34d1b59c4": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1698,7 +2737,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/a59371c8-cd50-48e3-9f21-4b79a6f0e3b2"
   },
   "a6c00f7f-2288-4461-a64d-0f1cd9878909": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Solutions",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1713,7 +2752,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/a6c00f7f-2288-4461-a64d-0f1cd9878909"
   },
   "a750c967-7c4d-4704-a528-dcb63afc5f64": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Solutions",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1726,6 +2765,21 @@
    "reopened": 0,
    "title": "Field Engineer, Public Sector",
    "url": "https://jobs.ashbyhq.com/cursor/a750c967-7c4d-4704-a528-dcb63afc5f64"
+  },
+  "a933d04d-9a88-4eef-8a76-06ff0b41dabf": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "account executive commercial expansion san francisco @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-09T19:25:45+00:00",
+   "posted_history": [
+    "2026-11-09T19:25:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, Commercial Expansion - San Francisco",
+   "url": "https://jobs.ashbyhq.com/cursor/a933d04d-9a88-4eef-8a76-06ff0b41dabf"
   },
   "aa50a09b-2413-44a0-a1b1-04381b03cc30": {
    "closed_at": "2026-10-23T08:50:35+00:00",
@@ -1757,6 +2811,21 @@
    "title": "Engineering Manager, Infrastructure",
    "url": "https://jobs.ashbyhq.com/cursor/aca52072-00b0-4c2b-9371-18689910cd14"
   },
+  "ad8b3f43-6c66-4918-8eef-cef5753429bf": {
+   "closed_at": null,
+   "department": "Solutions",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "regional director field engineering @ remote",
+   "location": "Remote",
+   "posted_at": "2026-11-09T19:19:41+00:00",
+   "posted_history": [
+    "2026-11-09T19:19:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Regional Director, Field Engineering",
+   "url": "https://jobs.ashbyhq.com/cursor/ad8b3f43-6c66-4918-8eef-cef5753429bf"
+  },
   "aef8f0e7-37cd-4d6e-96c9-3af72f588bae": {
    "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "Engineering",
@@ -1773,7 +2842,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/aef8f0e7-37cd-4d6e-96c9-3af72f588bae"
   },
   "b0ef8a4d-64b5-4dc8-aeba-aa9ac0f430fc": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1787,8 +2856,38 @@
    "title": "Strategic Account Executive, Federal Sales — Civilian",
    "url": "https://jobs.ashbyhq.com/cursor/b0ef8a4d-64b5-4dc8-aeba-aa9ac0f430fc"
   },
-  "b33a1206-6cfa-4b89-8808-51eaa3933212": {
+  "b236a81e-6c5b-45ce-8b4a-0810ae82ca82": {
    "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "software engineer storage @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-10T00:25:34+00:00",
+   "posted_history": [
+    "2026-11-10T00:25:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Storage",
+   "url": "https://jobs.ashbyhq.com/cursor/b236a81e-6c5b-45ce-8b4a-0810ae82ca82"
+  },
+  "b32330b1-deb0-49fb-bcce-9fc339c34fd0": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "strategic account executive enterprise south korea @ south korea",
+   "location": "South Korea",
+   "posted_at": "2026-11-09T20:00:16+00:00",
+   "posted_history": [
+    "2026-11-09T20:00:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Account Executive, Enterprise - South Korea",
+   "url": "https://jobs.ashbyhq.com/cursor/b32330b1-deb0-49fb-bcce-9fc339c34fd0"
+  },
+  "b33a1206-6cfa-4b89-8808-51eaa3933212": {
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1802,8 +2901,23 @@
    "title": "Strategic Account Executive, SLED",
    "url": "https://jobs.ashbyhq.com/cursor/b33a1206-6cfa-4b89-8808-51eaa3933212"
   },
-  "b6807f07-c4b7-4435-8c4c-0bef35865ad7": {
+  "b33f0126-7c07-478c-8c81-1f3798634535": {
    "closed_at": null,
+   "department": "Revenue Operations",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "solutions strategy operations manager @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-09T20:24:33+00:00",
+   "posted_history": [
+    "2026-11-09T20:24:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Solutions Strategy & Operations Manager",
+   "url": "https://jobs.ashbyhq.com/cursor/b33f0126-7c07-478c-8c81-1f3798634535"
+  },
+  "b6807f07-c4b7-4435-8c4c-0bef35865ad7": {
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1833,6 +2947,66 @@
    "title": "Solutions Architect - Western Europe",
    "url": "https://jobs.ashbyhq.com/cursor/b6d90b7f-7586-46e8-bab6-8d87b881906c"
   },
+  "b810bd30-f3b8-45b4-8afd-d2916ce5ee93": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "software engineer bugbot @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-11-10T00:10:02+00:00",
+   "posted_history": [
+    "2026-11-10T00:10:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Bugbot",
+   "url": "https://jobs.ashbyhq.com/cursor/b810bd30-f3b8-45b4-8afd-d2916ce5ee93"
+  },
+  "b958e1bd-9e49-48cd-a7f5-b42c63f527fa": {
+   "closed_at": null,
+   "department": "Revenue Operations",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "customer success strategy operations manager @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-09T21:05:45+00:00",
+   "posted_history": [
+    "2026-11-09T21:05:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Success Strategy & Operations Manager",
+   "url": "https://jobs.ashbyhq.com/cursor/b958e1bd-9e49-48cd-a7f5-b42c63f527fa"
+  },
+  "bb1e7f02-d30c-49fa-8d67-9a35ecc59462": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "software engineer compute infra @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-10T00:11:17+00:00",
+   "posted_history": [
+    "2026-11-10T00:11:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Compute Infra",
+   "url": "https://jobs.ashbyhq.com/cursor/bb1e7f02-d30c-49fa-8d67-9a35ecc59462"
+  },
+  "bdae07e2-54ad-4e66-a56e-e6442483f15b": {
+   "closed_at": null,
+   "department": "Solutions",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "solutions architect india @ bengaluru",
+   "location": "Bengaluru",
+   "posted_at": "2026-11-09T20:28:53+00:00",
+   "posted_history": [
+    "2026-11-09T20:28:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "Solutions Architect - India",
+   "url": "https://jobs.ashbyhq.com/cursor/bdae07e2-54ad-4e66-a56e-e6442483f15b"
+  },
   "be14443e-1c17-4619-a428-4c02a7c0a7e6": {
    "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "Sales",
@@ -1848,6 +3022,21 @@
    "title": "Regional Vice President, Business Development EMEA",
    "url": "https://jobs.ashbyhq.com/cursor/be14443e-1c17-4619-a428-4c02a7c0a7e6"
   },
+  "bf428650-8744-4f97-81e2-0e5a20c5316c": {
+   "closed_at": null,
+   "department": "Marketing",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "integrated campaigns manager amer @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-09T23:39:27+00:00",
+   "posted_history": [
+    "2026-11-09T23:39:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Integrated Campaigns Manager, AMER",
+   "url": "https://jobs.ashbyhq.com/cursor/bf428650-8744-4f97-81e2-0e5a20c5316c"
+  },
   "bff67718-1dbf-4d66-bcef-8b68d93d716f": {
    "closed_at": null,
    "department": "Sales",
@@ -1860,11 +3049,26 @@
     "2026-07-06T22:23:45+00:00"
    ],
    "reopened": 0,
-   "title": "Account Executive - Commercial",
+   "title": "Account Executive - Commercial (Singapore)",
    "url": "https://jobs.ashbyhq.com/cursor/bff67718-1dbf-4d66-bcef-8b68d93d716f"
   },
-  "c2fb18fe-8d3d-4803-b21b-2f7e8b700d9d": {
+  "c1910b91-6b48-4faa-83ac-fd8025dd46e7": {
    "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "sr software engineer ml platform @ palo alto, ca",
+   "location": "Palo Alto, CA",
+   "posted_at": "2026-11-10T00:37:33+00:00",
+   "posted_history": [
+    "2026-11-10T00:37:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Software Engineer, ML Platform",
+   "url": "https://jobs.ashbyhq.com/cursor/c1910b91-6b48-4faa-83ac-fd8025dd46e7"
+  },
+  "c2fb18fe-8d3d-4803-b21b-2f7e8b700d9d": {
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Solutions",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1908,6 +3112,21 @@
    "title": "Data Analyst, User Operations",
    "url": "https://jobs.ashbyhq.com/cursor/c43bdded-80a1-4705-a0ec-8217d771528c"
   },
+  "c4afc6fd-b8c8-413f-9010-0000323304aa": {
+   "closed_at": null,
+   "department": "Solutions",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "forward deployed engineer western europe @ london",
+   "location": "London",
+   "posted_at": "2026-11-09T21:10:30+00:00",
+   "posted_history": [
+    "2026-11-09T21:10:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Engineer, Western Europe",
+   "url": "https://jobs.ashbyhq.com/cursor/c4afc6fd-b8c8-413f-9010-0000323304aa"
+  },
   "c4be0272-542c-4bf1-b890-8785d3044bed": {
    "closed_at": "2026-10-20T08:53:12+00:00",
    "department": "Solutions",
@@ -1923,8 +3142,23 @@
    "title": "Field Engineer - ANZ",
    "url": "https://jobs.ashbyhq.com/cursor/c4be0272-542c-4bf1-b890-8785d3044bed"
   },
-  "c50a7358-cc49-4225-bab0-3475f80ad156": {
+  "c4f5f5e3-511c-4251-9ca1-ef5933b7e189": {
    "closed_at": null,
+   "department": "Partnerships",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "partner account manager singapore @ singapore",
+   "location": "Singapore",
+   "posted_at": "2026-11-09T19:48:58+00:00",
+   "posted_history": [
+    "2026-11-09T19:48:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Partner Account Manager - Singapore",
+   "url": "https://jobs.ashbyhq.com/cursor/c4f5f5e3-511c-4251-9ca1-ef5933b7e189"
+  },
+  "c50a7358-cc49-4225-bab0-3475f80ad156": {
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1938,8 +3172,23 @@
    "title": "Regional Director, Commercial",
    "url": "https://jobs.ashbyhq.com/cursor/c50a7358-cc49-4225-bab0-3475f80ad156"
   },
-  "c5bbeeb2-1af0-4bde-9e32-55d46c313767": {
+  "c5761f37-429d-4c91-82c2-84782f6c6ac8": {
    "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "strategic account executive life sciences @ remote",
+   "location": "Remote",
+   "posted_at": "2026-11-09T19:53:09+00:00",
+   "posted_history": [
+    "2026-11-09T19:53:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Account Executive, Life Sciences",
+   "url": "https://jobs.ashbyhq.com/cursor/c5761f37-429d-4c91-82c2-84782f6c6ac8"
+  },
+  "c5bbeeb2-1af0-4bde-9e32-55d46c313767": {
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Customer Success",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1952,6 +3201,21 @@
    "reopened": 0,
    "title": "Product Education Engineer",
    "url": "https://jobs.ashbyhq.com/cursor/c5bbeeb2-1af0-4bde-9e32-55d46c313767"
+  },
+  "c5d4122b-6f85-4376-bb4d-c97dad230a65": {
+   "closed_at": null,
+   "department": "Marketing",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "brand paid media manager @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-09T20:51:00+00:00",
+   "posted_history": [
+    "2026-11-09T20:51:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Brand Paid Media Manager",
+   "url": "https://jobs.ashbyhq.com/cursor/c5d4122b-6f85-4376-bb4d-c97dad230a65"
   },
   "c66cde5e-9cb6-4a2e-a330-9323e1edf2a9": {
    "closed_at": "2026-10-29T10:25:29+00:00",
@@ -1984,7 +3248,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/c68b3d8f-360d-41f0-84fd-1cb225b19e23"
   },
   "cd4bad0a-e2f6-4a8d-9b57-ce1780efedae": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1999,7 +3263,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/cd4bad0a-e2f6-4a8d-9b57-ce1780efedae"
   },
   "cda9256f-e820-4f0a-9e77-e44c61295e1d": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Customer Success",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2013,8 +3277,38 @@
    "title": "Solutions Architect",
    "url": "https://jobs.ashbyhq.com/cursor/cda9256f-e820-4f0a-9e77-e44c61295e1d"
   },
-  "cf144fbc-44dd-485b-8dd7-ccb5bdb41adc": {
+  "cddb7c29-39e2-431d-af11-029edd4207c4": {
    "closed_at": null,
+   "department": "Revenue Operations",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "gtm applications engineer @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-09T21:28:18+00:00",
+   "posted_history": [
+    "2026-11-09T21:28:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "GTM Applications Engineer",
+   "url": "https://jobs.ashbyhq.com/cursor/cddb7c29-39e2-431d-af11-029edd4207c4"
+  },
+  "cebcf532-f723-4b14-a366-765d04b80d4c": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "software engineer services platform @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-10T00:25:39+00:00",
+   "posted_history": [
+    "2026-11-10T00:25:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Services Platform",
+   "url": "https://jobs.ashbyhq.com/cursor/cebcf532-f723-4b14-a366-765d04b80d4c"
+  },
+  "cf144fbc-44dd-485b-8dd7-ccb5bdb41adc": {
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2028,8 +3322,38 @@
    "title": "Executive Assistant - Japan",
    "url": "https://jobs.ashbyhq.com/cursor/cf144fbc-44dd-485b-8dd7-ccb5bdb41adc"
   },
-  "d0cf5203-2db2-40b6-b1fe-1656ec288ce3": {
+  "d02cb5cc-496f-4998-80a7-87c20312c82c": {
    "closed_at": null,
+   "department": "Solutions",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "field engineer life sciences @ remote",
+   "location": "Remote",
+   "posted_at": "2026-11-09T21:26:28+00:00",
+   "posted_history": [
+    "2026-11-09T21:26:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Field Engineer, Life Sciences",
+   "url": "https://jobs.ashbyhq.com/cursor/d02cb5cc-496f-4998-80a7-87c20312c82c"
+  },
+  "d06d229f-eb2c-46d7-8e0f-96da5ecaec88": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "software engineer pretraining data @ palo alto, ca",
+   "location": "Palo Alto, CA",
+   "posted_at": "2026-11-10T00:21:25+00:00",
+   "posted_history": [
+    "2026-11-10T00:21:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Pretraining Data",
+   "url": "https://jobs.ashbyhq.com/cursor/d06d229f-eb2c-46d7-8e0f-96da5ecaec88"
+  },
+  "d0cf5203-2db2-40b6-b1fe-1656ec288ce3": {
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2044,7 +3368,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/d0cf5203-2db2-40b6-b1fe-1656ec288ce3"
   },
   "d0e5b41d-84ab-4887-bd3a-55589b11dd7b": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2058,8 +3382,23 @@
    "title": "Software Engineer, New Grad 2027",
    "url": "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b"
   },
-  "d225fc95-a56f-466a-9588-d75a7f38c426": {
+  "d1c5031a-bf6c-48fa-9a6b-26a75136504e": {
    "closed_at": null,
+   "department": "Marketing",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "startup events community @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-10T04:08:16+00:00",
+   "posted_history": [
+    "2026-11-10T04:08:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Startup Events & Community",
+   "url": "https://jobs.ashbyhq.com/cursor/d1c5031a-bf6c-48fa-9a6b-26a75136504e"
+  },
+  "d225fc95-a56f-466a-9588-d75a7f38c426": {
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Marketing",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2074,7 +3413,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/d225fc95-a56f-466a-9588-d75a7f38c426"
   },
   "d4308a8f-81b7-4f67-b3ae-111bb0d87197": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Customer Success",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2087,6 +3426,21 @@
    "reopened": 0,
    "title": "Technical Program Manager, Field",
    "url": "https://jobs.ashbyhq.com/cursor/d4308a8f-81b7-4f67-b3ae-111bb0d87197"
+  },
+  "d59a1083-dce8-4d51-8a48-aebe31577fc4": {
+   "closed_at": null,
+   "department": "Marketing",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "community operations lead @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-09T21:10:19+00:00",
+   "posted_history": [
+    "2026-11-09T21:10:19+00:00"
+   ],
+   "reopened": 0,
+   "title": "Community Operations Lead",
+   "url": "https://jobs.ashbyhq.com/cursor/d59a1083-dce8-4d51-8a48-aebe31577fc4"
   },
   "d7f1bf1f-b684-4994-9b70-9ce7c78bacd2": {
    "closed_at": "2026-10-21T08:53:29+00:00",
@@ -2119,7 +3473,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/daa01e68-4183-43b3-8599-882ea60d7a60"
   },
   "dbdccf8f-cc8f-4701-94ea-5d0a33efad80": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2134,7 +3488,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/dbdccf8f-cc8f-4701-94ea-5d0a33efad80"
   },
   "dbefd2a3-0ea7-42ad-a50d-e85ee186267a": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "User Ops",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2148,8 +3502,23 @@
    "title": "Support Operations Systems Lead",
    "url": "https://jobs.ashbyhq.com/cursor/dbefd2a3-0ea7-42ad-a50d-e85ee186267a"
   },
-  "de322c3d-337e-4301-a7dc-90ccf331d60f": {
+  "dc69aeae-9cc4-4c57-aeab-560a8bc62d97": {
    "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "sr model engineer @ palo alto, ca",
+   "location": "Palo Alto, CA",
+   "posted_at": "2026-11-10T00:30:25+00:00",
+   "posted_history": [
+    "2026-11-10T00:30:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Model Engineer",
+   "url": "https://jobs.ashbyhq.com/cursor/dc69aeae-9cc4-4c57-aeab-560a8bc62d97"
+  },
+  "de322c3d-337e-4301-a7dc-90ccf331d60f": {
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Partnerships",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2163,8 +3532,23 @@
    "title": "Manager, Channel & Partners",
    "url": "https://jobs.ashbyhq.com/cursor/de322c3d-337e-4301-a7dc-90ccf331d60f"
   },
-  "e076ddca-ad40-4dd3-adbc-1da0740a92e6": {
+  "deee5e50-6634-43f7-aa73-b49703133cab": {
    "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "strategic account executive high tech @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-11-09T19:54:02+00:00",
+   "posted_history": [
+    "2026-11-09T19:54:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Account Executive, High Tech",
+   "url": "https://jobs.ashbyhq.com/cursor/deee5e50-6634-43f7-aa73-b49703133cab"
+  },
+  "e076ddca-ad40-4dd3-adbc-1da0740a92e6": {
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Marketing",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2179,7 +3563,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/e076ddca-ad40-4dd3-adbc-1da0740a92e6"
   },
   "e08262e8-c089-488d-9b59-9e21f7702b64": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2209,7 +3593,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/e22c4770-1776-4adb-b347-46b9c2ed9452"
   },
   "e3ccb495-a8a3-4ff0-a27b-262188abb9df": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Customer Success",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2225,7 +3609,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/e3ccb495-a8a3-4ff0-a27b-262188abb9df"
   },
   "e57836e8-c864-4817-aaa2-1b1263f0a352": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Solutions",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2238,6 +3622,21 @@
    "reopened": 0,
    "title": "Field Engineer - ASEAN",
    "url": "https://jobs.ashbyhq.com/cursor/e57836e8-c864-4817-aaa2-1b1263f0a352"
+  },
+  "e5ae8495-1aad-4ac2-ae6f-36c58d936d12": {
+   "closed_at": null,
+   "department": "Customer Success",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "ai deployment manager singapore @ singapore",
+   "location": "Singapore",
+   "posted_at": "2026-11-09T20:13:32+00:00",
+   "posted_history": [
+    "2026-11-09T20:13:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "AI Deployment Manager - Singapore",
+   "url": "https://jobs.ashbyhq.com/cursor/e5ae8495-1aad-4ac2-ae6f-36c58d936d12"
   },
   "e5d8ed7a-b93d-464f-a8d1-a4fa60e808d5": {
    "closed_at": "2026-10-22T08:55:54+00:00",
@@ -2253,6 +3652,36 @@
    "reopened": 0,
    "title": "Engineering Manager, Core Services",
    "url": "https://jobs.ashbyhq.com/cursor/e5d8ed7a-b93d-464f-a8d1-a4fa60e808d5"
+  },
+  "e7fc78cd-a4b9-468e-b286-e20cf3728d45": {
+   "closed_at": null,
+   "department": "Customer Success",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "solutions architect western europe @ london",
+   "location": "London",
+   "posted_at": "2026-11-09T21:33:41+00:00",
+   "posted_history": [
+    "2026-11-09T21:33:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Solutions Architect - Western Europe",
+   "url": "https://jobs.ashbyhq.com/cursor/e7fc78cd-a4b9-468e-b286-e20cf3728d45"
+  },
+  "eaae04b3-3212-4f41-bc1b-4c70424e74d0": {
+   "closed_at": null,
+   "department": "Marketing",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "lifecycle growth manager @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-09T23:46:13+00:00",
+   "posted_history": [
+    "2026-11-09T23:46:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Lifecycle Growth Manager",
+   "url": "https://jobs.ashbyhq.com/cursor/eaae04b3-3212-4f41-bc1b-4c70424e74d0"
   },
   "ef96e7fc-5d91-48b2-a8af-26dca8caab77": {
    "closed_at": "2026-11-04T11:35:04+00:00",
@@ -2270,7 +3699,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/ef96e7fc-5d91-48b2-a8af-26dca8caab77"
   },
   "f277b2d6-c27e-4cb9-9d0b-644e9730f06c": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Solutions",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -2285,7 +3714,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/f277b2d6-c27e-4cb9-9d0b-644e9730f06c"
   },
   "f2cf204b-f469-4997-9508-f218c5869706": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Solutions",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2298,6 +3727,51 @@
    "reopened": 0,
    "title": "Forward Deployed Strategist",
    "url": "https://jobs.ashbyhq.com/cursor/f2cf204b-f469-4997-9508-f218c5869706"
+  },
+  "f602d5d4-7961-479b-894e-7e975e7bfe4e": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "regional director strategic enterprise @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-09T21:02:59+00:00",
+   "posted_history": [
+    "2026-11-09T21:02:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Regional Director, Strategic Enterprise",
+   "url": "https://jobs.ashbyhq.com/cursor/f602d5d4-7961-479b-894e-7e975e7bfe4e"
+  },
+  "f75de440-51bf-4d7e-acf9-00e50ae4a281": {
+   "closed_at": null,
+   "department": "Design",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "sr brand designer @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-10T00:07:50+00:00",
+   "posted_history": [
+    "2026-11-10T00:07:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Brand Designer",
+   "url": "https://jobs.ashbyhq.com/cursor/f75de440-51bf-4d7e-acf9-00e50ae4a281"
+  },
+  "f7dd8f73-e204-4e34-bb4a-2e7fccc4f3f8": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "software engineer developer productivity @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-10T00:13:20+00:00",
+   "posted_history": [
+    "2026-11-10T00:13:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Developer Productivity",
+   "url": "https://jobs.ashbyhq.com/cursor/f7dd8f73-e204-4e34-bb4a-2e7fccc4f3f8"
   },
   "f7ec7811-a573-42fa-8ade-01e2d07681ef": {
    "closed_at": null,
@@ -2315,7 +3789,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/f7ec7811-a573-42fa-8ade-01e2d07681ef"
   },
   "fa719d62-14b9-44c7-b54f-a4435cc62dec": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Marketing",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2330,7 +3804,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/fa719d62-14b9-44c7-b54f-a4435cc62dec"
   },
   "fa7a821b-ca2b-43fe-8942-07f215a060c7": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-20T08:53:12+00:00",
@@ -2345,7 +3819,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/fa7a821b-ca2b-43fe-8942-07f215a060c7"
   },
   "fb97e304-9d99-4b07-9474-1290121a87d5": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Customer Success",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2360,7 +3834,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/fb97e304-9d99-4b07-9474-1290121a87d5"
   },
   "fcdf7683-bd29-49a5-9284-f000b04a266a": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

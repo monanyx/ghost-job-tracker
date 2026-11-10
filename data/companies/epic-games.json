@@ -87,6 +87,10 @@
   {
    "date": "2026-11-09",
    "open": 131
+  },
+  {
+   "date": "2026-11-10",
+   "open": 132
   }
  ],
  "jobs": {
@@ -1186,7 +1190,7 @@
    "url": "https://epicgames.com/careers/jobs/6147167004?gh_jid=6147167004"
   },
   "6147283004": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2669,6 +2673,36 @@
    "reopened": 0,
    "title": "Senior Language Programmer",
    "url": "https://epicgames.com/careers/jobs/6248481004?gh_jid=6248481004"
+  },
+  "6251540004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "ai programmer intern @ cary,north carolina,united states",
+   "location": "Cary,North Carolina,United States",
+   "posted_at": "2026-11-09T23:08:01+00:00",
+   "posted_history": [
+    "2026-11-09T23:08:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "AI Programmer Intern",
+   "url": "https://epicgames.com/careers/jobs/6251540004?gh_jid=6251540004"
+  },
+  "6252103004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "senior security engineer @ cary,north carolina,united states",
+   "location": "Cary,North Carolina,United States",
+   "posted_at": "2026-11-10T01:03:23+00:00",
+   "posted_history": [
+    "2026-11-10T01:03:23+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Security Engineer",
+   "url": "https://epicgames.com/careers/jobs/6252103004?gh_jid=6252103004"
   }
  }
 }

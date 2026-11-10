@@ -87,6 +87,10 @@
   {
    "date": "2026-11-09",
    "open": 268
+  },
+  {
+   "date": "2026-11-10",
+   "open": 271
   }
  ],
  "jobs": {
@@ -1625,14 +1629,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "staff software engineer travel expense @ new york, new york, united states",
+   "fp": "staff software engineer spend @ new york, new york, united states",
    "location": "New York, New York, United States",
    "posted_at": "2026-07-15T18:02:52+00:00",
    "posted_history": [
     "2026-07-15T18:02:52+00:00"
    ],
    "reopened": 0,
-   "title": "Staff Software Engineer, Travel & Expense",
+   "title": "Staff Software Engineer, Spend",
    "url": "https://www.brex.com/careers/8623289002?gh_jid=8623289002"
   },
   "8623291002": {
@@ -1655,14 +1659,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "staff software engineer travel expense @ seattle, washington, united states",
+   "fp": "staff software engineer spend @ seattle, washington, united states",
    "location": "Seattle, Washington, United States",
    "posted_at": "2026-07-15T18:02:55+00:00",
    "posted_history": [
     "2026-07-15T18:02:55+00:00"
    ],
    "reopened": 0,
-   "title": "Staff Software Engineer, Travel & Expense",
+   "title": "Staff Software Engineer, Spend",
    "url": "https://www.brex.com/careers/8635331002?gh_jid=8635331002"
   },
   "8635339002": {
@@ -1670,14 +1674,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "staff software engineer travel expense @ san francisco, california, united states",
+   "fp": "staff software engineer spend @ san francisco, california, united states",
    "location": "San Francisco, California, United States",
    "posted_at": "2026-07-15T18:02:56+00:00",
    "posted_history": [
     "2026-07-15T18:02:56+00:00"
    ],
    "reopened": 0,
-   "title": "Staff Software Engineer, Travel & Expense",
+   "title": "Staff Software Engineer, Spend",
    "url": "https://www.brex.com/careers/8635339002?gh_jid=8635339002"
   },
   "8635342002": {
@@ -1685,14 +1689,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "staff software engineer travel expense @ vancouver, british columbia, canada",
+   "fp": "staff software engineer spend @ vancouver, british columbia, canada",
    "location": "Vancouver, British Columbia, Canada",
    "posted_at": "2026-07-15T18:02:57+00:00",
    "posted_history": [
     "2026-07-15T18:02:57+00:00"
    ],
    "reopened": 0,
-   "title": "Staff Software Engineer, Travel & Expense",
+   "title": "Staff Software Engineer, Spend",
    "url": "https://www.brex.com/careers/8635342002?gh_jid=8635342002"
   },
   "8641189002": {
@@ -3061,7 +3065,7 @@
    "url": "https://www.brex.com/careers/8815443002?gh_jid=8815443002"
   },
   "8815457002": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3106,7 +3110,7 @@
    "url": "https://www.brex.com/careers/8815463002?gh_jid=8815463002"
   },
   "8815466002": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3556,7 +3560,7 @@
    "url": "https://www.brex.com/careers/8854221002?gh_jid=8854221002"
   },
   "8856842002": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3871,7 +3875,7 @@
    "url": "https://www.brex.com/careers/8865089002?gh_jid=8865089002"
   },
   "8868450002": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3886,7 +3890,7 @@
    "url": "https://www.brex.com/careers/8868450002?gh_jid=8868450002"
   },
   "8868453002": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4411,7 +4415,7 @@
    "url": "https://www.brex.com/careers/8912611002?gh_jid=8912611002"
   },
   "8912715002": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
@@ -4640,8 +4644,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-05T11:30:12+00:00",
-   "fp": "senior product designer t e @ united states",
-   "location": "United States",
+   "fp": "senior product designer t e @ san francisco, california, united states",
+   "location": "San Francisco, California, United States",
    "posted_at": "2026-11-04T23:35:13+00:00",
    "posted_history": [
     "2026-11-04T23:35:13+00:00"
@@ -4964,6 +4968,141 @@
    "reopened": 0,
    "title": "Startup & VC Partnerships Manager",
    "url": "https://www.brex.com/careers/8934022002?gh_jid=8934022002"
+  },
+  "8935085002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "director head of private equity @ san francisco, california, united states",
+   "location": "San Francisco, California, United States",
+   "posted_at": "2026-11-09T17:10:10+00:00",
+   "posted_history": [
+    "2026-11-09T17:10:10+00:00"
+   ],
+   "reopened": 0,
+   "title": "Director, Head of Private Equity",
+   "url": "https://www.brex.com/careers/8935085002?gh_jid=8935085002"
+  },
+  "8935086002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "director head of private equity @ seattle, washington, united states",
+   "location": "Seattle, Washington, United States",
+   "posted_at": "2026-11-09T17:11:01+00:00",
+   "posted_history": [
+    "2026-11-09T17:11:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "Director, Head of Private Equity",
+   "url": "https://www.brex.com/careers/8935086002?gh_jid=8935086002"
+  },
+  "8935242002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "software engineer internship 2027 @ são paulo, são paulo, brazil",
+   "location": "São Paulo, São Paulo, Brazil",
+   "posted_at": "2026-11-09T19:47:56+00:00",
+   "posted_history": [
+    "2026-11-09T19:47:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Internship - 2027",
+   "url": "https://www.brex.com/careers/8935242002?gh_jid=8935242002"
+  },
+  "8935731002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "senior product designer t e @ new york, new york, united states",
+   "location": "New York, New York, United States",
+   "posted_at": "2026-11-09T22:28:02+00:00",
+   "posted_history": [
+    "2026-11-09T22:28:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Designer, T&E",
+   "url": "https://www.brex.com/careers/8935731002?gh_jid=8935731002"
+  },
+  "8935856002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "senior software engineer frontend @ são paulo, são paulo, brazil",
+   "location": "São Paulo, São Paulo, Brazil",
+   "posted_at": "2026-11-10T01:21:03+00:00",
+   "posted_history": [
+    "2026-11-10T01:21:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Frontend",
+   "url": "https://www.brex.com/careers/8935856002?gh_jid=8935856002"
+  },
+  "8935955002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "senior product recruiter @ san francisco, california, united states",
+   "location": "San Francisco, California, United States",
+   "posted_at": "2026-11-10T05:51:25+00:00",
+   "posted_history": [
+    "2026-11-10T05:51:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Recruiter",
+   "url": "https://www.brex.com/careers/8935955002?gh_jid=8935955002"
+  },
+  "8935959002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "senior product recruiter @ seattle, washington, united states",
+   "location": "Seattle, Washington, United States",
+   "posted_at": "2026-11-10T05:51:27+00:00",
+   "posted_history": [
+    "2026-11-10T05:51:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Recruiter",
+   "url": "https://www.brex.com/careers/8935959002?gh_jid=8935959002"
+  },
+  "8935960002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "senior product recruiter @ new york, new york, united states",
+   "location": "New York, New York, United States",
+   "posted_at": "2026-11-10T05:51:29+00:00",
+   "posted_history": [
+    "2026-11-10T05:51:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Recruiter",
+   "url": "https://www.brex.com/careers/8935960002?gh_jid=8935960002"
+  },
+  "8935961002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "senior product recruiter @ vancouver, british columbia, canada",
+   "location": "Vancouver, British Columbia, Canada",
+   "posted_at": "2026-11-10T05:51:32+00:00",
+   "posted_history": [
+    "2026-11-10T05:51:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Recruiter",
+   "url": "https://www.brex.com/careers/8935961002?gh_jid=8935961002"
   }
  }
 }

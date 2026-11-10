@@ -87,6 +87,10 @@
   {
    "date": "2026-11-09",
    "open": 305
+  },
+  {
+   "date": "2026-11-10",
+   "open": 304
   }
  ],
  "jobs": {
@@ -601,7 +605,7 @@
    "url": "https://jobs.lever.co/palantir/1ef0cb77-03a2-4b60-b61d-ace924ef06e7"
   },
   "1f007e36-a620-4d15-bf0b-70dc3f3439d8": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Echo",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

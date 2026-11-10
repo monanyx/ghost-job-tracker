@@ -87,6 +87,10 @@
   {
    "date": "2026-11-09",
    "open": 165
+  },
+  {
+   "date": "2026-11-10",
+   "open": 156
   }
  ],
  "jobs": {
@@ -545,14 +549,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "engineering manager rider loyalty @ toronto, canada",
+   "fp": "engineering manager rider memberships @ toronto, canada",
    "location": "Toronto, Canada",
    "posted_at": "2026-08-21T14:34:37+00:00",
    "posted_history": [
     "2026-08-21T14:34:37+00:00"
    ],
    "reopened": 0,
-   "title": "Engineering Manager, Rider Loyalty",
+   "title": "Engineering Manager, Rider Memberships",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8638164002?gh_jid=8638164002"
   },
   "8639200002": {
@@ -1096,7 +1100,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8750763002?gh_jid=8750763002"
   },
   "8755550002": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1141,7 +1145,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8760360002?gh_jid=8760360002"
   },
   "8761299002": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1456,7 +1460,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8780060002?gh_jid=8780060002"
   },
   "8780095002": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2086,7 +2090,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8823445002?gh_jid=8823445002"
   },
   "8827588002": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2146,7 +2150,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8834157002?gh_jid=8834157002"
   },
   "8838923002": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2596,7 +2600,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8880066002?gh_jid=8880066002"
   },
   "8880839002": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2611,7 +2615,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8880839002?gh_jid=8880839002"
   },
   "8881573002": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3466,7 +3470,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8922700002?gh_jid=8922700002"
   },
   "8923592002": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -3631,7 +3635,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8927265002?gh_jid=8927265002"
   },
   "8927268002": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
@@ -3644,6 +3648,21 @@
    "reopened": 0,
    "title": "Software Engineer, Backend",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8927268002?gh_jid=8927268002"
+  },
+  "8927340002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "senior software engineer forecasting real time optimization @ seattle, wa",
+   "location": "Seattle, WA",
+   "posted_at": "2026-11-09T18:25:15+00:00",
+   "posted_history": [
+    "2026-11-09T18:25:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Forecasting & Real-Time Optimization",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8927340002?gh_jid=8927340002"
   },
   "8927736002": {
    "closed_at": null,
@@ -3721,7 +3740,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8928746002?gh_jid=8928746002"
   },
   "8930012002": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-05T11:30:12+00:00",

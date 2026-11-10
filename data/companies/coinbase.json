@@ -87,6 +87,10 @@
   {
    "date": "2026-11-09",
    "open": 283
+  },
+  {
+   "date": "2026-11-10",
+   "open": 285
   }
  ],
  "jobs": {
@@ -721,7 +725,7 @@
    "url": "https://www.coinbase.com/careers/positions/8017607?gh_jid=8017607"
   },
   "8017697": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1081,7 +1085,7 @@
    "url": "https://www.coinbase.com/careers/positions/8082199?gh_jid=8082199"
   },
   "8082829": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1484,6 +1488,21 @@
    "reopened": 0,
    "title": "Engineering Manager, FinHub - Financial Intelligence (Platform)",
    "url": "https://www.coinbase.com/careers/positions/8138031?gh_jid=8138031"
+  },
+  "8139750": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "software engineer wallets liquidity and bridging team @ remote - usa",
+   "location": "Remote - USA",
+   "posted_at": "2026-11-09T16:23:20+00:00",
+   "posted_history": [
+    "2026-11-09T16:23:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Wallets, Liquidity and Bridging Team",
+   "url": "https://www.coinbase.com/careers/positions/8139750?gh_jid=8139750"
   },
   "8144772": {
    "closed_at": null,
@@ -2476,7 +2495,7 @@
    "url": "https://www.coinbase.com/careers/positions/8198059?gh_jid=8198059"
   },
   "8198065": {
-   "closed_at": "2026-11-07T10:41:11+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2486,7 +2505,7 @@
    "posted_history": [
     "2026-09-11T22:20:01+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Strategic Program Lead",
    "url": "https://www.coinbase.com/careers/positions/8198065?gh_jid=8198065"
   },
@@ -2761,7 +2780,7 @@
    "url": "https://www.coinbase.com/careers/positions/8224726?gh_jid=8224726"
   },
   "8224901": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3494,6 +3513,21 @@
    "reopened": 0,
    "title": "Counsel, Employment",
    "url": "https://www.coinbase.com/careers/positions/8275465?gh_jid=8275465"
+  },
+  "8278991": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "software engineer 1 @ remote - usa",
+   "location": "Remote - USA",
+   "posted_at": "2026-11-09T19:43:45+00:00",
+   "posted_history": [
+    "2026-11-09T19:43:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer-1",
+   "url": "https://www.coinbase.com/careers/positions/8278991?gh_jid=8278991"
   },
   "8279479": {
    "closed_at": null,
@@ -4985,14 +5019,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-06T11:30:42+00:00",
-   "fp": "product manager ii @ remote - usa",
+   "fp": "product manager ii payment experiences @ remote - usa",
    "location": "Remote - USA",
    "posted_at": "2026-11-06T01:06:49+00:00",
    "posted_history": [
     "2026-11-06T01:06:49+00:00"
    ],
    "reopened": 0,
-   "title": "Product Manager II",
+   "title": "Product Manager II, Payment Experiences",
    "url": "https://www.coinbase.com/careers/positions/8356842?gh_jid=8356842"
   },
   "8356846": {
@@ -5075,15 +5109,45 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",
-   "fp": "senior product manager @ remote - usa",
+   "fp": "senior product manager payments trust network @ remote - usa",
    "location": "Remote - USA",
    "posted_at": "2026-11-06T22:01:40+00:00",
    "posted_history": [
     "2026-11-06T22:01:40+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Product Manager",
+   "title": "Senior Product Manager, Payments & TRUST Network",
    "url": "https://www.coinbase.com/careers/positions/8360386?gh_jid=8360386"
+  },
+  "8366842": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "staff software engineer ai developer productivity @ remote - usa",
+   "location": "Remote - USA",
+   "posted_at": "2026-11-09T23:21:06+00:00",
+   "posted_history": [
+    "2026-11-09T23:21:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer, AI Developer Productivity",
+   "url": "https://www.coinbase.com/careers/positions/8366842?gh_jid=8366842"
+  },
+  "8368072": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "senior software engineer @ remote - brazil",
+   "location": "Remote - Brazil",
+   "posted_at": "2026-11-09T21:22:49+00:00",
+   "posted_history": [
+    "2026-11-09T21:22:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer",
+   "url": "https://www.coinbase.com/careers/positions/8368072?gh_jid=8368072"
   }
  }
 }

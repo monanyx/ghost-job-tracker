@@ -87,6 +87,10 @@
   {
    "date": "2026-11-09",
    "open": 83
+  },
+  {
+   "date": "2026-11-10",
+   "open": 80
   }
  ],
  "jobs": {
@@ -316,7 +320,7 @@
    "url": "https://job-boards.greenhouse.io/gusto/jobs/7833882"
   },
   "7868243": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -871,7 +875,7 @@
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8110106"
   },
   "8119978": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",
@@ -1385,8 +1389,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "recruiting operations and transformation lead @ denver, co - hybrid; new york, ny - hybrid; san francisco, ca - hybrid",
-   "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+   "fp": "recruiting operations and transformation lead @ atlanta, ga - hybrid; denver, co - hybrid; new york, ny - hybrid; san francisco, ca - hybrid; scottsdale, az - hybrid",
+   "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Scottsdale, AZ - Hybrid",
    "posted_at": "2026-10-02T21:42:55+00:00",
    "posted_history": [
     "2026-10-02T21:42:55+00:00"
@@ -1610,8 +1614,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-05T11:30:12+00:00",
-   "fp": "people tech business systems analyst @ denver, co - hybrid; new york, ny - hybrid; san francisco, ca - hybrid",
-   "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+   "fp": "people tech business systems analyst @ atlanta, ga - hybrid; denver, co - hybrid; new york, ny - hybrid; san francisco, ca - hybrid; scottsdale, az - hybrid",
+   "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Scottsdale, AZ - Hybrid",
    "posted_at": "2026-11-04T16:13:28+00:00",
    "posted_history": [
     "2026-11-04T16:13:28+00:00"
@@ -1636,7 +1640,7 @@
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8257486"
   },
   "8257865": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1651,7 +1655,7 @@
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8257865"
   },
   "8257877": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1805,8 +1809,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "tax resolution advocate @ denver, co - hybrid; scottsdale, az - hybrid",
-   "location": "Denver, CO - Hybrid; Scottsdale, AZ - Hybrid",
+   "fp": "tax resolution advocate @ atlanta, ga - hybrid; denver, co - hybrid; scottsdale, az - hybrid",
+   "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid; Scottsdale, AZ - Hybrid",
    "posted_at": "2026-10-18T22:37:41+00:00",
    "posted_history": [
     "2026-10-18T22:37:41+00:00"
@@ -1955,15 +1959,30 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",
-   "fp": "product marketing lead business insurance @ atlanta, ga - hybrid; denver, co - hybrid; new york, ny - hybrid; san francisco, ca - hybrid",
+   "fp": "product marketing lead @ atlanta, ga - hybrid; denver, co - hybrid; new york, ny - hybrid; san francisco, ca - hybrid",
    "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
    "posted_at": "2026-11-06T17:53:04+00:00",
    "posted_history": [
     "2026-11-06T17:53:04+00:00"
    ],
    "reopened": 0,
-   "title": "Product Marketing Lead, Business Insurance",
+   "title": "Product Marketing Lead",
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8357701"
+  },
+  "8360497": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "software engineer financial data payments @ denver, co - hybrid; new york, ny - hybrid; san francisco, ca - hybrid; seattle, wa - remote",
+   "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Seattle, WA - Remote",
+   "posted_at": "2026-11-09T20:25:24+00:00",
+   "posted_history": [
+    "2026-11-09T20:25:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer,  Financial Data & Payments",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8360497"
   }
  }
 }

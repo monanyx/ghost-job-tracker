@@ -87,6 +87,10 @@
   {
    "date": "2026-11-09",
    "open": 373
+  },
+  {
+   "date": "2026-11-10",
+   "open": 376
   }
  ],
  "jobs": {
@@ -889,7 +893,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/1e198178-a4db-4587-a024-f8171ce0e8fd"
   },
   "1f0af901-144e-402e-8b42-297020c0b9a1": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Finance",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -1057,6 +1061,21 @@
    "reopened": 1,
    "title": "Senior Engineering Manager, Backend",
    "url": "https://jobs.ashbyhq.com/harvey/235f1793-7b5a-470b-b6ee-4f0f0249623c"
+  },
+  "239a5672-24da-4a1d-946f-f69bcaaef81b": {
+   "closed_at": null,
+   "department": "Human Resources",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "employee relations business partner @ new york",
+   "location": "New York",
+   "posted_at": "2026-11-09T15:04:10+00:00",
+   "posted_history": [
+    "2026-11-09T15:04:10+00:00"
+   ],
+   "reopened": 0,
+   "title": "Employee Relations Business Partner",
+   "url": "https://jobs.ashbyhq.com/harvey/239a5672-24da-4a1d-946f-f69bcaaef81b"
   },
   "23a93539-af9f-400d-9da6-dd9165364002": {
    "closed_at": "2026-11-05T11:30:12+00:00",
@@ -1663,6 +1682,21 @@
    "title": "Compensation Business Partner, International",
    "url": "https://jobs.ashbyhq.com/harvey/3829206d-192f-4017-a9ce-1f9c4c012711"
   },
+  "389a98fb-f2d5-4b68-a550-4000bdb502de": {
+   "closed_at": null,
+   "department": "Go to Market",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "legal engineer product specialist @ singapore",
+   "location": "Singapore",
+   "posted_at": "2026-11-09T12:11:45+00:00",
+   "posted_history": [
+    "2026-11-09T12:11:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Legal Engineer, Product Specialist",
+   "url": "https://jobs.ashbyhq.com/harvey/389a98fb-f2d5-4b68-a550-4000bdb502de"
+  },
   "3931a1b7-573d-4bd8-8fed-3fa8132c3201": {
    "closed_at": null,
    "department": "Engineering",
@@ -1846,7 +1880,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/41e581a5-b5ee-47cb-94e5-6224f1559e4d"
   },
   "42c60b1a-5be4-4b8b-9c36-288c0d214551": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "IT",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2162,7 +2196,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/4d661139-19ad-42af-9f6c-a68c71263e14"
   },
   "4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc": {
-   "closed_at": "2026-11-04T11:35:04+00:00",
+   "closed_at": null,
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2172,7 +2206,7 @@
    "posted_history": [
     "2026-10-02T19:13:48+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Software Engineer, New Grad (2027)",
    "url": "https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc"
   },
@@ -4105,6 +4139,21 @@
    "title": "Customer Success Leader, Majors",
    "url": "https://jobs.ashbyhq.com/harvey/905454df-38a7-44bb-8ea0-b93b1d85b04c"
   },
+  "92fd0f92-4d51-432c-91c3-7e4dba0eacd9": {
+   "closed_at": null,
+   "department": "Business Development",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "partner manager @ sydney",
+   "location": "Sydney",
+   "posted_at": "2026-11-10T01:47:30+00:00",
+   "posted_history": [
+    "2026-11-10T01:47:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Partner Manager",
+   "url": "https://jobs.ashbyhq.com/harvey/92fd0f92-4d51-432c-91c3-7e4dba0eacd9"
+  },
   "9318ba76-60df-4b39-b036-95f488a46c7c": {
    "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "Go to Market",
@@ -4164,6 +4213,21 @@
    "reopened": 0,
    "title": "Senior Product Operations Manager, Data",
    "url": "https://jobs.ashbyhq.com/harvey/94495873-2f90-4c42-a45d-b10b2b0756a7"
+  },
+  "94bcfafb-4059-42f6-ae9c-3c9cd4f0d629": {
+   "closed_at": null,
+   "department": "Business Development",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "corporate business development manager @ sydney",
+   "location": "Sydney",
+   "posted_at": "2026-11-10T01:48:58+00:00",
+   "posted_history": [
+    "2026-11-10T01:48:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Corporate Business Development Manager",
+   "url": "https://jobs.ashbyhq.com/harvey/94bcfafb-4059-42f6-ae9c-3c9cd4f0d629"
   },
   "9515e54b-bae5-414e-a166-9a6231a610a4": {
    "closed_at": null,
@@ -4331,7 +4395,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/993e43fa-a9a1-45be-9d74-3a96c7c303ef"
   },
   "99aceabe-916e-4491-97e9-42f2471bf087": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Go to Market",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4936,7 +5000,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/b0570329-6c45-4446-9314-146c9dead90b"
   },
   "b0996df6-6b6e-42be-a4f9-0084536068f5": {
-   "closed_at": "2026-11-04T11:35:04+00:00",
+   "closed_at": null,
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4946,7 +5010,7 @@
    "posted_history": [
     "2026-10-02T19:13:45+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Software Engineer, New Grad (2027)",
    "url": "https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5"
   },

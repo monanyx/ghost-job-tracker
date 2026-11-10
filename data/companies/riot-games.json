@@ -87,6 +87,10 @@
   {
    "date": "2026-11-09",
    "open": 186
+  },
+  {
+   "date": "2026-11-10",
+   "open": 190
   }
  ],
  "jobs": {
@@ -689,6 +693,21 @@
    "reopened": 0,
    "title": "Sr. Principal Insights Analyst - Central Product Insights",
    "url": "https://www.riotgames.com/en/work-with-us/job/7940524?gh_jid=7940524"
+  },
+  "7944656": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "principal machine learning engineer league of legends @ los angeles, usa",
+   "location": "Los Angeles, USA",
+   "posted_at": "2026-08-19T23:10:35+00:00",
+   "posted_history": [
+    "2026-08-19T23:10:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Machine Learning Engineer (AI/Platform)- League of Legends",
+   "url": "https://www.riotgames.com/en/work-with-us/job/7944656?gh_jid=7944656"
   },
   "7959470": {
    "closed_at": null,
@@ -1755,6 +1774,21 @@
    "title": "Staff Application Engineer, OneStream",
    "url": "https://www.riotgames.com/en/work-with-us/job/8178049?gh_jid=8178049"
   },
+  "8178071": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "director machine learning engineering ai foundations @ los angeles, usa",
+   "location": "Los Angeles, USA",
+   "posted_at": "2026-11-09T21:08:30+00:00",
+   "posted_history": [
+    "2026-11-09T21:08:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Director, Machine Learning Engineering - AI Foundations",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8178071?gh_jid=8178071"
+  },
   "8184786": {
    "closed_at": null,
    "department": "",
@@ -2086,7 +2120,7 @@
    "url": "https://www.riotgames.com/en/work-with-us/job/8221981?gh_jid=8221981"
   },
   "8222014": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2821,18 +2855,18 @@
    "url": "https://www.riotgames.com/en/work-with-us/job/8293695?gh_jid=8293695"
   },
   "8293709": {
-   "closed_at": "2026-10-29T10:25:29+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-20T08:53:12+00:00",
-   "fp": "senior software engineer engine tools unpublished r d product @ sydney, australia",
+   "fp": "senior software engineer social and store unpublished r d product @ sydney, australia",
    "location": "Sydney, Australia",
    "posted_at": "2026-10-20T02:46:03+00:00",
    "posted_history": [
     "2026-10-20T02:46:03+00:00"
    ],
-   "reopened": 0,
-   "title": "Senior Software Engineer, Engine & Tools, Unpublished R&D Product",
+   "reopened": 1,
+   "title": "Senior Software Engineer , Social and Store, Unpublished R&D Product",
    "url": "https://www.riotgames.com/en/work-with-us/job/8293709?gh_jid=8293709"
   },
   "8293711": {
@@ -3329,6 +3363,36 @@
    "reopened": 0,
    "title": "Senior Software Engineer, Services - VALORANT, Player Dynamics",
    "url": "https://www.riotgames.com/en/work-with-us/job/8353725?gh_jid=8353725"
+  },
+  "8359392": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "senior manager software engineering league of legends @ los angeles, usa",
+   "location": "Los Angeles, USA",
+   "posted_at": "2026-11-09T19:50:50+00:00",
+   "posted_history": [
+    "2026-11-09T19:50:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Software Engineering (Graphics) - League of Legends",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8359392?gh_jid=8359392"
+  },
+  "8368313": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "principal program manager strategy operations @ dublin, ireland",
+   "location": "Dublin, Ireland",
+   "posted_at": "2026-11-09T21:00:23+00:00",
+   "posted_history": [
+    "2026-11-09T21:00:23+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Program Manager, Strategy & Operations (12 Month Contract)",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8368313?gh_jid=8368313"
   }
  }
 }

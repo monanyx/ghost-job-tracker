@@ -87,6 +87,10 @@
   {
    "date": "2026-11-09",
    "open": 39
+  },
+  {
+   "date": "2026-11-10",
+   "open": 41
   }
  ],
  "jobs": {
@@ -181,18 +185,19 @@
    "url": "https://jobs.ashbyhq.com/sentry/2b5e1ac5-9709-4280-9ceb-51bff95328e3"
   },
   "2cdc2ba7-8406-452a-b84f-d94d8e7a09bb": {
-   "closed_at": "2026-11-07T10:41:11+00:00",
+   "closed_at": null,
    "department": "Sales ",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "forward deployed engineer @ san francisco, california",
+   "fp": "senior solutions engineer enterprise @ san francisco, california",
    "location": "San Francisco, California",
-   "posted_at": "2026-09-04T03:45:26+00:00",
+   "posted_at": "2026-11-09T23:19:46+00:00",
    "posted_history": [
-    "2026-09-04T03:45:26+00:00"
+    "2026-09-04T03:45:26+00:00",
+    "2026-11-09T23:19:46+00:00"
    ],
-   "reopened": 0,
-   "title": "Forward Deployed Engineer",
+   "reopened": 1,
+   "title": "Senior Solutions Engineer, Enterprise",
    "url": "https://jobs.ashbyhq.com/sentry/2cdc2ba7-8406-452a-b84f-d94d8e7a09bb"
   },
   "35193bfb-bb6b-4479-85be-0945e5b94a3e": {
@@ -464,6 +469,21 @@
    "reopened": 0,
    "title": "Solutions Engineer",
    "url": "https://jobs.ashbyhq.com/sentry/9889cf59-cd32-4aff-bff7-645bb1be4e14"
+  },
+  "9b759583-60d2-4673-9da6-026731956300": {
+   "closed_at": null,
+   "department": "Sales ",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "forward deployed engineer @ san francisco, california",
+   "location": "San Francisco, California",
+   "posted_at": "2026-11-09T23:18:07+00:00",
+   "posted_history": [
+    "2026-11-09T23:18:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Engineer",
+   "url": "https://jobs.ashbyhq.com/sentry/9b759583-60d2-4673-9da6-026731956300"
   },
   "9b7ba790-75d1-404c-bf9f-c3776179f7f2": {
    "closed_at": null,

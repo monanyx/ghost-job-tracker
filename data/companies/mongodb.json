@@ -87,6 +87,10 @@
   {
    "date": "2026-11-09",
    "open": 375
+  },
+  {
+   "date": "2026-11-10",
+   "open": 372
   }
  ],
  "jobs": {
@@ -466,7 +470,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=7194933"
   },
   "7211805": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -541,7 +545,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=7219021"
   },
   "7219459": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2656,7 +2660,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8077182"
   },
   "8077491": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3886,7 +3890,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8160426"
   },
   "8160506": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4156,7 +4160,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8173737"
   },
   "8173745": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4606,7 +4610,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8200434"
   },
   "8200773": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5505,6 +5509,21 @@
    "title": "Lead, Technical Services Engineer - Partners",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8234586"
   },
+  "8236734": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "senior engagement manager @ sydney",
+   "location": "Sydney",
+   "posted_at": "2026-11-10T06:20:23+00:00",
+   "posted_history": [
+    "2026-11-10T06:20:23+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Engagement Manager",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8236734"
+  },
   "8236841": {
    "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
@@ -5864,6 +5883,21 @@
    "reopened": 0,
    "title": "Cloud Operations Engineer",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8259719"
+  },
+  "8259884": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "manager sales development @ austin",
+   "location": "Austin",
+   "posted_at": "2026-11-09T14:36:23+00:00",
+   "posted_history": [
+    "2026-11-09T14:36:23+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Sales Development",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8259884"
   },
   "8260947": {
    "closed_at": null,
@@ -6811,7 +6845,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8313374"
   },
   "8313598": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
@@ -6854,6 +6888,21 @@
    "reopened": 0,
    "title": "Renewals Manager (Italian Speaker)",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8318370"
+  },
+  "8318375": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "renewals specialist @ mexico city",
+   "location": "Mexico City",
+   "posted_at": "2026-11-09T15:21:18+00:00",
+   "posted_history": [
+    "2026-11-09T15:21:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Renewals Specialist",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8318375"
   },
   "8318378": {
    "closed_at": null,
@@ -7456,7 +7505,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8355989"
   },
   "8358879": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",
@@ -7514,6 +7563,36 @@
    "reopened": 0,
    "title": "Candidate Experience Coordinator, Contract",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8359939"
+  },
+  "8360713": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "senior software engineer atlas agent engine @ united states",
+   "location": "United States",
+   "posted_at": "2026-11-09T17:02:38+00:00",
+   "posted_history": [
+    "2026-11-09T17:02:38+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Atlas Agent Engine",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8360713"
+  },
+  "8360715": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "senior software engineer atlas agent engine @ alberta; british columbia; manitoba; quebec; toronto",
+   "location": "Alberta; British Columbia; Manitoba; Quebec; Toronto",
+   "posted_at": "2026-11-09T19:44:48+00:00",
+   "posted_history": [
+    "2026-11-09T19:44:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Atlas Agent Engine",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8360715"
   }
  }
 }

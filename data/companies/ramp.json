@@ -87,6 +87,10 @@
   {
    "date": "2026-11-09",
    "open": 169
+  },
+  {
+   "date": "2026-11-10",
+   "open": 172
   }
  ],
  "jobs": {
@@ -170,14 +174,14 @@
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
-   "fp": "software engineer enterprise product @ new york, ny (hq)",
+   "fp": "software engineer forward deployed enterprise product @ new york, ny (hq)",
    "location": "New York, NY (HQ)",
    "posted_at": "2026-10-22T19:20:13+00:00",
    "posted_history": [
     "2026-10-22T19:20:13+00:00"
    ],
    "reopened": 0,
-   "title": "Software Engineer, Enterprise Product",
+   "title": "Software Engineer, Forward Deployed, Enterprise Product",
    "url": "https://jobs.ashbyhq.com/ramp/09360e92-fc95-4ba6-9611-dfefd60b13ce"
   },
   "09a9381c-677b-40a5-9ff1-027bd4302c13": {
@@ -451,7 +455,7 @@
    "url": "https://jobs.ashbyhq.com/ramp/2888b101-b1da-4e53-a02e-1bb9b1b5a951"
   },
   "29a5da77-37f0-402a-92bc-072778e77ed8": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
@@ -600,6 +604,21 @@
    "title": "Manager, Mid-Market Solutions Consulting",
    "url": "https://jobs.ashbyhq.com/ramp/318e7138-151e-4ed2-8b85-a017d234ef12"
   },
+  "31bd9e9e-102f-4051-abc1-22cdd7d9617a": {
+   "closed_at": null,
+   "department": "Legal",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "legal privacy operations associate @ new york, ny (hq)",
+   "location": "New York, NY (HQ)",
+   "posted_at": "2026-11-09T20:49:25+00:00",
+   "posted_history": [
+    "2026-11-09T20:49:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Legal & Privacy Operations Associate",
+   "url": "https://jobs.ashbyhq.com/ramp/31bd9e9e-102f-4051-abc1-22cdd7d9617a"
+  },
   "32fb4396-1976-45de-8137-79e6eecf40b3": {
    "closed_at": null,
    "department": "Sales",
@@ -695,14 +714,14 @@
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "tech lead ramp travel @ new york, ny (hq)",
+   "fp": "software engineer tech lead travel @ new york, ny (hq)",
    "location": "New York, NY (HQ)",
    "posted_at": "2026-09-22T19:00:18+00:00",
    "posted_history": [
     "2026-09-22T19:00:18+00:00"
    ],
    "reopened": 0,
-   "title": "Tech Lead, Ramp Travel",
+   "title": "Software Engineer, Tech Lead, Travel",
    "url": "https://jobs.ashbyhq.com/ramp/3c43dea1-3cd7-45ab-96f1-4054cfa875ff"
   },
   "3f4509ad-1858-478b-a7fb-bcd792d9575a": {
@@ -771,14 +790,14 @@
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "software engineer developer api @ new york, ny (hq)",
+   "fp": "software engineer backend developer api @ new york, ny (hq)",
    "location": "New York, NY (HQ)",
    "posted_at": "2026-06-29T17:10:36+00:00",
    "posted_history": [
     "2026-06-29T17:10:36+00:00"
    ],
    "reopened": 0,
-   "title": "Software Engineer, Developer API",
+   "title": "Software Engineer, Backend, Developer API",
    "url": "https://jobs.ashbyhq.com/ramp/42527ca9-03b9-499e-a5c4-18e4245af138"
   },
   "428f41e2-48e8-409d-b5e3-8053f7fc7a27": {
@@ -846,14 +865,14 @@
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
-   "fp": "backend engineer accounts receivable @ new york, ny (hq)",
+   "fp": "software engineer backend accounts receivable @ new york, ny (hq)",
    "location": "New York, NY (HQ)",
    "posted_at": "2026-10-20T13:26:07+00:00",
    "posted_history": [
     "2026-10-20T13:26:07+00:00"
    ],
    "reopened": 0,
-   "title": "Backend Engineer | Accounts Receivable",
+   "title": "Software Engineer, Backend, Accounts Receivable",
    "url": "https://jobs.ashbyhq.com/ramp/47a75895-24af-49b7-9858-1be0ec0e7c71"
   },
   "4859cd5e-f2a9-44d7-81f7-8bfc0e62369f": {
@@ -861,14 +880,14 @@
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "mobile engineer ios @ new york, ny (hq)",
+   "fp": "software engineer ios @ new york, ny (hq)",
    "location": "New York, NY (HQ)",
    "posted_at": "2025-07-31T21:50:51+00:00",
    "posted_history": [
     "2025-07-31T21:50:51+00:00"
    ],
    "reopened": 0,
-   "title": "Mobile Engineer, iOS",
+   "title": "Software Engineer, iOS",
    "url": "https://jobs.ashbyhq.com/ramp/4859cd5e-f2a9-44d7-81f7-8bfc0e62369f"
   },
   "4b3063cb-bb07-40d5-93d3-b7ce556f96e8": {
@@ -996,14 +1015,14 @@
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "software engineer credit @ new york, ny (hq)",
+   "fp": "software engineer backend credit @ new york, ny (hq)",
    "location": "New York, NY (HQ)",
    "posted_at": "2026-05-13T20:28:14+00:00",
    "posted_history": [
     "2026-05-13T20:28:14+00:00"
    ],
    "reopened": 0,
-   "title": "Software Engineer, Credit",
+   "title": "Software Engineer, Backend, Credit",
    "url": "https://jobs.ashbyhq.com/ramp/5598f7b8-4ae2-4105-a2b4-2d0f55c54c40"
   },
   "566c4ad0-03ea-4022-8f11-04f0d8969f97": {
@@ -1067,17 +1086,18 @@
    "url": "https://jobs.ashbyhq.com/ramp/606475af-b74f-42c4-978a-dde138a86ac7"
   },
   "6075e1dc-c833-4e27-a789-61d3a596c66c": {
-   "closed_at": "2026-11-08T10:46:34+00:00",
+   "closed_at": null,
    "department": "Security",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",
    "fp": "senior security engineer identity @ new york, ny (hq)",
    "location": "New York, NY (HQ)",
-   "posted_at": "2026-11-06T19:57:59+00:00",
+   "posted_at": "2026-11-09T19:40:54+00:00",
    "posted_history": [
-    "2026-11-06T19:57:59+00:00"
+    "2026-11-06T19:57:59+00:00",
+    "2026-11-09T19:40:54+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Security Engineer, Identity",
    "url": "https://jobs.ashbyhq.com/ramp/6075e1dc-c833-4e27-a789-61d3a596c66c"
   },
@@ -1666,6 +1686,21 @@
    "title": "Product Operations Specialist | Procurement",
    "url": "https://jobs.ashbyhq.com/ramp/871d2fc8-def8-4837-a9b0-7cc4fe126c2b"
   },
+  "883fbb33-65a9-4ace-97ad-2a1f588020c2": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "ai account executive glass @ new york, ny (hq)",
+   "location": "New York, NY (HQ)",
+   "posted_at": "2026-11-10T02:03:24+00:00",
+   "posted_history": [
+    "2026-11-10T02:03:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "AI Account Executive, Glass",
+   "url": "https://jobs.ashbyhq.com/ramp/883fbb33-65a9-4ace-97ad-2a1f588020c2"
+  },
   "8baec095-2235-41ab-ab64-9abc57823b4b": {
    "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "Product",
@@ -1800,6 +1835,21 @@
    "reopened": 0,
    "title": "Software Engineer, Fraud & Identity",
    "url": "https://jobs.ashbyhq.com/ramp/8fa367de-71ba-409e-befd-175a163acb1b"
+  },
+  "939892e5-5273-4bfc-8c41-a6c51cabb228": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "software engineer backend comms platform @ remote (us)",
+   "location": "Remote (US)",
+   "posted_at": "2026-11-09T18:22:09+00:00",
+   "posted_history": [
+    "2026-11-09T18:22:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Backend, Comms Platform",
+   "url": "https://jobs.ashbyhq.com/ramp/939892e5-5273-4bfc-8c41-a6c51cabb228"
   },
   "94d79eed-34db-42c8-b47c-5edef335b7f2": {
    "closed_at": null,
@@ -2133,7 +2183,7 @@
    "url": "https://jobs.ashbyhq.com/ramp/ad8bb2ef-9c8a-4379-829a-47143257a23b"
   },
   "ad9d3118-1ab4-488a-a6e8-3784082f92a4": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2310,7 +2360,7 @@
     "2026-07-28T17:56:57+00:00"
    ],
    "reopened": 0,
-   "title": "Software Engineer, Forward Deployed AI Solutions",
+   "title": "Software Engineer, Forward Deployed, AI Solutions",
    "url": "https://jobs.ashbyhq.com/ramp/b614563f-3ce6-4dca-b5ba-0e5a6c8bda27"
   },
   "b66be397-240b-41a6-9b05-493299b270a9": {
@@ -2348,14 +2398,14 @@
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
-   "fp": "backend engineer ai spend management @ new york, ny (hq)",
+   "fp": "software engineer backend ai spend management @ new york, ny (hq)",
    "location": "New York, NY (HQ)",
    "posted_at": "2026-10-20T13:40:20+00:00",
    "posted_history": [
     "2026-10-20T13:40:20+00:00"
    ],
    "reopened": 0,
-   "title": "Backend Engineer | AI Spend Management",
+   "title": "Software Engineer, Backend, AI Spend Management",
    "url": "https://jobs.ashbyhq.com/ramp/b7514711-8a29-4bd2-a97a-967be14e336f"
   },
   "b9568fb8-a47e-4738-87fb-a6d88c3a505f": {
@@ -2453,14 +2503,14 @@
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
-   "fp": "backend engineer accounting @ new york, ny (hq)",
+   "fp": "software engineer backend accounting @ new york, ny (hq)",
    "location": "New York, NY (HQ)",
    "posted_at": "2026-10-21T18:22:42+00:00",
    "posted_history": [
     "2026-10-21T18:22:42+00:00"
    ],
    "reopened": 0,
-   "title": "Backend Engineer | Accounting",
+   "title": "Software Engineer, Backend, Accounting",
    "url": "https://jobs.ashbyhq.com/ramp/c0a71032-1efb-40dc-b1e8-aa0f30cd5961"
   },
   "c0fe115a-6251-4608-af07-d222ab6a0f42": {
@@ -2599,17 +2649,18 @@
    "url": "https://jobs.ashbyhq.com/ramp/cf3516f6-4d6b-4872-831f-c8ef4a3078ee"
   },
   "d1183b00-6590-4fe4-a585-28d84e578fe3": {
-   "closed_at": "2026-11-03T11:21:29+00:00",
+   "closed_at": null,
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "software engineer security stablecoin @ new york, ny (hq)",
    "location": "New York, NY (HQ)",
-   "posted_at": "2026-05-13T20:28:09+00:00",
+   "posted_at": "2026-11-09T22:11:13+00:00",
    "posted_history": [
-    "2026-05-13T20:28:09+00:00"
+    "2026-05-13T20:28:09+00:00",
+    "2026-11-09T22:11:13+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Software Engineer, Security, Stablecoin",
    "url": "https://jobs.ashbyhq.com/ramp/d1183b00-6590-4fe4-a585-28d84e578fe3"
   },
@@ -2950,14 +3001,14 @@
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "mobile engineer android @ new york, ny (hq)",
+   "fp": "software engineer android @ new york, ny (hq)",
    "location": "New York, NY (HQ)",
    "posted_at": "2025-07-31T21:58:34+00:00",
    "posted_history": [
     "2025-07-31T21:58:34+00:00"
    ],
    "reopened": 0,
-   "title": "Mobile Engineer, Android",
+   "title": "Software Engineer, Android",
    "url": "https://jobs.ashbyhq.com/ramp/f564dcf9-9390-4a3f-896f-8047a5086040"
   },
   "f5b60cf1-c0ec-42c1-89db-ece853e998ab": {

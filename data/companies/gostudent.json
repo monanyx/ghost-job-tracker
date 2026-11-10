@@ -87,6 +87,10 @@
   {
    "date": "2026-11-09",
    "open": 20
+  },
+  {
+   "date": "2026-11-10",
+   "open": 21
   }
  ],
  "jobs": {
@@ -226,7 +230,7 @@
    "url": "https://www.gostudent.org/en-gb/job-position/?gh_jid=4747003101"
   },
   "4838320101": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -511,7 +515,7 @@
    "url": "https://www.gostudent.org/en-gb/job-position/?gh_jid=5009711101"
   },
   "5010010101": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -556,7 +560,7 @@
    "url": "https://www.gostudent.org/en-gb/job-position/?gh_jid=5010733101"
   },
   "5011129101": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -601,7 +605,7 @@
    "url": "https://www.gostudent.org/en-gb/job-position/?gh_jid=5028336101"
   },
   "5028340101": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-05T11:30:12+00:00",
@@ -719,6 +723,81 @@
    "reopened": 0,
    "title": "Technical Product Generalist (m/w/d) - Spain remote",
    "url": "https://www.gostudent.org/en-gb/job-position/?gh_jid=5030152101"
+  },
+  "5030678101": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "ai venture builder founder in residence vienna @ vienna, austria",
+   "location": "Vienna, Austria",
+   "posted_at": "2026-11-09T12:10:08+00:00",
+   "posted_history": [
+    "2026-11-09T12:10:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "AI Venture Builder / Founder in Residence (m/f/d) - Vienna",
+   "url": "https://www.gostudent.org/en-gb/job-position/?gh_jid=5030678101"
+  },
+  "5030727101": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "ai venture builder founder in residence germany remote @ germany remote",
+   "location": "Germany Remote",
+   "posted_at": "2026-11-09T12:47:47+00:00",
+   "posted_history": [
+    "2026-11-09T12:47:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "AI Venture Builder / Founder in Residence (m/f/d) - Germany remote",
+   "url": "https://www.gostudent.org/en-gb/job-position/?gh_jid=5030727101"
+  },
+  "5030752101": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "ai venture builder founder in residence spain remote @ spain remote",
+   "location": "Spain Remote",
+   "posted_at": "2026-11-09T12:52:37+00:00",
+   "posted_history": [
+    "2026-11-09T12:52:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "AI Venture Builder / Founder in Residence (m/f/d) - Spain remote",
+   "url": "https://www.gostudent.org/en-gb/job-position/?gh_jid=5030752101"
+  },
+  "5030795101": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "ai venture builder founder in residence italy remote @ italy remote",
+   "location": "Italy Remote",
+   "posted_at": "2026-11-09T13:19:47+00:00",
+   "posted_history": [
+    "2026-11-09T13:19:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "AI Venture Builder / Founder in Residence (m/f/d) - Italy remote",
+   "url": "https://www.gostudent.org/en-gb/job-position/?gh_jid=5030795101"
+  },
+  "5031831101": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "ai venture builder founder in residence turkey remote @ turkey remote",
+   "location": "Turkey Remote",
+   "posted_at": "2026-11-10T07:56:29+00:00",
+   "posted_history": [
+    "2026-11-10T07:56:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "AI Venture Builder / Founder in Residence (m/f/d) - Turkey remote",
+   "url": "https://www.gostudent.org/en-gb/job-position/?gh_jid=5031831101"
   }
  }
 }

@@ -87,6 +87,10 @@
   {
    "date": "2026-11-09",
    "open": 29
+  },
+  {
+   "date": "2026-11-10",
+   "open": 31
   }
  ],
  "jobs": {
@@ -539,6 +543,36 @@
    "reopened": 0,
    "title": "Enterprise Account Executive UKI (f/m/d)",
    "url": "https://job-boards.greenhouse.io/contentful/jobs/8330490"
+  },
+  "8356206": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "demo software engineer @ london, england, united kingdom",
+   "location": "London, England, United Kingdom",
+   "posted_at": "2026-11-09T18:05:33+00:00",
+   "posted_history": [
+    "2026-11-09T18:05:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Demo Software Engineer (f/m/d)",
+   "url": "https://job-boards.greenhouse.io/contentful/jobs/8356206"
+  },
+  "8356240": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "demo software engineer @ dublin, ireland",
+   "location": "Dublin, Ireland",
+   "posted_at": "2026-11-09T18:05:36+00:00",
+   "posted_history": [
+    "2026-11-09T18:05:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Demo Software Engineer (f/m/d)",
+   "url": "https://job-boards.greenhouse.io/contentful/jobs/8356240"
   }
  }
 }

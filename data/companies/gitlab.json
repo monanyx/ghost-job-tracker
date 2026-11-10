@@ -87,6 +87,10 @@
   {
    "date": "2026-11-09",
    "open": 250
+  },
+  {
+   "date": "2026-11-10",
+   "open": 254
   }
  ],
  "jobs": {
@@ -256,7 +260,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8586632002"
   },
   "8586667002": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -720,6 +724,21 @@
    "title": "Enterprise Account Executive - Singapore",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8640151002"
   },
+  "8642786002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "principal strategic sourcing lead technology @ remote, united states",
+   "location": "Remote, United States",
+   "posted_at": "2026-08-10T17:48:11+00:00",
+   "posted_history": [
+    "2026-08-10T17:48:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Strategic Sourcing Lead - Technology",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8642786002"
+  },
   "8644572002": {
    "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
@@ -886,7 +905,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8684061002"
   },
   "8687246002": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -916,18 +935,18 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8687926002"
   },
   "8687958002": {
-   "closed_at": "2026-11-07T10:41:11+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior backend engineer core devops container registry @ remote, canada; remote, united states",
-   "location": "Remote, Canada; Remote, United States",
+   "fp": "senior backend engineer core devops artifact central pst @ remote, united states",
+   "location": "Remote, United States",
    "posted_at": "2026-10-08T02:34:12+00:00",
    "posted_history": [
     "2026-10-08T02:34:12+00:00"
    ],
-   "reopened": 0,
-   "title": "Senior Backend Engineer, Core DevOps: Container Registry",
+   "reopened": 1,
+   "title": "Senior Backend Engineer, Core DevOps: Artifact Central - PST",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8687958002"
   },
   "8688078002": {
@@ -946,18 +965,18 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8688078002"
   },
   "8689236002": {
-   "closed_at": "2026-11-07T10:41:11+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "staff backend engineer core devops @ remote, canada; remote, united states",
-   "location": "Remote, Canada; Remote, United States",
+   "fp": "staff backend engineer core devops ci cd artifact management @ remote, united states",
+   "location": "Remote, United States",
    "posted_at": "2026-09-18T13:19:22+00:00",
    "posted_history": [
     "2026-09-18T13:19:22+00:00"
    ],
-   "reopened": 0,
-   "title": "Staff Backend Engineer, Core DevOps",
+   "reopened": 1,
+   "title": "Staff Backend Engineer, Core DevOps: CI/CD Artifact Management (PST)",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8689236002"
   },
   "8689243002": {
@@ -2131,7 +2150,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8821526002"
   },
   "8822279002": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2161,7 +2180,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8826637002"
   },
   "8826920002": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2176,7 +2195,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8826920002"
   },
   "8826965002": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3121,7 +3140,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8867725002"
   },
   "8867756002": {
-   "closed_at": "2026-10-22T08:55:54+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3131,7 +3150,7 @@
    "posted_history": [
     "2026-10-15T06:28:38+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Site Reliability Engineer, Cells Infrastructure",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8867756002"
   },
@@ -3899,6 +3918,21 @@
    "reopened": 0,
    "title": "Intermediate Fullstack Engineer (Ruby/Vue.js), Growth",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8891836002"
+  },
+  "8892561002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "regional sales director canada @ remote, canada",
+   "location": "Remote, Canada",
+   "posted_at": "2026-11-09T19:07:29+00:00",
+   "posted_history": [
+    "2026-11-09T19:07:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Regional Sales Director, Canada",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8892561002"
   },
   "8893054002": {
    "closed_at": null,
@@ -4725,6 +4759,21 @@
    "title": "Principal Security GRC Manager, Legal Assurance (USA)",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8927630002"
   },
+  "8928253002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "professional services engineer ksa @ remote, ksa",
+   "location": "Remote, KSA",
+   "posted_at": "2026-11-09T18:21:28+00:00",
+   "posted_history": [
+    "2026-11-09T18:21:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Professional Services Engineer - KSA",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8928253002"
+  },
   "8928280002": {
    "closed_at": null,
    "department": "",
@@ -4741,7 +4790,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8928280002"
   },
   "8928552002": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",
@@ -4860,6 +4909,21 @@
    "title": "Senior Renewals Manager, Public Sector",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8929514002"
   },
+  "8929723002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "engineering manager security platform authentication @ bangalore, india",
+   "location": "Bangalore, India",
+   "posted_at": "2026-11-10T07:56:57+00:00",
+   "posted_history": [
+    "2026-11-10T07:56:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager, Security Platform: Authentication",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8929723002"
+  },
   "8931179002": {
    "closed_at": null,
    "department": "",
@@ -4934,6 +4998,51 @@
    "reopened": 0,
    "title": "Director, Data Science",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8931768002"
+  },
+  "8932246002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "business development representative financial services @ remote, canada; remote, united states",
+   "location": "Remote, Canada; Remote, United States",
+   "posted_at": "2026-11-09T17:57:54+00:00",
+   "posted_history": [
+    "2026-11-09T17:57:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Business Development Representative, Financial Services",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8932246002"
+  },
+  "8932248002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "business development representative west @ remote, canada; remote, united states",
+   "location": "Remote, Canada; Remote, United States",
+   "posted_at": "2026-11-09T18:08:31+00:00",
+   "posted_history": [
+    "2026-11-09T18:08:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Business Development Representative - West",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8932248002"
+  },
+  "8932282002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "business development representative sled west @ remote, united states",
+   "location": "Remote, United States",
+   "posted_at": "2026-11-09T18:21:43+00:00",
+   "posted_history": [
+    "2026-11-09T18:21:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Business Development Representative, SLED - West",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8932282002"
   },
   "8933640002": {
    "closed_at": null,

@@ -87,6 +87,10 @@
   {
    "date": "2026-11-09",
    "open": 127
+  },
+  {
+   "date": "2026-11-10",
+   "open": 129
   }
  ],
  "jobs": {
@@ -494,6 +498,21 @@
    "reopened": 0,
    "title": "Solution Consultant, Supply Chain - London",
    "url": "https://jobs.lever.co/pigment/31476caf-6df2-4d17-8d33-62d548650bec"
+  },
+  "332d1648-c76a-494f-9f12-377f4d66884f": {
+   "closed_at": null,
+   "department": "Finance",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "fp a model builder @ paris",
+   "location": "Paris",
+   "posted_at": "2026-11-06T12:20:33+00:00",
+   "posted_history": [
+    "2026-11-06T12:20:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "FP&A Model Builder",
+   "url": "https://jobs.lever.co/pigment/332d1648-c76a-494f-9f12-377f4d66884f"
   },
   "3401c965-2e1a-426d-8d58-9ca56c5054bf": {
    "closed_at": null,
@@ -931,7 +950,7 @@
    "url": "https://jobs.lever.co/pigment/6213a352-bd7c-415a-af75-e857f262311d"
   },
   "633a4a9d-0601-4c81-abc2-efc8c773ba8f": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Customer Experience",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1140,6 +1159,21 @@
    "title": "EPM Solution Architect, Sales Performance Management - North America, West Region",
    "url": "https://jobs.lever.co/pigment/80165087-4ae7-40b9-bad3-433e0da379ae"
   },
+  "80b6b73c-eccf-4844-b3fd-31e6f8765249": {
+   "closed_at": null,
+   "department": "Business Automation",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "junior data automation engineer @ paris",
+   "location": "Paris",
+   "posted_at": "2025-07-28T12:47:41+00:00",
+   "posted_history": [
+    "2025-07-28T12:47:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Junior Data & Automation Engineer",
+   "url": "https://jobs.lever.co/pigment/80b6b73c-eccf-4844-b3fd-31e6f8765249"
+  },
   "81809282-5684-4ca1-82a8-19b22a08d938": {
    "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "HR",
@@ -1205,14 +1239,14 @@
    "department": "HR",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "talent acquisition manager @ new york",
+   "fp": "talent acquisition partner @ new york",
    "location": "New York",
    "posted_at": "2026-09-15T19:31:53+00:00",
    "posted_history": [
     "2026-09-15T19:31:53+00:00"
    ],
    "reopened": 0,
-   "title": "Talent Acquisition Manager (IC)",
+   "title": "Talent Acquisition Partner",
    "url": "https://jobs.lever.co/pigment/85834bac-f4f6-4713-b642-d49006e3a842"
   },
   "865b2b15-53d6-4c9e-ac48-935ddf1bf86f": {
@@ -1295,14 +1329,14 @@
    "department": "HR",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "talent acquisition manager @ toronto",
+   "fp": "talent acquisition partner @ toronto",
    "location": "Toronto",
    "posted_at": "2026-10-17T17:02:16+00:00",
    "posted_history": [
     "2026-10-17T17:02:16+00:00"
    ],
    "reopened": 0,
-   "title": "Talent Acquisition Manager (IC)",
+   "title": "Talent Acquisition Partner",
    "url": "https://jobs.lever.co/pigment/8ed41721-4326-4bbb-a69b-8ec75e841de6"
   },
   "92918808-126e-425d-b4a7-023a9525afd2": {
@@ -1319,6 +1353,21 @@
    "reopened": 0,
    "title": "Senior Sales Operations Manager, Americas",
    "url": "https://jobs.lever.co/pigment/92918808-126e-425d-b4a7-023a9525afd2"
+  },
+  "933ba637-60ca-43aa-9c4a-f537be227f19": {
+   "closed_at": null,
+   "department": "HR",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "talent acquisition partner @ austin, texas",
+   "location": "Austin, Texas",
+   "posted_at": "2026-11-09T17:25:40+00:00",
+   "posted_history": [
+    "2026-11-09T17:25:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Talent Acquisition Partner",
+   "url": "https://jobs.lever.co/pigment/933ba637-60ca-43aa-9c4a-f537be227f19"
   },
   "94474b0b-a64a-4816-adb4-73037fcd8b97": {
    "closed_at": null,
@@ -2435,14 +2484,14 @@
    "department": "HR",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "talent acquisition manager @ us",
+   "fp": "talent acquisition partner @ us",
    "location": "US",
    "posted_at": "2026-09-15T19:37:17+00:00",
    "posted_history": [
     "2026-09-15T19:37:17+00:00"
    ],
    "reopened": 0,
-   "title": "Talent Acquisition Manager (Contract)",
+   "title": "Talent Acquisition Partner (Contract)",
    "url": "https://jobs.lever.co/pigment/fd6227d2-56d4-4523-89b1-0ccfb1653c3d"
   },
   "febba94b-b784-414f-bbd9-8d96a5650103": {

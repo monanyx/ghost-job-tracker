@@ -87,6 +87,10 @@
   {
    "date": "2026-11-09",
    "open": 129
+  },
+  {
+   "date": "2026-11-10",
+   "open": 128
   }
  ],
  "jobs": {
@@ -1381,7 +1385,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8201630"
   },
   "8201677": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1910,14 +1914,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "people generalist @ remote - canada",
+   "fp": "hr partner @ remote - canada",
    "location": "Remote - Canada",
    "posted_at": "2026-10-06T15:25:19+00:00",
    "posted_history": [
     "2026-10-06T15:25:19+00:00"
    ],
    "reopened": 1,
-   "title": "People Generalist",
+   "title": "HR Partner",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8256423"
   },
   "8256427": {

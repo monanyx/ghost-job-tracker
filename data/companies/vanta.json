@@ -87,6 +87,10 @@
   {
    "date": "2026-11-09",
    "open": 83
+  },
+  {
+   "date": "2026-11-10",
+   "open": 81
   }
  ],
  "jobs": {
@@ -106,7 +110,7 @@
    "url": "https://jobs.ashbyhq.com/vanta/021cca9c-f937-4d97-8be7-bc83af8307be"
   },
   "03199be5-023c-46b6-97c8-6c568afe9514": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -449,6 +453,21 @@
    "reopened": 0,
    "title": "Senior Product Manager, Integrations",
    "url": "https://jobs.ashbyhq.com/vanta/22ba8036-10cb-405d-82fb-9cb07324934c"
+  },
+  "29e92503-fecf-4ac4-9de7-683390fb74c6": {
+   "closed_at": null,
+   "department": "Revenue",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "program manager digital customer success @ remote u.s.",
+   "location": "Remote U.S.",
+   "posted_at": "2026-11-03T18:25:26+00:00",
+   "posted_history": [
+    "2026-11-03T18:25:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Program Manager, Digital Customer Success",
+   "url": "https://jobs.ashbyhq.com/vanta/29e92503-fecf-4ac4-9de7-683390fb74c6"
   },
   "2daebe8c-69af-44f3-a81f-38fb17da30a0": {
    "closed_at": null,
@@ -1082,7 +1101,7 @@
    "url": "https://jobs.ashbyhq.com/vanta/b01ad813-3dd3-4603-ab81-75b14772b43b"
   },
   "b4d0919d-0001-476d-a3a9-f43f7138c2c1": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
@@ -1262,7 +1281,7 @@
    "url": "https://jobs.ashbyhq.com/vanta/c4652ceb-a50d-4dad-ab08-a386617a53f5"
   },
   "c4f91672-04ee-4265-b4a7-6979a7e83308": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1507,14 +1526,14 @@
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "enterprise account executive @ remote u.s.",
+   "fp": "account executive enterprise @ remote u.s.",
    "location": "Remote U.S.",
    "posted_at": "2026-09-21T14:01:58+00:00",
    "posted_history": [
     "2026-09-21T14:01:58+00:00"
    ],
    "reopened": 0,
-   "title": "Enterprise Account Executive",
+   "title": "Account Executive, Enterprise",
    "url": "https://jobs.ashbyhq.com/vanta/ef741fff-829e-4a9b-bca3-932f414db957"
   },
   "f19964fc-3df1-4ffd-bac2-0deedb1266a2": {

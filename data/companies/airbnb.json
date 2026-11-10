@@ -87,6 +87,10 @@
   {
    "date": "2026-11-09",
    "open": 205
+  },
+  {
+   "date": "2026-11-10",
+   "open": 206
   }
  ],
  "jobs": {
@@ -361,7 +365,7 @@
    "url": "https://careers.airbnb.com/positions/7755758?gh_jid=7755758"
   },
   "7763610": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -1171,7 +1175,7 @@
    "url": "https://careers.airbnb.com/positions/8102684?gh_jid=8102684"
   },
   "8103590": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3151,7 +3155,7 @@
    "url": "https://careers.airbnb.com/positions/8299396?gh_jid=8299396"
   },
   "8300382": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-26T09:22:13+00:00",
@@ -3645,6 +3649,21 @@
    "title": "Staff Software Engineer, Prototyping Platform (Full Stack)",
    "url": "https://careers.airbnb.com/positions/8325753?gh_jid=8325753"
   },
+  "8325761": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "senior enablement manager api @ united states",
+   "location": "United States",
+   "posted_at": "2026-11-09T17:56:45+00:00",
+   "posted_history": [
+    "2026-11-09T17:56:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Enablement Manager - API",
+   "url": "https://careers.airbnb.com/positions/8325761?gh_jid=8325761"
+  },
   "8325813": {
    "closed_at": null,
    "department": "",
@@ -3826,7 +3845,7 @@
    "url": "https://careers.airbnb.com/positions/8331990?gh_jid=8331990"
   },
   "8332157": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
@@ -4216,7 +4235,7 @@
    "url": "https://careers.airbnb.com/positions/8351393?gh_jid=8351393"
   },
   "8351417": {
-   "closed_at": "2026-11-05T11:30:12+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
@@ -4226,7 +4245,7 @@
    "posted_history": [
     "2026-11-04T00:31:12+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Machine Learning Engineer, Relevance",
    "url": "https://careers.airbnb.com/positions/8351417?gh_jid=8351417"
   },
@@ -4259,6 +4278,36 @@
    "reopened": 0,
    "title": "Senior Manager, Business Technology Enablement",
    "url": "https://careers.airbnb.com/positions/8354382?gh_jid=8354382"
+  },
+  "8356427": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "supervisor premium support @ canada",
+   "location": "Canada",
+   "posted_at": "2026-11-10T01:57:22+00:00",
+   "posted_history": [
+    "2026-11-10T01:57:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Supervisor, Premium Support",
+   "url": "https://careers.airbnb.com/positions/8356427?gh_jid=8356427"
+  },
+  "8356428": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "superviseur soutien premium @ canada",
+   "location": "Canada",
+   "posted_at": "2026-11-10T01:57:20+00:00",
+   "posted_history": [
+    "2026-11-10T01:57:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Superviseur (-e), Soutien Premium",
+   "url": "https://careers.airbnb.com/positions/8356428?gh_jid=8356428"
   },
   "8356755": {
    "closed_at": null,
@@ -4334,6 +4383,21 @@
    "reopened": 0,
    "title": "Senior Communications Manager, Korea",
    "url": "https://careers.airbnb.com/positions/8364499?gh_jid=8364499"
+  },
+  "8365363": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "account executive @ barcelona, spain",
+   "location": "Barcelona, Spain",
+   "posted_at": "2026-11-10T09:49:33+00:00",
+   "posted_history": [
+    "2026-11-10T09:49:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive (Hotels)",
+   "url": "https://careers.airbnb.com/positions/8365363?gh_jid=8365363"
   }
  }
 }

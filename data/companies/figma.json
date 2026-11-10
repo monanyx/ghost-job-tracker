@@ -87,6 +87,10 @@
   {
    "date": "2026-11-09",
    "open": 144
+  },
+  {
+   "date": "2026-11-10",
+   "open": 143
   }
  ],
  "jobs": {
@@ -361,7 +365,7 @@
    "url": "https://boards.greenhouse.io/figma/jobs/5647851004?gh_jid=5647851004"
   },
   "5651744004": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1291,7 +1295,7 @@
    "url": "https://boards.greenhouse.io/figma/jobs/6132356004?gh_jid=6132356004"
   },
   "6132643004": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1681,7 +1685,7 @@
    "url": "https://boards.greenhouse.io/figma/jobs/6180005004?gh_jid=6180005004"
   },
   "6180053004": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2191,7 +2195,7 @@
    "url": "https://boards.greenhouse.io/figma/jobs/6221563004?gh_jid=6221563004"
   },
   "6222861004": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -2505,6 +2509,21 @@
    "title": "Manager, Customer Enablement - Figma Weave (New York, United States)",
    "url": "https://boards.greenhouse.io/figma/jobs/6232422004?gh_jid=6232422004"
   },
+  "6232528004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "director creative brand expression @ san francisco, ca • new york, ny • united states",
+   "location": "San Francisco, CA • New York, NY • United States",
+   "posted_at": "2026-11-09T17:16:13+00:00",
+   "posted_history": [
+    "2026-11-09T17:16:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Director, Creative Brand Expression",
+   "url": "https://boards.greenhouse.io/figma/jobs/6232528004?gh_jid=6232528004"
+  },
   "6232541004": {
    "closed_at": null,
    "department": "",
@@ -2790,6 +2809,21 @@
    "title": "Software Engineer - Application Platform",
    "url": "https://boards.greenhouse.io/figma/jobs/6242561004?gh_jid=6242561004"
   },
+  "6242701004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "researcher ai evaluations @ san francisco, ca • new york, ny • united states",
+   "location": "San Francisco, CA • New York, NY • United States",
+   "posted_at": "2026-11-09T16:14:32+00:00",
+   "posted_history": [
+    "2026-11-09T16:14:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Researcher, AI Evaluations",
+   "url": "https://boards.greenhouse.io/figma/jobs/6242701004?gh_jid=6242701004"
+  },
   "6243897004": {
    "closed_at": null,
    "department": "",
@@ -2819,6 +2853,21 @@
    "reopened": 0,
    "title": "Manager, Sales - Figma Weave (London, United Kingdom)",
    "url": "https://boards.greenhouse.io/figma/jobs/6245293004?gh_jid=6245293004"
+  },
+  "6247174004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "product designer figma weave @ tel aviv, israel",
+   "location": "Tel Aviv, Israel",
+   "posted_at": "2026-11-10T09:48:39+00:00",
+   "posted_history": [
+    "2026-11-10T09:48:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Designer - Figma Weave (Tel Aviv, Israel)",
+   "url": "https://boards.greenhouse.io/figma/jobs/6247174004?gh_jid=6247174004"
   }
  }
 }

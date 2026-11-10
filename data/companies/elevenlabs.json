@@ -87,6 +87,10 @@
   {
    "date": "2026-11-09",
    "open": 136
+  },
+  {
+   "date": "2026-11-10",
+   "open": 128
   }
  ],
  "jobs": {
@@ -121,7 +125,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/02d5b86d-00e5-4204-b61a-8419c3cc1c10"
   },
   "03e6b7b2-3337-47ac-a230-2d8390a8cb4e": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -272,19 +276,20 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/0e690a2f-0a1a-4c4e-adf6-4dc3c6cbc3bd"
   },
   "108c99e6-ba2b-44a0-b830-7d535e14a152": {
-   "closed_at": "2026-10-27T09:20:56+00:00",
+   "closed_at": null,
    "department": "Engineering & Product",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "full stack engineer elevenapi @ united states",
-   "location": "United States",
-   "posted_at": "2026-10-13T11:50:44+00:00",
+   "fp": "full stack engineer elevenapi @ remote",
+   "location": "Remote",
+   "posted_at": "2026-11-09T16:22:22+00:00",
    "posted_history": [
-    "2026-10-13T11:50:44+00:00"
+    "2026-10-13T11:50:44+00:00",
+    "2026-11-09T16:22:22+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Full-Stack Engineer - ElevenAPI",
-   "url": "https://jobs.ashbyhq.com/elevenlabs/108c99e6-ba2b-44a0-b830-7d535e14a152"
+   "url": "https://jobs.ashbyhq.com/ElevenLabs/108c99e6-ba2b-44a0-b830-7d535e14a152"
   },
   "10e6475e-67ef-4621-8718-7b087c354651": {
    "closed_at": null,
@@ -485,7 +490,7 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/1f7a2786-46d3-46c9-81f3-c3849b412988"
   },
   "203ef08b-7bb0-42b7-8099-d3d770fe3615": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Engineering & Product",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -998,6 +1003,21 @@
    "title": "Research Engineer",
    "url": "https://jobs.ashbyhq.com/ElevenLabs/3d650946-5ac2-4729-9ae4-129c43fcd0b5"
   },
+  "3d698491-7814-43f0-b35f-5b289688539b": {
+   "closed_at": null,
+   "department": "Revenue",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "smb lead apac @ india",
+   "location": "India",
+   "posted_at": "2026-11-10T08:36:40+00:00",
+   "posted_history": [
+    "2026-11-10T08:36:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "SMB Lead - APAC",
+   "url": "https://jobs.ashbyhq.com/ElevenLabs/3d698491-7814-43f0-b35f-5b289688539b"
+  },
   "3e9f8e45-cd55-4fb9-9452-0ebbd6e15de6": {
    "closed_at": null,
    "department": "Finance",
@@ -1105,7 +1125,7 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/4738893a-de4f-4a06-b104-315c6a4d366c"
   },
   "4aaebda4-53be-424c-8246-cde77ff853bb": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Operations",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1331,7 +1351,7 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/6a530871-b6c6-4783-ac6b-69cc3b084192"
   },
   "6b5a902d-49ea-4fa9-ab67-d6e88c361695": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Engineering & Product",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1377,7 +1397,7 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/6d4c4080-b53b-4b00-8b1d-3ec1e0955135"
   },
   "6e1b66a8-8d2e-43b0-9076-9748b84bcfab": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-28T10:01:46+00:00",
@@ -1390,6 +1410,21 @@
    "reopened": 0,
    "title": "Strategic Account Executive - Colombia",
    "url": "https://jobs.ashbyhq.com/ElevenLabs/6e1b66a8-8d2e-43b0-9076-9748b84bcfab"
+  },
+  "71992118-5b37-4a4a-a862-99e82e02916f": {
+   "closed_at": null,
+   "department": "Engineering & Product",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "website growth engineer @ london",
+   "location": "London",
+   "posted_at": "2026-11-09T14:33:55+00:00",
+   "posted_history": [
+    "2026-11-09T14:33:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Website Growth Engineer",
+   "url": "https://jobs.ashbyhq.com/ElevenLabs/71992118-5b37-4a4a-a862-99e82e02916f"
   },
   "71b1f886-593a-43a3-86db-1ab8e2a83496": {
    "closed_at": null,
@@ -1423,7 +1458,7 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/7209ce9f-3c69-4dbb-adbb-6c6c068ebad0"
   },
   "7389c057-3e25-4e7a-8a03-5e80f40a15a0": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Engineering & Product",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1635,7 +1670,7 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/829d5af0-3581-4d49-8073-866f30d09503"
   },
   "830e66a8-892c-4c68-b61c-494591236eef": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-11-02T11:41:30+00:00",
@@ -1845,7 +1880,7 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/91dd600a-d0dd-4a75-a53d-f59aa9855626"
   },
   "9271907b-1aad-4868-8995-b9ed32fb92ac": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-28T10:01:46+00:00",
@@ -2305,7 +2340,7 @@
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "head of public sector united states @ washington, d.c.",
+   "fp": "head of public sector amer @ washington, d.c.",
    "location": "Washington, D.C.",
    "posted_at": "2026-11-02T16:56:43+00:00",
    "posted_history": [
@@ -2313,11 +2348,11 @@
     "2026-11-02T16:56:43+00:00"
    ],
    "reopened": 0,
-   "title": "Head of Public Sector, United States",
+   "title": "Head of Public Sector, AMER",
    "url": "https://jobs.ashbyhq.com/ElevenLabs/b43e388f-f204-41c5-a2bc-ee3bc1281e39"
   },
   "b85d7749-5b12-4f3c-87e9-61a477da77aa": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Engineering & Product",
    "evergreen": false,
    "first_seen": "2026-10-20T08:53:12+00:00",
@@ -2634,7 +2669,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/cb77d3a7-ee72-4055-a7ba-3a32732c5ae6"
   },
   "cb90c8ba-dc35-4e86-9103-9564751ccaf7": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2741,7 +2776,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/d1caf988-ab4a-4b72-9ed9-d18e986fb7f1"
   },
   "d2443707-b19e-49c2-b2ec-de0c4c889089": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Operations",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -3109,7 +3144,7 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/ef819b07-d617-42c7-873f-798d1a7d4024"
   },
   "f00cd4ae-3429-43a9-9e78-247ca3e4c404": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
@@ -3169,6 +3204,21 @@
    "reopened": 1,
    "title": "Partnerships - Private Equity",
    "url": "https://jobs.ashbyhq.com/ElevenLabs/f1427164-3037-47d1-a768-11cfb87953ae"
+  },
+  "f2bf078d-d104-4a7b-96fd-5187a550f4a0": {
+   "closed_at": null,
+   "department": "Operations",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "technical customer support specialist @ australia",
+   "location": "Australia",
+   "posted_at": "2026-11-10T05:14:02+00:00",
+   "posted_history": [
+    "2026-11-10T05:14:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Customer Support Specialist",
+   "url": "https://jobs.ashbyhq.com/ElevenLabs/f2bf078d-d104-4a7b-96fd-5187a550f4a0"
   },
   "f591a101-0ffe-44ba-8ff3-a913c86442b6": {
    "closed_at": null,

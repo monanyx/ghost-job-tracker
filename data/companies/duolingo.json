@@ -87,6 +87,10 @@
   {
    "date": "2026-11-09",
    "open": 59
+  },
+  {
+   "date": "2026-11-10",
+   "open": 61
   }
  ],
  "jobs": {
@@ -305,14 +309,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "staff ai research engineer @ new york, ny; pittsburgh, pa",
+   "fp": "staff ai research engineer monetization @ new york, ny; pittsburgh, pa",
    "location": "New York, NY; Pittsburgh, PA",
    "posted_at": "2026-06-26T15:41:38+00:00",
    "posted_history": [
     "2026-06-26T15:41:38+00:00"
    ],
    "reopened": 0,
-   "title": "Staff AI Research Engineer",
+   "title": "Staff AI Research Engineer, Monetization",
    "url": "https://careers.duolingo.com/jobs/8610345002?gh_jid=8610345002"
   },
   "8612120002": {
@@ -976,7 +980,7 @@
    "url": "https://careers.duolingo.com/jobs/8888045002?gh_jid=8888045002"
   },
   "8888721002": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1160,14 +1164,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-06T11:30:42+00:00",
-   "fp": "staff ai research engineer @ new york, ny; pittsburgh, pa",
+   "fp": "staff ai research engineer speech recognition @ new york, ny; pittsburgh, pa",
    "location": "New York, NY; Pittsburgh, PA",
    "posted_at": "2026-11-05T21:34:42+00:00",
    "posted_history": [
     "2026-11-05T21:34:42+00:00"
    ],
    "reopened": 0,
-   "title": "Staff AI Research Engineer",
+   "title": "Staff AI Research Engineer, Speech Recognition",
    "url": "https://careers.duolingo.com/jobs/8932683002?gh_jid=8932683002"
   },
   "8933266002": {
@@ -1175,8 +1179,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",
-   "fp": "senior recruiter leadership @ new york, ny; pittsburgh, pa",
-   "location": "New York, NY; Pittsburgh, PA",
+   "fp": "senior recruiter leadership @ new york, ny",
+   "location": "New York, NY",
    "posted_at": "2026-11-06T15:48:44+00:00",
    "posted_history": [
     "2026-11-06T15:48:44+00:00"
@@ -1199,6 +1203,51 @@
    "reopened": 0,
    "title": "Senior Business Development Manager, China",
    "url": "https://careers.duolingo.com/jobs/8933285002?gh_jid=8933285002"
+  },
+  "8933791002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "product designer thrive intern @ pittsburgh, pa",
+   "location": "Pittsburgh, PA",
+   "posted_at": "2026-11-09T20:00:05+00:00",
+   "posted_history": [
+    "2026-11-09T20:00:05+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Designer, Thrive Intern",
+   "url": "https://careers.duolingo.com/jobs/8933791002?gh_jid=8933791002"
+  },
+  "8935389002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "talent mobility specialist @ pittsburgh, pa",
+   "location": "Pittsburgh, PA",
+   "posted_at": "2026-11-09T20:31:50+00:00",
+   "posted_history": [
+    "2026-11-09T20:31:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Talent Mobility Specialist",
+   "url": "https://careers.duolingo.com/jobs/8935389002?gh_jid=8935389002"
+  },
+  "8935541002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "staff security engineer @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-11-09T21:11:46+00:00",
+   "posted_history": [
+    "2026-11-09T21:11:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Security Engineer",
+   "url": "https://careers.duolingo.com/jobs/8935541002?gh_jid=8935541002"
   }
  }
 }

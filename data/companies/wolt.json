@@ -87,6 +87,10 @@
   {
    "date": "2026-11-09",
    "open": 202
+  },
+  {
+   "date": "2026-11-10",
+   "open": 192
   }
  ],
  "jobs": {
@@ -179,7 +183,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/6693496"
   },
   "6693501": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -389,7 +393,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/6693720"
   },
   "6693771": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -552,7 +556,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/6694612"
   },
   "6694824": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -792,7 +796,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/6886954"
   },
   "6999015": {
-   "closed_at": "2026-10-26T09:22:13+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -802,8 +806,8 @@
    "posted_history": [
     "2025-06-24T15:25:52+00:00"
    ],
-   "reopened": 0,
-   "title": "Support Associate (Part-Time)",
+   "reopened": 1,
+   "title": "Support Associate (Full-Time and Part-Time)",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/6999015"
   },
   "7218515": {
@@ -2202,7 +2206,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8156313"
   },
   "8159098": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2382,7 +2386,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8176407"
   },
   "8177035": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2817,7 +2821,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8222879"
   },
   "8223014": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3057,7 +3061,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8237053"
   },
   "8237716": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3477,7 +3481,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8281232"
   },
   "8281238": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3507,7 +3511,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8282183"
   },
   "8286884": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
@@ -3961,14 +3965,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",
-   "fp": "content associate @ bratislava, slovakia",
+   "fp": "content associate fixed term @ bratislava, slovakia",
    "location": "Bratislava, Slovakia",
    "posted_at": "2026-10-30T07:44:53+00:00",
    "posted_history": [
     "2026-10-30T07:44:53+00:00"
    ],
    "reopened": 0,
-   "title": "Content Associate",
+   "title": "Content Associate - Fixed term",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8334060"
   },
   "8334064": {
@@ -4017,7 +4021,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8334625"
   },
   "8334636": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -4047,7 +4051,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8334683"
   },
   "8334693": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -4062,7 +4066,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8334693"
   },
   "8334723": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -4420,6 +4424,21 @@
    "reopened": 0,
    "title": "Support team Lead",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8359188"
+  },
+  "8366783": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "senior manager customer support deliveroo operations @ berlin, germany; helsinki, finland",
+   "location": "Berlin, Germany; Helsinki, Finland",
+   "posted_at": "2026-11-09T17:36:50+00:00",
+   "posted_history": [
+    "2026-11-09T17:36:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Customer Support, Deliveroo Operations",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8366783"
   }
  }
 }

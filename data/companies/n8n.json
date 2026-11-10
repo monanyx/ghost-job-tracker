@@ -87,6 +87,10 @@
   {
    "date": "2026-11-09",
    "open": 51
+  },
+  {
+   "date": "2026-11-10",
+   "open": 49
   }
  ],
  "jobs": {
@@ -228,7 +232,7 @@
    "url": "https://jobs.ashbyhq.com/n8n/178a1783-90a6-43ea-b019-74e8af3e8f73"
   },
   "1af7a193-334d-4d5c-b45d-250122d9c3f1": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -259,7 +263,7 @@
    "url": "https://jobs.ashbyhq.com/n8n/1fbf28aa-39c9-4ce4-a29a-238a725d8014"
   },
   "240f952d-fa35-4268-b84e-c5697024dab8": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
@@ -273,6 +277,21 @@
    "reopened": 1,
    "title": "Manager, Customer Success (Remote - EMEA)",
    "url": "https://jobs.ashbyhq.com/n8n/240f952d-fa35-4268-b84e-c5697024dab8"
+  },
+  "24ad7d68-fac9-476c-b9fa-3410d73a6d7d": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "staff platform engineer agentic engineering @ berlin office",
+   "location": "Berlin Office",
+   "posted_at": "2026-11-10T09:57:41+00:00",
+   "posted_history": [
+    "2026-11-10T09:57:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Platform Engineer, Agentic Engineering",
+   "url": "https://jobs.ashbyhq.com/n8n/24ad7d68-fac9-476c-b9fa-3410d73a6d7d"
   },
   "2ac306a9-1d24-4b19-8261-32902b7dd423": {
    "closed_at": null,
@@ -863,7 +882,7 @@
    "url": "https://jobs.ashbyhq.com/n8n/bf5c14d9-3371-416b-9832-2d3c38de3796"
   },
   "c9fc97fa-a473-4133-b3cb-502785649ecd": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

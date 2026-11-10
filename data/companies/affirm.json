@@ -87,6 +87,10 @@
   {
    "date": "2026-11-09",
    "open": 222
+  },
+  {
+   "date": "2026-11-10",
+   "open": 216
   }
  ],
  "jobs": {
@@ -256,7 +260,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7719649003"
   },
   "7727320003": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -271,7 +275,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7727320003"
   },
   "7727322003": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -541,7 +545,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7799329003"
   },
   "7799346003": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -556,7 +560,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7799346003"
   },
   "7799348003": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1351,7 +1355,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7822387003"
   },
   "7822389003": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1681,7 +1685,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7871458003"
   },
   "7872398003": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2281,7 +2285,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7995763003"
   },
   "7997218003": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2431,7 +2435,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8003022003"
   },
   "8003028003": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2446,7 +2450,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8003028003"
   },
   "8003030003": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3406,7 +3410,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8017342003"
   },
   "8017503003": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -3421,7 +3425,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8017503003"
   },
   "8017505003": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -4096,7 +4100,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8041662003"
   },
   "8041815003": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -4154,6 +4158,21 @@
    "reopened": 0,
    "title": "Senior Product Security Engineer",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8042128003"
+  },
+  "8042371003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "software engineer ii back end @ remote canada",
+   "location": "Remote Canada",
+   "posted_at": "2026-11-10T09:30:06+00:00",
+   "posted_history": [
+    "2026-11-10T09:30:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer II, Back-end, (AI Agents)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8042371003"
   },
   "8042399003": {
    "closed_at": null,
@@ -4440,6 +4459,21 @@
    "title": "Staff Software Engineer, Backend (Observability)",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8098803003"
   },
+  "8161169003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "accounting manager @ remote us",
+   "location": "Remote US",
+   "posted_at": "2026-11-09T21:12:05+00:00",
+   "posted_history": [
+    "2026-11-09T21:12:05+00:00"
+   ],
+   "reopened": 0,
+   "title": "Accounting Manager",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8161169003"
+  },
   "8162556003": {
    "closed_at": null,
    "department": "",
@@ -4514,6 +4548,66 @@
    "reopened": 0,
    "title": "Software Engineer II, Backend",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8196114003"
+  },
+  "8197325003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "senior software engineer backend @ remote us",
+   "location": "Remote US",
+   "posted_at": "2026-11-09T19:24:44+00:00",
+   "posted_history": [
+    "2026-11-09T19:24:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Backend (Consumer)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8197325003"
+  },
+  "8197327003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "senior software engineer backend @ remote canada",
+   "location": "Remote Canada",
+   "posted_at": "2026-11-09T19:24:46+00:00",
+   "posted_history": [
+    "2026-11-09T19:24:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Backend (Consumer)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8197327003"
+  },
+  "8197334003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "senior software engineer backend @ remote us",
+   "location": "Remote US",
+   "posted_at": "2026-11-09T19:25:30+00:00",
+   "posted_history": [
+    "2026-11-09T19:25:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Backend (Trust & Safety)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8197334003"
+  },
+  "8197336003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "senior software engineer backend @ remote canada",
+   "location": "Remote Canada",
+   "posted_at": "2026-11-09T19:25:33+00:00",
+   "posted_history": [
+    "2026-11-09T19:25:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Backend (Trust & Safety)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8197336003"
   }
  }
 }

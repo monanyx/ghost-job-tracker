@@ -87,6 +87,10 @@
   {
    "date": "2026-11-09",
    "open": 72
+  },
+  {
+   "date": "2026-11-10",
+   "open": 66
   }
  ],
  "jobs": {
@@ -151,7 +155,7 @@
    "url": "https://boards.greenhouse.io/chime/jobs/8505462002?gh_jid=8505462002"
   },
   "8525325002": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -301,7 +305,7 @@
    "url": "https://boards.greenhouse.io/chime/jobs/8578967002?gh_jid=8578967002"
   },
   "8584952002": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -526,7 +530,7 @@
    "url": "https://boards.greenhouse.io/chime/jobs/8694723002?gh_jid=8694723002"
   },
   "8720968002": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -556,7 +560,7 @@
    "url": "https://boards.greenhouse.io/chime/jobs/8724243002?gh_jid=8724243002"
   },
   "8733757002": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -586,7 +590,7 @@
    "url": "https://boards.greenhouse.io/chime/jobs/8742766002?gh_jid=8742766002"
   },
   "8752367002": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -901,7 +905,7 @@
    "url": "https://boards.greenhouse.io/chime/jobs/8845902002?gh_jid=8845902002"
   },
   "8853166002": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -931,7 +935,7 @@
    "url": "https://boards.greenhouse.io/chime/jobs/8859182002?gh_jid=8859182002"
   },
   "8864181002": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1289,6 +1293,21 @@
    "reopened": 0,
    "title": "Manager, Corporate Finance",
    "url": "https://boards.greenhouse.io/chime/jobs/8900582002?gh_jid=8900582002"
+  },
+  "8904126002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "data scientist dispute risk @ chicago, il, usa",
+   "location": "Chicago, IL, USA",
+   "posted_at": "2026-11-09T15:31:59+00:00",
+   "posted_history": [
+    "2026-11-09T15:31:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Data Scientist, Dispute Risk",
+   "url": "https://boards.greenhouse.io/chime/jobs/8904126002?gh_jid=8904126002"
   },
   "8907786002": {
    "closed_at": "2026-10-29T10:25:29+00:00",

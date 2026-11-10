@@ -87,6 +87,10 @@
   {
    "date": "2026-11-09",
    "open": 42
+  },
+  {
+   "date": "2026-11-10",
+   "open": 45
   }
  ],
  "jobs": {
@@ -316,7 +320,7 @@
    "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4940716101"
   },
   "4945283101": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -331,7 +335,7 @@
    "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4945283101"
   },
   "4951483101": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -601,7 +605,7 @@
    "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4999439101"
   },
   "5001505101": {
-   "closed_at": "2026-11-06T11:30:42+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -611,7 +615,7 @@
    "posted_history": [
     "2026-10-12T14:33:53+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Front Office Associate",
    "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5001505101"
   },
@@ -650,14 +654,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "associate tax @ vienna, vienna, austria",
+   "fp": "specialist tax @ vienna, vienna, austria",
    "location": "Vienna, Vienna, Austria",
    "posted_at": "2026-10-14T09:47:54+00:00",
    "posted_history": [
     "2026-10-14T09:47:54+00:00"
    ],
    "reopened": 0,
-   "title": "Associate, Tax",
+   "title": "Specialist, Tax",
    "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5005854101"
   },
   "5009824101": {
@@ -840,6 +844,21 @@
    "title": "Senior Specialist, Assurance and Audit Coordination",
    "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5025155101"
   },
+  "5025183101": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "social media lead @ vienna, vienna, austria",
+   "location": "Vienna, Vienna, Austria",
+   "posted_at": "2026-11-10T07:33:30+00:00",
+   "posted_history": [
+    "2026-11-10T07:33:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Social Media Lead",
+   "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5025183101"
+  },
   "5027189101": {
    "closed_at": null,
    "department": "",
@@ -944,6 +963,51 @@
    "reopened": 0,
    "title": "German Copywriter & Content Editor",
    "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5029055101"
+  },
+  "5030877101": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "crm operations braze specialist @ kraków, lesser poland voivodeship, poland",
+   "location": "Kraków, Lesser Poland Voivodeship, Poland",
+   "posted_at": "2026-11-09T14:16:41+00:00",
+   "posted_history": [
+    "2026-11-09T14:16:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "CRM Operations & Braze Specialist",
+   "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5030877101"
+  },
+  "5031808101": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "senior martech engineer @ bucurești, bucharest, romania",
+   "location": "București, Bucharest, Romania",
+   "posted_at": "2026-11-10T07:26:18+00:00",
+   "posted_history": [
+    "2026-11-10T07:26:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior MarTech Engineer",
+   "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5031808101"
+  },
+  "5031818101": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "media planner buyer dach @ vienna, vienna, austria",
+   "location": "Vienna, Vienna, Austria",
+   "posted_at": "2026-11-10T07:41:59+00:00",
+   "posted_history": [
+    "2026-11-10T07:41:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Media Planner & Buyer DACH",
+   "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5031818101"
   }
  }
 }

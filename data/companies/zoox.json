@@ -87,6 +87,10 @@
   {
    "date": "2026-11-09",
    "open": 241
+  },
+  {
+   "date": "2026-11-10",
+   "open": 234
   }
  ],
  "jobs": {
@@ -155,14 +159,14 @@
    "department": "Safety Policy and Strategy",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",
-   "fp": "ai workflows safety decision making intern @ foster city, ca",
+   "fp": "ai workflows intern @ foster city, ca",
    "location": "Foster City, CA",
    "posted_at": "2026-11-07T00:27:55+00:00",
    "posted_history": [
     "2026-11-07T00:27:55+00:00"
    ],
    "reopened": 0,
-   "title": "AI Workflows & Safety Decision Making Intern [2027]",
+   "title": "AI Workflows Intern [2027]",
    "url": "https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1"
   },
   "01ff8f1c-eda8-4c45-9cca-b4461d8757d5": {
@@ -170,14 +174,14 @@
    "department": "Autonomy Software",
    "evergreen": false,
    "first_seen": "2026-11-05T11:30:12+00:00",
-   "fp": "staff senior staff software engineer collision avoidance system @ foster city, ca",
+   "fp": "staff senior staff machine learning engineer collision avoidance system @ foster city, ca",
    "location": "Foster City, CA",
    "posted_at": "2026-11-04T17:05:31+00:00",
    "posted_history": [
     "2026-11-04T17:05:31+00:00"
    ],
    "reopened": 0,
-   "title": "Staff / Senior Staff Software Engineer - Collision Avoidance System",
+   "title": "Staff / Senior Staff Machine Learning Engineer - Collision Avoidance System",
    "url": "https://jobs.lever.co/zoox/01ff8f1c-eda8-4c45-9cca-b4461d8757d5"
   },
   "03263034-e792-4ac1-8f79-b8b3068ccc2c": {
@@ -615,6 +619,21 @@
    "title": "Senior/Staff Project Manager, Places & Build",
    "url": "https://jobs.lever.co/zoox/1d37ef04-7968-4cb5-b0ba-be4a99bebd6f"
   },
+  "1dc3a72e-1461-4c66-b424-252f057809ed": {
+   "closed_at": null,
+   "department": "Software Systems",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "senior staff machine learning engineer 3d simulation @ foster city, ca",
+   "location": "Foster City, CA",
+   "posted_at": "2024-06-10T22:30:41+00:00",
+   "posted_history": [
+    "2024-06-10T22:30:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior/Staff Machine Learning Engineer, 3D Simulation",
+   "url": "https://jobs.lever.co/zoox/1dc3a72e-1461-4c66-b424-252f057809ed"
+  },
   "1de7207d-2d77-44c8-b875-06b78b98e69c": {
    "closed_at": null,
    "department": "Software Systems",
@@ -826,7 +845,7 @@
    "url": "https://jobs.lever.co/zoox/2783987b-5ab8-4447-a9e4-77745439e7ba"
   },
   "28a74ce9-92f3-4280-b6a7-730e7ffee5b2": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Autonomy Software",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -944,6 +963,21 @@
    "reopened": 0,
    "title": "Senior/Staff Software Engineer - Behavior Capabilities",
    "url": "https://jobs.lever.co/zoox/2d23cf58-a117-4f40-ac98-7c6a691eb273"
+  },
+  "2d73563c-8039-4d1b-844c-3953259ba6b1": {
+   "closed_at": null,
+   "department": "Software Systems",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "machine learning engineer 3d simulation @ foster city, ca",
+   "location": "Foster City, CA",
+   "posted_at": "2024-06-10T23:00:33+00:00",
+   "posted_history": [
+    "2024-06-10T23:00:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Machine Learning Engineer, 3D Simulation",
+   "url": "https://jobs.lever.co/zoox/2d73563c-8039-4d1b-844c-3953259ba6b1"
   },
   "2ec7b1be-46f6-420d-b582-e565fe4f6b3e": {
    "closed_at": null,
@@ -1246,7 +1280,7 @@
    "url": "https://jobs.lever.co/zoox/3e06c948-94f4-4c16-bc2f-a84465868e3e"
   },
   "3e74f14a-667a-4381-9f8e-2e8b9f1b92d3": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "E2E Feature Integration and Homologation",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1456,7 +1490,7 @@
    "url": "https://jobs.lever.co/zoox/4b00bf61-6547-4c50-be83-5d659176090b"
   },
   "4cf378f6-fab9-4bdb-a349-4ae70c099b8e": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Autonomy Software",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1620,6 +1654,21 @@
    "title": "CAE Engineer - Safety occupant",
    "url": "https://jobs.lever.co/zoox/5569d46e-0af8-4f07-93ea-b635c7403f7d"
   },
+  "587518db-01e7-4408-8a1f-683846567483": {
+   "closed_at": null,
+   "department": "Robot Industrial Design",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "senior exterior designer robot industrial design @ foster city, ca",
+   "location": "Foster City, CA",
+   "posted_at": "2026-11-09T20:51:05+00:00",
+   "posted_history": [
+    "2026-11-09T20:51:05+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Exterior Designer, Robot Industrial Design",
+   "url": "https://jobs.lever.co/zoox/587518db-01e7-4408-8a1f-683846567483"
+  },
   "5915823a-3546-4748-b102-85e85c0dc71d": {
    "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "Autonomy Software",
@@ -1775,14 +1824,14 @@
    "department": "Safety Policy and Strategy",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",
-   "fp": "safety reporting benchmarking intern @ foster city, ca",
+   "fp": "safety reporting intern @ foster city, ca",
    "location": "Foster City, CA",
    "posted_at": "2026-11-07T00:13:23+00:00",
    "posted_history": [
     "2026-11-07T00:13:23+00:00"
    ],
    "reopened": 0,
-   "title": "Safety Reporting & Benchmarking Intern [Summer 2027]",
+   "title": "Safety Reporting Intern [Summer 2027]",
    "url": "https://jobs.lever.co/zoox/614f35d6-a415-4f44-be38-cb38877df1db"
   },
   "62ba74a7-862e-4561-904b-075f3b4c8a7b": {
@@ -1951,7 +2000,7 @@
    "url": "https://jobs.lever.co/zoox/6e2c1641-a814-43ad-a807-34f585a35fd9"
   },
   "6e58a614-0388-4916-bb8f-de12c19be758": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Autonomy Software",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2101,7 +2150,7 @@
    "url": "https://jobs.lever.co/zoox/71a2b465-11fb-49fa-b5f8-29757bc6bba6"
   },
   "7206fd97-14e4-43a0-b903-ba65dfeee53e": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Data Science",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2761,7 +2810,7 @@
    "url": "https://jobs.lever.co/zoox/909ee174-0c55-4bcb-9891-48569bcd7651"
   },
   "90ee9fbc-f0e4-4b47-a337-09493ecf4902": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Manufacturing Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3061,7 +3110,7 @@
    "url": "https://jobs.lever.co/zoox/a5483274-c09e-4338-b2e4-cf0b373655d1"
   },
   "a76e2e49-4f41-40d6-9bda-b15c24d7590b": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Logistics",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3211,7 +3260,7 @@
    "url": "https://jobs.lever.co/zoox/adf2fdd1-d5ca-46f6-aa97-16e4bedf2423"
   },
   "ae2785ae-dfee-484b-8add-3cf32ca2d10e": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Fleet Operations",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3245,14 +3294,14 @@
    "department": "Fleet Operations",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",
-   "fp": "program manager infrastructure operations intern @ foster city, ca",
+   "fp": "program manager intern @ foster city, ca",
    "location": "Foster City, CA",
    "posted_at": "2026-11-06T23:11:55+00:00",
    "posted_history": [
     "2026-11-06T23:11:55+00:00"
    ],
    "reopened": 0,
-   "title": "Program Manager, Infrastructure Operations Intern [Summer 2027]",
+   "title": "Program Manager Intern [Summer 2027]",
    "url": "https://jobs.lever.co/zoox/affbfa7d-30c5-4639-aa56-2ba138200bd8"
   },
   "b1bba11f-2b04-4a4a-8095-752c04182af1": {
@@ -3404,6 +3453,21 @@
    "reopened": 0,
    "title": "Senior Staff / Principal Software Engineer - Freeway Autonomy",
    "url": "https://jobs.lever.co/zoox/bea6c1d0-09dc-47db-9fff-ed2f33151763"
+  },
+  "beeb6f55-0d41-4481-a5d8-18b1f9b6657b": {
+   "closed_at": null,
+   "department": "Software Systems",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "senior staff software engineer core connectivity @ foster city, ca",
+   "location": "Foster City, CA",
+   "posted_at": "2026-11-09T21:58:53+00:00",
+   "posted_history": [
+    "2026-11-09T21:58:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior/Staff Software Engineer, Core Connectivity",
+   "url": "https://jobs.lever.co/zoox/beeb6f55-0d41-4481-a5d8-18b1f9b6657b"
   },
   "bf983498-1063-4c02-8ea6-8f037c2b0c56": {
    "closed_at": null,
@@ -3616,7 +3680,7 @@
    "url": "https://jobs.lever.co/zoox/cf38cf65-d821-402d-819b-cb9c89194513"
   },
   "cfb9dff3-844f-443e-9be8-46133eb9e656": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Vehicle Development",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3766,7 +3830,7 @@
    "url": "https://jobs.lever.co/zoox/d82e1f4a-a2db-4374-957b-95c5c4cf7826"
   },
   "d856c631-446c-452f-81f5-0359b50403c9": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Autonomy Software",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3931,7 +3995,7 @@
    "url": "https://jobs.lever.co/zoox/e6a4bbe1-20ab-4f1f-af07-f06fabedeabd"
   },
   "e725749e-88f7-48e0-8e4c-8a4a3289b905": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Autonomy Software",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3980,14 +4044,14 @@
    "department": "Software Platforms and Product",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "embedded software engineer drive systems @ foster city, ca",
+   "fp": "embedded software engineer @ foster city, ca",
    "location": "Foster City, CA",
    "posted_at": "2026-08-31T20:41:39+00:00",
    "posted_history": [
     "2026-08-31T20:41:39+00:00"
    ],
    "reopened": 0,
-   "title": "Embedded Software Engineer - Drive Systems",
+   "title": "Embedded Software Engineer",
    "url": "https://jobs.lever.co/zoox/ea3fbfaf-588b-434a-9a5a-c61edc731a40"
   },
   "eacbb34f-e823-4827-90bf-bc8044b660b1": {

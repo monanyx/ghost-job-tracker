@@ -87,6 +87,10 @@
   {
    "date": "2026-11-09",
    "open": 440
+  },
+  {
+   "date": "2026-11-10",
+   "open": 436
   }
  ],
  "jobs": {
@@ -466,7 +470,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/5834559"
   },
   "5941044": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1576,7 +1580,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7611520"
   },
   "7612469": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2596,7 +2600,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8010514"
   },
   "8016056": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2656,7 +2660,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8024644"
   },
   "8026972": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2701,7 +2705,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8030446"
   },
   "8035314": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2885,8 +2889,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
-   "fp": "principal product designer visual @ san francisco, ca; new york, ny; seattle, wa",
-   "location": "San Francisco, CA; New York, NY; Seattle, WA",
+   "fp": "principal product designer visual @ san francisco bay area, ca; new york city, ny; seattle, wa",
+   "location": "San Francisco Bay Area, CA; New York City, NY; Seattle, WA",
    "posted_at": "2026-07-16T05:19:51+00:00",
    "posted_history": [
     "2026-07-16T05:19:51+00:00"
@@ -3016,7 +3020,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8071680"
   },
   "8071822": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4336,7 +4340,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8156875"
   },
   "8156907": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5086,7 +5090,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8197854"
   },
   "8200707": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6631,7 +6635,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8262794"
   },
   "8262815": {
-   "closed_at": "2026-10-28T10:01:46+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6641,7 +6645,7 @@
    "posted_history": [
     "2026-10-07T19:52:28+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Manager, Strategy & Operations, DoorDash for Business",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8262815"
   },
@@ -7066,7 +7070,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8281762"
   },
   "8281853": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7441,7 +7445,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8303248"
   },
   "8303882": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -8311,7 +8315,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8351118"
   },
   "8352563": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-05T11:30:12+00:00",
@@ -8460,19 +8464,34 @@
    "title": "Associate, Dasher & Logistics — Rotational Leadership Program",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8356727"
   },
+  "8358082": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "principal visual designer studio central @ new york city, ny; san francisco, ca; seattle, wa",
+   "location": "New York City, NY; San Francisco, CA; Seattle, WA",
+   "posted_at": "2026-11-06T19:31:54+00:00",
+   "posted_history": [
+    "2026-11-06T19:31:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Visual Designer - Studio Central",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8358082"
+  },
   "8358145": {
    "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",
-   "fp": "studio central product designer @ san francisco, ca; seattle, wa; new york, ny",
+   "fp": "staff visual designer studio central @ san francisco, ca; seattle, wa; new york, ny",
    "location": "San Francisco, CA; Seattle, WA; New York, NY",
    "posted_at": "2026-11-06T19:59:16+00:00",
    "posted_history": [
     "2026-11-06T19:59:16+00:00"
    ],
    "reopened": 0,
-   "title": "Studio Central Product Designer",
+   "title": "Staff Visual Designer- Studio Central",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8358145"
   },
   "8359091": {
@@ -8550,6 +8569,21 @@
    "title": "Technical Revenue Accounting Manager",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8359671"
   },
+  "8360390": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "assistant site manager dashmart @ charlotte, nc",
+   "location": "Charlotte, NC",
+   "posted_at": "2026-11-09T18:19:05+00:00",
+   "posted_history": [
+    "2026-11-09T18:19:05+00:00"
+   ],
+   "reopened": 0,
+   "title": "Assistant Site Manager, DashMart - [Charlotte, NC]",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8360390"
+  },
   "8362725": {
    "closed_at": null,
    "department": "",
@@ -8564,6 +8598,66 @@
    "reopened": 0,
    "title": "Operations Specialist - Office Coordinator",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8362725"
+  },
+  "8365234": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "engineering manager order platform checkout @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-11-09T12:58:44+00:00",
+   "posted_history": [
+    "2026-11-09T12:58:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager, Order Platform Checkout",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8365234"
+  },
+  "8367293": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "supervisor onsite support operations doordash for business @ austin, tx; san diego, ca; chicago, il; denver, co; philadelphia, pa; miami, fl; atlanta, ga, phoenix, az",
+   "location": "Austin, TX; San Diego, CA; Chicago, IL; Denver, CO; Philadelphia, PA; Miami, FL; Atlanta, GA, Phoenix, AZ",
+   "posted_at": "2026-11-09T18:42:45+00:00",
+   "posted_history": [
+    "2026-11-09T18:42:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Supervisor, Onsite Support Operations, DoorDash for Business",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8367293"
+  },
+  "8367968": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "senior associate marketplace restaurant growth strategy operations @ new york, ny; san francisco, ca",
+   "location": "New York, NY; San Francisco, CA",
+   "posted_at": "2026-11-09T20:19:18+00:00",
+   "posted_history": [
+    "2026-11-09T20:19:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Associate, Marketplace - Restaurant Growth Strategy & Operations",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8367968"
+  },
+  "8368010": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "associate manager marketplace restaurant growth strategy operations @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-11-09T20:24:21+00:00",
+   "posted_history": [
+    "2026-11-09T20:24:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Associate Manager, Marketplace - Restaurant Growth Strategy & Operations",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8368010"
   }
  }
 }

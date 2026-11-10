@@ -87,6 +87,10 @@
   {
    "date": "2026-11-09",
    "open": 465
+  },
+  {
+   "date": "2026-11-10",
+   "open": 467
   }
  ],
  "jobs": {
@@ -541,7 +545,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/7515882?gh_jid=7515882"
   },
   "7525971": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4381,7 +4385,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8187634?gh_jid=8187634"
   },
   "8187921": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5930,14 +5934,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "software engineer intern @ in-office",
+   "fp": "software engineer intern london uk @ in-office",
    "location": "In-Office",
    "posted_at": "2026-10-06T02:40:05+00:00",
    "posted_history": [
     "2026-10-06T02:40:05+00:00"
    ],
    "reopened": 0,
-   "title": "Software Engineer Intern (2027)",
+   "title": "Software Engineer Intern (2027) - London, UK",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211"
   },
   "8245501": {
@@ -5984,6 +5988,21 @@
    "reopened": 0,
    "title": "Infrastructure Network & Supply Engineer - FTC (6 months)",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8245561?gh_jid=8245561"
+  },
+  "8245695": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "technical account manager @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-10T10:23:12+00:00",
+   "posted_history": [
+    "2026-11-10T10:23:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Account Manager",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8245695?gh_jid=8245695"
   },
   "8245787": {
    "closed_at": "2026-11-02T11:41:30+00:00",
@@ -8475,6 +8494,21 @@
    "title": "Senior Territory Account Executive, iGaming (ASEAN)",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8355420?gh_jid=8355420"
   },
+  "8357803": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "senior manager apjc outreach @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-10T00:42:35+00:00",
+   "posted_history": [
+    "2026-11-10T00:42:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, APJC Outreach",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8357803?gh_jid=8357803"
+  },
   "8358934": {
    "closed_at": null,
    "department": "",
@@ -8489,6 +8523,36 @@
    "reopened": 0,
    "title": "Principal, Customer Storytelling & Advocacy",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8358934?gh_jid=8358934"
+  },
+  "8359552": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "technical support engineer @ in-office",
+   "location": "In-Office",
+   "posted_at": "2026-11-10T08:44:32+00:00",
+   "posted_history": [
+    "2026-11-10T08:44:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Support Engineer",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8359552?gh_jid=8359552"
+  },
+  "8360491": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "executive assistant developer platform @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-10T03:33:03+00:00",
+   "posted_history": [
+    "2026-11-10T03:33:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Executive Assistant - Developer Platform",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8360491?gh_jid=8360491"
   },
   "8360609": {
    "closed_at": null,

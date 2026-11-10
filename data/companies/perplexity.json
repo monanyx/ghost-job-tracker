@@ -87,6 +87,10 @@
   {
    "date": "2026-11-09",
    "open": 137
+  },
+  {
+   "date": "2026-11-10",
+   "open": 136
   }
  ],
  "jobs": {
@@ -759,10 +763,11 @@
    "first_seen": "2026-10-27T09:20:56+00:00",
    "fp": "engineering manager @ san francisco",
    "location": "San Francisco",
-   "posted_at": "2026-10-31T00:47:18+00:00",
+   "posted_at": "2026-11-09T19:38:54+00:00",
    "posted_history": [
     "2026-10-27T02:05:54+00:00",
-    "2026-10-31T00:47:18+00:00"
+    "2026-10-31T00:47:18+00:00",
+    "2026-11-09T19:38:54+00:00"
    ],
    "reopened": 0,
    "title": "Engineering Manager (Agent Engine)",
@@ -2068,17 +2073,18 @@
    "first_seen": "2026-10-26T09:22:13+00:00",
    "fp": "member of technical staff @ san francisco",
    "location": "San Francisco",
-   "posted_at": "2026-10-31T00:47:06+00:00",
+   "posted_at": "2026-11-09T19:39:20+00:00",
    "posted_history": [
     "2026-10-26T06:25:38+00:00",
-    "2026-10-31T00:47:06+00:00"
+    "2026-10-31T00:47:06+00:00",
+    "2026-11-09T19:39:20+00:00"
    ],
    "reopened": 0,
    "title": "Member of Technical Staff (AI Software Engineer, Agent Engine)",
    "url": "https://jobs.ashbyhq.com/Perplexity/d865c821-9a27-416c-9c6a-14132a86f760"
   },
   "d89a3cad-50d5-47fd-8f87-be55285ee2b1": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Data Science",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",

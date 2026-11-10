@@ -87,6 +87,10 @@
   {
    "date": "2026-11-09",
    "open": 150
+  },
+  {
+   "date": "2026-11-10",
+   "open": 153
   }
  ],
  "jobs": {
@@ -1485,6 +1489,21 @@
    "title": "Engineering Manager, International",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8175215?t=gh_src=&gh_jid=8175215"
   },
+  "8177444": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "web engineer international expansion @ toronto, canada",
+   "location": "Toronto, Canada",
+   "posted_at": "2026-11-09T12:24:13+00:00",
+   "posted_history": [
+    "2026-11-09T12:24:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Web Engineer, International Expansion",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8177444?t=gh_src=&gh_jid=8177444"
+  },
   "8179979": {
    "closed_at": null,
    "department": "",
@@ -1505,8 +1524,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior manager finance strategy data science @ menlo park, ca",
-   "location": "Menlo Park, CA",
+   "fp": "senior manager finance strategy data science @ menlo park, ca; new york, ny",
+   "location": "Menlo Park, CA; New York, NY",
    "posted_at": "2026-09-22T18:11:52+00:00",
    "posted_history": [
     "2026-09-22T18:11:52+00:00"
@@ -1756,7 +1775,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8204521?t=gh_src=&gh_jid=8204521"
   },
   "8205083": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2086,7 +2105,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8226972?t=gh_src=&gh_jid=8226972"
   },
   "8230730": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2131,7 +2150,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8232853?t=gh_src=&gh_jid=8232853"
   },
   "8232855": {
-   "closed_at": null,
+   "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2341,7 +2360,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8250341?t=gh_src=&gh_jid=8250341"
   },
   "8255840": {
-   "closed_at": "2026-11-04T11:35:04+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2351,12 +2370,12 @@
    "posted_history": [
     "2026-10-07T10:10:49+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Software Engineer, Web3 Backend",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8255840?t=gh_src=&gh_jid=8255840"
   },
   "8255842": {
-   "closed_at": "2026-11-04T11:35:04+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2366,7 +2385,7 @@
    "posted_history": [
     "2026-10-08T18:04:14+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Software Engineer, Web3 Backend",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8255842?t=gh_src=&gh_jid=8255842"
   },
@@ -2401,7 +2420,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8257655?t=gh_src=&gh_jid=8257655"
   },
   "8258305": {
-   "closed_at": "2026-11-04T11:35:04+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2411,12 +2430,12 @@
    "posted_history": [
     "2026-10-07T08:07:43+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Software Engineer, Web3 Backend",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8258305?t=gh_src=&gh_jid=8258305"
   },
   "8258307": {
-   "closed_at": "2026-11-04T11:35:04+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2426,7 +2445,7 @@
    "posted_history": [
     "2026-10-07T08:41:09+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Software Engineer, Web3 Backend",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8258307?t=gh_src=&gh_jid=8258307"
   },
@@ -3074,6 +3093,21 @@
    "reopened": 0,
    "title": "Senior Software Engineer, AI Security",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8334429?t=gh_src=&gh_jid=8334429"
+  },
+  "8334663": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-10T11:47:05+00:00",
+   "fp": "senior product manager paid marketing @ bellevue, wa; menlo park, ca; new york, ny",
+   "location": "Bellevue, WA; Menlo Park, CA; New York, NY",
+   "posted_at": "2026-11-09T14:57:38+00:00",
+   "posted_history": [
+    "2026-11-09T14:57:38+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Manager, Paid Marketing",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8334663?t=gh_src=&gh_jid=8334663"
   },
   "8335168": {
    "closed_at": null,
