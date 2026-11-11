@@ -91,6 +91,10 @@
   {
    "date": "2026-11-10",
    "open": 132
+  },
+  {
+   "date": "2026-11-11",
+   "open": 133
   }
  ],
  "jobs": {
@@ -1640,7 +1644,7 @@
    "url": "https://epicgames.com/careers/jobs/6200689004?gh_jid=6200689004"
   },
   "6200691004": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -2405,7 +2409,7 @@
    "url": "https://epicgames.com/careers/jobs/6230436004?gh_jid=6230436004"
   },
   "6231373004": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -2539,6 +2543,36 @@
    "title": "Senior Language Programmer",
    "url": "https://epicgames.com/careers/jobs/6236545004?gh_jid=6236545004"
   },
+  "6238833004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "gaming threat intelligence analyst @ cary,north carolina,united states",
+   "location": "Cary,North Carolina,United States",
+   "posted_at": "2026-11-10T20:19:20+00:00",
+   "posted_history": [
+    "2026-11-10T20:19:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Gaming Threat Intelligence Analyst",
+   "url": "https://epicgames.com/careers/jobs/6238833004?gh_jid=6238833004"
+  },
+  "6238835004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "gaming threat intelligence analyst @ blank,blank,multiple locations",
+   "location": "BLANK,BLANK,Multiple Locations",
+   "posted_at": "2026-11-10T20:19:24+00:00",
+   "posted_history": [
+    "2026-11-10T20:19:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Gaming Threat Intelligence Analyst",
+   "url": "https://epicgames.com/careers/jobs/6238835004?gh_jid=6238835004"
+  },
   "6238837004": {
    "closed_at": null,
    "department": "",
@@ -2570,7 +2604,7 @@
    "url": "https://epicgames.com/careers/jobs/6239259004?gh_jid=6239259004"
   },
   "6239490004": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
@@ -2585,7 +2619,7 @@
    "url": "https://epicgames.com/careers/jobs/6239490004?gh_jid=6239490004"
   },
   "6239492004": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
@@ -2703,6 +2737,51 @@
    "reopened": 0,
    "title": "Senior Security Engineer",
    "url": "https://epicgames.com/careers/jobs/6252103004?gh_jid=6252103004"
+  },
+  "6254352004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "senior security automation software engineer @ cary,north carolina,united states",
+   "location": "Cary,North Carolina,United States",
+   "posted_at": "2026-11-10T20:29:18+00:00",
+   "posted_history": [
+    "2026-11-10T20:29:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Security Automation Software Engineer",
+   "url": "https://epicgames.com/careers/jobs/6254352004?gh_jid=6254352004"
+  },
+  "6254354004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "senior security automation software programmer @ blank,blank,multiple locations",
+   "location": "BLANK,BLANK,Multiple Locations",
+   "posted_at": "2026-11-10T20:29:21+00:00",
+   "posted_history": [
+    "2026-11-10T20:29:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Security Automation Software Programmer",
+   "url": "https://epicgames.com/careers/jobs/6254354004?gh_jid=6254354004"
+  },
+  "6254629004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "gaming threat intelligence analyst @ montreal,quebec,canada",
+   "location": "Montreal,Quebec,Canada",
+   "posted_at": "2026-11-10T21:15:56+00:00",
+   "posted_history": [
+    "2026-11-10T21:15:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Gaming Threat Intelligence Analyst",
+   "url": "https://epicgames.com/careers/jobs/6254629004?gh_jid=6254629004"
   }
  }
 }

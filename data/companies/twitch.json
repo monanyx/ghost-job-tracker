@@ -91,6 +91,10 @@
   {
    "date": "2026-11-10",
    "open": 55
+  },
+  {
+   "date": "2026-11-11",
+   "open": 56
   }
  ],
  "jobs": {
@@ -1218,6 +1222,21 @@
    "reopened": 0,
    "title": "Senior Manager, Global Creator Programs",
    "url": "https://job-boards.greenhouse.io/twitch/jobs/8931461002"
+  },
+  "8937278002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "software engineer ii fintech @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-11T04:09:25+00:00",
+   "posted_history": [
+    "2026-11-11T04:09:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer II, Fintech",
+   "url": "https://job-boards.greenhouse.io/twitch/jobs/8937278002"
   }
  }
 }

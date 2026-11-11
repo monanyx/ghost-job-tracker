@@ -91,6 +91,10 @@
   {
    "date": "2026-11-10",
    "open": 143
+  },
+  {
+   "date": "2026-11-11",
+   "open": 142
   }
  ],
  "jobs": {
@@ -260,7 +264,7 @@
    "url": "https://boards.greenhouse.io/figma/jobs/5552560004?gh_jid=5552560004"
   },
   "5552580004": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -590,7 +594,7 @@
    "url": "https://boards.greenhouse.io/figma/jobs/5790627004?gh_jid=5790627004"
   },
   "5792631004": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2390,7 +2394,7 @@
    "url": "https://boards.greenhouse.io/figma/jobs/6229275004?gh_jid=6229275004"
   },
   "6230562004": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
@@ -2765,7 +2769,7 @@
    "url": "https://boards.greenhouse.io/figma/jobs/6239959004?gh_jid=6239959004"
   },
   "6240900004": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
@@ -2868,6 +2872,51 @@
    "reopened": 0,
    "title": "Product Designer - Figma Weave (Tel Aviv, Israel)",
    "url": "https://boards.greenhouse.io/figma/jobs/6247174004?gh_jid=6247174004"
+  },
+  "6249978004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "technical operations insights analyst @ san francisco, ca • new york, ny • united states",
+   "location": "San Francisco, CA • New York, NY • United States",
+   "posted_at": "2026-11-10T18:53:05+00:00",
+   "posted_history": [
+    "2026-11-10T18:53:05+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Operations & Insights Analyst",
+   "url": "https://boards.greenhouse.io/figma/jobs/6249978004?gh_jid=6249978004"
+  },
+  "6250826004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "senior inside sales representative @ san francisco, ca • new york, ny",
+   "location": "San Francisco, CA • New York, NY",
+   "posted_at": "2026-11-10T22:28:57+00:00",
+   "posted_history": [
+    "2026-11-10T22:28:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Inside Sales Representative",
+   "url": "https://boards.greenhouse.io/figma/jobs/6250826004?gh_jid=6250826004"
+  },
+  "6251998004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "strategic finance @ san francisco, ca • new york, ny • united states",
+   "location": "San Francisco, CA • New York, NY • United States",
+   "posted_at": "2026-11-10T17:10:13+00:00",
+   "posted_history": [
+    "2026-11-10T17:10:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Finance",
+   "url": "https://boards.greenhouse.io/figma/jobs/6251998004?gh_jid=6251998004"
   }
  }
 }

@@ -91,6 +91,10 @@
   {
    "date": "2026-11-10",
    "open": 10
+  },
+  {
+   "date": "2026-11-11",
+   "open": 9
   }
  ],
  "jobs": {
@@ -230,7 +234,7 @@
    "url": "https://jobs.ashbyhq.com/zapier/b14ac81b-d94c-4a46-89a3-017f3d113517"
   },
   "c0582311-18cb-4415-9c86-79014f1b74f6": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "Campaign Marketing",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

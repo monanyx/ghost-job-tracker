@@ -91,6 +91,10 @@
   {
    "date": "2026-11-10",
    "open": 43
+  },
+  {
+   "date": "2026-11-11",
+   "open": 44
   }
  ],
  "jobs": {
@@ -305,7 +309,7 @@
    "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8067872"
   },
   "8067874": {
-   "closed_at": "2026-10-22T08:55:54+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -315,7 +319,7 @@
    "posted_history": [
     "2026-07-23T15:25:33+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Category Manager, Indirect Sourcing & Procurement",
    "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8067874"
   },

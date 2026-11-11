@@ -91,11 +91,15 @@
   {
    "date": "2026-11-10",
    "open": 334
+  },
+  {
+   "date": "2026-11-11",
+   "open": 339
   }
  ],
  "jobs": {
   "6814934": {
-   "closed_at": "2026-10-21T08:53:29+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -105,7 +109,7 @@
    "posted_history": [
     "2025-05-06T21:06:02+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Inside Account Executive, SMB - Remote",
    "url": "https://careers.toasttab.com/jobs?gh_jid=6814934"
   },
@@ -1250,7 +1254,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=7931146"
   },
   "7947082": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1509,8 +1513,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "bilingual strategic cuisines account executive albuquerque nm @ albuquerque, new mexico",
-   "location": "Albuquerque, New Mexico ",
+   "fp": "bilingual strategic cuisines account executive albuquerque nm @ albuquerque, nm",
+   "location": "Albuquerque, NM",
    "posted_at": "2026-06-26T23:01:44+00:00",
    "posted_history": [
     "2026-06-26T23:01:44+00:00"
@@ -1524,8 +1528,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "bilingual strategic cuisines account executive santa fe nm @ santa fe, new mexico",
-   "location": "Santa Fe, New Mexico ",
+   "fp": "bilingual strategic cuisines account executive santa fe nm @ santa fe, nm",
+   "location": "Santa Fe, NM",
    "posted_at": "2026-06-26T23:01:45+00:00",
    "posted_history": [
     "2026-06-26T23:01:45+00:00"
@@ -1925,7 +1929,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=8055429"
   },
   "8059342": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2390,7 +2394,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=8105159"
   },
   "8106205": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2720,7 +2724,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=8144016"
   },
   "8144312": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2735,7 +2739,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=8144312"
   },
   "8145901": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
@@ -2870,7 +2874,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=8157220"
   },
   "8159140": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3069,18 +3073,18 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "territory account executive smb @ huron, oh",
+   "fp": "territory account executive smb sandusky oh @ huron, oh",
    "location": "Huron, OH",
    "posted_at": "2026-09-01T20:45:02+00:00",
    "posted_history": [
     "2026-09-01T20:45:02+00:00"
    ],
    "reopened": 0,
-   "title": "Territory Account Executive, SMB",
+   "title": "Territory Account Executive, SMB - Sandusky, OH",
    "url": "https://careers.toasttab.com/jobs?gh_jid=8171898"
   },
   "8171912": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3093,6 +3097,21 @@
    "reopened": 0,
    "title": "Territory Account Executive, SMB",
    "url": "https://careers.toasttab.com/jobs?gh_jid=8171912"
+  },
+  "8172579": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "staff software engineer @ chennai",
+   "location": "Chennai",
+   "posted_at": "2026-09-16T04:25:27+00:00",
+   "posted_history": [
+    "2026-09-16T04:25:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer",
+   "url": "https://careers.toasttab.com/jobs?gh_jid=8172579"
   },
   "8173861": {
    "closed_at": null,
@@ -3245,7 +3264,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=8180701"
   },
   "8184675": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3774,14 +3793,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "staff software engineer tech lead scheduling @ remote, us",
+   "fp": "staff software engineer tech lead team management @ remote, us",
    "location": "Remote, US",
    "posted_at": "2026-10-01T00:10:48+00:00",
    "posted_history": [
     "2026-10-01T00:10:48+00:00"
    ],
    "reopened": 0,
-   "title": "Staff Software Engineer, Tech Lead, Scheduling",
+   "title": "Staff Software Engineer, Tech Lead, Team Management",
    "url": "https://careers.toasttab.com/jobs?gh_jid=8214319"
   },
   "8215834": {
@@ -5133,6 +5152,21 @@
    "reopened": 0,
    "title": "Manager, Marketing Operations - Ad Tech Lead",
    "url": "https://careers.toasttab.com/jobs?gh_jid=8261407"
+  },
+  "8261417": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "video designer @ remote",
+   "location": "Remote",
+   "posted_at": "2026-11-10T21:44:42+00:00",
+   "posted_history": [
+    "2026-11-10T21:44:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Video Designer",
+   "url": "https://careers.toasttab.com/jobs?gh_jid=8261417"
   },
   "8261492": {
    "closed_at": "2026-10-28T10:01:46+00:00",
@@ -6920,7 +6954,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=8316733"
   },
   "8317320": {
-   "closed_at": "2026-11-03T11:21:29+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-26T09:22:13+00:00",
@@ -6930,7 +6964,7 @@
    "posted_history": [
     "2026-10-26T07:05:59+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Software Engineer, Full Stack",
    "url": "https://careers.toasttab.com/jobs?gh_jid=8317320"
   },
@@ -7040,7 +7074,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=8324824"
   },
   "8326864": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-02T11:41:30+00:00",
@@ -7580,7 +7614,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=8345739"
   },
   "8345741": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-06T11:30:42+00:00",
@@ -7640,7 +7674,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=8348999"
   },
   "8349001": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
@@ -8149,6 +8183,21 @@
    "title": "Territory Account Executive, SMB - Greater Houston, TX",
    "url": "https://careers.toasttab.com/jobs?gh_jid=8355533"
   },
+  "8355759": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "principal technical talent acquisition partner @ remote - us",
+   "location": "Remote - US",
+   "posted_at": "2026-11-10T17:30:06+00:00",
+   "posted_history": [
+    "2026-11-10T17:30:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Technical Talent Acquisition Partner",
+   "url": "https://careers.toasttab.com/jobs?gh_jid=8355759"
+  },
   "8357080": {
    "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
@@ -8178,6 +8227,51 @@
    "reopened": 0,
    "title": "Manager, Customer Care - Kitchen",
    "url": "https://careers.toasttab.com/jobs?gh_jid=8358223"
+  },
+  "8358864": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "manager ii software engineering @ dublin, ireland",
+   "location": "Dublin, Ireland",
+   "posted_at": "2026-11-11T10:11:09+00:00",
+   "posted_history": [
+    "2026-11-11T10:11:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager II, Software Engineering",
+   "url": "https://careers.toasttab.com/jobs?gh_jid=8358864"
+  },
+  "8359247": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "senior tax analyst international taxes @ dublin",
+   "location": "Dublin",
+   "posted_at": "2026-11-10T18:11:17+00:00",
+   "posted_history": [
+    "2026-11-10T18:11:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Tax  Analyst - International Taxes",
+   "url": "https://careers.toasttab.com/jobs?gh_jid=8359247"
+  },
+  "8359255": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "senior revenue accountant fintech @ remote- us",
+   "location": "Remote- US",
+   "posted_at": "2026-11-10T20:47:04+00:00",
+   "posted_history": [
+    "2026-11-10T20:47:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Revenue Accountant- Fintech",
+   "url": "https://careers.toasttab.com/jobs?gh_jid=8359255"
   },
   "8359297": {
    "closed_at": null,
@@ -8334,15 +8428,135 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
-   "fp": "staff software engineer loyalty iq grow @ dublin, ireland",
+   "fp": "staff software engineer iq grow @ dublin, ireland",
    "location": "Dublin, Ireland",
    "posted_at": "2026-11-09T17:40:05+00:00",
    "posted_history": [
     "2026-11-09T17:40:05+00:00"
    ],
    "reopened": 0,
-   "title": "Staff Software Engineer, Loyalty / IQ Grow",
+   "title": "Staff Software Engineer, IQ Grow",
    "url": "https://careers.toasttab.com/jobs?gh_jid=8367009"
+  },
+  "8371351": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "territory account executive smb westfield nj @ westfield, nj",
+   "location": "Westfield, NJ",
+   "posted_at": "2026-11-10T15:41:51+00:00",
+   "posted_history": [
+    "2026-11-10T15:41:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Territory Account Executive, SMB - Westfield, NJ",
+   "url": "https://careers.toasttab.com/jobs?gh_jid=8371351"
+  },
+  "8372357": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "senior customer care technical specialist @ chennai",
+   "location": "Chennai",
+   "posted_at": "2026-11-10T16:21:50+00:00",
+   "posted_history": [
+    "2026-11-10T16:21:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Customer Care Technical Specialist",
+   "url": "https://careers.toasttab.com/jobs?gh_jid=8372357"
+  },
+  "8372717": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "inside account executive @ london, uk",
+   "location": "London, UK ",
+   "posted_at": "2026-11-10T17:08:08+00:00",
+   "posted_history": [
+    "2026-11-10T17:08:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "Inside Account Executive",
+   "url": "https://careers.toasttab.com/jobs?gh_jid=8372717"
+  },
+  "8374485": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "territory account executive smb east baltimore md @ baltimore, md",
+   "location": "Baltimore, MD",
+   "posted_at": "2026-11-10T22:53:17+00:00",
+   "posted_history": [
+    "2026-11-10T22:53:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Territory Account Executive , SMB - East Baltimore, MD",
+   "url": "https://careers.toasttab.com/jobs?gh_jid=8374485"
+  },
+  "8375255": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "bilingual strategic cuisines flex account executive @ washington, d.c.",
+   "location": "Washington, D.C. ",
+   "posted_at": "2026-11-10T22:15:30+00:00",
+   "posted_history": [
+    "2026-11-10T22:15:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Bilingual Strategic Cuisines Flex Account Executive (Thai)",
+   "url": "https://careers.toasttab.com/jobs?gh_jid=8375255"
+  },
+  "8375267": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "bilingual strategic cuisines flex account executive @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-11-10T22:16:45+00:00",
+   "posted_history": [
+    "2026-11-10T22:16:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Bilingual Strategic Cuisines Flex Account Executive (Thai)",
+   "url": "https://careers.toasttab.com/jobs?gh_jid=8375267"
+  },
+  "8375797": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "territory account executive retail el paso @ round rock, tx",
+   "location": "Round Rock, TX",
+   "posted_at": "2026-11-11T00:31:49+00:00",
+   "posted_history": [
+    "2026-11-11T00:31:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Territory Account Executive, Retail - El Paso (Spanish/Bilingual)",
+   "url": "https://careers.toasttab.com/jobs?gh_jid=8375797"
+  },
+  "8375835": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "territory account executive retail el paso @ pflugerville, tx",
+   "location": "Pflugerville, TX",
+   "posted_at": "2026-11-11T00:31:52+00:00",
+   "posted_history": [
+    "2026-11-11T00:31:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "Territory Account Executive, Retail - El Paso (Spanish/Bilingual)",
+   "url": "https://careers.toasttab.com/jobs?gh_jid=8375835"
   }
  }
 }

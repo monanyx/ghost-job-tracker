@@ -91,6 +91,10 @@
   {
    "date": "2026-11-10",
    "open": 6
+  },
+  {
+   "date": "2026-11-11",
+   "open": 8
   }
  ],
  "jobs": {
@@ -213,6 +217,36 @@
    "reopened": 0,
    "title": "Business Development Representative (French speaking)",
    "url": "https://job-boards.greenhouse.io/airtable/jobs/8916372002"
+  },
+  "8936208002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "customer success manager @ remote - us",
+   "location": "Remote - US",
+   "posted_at": "2026-11-10T21:47:36+00:00",
+   "posted_history": [
+    "2026-11-10T21:47:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Success Manager",
+   "url": "https://job-boards.greenhouse.io/airtable/jobs/8936208002"
+  },
+  "8937075002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "customer success manager @ london-uk",
+   "location": "London-UK",
+   "posted_at": "2026-11-10T22:47:21+00:00",
+   "posted_history": [
+    "2026-11-10T22:47:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Success Manager (London)",
+   "url": "https://job-boards.greenhouse.io/airtable/jobs/8937075002"
   }
  }
 }

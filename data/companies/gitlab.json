@@ -91,6 +91,10 @@
   {
    "date": "2026-11-10",
    "open": 254
+  },
+  {
+   "date": "2026-11-11",
+   "open": 253
   }
  ],
  "jobs": {
@@ -155,7 +159,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8512432002"
   },
   "8522265002": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -365,7 +369,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8615268002"
   },
   "8615811002": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2120,7 +2124,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8814596002"
   },
   "8815140002": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2570,7 +2574,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8855883002"
   },
   "8856724002": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3204,8 +3208,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "recruiter r d @ remote ireland; remote, australia; remote, canada; remote, india; remote, mexico; remote, poland; remote, united kingdom; remote, united states",
-   "location": "Remote Ireland; Remote, Australia; Remote, Canada; Remote, India; Remote, Mexico; Remote, Poland; Remote, United Kingdom; Remote, United States",
+   "fp": "recruiter r d @ remote, canada; remote, india; remote, poland; remote, united kingdom; remote, united states",
+   "location": "Remote, Canada; Remote, India; Remote, Poland; Remote, United Kingdom; Remote, United States",
    "posted_at": "2026-10-08T14:40:23+00:00",
    "posted_history": [
     "2026-10-08T14:40:23+00:00"
@@ -3335,7 +3339,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8872457002"
   },
   "8872500002": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3873,6 +3877,21 @@
    "reopened": 0,
    "title": "Commercial Account Executive - Mid-Market, Canada",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8891673002"
+  },
+  "8891698002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "threat research engineer security factory threat research @ remote, israel; remote, poland; remote, united kingdom",
+   "location": "Remote, Israel; Remote, Poland; Remote, United Kingdom",
+   "posted_at": "2026-11-11T09:10:18+00:00",
+   "posted_history": [
+    "2026-11-11T09:10:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Threat Research Engineer, Security Factory: Threat Research",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8891698002"
   },
   "8891730002": {
    "closed_at": null,
@@ -4924,6 +4943,21 @@
    "title": "Engineering Manager, Security Platform: Authentication",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8929723002"
   },
+  "8930224002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "staff software engineer security platform authentication @ bangalore, india",
+   "location": "Bangalore, India",
+   "posted_at": "2026-11-11T03:03:12+00:00",
+   "posted_history": [
+    "2026-11-11T03:03:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer, Security Platform: Authentication",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8930224002"
+  },
   "8931179002": {
    "closed_at": null,
    "department": "",
@@ -5058,6 +5092,36 @@
    "reopened": 0,
    "title": "Principal Growth Marketing Strategist",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8933640002"
+  },
+  "8935860002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "principal revenue strategist @ remote, canada; remote, united states",
+   "location": "Remote, Canada; Remote, United States",
+   "posted_at": "2026-11-10T20:29:27+00:00",
+   "posted_history": [
+    "2026-11-10T20:29:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Revenue Strategist",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8935860002"
+  },
+  "8936287002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "senior lifecycle marketing manager @ remote, canada; remote, united states",
+   "location": "Remote, Canada; Remote, United States",
+   "posted_at": "2026-11-10T20:09:54+00:00",
+   "posted_history": [
+    "2026-11-10T20:09:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Lifecycle Marketing Manager",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8936287002"
   }
  }
 }

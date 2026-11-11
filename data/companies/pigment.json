@@ -91,6 +91,10 @@
   {
    "date": "2026-11-10",
    "open": 129
+  },
+  {
+   "date": "2026-11-11",
+   "open": 125
   }
  ],
  "jobs": {
@@ -545,7 +549,7 @@
    "url": "https://jobs.lever.co/pigment/354d7fb1-96a3-412b-9ac3-171fc63b96d5"
   },
   "37092deb-53fb-47ce-8d4e-b7ee6056cf11": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "Business",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1430,7 +1434,7 @@
    "url": "https://jobs.lever.co/pigment/9b6782fc-679f-4281-a09a-57c7cf72d2ea"
   },
   "9c902d4b-8150-4e82-9b80-1f597e32ed5e": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "Business",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1670,7 +1674,7 @@
    "url": "https://jobs.lever.co/pigment/b5f091ce-ba5d-4c92-9311-184afafb6bdf"
   },
   "b931ce44-b152-4c83-a35e-6ec4610a1ff2": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "Operations",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2105,7 +2109,7 @@
    "url": "https://jobs.lever.co/pigment/d55f8feb-974d-4ccc-a15d-a93f7e7caa44"
   },
   "dad6777e-77e7-4885-b8cc-751ad141df6a": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

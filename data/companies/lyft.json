@@ -91,6 +91,10 @@
   {
    "date": "2026-11-10",
    "open": 156
+  },
+  {
+   "date": "2026-11-11",
+   "open": 155
   }
  ],
  "jobs": {
@@ -2630,7 +2634,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8881573002?gh_jid=8881573002"
   },
   "8883412002": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2645,7 +2649,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8883412002?gh_jid=8883412002"
   },
   "8883423002": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3260,7 +3264,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8916916002?gh_jid=8916916002"
   },
   "8916920002": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -3768,6 +3772,36 @@
    "reopened": 0,
    "title": "Growth Marketing Manager, Lifecycle",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8930438002?gh_jid=8930438002"
+  },
+  "8931413002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "data engineer @ toronto, canada",
+   "location": "Toronto, Canada",
+   "posted_at": "2026-11-10T15:58:08+00:00",
+   "posted_history": [
+    "2026-11-10T15:58:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "Data Engineer",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8931413002?gh_jid=8931413002"
+  },
+  "8936180002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "senior tax analyst indirect tax @ toronto, canada",
+   "location": "Toronto, Canada",
+   "posted_at": "2026-11-10T17:54:20+00:00",
+   "posted_history": [
+    "2026-11-10T17:54:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Tax Analyst, Indirect Tax",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8936180002?gh_jid=8936180002"
   }
  }
 }

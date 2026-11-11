@@ -91,6 +91,10 @@
   {
    "date": "2026-11-10",
    "open": 285
+  },
+  {
+   "date": "2026-11-11",
+   "open": 286
   }
  ],
  "jobs": {
@@ -1269,14 +1273,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "embedded engineer compliance @ remote - usa",
+   "fp": "embedded engineer @ remote - usa",
    "location": "Remote - USA",
    "posted_at": "2026-07-31T20:56:36+00:00",
    "posted_history": [
     "2026-07-31T20:56:36+00:00"
    ],
    "reopened": 0,
-   "title": "Embedded Engineer, Compliance [Office of the CTO]",
+   "title": "Embedded Engineer [Office of the CTO]",
    "url": "https://www.coinbase.com/careers/positions/8099099?gh_jid=8099099"
   },
   "8100066": {
@@ -1445,7 +1449,7 @@
    "url": "https://www.coinbase.com/careers/positions/8129321?gh_jid=8129321"
   },
   "8131316": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2120,7 +2124,7 @@
    "url": "https://www.coinbase.com/careers/positions/8175432?gh_jid=8175432"
   },
   "8175435": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2480,7 +2484,7 @@
    "url": "https://www.coinbase.com/careers/positions/8193862?gh_jid=8193862"
   },
   "8198059": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3519,14 +3523,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
-   "fp": "software engineer 1 @ remote - usa",
+   "fp": "software engineer 1 money movement @ remote - usa",
    "location": "Remote - USA",
    "posted_at": "2026-11-09T19:43:45+00:00",
    "posted_history": [
     "2026-11-09T19:43:45+00:00"
    ],
    "reopened": 0,
-   "title": "Software Engineer-1",
+   "title": "Software Engineer-1, Money Movement",
    "url": "https://www.coinbase.com/careers/positions/8278991?gh_jid=8278991"
   },
   "8279479": {
@@ -5148,6 +5152,66 @@
    "reopened": 0,
    "title": "Senior Software Engineer",
    "url": "https://www.coinbase.com/careers/positions/8368072?gh_jid=8368072"
+  },
+  "8374607": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "senior product manager simple trading @ remote - usa",
+   "location": "Remote - USA",
+   "posted_at": "2026-11-10T20:38:00+00:00",
+   "posted_history": [
+    "2026-11-10T20:38:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Manager, Simple Trading",
+   "url": "https://www.coinbase.com/careers/positions/8374607?gh_jid=8374607"
+  },
+  "8375692": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "senior sam analyst @ remote - ireland",
+   "location": "Remote - Ireland",
+   "posted_at": "2026-11-11T00:38:51+00:00",
+   "posted_history": [
+    "2026-11-11T00:38:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior SAM Analyst",
+   "url": "https://www.coinbase.com/careers/positions/8375692?gh_jid=8375692"
+  },
+  "8375696": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "senior sam analyst @ remote - uk",
+   "location": "Remote - UK",
+   "posted_at": "2026-11-11T00:41:36+00:00",
+   "posted_history": [
+    "2026-11-11T00:41:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior SAM Analyst",
+   "url": "https://www.coinbase.com/careers/positions/8375696?gh_jid=8375696"
+  },
+  "8376084": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "strategic sourcing intern @ hybrid - new york, ny",
+   "location": "Hybrid - New York, NY",
+   "posted_at": "2026-11-11T02:25:49+00:00",
+   "posted_history": [
+    "2026-11-11T02:25:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Sourcing Intern",
+   "url": "https://www.coinbase.com/careers/positions/8376084?gh_jid=8376084"
   }
  }
 }

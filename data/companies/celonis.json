@@ -91,6 +91,10 @@
   {
    "date": "2026-11-10",
    "open": 241
+  },
+  {
+   "date": "2026-11-11",
+   "open": 243
   }
  ],
  "jobs": {
@@ -498,6 +502,21 @@
    "reopened": 0,
    "title": "Lead Applied Value Engineer",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7630992003?gh_jid=7630992003"
+  },
+  "7635158003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "senior applied value engineer @ bangalore, india",
+   "location": "Bangalore, India",
+   "posted_at": "2026-03-26T07:02:17+00:00",
+   "posted_history": [
+    "2026-03-26T07:02:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Applied Value Engineer",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/7635158003?gh_jid=7635158003"
   },
   "7635174003": {
    "closed_at": null,
@@ -1265,7 +1284,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7790947003?gh_jid=7790947003"
   },
   "7791427003": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1580,7 +1599,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7816927003?gh_jid=7816927003"
   },
   "7816965003": {
-   "closed_at": "2026-11-04T11:35:04+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1590,7 +1609,7 @@
    "posted_history": [
     "2026-08-25T15:25:42+00:00"
    ],
-   "reopened": 1,
+   "reopened": 2,
    "title": "Associate Account Executive (Top Talent Sales Program - Lunar) DACH",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7816965003?gh_jid=7816965003"
   },
@@ -1884,14 +1903,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior value engineer brazil market @ madrid, spain",
+   "fp": "lead value engineer brazil market @ madrid, spain",
    "location": "Madrid, Spain",
    "posted_at": "2026-08-10T06:55:08+00:00",
    "posted_history": [
     "2026-08-10T06:55:08+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Value Engineer - Brazil Market",
+   "title": "Lead Value Engineer - Brazil Market",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7825731003?gh_jid=7825731003"
   },
   "7825968003": {
@@ -2154,14 +2173,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "ai quality engineer @ bangalore, india",
+   "fp": "full stack engineer ai first development @ bangalore, india",
    "location": "Bangalore, India",
    "posted_at": "2026-08-18T07:33:24+00:00",
    "posted_history": [
     "2026-08-18T07:33:24+00:00"
    ],
    "reopened": 0,
-   "title": "AI Quality Engineer",
+   "title": "Full Stack Engineer – AI-First Development",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7885808003?gh_jid=7885808003"
   },
   "7885816003": {
@@ -2315,7 +2334,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7886119003?gh_jid=7886119003"
   },
   "7887061003": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2660,7 +2679,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7989093003?gh_jid=7989093003"
   },
   "7989831003": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2690,7 +2709,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7989839003?gh_jid=7989839003"
   },
   "7989845003": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4220,7 +4239,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8173249003?gh_jid=8173249003"
   },
   "8173263003": {
-   "closed_at": "2026-11-06T11:30:42+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-05T11:30:12+00:00",
@@ -4230,7 +4249,7 @@
    "posted_history": [
     "2026-11-04T16:42:06+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Lead Project Manager",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8173263003?gh_jid=8173263003"
   },
@@ -4339,6 +4358,36 @@
    "title": "Principal Enterprise Account Executive",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8179618003?gh_jid=8179618003"
   },
+  "8190822003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "software engineer @ remote, us, massachusetts",
+   "location": "Remote, US, Massachusetts",
+   "posted_at": "2026-11-10T15:35:36+00:00",
+   "posted_history": [
+    "2026-11-10T15:35:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/8190822003?gh_jid=8190822003"
+  },
+  "8190831003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "software engineer infrastructure @ remote, us, massachusetts",
+   "location": "Remote, US, Massachusetts",
+   "posted_at": "2026-11-10T15:30:48+00:00",
+   "posted_history": [
+    "2026-11-10T15:30:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer - Infrastructure",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/8190831003?gh_jid=8190831003"
+  },
   "8196236003": {
    "closed_at": null,
    "department": "",
@@ -4369,6 +4418,21 @@
    "title": "Senior Management & Technology Consultant - Manufacturing/Production",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8196239003?gh_jid=8196239003"
   },
+  "8197525003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "enterprise account executive mea oil energy @ dubai, united arab emirates",
+   "location": "Dubai, United Arab Emirates",
+   "posted_at": "2026-11-11T10:26:17+00:00",
+   "posted_history": [
+    "2026-11-11T10:26:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Account Executive MEA Oil & Energy",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/8197525003?gh_jid=8197525003"
+  },
   "8198760003": {
    "closed_at": null,
    "department": "",
@@ -4389,14 +4453,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
-   "fp": "senior presales and solution consultant cpg retail @ munich, germany",
+   "fp": "senior presales and solution engineer cpg retail @ munich, germany",
    "location": "Munich, Germany",
    "posted_at": "2026-11-09T12:55:49+00:00",
    "posted_history": [
     "2026-11-09T12:55:49+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Presales and Solution Consultant - CPG/Retail",
+   "title": "Senior Presales and Solution Engineer - CPG/Retail",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8198853003?gh_jid=8198853003"
   },
   "8198857003": {

@@ -91,6 +91,10 @@
   {
    "date": "2026-11-10",
    "open": 27
+  },
+  {
+   "date": "2026-11-11",
+   "open": 26
   }
  ],
  "jobs": {
@@ -155,7 +159,7 @@
    "url": "https://job-boards.greenhouse.io/discord/jobs/8460791002"
   },
   "8464570002": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -200,7 +204,7 @@
    "url": "https://job-boards.greenhouse.io/discord/jobs/8545675002"
   },
   "8575166002": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -798,6 +802,21 @@
    "reopened": 0,
    "title": "Senior Full-Stack Software Engineer, Engagement",
    "url": "https://job-boards.greenhouse.io/discord/jobs/8856467002"
+  },
+  "8865033002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "strategic finance analyst @ san francisco bay area",
+   "location": "San Francisco Bay Area",
+   "posted_at": "2026-11-10T20:23:17+00:00",
+   "posted_history": [
+    "2026-11-10T20:23:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Finance Analyst",
+   "url": "https://job-boards.greenhouse.io/discord/jobs/8865033002"
   },
   "8879502002": {
    "closed_at": "2026-10-30T10:28:19+00:00",

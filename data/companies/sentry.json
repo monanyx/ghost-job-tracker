@@ -91,6 +91,10 @@
   {
    "date": "2026-11-10",
    "open": 41
+  },
+  {
+   "date": "2026-11-11",
+   "open": 40
   }
  ],
  "jobs": {
@@ -291,7 +295,7 @@
    "url": "https://jobs.ashbyhq.com/sentry/68b3897c-bbb0-4f90-aa9a-57981323e26b"
   },
   "6a973e19-6736-4973-8a87-043fcbcd553e": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "Engineering ",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -306,7 +310,7 @@
    "url": "https://jobs.ashbyhq.com/sentry/6a973e19-6736-4973-8a87-043fcbcd553e"
   },
   "6ce36964-7052-4c18-9497-68dd42c29cba": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "Sales ",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -559,6 +563,21 @@
    "reopened": 0,
    "title": "Director of Engineering, Platform (Runtime & Stateful Systems)",
    "url": "https://jobs.ashbyhq.com/sentry/b7c17591-c9f1-449a-b0c1-39f2d6ff650e"
+  },
+  "bb3d05fe-ccc5-418b-b242-3bf0f1335da2": {
+   "closed_at": null,
+   "department": "Sales ",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "enterprise account executive @ san francisco, california",
+   "location": "San Francisco, California",
+   "posted_at": "2026-11-10T20:56:04+00:00",
+   "posted_history": [
+    "2026-11-10T20:56:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Account Executive",
+   "url": "https://jobs.ashbyhq.com/sentry/bb3d05fe-ccc5-418b-b242-3bf0f1335da2"
   },
   "bc431cdf-7f32-4b9f-ac3e-9b0f660e6eb2": {
    "closed_at": null,

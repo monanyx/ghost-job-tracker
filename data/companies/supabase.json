@@ -91,9 +91,28 @@
   {
    "date": "2026-11-10",
    "open": 74
+  },
+  {
+   "date": "2026-11-11",
+   "open": 74
   }
  ],
  "jobs": {
+  "0055f731-cffa-4c74-9c00-8abfa579873d": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "software engineer ai tooling @ remote, global",
+   "location": "Remote, Global",
+   "posted_at": "2026-11-10T17:43:44+00:00",
+   "posted_history": [
+    "2026-11-10T17:43:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer - AI Tooling",
+   "url": "https://jobs.ashbyhq.com/supabase/0055f731-cffa-4c74-9c00-8abfa579873d"
+  },
   "05226c15-0501-4559-833d-3815fdf01f56": {
    "closed_at": null,
    "department": "Marketing",
@@ -380,7 +399,7 @@
    "url": "https://jobs.ashbyhq.com/supabase/4eb14408-51e6-4c58-812a-3782d5c0b045"
   },
   "59083a14-b2b6-4dd8-8037-739aa1ad1e22": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "Data + Growth",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -544,6 +563,21 @@
    "title": "Container Engineer",
    "url": "https://jobs.ashbyhq.com/supabase/6f7656fc-9983-48be-bbd3-8b40e0e3027a"
   },
+  "715ba1ea-bd0b-4960-9d5a-defca99f2e24": {
+   "closed_at": null,
+   "department": "Marketing",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "dev experiences and community lead @ san francisco, ca, us",
+   "location": "San Francisco, CA, US",
+   "posted_at": "2026-11-10T14:57:17+00:00",
+   "posted_history": [
+    "2026-11-10T14:57:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Dev Experiences and Community Lead (SF)",
+   "url": "https://jobs.ashbyhq.com/supabase/715ba1ea-bd0b-4960-9d5a-defca99f2e24"
+  },
   "73ddf93b-fe0c-455d-ba27-cdde0d3fb94f": {
    "closed_at": null,
    "department": "Engineering",
@@ -620,7 +654,7 @@
    "url": "https://jobs.ashbyhq.com/supabase/8e4ddc16-6308-432a-acea-55709c15ddc7"
   },
   "8fa1c7a0-a85c-4562-a1f5-4dd22cadae27": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -800,6 +834,21 @@
    "title": "Account Executive (German-Speaking)",
    "url": "https://jobs.ashbyhq.com/supabase/a069c886-1107-408e-88b4-e1aa8d33d4bc"
   },
+  "a0b46de3-5617-41cc-8623-2be9b6fd6b49": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "head of ecosystem @ remote, amer",
+   "location": "Remote, AMER",
+   "posted_at": "2026-11-10T16:33:17+00:00",
+   "posted_history": [
+    "2026-11-10T16:33:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Head of Ecosystem",
+   "url": "https://jobs.ashbyhq.com/supabase/a0b46de3-5617-41cc-8623-2be9b6fd6b49"
+  },
   "a1320bbf-bfae-49a8-a1b7-12eeccaf39ca": {
    "closed_at": null,
    "department": "Marketing",
@@ -861,7 +910,7 @@
    "url": "https://jobs.ashbyhq.com/supabase/b3f21933-4009-4454-899a-8e8a17f7ddfb"
   },
   "b4a2f5e5-5c51-4c1a-abde-a89de27451c7": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

@@ -91,6 +91,10 @@
   {
    "date": "2026-11-10",
    "open": 423
+  },
+  {
+   "date": "2026-11-11",
+   "open": 421
   }
  ],
  "jobs": {
@@ -290,7 +294,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=7728182&gh_jid=7728182"
   },
   "7734567": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -305,7 +309,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=7734567&gh_jid=7734567"
   },
   "7734579": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -590,7 +594,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=7997315&gh_jid=7997315"
   },
   "8001166": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -665,7 +669,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8001191&gh_jid=8001191"
   },
   "8001192": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1805,7 +1809,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8103077&gh_jid=8103077"
   },
   "8103695": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4730,7 +4734,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8226510&gh_jid=8226510"
   },
   "8226633": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4760,7 +4764,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8227060&gh_jid=8227060"
   },
   "8227107": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5330,7 +5334,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8245844&gh_jid=8245844"
   },
   "8246143": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5373,6 +5377,21 @@
    "reopened": 0,
    "title": "Lead Data Engineer",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8247144&gh_jid=8247144"
+  },
+  "8247206": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "agentic ai engineer @ bangalore, india",
+   "location": "Bangalore, India",
+   "posted_at": "2026-10-06T05:57:48+00:00",
+   "posted_history": [
+    "2026-10-06T05:57:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "Agentic AI Engineer",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8247206&gh_jid=8247206"
   },
   "8248494": {
    "closed_at": "2026-10-24T08:24:32+00:00",
@@ -5675,7 +5694,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8259087&gh_jid=8259087"
   },
   "8259823": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5690,7 +5709,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8259823&gh_jid=8259823"
   },
   "8259825": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6409,6 +6428,21 @@
    "title": "Federal Account Executive - USPS",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8301469&gh_jid=8301469"
   },
+  "8301472": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "strategic account executive financial services @ arizona, united states",
+   "location": "Arizona, United States",
+   "posted_at": "2026-11-10T17:54:38+00:00",
+   "posted_history": [
+    "2026-11-10T17:54:38+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Account Executive - Financial Services",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8301472&gh_jid=8301472"
+  },
   "8301538": {
    "closed_at": null,
    "department": "",
@@ -6603,6 +6637,21 @@
    "reopened": 0,
    "title": "Sr. Business Systems Analyst, CPQ",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8304875&gh_jid=8304875"
+  },
+  "8305381": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "infosec analyst business enablement @ spain",
+   "location": "Spain",
+   "posted_at": "2026-11-10T14:46:27+00:00",
+   "posted_history": [
+    "2026-11-10T14:46:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "InfoSec Analyst - Business Enablement",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8305381&gh_jid=8305381"
   },
   "8306224": {
    "closed_at": null,
@@ -7219,6 +7268,21 @@
    "title": "Principal Value Engineer - West",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8324619&gh_jid=8324619"
   },
+  "8324621": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "sales development representative latam @ brazil",
+   "location": "Brazil",
+   "posted_at": "2026-11-10T16:54:55+00:00",
+   "posted_history": [
+    "2026-11-10T16:54:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales Development Representative - LATAM",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8324621&gh_jid=8324621"
+  },
   "8325182": {
    "closed_at": null,
    "department": "",
@@ -7308,6 +7372,21 @@
    "reopened": 0,
    "title": "Enterprise Account Executive",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8336443&gh_jid=8336443"
+  },
+  "8337068": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "associate marketing technology @ bangalore, india",
+   "location": "Bangalore, India",
+   "posted_at": "2026-11-11T05:44:14+00:00",
+   "posted_history": [
+    "2026-11-11T05:44:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Associate, Marketing Technology",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8337068&gh_jid=8337068"
   },
   "8337070": {
    "closed_at": null,
@@ -7938,6 +8017,51 @@
    "reopened": 0,
    "title": "ABM Regional Manager, EMEA",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8365322&gh_jid=8365322"
+  },
+  "8371659": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "infosec analyst business enablement @ greece",
+   "location": "Greece",
+   "posted_at": "2026-11-10T14:46:28+00:00",
+   "posted_history": [
+    "2026-11-10T14:46:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "InfoSec Analyst - Business Enablement",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8371659&gh_jid=8371659"
+  },
+  "8371663": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "infosec analyst business enablement @ portugal",
+   "location": "Portugal",
+   "posted_at": "2026-11-10T14:46:31+00:00",
+   "posted_history": [
+    "2026-11-10T14:46:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "InfoSec Analyst - Business Enablement",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8371663&gh_jid=8371663"
+  },
+  "8373192": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "strategic account executive financial services @ california, united states",
+   "location": "California, United States",
+   "posted_at": "2026-11-10T17:56:28+00:00",
+   "posted_history": [
+    "2026-11-10T17:56:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Account Executive -  Financial Services",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8373192&gh_jid=8373192"
   }
  }
 }

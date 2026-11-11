@@ -91,6 +91,10 @@
   {
    "date": "2026-11-10",
    "open": 66
+  },
+  {
+   "date": "2026-11-11",
+   "open": 64
   }
  ],
  "jobs": {
@@ -545,7 +549,7 @@
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8025854"
   },
   "8041029": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -560,7 +564,7 @@
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8041029"
   },
   "8050756": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -695,7 +699,7 @@
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8102814"
   },
   "8103509": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -710,7 +714,7 @@
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8103509"
   },
   "8121191": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -753,6 +757,21 @@
    "reopened": 0,
    "title": "Senior Finance Business Partner",
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8132044"
+  },
+  "8133342": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "crm manager @ london; remote (uk)",
+   "location": "London; Remote (UK)",
+   "posted_at": "2026-08-20T14:02:53+00:00",
+   "posted_history": [
+    "2026-08-20T14:02:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "CRM Manager",
+   "url": "https://job-boards.greenhouse.io/monzo/jobs/8133342"
   },
   "8143930": {
    "closed_at": "2026-10-29T10:25:29+00:00",
@@ -1659,14 +1678,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-09T12:08:42+00:00",
-   "fp": "vaib strategy manager @ cardiff, london or remote (uk)",
+   "fp": "vulnerability strategy manager @ cardiff, london or remote (uk)",
    "location": "Cardiff, London or Remote (UK)",
    "posted_at": "2026-11-09T10:53:35+00:00",
    "posted_history": [
     "2026-11-09T10:53:35+00:00"
    ],
    "reopened": 0,
-   "title": "VAIB Strategy Manager",
+   "title": "Vulnerability Strategy Manager",
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8356252"
   },
   "8356553": {
@@ -1699,19 +1718,34 @@
    "title": "Property & Facilities Lead",
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8358652"
   },
+  "8358920": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "senior finance analyst @ london",
+   "location": "London",
+   "posted_at": "2026-11-11T10:49:34+00:00",
+   "posted_history": [
+    "2026-11-11T10:49:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Finance Analyst",
+   "url": "https://job-boards.greenhouse.io/monzo/jobs/8358920"
+  },
   "8359155": {
    "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-09T12:08:42+00:00",
-   "fp": "vaib strategy analyst @ cardiff, london or remote (uk)",
+   "fp": "vulnerability strategy analyst @ cardiff, london or remote (uk)",
    "location": "Cardiff, London or Remote (UK)",
    "posted_at": "2026-11-09T10:44:44+00:00",
    "posted_history": [
     "2026-11-09T10:44:44+00:00"
    ],
    "reopened": 0,
-   "title": "VAIB Strategy Analyst",
+   "title": "Vulnerability Strategy Analyst",
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8359155"
   },
   "8365296": {

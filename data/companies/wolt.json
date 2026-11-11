@@ -91,6 +91,10 @@
   {
    "date": "2026-11-10",
    "open": 192
+  },
+  {
+   "date": "2026-11-11",
+   "open": 190
   }
  ],
  "jobs": {
@@ -318,7 +322,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/6693613"
   },
   "6693683": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -393,7 +397,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/6693720"
   },
   "6693771": {
-   "closed_at": "2026-11-10T11:47:05+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -403,7 +407,7 @@
    "posted_history": [
     "2025-03-31T09:54:37+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Grocery Store Assistant",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/6693771"
   },
@@ -453,7 +457,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/6694009"
   },
   "6694018": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -601,7 +605,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/6694889"
   },
   "6694964": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
@@ -766,7 +770,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/6822282"
   },
   "6823669": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
@@ -779,6 +783,21 @@
    "reopened": 0,
    "title": "Grocery Associate (part-time)",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/6823669"
+  },
+  "6873252": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "grocery associate @ odense, denmark",
+   "location": "Odense, Denmark",
+   "posted_at": "2025-05-12T06:55:13+00:00",
+   "posted_history": [
+    "2025-05-12T06:55:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Grocery Associate (under 18 years old)",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/6873252"
   },
   "6886954": {
    "closed_at": null,
@@ -991,7 +1010,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/7547321"
   },
   "7559951": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -2400,6 +2419,21 @@
    "title": "Associate Operations Manager, Supply Acquisition & Activation",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8177035"
   },
+  "8177557": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "b2b demand generation specialist @ berlin, germany; helsinki, finland",
+   "location": "Berlin, Germany; Helsinki, Finland",
+   "posted_at": "2026-09-07T07:18:10+00:00",
+   "posted_history": [
+    "2026-09-07T07:18:10+00:00"
+   ],
+   "reopened": 0,
+   "title": "B2B Demand Generation Specialist",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8177557"
+  },
   "8185290": {
    "closed_at": null,
    "department": "",
@@ -3031,7 +3065,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8236959"
   },
   "8237035": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
@@ -3046,7 +3080,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8237035"
   },
   "8237053": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -3436,7 +3470,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8276119"
   },
   "8278655": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3976,7 +4010,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8334060"
   },
   "8334064": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -4425,6 +4459,21 @@
    "title": "Support team Lead",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8359188"
   },
+  "8359589": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "sourcing specialist ii @ helsinki, finland",
+   "location": "Helsinki, Finland",
+   "posted_at": "2026-11-10T12:15:36+00:00",
+   "posted_history": [
+    "2026-11-10T12:15:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sourcing Specialist II",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8359589"
+  },
   "8366783": {
    "closed_at": null,
    "department": "",
@@ -4439,6 +4488,51 @@
    "reopened": 0,
    "title": "Senior Manager, Customer Support, Deliveroo Operations",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8366783"
+  },
+  "8370786": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "retail onboarding specialist @ berlin, germany",
+   "location": "Berlin, Germany",
+   "posted_at": "2026-11-10T14:47:07+00:00",
+   "posted_history": [
+    "2026-11-10T14:47:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Retail Onboarding Specialist",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8370786"
+  },
+  "8372485": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "strategy operations manager pricing affordability @ berlin, germany",
+   "location": "Berlin, Germany",
+   "posted_at": "2026-11-11T08:17:15+00:00",
+   "posted_history": [
+    "2026-11-11T08:17:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategy & Operations Manager, Pricing & Affordability",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8372485"
+  },
+  "8377852": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "global associate manager food safety @ athens, greece",
+   "location": "Athens, Greece",
+   "posted_at": "2026-11-11T10:20:44+00:00",
+   "posted_history": [
+    "2026-11-11T10:20:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Global Associate Manager, Food Safety",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8377852"
   }
  }
 }

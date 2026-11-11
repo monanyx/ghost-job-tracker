@@ -91,6 +91,10 @@
   {
    "date": "2026-11-10",
    "open": 157
+  },
+  {
+   "date": "2026-11-11",
+   "open": 157
   }
  ],
  "jobs": {
@@ -965,7 +969,7 @@
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8072076"
   },
   "8074846": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -980,7 +984,7 @@
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8074846"
   },
   "8074860": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2884,6 +2888,21 @@
    "title": "Agency Partner Manager",
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8337323"
   },
+  "8337440": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "client account manager large customer sales @ chicago, il",
+   "location": "Chicago, IL",
+   "posted_at": "2026-11-10T17:49:38+00:00",
+   "posted_history": [
+    "2026-11-10T17:49:38+00:00"
+   ],
+   "reopened": 0,
+   "title": "Client Account Manager, Large Customer Sales (Big Box Retail)",
+   "url": "https://job-boards.greenhouse.io/reddit/jobs/8337440"
+  },
   "8337444": {
    "closed_at": null,
    "department": "",
@@ -3018,6 +3037,21 @@
    "reopened": 0,
    "title": "Senior SRE, Site Experience",
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8369767"
+  },
+  "8372525": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "senior manager mid market sales @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-10T20:51:54+00:00",
+   "posted_history": [
+    "2026-11-10T20:51:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Mid-Market Sales (Signature Goods)",
+   "url": "https://job-boards.greenhouse.io/reddit/jobs/8372525"
   }
  }
 }

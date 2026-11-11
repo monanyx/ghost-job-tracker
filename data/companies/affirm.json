@@ -91,6 +91,10 @@
   {
    "date": "2026-11-10",
    "open": 216
+  },
+  {
+   "date": "2026-11-11",
+   "open": 207
   }
  ],
  "jobs": {
@@ -230,7 +234,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7718808003"
   },
   "7719647003": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -245,7 +249,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7719647003"
   },
   "7719649003": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -395,7 +399,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7773693003"
   },
   "7773695003": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1730,7 +1734,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7872408003"
   },
   "7894014003": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1760,7 +1764,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7895270003"
   },
   "7906337003": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2375,7 +2379,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8001623003"
   },
   "8003016003": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2390,7 +2394,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8003016003"
   },
   "8003018003": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3500,7 +3504,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8031022003"
   },
   "8031364003": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3515,7 +3519,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8031364003"
   },
   "8031366003": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4145,7 +4149,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8041932003"
   },
   "8042128003": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-28T10:01:46+00:00",
@@ -4164,14 +4168,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
-   "fp": "software engineer ii back end @ remote canada",
+   "fp": "software engineer ii fullstack @ remote canada",
    "location": "Remote Canada",
    "posted_at": "2026-11-10T09:30:06+00:00",
    "posted_history": [
     "2026-11-10T09:30:06+00:00"
    ],
    "reopened": 0,
-   "title": "Software Engineer II, Back-end, (AI Agents)",
+   "title": "Software Engineer II, Fullstack (Contact Channels)",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8042371003"
   },
   "8042399003": {
@@ -4503,6 +4507,21 @@
    "reopened": 0,
    "title": "Staff Software Engineer, Fullstack (Account Management)",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8162558003"
+  },
+  "8182228003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "partner management manager @ remote us",
+   "location": "Remote US",
+   "posted_at": "2026-11-10T20:19:39+00:00",
+   "posted_history": [
+    "2026-11-10T20:19:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Partner Management Manager",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8182228003"
   },
   "8194342003": {
    "closed_at": null,

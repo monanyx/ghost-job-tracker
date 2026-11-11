@@ -91,6 +91,10 @@
   {
    "date": "2026-11-10",
    "open": 80
+  },
+  {
+   "date": "2026-11-11",
+   "open": 80
   }
  ],
  "jobs": {
@@ -294,14 +298,14 @@
    "department": "",
    "evergreen": true,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "future opportunities channel sales experience @ atlanta, ga - hybrid; denver, co - hybrid; phoenix, az - hybrid",
-   "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid; Phoenix, AZ - Hybrid",
+   "fp": "future opportunities partner sales @ atlanta, ga - hybrid; denver, co - hybrid; new york, ny - hybrid; san francisco, ca - hybrid; scottsdale, az - hybrid; toronto, ontario - remote",
+   "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Scottsdale, AZ - Hybrid; Toronto, Ontario - Remote",
    "posted_at": "2026-04-01T20:33:56+00:00",
    "posted_history": [
     "2026-04-01T20:33:56+00:00"
    ],
    "reopened": 0,
-   "title": "Future Opportunities: Channel Sales Experience",
+   "title": "Future Opportunities: Partner Sales (CPA & Accounting Firm Experience)",
    "url": "https://job-boards.greenhouse.io/gusto/jobs/7773805"
   },
   "7833882": {
@@ -335,7 +339,7 @@
    "url": "https://job-boards.greenhouse.io/gusto/jobs/7868243"
   },
   "7899871": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -391,7 +395,7 @@
     "2026-05-27T18:48:05+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Staff Software Engineer - Pricing and Packaging",
+   "title": "Senior Staff Software Engineer, Pricing and Packaging",
    "url": "https://job-boards.greenhouse.io/gusto/jobs/7942791"
   },
   "7943169": {
@@ -594,14 +598,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior staff engineer tax platform engineering @ atlanta, ga - hybrid; austin, tx - remote; chicago, il - remote; denver, co - hybrid; los angeles, ca - remote; miami, fl - remote; new york, ny - hybrid; san francisco, ca - hybrid; seattle, wa - remote",
+   "fp": "senior staff engineer tax platform @ atlanta, ga - hybrid; austin, tx - remote; chicago, il - remote; denver, co - hybrid; los angeles, ca - remote; miami, fl - remote; new york, ny - hybrid; san francisco, ca - hybrid; seattle, wa - remote",
    "location": "Atlanta, GA - Hybrid; Austin, TX - Remote; Chicago, IL - Remote; Denver, CO - Hybrid; Los Angeles, CA - Remote; Miami, FL - Remote; New York, NY - Hybrid; San Francisco, CA - Hybrid; Seattle, WA - Remote",
    "posted_at": "2026-07-02T22:23:21+00:00",
    "posted_history": [
     "2026-07-02T22:23:21+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Staff Engineer - Tax Platform Engineering",
+   "title": "Senior Staff Engineer, Tax Platform",
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8013480"
   },
   "8022493": {
@@ -845,7 +849,7 @@
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8104213"
   },
   "8104224": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1025,7 +1029,7 @@
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8148547"
   },
   "8158019": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1145,7 +1149,7 @@
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8168907"
   },
   "8174849": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1569,14 +1573,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-05T11:30:12+00:00",
-   "fp": "sales engineer @ denver, co - hybrid; new york, ny - hybrid; san francisco, ca - hybrid; scottsdale, az - hybrid",
+   "fp": "forward deployed solutions engineer @ denver, co - hybrid; new york, ny - hybrid; san francisco, ca - hybrid; scottsdale, az - hybrid",
    "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Scottsdale, AZ - Hybrid",
    "posted_at": "2026-11-04T22:22:08+00:00",
    "posted_history": [
     "2026-11-04T22:22:08+00:00"
    ],
    "reopened": 0,
-   "title": "Sales Engineer",
+   "title": "Forward Deployed Solutions Engineer",
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8248374"
   },
   "8250243": {
@@ -1640,7 +1644,7 @@
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8257486"
   },
   "8257865": {
-   "closed_at": "2026-11-10T11:47:05+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1650,7 +1654,7 @@
    "posted_history": [
     "2026-10-14T03:05:19+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Commercial Lines Account Manager",
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8257865"
   },
@@ -1683,6 +1687,21 @@
    "reopened": 0,
    "title": "Principal Product Manager, HR Experiences",
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8260099"
+  },
+  "8263050": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "lead cx business intelligence analyst @ denver, co - hybrid; new york, ny - hybrid",
+   "location": "Denver, CO - Hybrid; New York, NY - Hybrid",
+   "posted_at": "2026-11-10T21:37:35+00:00",
+   "posted_history": [
+    "2026-11-10T21:37:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Lead CX Business Intelligence Analyst",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8263050"
   },
   "8268021": {
    "closed_at": null,
@@ -1924,6 +1943,21 @@
    "title": "Channel Partnerships Manager, Investor Ecosystems (VC & PE)",
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8353774"
   },
+  "8353775": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "senior talent development leader talent acceleration products @ denver, co - hybrid",
+   "location": "Denver, CO - Hybrid",
+   "posted_at": "2026-11-10T18:25:32+00:00",
+   "posted_history": [
+    "2026-11-10T18:25:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Talent Development Leader, Talent Acceleration Products",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8353775"
+  },
   "8353794": {
    "closed_at": null,
    "department": "",
@@ -1983,6 +2017,21 @@
    "reopened": 0,
    "title": "Software Engineer,  Financial Data & Payments",
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8360497"
+  },
+  "8373808": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": true,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "future opportunities franchise sales @ atlanta, ga - hybrid; denver, co - hybrid",
+   "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid",
+   "posted_at": "2026-11-10T18:25:29+00:00",
+   "posted_history": [
+    "2026-11-10T18:25:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Future Opportunities: Franchise Sales",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8373808"
   }
  }
 }

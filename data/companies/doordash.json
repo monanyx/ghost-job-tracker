@@ -91,6 +91,10 @@
   {
    "date": "2026-11-10",
    "open": 436
+  },
+  {
+   "date": "2026-11-11",
+   "open": 442
   }
  ],
  "jobs": {
@@ -438,6 +442,21 @@
    "reopened": 0,
    "title": "Shift Lead - Newark",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/5683390"
+  },
+  "5685690": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "shift lead round rock @ austin, tx",
+   "location": "Austin, TX ",
+   "posted_at": "2024-02-07T22:33:17+00:00",
+   "posted_history": [
+    "2024-02-07T22:33:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Shift Lead - Round Rock",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/5685690"
   },
   "5767461": {
    "closed_at": null,
@@ -4880,7 +4899,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8191134"
   },
   "8191508": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5030,7 +5049,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8196479"
   },
   "8197596": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6065,7 +6084,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8238643"
   },
   "8238670": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6470,7 +6489,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8259471"
   },
   "8259552": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7220,7 +7239,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8289169"
   },
   "8289292": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7265,7 +7284,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8289498"
   },
   "8289516": {
-   "closed_at": "2026-10-27T09:20:56+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -7275,7 +7294,7 @@
    "posted_history": [
     "2026-10-17T04:53:39+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Associate, Strategy & Operations, Merchant Onboarding & Experience",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8289516"
   },
@@ -7385,7 +7404,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8301776"
   },
   "8303131": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -7430,7 +7449,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8303234"
   },
   "8303248": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -8569,6 +8588,66 @@
    "title": "Technical Revenue Accounting Manager",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8359671"
   },
+  "8360124": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "growth merchant lead emerging markets @ grand island, ne",
+   "location": "Grand Island, NE",
+   "posted_at": "2026-11-10T16:35:55+00:00",
+   "posted_history": [
+    "2026-11-10T16:35:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Growth Merchant Lead - Emerging Markets (Grand Island, NE)",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8360124"
+  },
+  "8360131": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "growth merchant lead emerging markets @ grand forks, nd",
+   "location": "Grand Forks, ND",
+   "posted_at": "2026-11-10T16:34:58+00:00",
+   "posted_history": [
+    "2026-11-10T16:34:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Growth Merchant Lead - Emerging Markets (Grand Forks, ND)",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8360131"
+  },
+  "8360134": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "growth merchant lead emerging markets @ rapid city, sd",
+   "location": "Rapid City, SD",
+   "posted_at": "2026-11-10T16:35:17+00:00",
+   "posted_history": [
+    "2026-11-10T16:35:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Growth Merchant Lead - Emerging Markets (Rapid City, SD)",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8360134"
+  },
+  "8360144": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "growth merchant lead emerging markets @ tulsa, ok",
+   "location": "Tulsa, OK",
+   "posted_at": "2026-11-10T16:36:18+00:00",
+   "posted_history": [
+    "2026-11-10T16:36:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Growth Merchant Lead - Emerging Markets (Tulsa, OK)",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8360144"
+  },
   "8360390": {
    "closed_at": null,
    "department": "",
@@ -8583,6 +8662,21 @@
    "reopened": 0,
    "title": "Assistant Site Manager, DashMart - [Charlotte, NC]",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8360390"
+  },
+  "8360552": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "staff product manager people product @ united states - remote",
+   "location": "United States - Remote",
+   "posted_at": "2026-11-10T20:23:41+00:00",
+   "posted_history": [
+    "2026-11-10T20:23:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Product Manager, People Product (HR Partner Products)",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8360552"
   },
   "8362725": {
    "closed_at": null,
@@ -8658,6 +8752,96 @@
    "reopened": 0,
    "title": "Associate Manager, Marketplace - Restaurant Growth Strategy & Operations",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8368010"
+  },
+  "8371205": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "staff product designer dashpass affordability new benefits @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-11-10T12:55:53+00:00",
+   "posted_history": [
+    "2026-11-10T12:55:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Product Designer, DashPass — Affordability & New Benefits",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8371205"
+  },
+  "8372879": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "director network strategy planning @ chicago, il; columbus, ny; atlanta, d.c.",
+   "location": "Chicago, IL; Columbus, NY; Atlanta, D.C.",
+   "posted_at": "2026-11-10T20:50:44+00:00",
+   "posted_history": [
+    "2026-11-10T20:50:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Director, Network Strategy & Planning",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8372879"
+  },
+  "8374039": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "senior manager new verticals fulfillment strategy operations @ new york, ny; san francisco, ca; seattle, wa; los angeles, ca; seattle, wa; washington, dc; chicago, il; tempe, az",
+   "location": "New York, NY; San Francisco, CA; Seattle, WA; Los Angeles, CA; Seattle, WA; Washington, DC; Chicago, IL; Tempe, AZ",
+   "posted_at": "2026-11-10T19:14:09+00:00",
+   "posted_history": [
+    "2026-11-10T19:14:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, New Verticals - Fulfillment Strategy & Operations",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8374039"
+  },
+  "8374064": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "site manager dashmart @ lansing, mi",
+   "location": "Lansing, MI",
+   "posted_at": "2026-11-10T20:13:12+00:00",
+   "posted_history": [
+    "2026-11-10T20:13:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Site Manager, DashMart",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8374064"
+  },
+  "8374237": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "senior operations associate labs @ dallas, tx",
+   "location": "Dallas, TX",
+   "posted_at": "2026-11-10T21:13:48+00:00",
+   "posted_history": [
+    "2026-11-10T21:13:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Operations Associate, Labs",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8374237"
+  },
+  "8375008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "senior associate operations safety @ fremont, ca; sunnyvale, ca; mesa, az; phoenix, az",
+   "location": "Fremont, CA; Sunnyvale, CA; Mesa, AZ; Phoenix, AZ",
+   "posted_at": "2026-11-10T22:13:51+00:00",
+   "posted_history": [
+    "2026-11-10T22:13:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Associate, Operations Safety",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8375008"
   }
  }
 }

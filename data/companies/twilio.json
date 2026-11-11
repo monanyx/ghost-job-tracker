@@ -91,6 +91,10 @@
   {
    "date": "2026-11-10",
    "open": 128
+  },
+  {
+   "date": "2026-11-11",
+   "open": 125
   }
  ],
  "jobs": {
@@ -1025,7 +1029,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8145984"
   },
   "8157344": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1325,7 +1329,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8195222"
   },
   "8197328": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1640,7 +1644,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8237699"
   },
   "8240288": {
-   "closed_at": "2026-10-29T10:25:29+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1650,7 +1654,7 @@
    "posted_history": [
     "2026-09-29T20:59:49+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Staff Software Engineer (L4)",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8240288"
   },
@@ -2105,7 +2109,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8261247"
   },
   "8261277": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2195,7 +2199,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8261710"
   },
   "8262189": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2390,7 +2394,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8281950"
   },
   "8284815": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2405,18 +2409,18 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8284815"
   },
   "8287927": {
-   "closed_at": "2026-11-05T11:30:12+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
-   "fp": "partner program manager @ remote - us",
+   "fp": "senior partner program manager @ remote - us",
    "location": "Remote - US",
    "posted_at": "2026-10-23T15:43:38+00:00",
    "posted_history": [
     "2026-10-23T15:43:38+00:00"
    ],
-   "reopened": 0,
-   "title": "Partner Program Manager",
+   "reopened": 1,
+   "title": "Senior Partner Program Manager",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8287927"
   },
   "8292798": {
@@ -2555,7 +2559,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8319160"
   },
   "8319386": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-02T11:41:30+00:00",
@@ -2913,6 +2917,21 @@
    "reopened": 0,
    "title": "Senior Manager, Strategic Accounts",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8362926"
+  },
+  "8370335": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "partner program manager @ remote - us",
+   "location": "Remote - US",
+   "posted_at": "2026-11-10T18:04:04+00:00",
+   "posted_history": [
+    "2026-11-10T18:04:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "Partner Program Manager",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8370335"
   }
  }
 }

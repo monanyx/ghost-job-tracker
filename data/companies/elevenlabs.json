@@ -91,6 +91,10 @@
   {
    "date": "2026-11-10",
    "open": 128
+  },
+  {
+   "date": "2026-11-11",
+   "open": 130
   }
  ],
  "jobs": {
@@ -338,19 +342,20 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/13fcee94-512f-4229-b7ab-f91d3fdd24e3"
   },
   "14c7802d-8e72-46b0-833c-3f0835363e48": {
-   "closed_at": "2026-11-01T10:48:55+00:00",
+   "closed_at": null,
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "gtm enablement sales execution north america lead @ remote",
    "location": "Remote",
-   "posted_at": "2026-10-16T20:05:35+00:00",
+   "posted_at": "2026-11-10T19:14:18+00:00",
    "posted_history": [
-    "2026-10-16T20:05:35+00:00"
+    "2026-10-16T20:05:35+00:00",
+    "2026-11-10T19:14:18+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "GTM Enablement - Sales Execution & North America Lead",
-   "url": "https://jobs.ashbyhq.com/elevenlabs/14c7802d-8e72-46b0-833c-3f0835363e48"
+   "url": "https://jobs.ashbyhq.com/ElevenLabs/14c7802d-8e72-46b0-833c-3f0835363e48"
   },
   "14d0ad09-fa26-4aa5-9bb3-f22a7f5917b9": {
    "closed_at": null,
@@ -897,7 +902,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/38bac641-02de-414d-96f3-d0adb603cb89"
   },
   "3a25ed8a-5870-4a0e-90e4-6e5a4b2c7e04": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -957,7 +962,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/3b57cc5c-f019-4a0b-a5ff-e1046e4f1fa1"
   },
   "3b7a423c-01fd-4405-ab9a-ee51ed354ba9": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1229,6 +1234,21 @@
    "reopened": 0,
    "title": "Creative Strategist,  Mobile",
    "url": "https://jobs.ashbyhq.com/elevenlabs/5da4bb46-0bac-4e35-8731-9e182ad02bee"
+  },
+  "5db6aeaa-1074-41cd-8f2c-10ccfac73918": {
+   "closed_at": null,
+   "department": "Revenue",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "sales development japan @ tokyo",
+   "location": "Tokyo",
+   "posted_at": "2026-11-11T02:58:01+00:00",
+   "posted_history": [
+    "2026-11-11T02:58:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales Development - Japan",
+   "url": "https://jobs.ashbyhq.com/ElevenLabs/5db6aeaa-1074-41cd-8f2c-10ccfac73918"
   },
   "5e43ae90-da6a-4a94-b497-458fd6b160e2": {
    "closed_at": "2026-11-04T11:35:04+00:00",
@@ -1534,19 +1554,20 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/78c564eb-ee87-46d9-b2fd-4322a223a547"
   },
   "7a235499-7cee-48f5-9fe4-3f4764b91865": {
-   "closed_at": "2026-11-01T10:48:55+00:00",
+   "closed_at": null,
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "gtm enablement product @ remote",
    "location": "Remote",
-   "posted_at": "2026-10-16T20:06:04+00:00",
+   "posted_at": "2026-11-10T20:23:12+00:00",
    "posted_history": [
-    "2026-10-16T20:06:04+00:00"
+    "2026-10-16T20:06:04+00:00",
+    "2026-11-10T20:23:12+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "GTM Enablement - Product",
-   "url": "https://jobs.ashbyhq.com/elevenlabs/7a235499-7cee-48f5-9fe4-3f4764b91865"
+   "url": "https://jobs.ashbyhq.com/ElevenLabs/7a235499-7cee-48f5-9fe4-3f4764b91865"
   },
   "7a27a4f4-e32f-4ff2-a6b0-a01a5e187db0": {
    "closed_at": null,
@@ -1640,17 +1661,18 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/815547bf-0ade-482d-84b0-4163ab1161e5"
   },
   "820e5023-c637-4b36-91a9-f732f235998e": {
-   "closed_at": "2026-11-08T10:46:34+00:00",
+   "closed_at": null,
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
    "fp": "gtm enablement partner program @ remote",
    "location": "Remote",
-   "posted_at": "2026-10-23T19:47:39+00:00",
+   "posted_at": "2026-11-10T20:22:51+00:00",
    "posted_history": [
-    "2026-10-23T19:47:39+00:00"
+    "2026-10-23T19:47:39+00:00",
+    "2026-11-10T20:22:51+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "GTM Enablement - Partner Program",
    "url": "https://jobs.ashbyhq.com/ElevenLabs/820e5023-c637-4b36-91a9-f732f235998e"
   },
@@ -1854,14 +1876,14 @@
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "systems architect apac @ singapore",
+   "fp": "gtm systems architect apac @ singapore",
    "location": "Singapore",
    "posted_at": "2026-10-06T05:21:21+00:00",
    "posted_history": [
     "2026-10-06T05:21:21+00:00"
    ],
    "reopened": 0,
-   "title": "Systems Architect - APAC",
+   "title": "GTM Systems Architect - APAC",
    "url": "https://jobs.ashbyhq.com/ElevenLabs/90cc8a34-1707-4aef-b509-94f94389d149"
   },
   "91dd600a-d0dd-4a75-a53d-f59aa9855626": {
@@ -2031,6 +2053,21 @@
    "title": "Employee Relations Partner",
    "url": "https://jobs.ashbyhq.com/ElevenLabs/9c44055f-3246-42ab-8bb6-d89258a8c43a"
   },
+  "9ce2cd02-c7f2-4705-8b70-accab2f863e1": {
+   "closed_at": null,
+   "department": "Growth",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "events lead brazil and latam @ brazil",
+   "location": "Brazil",
+   "posted_at": "2026-11-10T13:13:40+00:00",
+   "posted_history": [
+    "2026-11-10T13:13:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Events Lead - Brazil and Latam",
+   "url": "https://jobs.ashbyhq.com/ElevenLabs/9ce2cd02-c7f2-4705-8b70-accab2f863e1"
+  },
   "9d13a6ac-6dfc-4bd1-bd81-d341b576c44e": {
    "closed_at": null,
    "department": "Operations",
@@ -2129,9 +2166,10 @@
    "first_seen": "2026-11-06T11:30:42+00:00",
    "fp": "billing operations manager @ london",
    "location": "London",
-   "posted_at": "2026-11-05T15:22:28+00:00",
+   "posted_at": "2026-11-10T14:54:25+00:00",
    "posted_history": [
-    "2026-11-05T15:22:28+00:00"
+    "2026-11-05T15:22:28+00:00",
+    "2026-11-10T14:54:25+00:00"
    ],
    "reopened": 0,
    "title": "Billing Operations Manager",
@@ -2416,14 +2454,14 @@
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "systems architect @ san francisco",
+   "fp": "gtm systems architect @ san francisco",
    "location": "San Francisco",
    "posted_at": "2026-10-08T21:22:11+00:00",
    "posted_history": [
     "2026-10-08T21:22:11+00:00"
    ],
    "reopened": 0,
-   "title": "Systems Architect",
+   "title": "GTM Systems Architect",
    "url": "https://jobs.ashbyhq.com/ElevenLabs/b92059ea-d71f-4eef-a184-8510265752fb"
   },
   "ba1c19cc-3b0e-4f3e-b7c1-a96d5fb4bbf9": {
@@ -2457,7 +2495,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/bb4f0758-f039-46c7-9a3f-71c145824298"
   },
   "bb5b2422-918a-4805-ad8f-4ec3af650c11": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "Operations",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",

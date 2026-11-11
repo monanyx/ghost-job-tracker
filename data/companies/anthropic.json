@@ -91,6 +91,10 @@
   {
    "date": "2026-11-10",
    "open": 676
+  },
+  {
+   "date": "2026-11-11",
+   "open": 678
   }
  ],
  "jobs": {
@@ -3185,7 +3189,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5285248008"
   },
   "5285250008": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4775,7 +4779,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383714008"
   },
   "5385217008": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4955,7 +4959,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385998008"
   },
   "5386182008": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6094,6 +6098,21 @@
    "title": "Engineering Manager, Integrity and Attestation",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5394403008"
   },
+  "5394611008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "engineering manager agent security partnerships @ new york city, ny | seattle, wa; san francisco, ca | new york city, ny",
+   "location": "New York City, NY | Seattle, WA; San Francisco, CA | New York City, NY",
+   "posted_at": "2026-11-10T21:53:40+00:00",
+   "posted_history": [
+    "2026-11-10T21:53:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager, Agent Security Partnerships",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5394611008"
+  },
   "5394887008": {
    "closed_at": null,
    "department": "",
@@ -6845,7 +6864,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5409569008"
   },
   "5409934008": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7789,6 +7808,21 @@
    "title": "Recruiting Analytics Data Engineer",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5424111008"
   },
+  "5424288008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "marketing events manager international @ london, uk",
+   "location": "London, UK",
+   "posted_at": "2026-09-17T07:13:50+00:00",
+   "posted_history": [
+    "2026-09-17T07:13:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Marketing Events Manager, International",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5424288008"
+  },
   "5424305008": {
    "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "",
@@ -8105,7 +8139,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5427893008"
   },
   "5427938008": {
-   "closed_at": "2026-11-07T10:41:11+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -8115,7 +8149,7 @@
    "posted_history": [
     "2026-09-30T20:10:59+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "GTM Strategy & Operations, FDE",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5427938008"
   },
@@ -8735,7 +8769,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5434795008"
   },
   "5435343008": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -9170,7 +9204,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5440636008"
   },
   "5440752008": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -9474,14 +9508,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
-   "fp": "finance strategy compute networks @ san francisco, ca",
+   "fp": "finance strategy compute infrastructure @ san francisco, ca",
    "location": "San Francisco, CA",
    "posted_at": "2026-10-20T20:13:44+00:00",
    "posted_history": [
     "2026-10-20T20:13:44+00:00"
    ],
    "reopened": 0,
-   "title": "Finance & Strategy Compute, Networks",
+   "title": "Finance & Strategy Compute, Infrastructure",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5443875008"
   },
   "5443882008": {
@@ -9545,7 +9579,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5444002008"
   },
   "5444482008": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -9933,6 +9967,21 @@
    "reopened": 0,
    "title": "Applied AI Architect, Partnerships",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5447368008"
+  },
+  "5447793008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "transaction principal @ sydney, australia",
+   "location": "Sydney, Australia",
+   "posted_at": "2026-11-10T18:46:47+00:00",
+   "posted_history": [
+    "2026-11-10T18:46:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Transaction Principal",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5447793008"
   },
   "5447973008": {
    "closed_at": "2026-11-06T11:30:42+00:00",
@@ -11014,6 +11063,21 @@
    "title": "Enterprise Account Executive, Public Sector",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5458064008"
   },
+  "5458159008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "partnerships enablement specialist japan @ tokyo, japan",
+   "location": "Tokyo, Japan",
+   "posted_at": "2026-11-11T04:57:27+00:00",
+   "posted_history": [
+    "2026-11-11T04:57:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Partnerships Enablement Specialist, Japan",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5458159008"
+  },
   "5458322008": {
    "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
@@ -11705,7 +11769,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5465561008"
   },
   "5465578008": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -11853,6 +11917,21 @@
    "reopened": 0,
    "title": "Contracts Manager, GTM",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5467233008"
+  },
+  "5467305008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "research engineer discovery @ san francisco, ca | new york city, ny",
+   "location": "San Francisco, CA | New York City, NY",
+   "posted_at": "2026-11-10T12:05:53+00:00",
+   "posted_history": [
+    "2026-11-10T12:05:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "[C] Research Engineer, Discovery",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5467305008"
   },
   "5467425008": {
    "closed_at": "2026-11-06T11:30:42+00:00",
@@ -12499,6 +12578,21 @@
    "title": "National Security Lead, APAC",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5475099008"
   },
+  "5475136008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "international infrastructure accounting @ dublin, ie",
+   "location": "Dublin, IE",
+   "posted_at": "2026-11-11T10:18:15+00:00",
+   "posted_history": [
+    "2026-11-11T10:18:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "International Infrastructure Accounting",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5475136008"
+  },
   "5475150008": {
    "closed_at": null,
    "department": "",
@@ -12604,6 +12698,21 @@
    "title": "Applied AI Architect",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5476577008"
   },
+  "5476579008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "security engineer rf and technical surveillance countermeasures @ san francisco, ca | new york city, ny",
+   "location": "San Francisco, CA | New York City, NY",
+   "posted_at": "2026-11-10T19:30:58+00:00",
+   "posted_history": [
+    "2026-11-10T19:30:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Security Engineer, RF and Technical Surveillance Countermeasures",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5476579008"
+  },
   "5476704008": {
    "closed_at": null,
    "department": "",
@@ -12649,6 +12758,21 @@
    "title": "Security Risk & Compliance, SOX IT",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5477464008"
   },
+  "5477601008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "product manager seller experience @ san francisco, ca | new york city, ny",
+   "location": "San Francisco, CA | New York City, NY",
+   "posted_at": "2026-11-10T21:04:21+00:00",
+   "posted_history": [
+    "2026-11-10T21:04:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Manager, Seller Experience",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5477601008"
+  },
   "5477746008": {
    "closed_at": null,
    "department": "",
@@ -12663,6 +12787,21 @@
    "reopened": 0,
    "title": "Staff+ Software Engineer, Claude Design",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5477746008"
+  },
+  "5477753008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "principal engineer privacy @ remote-friendly (travel-required) | san francisco, ca | seattle, wa | new york city, ny",
+   "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
+   "posted_at": "2026-11-10T16:32:56+00:00",
+   "posted_history": [
+    "2026-11-10T16:32:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Engineer, Privacy",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5477753008"
   },
   "5477774008": {
    "closed_at": null,

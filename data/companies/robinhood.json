@@ -91,6 +91,10 @@
   {
    "date": "2026-11-10",
    "open": 153
+  },
+  {
+   "date": "2026-11-11",
+   "open": 155
   }
  ],
  "jobs": {
@@ -320,7 +324,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/7489964?t=gh_src=&gh_jid=7489964"
   },
   "7543003": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1145,7 +1149,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8120101?t=gh_src=&gh_jid=8120101"
   },
   "8120681": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1430,7 +1434,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8167971?t=gh_src=&gh_jid=8167971"
   },
   "8168392": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1653,6 +1657,21 @@
    "reopened": 0,
    "title": "Senior Software Engineer, AI Infra",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8189874?t=gh_src=&gh_jid=8189874"
+  },
+  "8197614": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "people partner intern @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-09-14T12:00:08+00:00",
+   "posted_history": [
+    "2026-09-14T12:00:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "People Partner Intern (Summer 2027)",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8197614?t=gh_src=&gh_jid=8197614"
   },
   "8198187": {
    "closed_at": null,
@@ -2584,6 +2603,21 @@
    "title": "Staff Product Manager, Canada Expansion",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8262947?t=gh_src=&gh_jid=8262947"
   },
+  "8265130": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "group creative director @ menlo park, ca; new york, ny",
+   "location": "Menlo Park, CA; New York, NY",
+   "posted_at": "2026-11-10T22:31:45+00:00",
+   "posted_history": [
+    "2026-11-10T22:31:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Group Creative Director",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8265130?t=gh_src=&gh_jid=8265130"
+  },
   "8265728": {
    "closed_at": null,
    "department": "",
@@ -3244,6 +3278,21 @@
    "title": "Registration and Onboarding Specialist",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8356970?t=gh_src=&gh_jid=8356970"
   },
+  "8357023": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "fraud and disputes vendor management specialist @ chicago, il; denver, co; lake mary, fl; westlake, tx",
+   "location": "Chicago, IL; Denver, CO; Lake Mary, FL; Westlake, TX",
+   "posted_at": "2026-11-10T19:36:47+00:00",
+   "posted_history": [
+    "2026-11-10T19:36:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Fraud and Disputes Vendor Management Specialist",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8357023?t=gh_src=&gh_jid=8357023"
+  },
   "8357602": {
    "closed_at": null,
    "department": "",
@@ -3258,6 +3307,36 @@
    "reopened": 0,
    "title": "Customer Experience Team Lead, RHM Executive Office",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8357602?t=gh_src=&gh_jid=8357602"
+  },
+  "8368338": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "senior technical recruiter data @ menlo park, ca",
+   "location": "Menlo Park, CA",
+   "posted_at": "2026-11-10T22:59:41+00:00",
+   "posted_history": [
+    "2026-11-10T22:59:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Technical Recruiter, Data",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8368338?t=gh_src=&gh_jid=8368338"
+  },
+  "8368340": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "senior technical recruiter data @ toronto, canada",
+   "location": "Toronto, Canada",
+   "posted_at": "2026-11-10T22:59:43+00:00",
+   "posted_history": [
+    "2026-11-10T22:59:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Technical Recruiter, Data",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8368340?t=gh_src=&gh_jid=8368340"
   }
  }
 }

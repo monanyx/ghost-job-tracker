@@ -91,6 +91,10 @@
   {
    "date": "2026-11-10",
    "open": 774
+  },
+  {
+   "date": "2026-11-11",
+   "open": 779
   }
  ],
  "jobs": {
@@ -275,7 +279,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=6570253"
   },
   "6570259": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
@@ -590,7 +594,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=7370967"
   },
   "7377101": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -860,7 +864,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=7528816"
   },
   "7530580": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1040,7 +1044,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=7587353"
   },
   "7597613": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2165,7 +2169,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=7961101"
   },
   "7961609": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3215,7 +3219,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8048193"
   },
   "8048266": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
@@ -3350,7 +3354,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8054241"
   },
   "8055701": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3440,7 +3444,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8065034"
   },
   "8066310": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3530,7 +3534,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8070949"
   },
   "8072257": {
-   "closed_at": "2026-11-10T11:47:05+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3540,7 +3544,7 @@
    "posted_history": [
     "2026-07-24T20:57:31+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Solutions Architect, Metronome (Startups)",
    "url": "https://stripe.com/jobs/search?gh_jid=8072257"
   },
@@ -3950,7 +3954,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8090126"
   },
   "8090141": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5454,14 +5458,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "solutions architect @ chicago, il",
+   "fp": "solutions architect smb @ chicago, il",
    "location": "Chicago, IL",
    "posted_at": "2026-10-06T19:15:44+00:00",
    "posted_history": [
     "2026-10-06T19:15:44+00:00"
    ],
    "reopened": 0,
-   "title": "Solutions Architect",
+   "title": "Solutions Architect, SMB",
    "url": "https://stripe.com/jobs/search?gh_jid=8144256"
   },
   "8144262": {
@@ -6515,7 +6519,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8172491"
   },
   "8172493": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6633,6 +6637,21 @@
    "reopened": 0,
    "title": "Senior Brand Designer, Link",
    "url": "https://stripe.com/jobs/search?gh_jid=8172672"
+  },
+  "8173467": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "people project manager @ us-remote",
+   "location": "US-Remote",
+   "posted_at": "2026-09-10T17:17:17+00:00",
+   "posted_history": [
+    "2026-09-10T17:17:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "People Project Manager",
+   "url": "https://stripe.com/jobs/search?gh_jid=8173467"
   },
   "8174138": {
    "closed_at": "2026-10-29T10:25:29+00:00",
@@ -7639,6 +7658,21 @@
    "title": "Integrated Marketing Lead, Cross Product",
    "url": "https://stripe.com/jobs/search?gh_jid=8187572"
   },
+  "8187574": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "machine learning engineer transaction risk @ seattle, new york city",
+   "location": "Seattle, New York City",
+   "posted_at": "2026-11-10T15:52:46+00:00",
+   "posted_history": [
+    "2026-11-10T15:52:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "Machine Learning Engineer, Transaction Risk",
+   "url": "https://stripe.com/jobs/search?gh_jid=8187574"
+  },
   "8187578": {
    "closed_at": "2026-10-29T10:25:29+00:00",
    "department": "",
@@ -8090,7 +8124,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8191722"
   },
   "8194283": {
-   "closed_at": "2026-11-10T11:47:05+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -8100,7 +8134,7 @@
    "posted_history": [
     "2026-10-01T15:05:25+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "PhD Data Scientist, Intern",
    "url": "https://stripe.com/jobs/search?gh_jid=8194283"
   },
@@ -10670,7 +10704,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8243617"
   },
   "8243619": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -12904,6 +12938,21 @@
    "title": "Full-Stack Software Engineer, Communication Tools",
    "url": "https://stripe.com/jobs/search?gh_jid=8315954"
   },
+  "8315956": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "risk team lead user policy operations @ mexico city",
+   "location": "Mexico City",
+   "posted_at": "2026-11-10T20:14:37+00:00",
+   "posted_history": [
+    "2026-11-10T20:14:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Risk Team Lead, User Policy Operations",
+   "url": "https://stripe.com/jobs/search?gh_jid=8315956"
+  },
   "8315962": {
    "closed_at": null,
    "department": "",
@@ -13053,6 +13102,21 @@
    "reopened": 0,
    "title": "Account Executive, Platforms Hunter (Spanish fluency)",
    "url": "https://stripe.com/jobs/search?gh_jid=8319459"
+  },
+  "8319461": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "account executive scaled hunter startup saas platforms @ dublin",
+   "location": "Dublin ",
+   "posted_at": "2026-11-10T20:04:38+00:00",
+   "posted_history": [
+    "2026-11-10T20:04:38+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, Scaled Hunter – Startup SaaS Platforms (ROE)",
+   "url": "https://stripe.com/jobs/search?gh_jid=8319461"
   },
   "8319488": {
    "closed_at": null,
@@ -14179,6 +14243,21 @@
    "title": "Account Executive, Large Users Platforms (China Cross Border)",
    "url": "https://stripe.com/jobs/search?gh_jid=8349777"
   },
+  "8350106": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "manager sales development @ singapore",
+   "location": "Singapore",
+   "posted_at": "2026-11-11T02:00:49+00:00",
+   "posted_history": [
+    "2026-11-11T02:00:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Sales Development",
+   "url": "https://stripe.com/jobs/search?gh_jid=8350106"
+  },
   "8350920": {
    "closed_at": null,
    "department": "",
@@ -14254,6 +14333,51 @@
    "title": "Enterprise Sales Manager- FSI & Insurance",
    "url": "https://stripe.com/jobs/search?gh_jid=8352045"
   },
+  "8352148": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "customer success manager @ sydney",
+   "location": "Sydney",
+   "posted_at": "2026-11-11T05:42:55+00:00",
+   "posted_history": [
+    "2026-11-11T05:42:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Success Manager",
+   "url": "https://stripe.com/jobs/search?gh_jid=8352148"
+  },
+  "8352150": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "engineering manager internal systems automations platform @ bengaluru",
+   "location": "Bengaluru ",
+   "posted_at": "2026-11-10T18:26:38+00:00",
+   "posted_history": [
+    "2026-11-10T18:26:38+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager - Internal Systems Automations Platform",
+   "url": "https://stripe.com/jobs/search?gh_jid=8352150"
+  },
+  "8352154": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "specialist solutions architect crypto and stablecoins @ singapore",
+   "location": "Singapore",
+   "posted_at": "2026-11-11T01:23:29+00:00",
+   "posted_history": [
+    "2026-11-11T01:23:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Specialist Solutions Architect, Crypto and Stablecoins",
+   "url": "https://stripe.com/jobs/search?gh_jid=8352154"
+  },
   "8352238": {
    "closed_at": null,
    "department": "",
@@ -14284,6 +14408,21 @@
    "title": "Operations Associate, Financial Crimes (AML Investigations)",
    "url": "https://stripe.com/jobs/search?gh_jid=8352485"
   },
+  "8352489": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "account executive commercial smb @ bangalore",
+   "location": "Bangalore",
+   "posted_at": "2026-11-11T03:43:54+00:00",
+   "posted_history": [
+    "2026-11-11T03:43:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, Commercial & SMB (India)",
+   "url": "https://stripe.com/jobs/search?gh_jid=8352489"
+  },
   "8353516": {
    "closed_at": null,
    "department": "",
@@ -14299,6 +14438,21 @@
    "title": "Backend Engineer, Internationalisation",
    "url": "https://stripe.com/jobs/search?gh_jid=8353516"
   },
+  "8353949": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "frontend engineer link @ n/a",
+   "location": "N/A",
+   "posted_at": "2026-11-10T23:10:15+00:00",
+   "posted_history": [
+    "2026-11-10T23:10:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Frontend Engineer, Link",
+   "url": "https://stripe.com/jobs/search?gh_jid=8353949"
+  },
   "8354566": {
    "closed_at": null,
    "department": "",
@@ -14313,6 +14467,21 @@
    "reopened": 0,
    "title": "AMER Data Analyst - Sales Strategy and Operations",
    "url": "https://stripe.com/jobs/search?gh_jid=8354566"
+  },
+  "8354752": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "account executive startups @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-11-10T17:11:07+00:00",
+   "posted_history": [
+    "2026-11-10T17:11:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, Startups (Hunter)",
+   "url": "https://stripe.com/jobs/search?gh_jid=8354752"
   },
   "8354754": {
    "closed_at": null,
@@ -14349,14 +14518,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
-   "fp": "manager account executive @ new york",
+   "fp": "head of enterprise sales east @ new york",
    "location": "New York ",
    "posted_at": "2026-11-09T16:49:33+00:00",
    "posted_history": [
     "2026-11-09T16:49:33+00:00"
    ],
    "reopened": 0,
-   "title": "Manager, Account Executive (Enterprise, Grower)",
+   "title": "Head of Enterprise Sales, East",
    "url": "https://stripe.com/jobs/search?gh_jid=8354772"
   },
   "8356912": {
@@ -14449,6 +14618,21 @@
    "title": "Controllership Intern",
    "url": "https://stripe.com/jobs/search?gh_jid=8357739"
   },
+  "8358044": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "global head of partner solutions architecture @ us",
+   "location": "US",
+   "posted_at": "2026-11-11T03:24:51+00:00",
+   "posted_history": [
+    "2026-11-11T03:24:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Global Head of Partner Solutions Architecture",
+   "url": "https://stripe.com/jobs/search?gh_jid=8358044"
+  },
   "8361184": {
    "closed_at": null,
    "department": "",
@@ -14478,6 +14662,36 @@
    "reopened": 0,
    "title": "Solutions Architect, Metronome (AI Native)",
    "url": "https://stripe.com/jobs/search?gh_jid=8368260"
+  },
+  "8368621": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "startups sales manager platform partnerships @ chicago, il; new york, ny; san francisco, ca",
+   "location": "Chicago, IL; New York, NY; San Francisco, CA",
+   "posted_at": "2026-11-10T16:58:26+00:00",
+   "posted_history": [
+    "2026-11-10T16:58:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Startups Sales Manager, Platform Partnerships",
+   "url": "https://stripe.com/jobs/search?gh_jid=8368621"
+  },
+  "8368638": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "large user sales managers platform partnerships @ new york, ny; chicago, il or san francisco, ca",
+   "location": "New York, NY; Chicago, IL or San Francisco, CA",
+   "posted_at": "2026-11-10T17:00:21+00:00",
+   "posted_history": [
+    "2026-11-10T17:00:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Large User Sales Managers, Platform Partnerships",
+   "url": "https://stripe.com/jobs/search?gh_jid=8368638"
   },
   "8370799": {
    "closed_at": null,

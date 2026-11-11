@@ -91,6 +91,10 @@
   {
    "date": "2026-11-10",
    "open": 21
+  },
+  {
+   "date": "2026-11-11",
+   "open": 21
   }
  ],
  "jobs": {
@@ -215,7 +219,7 @@
    "url": "https://www.gostudent.org/en-gb/job-position/?gh_jid=4665903101"
   },
   "4747003101": {
-   "closed_at": "2026-11-09T12:08:42+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",
@@ -225,7 +229,7 @@
    "posted_history": [
     "2026-01-05T13:32:38+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Technical Product Generalist (m/w/d) - Vienna",
    "url": "https://www.gostudent.org/en-gb/job-position/?gh_jid=4747003101"
   },
@@ -455,7 +459,7 @@
    "url": "https://www.gostudent.org/en-gb/job-position/?gh_jid=5006744101"
   },
   "5006968101": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

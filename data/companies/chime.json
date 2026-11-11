@@ -91,6 +91,10 @@
   {
    "date": "2026-11-10",
    "open": 66
+  },
+  {
+   "date": "2026-11-11",
+   "open": 66
   }
  ],
  "jobs": {
@@ -1280,7 +1284,7 @@
    "url": "https://boards.greenhouse.io/chime/jobs/8900232002?gh_jid=8900232002"
   },
   "8900582002": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
@@ -1428,6 +1432,21 @@
    "reopened": 0,
    "title": "Sr. CRM Operations Manager",
    "url": "https://boards.greenhouse.io/chime/jobs/8922747002?gh_jid=8922747002"
+  },
+  "8928783002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "senior training lead @ remote, usa",
+   "location": "Remote, USA",
+   "posted_at": "2026-11-10T20:44:22+00:00",
+   "posted_history": [
+    "2026-11-10T20:44:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Training Lead",
+   "url": "https://boards.greenhouse.io/chime/jobs/8928783002?gh_jid=8928783002"
   },
   "8929507002": {
    "closed_at": null,

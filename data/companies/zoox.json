@@ -91,6 +91,10 @@
   {
    "date": "2026-11-10",
    "open": 234
+  },
+  {
+   "date": "2026-11-11",
+   "open": 229
   }
  ],
  "jobs": {
@@ -290,7 +294,7 @@
    "url": "https://jobs.lever.co/zoox/082ed20c-b8e1-4b1c-9c22-4738ad94055d"
   },
   "09438fb7-2428-4adb-acaf-9a58d1d3fa8e": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "Software Platforms and Product",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1910,7 +1914,7 @@
    "url": "https://jobs.lever.co/zoox/6727ef94-9a4b-4275-95c1-863ba7723364"
   },
   "67982bee-811b-453b-8596-b53c13f7a78d": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "Software Platforms and Product",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -2375,7 +2379,7 @@
    "url": "https://jobs.lever.co/zoox/8321d00e-9e2b-4947-a37e-fdbad7dcd637"
   },
   "83967e5c-bfb4-4b3d-974a-fd0fefe4a168": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "Powertrain, Thermal, & Electrical Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2619,14 +2623,14 @@
    "department": "Software Systems",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "software systems engineer security @ foster city, ca",
+   "fp": "systems security engineer quantitative risk assessment @ foster city, ca",
    "location": "Foster City, CA",
    "posted_at": "2026-08-05T19:44:25+00:00",
    "posted_history": [
     "2026-08-05T19:44:25+00:00"
    ],
    "reopened": 0,
-   "title": "Software Systems Engineer - Security",
+   "title": "Systems Security Engineer - Quantitative Risk Assessment",
    "url": "https://jobs.lever.co/zoox/896f37b9-80b7-4077-a937-e499151ce5f2"
   },
   "89adda42-9575-4028-bba8-a38e5f0feb94": {
@@ -2765,7 +2769,7 @@
    "url": "https://jobs.lever.co/zoox/8e9a200c-3557-44a4-9f2b-3ad86136118d"
   },
   "8ed069c6-78b3-403f-9bb7-6fc9237b2973": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "Software",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3009,14 +3013,14 @@
    "department": "Logistics",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "staff logistics engineer @ hayward, ca",
+   "fp": "staff industrial engineer @ hayward, ca",
    "location": "Hayward, CA",
    "posted_at": "2026-10-07T23:25:27+00:00",
    "posted_history": [
     "2026-10-07T23:25:27+00:00"
    ],
    "reopened": 0,
-   "title": "Staff Logistics Engineer",
+   "title": "Staff Industrial Engineer",
    "url": "https://jobs.lever.co/zoox/9f30b1a9-9637-431b-ad46-83ba696108bd"
   },
   "a0ffbca7-3613-498a-9f7b-c8dc13858184": {
@@ -4010,7 +4014,7 @@
    "url": "https://jobs.lever.co/zoox/e725749e-88f7-48e0-8e4c-8a4a3289b905"
   },
   "e8a190f0-7a89-4c11-a6a0-452ff6234749": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "Executive Office",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

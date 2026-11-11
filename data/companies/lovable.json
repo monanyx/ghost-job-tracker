@@ -91,6 +91,10 @@
   {
    "date": "2026-11-10",
    "open": 79
+  },
+  {
+   "date": "2026-11-11",
+   "open": 78
   }
  ],
  "jobs": {
@@ -110,7 +114,7 @@
    "url": "https://jobs.ashbyhq.com/lovable/00ad65ae-2d29-41cf-898e-248ddf8ca7ae"
   },
   "02109438-c0ea-4dc9-9262-41914b104307": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "EPD",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
@@ -461,14 +465,14 @@
    "department": "FDN",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "commercial counsel partnerships @ new york city",
+   "fp": "commercial counsel @ new york city",
    "location": "New York City",
    "posted_at": "2026-05-29T15:19:52+00:00",
    "posted_history": [
     "2026-05-29T15:19:52+00:00"
    ],
    "reopened": 0,
-   "title": "Commercial Counsel, Partnerships",
+   "title": "Commercial Counsel",
    "url": "https://jobs.ashbyhq.com/lovable/4e100b5b-35be-462d-a3c1-bd0ca7fad267"
   },
   "4f26af7a-43ad-48f4-9902-1e779c05af66": {
@@ -502,7 +506,7 @@
    "url": "https://jobs.ashbyhq.com/lovable/513393c6-1887-41b5-96fb-38982130bd36"
   },
   "514c4592-13ff-4900-9e89-ef262e2268b0": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "FDN",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -680,6 +684,21 @@
    "reopened": 0,
    "title": "Social Media Lead",
    "url": "https://jobs.ashbyhq.com/lovable/716e58b3-af3d-482a-a357-a34628742b4f"
+  },
+  "72581692-c29f-4938-a73f-92c42911f2f6": {
+   "closed_at": null,
+   "department": "FDN",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "order to cash lead @ new york city",
+   "location": "New York City",
+   "posted_at": "2026-11-11T06:46:00+00:00",
+   "posted_history": [
+    "2026-11-11T06:46:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Order to Cash Lead",
+   "url": "https://jobs.ashbyhq.com/lovable/72581692-c29f-4938-a73f-92c42911f2f6"
   },
   "725b8529-5c3e-4b23-867e-8e2766bc9629": {
    "closed_at": null,

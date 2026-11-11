@@ -91,11 +91,15 @@
   {
    "date": "2026-11-10",
    "open": 45
+  },
+  {
+   "date": "2026-11-11",
+   "open": 44
   }
  ],
  "jobs": {
   "4643990101": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-06T11:30:42+00:00",
@@ -969,14 +973,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
-   "fp": "crm operations braze specialist @ kraków, lesser poland voivodeship, poland",
+   "fp": "crm automation specialist @ kraków, lesser poland voivodeship, poland",
    "location": "Kraków, Lesser Poland Voivodeship, Poland",
    "posted_at": "2026-11-09T14:16:41+00:00",
    "posted_history": [
     "2026-11-09T14:16:41+00:00"
    ],
    "reopened": 0,
-   "title": "CRM Operations & Braze Specialist",
+   "title": "CRM Automation Specialist",
    "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5030877101"
   },
   "5031808101": {

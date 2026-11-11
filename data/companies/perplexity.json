@@ -91,6 +91,10 @@
   {
    "date": "2026-11-10",
    "open": 136
+  },
+  {
+   "date": "2026-11-11",
+   "open": 138
   }
  ],
  "jobs": {
@@ -335,7 +339,7 @@
    "url": "https://jobs.ashbyhq.com/Perplexity/19d8bcfd-e493-4b3a-b8fd-11a2a6502da2"
   },
   "1a3df802-9238-4827-ab1f-12a9d1e4b81c": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "Search",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -824,8 +828,8 @@
    "department": "People",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
-   "fp": "go to market recruiter @ san francisco",
-   "location": "San Francisco",
+   "fp": "go to market recruiter @ new york city",
+   "location": "New York City",
    "posted_at": "2026-10-22T23:09:15+00:00",
    "posted_history": [
     "2026-10-22T23:09:15+00:00"
@@ -940,7 +944,7 @@
    "url": "https://jobs.ashbyhq.com/Perplexity/5551fd7b-9ede-460e-9b38-4328c476a521"
   },
   "5930b6bf-b4b1-4134-a183-832d69dd085f": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "Legal",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1751,6 +1755,21 @@
    "title": "Member of Technical Staff (AI Software Engineer, Agents)",
    "url": "https://jobs.ashbyhq.com/perplexity/a172ada5-1a6e-4646-8e0d-26747422af24"
   },
+  "a5316915-559e-4839-8ea7-cb3b16b090ed": {
+   "closed_at": null,
+   "department": "Revenue Operations",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "go to market compensation lead @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-11-11T05:05:10+00:00",
+   "posted_history": [
+    "2026-11-11T05:05:10+00:00"
+   ],
+   "reopened": 0,
+   "title": "Go-To-Market Compensation Lead",
+   "url": "https://jobs.ashbyhq.com/Perplexity/a5316915-559e-4839-8ea7-cb3b16b090ed"
+  },
   "a5b97109-222d-49e1-b2ac-e101487a5ddd": {
    "closed_at": null,
    "department": "Sales",
@@ -1871,6 +1890,21 @@
    "title": "GTM Strategy & Operations Lead",
    "url": "https://jobs.ashbyhq.com/perplexity/b75db90b-ca13-4a2f-aac4-c7764b631540"
   },
+  "b85c4547-fa75-41a8-bd36-6f2c70117764": {
+   "closed_at": null,
+   "department": "Platform & Infrastructure",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "member of technical staff @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-11-10T15:57:14+00:00",
+   "posted_history": [
+    "2026-11-10T15:57:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff (TPM, Compute)",
+   "url": "https://jobs.ashbyhq.com/Perplexity/b85c4547-fa75-41a8-bd36-6f2c70117764"
+  },
   "b9e1ff15-d52a-46d5-abf0-26460f2a116c": {
    "closed_at": null,
    "department": "Search",
@@ -1900,6 +1934,21 @@
    "reopened": 0,
    "title": "Procurement Lead",
    "url": "https://jobs.ashbyhq.com/Perplexity/ba95ea8c-9aad-4152-925c-df08d6a90c0f"
+  },
+  "be6ffac6-5d72-4768-9f88-d1231a710ec9": {
+   "closed_at": null,
+   "department": "Revenue Operations",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "deal desk lead @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-11-11T04:56:15+00:00",
+   "posted_history": [
+    "2026-11-11T04:56:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Deal Desk Lead",
+   "url": "https://jobs.ashbyhq.com/Perplexity/be6ffac6-5d72-4768-9f88-d1231a710ec9"
   },
   "be94e89b-89d5-4f2a-a58b-7929c8d97f92": {
    "closed_at": null,
@@ -2084,17 +2133,18 @@
    "url": "https://jobs.ashbyhq.com/Perplexity/d865c821-9a27-416c-9c6a-14132a86f760"
   },
   "d89a3cad-50d5-47fd-8f87-be55285ee2b1": {
-   "closed_at": "2026-11-10T11:47:05+00:00",
+   "closed_at": null,
    "department": "Data Science",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
    "fp": "member of data staff @ san francisco",
    "location": "San Francisco",
-   "posted_at": "2026-10-22T22:51:54+00:00",
+   "posted_at": "2026-11-11T01:47:44+00:00",
    "posted_history": [
-    "2026-10-22T22:51:54+00:00"
+    "2026-10-22T22:51:54+00:00",
+    "2026-11-11T01:47:44+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Member of Data Staff (Data Acceleration)",
    "url": "https://jobs.ashbyhq.com/Perplexity/d89a3cad-50d5-47fd-8f87-be55285ee2b1"
   },

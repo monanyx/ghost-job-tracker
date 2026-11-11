@@ -91,6 +91,10 @@
   {
    "date": "2026-11-10",
    "open": 273
+  },
+  {
+   "date": "2026-11-11",
+   "open": 276
   }
  ],
  "jobs": {
@@ -410,18 +414,18 @@
    "url": "https://careers.roblox.com/jobs/7655813?gh_jid=7655813"
   },
   "7656541": {
-   "closed_at": "2026-10-29T10:25:29+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior quality engineer social @ san mateo, ca, united states",
+   "fp": "senior quality engineer @ san mateo, ca, united states",
    "location": "San Mateo, CA, United States",
    "posted_at": "2026-03-04T21:05:08+00:00",
    "posted_history": [
     "2026-03-04T21:05:08+00:00"
    ],
-   "reopened": 0,
-   "title": "Senior Quality Engineer, Social",
+   "reopened": 1,
+   "title": "Senior Quality Engineer",
    "url": "https://careers.roblox.com/jobs/7656541?gh_jid=7656541"
   },
   "7678832": {
@@ -665,7 +669,7 @@
    "url": "https://careers.roblox.com/jobs/7813041?gh_jid=7813041"
   },
   "7832171": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1280,7 +1284,7 @@
    "url": "https://careers.roblox.com/jobs/8025510?gh_jid=8025510"
   },
   "8029414": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1970,18 +1974,18 @@
    "url": "https://careers.roblox.com/jobs/8089039?gh_jid=8089039"
   },
   "8090079": {
-   "closed_at": "2026-11-06T11:30:42+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "engineering manager machine learning infrastructure ads @ san mateo, ca, united states",
+   "fp": "principal machine learning infrastructure engineer ads @ san mateo, ca, united states",
    "location": "San Mateo, CA, United States",
    "posted_at": "2026-07-28T19:01:28+00:00",
    "posted_history": [
     "2026-07-28T19:01:28+00:00"
    ],
-   "reopened": 0,
-   "title": "Engineering Manager, Machine Learning Infrastructure, Ads",
+   "reopened": 1,
+   "title": "Principal Machine Learning Infrastructure Engineer, Ads",
    "url": "https://careers.roblox.com/jobs/8090079?gh_jid=8090079"
   },
   "8092905": {
@@ -5094,14 +5098,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
-   "fp": "senior commercial paralegal contracts manager @ san mateo, ca, united states",
+   "fp": "senior contracts manager @ san mateo, ca, united states",
    "location": "San Mateo, CA, United States",
    "posted_at": "2026-11-09T22:09:37+00:00",
    "posted_history": [
     "2026-11-09T22:09:37+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Commercial Paralegal - Contracts Manager",
+   "title": "Senior Contracts Manager (Commercial Legal)",
    "url": "https://careers.roblox.com/jobs/8350312?gh_jid=8350312"
   },
   "8350721": {
@@ -5118,6 +5122,21 @@
    "reopened": 0,
    "title": "Senior Software Engineer- Account Access & Controls",
    "url": "https://careers.roblox.com/jobs/8350721?gh_jid=8350721"
+  },
+  "8350725": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "senior software engineer web platform @ san mateo, ca, united states",
+   "location": "San Mateo, CA, United States",
+   "posted_at": "2026-11-10T20:38:14+00:00",
+   "posted_history": [
+    "2026-11-10T20:38:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Web Platform",
+   "url": "https://careers.roblox.com/jobs/8350725?gh_jid=8350725"
   },
   "8350727": {
    "closed_at": null,
@@ -5164,6 +5183,21 @@
    "title": "Manager, Product Support Operations",
    "url": "https://careers.roblox.com/jobs/8351202?gh_jid=8351202"
   },
+  "8356764": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "software engineer ros open platform ai enablement @ san mateo, ca, united states",
+   "location": "San Mateo, CA, United States",
+   "posted_at": "2026-11-11T00:11:57+00:00",
+   "posted_history": [
+    "2026-11-11T00:11:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, ROS Open Platform & AI Enablement",
+   "url": "https://careers.roblox.com/jobs/8356764?gh_jid=8356764"
+  },
   "8357783": {
    "closed_at": null,
    "department": "",
@@ -5178,6 +5212,21 @@
    "reopened": 0,
    "title": "Developer Engagement Team  (Contract)",
    "url": "https://careers.roblox.com/jobs/8357783?gh_jid=8357783"
+  },
+  "8359456": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "senior machine learning engineer creator tools automation @ san mateo, ca, united states",
+   "location": "San Mateo, CA, United States",
+   "posted_at": "2026-11-10T20:46:20+00:00",
+   "posted_history": [
+    "2026-11-10T20:46:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Machine Learning Engineer: Creator Tools & Automation",
+   "url": "https://careers.roblox.com/jobs/8359456?gh_jid=8359456"
   },
   "8359634": {
    "closed_at": null,

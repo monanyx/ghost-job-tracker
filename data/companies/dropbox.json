@@ -91,6 +91,10 @@
   {
    "date": "2026-11-10",
    "open": 33
+  },
+  {
+   "date": "2026-11-11",
+   "open": 38
   }
  ],
  "jobs": {
@@ -335,7 +339,7 @@
    "url": "https://jobs.dropbox.com/listing/8159652?gh_jid=8159652"
   },
   "8159659": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -739,6 +743,66 @@
    "title": "Stock Administrator",
    "url": "https://jobs.dropbox.com/listing/8328476?gh_jid=8328476"
   },
+  "8328534": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "security engineer iam @ remote - us: select locations",
+   "location": "Remote - US: Select locations",
+   "posted_at": "2026-11-10T19:18:06+00:00",
+   "posted_history": [
+    "2026-11-10T19:18:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "Security Engineer, IAM",
+   "url": "https://jobs.dropbox.com/listing/8328534?gh_jid=8328534"
+  },
+  "8328537": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "security engineer iam @ remote - canada: select locations",
+   "location": "Remote - Canada: Select locations",
+   "posted_at": "2026-11-10T19:18:10+00:00",
+   "posted_history": [
+    "2026-11-10T19:18:10+00:00"
+   ],
+   "reopened": 0,
+   "title": "Security Engineer, IAM",
+   "url": "https://jobs.dropbox.com/listing/8328537?gh_jid=8328537"
+  },
+  "8328546": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "senior security engineer ai security @ remote - us: select locations",
+   "location": "Remote - US: Select locations",
+   "posted_at": "2026-11-10T17:56:11+00:00",
+   "posted_history": [
+    "2026-11-10T17:56:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Security Engineer, AI Security",
+   "url": "https://jobs.dropbox.com/listing/8328546?gh_jid=8328546"
+  },
+  "8328549": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "senior security engineer ai security @ remote - canada: select locations",
+   "location": "Remote - Canada: Select locations",
+   "posted_at": "2026-11-10T17:56:16+00:00",
+   "posted_history": [
+    "2026-11-10T17:56:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Security Engineer, AI Security",
+   "url": "https://jobs.dropbox.com/listing/8328549?gh_jid=8328549"
+  },
   "8356282": {
    "closed_at": null,
    "department": "",
@@ -753,6 +817,36 @@
    "reopened": 0,
    "title": "Director, Data Science & Engineering, Finance",
    "url": "https://jobs.dropbox.com/listing/8356282?gh_jid=8356282"
+  },
+  "8356674": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "gtm program manager @ remote - us: select locations",
+   "location": "Remote - US: Select locations",
+   "posted_at": "2026-11-10T20:38:11+00:00",
+   "posted_history": [
+    "2026-11-10T20:38:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "GTM Program Manager",
+   "url": "https://jobs.dropbox.com/listing/8356674?gh_jid=8356674"
+  },
+  "8356675": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "gtm program manager @ remote - canada: select locations",
+   "location": "Remote - Canada: Select locations",
+   "posted_at": "2026-11-10T20:38:13+00:00",
+   "posted_history": [
+    "2026-11-10T20:38:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "GTM Program Manager",
+   "url": "https://jobs.dropbox.com/listing/8356675?gh_jid=8356675"
   }
  }
 }

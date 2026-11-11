@@ -91,6 +91,10 @@
   {
    "date": "2026-11-10",
    "open": 90
+  },
+  {
+   "date": "2026-11-11",
+   "open": 88
   }
  ],
  "jobs": {
@@ -560,7 +564,7 @@
    "url": "https://instacart.careers/job/?gh_jid=8084090"
   },
   "8084349": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -575,7 +579,7 @@
    "url": "https://instacart.careers/job/?gh_jid=8084349"
   },
   "8084350": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -650,7 +654,7 @@
    "url": "https://instacart.careers/job/?gh_jid=8115836"
   },
   "8120469": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -665,7 +669,7 @@
    "url": "https://instacart.careers/job/?gh_jid=8120469"
   },
   "8120471": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1310,7 +1314,7 @@
    "url": "https://instacart.careers/job/?gh_jid=8232312"
   },
   "8233716": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
@@ -1715,7 +1719,7 @@
    "url": "https://instacart.careers/job/?gh_jid=8246076"
   },
   "8249751": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1730,7 +1734,7 @@
    "url": "https://instacart.careers/job/?gh_jid=8249751"
   },
   "8249753": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2150,7 +2154,7 @@
    "url": "https://instacart.careers/job/?gh_jid=8304802"
   },
   "8304832": {
-   "closed_at": "2026-10-28T10:01:46+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -2160,7 +2164,7 @@
    "posted_history": [
     "2026-10-21T20:38:36+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Social Content Producer",
    "url": "https://instacart.careers/job/?gh_jid=8304832"
   },
@@ -2285,7 +2289,7 @@
    "url": "https://instacart.careers/job/?gh_jid=8347897"
   },
   "8355990": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-06T11:30:42+00:00",
@@ -2433,6 +2437,81 @@
    "reopened": 0,
    "title": "Measurement Science Manager",
    "url": "https://instacart.careers/job/?gh_jid=8368861"
+  },
+  "8372846": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "staff software engineer ads data platform @ united states - remote",
+   "location": "United States - Remote",
+   "posted_at": "2026-11-10T17:50:16+00:00",
+   "posted_history": [
+    "2026-11-10T17:50:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer, Ads Data Platform",
+   "url": "https://instacart.careers/job/?gh_jid=8372846"
+  },
+  "8372848": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "staff software engineer ads data platform @ canada - remote (on, ab, bc, or ns only)",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-11-10T17:50:18+00:00",
+   "posted_history": [
+    "2026-11-10T17:50:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer, Ads Data Platform",
+   "url": "https://instacart.careers/job/?gh_jid=8372848"
+  },
+  "8373034": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "senior product manager instacart business growth @ united states - remote",
+   "location": "United States - Remote",
+   "posted_at": "2026-11-10T17:54:25+00:00",
+   "posted_history": [
+    "2026-11-10T17:54:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Manager, Instacart Business - Growth",
+   "url": "https://instacart.careers/job/?gh_jid=8373034"
+  },
+  "8373036": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "senior product manager instacart business growth @ canada - remote (on, ab, bc, or ns only)",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-11-10T17:54:27+00:00",
+   "posted_history": [
+    "2026-11-10T17:54:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Manager, Instacart Business - Growth",
+   "url": "https://instacart.careers/job/?gh_jid=8373036"
+  },
+  "8374809": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "principal creative growth production @ united states - remote",
+   "location": "United States - Remote",
+   "posted_at": "2026-11-10T21:31:07+00:00",
+   "posted_history": [
+    "2026-11-10T21:31:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Creative, Growth Production",
+   "url": "https://instacart.careers/job/?gh_jid=8374809"
   }
  }
 }

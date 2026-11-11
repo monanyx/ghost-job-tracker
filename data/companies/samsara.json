@@ -91,6 +91,10 @@
   {
    "date": "2026-11-10",
    "open": 314
+  },
+  {
+   "date": "2026-11-11",
+   "open": 313
   }
  ],
  "jobs": {
@@ -500,7 +504,7 @@
    "url": "https://www.samsara.com/company/careers/roles/7609156?gh_jid=7609156"
   },
   "7612493": {
-   "closed_at": "2026-11-10T11:47:05+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
@@ -510,7 +514,7 @@
    "posted_history": [
     "2026-07-02T20:49:07+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Commercial Account Executive",
    "url": "https://www.samsara.com/company/careers/roles/7612493?gh_jid=7612493"
   },
@@ -1220,7 +1224,7 @@
    "url": "https://www.samsara.com/company/careers/roles/7954575?gh_jid=7954575"
   },
   "7960367": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1775,7 +1779,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8036863?gh_jid=8036863"
   },
   "8038153": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2315,7 +2319,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8109358?gh_jid=8109358"
   },
   "8112694": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2885,7 +2889,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8162344?gh_jid=8162344"
   },
   "8163118": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3093,6 +3097,21 @@
    "reopened": 0,
    "title": "Staff Application Security Engineer",
    "url": "https://www.samsara.com/company/careers/roles/8180630?gh_jid=8180630"
+  },
+  "8180693": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "manager ii software engineering @ san francisco - sf9",
+   "location": "San Francisco - SF9",
+   "posted_at": "2026-11-10T20:17:34+00:00",
+   "posted_history": [
+    "2026-11-10T20:17:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager II, Software Engineering",
+   "url": "https://www.samsara.com/company/careers/roles/8180693?gh_jid=8180693"
   },
   "8186048": {
    "closed_at": null,
@@ -3545,7 +3564,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8221852?gh_jid=8221852"
   },
   "8223369": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3664,6 +3683,21 @@
    "title": "Firmware Engineer Co-Op",
    "url": "https://www.samsara.com/company/careers/roles/8226602?gh_jid=8226602"
   },
+  "8226608": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "electrical engineering co op @ san francisco - sf9",
+   "location": "San Francisco - SF9",
+   "posted_at": "2026-11-10T20:15:35+00:00",
+   "posted_history": [
+    "2026-11-10T20:15:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Electrical Engineering Co-Op",
+   "url": "https://www.samsara.com/company/careers/roles/8226608?gh_jid=8226608"
+  },
   "8227725": {
    "closed_at": null,
    "department": "",
@@ -3774,14 +3808,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "sr software engineer ii devex @ remote - ca",
+   "fp": "staff software engineer devex @ remote - ca",
    "location": "Remote - CA",
    "posted_at": "2026-10-01T12:12:52+00:00",
    "posted_history": [
     "2026-10-01T12:12:52+00:00"
    ],
    "reopened": 0,
-   "title": "Sr. Software Engineer II, DevEx",
+   "title": "Staff Software Engineer, DevEx (CI/CD)",
    "url": "https://www.samsara.com/company/careers/roles/8237131?gh_jid=8237131"
   },
   "8237134": {
@@ -4160,7 +4194,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8263226?gh_jid=8263226"
   },
   "8263264": {
-   "closed_at": "2026-11-10T11:47:05+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
@@ -4170,7 +4204,7 @@
    "posted_history": [
     "2026-10-26T18:29:52+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Sr. Manager, Procure to Pay",
    "url": "https://www.samsara.com/company/careers/roles/8263264?gh_jid=8263264"
   },
@@ -4520,7 +4554,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8282629?gh_jid=8282629"
   },
   "8282635": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-28T10:01:46+00:00",
@@ -4985,17 +5019,17 @@
    "url": "https://www.samsara.com/company/careers/roles/8304697?gh_jid=8304697"
   },
   "8304710": {
-   "closed_at": "2026-11-07T10:41:11+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
-   "fp": "enterprise implementation consultant public sector @ remote - ga",
-   "location": "Remote - GA",
+   "fp": "enterprise implementation consultant public sector @ remote - ut",
+   "location": "Remote - UT",
    "posted_at": "2026-10-26T20:11:51+00:00",
    "posted_history": [
     "2026-10-26T20:11:51+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Enterprise Implementation Consultant - Public Sector",
    "url": "https://www.samsara.com/company/careers/roles/8304710?gh_jid=8304710"
   },
@@ -5424,8 +5458,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
-   "fp": "account development representative ii phoenix @ remote - az",
-   "location": "Remote - AZ",
+   "fp": "account development representative ii phoenix @ phoenix, arizona, united states",
+   "location": "Phoenix, Arizona, United States",
    "posted_at": "2026-10-26T18:50:12+00:00",
    "posted_history": [
     "2026-10-26T18:50:12+00:00"
@@ -5964,14 +5998,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
-   "fp": "sales engineering manager core uk i @ london, england, united kingdom",
+   "fp": "sales engineering manager select uk i @ london, england, united kingdom",
    "location": "London, England, United Kingdom",
    "posted_at": "2026-10-30T10:54:03+00:00",
    "posted_history": [
     "2026-10-30T10:54:03+00:00"
    ],
    "reopened": 0,
-   "title": "Sales Engineering Manager Core - UK&I",
+   "title": "Sales Engineering Manager Select - UK&I",
    "url": "https://www.samsara.com/company/careers/roles/8336436?gh_jid=8336436"
   },
   "8336439": {
@@ -6110,7 +6144,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8353142?gh_jid=8353142"
   },
   "8353144": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",
@@ -6155,7 +6189,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8353150?gh_jid=8353150"
   },
   "8353156": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",
@@ -6170,7 +6204,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8353156?gh_jid=8353156"
   },
   "8353158": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",
@@ -6244,6 +6278,21 @@
    "title": "Senior Financial Analyst",
    "url": "https://www.samsara.com/company/careers/roles/8353530?gh_jid=8353530"
   },
+  "8353662": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "business sox compliance manager @ remote - us",
+   "location": "Remote - US",
+   "posted_at": "2026-11-10T22:29:10+00:00",
+   "posted_history": [
+    "2026-11-10T22:29:10+00:00"
+   ],
+   "reopened": 0,
+   "title": "Business SOX Compliance Manager",
+   "url": "https://www.samsara.com/company/careers/roles/8353662?gh_jid=8353662"
+  },
   "8354253": {
    "closed_at": null,
    "department": "",
@@ -6273,6 +6322,21 @@
    "reopened": 0,
    "title": "Security Operations Engineer",
    "url": "https://www.samsara.com/company/careers/roles/8355097?gh_jid=8355097"
+  },
+  "8355516": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "technical support specialist german fluency @ remote - uk",
+   "location": "Remote - UK",
+   "posted_at": "2026-11-11T10:47:33+00:00",
+   "posted_history": [
+    "2026-11-11T10:47:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Support Specialist - German Fluency",
+   "url": "https://www.samsara.com/company/careers/roles/8355516?gh_jid=8355516"
   },
   "8355831": {
    "closed_at": null,
@@ -6710,7 +6774,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8359221?gh_jid=8359221"
   },
   "8359294": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",
@@ -6725,7 +6789,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8359294?gh_jid=8359294"
   },
   "8359325": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",
@@ -6963,6 +7027,51 @@
    "reopened": 0,
    "title": "Senior Business Value Strategist",
    "url": "https://www.samsara.com/company/careers/roles/8360112?gh_jid=8360112"
+  },
+  "8372624": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "enterprise implementation consultant public sector @ phoenix, arizona, united states",
+   "location": "Phoenix, Arizona, United States",
+   "posted_at": "2026-11-10T16:56:36+00:00",
+   "posted_history": [
+    "2026-11-10T16:56:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Implementation Consultant - Public Sector",
+   "url": "https://www.samsara.com/company/careers/roles/8372624?gh_jid=8372624"
+  },
+  "8375338": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "business sox compliance manager @ remote - canada",
+   "location": "Remote - Canada",
+   "posted_at": "2026-11-10T22:29:11+00:00",
+   "posted_history": [
+    "2026-11-10T22:29:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Business SOX Compliance Manager",
+   "url": "https://www.samsara.com/company/careers/roles/8375338?gh_jid=8375338"
+  },
+  "8376044": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "manager ii software engineering @ remote - canada",
+   "location": "Remote - Canada",
+   "posted_at": "2026-11-11T01:58:59+00:00",
+   "posted_history": [
+    "2026-11-11T01:58:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager II, Software Engineering",
+   "url": "https://www.samsara.com/company/careers/roles/8376044?gh_jid=8376044"
   }
  }
 }

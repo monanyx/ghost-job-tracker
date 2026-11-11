@@ -91,6 +91,10 @@
   {
    "date": "2026-11-10",
    "open": 34
+  },
+  {
+   "date": "2026-11-11",
+   "open": 34
   }
  ],
  "jobs": {
@@ -410,7 +414,7 @@
    "url": "https://n26.com/en-eu/careers/positions/8169035?gh_jid=8169035"
   },
   "8170588": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -590,7 +594,7 @@
    "url": "https://n26.com/en-eu/careers/positions/8203962?gh_jid=8203962"
   },
   "8211088": {
-   "closed_at": "2026-10-26T09:22:13+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -600,7 +604,7 @@
    "posted_history": [
     "2026-09-21T08:36:08+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Product Designer",
    "url": "https://n26.com/en-eu/careers/positions/8211088?gh_jid=8211088"
   },
@@ -770,7 +774,7 @@
    "url": "https://n26.com/en-eu/careers/positions/8281297?gh_jid=8281297"
   },
   "8281301": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -830,7 +834,7 @@
    "url": "https://n26.com/en-eu/careers/positions/8305606?gh_jid=8305606"
   },
   "8312214": {
-   "closed_at": null,
+   "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
@@ -1068,6 +1072,36 @@
    "reopened": 0,
    "title": "Complaints Audit Manager",
    "url": "https://n26.com/en-eu/careers/positions/8364763?gh_jid=8364763"
+  },
+  "8370910": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "senior legal counsel employment law @ berlin",
+   "location": "Berlin",
+   "posted_at": "2026-11-10T14:37:12+00:00",
+   "posted_history": [
+    "2026-11-10T14:37:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Legal Counsel, Employment Law",
+   "url": "https://n26.com/en-eu/careers/positions/8370910?gh_jid=8370910"
+  },
+  "8377964": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-11T11:27:30+00:00",
+   "fp": "product designer @ berlin",
+   "location": "Berlin",
+   "posted_at": "2026-11-11T10:59:12+00:00",
+   "posted_history": [
+    "2026-11-11T10:59:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Designer",
+   "url": "https://n26.com/en-eu/careers/positions/8377964?gh_jid=8377964"
   }
  }
 }
