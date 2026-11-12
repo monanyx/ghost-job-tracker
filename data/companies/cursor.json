@@ -95,11 +95,15 @@
   {
    "date": "2026-11-11",
    "open": 116
+  },
+  {
+   "date": "2026-11-12",
+   "open": 113
   }
  ],
  "jobs": {
   "006079b2-d763-4f08-9beb-1533171f66c2": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
@@ -1370,7 +1374,7 @@
     "2026-10-14T02:56:58+00:00"
    ],
    "reopened": 0,
-   "title": "Forward Deployed Engineer (Australia)",
+   "title": "Forward Deployed Engineer (Australia/Singapore)",
    "url": "https://jobs.ashbyhq.com/cursor/44264403-5674-40b7-8b8d-e60b0a86e9ec"
   },
   "45abdab8-6d12-4e46-8108-e23aba34cec1": {
@@ -3402,7 +3406,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b"
   },
   "d1c5031a-bf6c-48fa-9a6b-26a75136504e": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "Marketing",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
@@ -3658,7 +3662,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/e57836e8-c864-4817-aaa2-1b1263f0a352"
   },
   "e5ae8495-1aad-4ac2-ae6f-36c58d936d12": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "Customer Success",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",

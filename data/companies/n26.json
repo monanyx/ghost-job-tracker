@@ -95,6 +95,10 @@
   {
    "date": "2026-11-11",
    "open": 34
+  },
+  {
+   "date": "2026-11-12",
+   "open": 37
   }
  ],
  "jobs": {
@@ -609,18 +613,18 @@
    "url": "https://n26.com/en-eu/careers/positions/8211088?gh_jid=8211088"
   },
   "8219953": {
-   "closed_at": "2026-10-29T10:25:29+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
-   "fp": "senior site reliability engineer infrastructure @ berlin, barcelona",
+   "fp": "senior site reliability engineer connectivity @ berlin, barcelona",
    "location": "Berlin, Barcelona",
    "posted_at": "2026-10-23T16:06:57+00:00",
    "posted_history": [
     "2026-10-23T16:06:57+00:00"
    ],
-   "reopened": 0,
-   "title": "Senior Site Reliability Engineer - Infrastructure",
+   "reopened": 1,
+   "title": "Senior Site Reliability Engineer - Connectivity",
    "url": "https://n26.com/en-eu/careers/positions/8219953?gh_jid=8219953"
   },
   "8239606": {
@@ -1073,6 +1077,21 @@
    "title": "Complaints Audit Manager",
    "url": "https://n26.com/en-eu/careers/positions/8364763?gh_jid=8364763"
   },
+  "8364836": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "senior product marketing manager @ barcelona",
+   "location": "Barcelona ",
+   "posted_at": "2026-11-11T16:59:24+00:00",
+   "posted_history": [
+    "2026-11-11T16:59:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Marketing Manager",
+   "url": "https://n26.com/en-eu/careers/positions/8364836?gh_jid=8364836"
+  },
   "8370910": {
    "closed_at": null,
    "department": "",
@@ -1089,7 +1108,7 @@
    "url": "https://n26.com/en-eu/careers/positions/8370910?gh_jid=8370910"
   },
   "8377964": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-11T11:27:30+00:00",
@@ -1102,6 +1121,36 @@
    "reopened": 0,
    "title": "Product Designer",
    "url": "https://n26.com/en-eu/careers/positions/8377964?gh_jid=8377964"
+  },
+  "8378357": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "site reliability engineer data platform @ barcelona, berlin",
+   "location": "Barcelona, Berlin",
+   "posted_at": "2026-11-11T12:33:58+00:00",
+   "posted_history": [
+    "2026-11-11T12:33:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Site Reliability Engineer - Data Platform",
+   "url": "https://n26.com/en-eu/careers/positions/8378357?gh_jid=8378357"
+  },
+  "8378553": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "compliance manager @ berlin",
+   "location": "Berlin",
+   "posted_at": "2026-11-11T13:36:09+00:00",
+   "posted_history": [
+    "2026-11-11T13:36:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Compliance Manager",
+   "url": "https://n26.com/en-eu/careers/positions/8378553?gh_jid=8378553"
   }
  }
 }

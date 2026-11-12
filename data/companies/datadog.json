@@ -95,6 +95,10 @@
   {
    "date": "2026-11-11",
    "open": 391
+  },
+  {
+   "date": "2026-11-12",
+   "open": 388
   }
  ],
  "jobs": {
@@ -1238,6 +1242,21 @@
    "title": "Enterprise Sales Executive",
    "url": "https://careers.datadoghq.com/detail/7405831/?gh_jid=7405831"
   },
+  "7405834": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "enterprise sales executive @ colombia, remote",
+   "location": "Colombia, Remote",
+   "posted_at": "2026-11-11T18:37:37+00:00",
+   "posted_history": [
+    "2026-11-11T18:37:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Sales Executive",
+   "url": "https://careers.datadoghq.com/detail/7405834/?gh_jid=7405834"
+  },
   "7409175": {
    "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
@@ -2228,6 +2247,21 @@
    "title": "Manager, Mid Market - Brazil",
    "url": "https://careers.datadoghq.com/detail/7800409/?gh_jid=7800409"
   },
+  "7806043": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "sales development representative @ tokyo, japan",
+   "location": "Tokyo, Japan",
+   "posted_at": "2026-04-17T05:57:06+00:00",
+   "posted_history": [
+    "2026-04-17T05:57:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales Development Representative",
+   "url": "https://careers.datadoghq.com/detail/7806043/?gh_jid=7806043"
+  },
   "7807783": {
    "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
@@ -2683,8 +2717,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior services architect @ denver, colorado, usa; new york, new york, usa; san francisco, california, usa",
-   "location": "Denver, Colorado, USA; New York, New York, USA; San Francisco, California, USA",
+   "fp": "senior services architect @ boston, massachusetts, usa; new york, new york, usa",
+   "location": "Boston, Massachusetts, USA; New York, New York, USA",
    "posted_at": "2026-06-12T14:31:06+00:00",
    "posted_history": [
     "2026-06-12T14:31:06+00:00"
@@ -2859,7 +2893,7 @@
    "url": "https://careers.datadoghq.com/detail/8023763/?gh_jid=8023763"
   },
   "8024670": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3984,7 +4018,7 @@
    "url": "https://careers.datadoghq.com/detail/8127768/?gh_jid=8127768"
   },
   "8127916": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4029,7 +4063,7 @@
    "url": "https://careers.datadoghq.com/detail/8128450/?gh_jid=8128450"
   },
   "8128764": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4179,7 +4213,7 @@
    "url": "https://careers.datadoghq.com/detail/8138342/?gh_jid=8138342"
   },
   "8138482": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4423,14 +4457,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "manager customer success boston @ boston, massachusetts, usa",
+   "fp": "manager commercial customer success @ boston, massachusetts, usa",
    "location": "Boston, Massachusetts, USA",
    "posted_at": "2026-08-24T13:43:57+00:00",
    "posted_history": [
     "2026-08-24T13:43:57+00:00"
    ],
    "reopened": 0,
-   "title": "Manager, Customer Success - Boston",
+   "title": "Manager (Key Accounts) Commercial Customer Success",
    "url": "https://careers.datadoghq.com/detail/8146986/?gh_jid=8146986"
   },
   "8147489": {
@@ -4674,7 +4708,7 @@
    "url": "https://careers.datadoghq.com/detail/8167729/?gh_jid=8167729"
   },
   "8170070": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4869,7 +4903,7 @@
    "url": "https://careers.datadoghq.com/detail/8174661/?gh_jid=8174661"
   },
   "8175708": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5713,8 +5747,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "manager accounts payable @ boston, massachusetts, usa; denver, colorado, usa; new york, new york, usa; san francisco, california, usa",
-   "location": "Boston, Massachusetts, USA; Denver, Colorado, USA; New York, New York, USA; San Francisco, California, USA",
+   "fp": "manager accounts payable @ boston, massachusetts, usa; california, usa, remote; colorado, usa, remote; denver, colorado, usa; massachusetts, usa, remote; new york, new york, usa; san francisco, california, usa",
+   "location": "Boston, Massachusetts, USA; California, USA, Remote; Colorado, USA, Remote; Denver, Colorado, USA; Massachusetts, USA, Remote; New York, New York, USA; San Francisco, California, USA",
    "posted_at": "2026-10-06T14:44:35+00:00",
    "posted_history": [
     "2026-10-06T14:44:35+00:00"
@@ -5934,7 +5968,7 @@
    "url": "https://careers.datadoghq.com/detail/8238457/?gh_jid=8238457"
   },
   "8238472": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6054,7 +6088,7 @@
    "url": "https://careers.datadoghq.com/detail/8242795/?gh_jid=8242795"
   },
   "8242859": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6129,7 +6163,7 @@
    "url": "https://careers.datadoghq.com/detail/8243782/?gh_jid=8243782"
   },
   "8244033": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7479,7 +7513,7 @@
    "url": "https://careers.datadoghq.com/detail/8330344/?gh_jid=8330344"
   },
   "8330644": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -7883,6 +7917,21 @@
    "title": "Technical Escalations Engineer 2 (Alerting) - EMEA",
    "url": "https://careers.datadoghq.com/detail/8355189/?gh_jid=8355189"
   },
+  "8356637": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "strategic account executive @ colombia, remote",
+   "location": "Colombia, Remote",
+   "posted_at": "2026-11-11T18:36:19+00:00",
+   "posted_history": [
+    "2026-11-11T18:36:19+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Account Executive",
+   "url": "https://careers.datadoghq.com/detail/8356637/?gh_jid=8356637"
+  },
   "8357178": {
    "closed_at": null,
    "department": "",
@@ -7972,6 +8021,66 @@
    "reopened": 0,
    "title": "Senior AI Research Engineer - GPU Systems & Kernels",
    "url": "https://careers.datadoghq.com/detail/8365206/?gh_jid=8365206"
+  },
+  "8368886": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "director enterprise sales @ colombia, remote",
+   "location": "Colombia, Remote",
+   "posted_at": "2026-11-11T14:06:44+00:00",
+   "posted_history": [
+    "2026-11-11T14:06:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Director, Enterprise Sales",
+   "url": "https://careers.datadoghq.com/detail/8368886/?gh_jid=8368886"
+  },
+  "8377133": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "senior sales engineer public sector @ tokyo, japan",
+   "location": "Tokyo, Japan",
+   "posted_at": "2026-11-12T03:36:58+00:00",
+   "posted_history": [
+    "2026-11-12T03:36:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Sales Engineer - Public Sector",
+   "url": "https://careers.datadoghq.com/detail/8377133/?gh_jid=8377133"
+  },
+  "8377430": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "senior sales engineer public sector @ tokyo, japan",
+   "location": "Tokyo, Japan",
+   "posted_at": "2026-11-12T03:37:01+00:00",
+   "posted_history": [
+    "2026-11-12T03:37:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Sales Engineer - Public Sector",
+   "url": "https://careers.datadoghq.com/detail/8377430/?gh_jid=8377430"
+  },
+  "8378768": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "manager i engineering observability pipelines @ new york, new york, usa",
+   "location": "New York, New York, USA",
+   "posted_at": "2026-11-11T14:18:37+00:00",
+   "posted_history": [
+    "2026-11-11T14:18:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager I, Engineering - Observability Pipelines",
+   "url": "https://careers.datadoghq.com/detail/8378768/?gh_jid=8378768"
   }
  }
 }

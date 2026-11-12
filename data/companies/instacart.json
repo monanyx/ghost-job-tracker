@@ -95,6 +95,10 @@
   {
    "date": "2026-11-11",
    "open": 88
+  },
+  {
+   "date": "2026-11-12",
+   "open": 88
   }
  ],
  "jobs": {
@@ -474,7 +478,7 @@
    "url": "https://instacart.careers/job/?gh_jid=8069983"
   },
   "8077677": {
-   "closed_at": "2026-10-31T09:57:28+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -484,12 +488,12 @@
    "posted_history": [
     "2026-07-31T16:59:17+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Manager, Technical Account Management (Enterprise)",
    "url": "https://instacart.careers/job/?gh_jid=8077677"
   },
   "8077679": {
-   "closed_at": "2026-10-31T09:57:28+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -499,7 +503,7 @@
    "posted_history": [
     "2026-07-22T19:25:35+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Manager, Technical Account Management (Enterprise)",
    "url": "https://instacart.careers/job/?gh_jid=8077679"
   },
@@ -1179,7 +1183,7 @@
    "url": "https://instacart.careers/job/?gh_jid=8212434"
   },
   "8214732": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1989,7 +1993,7 @@
    "url": "https://instacart.careers/job/?gh_jid=8282591"
   },
   "8282600": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2004,7 +2008,7 @@
    "url": "https://instacart.careers/job/?gh_jid=8282600"
   },
   "8282656": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2499,7 +2503,7 @@
    "url": "https://instacart.careers/job/?gh_jid=8373036"
   },
   "8374809": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-11T11:27:30+00:00",
@@ -2512,6 +2516,36 @@
    "reopened": 0,
    "title": "Principal Creative, Growth Production",
    "url": "https://instacart.careers/job/?gh_jid=8374809"
+  },
+  "8379400": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "senior it support specialist @ canada - remote (on, ab, bc, or ns only)",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-11-11T16:45:25+00:00",
+   "posted_history": [
+    "2026-11-11T16:45:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior IT Support Specialist",
+   "url": "https://instacart.careers/job/?gh_jid=8379400"
+  },
+  "8379682": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "senior software engineer catalog store @ canada - remote (on, ab, bc, or ns only)",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-11-11T17:31:15+00:00",
+   "posted_history": [
+    "2026-11-11T17:31:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Catalog Store",
+   "url": "https://instacart.careers/job/?gh_jid=8379682"
   }
  }
 }

@@ -95,6 +95,10 @@
   {
    "date": "2026-11-11",
    "open": 203
+  },
+  {
+   "date": "2026-11-12",
+   "open": 208
   }
  ],
  "jobs": {
@@ -538,14 +542,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "staff software engineer unified data store @ brazil",
+   "fp": "staff software engineer tech foundations @ brazil",
    "location": "Brazil",
    "posted_at": "2026-04-29T22:33:23+00:00",
    "posted_history": [
     "2026-04-29T22:33:23+00:00"
    ],
    "reopened": 0,
-   "title": "Staff Software Engineer, Unified Data Store",
+   "title": "Staff Software Engineer, Tech Foundations",
    "url": "https://careers.airbnb.com/positions/7867435?gh_jid=7867435"
   },
   "7916840": {
@@ -1659,7 +1663,7 @@
    "url": "https://careers.airbnb.com/positions/8176559?gh_jid=8176559"
   },
   "8178467": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1732,6 +1736,21 @@
    "reopened": 0,
    "title": "Product Manager, Community Support",
    "url": "https://careers.airbnb.com/positions/8189782?gh_jid=8189782"
+  },
+  "8194590": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "supervisor aircover @ gurugram, india",
+   "location": "Gurugram, India",
+   "posted_at": "2026-09-11T06:00:01+00:00",
+   "posted_history": [
+    "2026-09-11T06:00:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "Supervisor, Aircover",
+   "url": "https://careers.airbnb.com/positions/8194590?gh_jid=8194590"
   },
   "8196013": {
    "closed_at": null,
@@ -2379,7 +2398,7 @@
    "url": "https://careers.airbnb.com/positions/8259185?gh_jid=8259185"
   },
   "8259504": {
-   "closed_at": "2026-10-21T08:53:29+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2389,7 +2408,7 @@
    "posted_history": [
     "2026-10-06T19:57:58+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Engineering Manager, Payments",
    "url": "https://careers.airbnb.com/positions/8259504?gh_jid=8259504"
   },
@@ -2799,7 +2818,7 @@
    "url": "https://careers.airbnb.com/positions/8278753?gh_jid=8278753"
   },
   "8279065": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2814,7 +2833,7 @@
    "url": "https://careers.airbnb.com/positions/8279065?gh_jid=8279065"
   },
   "8279103": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2859,7 +2878,7 @@
    "url": "https://careers.airbnb.com/positions/8279422?gh_jid=8279422"
   },
   "8279606": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3369,7 +3388,7 @@
    "url": "https://careers.airbnb.com/positions/8303971?gh_jid=8303971"
   },
   "8304030": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -4104,7 +4123,7 @@
    "url": "https://careers.airbnb.com/positions/8347087?gh_jid=8347087"
   },
   "8348197": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -4269,7 +4288,7 @@
    "url": "https://careers.airbnb.com/positions/8351488?gh_jid=8351488"
   },
   "8354382": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-05T11:30:12+00:00",
@@ -4282,6 +4301,36 @@
    "reopened": 0,
    "title": "Senior Manager, Business Technology Enablement",
    "url": "https://careers.airbnb.com/positions/8354382?gh_jid=8354382"
+  },
+  "8355483": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "lead program manager design @ united states",
+   "location": "United States ",
+   "posted_at": "2026-11-11T17:01:30+00:00",
+   "posted_history": [
+    "2026-11-11T17:01:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Lead Program Manager, Design",
+   "url": "https://careers.airbnb.com/positions/8355483?gh_jid=8355483"
+  },
+  "8356141": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "senior program manager design @ united states",
+   "location": "United States",
+   "posted_at": "2026-11-11T17:01:53+00:00",
+   "posted_history": [
+    "2026-11-11T17:01:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Program Manager, Design",
+   "url": "https://careers.airbnb.com/positions/8356141?gh_jid=8356141"
   },
   "8356427": {
    "closed_at": null,
@@ -4418,6 +4467,21 @@
    "title": "Senior Account Executive, Hotels - France & Netherlands (12M FTC)",
    "url": "https://careers.airbnb.com/positions/8367963?gh_jid=8367963"
   },
+  "8372095": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "sales development intern services italy @ milan, italy",
+   "location": "Milan, Italy",
+   "posted_at": "2026-11-11T15:34:15+00:00",
+   "posted_history": [
+    "2026-11-11T15:34:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales Development Intern, Services, Italy",
+   "url": "https://careers.airbnb.com/positions/8372095?gh_jid=8372095"
+  },
   "8372149": {
    "closed_at": null,
    "department": "",
@@ -4433,19 +4497,49 @@
    "title": "Connectivity Partner Specialist",
    "url": "https://careers.airbnb.com/positions/8372149?gh_jid=8372149"
   },
+  "8372325": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "sales development intern services france @ paris, france",
+   "location": "Paris, France",
+   "posted_at": "2026-11-11T15:34:18+00:00",
+   "posted_history": [
+    "2026-11-11T15:34:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales Development Intern, Services, France",
+   "url": "https://careers.airbnb.com/positions/8372325?gh_jid=8372325"
+  },
+  "8372424": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "sales development intern services spain @ barcelona, spain",
+   "location": "Barcelona, Spain",
+   "posted_at": "2026-11-11T15:34:12+00:00",
+   "posted_history": [
+    "2026-11-11T15:34:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales Development Intern, Services, Spain",
+   "url": "https://careers.airbnb.com/positions/8372424?gh_jid=8372424"
+  },
   "8374537": {
    "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-11T11:27:30+00:00",
-   "fp": "senior security engineer threat detection response @ london, united kingdom",
+   "fp": "senior security engineer threat detection incident response @ london, united kingdom",
    "location": "London, United Kingdom",
    "posted_at": "2026-11-10T21:34:40+00:00",
    "posted_history": [
     "2026-11-10T21:34:40+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Security Engineer, Threat Detection & Response",
+   "title": "Senior Security Engineer, Threat Detection & Incident Response",
    "url": "https://careers.airbnb.com/positions/8374537?gh_jid=8374537"
   },
   "8374941": {
@@ -4462,6 +4556,51 @@
    "reopened": 0,
    "title": "Engineering Manager, Marketing Technology",
    "url": "https://careers.airbnb.com/positions/8374941?gh_jid=8374941"
+  },
+  "8376005": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "communications intern france @ paris, france",
+   "location": "Paris, France",
+   "posted_at": "2026-11-11T15:34:30+00:00",
+   "posted_history": [
+    "2026-11-11T15:34:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Communications Intern, France",
+   "url": "https://careers.airbnb.com/positions/8376005?gh_jid=8376005"
+  },
+  "8376087": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "market associate intern experiences @ paris, france",
+   "location": "Paris, France",
+   "posted_at": "2026-11-11T15:34:23+00:00",
+   "posted_history": [
+    "2026-11-11T15:34:23+00:00"
+   ],
+   "reopened": 0,
+   "title": "Market Associate Intern, Experiences",
+   "url": "https://careers.airbnb.com/positions/8376087?gh_jid=8376087"
+  },
+  "8376124": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "marketing crm intern experiences @ paris, france",
+   "location": "Paris, France",
+   "posted_at": "2026-11-11T15:34:20+00:00",
+   "posted_history": [
+    "2026-11-11T15:34:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Marketing & CRM Intern, Experiences",
+   "url": "https://careers.airbnb.com/positions/8376124?gh_jid=8376124"
   },
   "8377478": {
    "closed_at": null,
@@ -4492,6 +4631,36 @@
    "reopened": 0,
    "title": "Senior Recruiter, Commercial (12-Month Contract)",
    "url": "https://careers.airbnb.com/positions/8377745?gh_jid=8377745"
+  },
+  "8378197": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "manager quality row @ ireland",
+   "location": "Ireland",
+   "posted_at": "2026-11-11T14:54:52+00:00",
+   "posted_history": [
+    "2026-11-11T14:54:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Quality ROW",
+   "url": "https://careers.airbnb.com/positions/8378197?gh_jid=8378197"
+  },
+  "8380007": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "advanced analytics intern @ united states",
+   "location": "United States",
+   "posted_at": "2026-11-11T21:35:28+00:00",
+   "posted_history": [
+    "2026-11-11T21:35:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Advanced Analytics Intern",
+   "url": "https://careers.airbnb.com/positions/8380007?gh_jid=8380007"
   }
  }
 }

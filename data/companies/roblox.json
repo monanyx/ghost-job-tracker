@@ -95,6 +95,10 @@
   {
    "date": "2026-11-11",
    "open": 276
+  },
+  {
+   "date": "2026-11-12",
+   "open": 277
   }
  ],
  "jobs": {
@@ -294,7 +298,7 @@
    "url": "https://careers.roblox.com/jobs/7545202?gh_jid=7545202"
   },
   "7545955": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3024,7 +3028,7 @@
    "url": "https://careers.roblox.com/jobs/8187226?gh_jid=8187226"
   },
   "8187377": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3568,14 +3572,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-05T11:30:12+00:00",
-   "fp": "principal software engineer build platform @ san mateo, ca, united states",
+   "fp": "principal ai infrastructure engineer build platform @ san mateo, ca, united states",
    "location": "San Mateo, CA, United States",
    "posted_at": "2026-11-04T18:41:07+00:00",
    "posted_history": [
     "2026-11-04T18:41:07+00:00"
    ],
    "reopened": 0,
-   "title": "Principal Software Engineer, Build Platform",
+   "title": "Principal AI Infrastructure Engineer, Build Platform",
    "url": "https://careers.roblox.com/jobs/8221568?gh_jid=8221568"
   },
   "8221890": {
@@ -3729,7 +3733,7 @@
    "url": "https://careers.roblox.com/jobs/8227830?gh_jid=8227830"
   },
   "8229705": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4733,6 +4737,21 @@
    "title": "Critical Harms Investigations & Incident Management Specialist",
    "url": "https://careers.roblox.com/jobs/8303922?gh_jid=8303922"
   },
+  "8303926": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "senior data scientist marketplace economics @ san mateo, ca, united states",
+   "location": "San Mateo, CA, United States",
+   "posted_at": "2026-11-12T00:47:48+00:00",
+   "posted_history": [
+    "2026-11-12T00:47:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Data Scientist, Marketplace Economics",
+   "url": "https://careers.roblox.com/jobs/8303926?gh_jid=8303926"
+  },
   "8304210": {
    "closed_at": null,
    "department": "",
@@ -5004,7 +5023,7 @@
    "url": "https://careers.roblox.com/jobs/8335158?gh_jid=8335158"
   },
   "8335465": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-06T11:30:42+00:00",
@@ -5077,6 +5096,21 @@
    "reopened": 0,
    "title": "Lead, Support Operations Excellence",
    "url": "https://careers.roblox.com/jobs/8346273?gh_jid=8346273"
+  },
+  "8346849": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "senior software engineer engine infrastructure @ san mateo, ca, united states",
+   "location": "San Mateo, CA, United States",
+   "posted_at": "2026-11-11T23:17:10+00:00",
+   "posted_history": [
+    "2026-11-11T23:17:10+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Engine Infrastructure",
+   "url": "https://careers.roblox.com/jobs/8346849?gh_jid=8346849"
   },
   "8348625": {
    "closed_at": null,
@@ -5183,6 +5217,21 @@
    "title": "Manager, Product Support Operations",
    "url": "https://careers.roblox.com/jobs/8351202?gh_jid=8351202"
   },
+  "8351343": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "principal data scientist economy recommendations @ san mateo, ca, united states",
+   "location": "San Mateo, CA, United States",
+   "posted_at": "2026-11-12T00:47:31+00:00",
+   "posted_history": [
+    "2026-11-12T00:47:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Data Scientist, Economy Recommendations",
+   "url": "https://careers.roblox.com/jobs/8351343?gh_jid=8351343"
+  },
   "8356764": {
    "closed_at": null,
    "department": "",
@@ -5197,6 +5246,36 @@
    "reopened": 0,
    "title": "Software Engineer, ROS Open Platform & AI Enablement",
    "url": "https://careers.roblox.com/jobs/8356764?gh_jid=8356764"
+  },
+  "8357655": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "account manager @ san mateo, ca, united states",
+   "location": "San Mateo, CA, United States",
+   "posted_at": "2026-11-11T22:03:28+00:00",
+   "posted_history": [
+    "2026-11-11T22:03:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Manager",
+   "url": "https://careers.roblox.com/jobs/8357655?gh_jid=8357655"
+  },
+  "8357657": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "sales solution specialist @ san mateo, ca, united states",
+   "location": "San Mateo, CA, United States",
+   "posted_at": "2026-11-11T21:25:37+00:00",
+   "posted_history": [
+    "2026-11-11T21:25:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales Solution Specialist",
+   "url": "https://careers.roblox.com/jobs/8357657?gh_jid=8357657"
   },
   "8357783": {
    "closed_at": null,

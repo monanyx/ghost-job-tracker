@@ -95,6 +95,10 @@
   {
    "date": "2026-11-11",
    "open": 380
+  },
+  {
+   "date": "2026-11-12",
+   "open": 374
   }
  ],
  "jobs": {
@@ -118,14 +122,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-28T10:01:46+00:00",
-   "fp": "sales development representative @ dublin, ireland",
+   "fp": "sales development representative benelux @ dublin, ireland",
    "location": "Dublin, Ireland",
    "posted_at": "2025-02-13T08:41:47+00:00",
    "posted_history": [
     "2025-02-13T08:41:47+00:00"
    ],
    "reopened": 0,
-   "title": "Sales Development Representative",
+   "title": "Sales Development Representative - Benelux",
    "url": "https://www.okta.com/company/careers/opportunity/6629089?gh_jid=6629089"
   },
   "6671260": {
@@ -759,7 +763,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/7685798?gh_jid=7685798"
   },
   "7703326": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -984,7 +988,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/7821050?gh_jid=7821050"
   },
   "7821054": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1138,8 +1142,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-11T11:27:30+00:00",
-   "fp": "senior regional alliance partnership manager @ bengaluru, india",
-   "location": "Bengaluru, India",
+   "fp": "senior regional alliance partnership manager @ mumbai, india",
+   "location": "Mumbai, India",
    "posted_at": "2026-05-06T12:02:07+00:00",
    "posted_history": [
     "2026-05-06T12:02:07+00:00"
@@ -1764,7 +1768,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8041857?gh_jid=8041857"
   },
   "8045905": {
-   "closed_at": "2026-10-28T10:01:46+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
@@ -1774,7 +1778,7 @@
    "posted_history": [
     "2026-07-08T14:23:17+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Principal Software Engineer in Test",
    "url": "https://www.okta.com/company/careers/opportunity/8045905?gh_jid=8045905"
   },
@@ -2259,7 +2263,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8088417?gh_jid=8088417"
   },
   "8088491": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3264,7 +3268,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8160475?gh_jid=8160475"
   },
   "8161278": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
@@ -3294,7 +3298,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8162877?gh_jid=8162877"
   },
   "8164066": {
-   "closed_at": "2026-10-28T10:01:46+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
@@ -3304,7 +3308,7 @@
    "posted_history": [
     "2026-08-28T12:15:08+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Product Manager, Product Platform",
    "url": "https://www.okta.com/company/careers/opportunity/8164066?gh_jid=8164066"
   },
@@ -4224,7 +4228,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8213721?gh_jid=8213721"
   },
   "8213755": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4584,7 +4588,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8236508?gh_jid=8236508"
   },
   "8236528": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5708,6 +5712,21 @@
    "title": "Senior Software Engineer",
    "url": "https://www.okta.com/company/careers/opportunity/8263823?gh_jid=8263823"
   },
+  "8263825": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "staff software engineer @ bengaluru, india",
+   "location": "Bengaluru, India",
+   "posted_at": "2026-11-12T04:57:37+00:00",
+   "posted_history": [
+    "2026-11-12T04:57:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer",
+   "url": "https://www.okta.com/company/careers/opportunity/8263825?gh_jid=8263825"
+  },
   "8263827": {
    "closed_at": "2026-11-04T11:35:04+00:00",
    "department": "",
@@ -6804,7 +6823,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8299852?gh_jid=8299852"
   },
   "8299856": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -6909,7 +6928,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8303054?gh_jid=8303054"
   },
   "8303680": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-28T10:01:46+00:00",
@@ -7014,7 +7033,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8304868?gh_jid=8304868"
   },
   "8305245": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -7629,7 +7648,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8336694?gh_jid=8336694"
   },
   "8336707": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -7972,6 +7991,21 @@
    "reopened": 0,
    "title": "Staff Software Engineer, Integration Network (OIN)",
    "url": "https://www.okta.com/company/careers/opportunity/8356592?gh_jid=8356592"
+  },
+  "8358096": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "staff software engineer backend identity threat protection @ bengaluru, india",
+   "location": "Bengaluru, India",
+   "posted_at": "2026-11-12T06:07:09+00:00",
+   "posted_history": [
+    "2026-11-12T06:07:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer - Backend, Identity Threat Protection",
+   "url": "https://www.okta.com/company/careers/opportunity/8358096?gh_jid=8358096"
   },
   "8358353": {
    "closed_at": null,

@@ -95,6 +95,10 @@
   {
    "date": "2026-11-11",
    "open": 107
+  },
+  {
+   "date": "2026-11-12",
+   "open": 107
   }
  ],
  "jobs": {
@@ -789,7 +793,7 @@
    "url": "https://www.asana.com/jobs/apply/8044815?gh_jid=8044815"
   },
   "8054355": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1119,7 +1123,7 @@
    "url": "https://www.asana.com/jobs/apply/8164553?gh_jid=8164553"
   },
   "8165185": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2353,15 +2357,30 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-06T11:30:42+00:00",
-   "fp": "senior security risk engineer @ vancouver, bc",
+   "fp": "security risk engineer @ vancouver, bc",
    "location": "Vancouver, BC",
    "posted_at": "2026-11-05T15:52:19+00:00",
    "posted_history": [
     "2026-11-05T15:52:19+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Security Risk Engineer",
+   "title": "Security Risk Engineer",
    "url": "https://www.asana.com/jobs/apply/8355820?gh_jid=8355820"
+  },
+  "8356878": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "customer marketing advocacy manager @ chicago",
+   "location": "Chicago",
+   "posted_at": "2026-11-11T15:38:19+00:00",
+   "posted_history": [
+    "2026-11-11T15:38:19+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Marketing & Advocacy Manager",
+   "url": "https://www.asana.com/jobs/apply/8356878?gh_jid=8356878"
   },
   "8357119": {
    "closed_at": null,
@@ -2377,6 +2396,21 @@
    "reopened": 0,
    "title": "Workplace Lead",
    "url": "https://www.asana.com/jobs/apply/8357119?gh_jid=8357119"
+  },
+  "8379094": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "customer marketing advocacy manager @ vancouver, bc",
+   "location": "Vancouver, BC",
+   "posted_at": "2026-11-11T15:38:17+00:00",
+   "posted_history": [
+    "2026-11-11T15:38:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Marketing & Advocacy Manager",
+   "url": "https://www.asana.com/jobs/apply/8379094?gh_jid=8379094"
   }
  }
 }

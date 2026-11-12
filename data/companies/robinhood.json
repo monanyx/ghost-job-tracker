@@ -95,6 +95,10 @@
   {
    "date": "2026-11-11",
    "open": 155
+  },
+  {
+   "date": "2026-11-12",
+   "open": 155
   }
  ],
  "jobs": {
@@ -1884,7 +1888,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8211219?t=gh_src=&gh_jid=8211219"
   },
   "8211226": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2608,14 +2612,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-11T11:27:30+00:00",
-   "fp": "group creative director @ menlo park, ca; new york, ny",
+   "fp": "creative director @ menlo park, ca; new york, ny",
    "location": "Menlo Park, CA; New York, NY",
    "posted_at": "2026-11-10T22:31:45+00:00",
    "posted_history": [
     "2026-11-10T22:31:45+00:00"
    ],
    "reopened": 0,
-   "title": "Group Creative Director",
+   "title": "Creative Director",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8265130?t=gh_src=&gh_jid=8265130"
   },
   "8265728": {
@@ -2664,7 +2668,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8266107?t=gh_src=&gh_jid=8266107"
   },
   "8268261": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3263,6 +3267,21 @@
    "title": "Customer Experience Associate, Prediction Markets",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8356278?t=gh_src=&gh_jid=8356278"
   },
+  "8356383": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "director ai compliance @ menlo park, ca; new york, ny",
+   "location": "Menlo Park, CA; New York, NY",
+   "posted_at": "2026-11-11T22:30:06+00:00",
+   "posted_history": [
+    "2026-11-11T22:30:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "Director, AI Compliance",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8356383?t=gh_src=&gh_jid=8356383"
+  },
   "8356970": {
    "closed_at": null,
    "department": "",
@@ -3337,6 +3356,21 @@
    "reopened": 0,
    "title": "Senior Technical Recruiter, Data",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8368340?t=gh_src=&gh_jid=8368340"
+  },
+  "8374447": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "staff martech manager @ menlo park, ca; new york, ny",
+   "location": "Menlo Park, CA; New York, NY",
+   "posted_at": "2026-11-11T14:17:37+00:00",
+   "posted_history": [
+    "2026-11-11T14:17:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff MarTech Manager",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8374447?t=gh_src=&gh_jid=8374447"
   }
  }
 }

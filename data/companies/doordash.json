@@ -95,6 +95,10 @@
   {
    "date": "2026-11-11",
    "open": 442
+  },
+  {
+   "date": "2026-11-12",
+   "open": 436
   }
  ],
  "jobs": {
@@ -489,7 +493,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/5834559"
   },
   "5941044": {
-   "closed_at": "2026-11-10T11:47:05+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -499,7 +503,7 @@
    "posted_history": [
     "2024-05-01T14:52:51+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Shift Lead - South Marketview Heights",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/5941044"
   },
@@ -1193,6 +1197,21 @@
    "title": "DashMart Team Member - Morrow",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7245979"
   },
+  "7248556": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "shift lead underwood hills @ atlanta, ga",
+   "location": "Atlanta, GA",
+   "posted_at": "2025-09-12T16:35:43+00:00",
+   "posted_history": [
+    "2025-09-12T16:35:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Shift Lead - Underwood Hills",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7248556"
+  },
   "7272947": {
    "closed_at": null,
    "department": "",
@@ -1583,6 +1602,21 @@
    "title": "Account Manager, CPG",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7592588"
   },
+  "7597425": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "merchant sentiment specialist @ tempe, az",
+   "location": "Tempe, AZ",
+   "posted_at": "2026-02-08T15:57:33+00:00",
+   "posted_history": [
+    "2026-02-08T15:57:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Merchant Sentiment Specialist",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7597425"
+  },
   "7611520": {
    "closed_at": null,
    "department": "",
@@ -1884,7 +1918,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7812245"
   },
   "7812825": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2064,7 +2098,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7859504"
   },
   "7859605": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2544,7 +2578,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7990832"
   },
   "7990850": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4854,7 +4888,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8189143"
   },
   "8189554": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5394,7 +5428,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8207905"
   },
   "8207993": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5619,7 +5653,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8220213"
   },
   "8220560": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5964,7 +5998,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8236946"
   },
   "8237299": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6354,7 +6388,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8256078"
   },
   "8256994": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6624,7 +6658,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8262183"
   },
   "8262782": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7033,14 +7067,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "shift lead reno nv @ reno, nv",
+   "fp": "shift lead dashmart reno @ reno, nv",
    "location": "Reno, NV",
    "posted_at": "2026-10-13T19:37:37+00:00",
    "posted_history": [
     "2026-10-13T19:37:37+00:00"
    ],
    "reopened": 0,
-   "title": "Shift Lead - Reno, NV",
+   "title": "Shift Lead, DashMart - Reno",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8279526"
   },
   "8279555": {
@@ -7764,7 +7798,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8319010"
   },
   "8319022": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
@@ -8468,6 +8502,21 @@
    "title": "Enterprise Account Executive - CPG Ads",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8356604"
   },
+  "8356616": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "sdr cpg ad sales @ atlanta, ga; dallas, tx; phoenix, az.",
+   "location": "Atlanta, GA; Dallas, TX; Phoenix, AZ.",
+   "posted_at": "2026-11-05T21:07:49+00:00",
+   "posted_history": [
+    "2026-11-05T21:07:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "SDR, CPG Ad Sales",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8356616"
+  },
   "8356727": {
    "closed_at": null,
    "department": "",
@@ -8555,7 +8604,7 @@
     "2026-11-06T17:07:35+00:00"
    ],
    "reopened": 0,
-   "title": "Shift Lead, Dashmart - Wick Field",
+   "title": "Shift Lead, DashMart - Wick Field",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8359503"
   },
   "8359599": {
@@ -8578,8 +8627,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",
-   "fp": "technical revenue accounting manager @ chicago, il",
-   "location": "Chicago, IL",
+   "fp": "technical revenue accounting manager @ united states-remote",
+   "location": "United States-Remote",
    "posted_at": "2026-11-06T20:23:37+00:00",
    "posted_history": [
     "2026-11-06T20:23:37+00:00"
@@ -8653,14 +8702,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
-   "fp": "assistant site manager dashmart @ charlotte, nc",
+   "fp": "assistant site manager dashmart charlotte nc @ charlotte, nc",
    "location": "Charlotte, NC",
    "posted_at": "2026-11-09T18:19:05+00:00",
    "posted_history": [
     "2026-11-09T18:19:05+00:00"
    ],
    "reopened": 0,
-   "title": "Assistant Site Manager, DashMart - [Charlotte, NC]",
+   "title": "Assistant Site Manager, DashMart - Charlotte, NC",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8360390"
   },
   "8360552": {
@@ -8679,7 +8728,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8360552"
   },
   "8362725": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-09T12:08:42+00:00",
@@ -8773,8 +8822,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-11T11:27:30+00:00",
-   "fp": "director network strategy planning @ chicago, il; columbus, ny; atlanta, d.c.",
-   "location": "Chicago, IL; Columbus, NY; Atlanta, D.C.",
+   "fp": "director network strategy planning @ chicago, il; columbus, oh; atlanta, ga",
+   "location": "Chicago, IL; Columbus, OH; Atlanta, GA",
    "posted_at": "2026-11-10T20:50:44+00:00",
    "posted_history": [
     "2026-11-10T20:50:44+00:00"
@@ -8842,6 +8891,21 @@
    "reopened": 0,
    "title": "Senior Associate, Operations Safety",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8375008"
+  },
+  "8381364": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "autonomy simulation engineer @ oakland, ca",
+   "location": "Oakland, CA",
+   "posted_at": "2026-11-11T21:28:44+00:00",
+   "posted_history": [
+    "2026-11-11T21:28:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Autonomy Simulation Engineer",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8381364"
   }
  }
 }

@@ -95,6 +95,10 @@
   {
    "date": "2026-11-11",
    "open": 138
+  },
+  {
+   "date": "2026-11-12",
+   "open": 136
   }
  ],
  "jobs": {
@@ -550,7 +554,7 @@
    "url": "https://jobs.ashbyhq.com/perplexity/3077e11d-8008-4980-a901-84d8b7993bc9"
   },
   "3163a2c9-f9d3-4596-bf88-0c55298bd027": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -565,7 +569,7 @@
    "url": "https://jobs.ashbyhq.com/Perplexity/3163a2c9-f9d3-4596-bf88-0c55298bd027"
   },
   "31dfcb60-a0df-4983-b3a4-d653cdc0aa8f": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1080,7 +1084,7 @@
    "url": "https://jobs.ashbyhq.com/perplexity/656b4b2e-5670-411c-9091-f355983a92a0"
   },
   "6754c9cc-89c2-4d7f-b966-66de6e8cac4b": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "Customer Success & Support",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2417,6 +2421,21 @@
    "reopened": 0,
    "title": "Strategic Finance Lead - GTM",
    "url": "https://jobs.ashbyhq.com/Perplexity/f3c7ce0d-026e-4b5d-b22d-8b6041746c3d"
+  },
+  "f4312e0a-7d39-4af9-9a7d-b0fe041a228a": {
+   "closed_at": null,
+   "department": "Product Management",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "product manager legal @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-11-12T03:21:16+00:00",
+   "posted_history": [
+    "2026-11-12T03:21:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Manager, Legal",
+   "url": "https://jobs.ashbyhq.com/Perplexity/f4312e0a-7d39-4af9-9a7d-b0fe041a228a"
   },
   "f45ba174-7e99-4743-9d19-6e4d3e196458": {
    "closed_at": null,

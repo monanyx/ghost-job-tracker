@@ -95,6 +95,10 @@
   {
    "date": "2026-11-11",
    "open": 125
+  },
+  {
+   "date": "2026-11-12",
+   "open": 127
   }
  ],
  "jobs": {
@@ -309,7 +313,7 @@
    "url": "https://jobs.lever.co/pigment/1b87e2f6-31f0-467e-9f90-ab97dfe503f5"
   },
   "1c7627f0-2b35-454c-a5db-39296884ee9b": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -682,6 +686,21 @@
    "reopened": 0,
    "title": "Customer Success Manager, Central Europe (Frankfurt)",
    "url": "https://jobs.lever.co/pigment/449c4cd0-719e-48b7-80c6-8cea349b6993"
+  },
+  "47d2957b-b4a4-49b7-9332-f55dc1b80028": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "strategic account executive uk i @ london",
+   "location": "London",
+   "posted_at": "2026-11-11T16:49:31+00:00",
+   "posted_history": [
+    "2026-11-11T16:49:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Account Executive - UK&I",
+   "url": "https://jobs.lever.co/pigment/47d2957b-b4a4-49b7-9332-f55dc1b80028"
   },
   "4ace4f88-26af-45a1-bb70-d022a6cfc4fe": {
    "closed_at": null,
@@ -1358,6 +1377,21 @@
    "title": "Senior Sales Operations Manager, Americas",
    "url": "https://jobs.lever.co/pigment/92918808-126e-425d-b4a7-023a9525afd2"
   },
+  "92b63ea5-3295-4f66-b444-55f9c6647eb8": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "mid market account executive dach @ frankfurt",
+   "location": "Frankfurt",
+   "posted_at": "2026-01-09T15:02:10+00:00",
+   "posted_history": [
+    "2026-01-09T15:02:10+00:00"
+   ],
+   "reopened": 0,
+   "title": "Mid-Market Account Executive (x/f/m) - DACH",
+   "url": "https://jobs.lever.co/pigment/92b63ea5-3295-4f66-b444-55f9c6647eb8"
+  },
   "933ba637-60ca-43aa-9c4a-f537be227f19": {
    "closed_at": null,
    "department": "HR",
@@ -2002,6 +2036,21 @@
    "reopened": 0,
    "title": "Senior Frontend Engineer (UK)",
    "url": "https://jobs.lever.co/pigment/cb04a184-0756-461c-b4b3-58f779a82b09"
+  },
+  "cca74c7d-5668-42fe-a120-9d55ba0281eb": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "mid market account executive uk i @ london",
+   "location": "London",
+   "posted_at": "2025-10-20T14:53:27+00:00",
+   "posted_history": [
+    "2025-10-20T14:53:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Mid-Market Account Executive - UK&I",
+   "url": "https://jobs.lever.co/pigment/cca74c7d-5668-42fe-a120-9d55ba0281eb"
   },
   "cfcadfcf-edde-4082-9ce3-62c310fc8ea2": {
    "closed_at": "2026-10-22T08:55:54+00:00",

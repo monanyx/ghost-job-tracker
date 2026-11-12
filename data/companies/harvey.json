@@ -95,6 +95,10 @@
   {
    "date": "2026-11-11",
    "open": 380
+  },
+  {
+   "date": "2026-11-12",
+   "open": 381
   }
  ],
  "jobs": {
@@ -210,9 +214,10 @@
    "first_seen": "2026-11-11T11:27:30+00:00",
    "fp": "enterprise customer success manager tokyo @ tokyo",
    "location": "Tokyo",
-   "posted_at": "2026-11-11T06:30:42+00:00",
+   "posted_at": "2026-11-12T06:30:24+00:00",
    "posted_history": [
-    "2026-11-11T06:30:42+00:00"
+    "2026-11-11T06:30:42+00:00",
+    "2026-11-12T06:30:24+00:00"
    ],
    "reopened": 0,
    "title": "Enterprise Customer Success Manager, Tokyo",
@@ -2124,6 +2129,21 @@
    "title": "Executive Recruiter",
    "url": "https://jobs.ashbyhq.com/harvey/48b4e3ff-c317-4279-b214-dfb025e6be12"
   },
+  "491934a4-50ce-4df0-971c-a9aa7b2c2deb": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "engineering manager agents sf @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-11-12T00:40:04+00:00",
+   "posted_history": [
+    "2026-11-12T00:40:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager, Agents — SF",
+   "url": "https://jobs.ashbyhq.com/harvey/491934a4-50ce-4df0-971c-a9aa7b2c2deb"
+  },
   "4a22c1e2-5550-415f-898d-da8d8914d1ee": {
    "closed_at": null,
    "department": "Go to Market",
@@ -2279,14 +2299,15 @@
    "department": "Go to Market",
    "evergreen": false,
    "first_seen": "2026-11-11T11:27:30+00:00",
-   "fp": "gtm enablement partner @ sydney",
+   "fp": "gtm enablement partner apac @ sydney",
    "location": "Sydney",
-   "posted_at": "2026-11-11T11:06:38+00:00",
+   "posted_at": "2026-11-12T02:42:59+00:00",
    "posted_history": [
-    "2026-11-11T11:06:38+00:00"
+    "2026-11-11T11:06:38+00:00",
+    "2026-11-12T02:42:59+00:00"
    ],
    "reopened": 0,
-   "title": "GTM Enablement Partner (APAC)",
+   "title": "GTM Enablement Partner, APAC",
    "url": "https://jobs.ashbyhq.com/harvey/4e960819-a08a-4d3e-821d-5bea9fb2f9fc"
   },
   "4ef44ab1-e402-4799-8d7c-e83f011b591b": {
@@ -3138,14 +3159,15 @@
    "department": "Go to Market",
    "evergreen": false,
    "first_seen": "2026-11-11T11:27:30+00:00",
-   "fp": "gtm enablement partner @ singapore",
+   "fp": "gtm enablement partner apac @ singapore",
    "location": "Singapore",
-   "posted_at": "2026-11-11T11:06:41+00:00",
+   "posted_at": "2026-11-12T02:42:44+00:00",
    "posted_history": [
-    "2026-11-11T11:06:41+00:00"
+    "2026-11-11T11:06:41+00:00",
+    "2026-11-12T02:42:44+00:00"
    ],
    "reopened": 0,
-   "title": "GTM Enablement Partner (APAC)",
+   "title": "GTM Enablement Partner, APAC",
    "url": "https://jobs.ashbyhq.com/harvey/6c31b819-c3aa-470b-85ec-3b4c399d2a2f"
   },
   "6c87b165-99ad-484e-b34b-1cf2ab0c92d5": {
@@ -4744,6 +4766,21 @@
    "reopened": 0,
    "title": "Corporate Business Development Manager, Product",
    "url": "https://jobs.ashbyhq.com/harvey/a3e67f81-3c8a-443d-80d0-9f405cd5a456"
+  },
+  "a4668463-24f1-4b58-85d0-ac6e9637ae97": {
+   "closed_at": null,
+   "department": "Go to Market",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "legal engineer madrid @ madrid",
+   "location": "Madrid",
+   "posted_at": "2026-11-12T10:23:37+00:00",
+   "posted_history": [
+    "2026-11-12T10:23:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Legal Engineer, Madrid",
+   "url": "https://jobs.ashbyhq.com/harvey/a4668463-24f1-4b58-85d0-ac6e9637ae97"
   },
   "a5d3cbcd-60e4-4420-b332-f936bb4bc46b": {
    "closed_at": null,
@@ -7057,7 +7094,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/f6a40913-3189-483a-b8d0-65024cc4e77a"
   },
   "f798c7cf-0923-4c03-a083-84f9f6a75622": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "Go to Market",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

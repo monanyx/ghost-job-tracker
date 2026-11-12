@@ -95,6 +95,10 @@
   {
    "date": "2026-11-11",
    "open": 176
+  },
+  {
+   "date": "2026-11-12",
+   "open": 176
   }
  ],
  "jobs": {
@@ -699,7 +703,7 @@
    "url": "https://jobs.ashbyhq.com/ramp/390f4cd0-e0e4-451c-ae28-e6b19861dda9"
   },
   "397d2098-59c4-4987-9ca9-ec019c37000e": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "Risk",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1058,6 +1062,21 @@
    "reopened": 0,
    "title": "Software Engineer, Backend, Credit",
    "url": "https://jobs.ashbyhq.com/ramp/5598f7b8-4ae2-4105-a2b4-2d0f55c54c40"
+  },
+  "55bd9ab4-8edc-4493-b577-4277ad2f9ae6": {
+   "closed_at": null,
+   "department": "Risk",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "risk operations specialist onboarding @ new york, ny (hq)",
+   "location": "New York, NY (HQ)",
+   "posted_at": "2026-11-12T01:19:57+00:00",
+   "posted_history": [
+    "2026-11-12T01:19:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "Risk Operations Specialist, Onboarding",
+   "url": "https://jobs.ashbyhq.com/ramp/55bd9ab4-8edc-4493-b577-4277ad2f9ae6"
   },
   "566c4ad0-03ea-4022-8f11-04f0d8969f97": {
    "closed_at": null,

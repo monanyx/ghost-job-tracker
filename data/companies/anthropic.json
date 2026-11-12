@@ -95,6 +95,10 @@
   {
    "date": "2026-11-11",
    "open": 678
+  },
+  {
+   "date": "2026-11-12",
+   "open": 673
   }
  ],
  "jobs": {
@@ -1389,7 +1393,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5101173008"
   },
   "5104756008": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2214,7 +2218,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5194670008"
   },
   "5195705008": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2574,7 +2578,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5218573008"
   },
   "5219967008": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2784,7 +2788,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5235692008"
   },
   "5237030008": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2889,7 +2893,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5245851008"
   },
   "5248895008": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5184,7 +5188,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390754008"
   },
   "5390765008": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5603,6 +5607,21 @@
    "title": "Reseller Operations Manager, Japan & Korea",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391199008"
   },
+  "5391203008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "partner account manager systems integrators @ tokyo, japan",
+   "location": "Tokyo, Japan",
+   "posted_at": "2026-11-12T01:20:11+00:00",
+   "posted_history": [
+    "2026-11-12T01:20:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Partner Account Manager, Systems Integrators",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391203008"
+  },
   "5391207008": {
    "closed_at": null,
    "department": "",
@@ -5694,7 +5713,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391289008"
   },
   "5391293008": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -9399,7 +9418,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5442048008"
   },
   "5442051008": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -10164,7 +10183,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5449831008"
   },
   "5449880008": {
-   "closed_at": "2026-11-07T10:41:11+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-05T11:30:12+00:00",
@@ -10174,7 +10193,7 @@
    "posted_history": [
     "2026-11-04T18:38:29+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Google Cloud GTM Partnerships Lead, EMEA",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5449880008"
   },
@@ -10629,7 +10648,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5454474008"
   },
   "5454518008": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -12817,6 +12836,36 @@
    "reopened": 0,
    "title": "Enterprise Account Executive",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5477774008"
+  },
+  "5479122008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "technical program manager external evaluators @ san francisco, ca | new york city, ny",
+   "location": "San Francisco, CA | New York City, NY",
+   "posted_at": "2026-11-12T09:13:46+00:00",
+   "posted_history": [
+    "2026-11-12T09:13:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Program Manager, External Evaluators",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5479122008"
+  },
+  "5479135008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "technical program manager pacing @ san francisco, ca | new york city, ny",
+   "location": "San Francisco, CA | New York City, NY",
+   "posted_at": "2026-11-12T09:14:23+00:00",
+   "posted_history": [
+    "2026-11-12T09:14:23+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Program Manager, Pacing",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5479135008"
   }
  }
 }

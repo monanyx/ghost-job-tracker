@@ -95,6 +95,10 @@
   {
    "date": "2026-11-11",
    "open": 142
+  },
+  {
+   "date": "2026-11-12",
+   "open": 141
   }
  ],
  "jobs": {
@@ -2379,7 +2383,7 @@
    "url": "https://boards.greenhouse.io/figma/jobs/6228774004?gh_jid=6228774004"
   },
   "6229275004": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",

@@ -95,6 +95,10 @@
   {
    "date": "2026-11-11",
    "open": 473
+  },
+  {
+   "date": "2026-11-12",
+   "open": 484
   }
  ],
  "jobs": {
@@ -729,7 +733,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/7572075?gh_jid=7572075"
   },
   "7579269": {
-   "closed_at": "2026-11-04T11:35:04+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -739,7 +743,7 @@
    "posted_history": [
     "2026-02-05T21:31:40+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Vulnerability Management Engineer",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/7579269?gh_jid=7579269"
   },
@@ -1044,7 +1048,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/7778747?gh_jid=7778747"
   },
   "7783835": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1903,14 +1907,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior data engineer @ in-office",
-   "location": "In-Office",
+   "fp": "data engineer @ hybrid",
+   "location": "Hybrid",
    "posted_at": "2026-07-14T14:54:05+00:00",
    "posted_history": [
     "2026-07-14T14:54:05+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Data Engineer",
+   "title": "Data Engineer",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8055118?gh_jid=8055118"
   },
   "8055320": {
@@ -2169,7 +2173,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8079544?gh_jid=8079544"
   },
   "8079931": {
-   "closed_at": "2026-10-30T10:28:19+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2179,7 +2183,7 @@
    "posted_history": [
     "2026-07-22T19:39:52+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Product Security Engineer",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8079931?gh_jid=8079931"
   },
@@ -2348,6 +2352,21 @@
    "title": "Software Engineer, Cloudflare Network Interconnect",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8088751?gh_jid=8088751"
   },
+  "8089031": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "systems engineer product platform tools @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-07-27T16:59:53+00:00",
+   "posted_history": [
+    "2026-07-27T16:59:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "Systems Engineer, Product Platform Tools",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8089031?gh_jid=8089031"
+  },
   "8089141": {
    "closed_at": null,
    "department": "",
@@ -2514,7 +2533,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8099671?gh_jid=8099671"
   },
   "8102768": {
-   "closed_at": "2026-10-30T10:28:19+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2524,7 +2543,7 @@
    "posted_history": [
     "2026-08-04T12:46:53+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Product Security Engineer",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8102768?gh_jid=8102768"
   },
@@ -5379,7 +5398,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8225546?gh_jid=8225546"
   },
   "8226000": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5739,7 +5758,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8239175?gh_jid=8239175"
   },
   "8239181": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -7299,7 +7318,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8304438?gh_jid=8304438"
   },
   "8304855": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -8109,7 +8128,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8332823?gh_jid=8332823"
   },
   "8332951": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-02T11:41:30+00:00",
@@ -8154,7 +8173,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8332958?gh_jid=8332958"
   },
   "8332959": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-02T11:41:30+00:00",
@@ -8302,6 +8321,21 @@
    "reopened": 0,
    "title": "Senior Systems Engineer, SDKs, Terraform, & Code Generation",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8338018?gh_jid=8338018"
+  },
+  "8344893": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "data center architect @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-11T16:42:01+00:00",
+   "posted_history": [
+    "2026-11-11T16:42:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "Data Center Architect",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8344893?gh_jid=8344893"
   },
   "8345213": {
    "closed_at": null,
@@ -8618,6 +8652,21 @@
    "title": "Senior Manager, APJC Outreach",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8357803?gh_jid=8357803"
   },
+  "8358480": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "senior territory account executive @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-11T13:25:21+00:00",
+   "posted_history": [
+    "2026-11-11T13:25:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Territory Account Executive",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8358480?gh_jid=8358480"
+  },
   "8358934": {
    "closed_at": null,
    "department": "",
@@ -8653,8 +8702,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
-   "fp": "technical support engineer @ in-office",
-   "location": "In-Office",
+   "fp": "technical support engineer @ hybrid",
+   "location": "Hybrid",
    "posted_at": "2026-11-10T08:44:32+00:00",
    "posted_history": [
     "2026-11-10T08:44:32+00:00"
@@ -8723,6 +8772,21 @@
    "title": "Software Engineer - Load Balancing",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8360609?gh_jid=8360609"
   },
+  "8365223": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "senior product manager flora @ hybrid; in-office",
+   "location": "Hybrid; In-Office",
+   "posted_at": "2026-11-12T09:37:19+00:00",
+   "posted_history": [
+    "2026-11-12T09:37:19+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Manager, Flora",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8365223?gh_jid=8365223"
+  },
   "8366762": {
    "closed_at": null,
    "department": "",
@@ -8743,14 +8807,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-11T11:27:30+00:00",
-   "fp": "linux engineer @ hybrid",
+   "fp": "senior linux engineer @ hybrid",
    "location": "Hybrid",
    "posted_at": "2026-11-10T20:48:01+00:00",
    "posted_history": [
     "2026-11-10T20:48:01+00:00"
    ],
    "reopened": 0,
-   "title": "Linux Engineer",
+   "title": "Senior Linux Engineer",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8368421?gh_jid=8368421"
   },
   "8369401": {
@@ -8767,6 +8831,156 @@
    "reopened": 0,
    "title": "Data Center Operations Engineer",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8369401?gh_jid=8369401"
+  },
+  "8372322": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "senior territory account executive grand rapids mi @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-11T15:00:02+00:00",
+   "posted_history": [
+    "2026-11-11T15:00:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Territory Account Executive- Grand Rapids, MI",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8372322?gh_jid=8372322"
+  },
+  "8372428": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "senior named account executive san francisco @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-11T15:00:28+00:00",
+   "posted_history": [
+    "2026-11-11T15:00:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Named Account Executive, San Francisco",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8372428?gh_jid=8372428"
+  },
+  "8373853": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "senior territory account executive @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-11T15:01:16+00:00",
+   "posted_history": [
+    "2026-11-11T15:01:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Territory Account Executive (Los Angeles)",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8373853?gh_jid=8373853"
+  },
+  "8373905": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "senior territory account executive chicago @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-11T15:02:09+00:00",
+   "posted_history": [
+    "2026-11-11T15:02:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Territory Account Executive- Chicago",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8373905?gh_jid=8373905"
+  },
+  "8373948": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "senior named account executive @ distributed",
+   "location": "Distributed",
+   "posted_at": "2026-11-11T15:03:34+00:00",
+   "posted_history": [
+    "2026-11-11T15:03:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Named Account Executive (Nebraska/Dakota's)",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8373948?gh_jid=8373948"
+  },
+  "8373969": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "senior territory account executive @ distributed",
+   "location": "Distributed",
+   "posted_at": "2026-11-11T15:03:52+00:00",
+   "posted_history": [
+    "2026-11-11T15:03:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Territory Account Executive (Kansas City)",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8373969?gh_jid=8373969"
+  },
+  "8374274": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "principal growth marketing manager @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-11T23:21:26+00:00",
+   "posted_history": [
+    "2026-11-11T23:21:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Growth Marketing Manager",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8374274?gh_jid=8374274"
+  },
+  "8378849": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "named account executive thailand @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-12T05:57:40+00:00",
+   "posted_history": [
+    "2026-11-12T05:57:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Named Account Executive, Thailand",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8378849?gh_jid=8378849"
+  },
+  "8378851": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "enterprise account executive thailand @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-12T05:58:21+00:00",
+   "posted_history": [
+    "2026-11-12T05:58:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Account Executive, Thailand",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8378851?gh_jid=8378851"
+  },
+  "8378916": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "territory account executive vietnam @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-11T14:54:59+00:00",
+   "posted_history": [
+    "2026-11-11T14:54:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Territory Account Executive, Vietnam",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8378916?gh_jid=8378916"
   }
  }
 }

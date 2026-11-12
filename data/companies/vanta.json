@@ -95,6 +95,10 @@
   {
    "date": "2026-11-11",
    "open": 82
+  },
+  {
+   "date": "2026-11-12",
+   "open": 80
   }
  ],
  "jobs": {
@@ -504,7 +508,7 @@
    "url": "https://jobs.ashbyhq.com/vanta/2e68c5e8-5de2-4428-bad0-ddcf518399c4"
   },
   "2f2ad814-2437-46bc-8829-9413f1840db0": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "Security",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -760,7 +764,7 @@
    "url": "https://jobs.ashbyhq.com/vanta/581791d7-c63d-45fe-b6a7-f2d8f6532af7"
   },
   "62945aae-55b0-4598-977a-b2dd00ec9081": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "Software Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

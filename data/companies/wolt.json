@@ -95,6 +95,10 @@
   {
    "date": "2026-11-11",
    "open": 190
+  },
+  {
+   "date": "2026-11-12",
+   "open": 190
   }
  ],
  "jobs": {
@@ -187,7 +191,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/6693496"
   },
   "6693501": {
-   "closed_at": "2026-11-10T11:47:05+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -197,7 +201,7 @@
    "posted_history": [
     "2025-04-15T10:47:55+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Grocery Store Assistant",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/6693501"
   },
@@ -1160,7 +1164,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/7806247"
   },
   "7818482": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1790,7 +1794,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8074534"
   },
   "8078746": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3620,7 +3624,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8300558"
   },
   "8300574": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -3920,7 +3924,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8327841"
   },
   "8328694": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-28T10:01:46+00:00",
@@ -4119,8 +4123,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
-   "fp": "strategy business operations manager wolt drive @ helsinki, finland",
-   "location": "Helsinki, Finland",
+   "fp": "strategy business operations manager wolt drive @ helsinki, finland; london, united kingdom - deliveroo",
+   "location": "Helsinki, Finland; London, United Kingdom - Deliveroo",
    "posted_at": "2026-11-02T19:41:41+00:00",
    "posted_history": [
     "2026-11-02T19:41:41+00:00"
@@ -4509,8 +4513,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-11T11:27:30+00:00",
-   "fp": "strategy operations manager pricing affordability @ berlin, germany",
-   "location": "Berlin, Germany",
+   "fp": "strategy operations manager pricing affordability @ london, united kingdom; london, united kingdom - deliveroo",
+   "location": "London, United Kingdom; London, United Kingdom - Deliveroo",
    "posted_at": "2026-11-11T08:17:15+00:00",
    "posted_history": [
     "2026-11-11T08:17:15+00:00"
@@ -4533,6 +4537,51 @@
    "reopened": 0,
    "title": "Global Associate Manager, Food Safety",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8377852"
+  },
+  "8378568": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "merchant account development manager global ads @ copenhagen, denmark",
+   "location": "Copenhagen, Denmark",
+   "posted_at": "2026-11-12T10:04:52+00:00",
+   "posted_history": [
+    "2026-11-12T10:04:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "Merchant Account Development Manager - Global Ads",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8378568"
+  },
+  "8378862": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "support team lead @ tirana, albania",
+   "location": "Tirana, Albania",
+   "posted_at": "2026-11-11T15:28:26+00:00",
+   "posted_history": [
+    "2026-11-11T15:28:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Support Team Lead",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8378862"
+  },
+  "8378863": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "grocery associate youth workers @ trondheim, norway",
+   "location": "Trondheim, Norway",
+   "posted_at": "2026-11-11T15:34:19+00:00",
+   "posted_history": [
+    "2026-11-11T15:34:19+00:00"
+   ],
+   "reopened": 0,
+   "title": "Grocery Associate - Youth Workers",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8378863"
   }
  }
 }

@@ -95,6 +95,10 @@
   {
    "date": "2026-11-11",
    "open": 253
+  },
+  {
+   "date": "2026-11-12",
+   "open": 259
   }
  ],
  "jobs": {
@@ -1239,18 +1243,18 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8716179002"
   },
   "8716271002": {
-   "closed_at": "2026-10-23T08:50:35+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "staff backend engineer database change management @ bangalore, india",
+   "fp": "staff backend engineer analytics instrumentation @ bangalore, india",
    "location": "Bangalore, India",
    "posted_at": "2026-08-24T11:37:45+00:00",
    "posted_history": [
     "2026-08-24T11:37:45+00:00"
    ],
-   "reopened": 0,
-   "title": "Staff Backend Engineer - Database Change Management",
+   "reopened": 1,
+   "title": "Staff Backend Engineer - Analytics Instrumentation",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8716271002"
   },
   "8725225002": {
@@ -3353,6 +3357,36 @@
    "title": "Director, Global People Operations & Compliance",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8872500002"
   },
+  "8874151002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "smb account executive @ remote, france; remote, germany; remote, netherlands; remote, spain; remote, united kingdom",
+   "location": "Remote, France; Remote, Germany; Remote, Netherlands; Remote, Spain; Remote, United Kingdom",
+   "posted_at": "2026-10-08T08:27:29+00:00",
+   "posted_history": [
+    "2026-10-08T08:27:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "SMB Account Executive (Growth)",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8874151002"
+  },
+  "8874166002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "smb account executive @ remote, france; remote, germany; remote, netherlands; remote, spain; remote, united kingdom",
+   "location": "Remote, France; Remote, Germany; Remote, Netherlands; Remote, Spain; Remote, United Kingdom",
+   "posted_at": "2026-10-08T08:39:52+00:00",
+   "posted_history": [
+    "2026-10-08T08:39:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "SMB Account Executive (New Business)",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8874166002"
+  },
   "8875275002": {
    "closed_at": null,
    "department": "",
@@ -4543,8 +4577,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-06T11:30:42+00:00",
-   "fp": "commercial account executive netherlands @ remote",
-   "location": "Remote",
+   "fp": "commercial account executive netherlands @ remote, netherlands",
+   "location": "Remote, Netherlands",
    "posted_at": "2026-11-05T14:52:41+00:00",
    "posted_history": [
     "2026-11-05T14:52:41+00:00"
@@ -5107,6 +5141,51 @@
    "reopened": 0,
    "title": "Principal Revenue Strategist",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8935860002"
+  },
+  "8936091002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "senior professional services project manager paris @ remote, france",
+   "location": "Remote, France",
+   "posted_at": "2026-11-11T15:24:53+00:00",
+   "posted_history": [
+    "2026-11-11T15:24:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Professional Services Project Manager, Paris",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8936091002"
+  },
+  "8936142002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "strategic account executive spain @ remote, spain",
+   "location": "Remote, Spain",
+   "posted_at": "2026-11-11T15:14:21+00:00",
+   "posted_history": [
+    "2026-11-11T15:14:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Account Executive - Spain",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8936142002"
+  },
+  "8936156002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "strategic account executive spain @ remote, spain",
+   "location": "Remote, Spain",
+   "posted_at": "2026-11-11T15:20:53+00:00",
+   "posted_history": [
+    "2026-11-11T15:20:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Account Executive - Spain",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8936156002"
   },
   "8936287002": {
    "closed_at": null,

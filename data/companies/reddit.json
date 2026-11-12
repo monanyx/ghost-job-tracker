@@ -95,6 +95,10 @@
   {
    "date": "2026-11-11",
    "open": 157
+  },
+  {
+   "date": "2026-11-12",
+   "open": 153
   }
  ],
  "jobs": {
@@ -189,7 +193,7 @@
    "url": "https://job-boards.greenhouse.io/reddit/jobs/6960833"
   },
   "7131932": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -204,7 +208,7 @@
    "url": "https://job-boards.greenhouse.io/reddit/jobs/7131932"
   },
   "7131934": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -249,7 +253,7 @@
    "url": "https://job-boards.greenhouse.io/reddit/jobs/7445240"
   },
   "7511679": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -819,7 +823,7 @@
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8029120"
   },
   "8029641": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1119,7 +1123,7 @@
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8095476"
   },
   "8100220": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2413,8 +2417,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "technical solutions manager app ads @ chicago, il; new york city, ny",
-   "location": "Chicago, IL; New York City, NY",
+   "fp": "technical solutions manager app ads @ chicago, il; los angeles, ca; new york city, ny; san francisco, ca",
+   "location": "Chicago, IL; Los Angeles, CA; New York City, NY; San Francisco, CA",
    "posted_at": "2026-10-14T18:55:11+00:00",
    "posted_history": [
     "2026-10-14T18:55:11+00:00"
@@ -2514,7 +2518,7 @@
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8287466"
   },
   "8288965": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2803,14 +2807,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
-   "fp": "engineering manager product catalogs @ remote - united kingdom",
+   "fp": "engineering manager ads product catalogs @ remote - united kingdom",
    "location": "Remote - United Kingdom",
    "posted_at": "2026-10-28T10:20:38+00:00",
    "posted_history": [
     "2026-10-28T10:20:38+00:00"
    ],
    "reopened": 0,
-   "title": "Engineering Manager, Product Catalogs",
+   "title": "Engineering Manager, Ads Product Catalogs",
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8330450"
   },
   "8330469": {
@@ -2818,14 +2822,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
-   "fp": "engineering manager product catalogs @ remote - the netherlands",
+   "fp": "engineering manager ads product catalogs @ remote - the netherlands",
    "location": "Remote - The Netherlands",
    "posted_at": "2026-10-28T10:20:40+00:00",
    "posted_history": [
     "2026-10-28T10:20:40+00:00"
    ],
    "reopened": 0,
-   "title": "Engineering Manager, Product Catalogs",
+   "title": "Engineering Manager, Ads Product Catalogs",
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8330469"
   },
   "8331341": {
@@ -2963,6 +2967,21 @@
    "title": "Senior Software Engineer, GRC",
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8350749"
   },
+  "8350761": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "principal software engineer infrastructure @ remote - united states",
+   "location": "Remote - United States",
+   "posted_at": "2026-11-11T16:07:20+00:00",
+   "posted_history": [
+    "2026-11-11T16:07:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Software Engineer, Infrastructure",
+   "url": "https://job-boards.greenhouse.io/reddit/jobs/8350761"
+  },
   "8355688": {
    "closed_at": null,
    "department": "",
@@ -3052,6 +3071,21 @@
    "reopened": 0,
    "title": "Senior Manager, Mid-Market Sales (Signature Goods)",
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8372525"
+  },
+  "8379092": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "engineering manager ranking platform @ remote - united states",
+   "location": "Remote - United States",
+   "posted_at": "2026-11-11T16:03:16+00:00",
+   "posted_history": [
+    "2026-11-11T16:03:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager, Ranking Platform",
+   "url": "https://job-boards.greenhouse.io/reddit/jobs/8379092"
   }
  }
 }

@@ -95,6 +95,10 @@
   {
    "date": "2026-11-11",
    "open": 133
+  },
+  {
+   "date": "2026-11-12",
+   "open": 134
   }
  ],
  "jobs": {
@@ -1599,7 +1603,7 @@
    "url": "https://epicgames.com/careers/jobs/6196661004?gh_jid=6196661004"
   },
   "6200355004": {
-   "closed_at": "2026-11-07T10:41:11+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1609,7 +1613,7 @@
    "posted_history": [
     "2026-09-18T23:04:51+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Tools Programmer Intern",
    "url": "https://epicgames.com/careers/jobs/6200355004?gh_jid=6200355004"
   },

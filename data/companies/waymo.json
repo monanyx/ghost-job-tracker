@@ -95,6 +95,10 @@
   {
    "date": "2026-11-11",
    "open": 381
+  },
+  {
+   "date": "2026-11-12",
+   "open": 379
   }
  ],
  "jobs": {
@@ -489,7 +493,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=7429828"
   },
   "7429873": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1104,7 +1108,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=7596467"
   },
   "7625366": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2139,7 +2143,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8012269"
   },
   "8012271": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2263,14 +2267,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "event response global bpo service delivery lead @ tempe, az, usa",
+   "fp": "global bpo service delivery lead event response @ tempe, az, usa",
    "location": "Tempe, AZ, USA",
    "posted_at": "2026-06-26T20:59:46+00:00",
    "posted_history": [
     "2026-06-26T20:59:46+00:00"
    ],
    "reopened": 0,
-   "title": "Event Response Global BPO Service Delivery Lead",
+   "title": "Global BPO Service Delivery Lead, Event Response",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8029653"
   },
   "8031615": {
@@ -3834,7 +3838,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8173977"
   },
   "8174504": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4768,14 +4772,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "2027 summer intern phd software engineer simulation @ mountain view, ca, usa",
+   "fp": "2027 summer intern phd research scientist foundation models @ mountain view, ca, usa",
    "location": "Mountain View, CA, USA",
    "posted_at": "2026-09-24T17:31:20+00:00",
    "posted_history": [
     "2026-09-24T17:31:20+00:00"
    ],
    "reopened": 0,
-   "title": "2027 Summer Intern, PhD, Software Engineer, Simulation",
+   "title": "2027 Summer Intern, PhD, Research Scientist, Foundation Models",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8227640"
   },
   "8227762": {
@@ -5274,7 +5278,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8247352"
   },
   "8248060": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6414,7 +6418,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8327904"
   },
   "8328202": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
@@ -6563,19 +6567,34 @@
    "title": "GPS Commercial Real Estate Strategy Planning Analyst, Europe",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8347690"
   },
+  "8347977": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "badging program manager @ tempe, az, usa",
+   "location": "Tempe, AZ, USA",
+   "posted_at": "2026-11-11T16:18:50+00:00",
+   "posted_history": [
+    "2026-11-11T16:18:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Badging Program Manager",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8347977"
+  },
   "8348307": {
-   "closed_at": "2026-11-11T11:27:30+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
-   "fp": "utilities specialist amer @ remote, usa, washington, dc, usa, new york, new york, usa",
+   "fp": "utilities program manager amer @ remote, usa, washington, dc, usa, new york, new york, usa",
    "location": "Remote, USA, Washington,  DC, USA, New York, New York, USA",
    "posted_at": "2026-11-09T21:56:07+00:00",
    "posted_history": [
     "2026-11-09T21:56:07+00:00"
    ],
-   "reopened": 0,
-   "title": "Utilities Specialist, AMER",
+   "reopened": 1,
+   "title": "Utilities Program Manager, AMER",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8348307"
   },
   "8348309": {
@@ -6592,6 +6611,36 @@
    "reopened": 0,
    "title": "Utilities Specialist, Europe",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8348309"
+  },
+  "8348363": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "global vendor operations manager @ mountain view, ca, usa",
+   "location": "Mountain View, CA, USA",
+   "posted_at": "2026-11-11T19:59:27+00:00",
+   "posted_history": [
+    "2026-11-11T19:59:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Global Vendor Operations Manager",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8348363"
+  },
+  "8348399": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "dbw partner relationship specialist americas @ mountain view, ca, usa",
+   "location": "Mountain View, CA, USA",
+   "posted_at": "2026-11-11T21:30:51+00:00",
+   "posted_history": [
+    "2026-11-11T21:30:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "DbW Partner Relationship Specialist, Americas",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8348399"
   },
   "8348700": {
    "closed_at": null,
@@ -6803,6 +6852,21 @@
    "title": "Facilities Market Specialist, SF Bay Area",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8357287"
   },
+  "8357292": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "security operations center watch lead @ tempe, az, usa",
+   "location": "Tempe, AZ, USA",
+   "posted_at": "2026-11-12T08:01:49+00:00",
+   "posted_history": [
+    "2026-11-12T08:01:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Security Operations Center Watch Lead",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8357292"
+  },
   "8357613": {
    "closed_at": null,
    "department": "",
@@ -6939,7 +7003,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8360841"
   },
   "8363212": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-08T10:46:34+00:00",

@@ -95,6 +95,10 @@
   {
    "date": "2026-11-11",
    "open": 64
+  },
+  {
+   "date": "2026-11-12",
+   "open": 62
   }
  ],
  "jobs": {
@@ -849,7 +853,7 @@
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8158933"
   },
   "8164092": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -939,7 +943,7 @@
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8195436"
   },
   "8200681": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1209,7 +1213,7 @@
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8274038"
   },
   "8281171": {
-   "closed_at": "2026-11-10T11:47:05+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-09T12:08:42+00:00",
@@ -1219,7 +1223,7 @@
    "posted_history": [
     "2026-11-09T09:08:37+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Analytics Engineering Manager, FinCrime",
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8281171"
   },
@@ -1584,7 +1588,7 @@
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8346170"
   },
   "8354936": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-06T11:30:42+00:00",
@@ -1749,7 +1753,7 @@
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8359155"
   },
   "8365296": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
@@ -1809,7 +1813,7 @@
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8367351"
   },
   "8370845": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
@@ -1822,6 +1826,36 @@
    "reopened": 0,
    "title": "Lead Product Manager",
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8370845"
+  },
+  "8378844": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "senior financial control analyst 9 month fixed term contract @ london",
+   "location": "London",
+   "posted_at": "2026-11-11T16:03:29+00:00",
+   "posted_history": [
+    "2026-11-11T16:03:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Financial Control Analyst, 9 Month Fixed Term Contract",
+   "url": "https://job-boards.greenhouse.io/monzo/jobs/8378844"
+  },
+  "8379323": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "senior treasury capital manager @ dublin",
+   "location": "Dublin",
+   "posted_at": "2026-11-11T16:50:56+00:00",
+   "posted_history": [
+    "2026-11-11T16:50:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Treasury Capital Manager",
+   "url": "https://job-boards.greenhouse.io/monzo/jobs/8379323"
   }
  }
 }

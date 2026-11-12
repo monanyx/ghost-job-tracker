@@ -95,6 +95,10 @@
   {
    "date": "2026-11-11",
    "open": 130
+  },
+  {
+   "date": "2026-11-12",
+   "open": 128
   }
  ],
  "jobs": {
@@ -1585,7 +1589,7 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/7a27a4f4-e32f-4ff2-a6b0-a01a5e187db0"
   },
   "7ab03a75-830a-40ee-b4e5-bf83b31b1d24": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "Engineering & Product",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -2160,7 +2164,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/a1c86d02-e9df-4580-87e4-1333f2b83e94"
   },
   "a2910e63-1dcc-4da2-a8ee-bc2a044e4613": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "Finance",
    "evergreen": false,
    "first_seen": "2026-11-06T11:30:42+00:00",

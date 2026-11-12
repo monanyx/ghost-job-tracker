@@ -95,6 +95,10 @@
   {
    "date": "2026-11-11",
    "open": 125
+  },
+  {
+   "date": "2026-11-12",
+   "open": 122
   }
  ],
  "jobs": {
@@ -369,7 +373,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/7966928"
   },
   "7987837": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -624,7 +628,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8055481"
   },
   "8056267": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1059,7 +1063,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8157507"
   },
   "8157509": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1944,7 +1948,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8256427"
   },
   "8256431": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2064,7 +2068,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8258597"
   },
   "8258962": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2543,6 +2547,21 @@
    "title": "Compliance Operations Specialist",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8312421"
   },
+  "8316035": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "architect @ remote - us",
+   "location": "Remote - US",
+   "posted_at": "2026-11-12T00:45:13+00:00",
+   "posted_history": [
+    "2026-11-12T00:45:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Architect",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8316035"
+  },
   "8319160": {
    "closed_at": null,
    "department": "",
@@ -2902,6 +2921,21 @@
    "reopened": 0,
    "title": "Staff Software Engineer, Mobile (P4)",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8356548"
+  },
+  "8360564": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "technical account manager @ remote - colombia",
+   "location": "Remote - Colombia",
+   "posted_at": "2026-11-11T13:57:47+00:00",
+   "posted_history": [
+    "2026-11-11T13:57:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Account Manager",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8360564"
   },
   "8362926": {
    "closed_at": null,

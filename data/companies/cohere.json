@@ -95,6 +95,10 @@
   {
    "date": "2026-11-11",
    "open": 126
+  },
+  {
+   "date": "2026-11-12",
+   "open": 123
   }
  ],
  "jobs": {
@@ -504,7 +508,7 @@
    "url": "https://jobs.ashbyhq.com/cohere/2dc8b505-128a-4bc8-b8c1-7084e7d26530"
   },
   "2df2da3c-fb69-4d4d-b3c9-077b3df2ba3d": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "Modeling",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1242,7 +1246,7 @@
    "url": "https://jobs.ashbyhq.com/cohere/81450c5f-8495-439b-a1b3-ce7ef9739437"
   },
   "82ec1512-5bc3-49dd-b995-b6abc2a958d7": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "Modeling",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2266,7 +2270,7 @@
    "url": "https://jobs.ashbyhq.com/cohere/f161c820-ad71-4be5-adff-2c51126e96d1"
   },
   "f3290fb2-66f1-44c7-9824-3f416f44af5a": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "Internships",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",

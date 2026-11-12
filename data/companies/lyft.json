@@ -95,6 +95,10 @@
   {
    "date": "2026-11-11",
    "open": 155
+  },
+  {
+   "date": "2026-11-12",
+   "open": 153
   }
  ],
  "jobs": {
@@ -834,7 +838,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8693503002?gh_jid=8693503002"
   },
   "8693571002": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2679,7 +2683,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8883515002?gh_jid=8883515002"
   },
   "8885206002": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2964,7 +2968,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8900844002?gh_jid=8900844002"
   },
   "8901107002": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -3189,7 +3193,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8908930002?gh_jid=8908930002"
   },
   "8909210002": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
@@ -3204,7 +3208,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8909210002?gh_jid=8909210002"
   },
   "8909213002": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
@@ -3352,6 +3356,36 @@
    "reopened": 0,
    "title": "Staff Product Manager I, Base Pricing",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8917426002?gh_jid=8917426002"
+  },
+  "8917641002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "engineering manager quality developer experience lus @ montreal, canada",
+   "location": "Montreal, Canada",
+   "posted_at": "2026-11-12T01:29:07+00:00",
+   "posted_history": [
+    "2026-11-12T01:29:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager, Quality & Developer Experience - LUS",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8917641002?gh_jid=8917641002"
+  },
+  "8917801002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "gestionnaire en ing nierie qualit et exp rience d veloppeur lus @ montreal, canada",
+   "location": "Montreal, Canada",
+   "posted_at": "2026-11-12T01:29:09+00:00",
+   "posted_history": [
+    "2026-11-12T01:29:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Gestionnaire en ingénierie, Qualité et expérience développeur - LUS",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8917801002?gh_jid=8917801002"
   },
   "8919442002": {
    "closed_at": null,
@@ -3802,6 +3836,21 @@
    "reopened": 0,
    "title": "Senior Tax Analyst, Indirect Tax",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8936180002?gh_jid=8936180002"
+  },
+  "8938561002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "social support associate customer care operations @ mexico city, mexico",
+   "location": "Mexico City, Mexico",
+   "posted_at": "2026-11-11T22:36:04+00:00",
+   "posted_history": [
+    "2026-11-11T22:36:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "Social Support Associate, Customer Care Operations",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8938561002?gh_jid=8938561002"
   }
  }
 }

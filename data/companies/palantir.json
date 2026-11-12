@@ -95,6 +95,10 @@
   {
    "date": "2026-11-11",
    "open": 304
+  },
+  {
+   "date": "2026-11-12",
+   "open": 303
   }
  ],
  "jobs": {
@@ -1209,7 +1213,7 @@
    "url": "https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249"
   },
   "37780e70-c7af-45e1-9be7-071df201c387": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "Echo",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
@@ -2349,7 +2353,7 @@
    "url": "https://jobs.lever.co/palantir/6940fc9a-b79c-4935-a90f-1c6a02e54fb1"
   },
   "69ab7e24-8f5d-426e-84f7-6d3b2d4a7efd": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "Echo",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
@@ -3684,7 +3688,7 @@
    "url": "https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f"
   },
   "ac978161-6f46-4f6b-ad9e-a258e642751c": {
-   "closed_at": "2026-10-29T10:25:29+00:00",
+   "closed_at": null,
    "department": "Administrative",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3694,7 +3698,7 @@
    "posted_history": [
     "2024-03-25T21:50:16+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Administrative Business Partner",
    "url": "https://jobs.lever.co/palantir/ac978161-6f46-4f6b-ad9e-a258e642751c"
   },

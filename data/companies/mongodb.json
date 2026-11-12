@@ -95,6 +95,10 @@
   {
    "date": "2026-11-11",
    "open": 375
+  },
+  {
+   "date": "2026-11-12",
+   "open": 379
   }
  ],
  "jobs": {
@@ -1434,7 +1438,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=7778981"
   },
   "7779016": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2439,7 +2443,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8056742"
   },
   "8060800": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2724,7 +2728,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8079914"
   },
   "8081197": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4044,7 +4048,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8170615"
   },
   "8170628": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5304,7 +5308,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8229703"
   },
   "8229848": {
-   "closed_at": null,
+   "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -7043,6 +7047,21 @@
    "title": "Product Manager, S2P",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8327081"
   },
+  "8327106": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "business systems analyst 3 @ gurugram",
+   "location": "Gurugram",
+   "posted_at": "2026-11-11T16:20:59+00:00",
+   "posted_history": [
+    "2026-11-11T16:20:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Business Systems Analyst 3",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8327106"
+  },
   "8327493": {
    "closed_at": null,
    "department": "",
@@ -7179,7 +7198,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8331146"
   },
   "8331447": {
-   "closed_at": "2026-11-11T11:27:30+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
@@ -7189,7 +7208,7 @@
    "posted_history": [
     "2026-11-03T20:46:51+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Executive Assistant",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8331447"
   },
@@ -7358,6 +7377,21 @@
    "title": "Staff Technical Program Manager, IT Audit & Governance",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8346181"
   },
+  "8348102": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "software engineer 3 @ new york city",
+   "location": "New York City",
+   "posted_at": "2026-11-12T03:16:57+00:00",
+   "posted_history": [
+    "2026-11-12T03:16:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer 3",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8348102"
+  },
   "8348261": {
    "closed_at": null,
    "department": "",
@@ -7418,6 +7452,21 @@
    "title": "Renewals Specialist",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8350841"
   },
+  "8351199": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "software engineer 3 @ new york city",
+   "location": "New York City",
+   "posted_at": "2026-11-12T03:09:08+00:00",
+   "posted_history": [
+    "2026-11-12T03:09:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer 3",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8351199"
+  },
   "8352010": {
    "closed_at": null,
    "department": "",
@@ -7453,8 +7502,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-05T11:30:12+00:00",
-   "fp": "executive assistant @ colorado",
-   "location": "Colorado",
+   "fp": "executive assistant @ colorado; united states",
+   "location": "Colorado; United States",
    "posted_at": "2026-11-05T08:05:53+00:00",
    "posted_history": [
     "2026-11-05T08:05:53+00:00"
@@ -7658,6 +7707,51 @@
    "title": "Senior Software Engineer, Atlas Agent Engine",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8360715"
   },
+  "8366703": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "software engineer 3 @ new york city",
+   "location": "New York City",
+   "posted_at": "2026-11-12T03:14:32+00:00",
+   "posted_history": [
+    "2026-11-12T03:14:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer 3",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8366703"
+  },
+  "8366823": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "director engineering @ cork, ireland; dublin, ireland",
+   "location": "Cork, Ireland; Dublin, Ireland",
+   "posted_at": "2026-11-11T17:34:51+00:00",
+   "posted_history": [
+    "2026-11-11T17:34:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Director, Engineering",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8366823"
+  },
+  "8367108": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "marketing lead @ london",
+   "location": "London",
+   "posted_at": "2026-11-11T14:25:44+00:00",
+   "posted_history": [
+    "2026-11-11T14:25:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Marketing Lead",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8367108"
+  },
   "8367280": {
    "closed_at": null,
    "department": "",
@@ -7672,6 +7766,21 @@
    "reopened": 0,
    "title": "Senior Regional Employee Experience Manager",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8367280"
+  },
+  "8367902": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "software engineer 3 @ new york city",
+   "location": "New York City",
+   "posted_at": "2026-11-12T03:12:10+00:00",
+   "posted_history": [
+    "2026-11-12T03:12:10+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer 3",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8367902"
   },
   "8368141": {
    "closed_at": null,
@@ -7732,6 +7841,21 @@
    "reopened": 0,
    "title": "Pricing & Monetization Associate",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8372137"
+  },
+  "8378846": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-12T11:51:19+00:00",
+   "fp": "contract recruiter @ new york city",
+   "location": "New York City",
+   "posted_at": "2026-11-11T18:04:47+00:00",
+   "posted_history": [
+    "2026-11-11T18:04:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Contract Recruiter",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8378846"
   }
  }
 }
