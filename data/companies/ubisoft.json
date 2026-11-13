@@ -99,6 +99,10 @@
   {
    "date": "2026-11-12",
    "open": 290
+  },
+  {
+   "date": "2026-11-13",
+   "open": 291
   }
  ],
  "jobs": {
@@ -1558,7 +1562,7 @@
    "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000147409729"
   },
   "744000148330865": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "Ubisoft",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2638,7 +2642,7 @@
    "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000153107589"
   },
   "744000153112879": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "Ubisoft",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3043,7 +3047,7 @@
    "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000154357833"
   },
   "744000154359828": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "Ubisoft",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3058,7 +3062,7 @@
    "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000154359828"
   },
   "744000154360048": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "Ubisoft",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4708,7 +4712,7 @@
    "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000155923993"
   },
   "744000155974044": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "Programming",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6958,7 +6962,7 @@
    "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000158563410"
   },
   "744000158563819": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "Ubisoft",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -7798,7 +7802,7 @@
    "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000158761684"
   },
   "744000158762040": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "Ubisoft",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
@@ -9281,6 +9285,126 @@
    "reopened": 0,
    "title": "C++ Game Developer",
    "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000161237793"
+  },
+  "744000161311470": {
+   "closed_at": null,
+   "department": "Ubisoft",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "senior lighting artist assassin s creed franchise @ québec city, qc, canada",
+   "location": "Québec City, QC, Canada",
+   "posted_at": "2026-11-12T14:19:39+00:00",
+   "posted_history": [
+    "2026-11-12T14:19:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Lighting Artist - Assassin's Creed Franchise",
+   "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000161311470"
+  },
+  "744000161311959": {
+   "closed_at": null,
+   "department": "Ubisoft",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "clairagiste s nior franchise assassin s creed @ québec city, qc, canada",
+   "location": "Québec City, QC, Canada",
+   "posted_at": "2026-11-12T14:18:59+00:00",
+   "posted_history": [
+    "2026-11-12T14:18:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Éclairagiste sénior - Franchise Assassin's Creed",
+   "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000161311959"
+  },
+  "744000161311989": {
+   "closed_at": null,
+   "department": "Ubisoft",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "chef fe d quipe clairagiste franchise assassin s creed @ québec city, qc, canada",
+   "location": "Québec City, QC, Canada",
+   "posted_at": "2026-11-12T14:19:21+00:00",
+   "posted_history": [
+    "2026-11-12T14:19:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Chef·fe d’équipe éclairagiste - Franchise Assassin’s Creed",
+   "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000161311989"
+  },
+  "744000161312239": {
+   "closed_at": null,
+   "department": "Ubisoft",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "lighting team lead assassin s creed franchise @ québec city, qc, canada",
+   "location": "Québec City, QC, Canada",
+   "posted_at": "2026-11-12T14:19:57+00:00",
+   "posted_history": [
+    "2026-11-12T14:19:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "Lighting Team Lead - Assassin’s Creed Franchise",
+   "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000161312239"
+  },
+  "744000161340259": {
+   "closed_at": null,
+   "department": "Ubisoft",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "artiste d effets sp ciaux @ montreal, qc, canada",
+   "location": "Montreal, QC, Canada",
+   "posted_at": "2026-11-12T16:16:25+00:00",
+   "posted_history": [
+    "2026-11-12T16:16:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Artiste d’effets spéciaux (Assassin's Creed Invictus)",
+   "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000161340259"
+  },
+  "744000161340439": {
+   "closed_at": null,
+   "department": "Ubisoft",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "vfx artist @ montreal, qc, canada",
+   "location": "Montreal, QC, Canada",
+   "posted_at": "2026-11-12T16:16:51+00:00",
+   "posted_history": [
+    "2026-11-12T16:16:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "VFX Artist (Assassin's Creed Invictus)",
+   "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000161340439"
+  },
+  "744000161386079": {
+   "closed_at": null,
+   "department": "Ubisoft",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "coordinateur trice de production @ montreal, qc, canada",
+   "location": "Montreal, QC, Canada",
+   "posted_at": "2026-11-12T21:35:50+00:00",
+   "posted_history": [
+    "2026-11-12T21:35:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Coordinateur·trice de production (casting)",
+   "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000161386079"
+  },
+  "744000161389089": {
+   "closed_at": null,
+   "department": "Ubisoft",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "casting production coordinator @ montreal, qc, canada",
+   "location": "Montreal, QC, Canada",
+   "posted_at": "2026-11-12T22:01:49+00:00",
+   "posted_history": [
+    "2026-11-12T22:01:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Casting Production Coordinator",
+   "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000161389089"
   }
  }
 }

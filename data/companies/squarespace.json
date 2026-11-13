@@ -99,6 +99,10 @@
   {
    "date": "2026-11-12",
    "open": 19
+  },
+  {
+   "date": "2026-11-13",
+   "open": 17
   }
  ],
  "jobs": {
@@ -298,7 +302,7 @@
    "url": "http://www.squarespace.com/about/careers?gh_jid=8159493"
   },
   "8159497": {
-   "closed_at": "2026-11-12T11:51:19+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -308,7 +312,7 @@
    "posted_history": [
     "2026-09-03T20:41:49+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Manager International Strategy",
    "url": "http://www.squarespace.com/about/careers?gh_jid=8159497"
   },
@@ -328,7 +332,7 @@
    "url": "http://www.squarespace.com/about/careers?gh_jid=8159503"
   },
   "8159515": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -433,7 +437,7 @@
    "url": "http://www.squarespace.com/about/careers?gh_jid=8205239"
   },
   "8205248": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -448,7 +452,7 @@
    "url": "http://www.squarespace.com/about/careers?gh_jid=8205248"
   },
   "8205261": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-25T08:43:53+00:00",

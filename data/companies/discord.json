@@ -99,6 +99,10 @@
   {
    "date": "2026-11-12",
    "open": 26
+  },
+  {
+   "date": "2026-11-13",
+   "open": 25
   }
  ],
  "jobs": {
@@ -148,7 +152,7 @@
    "url": "https://job-boards.greenhouse.io/discord/jobs/8369347002"
   },
   "8460791002": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -462,6 +466,21 @@
    "title": "Engineering Manager, Machine Learning (Safety)",
    "url": "https://job-boards.greenhouse.io/discord/jobs/8722538002"
   },
+  "8731320002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "senior software engineer consumer revenue @ san francisco bay area",
+   "location": "San Francisco Bay Area",
+   "posted_at": "2026-11-12T17:05:32+00:00",
+   "posted_history": [
+    "2026-11-12T17:05:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Consumer Revenue",
+   "url": "https://job-boards.greenhouse.io/discord/jobs/8731320002"
+  },
   "8731898002": {
    "closed_at": null,
    "department": "",
@@ -478,7 +497,7 @@
    "url": "https://job-boards.greenhouse.io/discord/jobs/8731898002"
   },
   "8757366002": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

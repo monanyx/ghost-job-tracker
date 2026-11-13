@@ -99,6 +99,10 @@
   {
    "date": "2026-11-12",
    "open": 44
+  },
+  {
+   "date": "2026-11-13",
+   "open": 43
   }
  ],
  "jobs": {
@@ -268,7 +272,7 @@
    "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=7996674"
   },
   "8021123": {
-   "closed_at": "2026-10-22T08:55:54+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -278,7 +282,7 @@
    "posted_history": [
     "2026-07-13T18:06:55+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Sr. Learning Experience Designer",
    "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8021123"
   },
@@ -388,7 +392,7 @@
    "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8094308"
   },
   "8103842": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -613,7 +617,7 @@
    "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8177503"
   },
   "8189706": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

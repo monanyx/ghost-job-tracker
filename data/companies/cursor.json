@@ -99,6 +99,10 @@
   {
    "date": "2026-11-12",
    "open": 113
+  },
+  {
+   "date": "2026-11-13",
+   "open": 115
   }
  ],
  "jobs": {
@@ -853,7 +857,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/27a7ac90-fe2a-4352-ad56-3548a64c9b64"
   },
   "27effc80-412f-4a2b-bbc5-f48e51f77382": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "Marketing",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
@@ -1272,6 +1276,21 @@
    "title": "Regional Director, Field Engineering",
    "url": "https://jobs.ashbyhq.com/cursor/3d9da649-b3e6-4b4c-943d-1d081dae9497"
   },
+  "3f5456d1-5ebc-4dab-8e3d-d7ac8ac0b8c9": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "senior strategic account executive global governments @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2026-11-12T17:19:40+00:00",
+   "posted_history": [
+    "2026-11-12T17:19:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Strategic Account Executive, Global Governments",
+   "url": "https://jobs.ashbyhq.com/cursor/3f5456d1-5ebc-4dab-8e3d-d7ac8ac0b8c9"
+  },
   "409d6bff-d60c-45b7-8d4c-21f6574010de": {
    "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "Sales",
@@ -1337,14 +1356,14 @@
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
-   "fp": "model engineer @ palo alto, ca",
+   "fp": "model engineer rl data @ palo alto, ca",
    "location": "Palo Alto, CA",
    "posted_at": "2026-11-10T00:05:24+00:00",
    "posted_history": [
     "2026-11-10T00:05:24+00:00"
    ],
    "reopened": 0,
-   "title": "Model Engineer",
+   "title": "Model Engineer, RL Data",
    "url": "https://jobs.ashbyhq.com/cursor/438ff4ff-2bdc-4e43-97bb-98e289694f8c"
   },
   "440142f9-6b81-46e2-98aa-305f35b388bd": {
@@ -2293,6 +2312,21 @@
    "reopened": 0,
    "title": "Account Executive, Commercial Expansion - San Francisco",
    "url": "https://jobs.ashbyhq.com/cursor/85c98417-583b-412e-b31a-e4052195b703"
+  },
+  "86f0738c-613a-4e75-ae9f-1503d335512e": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "strategic account executive enterprise latam @ remote",
+   "location": "Remote",
+   "posted_at": "2026-11-12T20:30:39+00:00",
+   "posted_history": [
+    "2026-11-12T20:30:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Account Executive, Enterprise - LATAM",
+   "url": "https://jobs.ashbyhq.com/cursor/86f0738c-613a-4e75-ae9f-1503d335512e"
   },
   "8759ece1-451e-4074-93dd-9d247a648ef7": {
    "closed_at": null,
@@ -3545,14 +3579,14 @@
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
-   "fp": "sr model engineer @ palo alto, ca",
+   "fp": "sr model engineer rl data @ palo alto, ca",
    "location": "Palo Alto, CA",
    "posted_at": "2026-11-10T00:30:25+00:00",
    "posted_history": [
     "2026-11-10T00:30:25+00:00"
    ],
    "reopened": 0,
-   "title": "Sr. Model Engineer",
+   "title": "Sr. Model Engineer, RL Data",
    "url": "https://jobs.ashbyhq.com/cursor/dc69aeae-9cc4-4c57-aeab-560a8bc62d97"
   },
   "de322c3d-337e-4301-a7dc-90ccf331d60f": {
@@ -3629,6 +3663,21 @@
    "reopened": 0,
    "title": "Startups Growth, VC Partnerships",
    "url": "https://jobs.ashbyhq.com/cursor/e22c4770-1776-4adb-b347-46b9c2ed9452"
+  },
+  "e32955ea-a4ed-45c7-a74a-b0f3eb56196c": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "regional director global government sales @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2026-11-12T17:20:20+00:00",
+   "posted_history": [
+    "2026-11-12T17:20:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Regional Director, Global Government Sales",
+   "url": "https://jobs.ashbyhq.com/cursor/e32955ea-a4ed-45c7-a74a-b0f3eb56196c"
   },
   "e3ccb495-a8a3-4ff0-a27b-262188abb9df": {
    "closed_at": "2026-11-10T11:47:05+00:00",

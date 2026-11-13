@@ -99,6 +99,10 @@
   {
    "date": "2026-11-12",
    "open": 128
+  },
+  {
+   "date": "2026-11-13",
+   "open": 128
   }
  ],
  "jobs": {
@@ -452,19 +456,20 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/19b21930-d142-4dae-be23-751f5425b0af"
   },
   "1b43cf6f-bc1f-4241-b8a2-5f85fb4ea028": {
-   "closed_at": "2026-11-04T11:35:04+00:00",
+   "closed_at": null,
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
    "fp": "revenue partnerships southern latam @ argentina",
    "location": "Argentina",
-   "posted_at": "2026-10-20T15:20:01+00:00",
+   "posted_at": "2026-11-12T14:50:13+00:00",
    "posted_history": [
-    "2026-10-20T15:20:01+00:00"
+    "2026-10-20T15:20:01+00:00",
+    "2026-11-12T14:50:13+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Revenue Partnerships - Southern Latam",
-   "url": "https://jobs.ashbyhq.com/elevenlabs/1b43cf6f-bc1f-4241-b8a2-5f85fb4ea028"
+   "url": "https://jobs.ashbyhq.com/ElevenLabs/1b43cf6f-bc1f-4241-b8a2-5f85fb4ea028"
   },
   "1b90a2b2-1352-458d-b2b7-3900f6e02df5": {
    "closed_at": null,
@@ -559,7 +564,7 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/257f24da-83db-4bad-a6dc-37793a1a0bac"
   },
   "258de005-ab84-4cc7-9a59-1df0c74a12b8": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "Growth",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -1134,18 +1139,19 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/4738893a-de4f-4a06-b104-315c6a4d366c"
   },
   "4aaebda4-53be-424c-8246-cde77ff853bb": {
-   "closed_at": "2026-11-10T11:47:05+00:00",
+   "closed_at": null,
    "department": "Operations",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "company operations lead @ london",
    "location": "London",
-   "posted_at": "2026-11-03T14:37:01+00:00",
+   "posted_at": "2026-11-12T12:54:33+00:00",
    "posted_history": [
     "2026-10-14T17:46:56+00:00",
-    "2026-11-03T14:37:01+00:00"
+    "2026-11-03T14:37:01+00:00",
+    "2026-11-12T12:54:33+00:00"
    ],
-   "reopened": 1,
+   "reopened": 2,
    "title": "Company Operations Lead",
    "url": "https://jobs.ashbyhq.com/ElevenLabs/4aaebda4-53be-424c-8246-cde77ff853bb"
   },
@@ -1711,7 +1717,7 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/830e66a8-892c-4c68-b61c-494591236eef"
   },
   "84641293-96a2-47dc-b3c4-487f33f1485d": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "Operations",
    "evergreen": false,
    "first_seen": "2026-10-28T10:01:46+00:00",
@@ -1921,7 +1927,7 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/9271907b-1aad-4868-8995-b9ed32fb92ac"
   },
   "92997f8a-9f90-40fe-a76e-89ffbc44d0cc": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "Engineering & Product",
    "evergreen": false,
    "first_seen": "2026-11-06T11:30:42+00:00",
@@ -2241,17 +2247,18 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/a5a999e3-17f6-4f1f-aef3-bab73518244a"
   },
   "a605e308-0d28-42b6-8cbb-03cc7799cecc": {
-   "closed_at": "2026-11-09T12:08:42+00:00",
+   "closed_at": null,
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "sales development lead north america @ san francisco",
    "location": "San Francisco",
-   "posted_at": "2026-07-20T15:24:06+00:00",
+   "posted_at": "2026-11-12T18:25:10+00:00",
    "posted_history": [
-    "2026-07-20T15:24:06+00:00"
+    "2026-07-20T15:24:06+00:00",
+    "2026-11-12T18:25:10+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Sales Development Lead - North America",
    "url": "https://jobs.ashbyhq.com/ElevenLabs/a605e308-0d28-42b6-8cbb-03cc7799cecc"
   },
@@ -2818,17 +2825,18 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/d1caf988-ab4a-4b72-9ed9-d18e986fb7f1"
   },
   "d2443707-b19e-49c2-b2ec-de0c4c889089": {
-   "closed_at": "2026-11-10T11:47:05+00:00",
+   "closed_at": null,
    "department": "Operations",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
    "fp": "workplace experience new york @ new york",
    "location": "New York",
-   "posted_at": "2026-11-02T16:03:00+00:00",
+   "posted_at": "2026-11-12T13:06:13+00:00",
    "posted_history": [
-    "2026-11-02T16:03:00+00:00"
+    "2026-11-02T16:03:00+00:00",
+    "2026-11-12T13:06:13+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Workplace Experience - New York",
    "url": "https://jobs.ashbyhq.com/ElevenLabs/d2443707-b19e-49c2-b2ec-de0c4c889089"
   },
@@ -3248,7 +3256,7 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/f1427164-3037-47d1-a768-11cfb87953ae"
   },
   "f2bf078d-d104-4a7b-96fd-5187a550f4a0": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "Operations",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
@@ -3307,6 +3315,21 @@
    "title": "Compliance Engineer",
    "url": "https://jobs.ashbyhq.com/elevenlabs/f80d0420-b6e6-4110-940c-293f64b9761e"
   },
+  "f82da674-f6c8-4035-86ef-ff61a7f9cf9c": {
+   "closed_at": null,
+   "department": "Revenue",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "gtm lead outbound prospecting @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-11-12T18:24:57+00:00",
+   "posted_history": [
+    "2026-11-12T18:24:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "GTM Lead - Outbound & Prospecting",
+   "url": "https://jobs.ashbyhq.com/ElevenLabs/f82da674-f6c8-4035-86ef-ff61a7f9cf9c"
+  },
   "f8b19a29-af85-4a5d-87ae-1ba0a1b6dd9b": {
    "closed_at": "2026-10-23T08:50:35+00:00",
    "department": "Revenue",
@@ -3323,7 +3346,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/f8b19a29-af85-4a5d-87ae-1ba0a1b6dd9b"
   },
   "fef4499d-6191-43ad-b4f4-e646544f510d": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "Operations",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

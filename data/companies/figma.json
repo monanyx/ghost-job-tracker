@@ -99,6 +99,10 @@
   {
    "date": "2026-11-12",
    "open": 141
+  },
+  {
+   "date": "2026-11-13",
+   "open": 143
   }
  ],
  "jobs": {
@@ -1903,7 +1907,7 @@
    "url": "https://boards.greenhouse.io/figma/jobs/6201385004?gh_jid=6201385004"
   },
   "6201407004": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2462,14 +2466,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
-   "fp": "onboarding manager customer experience @ tokyo, japan",
+   "fp": "customer activation manager @ tokyo, japan",
    "location": "Tokyo, Japan",
    "posted_at": "2026-10-27T02:27:56+00:00",
    "posted_history": [
     "2026-10-27T02:27:56+00:00"
    ],
    "reopened": 0,
-   "title": "Onboarding Manager, Customer Experience (Tokyo, Japan)",
+   "title": "Customer Activation Manager (Tokyo, Japan)",
    "url": "https://boards.greenhouse.io/figma/jobs/6231832004?gh_jid=6231832004"
   },
   "6231956004": {
@@ -2727,6 +2731,21 @@
    "title": "Sales Recruiter (London, United Kingdom)",
    "url": "https://boards.greenhouse.io/figma/jobs/6238252004?gh_jid=6238252004"
   },
+  "6238480004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "applied data researcher @ san francisco, ca • new york, ny • united states",
+   "location": "San Francisco, CA • New York, NY • United States",
+   "posted_at": "2026-11-12T17:36:31+00:00",
+   "posted_history": [
+    "2026-11-12T17:36:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Applied Data Researcher",
+   "url": "https://boards.greenhouse.io/figma/jobs/6238480004?gh_jid=6238480004"
+  },
   "6239153004": {
    "closed_at": null,
    "department": "",
@@ -2921,6 +2940,36 @@
    "reopened": 0,
    "title": "Strategic Finance",
    "url": "https://boards.greenhouse.io/figma/jobs/6251998004?gh_jid=6251998004"
+  },
+  "6253326004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "manager recruiting engineering @ san francisco, ca • new york, ny • united states",
+   "location": "San Francisco, CA • New York, NY • United States",
+   "posted_at": "2026-11-12T17:30:03+00:00",
+   "posted_history": [
+    "2026-11-12T17:30:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Recruiting - Engineering",
+   "url": "https://boards.greenhouse.io/figma/jobs/6253326004?gh_jid=6253326004"
+  },
+  "6256957004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "executive assistant ceo @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-12T23:07:42+00:00",
+   "posted_history": [
+    "2026-11-12T23:07:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Executive Assistant, CEO",
+   "url": "https://boards.greenhouse.io/figma/jobs/6256957004?gh_jid=6256957004"
   }
  }
 }

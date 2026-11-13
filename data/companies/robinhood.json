@@ -99,6 +99,10 @@
   {
    "date": "2026-11-12",
    "open": 155
+  },
+  {
+   "date": "2026-11-13",
+   "open": 160
   }
  ],
  "jobs": {
@@ -508,7 +512,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/7804648?t=gh_src=&gh_jid=7804648"
   },
   "7914059": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -626,6 +630,21 @@
    "reopened": 0,
    "title": "Staff Data Scientist,  ML (Credit Risk)",
    "url": "https://boards.greenhouse.io/robinhood/jobs/7997218?t=gh_src=&gh_jid=7997218"
+  },
+  "7997547": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "assistant general counsel derivatives @ menlo park, ca; new york, ny; washington, dc",
+   "location": "Menlo Park, CA; New York, NY; Washington, DC",
+   "posted_at": "2026-11-12T22:27:14+00:00",
+   "posted_history": [
+    "2026-11-12T22:27:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Assistant General Counsel, Derivatives",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/7997547?t=gh_src=&gh_jid=7997547"
   },
   "8008723": {
    "closed_at": null,
@@ -1502,14 +1521,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
-   "fp": "web engineer international expansion @ toronto, canada",
+   "fp": "web engineer international @ toronto, canada",
    "location": "Toronto, Canada",
    "posted_at": "2026-11-09T12:24:13+00:00",
    "posted_history": [
     "2026-11-09T12:24:13+00:00"
    ],
    "reopened": 0,
-   "title": "Web Engineer, International Expansion",
+   "title": "Web Engineer, International",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8177444?t=gh_src=&gh_jid=8177444"
   },
   "8179979": {
@@ -1827,19 +1846,34 @@
    "title": "Engineering Manager, AI Platform & Agentic Apps",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8205579?t=gh_src=&gh_jid=8205579"
   },
+  "8205711": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "customer experience team lead money @ westlake, tx",
+   "location": "Westlake, TX",
+   "posted_at": "2026-11-12T20:46:44+00:00",
+   "posted_history": [
+    "2026-11-12T20:46:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Experience Team Lead, Money",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8205711?t=gh_src=&gh_jid=8205711"
+  },
   "8207701": {
    "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
-   "fp": "software engineer international expansion @ toronto, canada",
+   "fp": "software engineer crypto expansion @ toronto, canada",
    "location": "Toronto, Canada",
    "posted_at": "2026-11-03T13:45:05+00:00",
    "posted_history": [
     "2026-11-03T13:45:05+00:00"
    ],
    "reopened": 0,
-   "title": "Software Engineer, International Expansion",
+   "title": "Software Engineer, Crypto Expansion",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8207701?t=gh_src=&gh_jid=8207701"
   },
   "8209838": {
@@ -2113,7 +2147,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8226689?t=gh_src=&gh_jid=8226689"
   },
   "8226972": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -2501,6 +2535,21 @@
    "reopened": 0,
    "title": "Senior Staff Security Engineer, Security Operations",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8259431?t=gh_src=&gh_jid=8259431"
+  },
+  "8259642": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "aml investigations manager @ denver, co; new york, ny; westlake, tx",
+   "location": "Denver, CO; New York, NY; Westlake, TX",
+   "posted_at": "2026-11-12T20:14:34+00:00",
+   "posted_history": [
+    "2026-11-12T20:14:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "AML Investigations Manager",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8259642?t=gh_src=&gh_jid=8259642"
   },
   "8259652": {
    "closed_at": null,
@@ -2908,7 +2957,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8304315?t=gh_src=&gh_jid=8304315"
   },
   "8305772": {
-   "closed_at": "2026-11-04T11:35:04+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
@@ -2918,7 +2967,7 @@
    "posted_history": [
     "2026-10-28T15:54:24+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "AI Operations Engineer, Enterprise Tech",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8305772?t=gh_src=&gh_jid=8305772"
   },
@@ -2951,6 +3000,21 @@
    "reopened": 0,
    "title": "Fraud Operations Program Manager",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8312485?t=gh_src=&gh_jid=8312485"
+  },
+  "8318663": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "asset movement operations senior specialist @ denver, co; westlake, tx",
+   "location": "Denver, CO; Westlake, TX",
+   "posted_at": "2026-11-13T00:24:09+00:00",
+   "posted_history": [
+    "2026-11-13T00:24:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Asset Movement Operations Senior Specialist",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8318663?t=gh_src=&gh_jid=8318663"
   },
   "8319304": {
    "closed_at": "2026-11-05T11:30:12+00:00",
@@ -3371,6 +3435,36 @@
    "reopened": 0,
    "title": "Staff MarTech Manager",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8374447?t=gh_src=&gh_jid=8374447"
+  },
+  "8379685": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "accounts receivable operations analyst @ menlo park, ca",
+   "location": "Menlo Park, CA",
+   "posted_at": "2026-11-12T16:42:52+00:00",
+   "posted_history": [
+    "2026-11-12T16:42:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "Accounts Receivable Operations Analyst",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8379685?t=gh_src=&gh_jid=8379685"
+  },
+  "8384669": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "senior software engineer trump accounts @ menlo park, ca; new york, ny",
+   "location": "Menlo Park, CA; New York, NY",
+   "posted_at": "2026-11-13T00:34:27+00:00",
+   "posted_history": [
+    "2026-11-13T00:34:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Trump Accounts",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8384669?t=gh_src=&gh_jid=8384669"
   }
  }
 }

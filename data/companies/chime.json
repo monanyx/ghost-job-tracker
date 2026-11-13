@@ -99,6 +99,10 @@
   {
    "date": "2026-11-12",
    "open": 66
+  },
+  {
+   "date": "2026-11-13",
+   "open": 68
   }
  ],
  "jobs": {
@@ -493,7 +497,7 @@
    "url": "https://boards.greenhouse.io/chime/jobs/8681193002?gh_jid=8681193002"
   },
   "8684361002": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -641,6 +645,21 @@
    "reopened": 0,
    "title": "Senior Software Engineer, Machine Learning Platform",
    "url": "https://boards.greenhouse.io/chime/jobs/8765684002?gh_jid=8765684002"
+  },
+  "8765690002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "director data engineering @ san francisco, ca, usa",
+   "location": "San Francisco, CA, USA",
+   "posted_at": "2026-11-12T18:48:54+00:00",
+   "posted_history": [
+    "2026-11-12T18:48:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Director, Data Engineering",
+   "url": "https://boards.greenhouse.io/chime/jobs/8765690002?gh_jid=8765690002"
   },
   "8770314002": {
    "closed_at": "2026-10-31T09:57:28+00:00",
@@ -1466,6 +1485,36 @@
    "reopened": 0,
    "title": "Sr. Growth Product Marketing Manager, Chime Enterprise",
    "url": "https://boards.greenhouse.io/chime/jobs/8929507002?gh_jid=8929507002"
+  },
+  "8933682002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "people programs lead people operations @ san francisco, ca, usa",
+   "location": "San Francisco, CA, USA",
+   "posted_at": "2026-11-12T16:51:09+00:00",
+   "posted_history": [
+    "2026-11-12T16:51:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "People Programs Lead, People Operations",
+   "url": "https://boards.greenhouse.io/chime/jobs/8933682002?gh_jid=8933682002"
+  },
+  "8940707002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "sr product marketing manager lending @ san francisco, ca, usa",
+   "location": "San Francisco, CA, USA",
+   "posted_at": "2026-11-13T02:06:14+00:00",
+   "posted_history": [
+    "2026-11-13T02:06:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Product Marketing Manager, Lending",
+   "url": "https://boards.greenhouse.io/chime/jobs/8940707002?gh_jid=8940707002"
   }
  }
 }

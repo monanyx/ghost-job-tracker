@@ -99,6 +99,10 @@
   {
    "date": "2026-11-12",
    "open": 127
+  },
+  {
+   "date": "2026-11-13",
+   "open": 125
   }
  ],
  "jobs": {
@@ -1603,7 +1607,7 @@
    "url": "https://jobs.lever.co/pigment/aabd22d3-e33f-4035-ba64-98a932990ce3"
   },
   "b0658ac6-6e89-4490-af75-af7295624a13": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "Business",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2143,7 +2147,7 @@
    "url": "https://jobs.lever.co/pigment/d4f42533-dabb-49c5-9846-24abbb3f61d8"
   },
   "d55f8feb-974d-4ccc-a15d-a93f7e7caa44": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "HR",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

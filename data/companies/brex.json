@@ -99,6 +99,10 @@
   {
    "date": "2026-11-12",
    "open": 284
+  },
+  {
+   "date": "2026-11-13",
+   "open": 283
   }
  ],
  "jobs": {
@@ -838,7 +842,7 @@
    "url": "https://www.brex.com/careers/8463696002?gh_jid=8463696002"
   },
   "8463702002": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -853,7 +857,7 @@
    "url": "https://www.brex.com/careers/8463702002?gh_jid=8463702002"
   },
   "8463703002": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4588,7 +4592,7 @@
    "url": "https://www.brex.com/careers/8917093002?gh_jid=8917093002"
   },
   "8917751002": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
@@ -4947,6 +4951,21 @@
    "title": "Senior Director, Client Sales",
    "url": "https://www.brex.com/careers/8928814002?gh_jid=8928814002"
   },
+  "8928935002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "software engineer ii frontend @ new york, new york, united states",
+   "location": "New York, New York, United States",
+   "posted_at": "2026-11-12T18:44:45+00:00",
+   "posted_history": [
+    "2026-11-12T18:44:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer II, Frontend (Banking)",
+   "url": "https://www.brex.com/careers/8928935002?gh_jid=8928935002"
+  },
   "8929244002": {
    "closed_at": null,
    "department": "",
@@ -5203,7 +5222,7 @@
    "url": "https://www.brex.com/careers/8935961002?gh_jid=8935961002"
   },
   "8936403002": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-12T11:51:19+00:00",
@@ -5366,6 +5385,36 @@
    "reopened": 0,
    "title": "Director, Enterprise Sales",
    "url": "https://www.brex.com/careers/8938896002?gh_jid=8938896002"
+  },
+  "8939938002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "software engineer ii frontend @ san francisco, california, united states",
+   "location": "San Francisco, California, United States",
+   "posted_at": "2026-11-12T18:44:46+00:00",
+   "posted_history": [
+    "2026-11-12T18:44:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer II, Frontend (Banking)",
+   "url": "https://www.brex.com/careers/8939938002?gh_jid=8939938002"
+  },
+  "8939939002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "software engineer ii frontend @ seattle, washington, united states",
+   "location": "Seattle, Washington, United States",
+   "posted_at": "2026-11-12T18:44:48+00:00",
+   "posted_history": [
+    "2026-11-12T18:44:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer II, Frontend (Banking)",
+   "url": "https://www.brex.com/careers/8939939002?gh_jid=8939939002"
   }
  }
 }

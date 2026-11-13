@@ -99,6 +99,10 @@
   {
    "date": "2026-11-12",
    "open": 277
+  },
+  {
+   "date": "2026-11-13",
+   "open": 273
   }
  ],
  "jobs": {
@@ -328,7 +332,7 @@
    "url": "https://careers.roblox.com/jobs/7561743?gh_jid=7561743"
   },
   "7604271": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -527,14 +531,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior principal software engineer creator data @ san mateo, ca, united states",
+   "fp": "principal software engineer creator distributed systems storage @ san mateo, ca, united states",
    "location": "San Mateo, CA, United States",
    "posted_at": "2026-03-24T20:42:53+00:00",
    "posted_history": [
     "2026-03-24T20:42:53+00:00"
    ],
    "reopened": 0,
-   "title": "Senior/Principal Software Engineer - Creator Data",
+   "title": "Principal Software Engineer - Creator Distributed Systems & Storage",
    "url": "https://careers.roblox.com/jobs/7740153?gh_jid=7740153"
   },
   "7744272": {
@@ -823,7 +827,7 @@
    "url": "https://careers.roblox.com/jobs/7896061?gh_jid=7896061"
   },
   "7896293": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2158,7 +2162,7 @@
    "url": "https://careers.roblox.com/jobs/8107206?gh_jid=8107206"
   },
   "8107208": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2923,7 +2927,7 @@
    "url": "https://careers.roblox.com/jobs/8177555?gh_jid=8177555"
   },
   "8180420": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3358,7 +3362,7 @@
    "url": "https://careers.roblox.com/jobs/8211694?gh_jid=8211694"
   },
   "8211787": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-06T11:30:42+00:00",
@@ -3493,7 +3497,7 @@
    "url": "https://careers.roblox.com/jobs/8214146?gh_jid=8214146"
   },
   "8214317": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3688,7 +3692,7 @@
    "url": "https://careers.roblox.com/jobs/8226958?gh_jid=8226958"
   },
   "8227776": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-28T10:01:46+00:00",
@@ -4542,6 +4546,21 @@
    "title": "Software Engineer, Reliability",
    "url": "https://careers.roblox.com/jobs/8283707?gh_jid=8283707"
   },
+  "8283709": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "senior software engineer reliability @ san mateo, ca, united states",
+   "location": "San Mateo, CA, United States",
+   "posted_at": "2026-11-12T21:35:54+00:00",
+   "posted_history": [
+    "2026-11-12T21:35:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Reliability",
+   "url": "https://careers.roblox.com/jobs/8283709?gh_jid=8283709"
+  },
   "8283711": {
    "closed_at": null,
    "department": "",
@@ -5007,6 +5026,21 @@
    "title": "Moderation Escalation Specialist",
    "url": "https://careers.roblox.com/jobs/8331413?gh_jid=8331413"
   },
+  "8332448": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "senior data analyst moderation operations @ san mateo, ca, united states",
+   "location": "San Mateo, CA, United States",
+   "posted_at": "2026-11-12T19:38:34+00:00",
+   "posted_history": [
+    "2026-11-12T19:38:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Data Analyst, Moderation Operations",
+   "url": "https://careers.roblox.com/jobs/8332448?gh_jid=8332448"
+  },
   "8335158": {
    "closed_at": null,
    "department": "",
@@ -5263,7 +5297,7 @@
    "url": "https://careers.roblox.com/jobs/8357655?gh_jid=8357655"
   },
   "8357657": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-12T11:51:19+00:00",
@@ -5297,15 +5331,30 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-11T11:27:30+00:00",
-   "fp": "senior machine learning engineer creator tools automation @ san mateo, ca, united states",
+   "fp": "senior ai application engineer creator tools @ san mateo, ca, united states",
    "location": "San Mateo, CA, United States",
    "posted_at": "2026-11-10T20:46:20+00:00",
    "posted_history": [
     "2026-11-10T20:46:20+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Machine Learning Engineer: Creator Tools & Automation",
+   "title": "Senior AI Application Engineer, Creator Tools",
    "url": "https://careers.roblox.com/jobs/8359456?gh_jid=8359456"
+  },
+  "8359458": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "senior director tools automation creator relations @ san mateo, ca, united states",
+   "location": "San Mateo, CA, United States",
+   "posted_at": "2026-11-12T23:04:59+00:00",
+   "posted_history": [
+    "2026-11-12T23:04:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Director, Tools & Automation, Creator Relations",
+   "url": "https://careers.roblox.com/jobs/8359458?gh_jid=8359458"
   },
   "8359634": {
    "closed_at": null,
@@ -5336,6 +5385,21 @@
    "reopened": 0,
    "title": "Principal Product Manager, Content Platform",
    "url": "https://careers.roblox.com/jobs/8364312?gh_jid=8364312"
+  },
+  "8374430": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "senior brand designer @ san mateo, ca, united states",
+   "location": "San Mateo, CA, United States",
+   "posted_at": "2026-11-12T18:53:43+00:00",
+   "posted_history": [
+    "2026-11-12T18:53:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Brand Designer",
+   "url": "https://careers.roblox.com/jobs/8374430?gh_jid=8374430"
   }
  }
 }

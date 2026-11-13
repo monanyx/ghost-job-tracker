@@ -99,6 +99,10 @@
   {
    "date": "2026-11-12",
    "open": 422
+  },
+  {
+   "date": "2026-11-13",
+   "open": 398
   }
  ],
  "jobs": {
@@ -236,6 +240,21 @@
    "reopened": 0,
    "title": "Principal Solutions Architect",
    "url": "https://jobs.elastic.co/jobs?gh_jid=7621743&gh_jid=7621743"
+  },
+  "7673061": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "customer architect barcelona @ barcelona, spain",
+   "location": "Barcelona, Spain",
+   "posted_at": "2026-03-04T10:42:37+00:00",
+   "posted_history": [
+    "2026-03-04T10:42:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Architect - Barcelona",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=7673061&gh_jid=7673061"
   },
   "7712221": {
    "closed_at": null,
@@ -437,14 +456,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "enterprise account executive mumbai @ mumbai, india",
+   "fp": "enterprise account executive @ mumbai, india",
    "location": "Mumbai, India",
    "posted_at": "2026-04-20T07:10:31+00:00",
    "posted_history": [
     "2026-04-20T07:10:31+00:00"
    ],
    "reopened": 0,
-   "title": "Enterprise Account Executive (FSI) - Mumbai",
+   "title": "Enterprise Account Executive (BFSI)",
    "url": "https://jobs.elastic.co/jobs?gh_jid=7821378&gh_jid=7821378"
   },
   "7843348": {
@@ -2263,7 +2282,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8126357&gh_jid=8126357"
   },
   "8127255": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2278,7 +2297,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8127255&gh_jid=8127255"
   },
   "8128211": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3058,7 +3077,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8161505&gh_jid=8161505"
   },
   "8161511": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3073,7 +3092,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8161511&gh_jid=8161511"
   },
   "8161518": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3088,7 +3107,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8161518&gh_jid=8161518"
   },
   "8161519": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3103,7 +3122,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8161519&gh_jid=8161519"
   },
   "8161560": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3118,7 +3137,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8161560&gh_jid=8161560"
   },
   "8161569": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3133,7 +3152,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8161569&gh_jid=8161569"
   },
   "8161686": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3148,7 +3167,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8161686&gh_jid=8161686"
   },
   "8161687": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3163,7 +3182,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8161687&gh_jid=8161687"
   },
   "8161688": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3178,7 +3197,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8161688&gh_jid=8161688"
   },
   "8161695": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3193,7 +3212,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8161695&gh_jid=8161695"
   },
   "8161696": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3388,7 +3407,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8162410&gh_jid=8162410"
   },
   "8162445": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3403,7 +3422,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8162445&gh_jid=8162445"
   },
   "8162459": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3418,7 +3437,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8162459&gh_jid=8162459"
   },
   "8162462": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3433,7 +3452,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8162462&gh_jid=8162462"
   },
   "8162465": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3448,7 +3467,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8162465&gh_jid=8162465"
   },
   "8162466": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3463,7 +3482,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8162466&gh_jid=8162466"
   },
   "8162469": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3478,7 +3497,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8162469&gh_jid=8162469"
   },
   "8162470": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3493,7 +3512,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8162470&gh_jid=8162470"
   },
   "8162473": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3508,7 +3527,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8162473&gh_jid=8162473"
   },
   "8162474": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3523,7 +3542,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8162474&gh_jid=8162474"
   },
   "8162476": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4783,7 +4802,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8227107&gh_jid=8227107"
   },
   "8227130": {
-   "closed_at": "2026-11-03T11:21:29+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4793,7 +4812,7 @@
    "posted_history": [
     "2026-09-28T17:33:50+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Regional Vice President - Mid-Market East",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8227130&gh_jid=8227130"
   },
@@ -5053,7 +5072,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8237783&gh_jid=8237783"
   },
   "8237959": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7453,7 +7472,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8337797&gh_jid=8337797"
   },
   "8338301": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
@@ -7468,7 +7487,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8338301&gh_jid=8338301"
   },
   "8338305": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
@@ -7678,7 +7697,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8349732&gh_jid=8349732"
   },
   "8349970": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
@@ -7693,7 +7712,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8349970&gh_jid=8349970"
   },
   "8350342": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
@@ -7976,6 +7995,21 @@
    "reopened": 0,
    "title": "Senior Services Sales Executive, Enterprise Accounts",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8358973&gh_jid=8358973"
+  },
+  "8359526": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "partner marketing program specialist @ united states",
+   "location": "United States",
+   "posted_at": "2026-11-12T21:12:56+00:00",
+   "posted_history": [
+    "2026-11-12T21:12:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Partner Marketing Program Specialist",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8359526&gh_jid=8359526"
   },
   "8360384": {
    "closed_at": null,

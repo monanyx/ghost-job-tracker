@@ -99,6 +99,10 @@
   {
    "date": "2026-11-12",
    "open": 107
+  },
+  {
+   "date": "2026-11-13",
+   "open": 108
   }
  ],
  "jobs": {
@@ -1333,7 +1337,7 @@
    "url": "https://www.asana.com/jobs/apply/8201809?gh_jid=8201809"
   },
   "8204614": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1802,14 +1806,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "data scientist @ vancouver, bc",
+   "fp": "senior data scientist @ vancouver, bc",
    "location": "Vancouver, BC",
    "posted_at": "2026-10-15T13:29:22+00:00",
    "posted_history": [
     "2026-10-15T13:29:22+00:00"
    ],
    "reopened": 0,
-   "title": "Data Scientist",
+   "title": "Senior Data Scientist",
    "url": "https://www.asana.com/jobs/apply/8275149?gh_jid=8275149"
   },
   "8275152": {
@@ -2368,7 +2372,7 @@
    "url": "https://www.asana.com/jobs/apply/8355820?gh_jid=8355820"
   },
   "8356878": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-12T11:51:19+00:00",
@@ -2397,6 +2401,21 @@
    "title": "Workplace Lead",
    "url": "https://www.asana.com/jobs/apply/8357119?gh_jid=8357119"
   },
+  "8369132": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "staff product designer ai @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-11-12T21:26:16+00:00",
+   "posted_history": [
+    "2026-11-12T21:26:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Product Designer, AI",
+   "url": "https://www.asana.com/jobs/apply/8369132?gh_jid=8369132"
+  },
   "8379094": {
    "closed_at": null,
    "department": "",
@@ -2411,6 +2430,36 @@
    "reopened": 0,
    "title": "Customer Marketing & Advocacy Manager",
    "url": "https://www.asana.com/jobs/apply/8379094?gh_jid=8379094"
+  },
+  "8383867": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "partner program operations manager @ chicago",
+   "location": "Chicago",
+   "posted_at": "2026-11-12T19:15:18+00:00",
+   "posted_history": [
+    "2026-11-12T19:15:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Partner Program Operations Manager",
+   "url": "https://www.asana.com/jobs/apply/8383867?gh_jid=8383867"
+  },
+  "8383870": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "partner program operations manager @ new york city",
+   "location": "New York City",
+   "posted_at": "2026-11-12T19:15:45+00:00",
+   "posted_history": [
+    "2026-11-12T19:15:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Partner Program Operations Manager",
+   "url": "https://www.asana.com/jobs/apply/8383870?gh_jid=8383870"
   }
  }
 }

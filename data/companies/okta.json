@@ -99,6 +99,10 @@
   {
    "date": "2026-11-12",
    "open": 374
+  },
+  {
+   "date": "2026-11-13",
+   "open": 365
   }
  ],
  "jobs": {
@@ -1468,7 +1472,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8013137?gh_jid=8013137"
   },
   "8015032": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2068,7 +2072,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8073066?gh_jid=8073066"
   },
   "8073082": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2308,7 +2312,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8090536?gh_jid=8090536"
   },
   "8093199": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2503,7 +2507,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8104905?gh_jid=8104905"
   },
   "8106012": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3163,7 +3167,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8156825?gh_jid=8156825"
   },
   "8157043": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3613,7 +3617,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8190028?gh_jid=8190028"
   },
   "8190478": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3838,7 +3842,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8203708?gh_jid=8203708"
   },
   "8204491": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4033,7 +4037,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8210784?gh_jid=8210784"
   },
   "8210913": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-20T08:53:12+00:00",
@@ -4078,7 +4082,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8210918?gh_jid=8210918"
   },
   "8210924": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
@@ -5413,7 +5417,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8250518?gh_jid=8250518"
   },
   "8255902": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5953,7 +5957,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8275287?gh_jid=8275287"
   },
   "8276038": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-28T10:01:46+00:00",
@@ -6553,7 +6557,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8289602?gh_jid=8289602"
   },
   "8289604": {
-   "closed_at": "2026-11-06T11:30:42+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6563,7 +6567,7 @@
    "posted_history": [
     "2026-10-16T18:45:37+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Strategic Account Executive",
    "url": "https://www.okta.com/company/careers/opportunity/8289604?gh_jid=8289604"
   },
@@ -6587,8 +6591,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "corporate new business account executive @ san francisco, california",
-   "location": "San Francisco, California",
+   "fp": "corporate new business account executive @ chicago, illinois; san francisco, california; washington, dc",
+   "location": "Chicago, Illinois; San Francisco, California; Washington, DC",
    "posted_at": "2026-10-16T21:18:41+00:00",
    "posted_history": [
     "2026-10-16T21:18:41+00:00"
@@ -8036,6 +8040,21 @@
    "reopened": 0,
    "title": "Finance Manager, People and Corp Dev.",
    "url": "https://www.okta.com/company/careers/opportunity/8374832?gh_jid=8374832"
+  },
+  "8383373": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "director product security psirt @ bellevue, washington; san francisco, california",
+   "location": "Bellevue, Washington; San Francisco, California",
+   "posted_at": "2026-11-13T00:08:01+00:00",
+   "posted_history": [
+    "2026-11-13T00:08:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "Director, Product Security, PSIRT",
+   "url": "https://www.okta.com/company/careers/opportunity/8383373?gh_jid=8383373"
   }
  }
 }

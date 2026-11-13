@@ -99,6 +99,10 @@
   {
    "date": "2026-11-12",
    "open": 134
+  },
+  {
+   "date": "2026-11-13",
+   "open": 143
   }
  ],
  "jobs": {
@@ -1037,18 +1041,18 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior product manager @ cary,north carolina,united states",
-   "location": "Cary,North Carolina,United States",
+   "fp": "senior product manager @ new york city,new york,united states",
+   "location": "New York City,New York,United States",
    "posted_at": "2026-10-03T19:58:20+00:00",
    "posted_history": [
     "2026-10-03T19:58:20+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Product Manager",
+   "title": "Senior Product Manager (Fortnite)",
    "url": "https://epicgames.com/careers/jobs/6141405004?gh_jid=6141405004"
   },
   "6141407004": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1798,7 +1802,7 @@
    "url": "https://epicgames.com/careers/jobs/6203698004?gh_jid=6203698004"
   },
   "6205749004": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2248,7 +2252,7 @@
    "url": "https://epicgames.com/careers/jobs/6222447004?gh_jid=6222447004"
   },
   "6223282004": {
-   "closed_at": "2026-11-06T11:30:42+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2258,7 +2262,7 @@
    "posted_history": [
     "2026-10-15T16:05:25+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Executive Assistant",
    "url": "https://epicgames.com/careers/jobs/6223282004?gh_jid=6223282004"
   },
@@ -2293,7 +2297,7 @@
    "url": "https://epicgames.com/careers/jobs/6224464004?gh_jid=6224464004"
   },
   "6225503004": {
-   "closed_at": "2026-11-06T11:30:42+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2303,7 +2307,7 @@
    "posted_history": [
     "2026-10-15T16:05:27+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Executive Assistant",
    "url": "https://epicgames.com/careers/jobs/6225503004?gh_jid=6225503004"
   },
@@ -2473,7 +2477,7 @@
    "url": "https://epicgames.com/careers/jobs/6232770004?gh_jid=6232770004"
   },
   "6233504004": {
-   "closed_at": "2026-11-06T11:30:42+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
@@ -2483,7 +2487,7 @@
    "posted_history": [
     "2026-10-23T17:25:52+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Executive Assistant",
    "url": "https://epicgames.com/careers/jobs/6233504004?gh_jid=6233504004"
   },
@@ -2637,6 +2641,36 @@
    "title": "Environment Art Outsource Lead",
    "url": "https://epicgames.com/careers/jobs/6239492004?gh_jid=6239492004"
   },
+  "6242337004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "senior ai programmer @ cary,north carolina,united states",
+   "location": "Cary,North Carolina,United States",
+   "posted_at": "2026-11-12T21:17:10+00:00",
+   "posted_history": [
+    "2026-11-12T21:17:10+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior AI Programmer",
+   "url": "https://epicgames.com/careers/jobs/6242337004?gh_jid=6242337004"
+  },
+  "6242339004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "senior ai programmer @ blank,blank,multiple locations",
+   "location": "BLANK,BLANK,Multiple Locations",
+   "posted_at": "2026-11-12T21:17:08+00:00",
+   "posted_history": [
+    "2026-11-12T21:17:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior AI Programmer",
+   "url": "https://epicgames.com/careers/jobs/6242339004?gh_jid=6242339004"
+  },
   "6242379004": {
    "closed_at": null,
    "department": "",
@@ -2712,6 +2746,51 @@
    "title": "Senior Language Programmer",
    "url": "https://epicgames.com/careers/jobs/6248481004?gh_jid=6248481004"
   },
+  "6250140004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "principal backend programmer @ cary,north carolina,united states",
+   "location": "Cary,North Carolina,United States",
+   "posted_at": "2026-11-12T18:06:39+00:00",
+   "posted_history": [
+    "2026-11-12T18:06:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Backend Programmer (Developer Platform)",
+   "url": "https://epicgames.com/careers/jobs/6250140004?gh_jid=6250140004"
+  },
+  "6250142004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "principal backend programmer @ blank,blank,multiple locations",
+   "location": "BLANK,BLANK,Multiple Locations",
+   "posted_at": "2026-11-12T18:06:41+00:00",
+   "posted_history": [
+    "2026-11-12T18:06:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Backend Programmer (Developer Platform)",
+   "url": "https://epicgames.com/careers/jobs/6250142004?gh_jid=6250142004"
+  },
+  "6250171004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "senior backend programmer @ cary,north carolina,united states",
+   "location": "Cary,North Carolina,United States",
+   "posted_at": "2026-11-12T17:57:16+00:00",
+   "posted_history": [
+    "2026-11-12T17:57:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Backend Programmer (SCM & CI/CD)",
+   "url": "https://epicgames.com/careers/jobs/6250171004?gh_jid=6250171004"
+  },
   "6251540004": {
    "closed_at": null,
    "department": "",
@@ -2786,6 +2865,51 @@
    "reopened": 0,
    "title": "Gaming Threat Intelligence Analyst",
    "url": "https://epicgames.com/careers/jobs/6254629004?gh_jid=6254629004"
+  },
+  "6257189004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "senior backend programmer @ blank,blank,multiple locations",
+   "location": "BLANK,BLANK,Multiple Locations",
+   "posted_at": "2026-11-12T17:57:24+00:00",
+   "posted_history": [
+    "2026-11-12T17:57:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Backend Programmer (SCM & CI/CD)",
+   "url": "https://epicgames.com/careers/jobs/6257189004?gh_jid=6257189004"
+  },
+  "6258000004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "principal backend programmer @ montreal,quebec,canada",
+   "location": "Montreal,Quebec,Canada",
+   "posted_at": "2026-11-12T18:20:15+00:00",
+   "posted_history": [
+    "2026-11-12T18:20:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Backend Programmer (Developer Platform)",
+   "url": "https://epicgames.com/careers/jobs/6258000004?gh_jid=6258000004"
+  },
+  "6258494004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "senior security automation software programmer @ montreal,quebec,canada",
+   "location": "Montreal,Quebec,Canada",
+   "posted_at": "2026-11-12T18:24:34+00:00",
+   "posted_history": [
+    "2026-11-12T18:24:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Security Automation Software Programmer",
+   "url": "https://epicgames.com/careers/jobs/6258494004?gh_jid=6258494004"
   }
  }
 }

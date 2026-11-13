@@ -99,6 +99,10 @@
   {
    "date": "2026-11-12",
    "open": 912
+  },
+  {
+   "date": "2026-11-13",
+   "open": 907
   }
  ],
  "jobs": {
@@ -2537,14 +2541,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "sr designated support engineer apache spark @ amsterdam, netherlands",
+   "fp": "sr designated support engineer @ amsterdam, netherlands",
    "location": "Amsterdam, Netherlands",
    "posted_at": "2025-08-19T17:50:54+00:00",
    "posted_history": [
     "2025-08-19T17:50:54+00:00"
    ],
    "reopened": 0,
-   "title": "Sr. Designated Support Engineer, Apache Spark™",
+   "title": "Sr. Designated Support Engineer",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8125173002"
   },
   "8133691002": {
@@ -3557,14 +3561,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "sr software engineer backend @ new york city, new york",
+   "fp": "sr software engineer ai gateway @ new york city, new york",
    "location": "New York City, New York",
    "posted_at": "2026-01-16T23:38:49+00:00",
    "posted_history": [
     "2026-01-16T23:38:49+00:00"
    ],
    "reopened": 0,
-   "title": "Sr. Software Engineer- Backend",
+   "title": "Sr. Software Engineer - AI Gateway",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8379331002"
   },
   "8384388002": {
@@ -4742,14 +4746,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "staff backend software engineer @ new york",
+   "fp": "staff software engineer ai gateway @ new york",
    "location": "New York",
    "posted_at": "2026-03-18T17:27:10+00:00",
    "posted_history": [
     "2026-03-18T17:27:10+00:00"
    ],
    "reopened": 0,
-   "title": "Staff Backend Software Engineer",
+   "title": "Staff Software Engineer - AI Gateway",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8468436002"
   },
   "8469396002": {
@@ -4978,7 +4982,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8486165002"
   },
   "8487145002": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5773,7 +5777,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8537033002"
   },
   "8537058002": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6467,14 +6471,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "lakebase associate director specialist mfg @ united states",
-   "location": "United States",
+   "fp": "lakebase associate director specialist manufacturing @ atlanta, georgia; chicago, illinois; florida, united states; kansas; new york city, new york; remote - illinois; remote - michigan; remote - ohio; remote - virginia",
+   "location": "Atlanta, Georgia; Chicago, Illinois; Florida, United States; Kansas; New York City, New York; Remote - Illinois; Remote - Michigan; Remote - Ohio; Remote - Virginia",
    "posted_at": "2026-07-31T19:50:36+00:00",
    "posted_history": [
     "2026-07-31T19:50:36+00:00"
    ],
    "reopened": 0,
-   "title": "Lakebase Associate Director Specialist-MFG",
+   "title": "Lakebase Associate Director Specialist-Manufacturing",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569498002"
   },
   "8569506002": {
@@ -7513,7 +7517,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8596443002"
   },
   "8596447002": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7708,7 +7712,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8604596002"
   },
   "8604598002": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7798,7 +7802,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8609866002"
   },
   "8610773002": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -9657,6 +9661,21 @@
    "title": "Director, Alliance",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8688832002"
   },
+  "8688836002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "alliance director @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2026-08-11T13:43:55+00:00",
+   "posted_history": [
+    "2026-08-11T13:43:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Alliance Director",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8688836002"
+  },
   "8688840002": {
    "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
@@ -10198,7 +10217,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8721005002"
   },
   "8723918002": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -11503,7 +11522,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8780675002"
   },
   "8780748002": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -11867,14 +11886,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "strategy execution manager @ usca",
-   "location": "USCA",
+   "fp": "gtm strategy manager @ remote - california; san francisco, california; usca",
+   "location": "Remote - California; San Francisco, California; USCA",
    "posted_at": "2026-09-14T18:24:46+00:00",
    "posted_history": [
     "2026-09-14T18:24:46+00:00"
    ],
    "reopened": 0,
-   "title": "Strategy & Execution Manager",
+   "title": "GTM Strategy Manager",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8792458002"
   },
   "8792626002": {
@@ -12283,7 +12302,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8813844002"
   },
   "8814528002": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -12377,14 +12396,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "sr designated support engineer apache spark @ sao paulo, brazil",
+   "fp": "sr designated support engineer @ sao paulo, brazil",
    "location": "Sao Paulo, Brazil",
    "posted_at": "2026-09-17T20:46:10+00:00",
    "posted_history": [
     "2026-09-17T20:46:10+00:00"
    ],
    "reopened": 0,
-   "title": "Sr. Designated Support Engineer, Apache Spark™",
+   "title": "Sr. Designated Support Engineer",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8817828002"
   },
   "8818416002": {
@@ -12703,7 +12722,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8826872002"
   },
   "8829029002": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -14068,7 +14087,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8878946002"
   },
   "8879335002": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -14698,7 +14717,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8893728002"
   },
   "8893772002": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-06T11:30:42+00:00",
@@ -14968,7 +14987,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8899915002"
   },
   "8899917002": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -15341,6 +15360,21 @@
    "reopened": 0,
    "title": "Senior Staff Software Engineer, AI Runtime",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8909305002"
+  },
+  "8910838002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "account executive enterprise core @ seoul, south korea",
+   "location": "Seoul, South Korea",
+   "posted_at": "2026-11-13T08:52:31+00:00",
+   "posted_history": [
+    "2026-11-13T08:52:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive - Enterprise Core",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8910838002"
   },
   "8910840002": {
    "closed_at": null,
@@ -15748,7 +15782,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8922718002"
   },
   "8922722002": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
@@ -15793,7 +15827,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8922728002"
   },
   "8922730002": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -15827,14 +15861,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
-   "fp": "sr engagement manager fde @ seoul, south korea",
+   "fp": "sr engagement manager @ seoul, south korea",
    "location": "Seoul, South Korea",
    "posted_at": "2026-11-02T15:33:40+00:00",
    "posted_history": [
     "2026-11-02T15:33:40+00:00"
    ],
    "reopened": 0,
-   "title": "Sr. Engagement Manager, FDE",
+   "title": "Sr. Engagement Manager (Service Sales Executive)",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8922943002"
   },
   "8922945002": {
@@ -16542,6 +16576,21 @@
    "title": "Sales Leader, Commercial",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8936930002"
   },
+  "8936978002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "corporate fp a manager @ mountain view, california; san francisco, california",
+   "location": "Mountain View, California; San Francisco, California",
+   "posted_at": "2026-11-13T02:06:04+00:00",
+   "posted_history": [
+    "2026-11-13T02:06:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "Corporate FP&A Manager",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8936978002"
+  },
   "8937105002": {
    "closed_at": null,
    "department": "",
@@ -16571,6 +16620,96 @@
    "reopened": 0,
    "title": "GTM Recruiter",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8937106002"
+  },
+  "8937118002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "geo core account executive digital natives @ united states",
+   "location": "United States",
+   "posted_at": "2026-11-12T21:04:51+00:00",
+   "posted_history": [
+    "2026-11-12T21:04:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Geo Core Account Executive - Digital Natives",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8937118002"
+  },
+  "8937807002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "engineering manager developer ecosystem @ amsterdam, netherlands",
+   "location": "Amsterdam, Netherlands",
+   "posted_at": "2026-11-13T10:38:44+00:00",
+   "posted_history": [
+    "2026-11-13T10:38:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager - Developer Ecosystem",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8937807002"
+  },
+  "8939231002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "director enterprise @ sydney, australia",
+   "location": "Sydney, Australia",
+   "posted_at": "2026-11-12T22:33:36+00:00",
+   "posted_history": [
+    "2026-11-12T22:33:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Director, Enterprise (NSW)",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8939231002"
+  },
+  "8940421002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "sr research scientist agent flywheel @ new york city, new york",
+   "location": "New York City, New York",
+   "posted_at": "2026-11-12T21:40:45+00:00",
+   "posted_history": [
+    "2026-11-12T21:40:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Research Scientist - Agent Flywheel",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8940421002"
+  },
+  "8940488002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "engineering manager notebook dataplane @ mountain view, california",
+   "location": "Mountain View, California",
+   "posted_at": "2026-11-12T22:21:58+00:00",
+   "posted_history": [
+    "2026-11-12T22:21:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager - Notebook Dataplane",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8940488002"
+  },
+  "8940907002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "sr engineering manager developer ecosystem @ amsterdam, netherlands",
+   "location": "Amsterdam, Netherlands",
+   "posted_at": "2026-11-13T10:42:07+00:00",
+   "posted_history": [
+    "2026-11-13T10:42:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Engineering Manager - Developer Ecosystem",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8940907002"
   }
  }
 }

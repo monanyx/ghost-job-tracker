@@ -99,6 +99,10 @@
   {
    "date": "2026-11-12",
    "open": 80
+  },
+  {
+   "date": "2026-11-13",
+   "open": 79
   }
  ],
  "jobs": {
@@ -448,7 +452,7 @@
    "url": "https://jobs.ashbyhq.com/vanta/20d2c9aa-19da-4370-9378-491312f6f98a"
   },
   "22ba8036-10cb-405d-82fb-9cb07324934c": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "Product Management",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -478,7 +482,7 @@
    "url": "https://jobs.ashbyhq.com/vanta/29e92503-fecf-4ac4-9de7-683390fb74c6"
   },
   "2daebe8c-69af-44f3-a81f-38fb17da30a0": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1003,6 +1007,21 @@
    "title": "Staff Software Engineer, Program Structure & Trust",
    "url": "https://jobs.ashbyhq.com/vanta/9962b3c8-f1c4-4ad1-9308-7c8df6a28b28"
   },
+  "9bafb795-a5bb-4a68-97c6-d914b64b2e7b": {
+   "closed_at": null,
+   "department": "Revenue",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "senior solutions engineer enterprise @ remote u.s.",
+   "location": "Remote U.S.",
+   "posted_at": "2026-11-03T17:29:22+00:00",
+   "posted_history": [
+    "2026-11-03T17:29:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Solutions Engineer, Enterprise",
+   "url": "https://jobs.ashbyhq.com/vanta/9bafb795-a5bb-4a68-97c6-d914b64b2e7b"
+  },
   "9dbd2b25-0735-43db-87b4-6acbbf012a1c": {
    "closed_at": "2026-11-09T12:08:42+00:00",
    "department": "Marketing",
@@ -1484,6 +1503,21 @@
    "title": "Staff Software Engineer, Program Structure & Trust",
    "url": "https://jobs.ashbyhq.com/vanta/e8ed04e4-28ab-4108-95da-6282e9d6bf86"
   },
+  "ec34a1ac-787a-4799-84ee-c22d8e239ba5": {
+   "closed_at": null,
+   "department": "Revenue",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "account executive latam @ remote u.s.",
+   "location": "Remote U.S.",
+   "posted_at": "2026-11-12T15:35:13+00:00",
+   "posted_history": [
+    "2026-11-12T15:35:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, LatAm (Brazil)",
+   "url": "https://jobs.ashbyhq.com/vanta/ec34a1ac-787a-4799-84ee-c22d8e239ba5"
+  },
   "ecdf2c04-47a5-4360-a664-4341b9b355ce": {
    "closed_at": null,
    "department": "Revenue",
@@ -1635,7 +1669,7 @@
    "url": "https://jobs.ashbyhq.com/vanta/f987d41a-d0e1-4260-9129-f64aee6122ae"
   },
   "f98ff59f-8732-48a6-a60c-3367a0f288e5": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

@@ -99,6 +99,10 @@
   {
    "date": "2026-11-12",
    "open": 33
+  },
+  {
+   "date": "2026-11-13",
+   "open": 39
   }
  ],
  "jobs": {
@@ -118,7 +122,7 @@
    "url": "https://jobs.ashbyhq.com/sentry/1b63fc5e-ee6e-42b4-924c-a48836722cba"
   },
   "1c34ea48-ab62-4b71-a7d7-d0ac9eb07bba": {
-   "closed_at": "2026-11-12T11:51:19+00:00",
+   "closed_at": null,
    "department": "Engineering ",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -128,9 +132,24 @@
    "posted_history": [
     "2026-10-09T18:33:49+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Software Engineer, Streaming Platform",
    "url": "https://jobs.ashbyhq.com/sentry/1c34ea48-ab62-4b71-a7d7-d0ac9eb07bba"
+  },
+  "20f76384-83a0-4e49-b3d8-5bde14c7d0f2": {
+   "closed_at": null,
+   "department": "Engineering ",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "engineering manager data platform @ san francisco, california",
+   "location": "San Francisco, California",
+   "posted_at": "2026-11-13T05:45:46+00:00",
+   "posted_history": [
+    "2026-11-13T05:45:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager, Data Platform",
+   "url": "https://jobs.ashbyhq.com/sentry/20f76384-83a0-4e49-b3d8-5bde14c7d0f2"
   },
   "26c3535f-fcaa-4419-8272-43faa00582f1": {
    "closed_at": null,
@@ -209,7 +228,7 @@
    "url": "https://jobs.ashbyhq.com/sentry/2cdc2ba7-8406-452a-b84f-d94d8e7a09bb"
   },
   "35193bfb-bb6b-4479-85be-0945e5b94a3e": {
-   "closed_at": "2026-11-12T11:51:19+00:00",
+   "closed_at": null,
    "department": "Engineering ",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -219,7 +238,7 @@
    "posted_history": [
     "2026-10-09T18:45:34+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Software Engineer, Developer Infrastructure",
    "url": "https://jobs.ashbyhq.com/sentry/35193bfb-bb6b-4479-85be-0945e5b94a3e"
   },
@@ -254,7 +273,7 @@
    "url": "https://jobs.ashbyhq.com/sentry/5ee81d6f-e837-43bb-af06-8f26c992a766"
   },
   "67f20449-6b01-4cfa-92ca-bace58c10684": {
-   "closed_at": "2026-11-12T11:51:19+00:00",
+   "closed_at": null,
    "department": "Security",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -264,7 +283,7 @@
    "posted_history": [
     "2026-08-26T21:50:09+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Security Engineer, Application Security",
    "url": "https://jobs.ashbyhq.com/sentry/67f20449-6b01-4cfa-92ca-bace58c10684"
   },
@@ -284,7 +303,7 @@
    "url": "https://jobs.ashbyhq.com/sentry/68757804-a892-40ed-8ea7-f2d13500f29c"
   },
   "68b3897c-bbb0-4f90-aa9a-57981323e26b": {
-   "closed_at": "2026-11-12T11:51:19+00:00",
+   "closed_at": null,
    "department": "Engineering ",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -294,7 +313,7 @@
    "posted_history": [
     "2026-10-16T18:42:19+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Staff Software Engineer, Platform & Infrastructure",
    "url": "https://jobs.ashbyhq.com/sentry/68b3897c-bbb0-4f90-aa9a-57981323e26b"
   },
@@ -494,7 +513,7 @@
    "url": "https://jobs.ashbyhq.com/sentry/9b759583-60d2-4673-9da6-026731956300"
   },
   "9b7ba790-75d1-404c-bf9f-c3776179f7f2": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "Engineering ",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -509,7 +528,7 @@
    "url": "https://jobs.ashbyhq.com/sentry/9b7ba790-75d1-404c-bf9f-c3776179f7f2"
   },
   "ac1cb3c4-5408-4912-8591-eea2a84480b7": {
-   "closed_at": "2026-11-12T11:51:19+00:00",
+   "closed_at": null,
    "department": "Security",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -519,12 +538,12 @@
    "posted_history": [
     "2026-08-26T21:50:28+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Security Engineer, Detection & Response",
    "url": "https://jobs.ashbyhq.com/sentry/ac1cb3c4-5408-4912-8591-eea2a84480b7"
   },
   "ac8fd540-f3a2-4306-b52c-195fdbd2b998": {
-   "closed_at": "2026-11-12T11:51:19+00:00",
+   "closed_at": null,
    "department": "Security",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -534,9 +553,24 @@
    "posted_history": [
     "2026-08-26T21:50:52+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Security Engineer, Detection & Response",
    "url": "https://jobs.ashbyhq.com/sentry/ac8fd540-f3a2-4306-b52c-195fdbd2b998"
+  },
+  "ad10ec02-e439-4e2b-9f2b-d32b5a8a4b7a": {
+   "closed_at": null,
+   "department": "Engineering ",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "engineering manager infrastructure @ san francisco, california",
+   "location": "San Francisco, California",
+   "posted_at": "2026-11-13T05:44:13+00:00",
+   "posted_history": [
+    "2026-11-13T05:44:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager, Infrastructure",
+   "url": "https://jobs.ashbyhq.com/sentry/ad10ec02-e439-4e2b-9f2b-d32b5a8a4b7a"
   },
   "af7fab29-5d68-4041-9794-de4de3f41953": {
    "closed_at": null,
@@ -734,7 +768,7 @@
    "url": "https://jobs.ashbyhq.com/sentry/ccbee884-5fc1-492e-ba18-df568587ccc2"
   },
   "dc1e73a4-3cb8-4269-82b5-fdc6495b7e83": {
-   "closed_at": "2026-11-12T11:51:19+00:00",
+   "closed_at": null,
    "department": "Security",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -744,7 +778,7 @@
    "posted_history": [
     "2026-08-26T21:50:00+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Security Engineer, Application Security",
    "url": "https://jobs.ashbyhq.com/sentry/dc1e73a4-3cb8-4269-82b5-fdc6495b7e83"
   },
@@ -794,7 +828,7 @@
    "url": "https://jobs.ashbyhq.com/sentry/f345b525-b2e9-4dc1-bec1-85fb4c3b3cf2"
   },
   "f34d1bfd-4b09-4436-976a-79fd6648cf7b": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "Engineering ",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -824,7 +858,7 @@
    "url": "https://jobs.ashbyhq.com/sentry/f7b4f37b-4293-433d-910e-9033bf10d6d4"
   },
   "f9f3c913-26ef-45a2-a77f-79ae473c1a85": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "Engineering ",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",

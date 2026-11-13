@@ -99,6 +99,10 @@
   {
    "date": "2026-11-12",
    "open": 259
+  },
+  {
+   "date": "2026-11-13",
+   "open": 254
   }
  ],
  "jobs": {
@@ -823,7 +827,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8648304002"
   },
   "8654230002": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -898,7 +902,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8682860002"
   },
   "8684061002": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1363,7 +1367,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8731996002"
   },
   "8734888002": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1592,14 +1596,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior backend engineer trusted agentic development @ remote, poland",
+   "fp": "backend engineer trusted agentic development @ remote, poland",
    "location": "Remote, Poland",
    "posted_at": "2026-09-08T19:16:51+00:00",
    "posted_history": [
     "2026-09-08T19:16:51+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Backend Engineer, Trusted Agentic Development",
+   "title": "Backend Engineer, Trusted Agentic Development",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8760233002"
   },
   "8763503002": {
@@ -1738,7 +1742,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8775507002"
   },
   "8778943002": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1978,7 +1982,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8792475002"
   },
   "8795736002": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2323,7 +2327,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8838202002"
   },
   "8838331002": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3133,7 +3137,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8867649002"
   },
   "8867725002": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3358,7 +3362,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8872500002"
   },
   "8874151002": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-12T11:51:19+00:00",
@@ -3373,7 +3377,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8874151002"
   },
   "8874166002": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-12T11:51:19+00:00",
@@ -4532,14 +4536,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",
-   "fp": "senior professional services engineer north carolina @ remote, united states",
+   "fp": "senior professional services engineer charlotte nc @ remote, united states",
    "location": "Remote, United States",
    "posted_at": "2026-11-06T21:25:46+00:00",
    "posted_history": [
     "2026-11-06T21:25:46+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Professional Services Engineer - North Carolina",
+   "title": "Senior Professional Services Engineer - Charlotte, NC",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8920764002"
   },
   "8920912002": {
@@ -4767,6 +4771,21 @@
    "title": "Intermediate Data Engineer",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8924923002"
   },
+  "8926105002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "staff backend engineer performance enablement @ remote, poland",
+   "location": "Remote, Poland",
+   "posted_at": "2026-11-12T14:14:54+00:00",
+   "posted_history": [
+    "2026-11-12T14:14:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Backend Engineer, Performance Enablement",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8926105002"
+  },
   "8926435002": {
    "closed_at": null,
    "department": "",
@@ -4841,6 +4860,21 @@
    "reopened": 0,
    "title": "New Business Account Executive - East",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8928280002"
+  },
+  "8928325002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "manager sox pmo business process @ remote, canada; remote, india; remote, united states",
+   "location": "Remote, Canada; Remote, India; Remote, United States",
+   "posted_at": "2026-11-10T18:28:54+00:00",
+   "posted_history": [
+    "2026-11-10T18:28:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, SOX PMO - Business Process",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8928325002"
   },
   "8928552002": {
    "closed_at": "2026-11-10T11:47:05+00:00",
@@ -5022,6 +5056,21 @@
    "title": "Senior Corporate Security Engineer",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8931298002"
   },
+  "8931313002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "customer success architect east @ remote, united states",
+   "location": "Remote, United States",
+   "posted_at": "2026-11-12T17:31:31+00:00",
+   "posted_history": [
+    "2026-11-12T17:31:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Success Architect - East",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8931313002"
+  },
   "8931337002": {
    "closed_at": null,
    "department": "",
@@ -5171,6 +5220,21 @@
    "reopened": 0,
    "title": "Strategic Account Executive - Spain",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8936142002"
+  },
+  "8936153002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "staff forward deployed engineer emea @ remote ireland; remote, austria; remote, france; remote, germany; remote, netherlands; remote, spain; remote, united kingdom",
+   "location": "Remote Ireland; Remote, Austria; Remote, France; Remote, Germany; Remote, Netherlands; Remote, Spain; Remote, United Kingdom",
+   "posted_at": "2026-11-12T14:31:21+00:00",
+   "posted_history": [
+    "2026-11-12T14:31:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Forward Deployed Engineer, EMEA",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8936153002"
   },
   "8936156002": {
    "closed_at": null,

@@ -99,6 +99,10 @@
   {
    "date": "2026-11-12",
    "open": 190
+  },
+  {
+   "date": "2026-11-13",
+   "open": 191
   }
  ],
  "jobs": {
@@ -446,7 +450,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/6694005"
   },
   "6694009": {
-   "closed_at": "2026-11-02T11:41:30+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -456,7 +460,7 @@
    "posted_history": [
     "2025-03-13T13:21:01+00:00"
    ],
-   "reopened": 1,
+   "reopened": 2,
    "title": "Grocery Associate (m/w/d)",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/6694009"
   },
@@ -1674,7 +1678,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8045935"
   },
   "8050398": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1929,7 +1933,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8101711"
   },
   "8102879": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3039,7 +3043,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8233019"
   },
   "8235901": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4239,7 +4243,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8349382"
   },
   "8352255": {
-   "closed_at": "2026-11-07T10:41:11+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-05T11:30:12+00:00",
@@ -4249,7 +4253,7 @@
    "posted_history": [
     "2026-11-04T10:31:16+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Sales Support Associate",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8352255"
   },
@@ -4523,6 +4527,21 @@
    "title": "Strategy & Operations Manager, Pricing & Affordability",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8372485"
   },
+  "8377764": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "hr operations specialist @ timisoara, romania",
+   "location": "Timisoara, Romania",
+   "posted_at": "2026-11-12T15:15:13+00:00",
+   "posted_history": [
+    "2026-11-12T15:15:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "HR Operations Specialist",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8377764"
+  },
   "8377852": {
    "closed_at": null,
    "department": "",
@@ -4582,6 +4601,21 @@
    "reopened": 0,
    "title": "Grocery Associate - Youth Workers",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8378863"
+  },
+  "8385136": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "senior software engineer proactive security @ berlin, germany; helsinki, finland",
+   "location": "Berlin, Germany; Helsinki, Finland",
+   "posted_at": "2026-11-13T09:02:09+00:00",
+   "posted_history": [
+    "2026-11-13T09:02:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Proactive Security",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8385136"
   }
  }
 }

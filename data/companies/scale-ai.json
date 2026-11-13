@@ -99,6 +99,10 @@
   {
    "date": "2026-11-12",
    "open": 169
+  },
+  {
+   "date": "2026-11-13",
+   "open": 170
   }
  ],
  "jobs": {
@@ -1632,6 +1636,21 @@
    "title": "Forward Deployed Product Manager, Public Sector",
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4713648005"
   },
+  "4714509005": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "senior software engineer agent oversight @ san francisco, ca; new york, ny",
+   "location": "San Francisco, CA; New York, NY",
+   "posted_at": "2026-07-14T20:12:46+00:00",
+   "posted_history": [
+    "2026-07-14T20:12:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Agent Oversight",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4714509005"
+  },
   "4714527005": {
    "closed_at": null,
    "department": "",
@@ -2188,7 +2207,7 @@
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4726268005"
   },
   "4727135005": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2203,7 +2222,7 @@
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4727135005"
   },
   "4727138005": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2792,14 +2811,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "field marketing events manager frontier data @ san francisco, ca; new york, ny",
+   "fp": "field marketing events manager @ san francisco, ca; new york, ny",
    "location": "San Francisco, CA; New York, NY",
    "posted_at": "2026-10-12T16:57:07+00:00",
    "posted_history": [
     "2026-10-12T16:57:07+00:00"
    ],
    "reopened": 0,
-   "title": "Field Marketing & Events Manager, Frontier Data",
+   "title": "Field Marketing & Events Manager",
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4741462005"
   },
   "4742042005": {
@@ -3281,6 +3300,36 @@
    "reopened": 0,
    "title": "US Executive Branch Policy & International Engagement Lead",
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4752556005"
+  },
+  "4753437005": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "senior engineering manager kuwait @ kuwait city, kuwait",
+   "location": "Kuwait City, Kuwait",
+   "posted_at": "2026-11-12T18:07:34+00:00",
+   "posted_history": [
+    "2026-11-12T18:07:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Engineering Manager, Kuwait",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4753437005"
+  },
+  "4753798005": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "account executive navy @ san diego, ca; washington, dc",
+   "location": "San Diego, CA; Washington, DC",
+   "posted_at": "2026-11-12T22:26:32+00:00",
+   "posted_history": [
+    "2026-11-12T22:26:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, Navy",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4753798005"
   }
  }
 }

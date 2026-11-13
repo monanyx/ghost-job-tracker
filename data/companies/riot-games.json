@@ -99,6 +99,10 @@
   {
    "date": "2026-11-12",
    "open": 200
+  },
+  {
+   "date": "2026-11-13",
+   "open": 201
   }
  ],
  "jobs": {
@@ -1284,7 +1288,7 @@
     "2026-07-31T09:28:27+00:00"
    ],
    "reopened": 0,
-   "title": "Staff Software Engineer, Social & Store - Unpublished R&D Product ( Australia-based, Relocation and Visa Sponsorship provided)",
+   "title": "Staff Software Engineer, Social & Store - Unpublished R&D Product (Australia-based, Relocation and Visa Sponsorship provided)",
    "url": "https://www.riotgames.com/en/work-with-us/job/8080763?gh_jid=8080763"
   },
   "8082802": {
@@ -1468,7 +1472,7 @@
    "url": "https://www.riotgames.com/en/work-with-us/job/8118847?gh_jid=8118847"
   },
   "8118875": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1933,7 +1937,7 @@
    "url": "https://www.riotgames.com/en/work-with-us/job/8187661?gh_jid=8187661"
   },
   "8187663": {
-   "closed_at": "2026-10-31T09:57:28+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1943,7 +1947,7 @@
    "posted_history": [
     "2026-10-12T21:15:25+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Principal 3D Environment Artist - Unpublished R&D Product",
    "url": "https://www.riotgames.com/en/work-with-us/job/8187663?gh_jid=8187663"
   },
@@ -3358,7 +3362,7 @@
    "url": "https://www.riotgames.com/en/work-with-us/job/8351154?gh_jid=8351154"
   },
   "8353230": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-06T11:30:42+00:00",
@@ -3701,6 +3705,36 @@
    "reopened": 0,
    "title": "Principal Concept Artist - VALORANT Mobile",
    "url": "https://www.riotgames.com/en/work-with-us/job/8376279?gh_jid=8376279"
+  },
+  "8381955": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "security engineer security operations @ dublin, ireland",
+   "location": "Dublin, Ireland",
+   "posted_at": "2026-11-12T17:42:32+00:00",
+   "posted_history": [
+    "2026-11-12T17:42:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Security Engineer, Security Operations",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8381955?gh_jid=8381955"
+  },
+  "8385235": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "manager software engineering sre site lead dublin roc @ dublin, ireland",
+   "location": "Dublin, Ireland",
+   "posted_at": "2026-11-13T10:32:38+00:00",
+   "posted_history": [
+    "2026-11-13T10:32:38+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Software Engineering - SRE Site Lead: Dublin ROC",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8385235?gh_jid=8385235"
   }
  }
 }

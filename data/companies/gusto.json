@@ -99,6 +99,10 @@
   {
    "date": "2026-11-12",
    "open": 80
+  },
+  {
+   "date": "2026-11-13",
+   "open": 77
   }
  ],
  "jobs": {
@@ -523,7 +527,7 @@
    "url": "https://job-boards.greenhouse.io/gusto/jobs/7998368"
   },
   "8001872": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -778,17 +782,17 @@
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8083986"
   },
   "8092462": {
-   "closed_at": "2026-10-30T10:28:19+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "expansion account executive @ atlanta, ga - hybrid; denver, co - hybrid; scottsdale, az - hybrid",
-   "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid; Scottsdale, AZ - Hybrid",
+   "fp": "expansion account executive @ atlanta, ga - hybrid; denver, co - hybrid",
+   "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid",
    "posted_at": "2026-08-04T15:48:15+00:00",
    "posted_history": [
     "2026-08-04T15:48:15+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Expansion Account Executive",
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8092462"
   },
@@ -1183,7 +1187,7 @@
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8180433"
   },
   "8180461": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1273,7 +1277,7 @@
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8204403"
   },
   "8205075": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1468,7 +1472,7 @@
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8231833"
   },
   "8241804": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1513,7 +1517,7 @@
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8244957"
   },
   "8244969": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1772,8 +1776,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "staff product designer @ denver, co - hybrid; new york, ny - hybrid; san francisco, ca - hybrid",
-   "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+   "fp": "staff product designer @ atlanta, ga - hybrid; denver, co - hybrid; new york, ny - hybrid; san francisco, ca - hybrid; toronto, ontario - remote",
+   "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Toronto, Ontario - Remote",
    "posted_at": "2026-10-15T16:16:07+00:00",
    "posted_history": [
     "2026-10-15T16:16:07+00:00"
@@ -1832,8 +1836,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "tax resolution advocate @ atlanta, ga - hybrid; denver, co - hybrid; scottsdale, az - hybrid",
-   "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid; Scottsdale, AZ - Hybrid",
+   "fp": "tax resolution advocate @ denver, co - hybrid",
+   "location": "Denver, CO - Hybrid",
    "posted_at": "2026-10-18T22:37:41+00:00",
    "posted_history": [
     "2026-10-18T22:37:41+00:00"
@@ -1862,14 +1866,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-06T11:30:42+00:00",
-   "fp": "senior solution architect @ atlanta, ga - hybrid; denver, co - hybrid",
+   "fp": "lead sales engineer @ atlanta, ga - hybrid; denver, co - hybrid",
    "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid",
    "posted_at": "2026-11-05T17:44:22+00:00",
    "posted_history": [
     "2026-11-05T17:44:22+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Solution Architect",
+   "title": "Lead Sales Engineer",
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8346975"
   },
   "8346979": {
@@ -2036,6 +2040,21 @@
    "reopened": 0,
    "title": "Future Opportunities: Franchise Sales",
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8373808"
+  },
+  "8374008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "expansion ae gusto pro @ atlanta, ga - hybrid; denver, co - hybrid",
+   "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid",
+   "posted_at": "2026-11-12T14:54:46+00:00",
+   "posted_history": [
+    "2026-11-12T14:54:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "Expansion AE, Gusto Pro",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8374008"
   }
  }
 }

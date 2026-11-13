@@ -99,6 +99,10 @@
   {
    "date": "2026-11-12",
    "open": 176
+  },
+  {
+   "date": "2026-11-13",
+   "open": 180
   }
  ],
  "jobs": {
@@ -343,7 +347,7 @@
    "url": "https://jobs.ashbyhq.com/ramp/190c265a-ca4f-48b7-b2a4-13412299249d"
   },
   "198150d6-789a-4ef8-999f-93a49656d4f1": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -677,14 +681,14 @@
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "security engineer cloud @ new york, ny (hq)",
+   "fp": "software engineer security cloud @ new york, ny (hq)",
    "location": "New York, NY (HQ)",
    "posted_at": "2026-04-07T17:12:35+00:00",
    "posted_history": [
     "2026-04-07T17:12:35+00:00"
    ],
    "reopened": 0,
-   "title": "Security Engineer, Cloud",
+   "title": "Software Engineer, Security, Cloud",
    "url": "https://jobs.ashbyhq.com/ramp/34413f8d-26bf-4bbc-8ade-eb309a0e2245"
   },
   "390f4cd0-e0e4-451c-ae28-e6b19861dda9": {
@@ -808,6 +812,21 @@
    "title": "Customer Experience Associate (Evening Shift)",
    "url": "https://jobs.ashbyhq.com/ramp/40f43993-21e8-4db1-a9f4-7a3e6098a9ba"
   },
+  "415997bf-a1c2-472d-ad54-04bd0d95259b": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "senior engineer backend vendor management @ new york, ny (hq)",
+   "location": "New York, NY (HQ)",
+   "posted_at": "2026-11-12T15:58:17+00:00",
+   "posted_history": [
+    "2026-11-12T15:58:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Engineer, Backend, Vendor Management",
+   "url": "https://jobs.ashbyhq.com/ramp/415997bf-a1c2-472d-ad54-04bd0d95259b"
+  },
   "42527ca9-03b9-499e-a5c4-18e4245af138": {
    "closed_at": null,
    "department": "Engineering",
@@ -868,6 +887,21 @@
    "title": "Tech Lead and Manager (TLM), Production Engineering",
    "url": "https://jobs.ashbyhq.com/ramp/465799ed-c58b-4c6a-a290-2e95b52ef0bb"
   },
+  "4727e0b5-eafa-41ab-89ce-f6a1d19d3f0e": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "csm enterprise lifecycle @ new york, ny (hq)",
+   "location": "New York, NY (HQ)",
+   "posted_at": "2026-11-13T00:09:36+00:00",
+   "posted_history": [
+    "2026-11-13T00:09:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "CSM, Enterprise | Lifecycle",
+   "url": "https://jobs.ashbyhq.com/ramp/4727e0b5-eafa-41ab-89ce-f6a1d19d3f0e"
+  },
   "4745807e-82f4-4b1a-857c-dc8dadc73076": {
    "closed_at": "2026-11-05T11:30:12+00:00",
    "department": "Risk",
@@ -927,6 +961,21 @@
    "reopened": 0,
    "title": "Solutions Consultant, Post Sales, Mid-Market",
    "url": "https://jobs.ashbyhq.com/ramp/492823d8-9651-46cf-9d33-a632ef706879"
+  },
+  "498d0fa0-d6e2-4755-9004-736dcae47d81": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "csm mid market lifecycle @ new york, ny (hq)",
+   "location": "New York, NY (HQ)",
+   "posted_at": "2026-11-13T00:09:32+00:00",
+   "posted_history": [
+    "2026-11-13T00:09:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "CSM, Mid-Market | Lifecycle",
+   "url": "https://jobs.ashbyhq.com/ramp/498d0fa0-d6e2-4755-9004-736dcae47d81"
   },
   "4b3063cb-bb07-40d5-93d3-b7ce556f96e8": {
    "closed_at": "2026-10-28T10:01:46+00:00",
@@ -1079,7 +1128,7 @@
    "url": "https://jobs.ashbyhq.com/ramp/55bd9ab4-8edc-4493-b577-4277ad2f9ae6"
   },
   "566c4ad0-03ea-4022-8f11-04f0d8969f97": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "Marketing",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1092,6 +1141,21 @@
    "reopened": 0,
    "title": "Growth Creative Designer, International",
    "url": "https://jobs.ashbyhq.com/ramp/566c4ad0-03ea-4022-8f11-04f0d8969f97"
+  },
+  "574f46a4-42b2-46be-ba5c-de07c5e173c5": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "customer activation manager public sector @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-12T19:10:17+00:00",
+   "posted_history": [
+    "2026-11-12T19:10:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Activation Manager, Public Sector",
+   "url": "https://jobs.ashbyhq.com/ramp/574f46a4-42b2-46be-ba5c-de07c5e173c5"
   },
   "5cc4e600-1b28-4083-8a70-90f790112f89": {
    "closed_at": null,
@@ -1564,14 +1628,14 @@
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "security engineer product @ new york, ny (hq)",
+   "fp": "software engineer security product @ new york, ny (hq)",
    "location": "New York, NY (HQ)",
    "posted_at": "2026-01-20T21:47:15+00:00",
    "posted_history": [
     "2026-01-20T21:47:15+00:00"
    ],
    "reopened": 0,
-   "title": "Security Engineer, Product",
+   "title": "Software Engineer, Security, Product",
    "url": "https://jobs.ashbyhq.com/ramp/7c26780b-7923-42d5-8111-9825ff996966"
   },
   "7c55aa7c-90a5-46af-9ce7-134fbf370284": {
@@ -1939,14 +2003,14 @@
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "software engineer fraud identity @ new york, ny (hq)",
+   "fp": "software engineer backend fraud identity @ new york, ny (hq)",
    "location": "New York, NY (HQ)",
    "posted_at": "2026-03-27T20:01:22+00:00",
    "posted_history": [
     "2026-03-27T20:01:22+00:00"
    ],
    "reopened": 0,
-   "title": "Software Engineer, Fraud & Identity",
+   "title": "Software Engineer, Backend, Fraud & Identity",
    "url": "https://jobs.ashbyhq.com/ramp/8fa367de-71ba-409e-befd-175a163acb1b"
   },
   "939892e5-5273-4bfc-8c41-a6c51cabb228": {
@@ -1984,14 +2048,14 @@
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "security engineer privacy @ new york, ny (hq)",
+   "fp": "software engineer security privacy @ new york, ny (hq)",
    "location": "New York, NY (HQ)",
    "posted_at": "2026-01-20T21:47:19+00:00",
    "posted_history": [
     "2026-01-20T21:47:19+00:00"
    ],
    "reopened": 0,
-   "title": "Security Engineer, Privacy",
+   "title": "Software Engineer, Security, Privacy",
    "url": "https://jobs.ashbyhq.com/ramp/95f450a1-0d38-4d58-9aac-9d7e655adc36"
   },
   "96250bac-465c-4524-bc7c-ba0f0b05310f": {
@@ -2188,6 +2252,21 @@
    "reopened": 0,
    "title": "Senior Brand Designer, Growth",
    "url": "https://jobs.ashbyhq.com/ramp/a8451979-2691-440e-851b-49a3b807729b"
+  },
+  "a84ae1e2-8c88-4e05-9cb6-fa3e11b55aeb": {
+   "closed_at": null,
+   "department": "Product",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "product manager bill pay @ new york, ny (hq)",
+   "location": "New York, NY (HQ)",
+   "posted_at": "2026-11-12T17:25:55+00:00",
+   "posted_history": [
+    "2026-11-12T17:25:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Manager | Bill Pay",
+   "url": "https://jobs.ashbyhq.com/ramp/a84ae1e2-8c88-4e05-9cb6-fa3e11b55aeb"
   },
   "a85afad0-8051-4333-ae89-0f82321dea87": {
    "closed_at": "2026-11-04T11:35:04+00:00",
@@ -2453,9 +2532,10 @@
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "partner development representative reseller @ new york, ny (hq)",
    "location": "New York, NY (HQ)",
-   "posted_at": "2026-10-06T19:25:07+00:00",
+   "posted_at": "2026-11-12T18:30:11+00:00",
    "posted_history": [
-    "2026-10-06T19:25:07+00:00"
+    "2026-10-06T19:25:07+00:00",
+    "2026-11-12T18:30:11+00:00"
    ],
    "reopened": 0,
    "title": "Partner Development Representative | Reseller",
@@ -2535,6 +2615,21 @@
    "reopened": 0,
    "title": "Software Engineer, Backend, AI Spend Management",
    "url": "https://jobs.ashbyhq.com/ramp/b7514711-8a29-4bd2-a97a-967be14e336f"
+  },
+  "b7fd55f4-6c5a-42f5-be04-aa09a4d5b7a9": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "senior design systems engineer @ remote (us)",
+   "location": "Remote (US)",
+   "posted_at": "2026-11-12T20:01:54+00:00",
+   "posted_history": [
+    "2026-11-12T20:01:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Design Systems Engineer",
+   "url": "https://jobs.ashbyhq.com/ramp/b7fd55f4-6c5a-42f5-be04-aa09a4d5b7a9"
   },
   "b9568fb8-a47e-4738-87fb-a6d88c3a505f": {
    "closed_at": null,
@@ -2751,14 +2846,15 @@
    "department": "Marketing",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior product marketing manager new products @ new york, ny (hq)",
+   "fp": "senior product marketing manager general @ new york, ny (hq)",
    "location": "New York, NY (HQ)",
-   "posted_at": "2026-08-06T19:42:50+00:00",
+   "posted_at": "2026-11-12T19:03:49+00:00",
    "posted_history": [
-    "2026-08-06T19:42:50+00:00"
+    "2026-08-06T19:42:50+00:00",
+    "2026-11-12T19:03:49+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Product Marketing Manager - New Products",
+   "title": "Senior Product Marketing Manager - General (All Levels)",
    "url": "https://jobs.ashbyhq.com/ramp/cdc3cb5a-8c6d-4820-86cf-5f9daa2b41fc"
   },
   "cf3516f6-4d6b-4872-831f-c8ef4a3078ee": {

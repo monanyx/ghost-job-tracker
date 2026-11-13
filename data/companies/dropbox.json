@@ -99,6 +99,10 @@
   {
    "date": "2026-11-12",
    "open": 38
+  },
+  {
+   "date": "2026-11-13",
+   "open": 42
   }
  ],
  "jobs": {
@@ -193,7 +197,7 @@
    "url": "https://jobs.dropbox.com/listing/7752226?gh_jid=7752226"
   },
   "7752395": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -206,6 +210,21 @@
    "reopened": 0,
    "title": "Infrastructure Software Engineer",
    "url": "https://jobs.dropbox.com/listing/7752395?gh_jid=7752395"
+  },
+  "7758123": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "infrastructure software engineer @ remote - mexico",
+   "location": "Remote - Mexico",
+   "posted_at": "2026-04-28T11:02:07+00:00",
+   "posted_history": [
+    "2026-04-28T11:02:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Infrastructure Software Engineer",
+   "url": "https://jobs.dropbox.com/listing/7758123?gh_jid=7758123"
   },
   "8038748": {
    "closed_at": "2026-10-24T08:24:32+00:00",
@@ -403,7 +422,7 @@
    "url": "https://jobs.dropbox.com/listing/8177610?gh_jid=8177610"
   },
   "8207874": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -418,7 +437,7 @@
    "url": "https://jobs.dropbox.com/listing/8207874?gh_jid=8207874"
   },
   "8207875": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -747,6 +766,36 @@
    "title": "Stock Administrator",
    "url": "https://jobs.dropbox.com/listing/8328476?gh_jid=8328476"
   },
+  "8328511": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "application security engineer @ remote - us: select locations",
+   "location": "Remote - US: Select locations",
+   "posted_at": "2026-11-12T17:58:03+00:00",
+   "posted_history": [
+    "2026-11-12T17:58:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Application Security Engineer",
+   "url": "https://jobs.dropbox.com/listing/8328511?gh_jid=8328511"
+  },
+  "8328516": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "application security engineer @ remote - mexico",
+   "location": "Remote - Mexico",
+   "posted_at": "2026-11-12T17:57:36+00:00",
+   "posted_history": [
+    "2026-11-12T17:57:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Application Security Engineer",
+   "url": "https://jobs.dropbox.com/listing/8328516?gh_jid=8328516"
+  },
   "8328534": {
    "closed_at": null,
    "department": "",
@@ -851,6 +900,66 @@
    "reopened": 0,
    "title": "GTM Program Manager",
    "url": "https://jobs.dropbox.com/listing/8356675?gh_jid=8356675"
+  },
+  "8356939": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "senior client platform engineer endpoint platform automation @ remote - ireland",
+   "location": "Remote - Ireland",
+   "posted_at": "2026-11-12T17:56:47+00:00",
+   "posted_history": [
+    "2026-11-12T17:56:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Client Platform Engineer, Endpoint Platform & Automation",
+   "url": "https://jobs.dropbox.com/listing/8356939?gh_jid=8356939"
+  },
+  "8356941": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "senior client platform engineer endpoint platform automation @ remote - us: select locations",
+   "location": "Remote - US: Select locations",
+   "posted_at": "2026-11-12T17:56:51+00:00",
+   "posted_history": [
+    "2026-11-12T17:56:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Client Platform Engineer, Endpoint Platform & Automation",
+   "url": "https://jobs.dropbox.com/listing/8356941?gh_jid=8356941"
+  },
+  "8356942": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "senior client platform engineer endpoint platform automation @ remote - canada: select locations",
+   "location": "Remote - Canada: Select locations",
+   "posted_at": "2026-11-12T17:56:54+00:00",
+   "posted_history": [
+    "2026-11-12T17:56:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Client Platform Engineer, Endpoint Platform & Automation",
+   "url": "https://jobs.dropbox.com/listing/8356942?gh_jid=8356942"
+  },
+  "8359352": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "technical architect @ remote - country",
+   "location": "Remote - COUNTRY",
+   "posted_at": "2026-11-12T20:06:19+00:00",
+   "posted_history": [
+    "2026-11-12T20:06:19+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Architect",
+   "url": "https://jobs.dropbox.com/listing/8359352?gh_jid=8359352"
   }
  }
 }

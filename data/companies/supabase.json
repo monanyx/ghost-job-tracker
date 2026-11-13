@@ -99,6 +99,10 @@
   {
    "date": "2026-11-12",
    "open": 77
+  },
+  {
+   "date": "2026-11-13",
+   "open": 77
   }
  ],
  "jobs": {
@@ -313,7 +317,7 @@
    "url": "https://jobs.ashbyhq.com/supabase/33caf92a-986f-4695-a84c-792720ff832d"
   },
   "344787f2-d115-4056-87ca-7668fc14be3d": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "Partnerships",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -491,6 +495,21 @@
    "reopened": 0,
    "title": "Cloud Platform Engineer",
    "url": "https://jobs.ashbyhq.com/supabase/5d09daeb-2d7e-42de-9151-81a1341195c4"
+  },
+  "603a39a9-7cbd-4a57-b27e-daae86885d82": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "procurement lead @ remote, global",
+   "location": "Remote, Global",
+   "posted_at": "2026-11-12T19:21:07+00:00",
+   "posted_history": [
+    "2026-11-12T19:21:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Procurement Lead",
+   "url": "https://jobs.ashbyhq.com/supabase/603a39a9-7cbd-4a57-b27e-daae86885d82"
   },
   "621516b5-4d8f-4ee9-8287-2da12e63d023": {
    "closed_at": null,

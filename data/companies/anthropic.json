@@ -99,6 +99,10 @@
   {
    "date": "2026-11-12",
    "open": 673
+  },
+  {
+   "date": "2026-11-13",
+   "open": 673
   }
  ],
  "jobs": {
@@ -238,7 +242,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4593216008"
   },
   "4595463008": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3073,7 +3077,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5265365008"
   },
   "5267707008": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4813,7 +4817,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385256008"
   },
   "5385546008": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5012,8 +5016,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "it support engineer @ new york city, ny; san francisco, ca; seattle, wa; washington, dc",
-   "location": "New York City, NY; San Francisco, CA; Seattle, WA; Washington, DC",
+   "fp": "it support engineer @ new york city, ny; san francisco, ca; seattle, wa",
+   "location": "New York City, NY; San Francisco, CA; Seattle, WA",
    "posted_at": "2026-08-12T19:57:03+00:00",
    "posted_history": [
     "2026-08-12T19:57:03+00:00"
@@ -7228,7 +7232,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5415930008"
   },
   "5416020008": {
-   "closed_at": "2026-10-23T08:50:35+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7238,7 +7242,7 @@
    "posted_history": [
     "2026-09-11T14:40:10+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Head of Regulated Industries, Customer Success",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5416020008"
   },
@@ -7258,7 +7262,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5416026008"
   },
   "5416059008": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7277,8 +7281,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "warehouse and logistics capability manager @ san francisco, ca | new york city, ny",
-   "location": "San Francisco, CA | New York City, NY",
+   "fp": "warehouse and logistics capability manager @ dublin, ie",
+   "location": "Dublin, IE",
    "posted_at": "2026-09-04T18:20:21+00:00",
    "posted_history": [
     "2026-09-04T18:20:21+00:00"
@@ -8293,7 +8297,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5430222008"
   },
   "5430263008": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
@@ -8353,7 +8357,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5430743008"
   },
   "5430869008": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -8623,7 +8627,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5433814008"
   },
   "5433869008": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -8957,14 +8961,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "applied ai engineer beneficial deployments @ san francisco, ca | new york city, ny",
+   "fp": "applied ai engineer beneficial deployments life sciences @ san francisco, ca | new york city, ny",
    "location": "San Francisco, CA | New York City, NY",
    "posted_at": "2026-09-29T02:57:03+00:00",
    "posted_history": [
     "2026-09-29T02:57:03+00:00"
    ],
    "reopened": 0,
-   "title": "Applied AI Engineer, Beneficial Deployments (Life Sciences)",
+   "title": "Applied AI Engineer, Beneficial Deployments, Life Sciences (Molecular Design)",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5437172008"
   },
   "5438030008": {
@@ -10467,6 +10471,21 @@
    "title": "Technical Program Manager, Inference",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5453262008"
   },
+  "5453322008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "partner support operations lead @ san francisco, ca | new york city, ny",
+   "location": "San Francisco, CA | New York City, NY",
+   "posted_at": "2026-11-12T21:58:14+00:00",
+   "posted_history": [
+    "2026-11-12T21:58:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Partner Support Operations Lead",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5453322008"
+  },
   "5453548008": {
    "closed_at": null,
    "department": "",
@@ -11488,7 +11507,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5461871008"
   },
   "5461873008": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
@@ -12086,6 +12105,21 @@
    "reopened": 0,
    "title": "Data Center Electrical Engineer – Design",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468392008"
+  },
+  "5468548008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "resale operations lead @ san francisco, ca | new york city, ny",
+   "location": "San Francisco, CA | New York City, NY",
+   "posted_at": "2026-11-12T20:18:09+00:00",
+   "posted_history": [
+    "2026-11-12T20:18:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Resale Operations Lead",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468548008"
   },
   "5468875008": {
    "closed_at": null,
@@ -12747,6 +12781,21 @@
    "title": "Recruiter, Communications",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5476704008"
   },
+  "5477150008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "customer marketing lead startups @ san francisco, ca | new york city, ny",
+   "location": "San Francisco, CA | New York City, NY",
+   "posted_at": "2026-11-12T23:47:11+00:00",
+   "posted_history": [
+    "2026-11-12T23:47:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Marketing Lead, Startups",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5477150008"
+  },
   "5477379008": {
    "closed_at": null,
    "department": "",
@@ -12837,6 +12886,51 @@
    "title": "Enterprise Account Executive",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5477774008"
   },
+  "5478799008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "tech lead manager growth data science @ san francisco, ca | new york city, ny | seattle, wa",
+   "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+   "posted_at": "2026-11-12T21:54:18+00:00",
+   "posted_history": [
+    "2026-11-12T21:54:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Tech Lead Manager, Growth Data Science",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5478799008"
+  },
+  "5478876008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "staff software engineer support technology @ san francisco, ca | new york city, ny | seattle, wa",
+   "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+   "posted_at": "2026-11-12T17:55:31+00:00",
+   "posted_history": [
+    "2026-11-12T17:55:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer, Support Technology",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5478876008"
+  },
+  "5478939008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "commercial activation lead @ san francisco, ca | new york city, ny",
+   "location": "San Francisco, CA | New York City, NY",
+   "posted_at": "2026-11-13T01:32:22+00:00",
+   "posted_history": [
+    "2026-11-13T01:32:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Commercial Activation Lead",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5478939008"
+  },
   "5479122008": {
    "closed_at": null,
    "department": "",
@@ -12866,6 +12960,21 @@
    "reopened": 0,
    "title": "Technical Program Manager, Pacing",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5479135008"
+  },
+  "5479890008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "external affairs southeast asia @ singapore",
+   "location": "Singapore",
+   "posted_at": "2026-11-13T04:19:56+00:00",
+   "posted_history": [
+    "2026-11-13T04:19:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "External Affairs, Southeast Asia",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5479890008"
   }
  }
 }

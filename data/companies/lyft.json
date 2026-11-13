@@ -99,6 +99,10 @@
   {
    "date": "2026-11-12",
    "open": 153
+  },
+  {
+   "date": "2026-11-13",
+   "open": 152
   }
  ],
  "jobs": {
@@ -962,14 +966,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "analyst global support workforce planning @ toronto, canada",
+   "fp": "workforce management forecasting analyst @ toronto, canada",
    "location": "Toronto, Canada",
    "posted_at": "2026-08-20T19:39:28+00:00",
    "posted_history": [
     "2026-08-20T19:39:28+00:00"
    ],
    "reopened": 0,
-   "title": "Analyst, Global Support Workforce Planning",
+   "title": "Workforce Management (WFM) Forecasting Analyst",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8734166002?gh_jid=8734166002"
   },
   "8735399002": {
@@ -1498,7 +1502,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8782314002?gh_jid=8782314002"
   },
   "8783214002": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1843,7 +1847,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8802332002?gh_jid=8802332002"
   },
   "8806552002": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
@@ -2053,7 +2057,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002"
   },
   "8821337002": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2173,7 +2177,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8838923002?gh_jid=8838923002"
   },
   "8839156002": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2413,7 +2417,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8860555002?gh_jid=8860555002"
   },
   "8860781002": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2428,7 +2432,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8860781002?gh_jid=8860781002"
   },
   "8860849002": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3837,6 +3841,51 @@
    "title": "Senior Tax Analyst, Indirect Tax",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8936180002?gh_jid=8936180002"
   },
+  "8938458002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "senior data scientist autonomous vehicles @ toronto, canada",
+   "location": "Toronto, Canada",
+   "posted_at": "2026-11-12T14:05:31+00:00",
+   "posted_history": [
+    "2026-11-12T14:05:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Data Scientist, Autonomous Vehicles",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8938458002?gh_jid=8938458002"
+  },
+  "8938484002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "staff technical program manager central @ toronto, canada",
+   "location": "Toronto, Canada",
+   "posted_at": "2026-11-12T19:53:41+00:00",
+   "posted_history": [
+    "2026-11-12T19:53:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Technical Program Manager, Central",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8938484002?gh_jid=8938484002"
+  },
+  "8938558002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "senior account executive transit healthcare @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-12T19:26:50+00:00",
+   "posted_history": [
+    "2026-11-12T19:26:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Account Executive, Transit & Healthcare",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8938558002?gh_jid=8938558002"
+  },
   "8938561002": {
    "closed_at": null,
    "department": "",
@@ -3851,6 +3900,36 @@
    "reopened": 0,
    "title": "Social Support Associate, Customer Care Operations",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8938561002?gh_jid=8938561002"
+  },
+  "8938627002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "senior account executive transit healthcare @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-11-12T19:26:52+00:00",
+   "posted_history": [
+    "2026-11-12T19:26:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Account Executive, Transit & Healthcare",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8938627002?gh_jid=8938627002"
+  },
+  "8940409002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "data engineer marketplace @ ukraine anywhere",
+   "location": "Ukraine Anywhere",
+   "posted_at": "2026-11-13T09:17:01+00:00",
+   "posted_history": [
+    "2026-11-13T09:17:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "Data Engineer, Marketplace",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8940409002?gh_jid=8940409002"
   }
  }
 }

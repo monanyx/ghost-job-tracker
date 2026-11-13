@@ -99,6 +99,10 @@
   {
    "date": "2026-11-12",
    "open": 207
+  },
+  {
+   "date": "2026-11-13",
+   "open": 221
   }
  ],
  "jobs": {
@@ -118,7 +122,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7590373003"
   },
   "7607567003": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -268,7 +272,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7719649003"
   },
   "7727320003": {
-   "closed_at": "2026-11-10T11:47:05+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -278,12 +282,12 @@
    "posted_history": [
     "2026-07-10T13:25:07+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Software Engineer II, Backend (Test Infra)",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7727320003"
   },
   "7727322003": {
-   "closed_at": "2026-11-10T11:47:05+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -293,7 +297,7 @@
    "posted_history": [
     "2026-07-10T13:25:08+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Software Engineer II, Backend (Test Infra)",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7727322003"
   },
@@ -467,14 +471,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior software engineer backend @ remote us",
+   "fp": "senior software engineer @ remote us",
    "location": "Remote US",
    "posted_at": "2026-08-05T15:44:47+00:00",
    "posted_history": [
     "2026-08-05T15:44:47+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Software Engineer, Backend (Batch Infrastructure)",
+   "title": "Senior Software Engineer",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7785812003"
   },
   "7785814003": {
@@ -482,14 +486,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior software engineer backend @ remote canada",
+   "fp": "senior software engineer @ remote canada",
    "location": "Remote Canada",
    "posted_at": "2026-08-05T15:44:49+00:00",
    "posted_history": [
     "2026-08-05T15:44:49+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Software Engineer, Backend (Batch Infrastructure)",
+   "title": "Senior Software Engineer",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7785814003"
   },
   "7796530003": {
@@ -1018,7 +1022,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7815950003"
   },
   "7815952003": {
-   "closed_at": "2026-11-07T10:41:11+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1028,12 +1032,12 @@
    "posted_history": [
     "2026-08-28T18:24:35+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Quantitative Analyst II (Capital Structuring & Analytics)",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7815952003"
   },
   "7815954003": {
-   "closed_at": "2026-11-07T10:41:11+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1043,7 +1047,7 @@
    "posted_history": [
     "2026-08-28T18:24:37+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Quantitative Analyst II (Capital Structuring & Analytics)",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7815954003"
   },
@@ -2728,7 +2732,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8008481003"
   },
   "8008483003": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2743,7 +2747,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8008483003"
   },
   "8008645003": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2938,7 +2942,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8010608003"
   },
   "8010610003": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4512,6 +4516,36 @@
    "title": "Staff Software Engineer, Fullstack (Account Management)",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8162558003"
   },
+  "8181183003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "software engineer i backend @ remote us",
+   "location": "Remote US",
+   "posted_at": "2026-11-12T23:15:54+00:00",
+   "posted_history": [
+    "2026-11-12T23:15:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer I, Backend (Continuous Delivery)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8181183003"
+  },
+  "8181185003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "software engineer i backend @ remote canada",
+   "location": "Remote Canada",
+   "posted_at": "2026-11-12T23:15:57+00:00",
+   "posted_history": [
+    "2026-11-12T23:15:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer I, Backend (Continuous Delivery)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8181185003"
+  },
   "8182228003": {
    "closed_at": null,
    "department": "",
@@ -4542,6 +4576,21 @@
    "title": "Vice President, Deputy General Counsel, Product, Regulatory & Litigation",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8194342003"
   },
+  "8195963003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "licensing manager @ remote us",
+   "location": "Remote US",
+   "posted_at": "2026-11-12T18:40:16+00:00",
+   "posted_history": [
+    "2026-11-12T18:40:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Licensing Manager",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8195963003"
+  },
   "8196112003": {
    "closed_at": null,
    "department": "",
@@ -4571,6 +4620,36 @@
    "reopened": 0,
    "title": "Software Engineer II, Backend",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8196114003"
+  },
+  "8196747003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "staff software engineer fullstack @ remote us",
+   "location": "Remote US",
+   "posted_at": "2026-11-12T23:14:40+00:00",
+   "posted_history": [
+    "2026-11-12T23:14:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer, Fullstack (Auth Experiences)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8196747003"
+  },
+  "8196749003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "staff software engineer fullstack @ remote canada",
+   "location": "Remote Canada",
+   "posted_at": "2026-11-12T23:14:42+00:00",
+   "posted_history": [
+    "2026-11-12T23:14:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer, Fullstack (Auth Experiences)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8196749003"
   },
   "8197325003": {
    "closed_at": null,
@@ -4631,6 +4710,141 @@
    "reopened": 0,
    "title": "Senior Software Engineer, Backend (Trust & Safety)",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8197336003"
+  },
+  "8199419003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "senior software engineer backend @ remote us",
+   "location": "Remote US",
+   "posted_at": "2026-11-12T14:14:53+00:00",
+   "posted_history": [
+    "2026-11-12T14:14:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Backend (ML Feature Platform)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8199419003"
+  },
+  "8199421003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "senior software engineer backend @ remote canada",
+   "location": "Remote Canada",
+   "posted_at": "2026-11-12T14:14:55+00:00",
+   "posted_history": [
+    "2026-11-12T14:14:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Backend (ML Feature Platform)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8199421003"
+  },
+  "8199642003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "counsel ii commercial @ remote us",
+   "location": "Remote US",
+   "posted_at": "2026-11-12T19:59:10+00:00",
+   "posted_history": [
+    "2026-11-12T19:59:10+00:00"
+   ],
+   "reopened": 0,
+   "title": "Counsel II, Commercial",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8199642003"
+  },
+  "8200178003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "senior software engineer fullstack @ remote spain",
+   "location": "Remote Spain",
+   "posted_at": "2026-11-12T16:05:15+00:00",
+   "posted_history": [
+    "2026-11-12T16:05:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Fullstack (International)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8200178003"
+  },
+  "8200180003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "senior software engineer fullstack @ remote poland",
+   "location": "Remote Poland",
+   "posted_at": "2026-11-12T16:05:18+00:00",
+   "posted_history": [
+    "2026-11-12T16:05:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Fullstack (International)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8200180003"
+  },
+  "8201463003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "senior software engineer backend @ remote us",
+   "location": "Remote US",
+   "posted_at": "2026-11-12T15:02:43+00:00",
+   "posted_history": [
+    "2026-11-12T15:02:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Backend (ML Training and Serving)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8201463003"
+  },
+  "8201465003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "senior software engineer backend @ remote canada",
+   "location": "Remote Canada",
+   "posted_at": "2026-11-12T15:02:44+00:00",
+   "posted_history": [
+    "2026-11-12T15:02:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Backend (ML Training and Serving)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8201465003"
+  },
+  "8202545003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "software engineer ii fullstack @ remote poland",
+   "location": "Remote Poland",
+   "posted_at": "2026-11-13T09:44:22+00:00",
+   "posted_history": [
+    "2026-11-13T09:44:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer II, Fullstack (International)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8202545003"
+  },
+  "8202548003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "software engineer ii fullstack @ remote spain",
+   "location": "Remote Spain",
+   "posted_at": "2026-11-13T09:44:25+00:00",
+   "posted_history": [
+    "2026-11-13T09:44:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer II, Fullstack (International)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8202548003"
   }
  }
 }

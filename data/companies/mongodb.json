@@ -99,6 +99,10 @@
   {
    "date": "2026-11-12",
    "open": 379
+  },
+  {
+   "date": "2026-11-13",
+   "open": 387
   }
  ],
  "jobs": {
@@ -462,6 +466,21 @@
    "title": "Senior Solutions Architect",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=7157100"
   },
+  "7172630": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "commercial growth account executive @ boston",
+   "location": "Boston",
+   "posted_at": "2025-12-04T19:24:05+00:00",
+   "posted_history": [
+    "2025-12-04T19:24:05+00:00"
+   ],
+   "reopened": 0,
+   "title": "Commercial Growth Account Executive",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=7172630"
+  },
   "7191603": {
    "closed_at": null,
    "department": "",
@@ -632,14 +651,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "enterprise sales development representative @ boston",
+   "fp": "enterprise business development representative @ boston",
    "location": "Boston",
    "posted_at": "2025-10-22T21:08:00+00:00",
    "posted_history": [
     "2025-10-22T21:08:00+00:00"
    ],
    "reopened": 0,
-   "title": "Enterprise Sales Development Representative",
+   "title": "Enterprise Business Development Representative",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=7310552"
   },
   "7311204": {
@@ -1127,14 +1146,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "associate commercial growth account executive @ austin",
+   "fp": "commercial growth account executive @ austin",
    "location": "Austin",
    "posted_at": "2026-07-20T21:58:11+00:00",
    "posted_history": [
     "2026-07-20T21:58:11+00:00"
    ],
    "reopened": 0,
-   "title": "Associate Commercial Growth Account Executive",
+   "title": "Commercial Growth Account Executive",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=7615794"
   },
   "7628750": {
@@ -3538,7 +3557,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8143761"
   },
   "8143805": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4047,6 +4066,21 @@
    "title": "Solutions Architect",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8170615"
   },
+  "8170620": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "escalation manager @ hawaii",
+   "location": "Hawaii",
+   "posted_at": "2026-11-12T15:00:06+00:00",
+   "posted_history": [
+    "2026-11-12T15:00:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "Escalation Manager",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8170620"
+  },
   "8170628": {
    "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
@@ -4543,7 +4577,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8190019"
   },
   "8192216": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7273,7 +7307,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8337010"
   },
   "8337355": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -7288,7 +7322,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8337355"
   },
   "8337357": {
-   "closed_at": null,
+   "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -7737,19 +7771,49 @@
    "title": "Director, Engineering",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8366823"
   },
+  "8367100": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "startup acquisition marketing lead @ austin; boston; new york city; san francisco",
+   "location": "Austin; Boston; New York City; San Francisco",
+   "posted_at": "2026-11-12T21:33:34+00:00",
+   "posted_history": [
+    "2026-11-12T21:33:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Startup Acquisition Marketing Lead",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8367100"
+  },
+  "8367103": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "startup lifecycle marketing lead @ austin; boston; new york city; san francisco",
+   "location": "Austin; Boston; New York City; San Francisco",
+   "posted_at": "2026-11-12T21:28:19+00:00",
+   "posted_history": [
+    "2026-11-12T21:28:19+00:00"
+   ],
+   "reopened": 0,
+   "title": "Startup Lifecycle Marketing Lead",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8367103"
+  },
   "8367108": {
    "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-12T11:51:19+00:00",
-   "fp": "marketing lead @ london",
+   "fp": "startup and venture marketing lead @ london",
    "location": "London",
    "posted_at": "2026-11-11T14:25:44+00:00",
    "posted_history": [
     "2026-11-11T14:25:44+00:00"
    ],
    "reopened": 0,
-   "title": "Marketing Lead",
+   "title": "Startup and Venture Marketing Lead (EMEA)",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8367108"
   },
   "8367280": {
@@ -7856,6 +7920,126 @@
    "reopened": 0,
    "title": "Contract Recruiter",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8378846"
+  },
+  "8379840": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "senior vice president global partner ecosystem @ united states",
+   "location": "United States",
+   "posted_at": "2026-11-12T21:32:47+00:00",
+   "posted_history": [
+    "2026-11-12T21:32:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Vice President, Global Partner Ecosystem",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8379840"
+  },
+  "8381821": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "senior solutions architect @ atlanta; charlotte; miami; orlando; raleigh",
+   "location": "Atlanta; Charlotte; Miami; Orlando; Raleigh",
+   "posted_at": "2026-11-12T14:26:55+00:00",
+   "posted_history": [
+    "2026-11-12T14:26:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Solutions Architect (Pre-Sales)",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8381821"
+  },
+  "8381869": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "senior solutions architect @ tel aviv",
+   "location": "Tel Aviv",
+   "posted_at": "2026-11-12T12:07:17+00:00",
+   "posted_history": [
+    "2026-11-12T12:07:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Solutions Architect",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8381869"
+  },
+  "8381870": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "lead candidate experience @ austin; new york city; united states",
+   "location": "Austin; New York City; United States",
+   "posted_at": "2026-11-12T17:42:51+00:00",
+   "posted_history": [
+    "2026-11-12T17:42:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Lead, Candidate Experience",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8381870"
+  },
+  "8383063": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "technical services engineer @ bengaluru; gurugram",
+   "location": "Bengaluru; Gurugram",
+   "posted_at": "2026-11-12T15:18:56+00:00",
+   "posted_history": [
+    "2026-11-12T15:18:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Services Engineer",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8383063"
+  },
+  "8383089": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "senior customer success manager @ dubai",
+   "location": "Dubai",
+   "posted_at": "2026-11-13T11:27:07+00:00",
+   "posted_history": [
+    "2026-11-13T11:27:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Customer Success Manager",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8383089"
+  },
+  "8383136": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "technical services engineer @ mexico city",
+   "location": "Mexico City",
+   "posted_at": "2026-11-12T15:44:39+00:00",
+   "posted_history": [
+    "2026-11-12T15:44:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Services Engineer",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8383136"
+  },
+  "8384766": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-13T11:35:01+00:00",
+   "fp": "manager client platform engineering @ los angeles; phoenix; san diego; seattle",
+   "location": "Los Angeles; Phoenix; San Diego; Seattle",
+   "posted_at": "2026-11-13T01:14:50+00:00",
+   "posted_history": [
+    "2026-11-13T01:14:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Client Platform Engineering",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8384766"
   }
  }
 }
