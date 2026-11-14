@@ -103,6 +103,10 @@
   {
    "date": "2026-11-13",
    "open": 221
+  },
+  {
+   "date": "2026-11-14",
+   "open": 217
   }
  ],
  "jobs": {
@@ -947,7 +951,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7813107003"
   },
   "7813362003": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1086,14 +1090,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "quantitative analytics manager affirm bank model governance @ remote us",
+   "fp": "quantitative analytics manager affirm bank machine learning model governance @ remote us",
    "location": "Remote US",
    "posted_at": "2026-07-29T18:36:12+00:00",
    "posted_history": [
     "2026-07-29T18:36:12+00:00"
    ],
    "reopened": 0,
-   "title": "Quantitative Analytics Manager, Affirm Bank Model Governance",
+   "title": "Quantitative Analytics Manager, Affirm Bank Machine Learning & Model Governance",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7819441003"
   },
   "7819445003": {
@@ -1802,7 +1806,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7906836003"
   },
   "7916080003": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2057,7 +2061,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7984425003"
   },
   "7984707003": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2417,7 +2421,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8003018003"
   },
   "8003020003": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2432,7 +2436,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8003020003"
   },
   "8003022003": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4577,7 +4581,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8194342003"
   },
   "8195963003": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-13T11:35:01+00:00",
@@ -4710,6 +4714,36 @@
    "reopened": 0,
    "title": "Senior Software Engineer, Backend (Trust & Safety)",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8197336003"
+  },
+  "8199157003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "senior technical program manager @ remote us",
+   "location": "Remote US",
+   "posted_at": "2026-11-13T18:58:30+00:00",
+   "posted_history": [
+    "2026-11-13T18:58:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Technical Program Manager",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8199157003"
+  },
+  "8199159003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "senior technical program manager @ remote canada",
+   "location": "Remote Canada",
+   "posted_at": "2026-11-13T18:58:32+00:00",
+   "posted_history": [
+    "2026-11-13T18:58:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Technical Program Manager",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8199159003"
   },
   "8199419003": {
    "closed_at": null,

@@ -103,6 +103,10 @@
   {
    "date": "2026-11-13",
    "open": 170
+  },
+  {
+   "date": "2026-11-14",
+   "open": 170
   }
  ],
  "jobs": {
@@ -1487,7 +1491,7 @@
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4702122005"
   },
   "4702890005": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2627,7 +2631,7 @@
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735665005"
   },
   "4736243005": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3330,6 +3334,36 @@
    "reopened": 0,
    "title": "Account Executive, Navy",
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4753798005"
+  },
+  "4753822005": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "account executive army @ washington, dc",
+   "location": "Washington, DC",
+   "posted_at": "2026-11-13T17:36:49+00:00",
+   "posted_history": [
+    "2026-11-13T17:36:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, Army",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4753822005"
+  },
+  "4753839005": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "account executive air force @ colorado springs, co; dayton, oh; washington, dc",
+   "location": "Colorado Springs, CO; Dayton, OH; Washington, DC",
+   "posted_at": "2026-11-13T17:36:34+00:00",
+   "posted_history": [
+    "2026-11-13T17:36:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, Air Force",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4753839005"
   }
  }
 }

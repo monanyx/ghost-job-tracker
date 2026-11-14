@@ -103,6 +103,10 @@
   {
    "date": "2026-11-13",
    "open": 152
+  },
+  {
+   "date": "2026-11-14",
+   "open": 148
   }
  ],
  "jobs": {
@@ -767,7 +771,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8688631002?gh_jid=8688631002"
   },
   "8688633002": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -782,7 +786,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8688633002?gh_jid=8688633002"
   },
   "8689127002": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1412,7 +1416,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8779927002?gh_jid=8779927002"
   },
   "8779945002": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1667,7 +1671,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8792149002?gh_jid=8792149002"
   },
   "8795869002": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2507,7 +2511,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8862215002?gh_jid=8862215002"
   },
   "8863276002": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3152,7 +3156,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8908005002?gh_jid=8908005002"
   },
   "8908836002": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
@@ -3751,8 +3755,23 @@
    "title": "Accountant, Lease & Fleet",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8927798002?gh_jid=8927798002"
   },
-  "8928721002": {
+  "8927801002": {
    "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "svp chief communications officer @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-13T19:58:58+00:00",
+   "posted_history": [
+    "2026-11-13T19:58:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "SVP, Chief Communications Officer",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8927801002?gh_jid=8927801002"
+  },
+  "8928721002": {
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
@@ -3767,7 +3786,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8928721002?gh_jid=8928721002"
   },
   "8928746002": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
@@ -3930,6 +3949,51 @@
    "reopened": 0,
    "title": "Data Engineer, Marketplace",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8940409002?gh_jid=8940409002"
+  },
+  "8943100002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "counsel patents ip @ philadelphia, pa",
+   "location": "Philadelphia, PA",
+   "posted_at": "2026-11-13T20:16:10+00:00",
+   "posted_history": [
+    "2026-11-13T20:16:10+00:00"
+   ],
+   "reopened": 0,
+   "title": "Counsel, Patents & IP",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8943100002?gh_jid=8943100002"
+  },
+  "8943123002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "counsel patents ip @ dallas-fort worth",
+   "location": "Dallas-Fort Worth",
+   "posted_at": "2026-11-13T20:16:14+00:00",
+   "posted_history": [
+    "2026-11-13T20:16:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Counsel, Patents & IP",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8943123002?gh_jid=8943123002"
+  },
+  "8943182002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "counsel patents ip @ houston, tx",
+   "location": "Houston, TX",
+   "posted_at": "2026-11-13T20:16:04+00:00",
+   "posted_history": [
+    "2026-11-13T20:16:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "Counsel, Patents & IP",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8943182002?gh_jid=8943182002"
   }
  }
 }

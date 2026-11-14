@@ -103,6 +103,10 @@
   {
    "date": "2026-11-13",
    "open": 57
+  },
+  {
+   "date": "2026-11-14",
+   "open": 57
   }
  ],
  "jobs": {
@@ -767,7 +771,7 @@
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8132044"
   },
   "8133342": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-11T11:27:30+00:00",
@@ -1727,7 +1731,7 @@
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8358652"
   },
   "8358920": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-11T11:27:30+00:00",
@@ -1860,6 +1864,36 @@
    "reopened": 0,
    "title": "Senior Treasury Capital Manager",
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8379323"
+  },
+  "8385203": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "interim director of financial operations control @ cardiff, london or remote (uk)",
+   "location": "Cardiff, London or Remote (UK)",
+   "posted_at": "2026-11-13T13:12:21+00:00",
+   "posted_history": [
+    "2026-11-13T13:12:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Interim Director of Financial Operations & Control",
+   "url": "https://job-boards.greenhouse.io/monzo/jobs/8385203"
+  },
+  "8385296": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "team manager financial crime business banking @ remote (uk)",
+   "location": "Remote (UK)",
+   "posted_at": "2026-11-13T14:17:35+00:00",
+   "posted_history": [
+    "2026-11-13T14:17:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Team Manager, Financial Crime, Business Banking",
+   "url": "https://job-boards.greenhouse.io/monzo/jobs/8385296"
   }
  }
 }

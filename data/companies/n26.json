@@ -103,6 +103,10 @@
   {
    "date": "2026-11-13",
    "open": 33
+  },
+  {
+   "date": "2026-11-14",
+   "open": 34
   }
  ],
  "jobs": {
@@ -857,7 +861,7 @@
    "url": "https://n26.com/en-eu/careers/positions/8312214?gh_jid=8312214"
   },
   "8330667": {
-   "closed_at": "2026-11-09T12:08:42+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -867,7 +871,7 @@
    "posted_history": [
     "2026-11-03T10:42:31+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Intern, Corporate Governance (6 Months)",
    "url": "https://n26.com/en-eu/careers/positions/8330667?gh_jid=8330667"
   },
@@ -1086,8 +1090,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-12T11:51:19+00:00",
-   "fp": "senior product marketing manager @ barcelona",
-   "location": "Barcelona ",
+   "fp": "senior product marketing manager @ barcelona, berlin or madrid",
+   "location": "Barcelona, Berlin or Madrid",
    "posted_at": "2026-11-11T16:59:24+00:00",
    "posted_history": [
     "2026-11-11T16:59:24+00:00"

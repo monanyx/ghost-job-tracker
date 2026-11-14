@@ -103,6 +103,10 @@
   {
    "date": "2026-11-13",
    "open": 22
+  },
+  {
+   "date": "2026-11-14",
+   "open": 20
   }
  ],
  "jobs": {
@@ -602,7 +606,7 @@
    "url": "https://www.gostudent.org/en-gb/job-position/?gh_jid=5026854101"
   },
   "5028336101": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-05T11:30:12+00:00",
@@ -662,7 +666,7 @@
    "url": "https://www.gostudent.org/en-gb/job-position/?gh_jid=5028357101"
   },
   "5029557101": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",

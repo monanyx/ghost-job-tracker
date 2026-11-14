@@ -103,6 +103,10 @@
   {
    "date": "2026-11-13",
    "open": 191
+  },
+  {
+   "date": "2026-11-14",
+   "open": 192
   }
  ],
  "jobs": {
@@ -3497,14 +3501,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "merchant promotions manager @ athens, greece",
+   "fp": "merchant promotions manager ftc @ athens, greece",
    "location": "Athens, Greece",
    "posted_at": "2026-10-15T14:14:51+00:00",
    "posted_history": [
     "2026-10-15T14:14:51+00:00"
    ],
    "reopened": 0,
-   "title": "Merchant Promotions Manager",
+   "title": "Merchant Promotions Manager - FTC",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8280859"
   },
   "8281232": {
@@ -4616,6 +4620,21 @@
    "reopened": 0,
    "title": "Senior Software Engineer, Proactive Security",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8385136"
+  },
+  "8385335": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "people associate @ budapest, hungary",
+   "location": "Budapest, Hungary",
+   "posted_at": "2026-11-13T15:31:52+00:00",
+   "posted_history": [
+    "2026-11-13T15:31:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "People Associate",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8385335"
   }
  }
 }

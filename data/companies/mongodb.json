@@ -103,6 +103,10 @@
   {
    "date": "2026-11-13",
    "open": 387
+  },
+  {
+   "date": "2026-11-14",
+   "open": 391
   }
  ],
  "jobs": {
@@ -1476,14 +1480,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "startup venture ecosystem lead @ los angeles; new york city; palo alto; san francisco; seattle; united states",
+   "fp": "senior manager startup ventures marketing @ los angeles; new york city; palo alto; san francisco; seattle; united states",
    "location": "Los Angeles; New York City; Palo Alto; San Francisco; Seattle; United States",
    "posted_at": "2026-04-08T21:54:25+00:00",
    "posted_history": [
     "2026-04-08T21:54:25+00:00"
    ],
    "reopened": 0,
-   "title": "Startup & Venture Ecosystem Lead",
+   "title": "Senior Manager, Startup & Ventures Marketing",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=7779540"
   },
   "7781724": {
@@ -2477,7 +2481,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8060800"
   },
   "8064448": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3332,7 +3336,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8128617"
   },
   "8128855": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3992,7 +3996,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8163002"
   },
   "8164280": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6946,6 +6950,21 @@
    "title": "Inside Account Executive",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8314019"
   },
+  "8314053": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "senior solutions architect @ detroit",
+   "location": "Detroit",
+   "posted_at": "2026-11-13T16:59:05+00:00",
+   "posted_history": [
+    "2026-11-13T16:59:05+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Solutions Architect (Pre-Sales)",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8314053"
+  },
   "8318370": {
    "closed_at": null,
    "department": "",
@@ -7290,6 +7309,21 @@
    "reopened": 0,
    "title": "Senior Manager, Engineering",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8334108"
+  },
+  "8335237": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "principal gtm operations analyst @ united states",
+   "location": "United States",
+   "posted_at": "2026-11-13T14:34:29+00:00",
+   "posted_history": [
+    "2026-11-13T14:34:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal GTM Operations Analyst",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8335237"
   },
   "8337010": {
    "closed_at": null,
@@ -7741,6 +7775,21 @@
    "title": "Senior Software Engineer, Atlas Agent Engine",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8360715"
   },
+  "8366599": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "senior site reliability engineer agent engine @ dublin",
+   "location": "Dublin",
+   "posted_at": "2026-11-13T16:23:24+00:00",
+   "posted_history": [
+    "2026-11-13T16:23:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Site Reliability Engineer, Agent Engine",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8366599"
+  },
   "8366703": {
    "closed_at": null,
    "department": "",
@@ -7981,6 +8030,36 @@
    "title": "Lead, Candidate Experience",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8381870"
   },
+  "8381920": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "talent discovery sourcer @ united states",
+   "location": "United States",
+   "posted_at": "2026-11-13T19:17:29+00:00",
+   "posted_history": [
+    "2026-11-13T19:17:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Talent Discovery Sourcer",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8381920"
+  },
+  "8383022": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "manager customer success @ tel aviv",
+   "location": "Tel Aviv",
+   "posted_at": "2026-11-13T17:53:13+00:00",
+   "posted_history": [
+    "2026-11-13T17:53:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Customer Success",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8383022"
+  },
   "8383063": {
    "closed_at": null,
    "department": "",
@@ -8026,6 +8105,21 @@
    "title": "Technical Services Engineer",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8383136"
   },
+  "8383215": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "manager customer success operations @ dublin",
+   "location": "Dublin",
+   "posted_at": "2026-11-13T18:32:51+00:00",
+   "posted_history": [
+    "2026-11-13T18:32:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Customer Success Operations",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8383215"
+  },
   "8384766": {
    "closed_at": null,
    "department": "",
@@ -8040,6 +8134,21 @@
    "reopened": 0,
    "title": "Manager, Client Platform Engineering",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8384766"
+  },
+  "8386087": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "principal gtm operations analyst @ alberta; british columbia; manitoba; nova scotia; ontario; quebec",
+   "location": "Alberta; British Columbia; Manitoba; Nova Scotia; Ontario; Quebec",
+   "posted_at": "2026-11-13T17:51:02+00:00",
+   "posted_history": [
+    "2026-11-13T17:51:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal GTM Operations Analyst",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8386087"
   }
  }
 }

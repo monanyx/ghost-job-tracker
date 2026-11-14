@@ -103,6 +103,10 @@
   {
    "date": "2026-11-13",
    "open": 25
+  },
+  {
+   "date": "2026-11-14",
+   "open": 26
   }
  ],
  "jobs": {
@@ -516,8 +520,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior platform security engineer @ san francisco bay area",
-   "location": "San Francisco Bay Area ",
+   "fp": "senior platform security engineer @ remote (california, washington, and oregon only)",
+   "location": "Remote (California, Washington, and Oregon Only)",
    "posted_at": "2026-09-08T19:08:05+00:00",
    "posted_history": [
     "2026-09-08T19:08:05+00:00"
@@ -945,6 +949,21 @@
    "reopened": 0,
    "title": "Associate Commercial Counsel",
    "url": "https://job-boards.greenhouse.io/discord/jobs/8917177002"
+  },
+  "8927168002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "account executive mobile gaming @ san francisco bay area",
+   "location": "San Francisco Bay Area",
+   "posted_at": "2026-11-13T20:33:44+00:00",
+   "posted_history": [
+    "2026-11-13T20:33:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, Mobile Gaming",
+   "url": "https://job-boards.greenhouse.io/discord/jobs/8927168002"
   },
   "8933480002": {
    "closed_at": null,

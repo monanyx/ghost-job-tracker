@@ -103,6 +103,10 @@
   {
    "date": "2026-11-13",
    "open": 788
+  },
+  {
+   "date": "2026-11-14",
+   "open": 786
   }
  ],
  "jobs": {
@@ -135,6 +139,21 @@
    "reopened": 0,
    "title": "Data Scientist",
    "url": "https://stripe.com/jobs/search?gh_jid=5601879"
+  },
+  "5601881": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "data analyst @ us",
+   "location": "US",
+   "posted_at": "2024-01-09T21:58:15+00:00",
+   "posted_history": [
+    "2024-01-09T21:58:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Data Analyst",
+   "url": "https://stripe.com/jobs/search?gh_jid=5601881"
   },
   "5895430": {
    "closed_at": null,
@@ -3842,7 +3861,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8080454"
   },
   "8081423": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4352,7 +4371,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8112959"
   },
   "8113100": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4487,7 +4506,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8119697"
   },
   "8119967": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4742,7 +4761,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8127894"
   },
   "8128496": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4952,7 +4971,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8130867"
   },
   "8130876": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-28T10:01:46+00:00",
@@ -5372,7 +5391,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8142952"
   },
   "8143073": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6126,14 +6145,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "manager solutions architecture t1 platforms @ new york, ny",
+   "fp": "manager solutions architecture platforms @ new york, ny",
    "location": "New York, NY",
    "posted_at": "2026-09-01T20:53:53+00:00",
    "posted_history": [
     "2026-09-01T20:53:53+00:00"
    ],
    "reopened": 0,
-   "title": "Manager, Solutions Architecture- T1 Platforms",
+   "title": "Manager, Solutions Architecture- Platforms",
    "url": "https://stripe.com/jobs/search?gh_jid=8163542"
   },
   "8164479": {
@@ -8537,7 +8556,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8199596"
   },
   "8201680": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -8751,18 +8770,18 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "integration engineer @ toronto or chicago",
+   "fp": "integration engineer professional services @ toronto or chicago",
    "location": "Toronto or Chicago",
    "posted_at": "2026-10-07T18:37:57+00:00",
    "posted_history": [
     "2026-10-07T18:37:57+00:00"
    ],
    "reopened": 0,
-   "title": "Integration Engineer",
+   "title": "Integration Engineer, Professional Services",
    "url": "https://stripe.com/jobs/search?gh_jid=8203975"
   },
   "8203977": {
-   "closed_at": "2026-11-04T11:35:04+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -8772,7 +8791,7 @@
    "posted_history": [
     "2026-09-22T13:03:01+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Implementation Consultant, Professional Services",
    "url": "https://stripe.com/jobs/search?gh_jid=8203977"
   },
@@ -9107,7 +9126,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8209996"
   },
   "8210218": {
-   "closed_at": "2026-11-13T11:35:01+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
@@ -9117,7 +9136,7 @@
    "posted_history": [
     "2026-11-03T20:27:00+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Renewals Specialist",
    "url": "https://stripe.com/jobs/search?gh_jid=8210218"
   },
@@ -9636,14 +9655,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "product manager issuance bridge @ san francisco or new york",
+   "fp": "product manager payments experience bridge @ san francisco or new york",
    "location": "San Francisco Or New York",
    "posted_at": "2026-09-23T00:07:07+00:00",
    "posted_history": [
     "2026-09-23T00:07:07+00:00"
    ],
    "reopened": 0,
-   "title": "Product Manager - Issuance, Bridge",
+   "title": "Product Manager - Payments Experience, Bridge",
    "url": "https://stripe.com/jobs/search?gh_jid=8223723"
   },
   "8224607": {
@@ -11117,7 +11136,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8256027"
   },
   "8257185": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -12081,14 +12100,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-13T11:35:01+00:00",
-   "fp": "implementation consultant @ toronto",
+   "fp": "implementation consultant professional services @ toronto",
    "location": "Toronto",
    "posted_at": "2026-11-12T17:26:37+00:00",
    "posted_history": [
     "2026-11-12T17:26:37+00:00"
    ],
    "reopened": 0,
-   "title": "Implementation Consultant (Global)",
+   "title": "Implementation Consultant Professional Services (AI Companies)",
    "url": "https://stripe.com/jobs/search?gh_jid=8281536"
   },
   "8282169": {
@@ -12377,7 +12396,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8286685"
   },
   "8287486": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-28T10:01:46+00:00",
@@ -13037,7 +13056,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8314318"
   },
   "8315943": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
@@ -13981,6 +14000,21 @@
    "title": "Master's Machine Learning Engineer, Intern",
    "url": "https://stripe.com/jobs/search?gh_jid=8333122"
   },
+  "8334539": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "government relations manager ai @ washington dc-metro area",
+   "location": "Washington DC-metro area",
+   "posted_at": "2026-11-13T17:26:50+00:00",
+   "posted_history": [
+    "2026-11-13T17:26:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Government Relations Manager, AI",
+   "url": "https://stripe.com/jobs/search?gh_jid=8334539"
+  },
   "8334550": {
    "closed_at": null,
    "department": "",
@@ -14010,6 +14044,21 @@
    "reopened": 0,
    "title": "Sales Manager, Enterprise Platforms, France",
    "url": "https://stripe.com/jobs/search?gh_jid=8334554"
+  },
+  "8334556": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "policy lead ai infrastructure @ us-remote",
+   "location": "US-Remote",
+   "posted_at": "2026-11-13T18:15:30+00:00",
+   "posted_history": [
+    "2026-11-13T18:15:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Policy Lead, AI Infrastructure",
+   "url": "https://stripe.com/jobs/search?gh_jid=8334556"
   },
   "8335413": {
    "closed_at": null,
@@ -15166,13 +15215,43 @@
    "title": "Staff Product Manager, Foundation Pillar",
    "url": "https://stripe.com/jobs/search?gh_jid=8381041"
   },
+  "8382000": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "head of enterprise west @ san francisco, seattle, chicago or remote",
+   "location": "San Francisco, Seattle, Chicago or Remote",
+   "posted_at": "2026-11-13T21:14:55+00:00",
+   "posted_history": [
+    "2026-11-13T21:14:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Head of Enterprise, West",
+   "url": "https://stripe.com/jobs/search?gh_jid=8382000"
+  },
+  "8382002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "head of enterprise sales marketplaces @ us-chicago, us-seattle, us-san francisco, us-remote",
+   "location": "US-Chicago, US-Seattle, US-San Francisco, US-Remote",
+   "posted_at": "2026-11-13T20:39:50+00:00",
+   "posted_history": [
+    "2026-11-13T20:39:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Head of Enterprise Sales, Marketplaces",
+   "url": "https://stripe.com/jobs/search?gh_jid=8382002"
+  },
   "8383655": {
    "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-13T11:35:01+00:00",
-   "fp": "engineering manager collaboration engineering @ nyc, san francisco, seattle",
-   "location": "NYC, San Francisco, Seattle",
+   "fp": "engineering manager collaboration engineering @ seattle",
+   "location": "Seattle",
    "posted_at": "2026-11-12T18:19:54+00:00",
    "posted_history": [
     "2026-11-12T18:19:54+00:00"
@@ -15225,6 +15304,21 @@
    "reopened": 0,
    "title": "Product Manager, Consumer Bank Network",
    "url": "https://stripe.com/jobs/search?gh_jid=8384438"
+  },
+  "8384567": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "software engineer vulnerability management @ na",
+   "location": "na",
+   "posted_at": "2026-11-13T18:29:47+00:00",
+   "posted_history": [
+    "2026-11-13T18:29:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Vulnerability Management",
+   "url": "https://stripe.com/jobs/search?gh_jid=8384567"
   }
  }
 }

@@ -103,6 +103,10 @@
   {
    "date": "2026-11-13",
    "open": 385
+  },
+  {
+   "date": "2026-11-14",
+   "open": 384
   }
  ],
  "jobs": {
@@ -1067,7 +1071,7 @@
    "url": "https://careers.datadoghq.com/detail/7155024/?gh_jid=7155024"
   },
   "7172466": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
@@ -1866,14 +1870,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior sourcer @ new york, new york, usa",
-   "location": "New York, New York, USA",
+   "fp": "executive sourcer @ boston, massachusetts, usa; new york, new york, usa",
+   "location": "Boston, Massachusetts, USA; New York, New York, USA",
    "posted_at": "2026-01-28T16:21:48+00:00",
    "posted_history": [
     "2026-01-28T16:21:48+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Sourcer",
+   "title": "Executive Sourcer",
    "url": "https://careers.datadoghq.com/detail/7558666/?gh_jid=7558666"
   },
   "7560494": {
@@ -1892,7 +1896,7 @@
    "url": "https://careers.datadoghq.com/detail/7560494/?gh_jid=7560494"
   },
   "7560815": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2342,7 +2346,7 @@
    "url": "https://careers.datadoghq.com/detail/7858788/?gh_jid=7858788"
   },
   "7868711": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3096,14 +3100,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "technical account manager east @ boston, massachusetts, usa; new york, new york, usa",
+   "fp": "technical account manager 3 east @ boston, massachusetts, usa; new york, new york, usa",
    "location": "Boston, Massachusetts, USA; New York, New York, USA",
    "posted_at": "2026-07-06T17:33:15+00:00",
    "posted_history": [
     "2026-07-06T17:33:15+00:00"
    ],
    "reopened": 0,
-   "title": "Technical Account Manager - East",
+   "title": "Technical Account Manager 3 - East",
    "url": "https://careers.datadoghq.com/detail/8046392/?gh_jid=8046392"
   },
   "8047666": {
@@ -6681,14 +6685,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "product manager ii agent observability @ new york, new york, usa",
+   "fp": "senior product manager agent observability @ new york, new york, usa",
    "location": "New York, New York, USA",
    "posted_at": "2026-10-09T16:05:09+00:00",
    "posted_history": [
     "2026-10-09T16:05:09+00:00"
    ],
    "reopened": 0,
-   "title": "Product Manager II - Agent Observability",
+   "title": "Senior Product Manager - Agent Observability",
    "url": "https://careers.datadoghq.com/detail/8267546/?gh_jid=8267546"
   },
   "8267561": {
@@ -7712,7 +7716,7 @@
    "url": "https://careers.datadoghq.com/detail/8336601/?gh_jid=8336601"
   },
   "8336757": {
-   "closed_at": "2026-11-07T10:41:11+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
@@ -7722,7 +7726,7 @@
    "posted_history": [
     "2026-10-30T16:59:10+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Commercial Account Executive (UKI)",
    "url": "https://careers.datadoghq.com/detail/8336757/?gh_jid=8336757"
   },
@@ -8070,6 +8074,21 @@
    "reopened": 0,
    "title": "Senior Sales Engineer - Public Sector",
    "url": "https://careers.datadoghq.com/detail/8377430/?gh_jid=8377430"
+  },
+  "8378413": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "senior commercial account executive @ amsterdam, the netherlands",
+   "location": "Amsterdam, The Netherlands",
+   "posted_at": "2026-11-13T12:43:03+00:00",
+   "posted_history": [
+    "2026-11-13T12:43:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Commercial Account Executive (DACH)",
+   "url": "https://careers.datadoghq.com/detail/8378413/?gh_jid=8378413"
   },
   "8378768": {
    "closed_at": null,

@@ -103,6 +103,10 @@
   {
    "date": "2026-11-13",
    "open": 180
+  },
+  {
+   "date": "2026-11-14",
+   "open": 180
   }
  ],
  "jobs": {
@@ -287,7 +291,7 @@
    "url": "https://jobs.ashbyhq.com/ramp/1285aefc-d2c4-4f7c-8357-6e8f97fb22d4"
   },
   "13fe8467-b624-4f30-8aad-af441dfb1797": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -892,14 +896,14 @@
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-11-13T11:35:01+00:00",
-   "fp": "csm enterprise lifecycle @ new york, ny (hq)",
+   "fp": "customer success manager enterprise @ new york, ny (hq)",
    "location": "New York, NY (HQ)",
    "posted_at": "2026-11-13T00:09:36+00:00",
    "posted_history": [
     "2026-11-13T00:09:36+00:00"
    ],
    "reopened": 0,
-   "title": "CSM, Enterprise | Lifecycle",
+   "title": "Customer Success Manager, Enterprise",
    "url": "https://jobs.ashbyhq.com/ramp/4727e0b5-eafa-41ab-89ce-f6a1d19d3f0e"
   },
   "4745807e-82f4-4b1a-857c-dc8dadc73076": {
@@ -967,14 +971,14 @@
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-11-13T11:35:01+00:00",
-   "fp": "csm mid market lifecycle @ new york, ny (hq)",
+   "fp": "customer success manager mid market @ new york, ny (hq)",
    "location": "New York, NY (HQ)",
    "posted_at": "2026-11-13T00:09:32+00:00",
    "posted_history": [
     "2026-11-13T00:09:32+00:00"
    ],
    "reopened": 0,
-   "title": "CSM, Mid-Market | Lifecycle",
+   "title": "Customer Success Manager, Mid-Market",
    "url": "https://jobs.ashbyhq.com/ramp/498d0fa0-d6e2-4755-9004-736dcae47d81"
   },
   "4b3063cb-bb07-40d5-93d3-b7ce556f96e8": {
@@ -1457,6 +1461,21 @@
    "reopened": 0,
    "title": "Sales Development Representative | Public Sector",
    "url": "https://jobs.ashbyhq.com/ramp/6c1c3192-2508-4805-9dbb-08a4f581b44d"
+  },
+  "6e717b06-6613-42ad-a1ee-f852a305fa37": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "software engineer fullstack spend controls @ new york, ny (hq)",
+   "location": "New York, NY (HQ)",
+   "posted_at": "2026-11-13T21:52:14+00:00",
+   "posted_history": [
+    "2026-11-13T21:52:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Fullstack, Spend Controls",
+   "url": "https://jobs.ashbyhq.com/ramp/6e717b06-6613-42ad-a1ee-f852a305fa37"
   },
   "707d5f91-bcf7-42b2-a0e6-8130bf13e56b": {
    "closed_at": null,
@@ -2040,7 +2059,7 @@
     "2026-08-10T16:22:34+00:00"
    ],
    "reopened": 0,
-   "title": "Customer Activation Manager | Scaled",
+   "title": "Customer Activation Manager, Scaled",
    "url": "https://jobs.ashbyhq.com/ramp/94d79eed-34db-42c8-b47c-5edef335b7f2"
   },
   "95f450a1-0d38-4d58-9aac-9d7e655adc36": {
@@ -2149,7 +2168,7 @@
    "url": "https://jobs.ashbyhq.com/ramp/9ef1c3f4-c5bb-46ae-b03c-3f79205e1102"
   },
   "a0a26a90-7c9a-4a45-a042-ae646911930a": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
@@ -2205,7 +2224,7 @@
     "2026-08-04T17:33:05+00:00"
    ],
    "reopened": 0,
-   "title": "Customer Activation Manager | Commercial",
+   "title": "Customer Activation Manager, Commercial",
    "url": "https://jobs.ashbyhq.com/ramp/a4ecdd59-e379-4841-9bd3-c3f1f86da008"
   },
   "a5c7c68a-33f9-4f78-929e-29b58f26d22a": {
@@ -2424,14 +2443,14 @@
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "manager scaled customer success strategy operations @ san francisco, ca",
+   "fp": "manager scaled customer activation strategy operations @ san francisco, ca",
    "location": "San Francisco, CA",
    "posted_at": "2026-06-29T22:26:00+00:00",
    "posted_history": [
     "2026-06-29T22:26:00+00:00"
    ],
    "reopened": 0,
-   "title": "Manager, Scaled Customer Success Strategy & Operations",
+   "title": "Manager, Scaled Customer Activation Strategy & Operations",
    "url": "https://jobs.ashbyhq.com/ramp/afe866c3-3725-4416-9e5f-530ed89b295d"
   },
   "b0433f82-e0c0-4dd8-9d41-c6bf2371c2ea": {
@@ -2587,7 +2606,7 @@
    "url": "https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9"
   },
   "b68aca53-16c0-4ced-ab1d-e8beb2940b4f": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "Design",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2630,6 +2649,21 @@
    "reopened": 0,
    "title": "Senior Design Systems Engineer",
    "url": "https://jobs.ashbyhq.com/ramp/b7fd55f4-6c5a-42f5-be04-aa09a4d5b7a9"
+  },
+  "b87e898f-8d8b-447d-b3d5-9073ccf7d109": {
+   "closed_at": null,
+   "department": "Risk",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "risk strategy intern @ new york, ny (hq)",
+   "location": "New York, NY (HQ)",
+   "posted_at": "2026-11-13T17:31:05+00:00",
+   "posted_history": [
+    "2026-11-13T17:31:05+00:00"
+   ],
+   "reopened": 0,
+   "title": "Risk Strategy Intern",
+   "url": "https://jobs.ashbyhq.com/ramp/b87e898f-8d8b-447d-b3d5-9073ccf7d109"
   },
   "b9568fb8-a47e-4738-87fb-a6d88c3a505f": {
    "closed_at": null,
@@ -2846,7 +2880,7 @@
    "department": "Marketing",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior product marketing manager general @ new york, ny (hq)",
+   "fp": "product marketing manager general @ new york, ny (hq)",
    "location": "New York, NY (HQ)",
    "posted_at": "2026-11-12T19:03:49+00:00",
    "posted_history": [
@@ -2854,7 +2888,7 @@
     "2026-11-12T19:03:49+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Product Marketing Manager - General (All Levels)",
+   "title": "Product Marketing Manager - General (All Levels)",
    "url": "https://jobs.ashbyhq.com/ramp/cdc3cb5a-8c6d-4820-86cf-5f9daa2b41fc"
   },
   "cf3516f6-4d6b-4872-831f-c8ef4a3078ee": {
@@ -3054,6 +3088,21 @@
    "reopened": 0,
    "title": "Product Operations | General Builder (All Levels)",
    "url": "https://jobs.ashbyhq.com/ramp/e0cca3aa-24f7-46ca-9493-9984a7ae2285"
+  },
+  "e45a8b6a-5029-4ca5-ac6f-5af940843c72": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "technical consultant strategic @ new york, ny (hq)",
+   "location": "New York, NY (HQ)",
+   "posted_at": "2026-11-13T19:29:12+00:00",
+   "posted_history": [
+    "2026-11-13T19:29:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Consultant, Strategic",
+   "url": "https://jobs.ashbyhq.com/ramp/e45a8b6a-5029-4ca5-ac6f-5af940843c72"
   },
   "e577622f-6657-4e53-8941-b3a774b04448": {
    "closed_at": null,

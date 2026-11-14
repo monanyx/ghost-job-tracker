@@ -103,6 +103,10 @@
   {
    "date": "2026-11-13",
    "open": 90
+  },
+  {
+   "date": "2026-11-14",
+   "open": 85
   }
  ],
  "jobs": {
@@ -317,7 +321,7 @@
    "url": "https://instacart.careers/job/?gh_jid=7931358"
   },
   "7951938": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1292,7 +1296,7 @@
    "url": "https://instacart.careers/job/?gh_jid=8215052"
   },
   "8232310": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1307,7 +1311,7 @@
    "url": "https://instacart.careers/job/?gh_jid=8232310"
   },
   "8232312": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1337,7 +1341,7 @@
    "url": "https://instacart.careers/job/?gh_jid=8233716"
   },
   "8234282": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1682,7 +1686,7 @@
    "url": "https://instacart.careers/job/?gh_jid=8244914"
   },
   "8246054": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2117,7 +2121,7 @@
    "url": "https://instacart.careers/job/?gh_jid=8304279"
   },
   "8304487": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -2625,6 +2629,21 @@
    "reopened": 0,
    "title": "Measurement Science Manager II",
    "url": "https://instacart.careers/job/?gh_jid=8384511"
+  },
+  "8386574": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "senior ios engineer @ canada - remote (on, ab, bc, or ns only)",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-11-13T20:53:53+00:00",
+   "posted_history": [
+    "2026-11-13T20:53:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior iOS Engineer",
+   "url": "https://instacart.careers/job/?gh_jid=8386574"
   }
  }
 }

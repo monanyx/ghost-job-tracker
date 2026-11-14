@@ -103,6 +103,10 @@
   {
    "date": "2026-11-13",
    "open": 42
+  },
+  {
+   "date": "2026-11-14",
+   "open": 44
   }
  ],
  "jobs": {
@@ -951,8 +955,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-13T11:35:01+00:00",
-   "fp": "technical architect @ remote - country",
-   "location": "Remote - COUNTRY",
+   "fp": "technical architect @ remote - ireland",
+   "location": "Remote - Ireland",
    "posted_at": "2026-11-12T20:06:19+00:00",
    "posted_history": [
     "2026-11-12T20:06:19+00:00"
@@ -960,6 +964,36 @@
    "reopened": 0,
    "title": "Technical Architect",
    "url": "https://jobs.dropbox.com/listing/8359352?gh_jid=8359352"
+  },
+  "8374438": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "implementation architect @ remote - us: select locations",
+   "location": "Remote - US: Select locations",
+   "posted_at": "2026-11-13T21:50:25+00:00",
+   "posted_history": [
+    "2026-11-13T21:50:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Implementation Architect",
+   "url": "https://jobs.dropbox.com/listing/8374438?gh_jid=8374438"
+  },
+  "8374439": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "implementation architect @ remote - canada: select locations",
+   "location": "Remote - Canada: Select locations",
+   "posted_at": "2026-11-13T21:50:26+00:00",
+   "posted_history": [
+    "2026-11-13T21:50:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Implementation Architect",
+   "url": "https://jobs.dropbox.com/listing/8374439?gh_jid=8374439"
   }
  }
 }

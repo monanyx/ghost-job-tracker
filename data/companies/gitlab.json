@@ -103,6 +103,10 @@
   {
    "date": "2026-11-13",
    "open": 254
+  },
+  {
+   "date": "2026-11-14",
+   "open": 251
   }
  ],
  "jobs": {
@@ -692,7 +696,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8638232002"
   },
   "8638246002": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1247,7 +1251,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8716179002"
   },
   "8716271002": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1292,7 +1296,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8725981002"
   },
   "8726744002": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2042,7 +2046,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8800507002"
   },
   "8802261002": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3306,8 +3310,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
-   "fp": "corporate development director @ remote ireland; remote, france; remote, germany; remote, israel; remote, netherlands; remote, spain; remote, united kingdom",
-   "location": "Remote Ireland; Remote, France; Remote, Germany; Remote, Israel; Remote, Netherlands; Remote, Spain; Remote, United Kingdom",
+   "fp": "corporate development director @ remote, united states",
+   "location": "Remote, United States",
    "posted_at": "2026-10-20T18:21:59+00:00",
    "posted_history": [
     "2026-10-20T18:21:59+00:00"
@@ -3707,7 +3711,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8885115002"
   },
   "8885535002": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3887,7 +3891,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8890971002"
   },
   "8891301002": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4801,6 +4805,21 @@
    "title": "Senior Ecosystems Sales Manager: Scale, India",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8926435002"
   },
+  "8926653002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "renewals manager italy spain @ remote",
+   "location": "Remote",
+   "posted_at": "2026-11-13T13:11:49+00:00",
+   "posted_history": [
+    "2026-11-13T13:11:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Renewals Manager - Italy/ Spain",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8926653002"
+  },
   "8927560002": {
    "closed_at": null,
    "department": "",
@@ -4950,6 +4969,21 @@
    "reopened": 0,
    "title": "Lead Journey Architect",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8929004002"
+  },
+  "8929253002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "senior candidate experience specialist amer @ remote, canada; remote, united states",
+   "location": "Remote, Canada; Remote, United States",
+   "posted_at": "2026-11-13T23:30:02+00:00",
+   "posted_history": [
+    "2026-11-13T23:30:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Candidate Experience Specialist, AMER",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8929253002"
   },
   "8929468002": {
    "closed_at": null,
@@ -5265,6 +5299,21 @@
    "reopened": 0,
    "title": "Senior Lifecycle Marketing Manager",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8936287002"
+  },
+  "8937425002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "senior backend engineer tenant scales gitaly @ remote, canada",
+   "location": "Remote, Canada",
+   "posted_at": "2026-11-13T14:29:07+00:00",
+   "posted_history": [
+    "2026-11-13T14:29:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Backend Engineer (Go), Tenant Scales: Gitaly",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8937425002"
   }
  }
 }

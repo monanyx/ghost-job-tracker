@@ -103,6 +103,10 @@
   {
    "date": "2026-11-13",
    "open": 271
+  },
+  {
+   "date": "2026-11-14",
+   "open": 265
   }
  ],
  "jobs": {
@@ -801,14 +805,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior software engineer frontend @ remote - usa",
+   "fp": "senior software engineer native mobile @ remote - usa",
    "location": "Remote - USA",
    "posted_at": "2026-06-25T19:02:55+00:00",
    "posted_history": [
     "2026-06-25T19:02:55+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Software Engineer, Frontend (Consumer - Payments)",
+   "title": "Senior Software Engineer, Native Mobile (iOS/Android)",
    "url": "https://www.coinbase.com/careers/positions/8029035?gh_jid=8029035"
   },
   "8030591": {
@@ -2222,7 +2226,7 @@
    "url": "https://www.coinbase.com/careers/positions/8175453?gh_jid=8175453"
   },
   "8175459": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2237,7 +2241,7 @@
    "url": "https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459"
   },
   "8175462": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3497,7 +3501,7 @@
    "url": "https://www.coinbase.com/careers/positions/8269081?gh_jid=8269081"
   },
   "8269104": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4082,7 +4086,7 @@
    "url": "https://www.coinbase.com/careers/positions/8334164?gh_jid=8334164"
   },
   "8334228": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
@@ -4472,7 +4476,7 @@
    "url": "https://www.coinbase.com/careers/positions/8337052?gh_jid=8337052"
   },
   "8337055": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-02T11:41:30+00:00",
@@ -4547,7 +4551,7 @@
    "url": "https://www.coinbase.com/careers/positions/8337144?gh_jid=8337144"
   },
   "8337149": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-05T11:30:12+00:00",
@@ -4727,7 +4731,7 @@
    "url": "https://www.coinbase.com/careers/positions/8346070?gh_jid=8346070"
   },
   "8346073": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -5086,6 +5090,21 @@
    "title": "Staff Software Engineer, Frontend/Mobile (Consumer - Agentic Trading)",
    "url": "https://www.coinbase.com/careers/positions/8356850?gh_jid=8356850"
   },
+  "8357227": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "program lead performance enablement @ bangalore, india",
+   "location": "Bangalore, India",
+   "posted_at": "2026-11-13T20:20:38+00:00",
+   "posted_history": [
+    "2026-11-13T20:20:38+00:00"
+   ],
+   "reopened": 0,
+   "title": "Program Lead, Performance & Enablement",
+   "url": "https://www.coinbase.com/careers/positions/8357227?gh_jid=8357227"
+  },
   "8357772": {
    "closed_at": null,
    "department": "",
@@ -5176,6 +5195,21 @@
    "title": "Senior Software Engineer",
    "url": "https://www.coinbase.com/careers/positions/8368072?gh_jid=8368072"
   },
+  "8368472": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "staff software engineer trust network @ remote - usa",
+   "location": "Remote - USA",
+   "posted_at": "2026-11-13T17:16:25+00:00",
+   "posted_history": [
+    "2026-11-13T17:16:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer, TRUST Network",
+   "url": "https://www.coinbase.com/careers/positions/8368472?gh_jid=8368472"
+  },
   "8374607": {
    "closed_at": null,
    "department": "",
@@ -5241,18 +5275,18 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-13T11:35:01+00:00",
-   "fp": "product manager i @ remote - singapore",
+   "fp": "product manager i international @ remote - singapore",
    "location": "Remote - Singapore",
    "posted_at": "2026-11-13T06:47:58+00:00",
    "posted_history": [
     "2026-11-13T06:47:58+00:00"
    ],
    "reopened": 0,
-   "title": "Product Manager I",
+   "title": "Product Manager I - International",
    "url": "https://www.coinbase.com/careers/positions/8382331?gh_jid=8382331"
   },
   "8382332": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-13T11:35:01+00:00",

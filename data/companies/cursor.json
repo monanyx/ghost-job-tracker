@@ -103,6 +103,10 @@
   {
    "date": "2026-11-13",
    "open": 115
+  },
+  {
+   "date": "2026-11-14",
+   "open": 99
   }
  ],
  "jobs": {
@@ -512,7 +516,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/13ceadb8-638f-40c7-a59d-70dab2f4de0b"
   },
   "164e27cd-289e-4bcd-8aaf-5280e75c5ed6": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
@@ -1021,6 +1025,21 @@
    "title": "Technical Program Manager, Field",
    "url": "https://jobs.ashbyhq.com/cursor/2f568bb6-9a03-4f45-9392-0c62127011c6"
   },
+  "2f8e2126-bcd8-4297-9358-e15fdff4f9da": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "regional director strategic enterprise latam @ remote",
+   "location": "Remote",
+   "posted_at": "2026-11-13T16:43:03+00:00",
+   "posted_history": [
+    "2026-11-13T16:43:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Regional Director, Strategic Enterprise - LATAM",
+   "url": "https://jobs.ashbyhq.com/cursor/2f8e2126-bcd8-4297-9358-e15fdff4f9da"
+  },
   "31d6d54b-87fa-4f48-a3a9-9d46018b8125": {
    "closed_at": null,
    "department": "Design",
@@ -1097,7 +1116,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/3551cdaa-cf08-4c04-adbe-a968185bc769"
   },
   "359cb8e6-77e8-4a77-be67-a39eb46d2c10": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
@@ -1157,7 +1176,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/3752886b-a6e2-402c-ba2a-47d0659ff335"
   },
   "378409f3-a9d9-4b5e-bc91-8112a582d24c": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
@@ -1202,7 +1221,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/38f2d7b3-f431-464d-abdb-b10f71df9a72"
   },
   "39386c17-568f-4f9c-b8de-e641c092deaa": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
@@ -1217,7 +1236,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/39386c17-568f-4f9c-b8de-e641c092deaa"
   },
   "39928fa7-8acc-41b9-9143-97b760774f05": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
@@ -1683,7 +1702,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/5b744208-cb2c-4c31-9217-e0cbbf8ad7af"
   },
   "5bbbd83b-2299-4a5e-9f49-d260fd9ca02e": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
@@ -1713,7 +1732,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/5df283dc-d53e-4769-9b30-1190a06a9adc"
   },
   "5eca4fb7-1ae0-4eb2-8f87-fa470b3c1d17": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
@@ -1773,7 +1792,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/61e4677d-cf3d-458a-bf6c-02287d5d2c39"
   },
   "6222602a-f0ca-4558-8364-06970723e917": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
@@ -1999,7 +2018,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/6eef7144-f2cc-48a8-b065-01f04e4c70ff"
   },
   "6f67c0c9-717c-4eb2-919b-5ab7d54e9a8b": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
@@ -2179,7 +2198,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/77bf35db-119c-4533-8187-1e8d5ae08c45"
   },
   "79b07509-13dc-49d3-b133-2bc10d161f6f": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "Solutions",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
@@ -2344,7 +2363,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/8759ece1-451e-4074-93dd-9d247a648ef7"
   },
   "875d2445-b01b-49cd-935f-19ffb6fe04e3": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
@@ -2674,7 +2693,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/9b897011-11bc-4d8f-beb4-d2155d36e941"
   },
   "9d756f3e-ec33-4820-9971-f803de7b2d63": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
@@ -2914,7 +2933,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/b0ef8a4d-64b5-4dc8-aeba-aa9ac0f430fc"
   },
   "b236a81e-6c5b-45ce-8b4a-0810ae82ca82": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
@@ -3005,7 +3024,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/b6d90b7f-7586-46e8-bab6-8d87b881906c"
   },
   "b810bd30-f3b8-45b4-8afd-d2916ce5ee93": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
@@ -3035,7 +3054,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/b958e1bd-9e49-48cd-a7f5-b42c63f527fa"
   },
   "bb1e7f02-d30c-49fa-8d67-9a35ecc59462": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
@@ -3350,7 +3369,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/cddb7c29-39e2-431d-af11-029edd4207c4"
   },
   "cebcf532-f723-4b14-a366-765d04b80d4c": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
@@ -3861,7 +3880,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/f75de440-51bf-4d7e-acf9-00e50ae4a281"
   },
   "f7dd8f73-e204-4e34-bb4a-2e7fccc4f3f8": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",

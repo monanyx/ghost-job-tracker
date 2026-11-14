@@ -103,6 +103,10 @@
   {
    "date": "2026-11-13",
    "open": 215
+  },
+  {
+   "date": "2026-11-14",
+   "open": 214
   }
  ],
  "jobs": {
@@ -195,6 +199,21 @@
    "reopened": 0,
    "title": "Spécialiste, Sécurité",
    "url": "https://careers.airbnb.com/positions/7417294?gh_jid=7417294"
+  },
+  "7453190": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "senior mobile software engineer quality engineering @ brazil - remote",
+   "location": "Brazil - Remote",
+   "posted_at": "2026-01-22T21:11:25+00:00",
+   "posted_history": [
+    "2026-01-22T21:11:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Mobile Software Engineer, Quality Engineering",
+   "url": "https://careers.airbnb.com/positions/7453190?gh_jid=7453190"
   },
   "7525479": {
    "closed_at": null,
@@ -437,7 +456,7 @@
    "url": "https://careers.airbnb.com/positions/7818982?gh_jid=7818982"
   },
   "7826337": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -542,7 +561,7 @@
    "url": "https://careers.airbnb.com/positions/7862110?gh_jid=7862110"
   },
   "7867435": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1097,7 +1116,7 @@
    "url": "https://careers.airbnb.com/positions/8081925?gh_jid=8081925"
   },
   "8082863": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1862,7 +1881,7 @@
    "url": "https://careers.airbnb.com/positions/8202802?gh_jid=8202802"
   },
   "8202878": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4652,7 +4671,7 @@
    "url": "https://careers.airbnb.com/positions/8376005?gh_jid=8376005"
   },
   "8376087": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-12T11:51:19+00:00",
@@ -4845,6 +4864,51 @@
    "reopened": 0,
    "title": "Senior Key Accounts Manager",
    "url": "https://careers.airbnb.com/positions/8383090?gh_jid=8383090"
+  },
+  "8383913": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "lead quality elevated support @ united states",
+   "location": "United States ",
+   "posted_at": "2026-11-13T17:57:51+00:00",
+   "posted_history": [
+    "2026-11-13T17:57:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Lead, Quality, Elevated Support",
+   "url": "https://careers.airbnb.com/positions/8383913?gh_jid=8383913"
+  },
+  "8386065": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "software engineer profile community web @ remote, usa",
+   "location": "Remote, USA",
+   "posted_at": "2026-11-13T17:39:47+00:00",
+   "posted_history": [
+    "2026-11-13T17:39:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Profile & Community, Web",
+   "url": "https://careers.airbnb.com/positions/8386065?gh_jid=8386065"
+  },
+  "8386083": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "software engineer profile community android @ remote, usa",
+   "location": "Remote, USA",
+   "posted_at": "2026-11-13T17:46:04+00:00",
+   "posted_history": [
+    "2026-11-13T17:46:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Profile & Community, Android",
+   "url": "https://careers.airbnb.com/positions/8386083?gh_jid=8386083"
   }
  }
 }

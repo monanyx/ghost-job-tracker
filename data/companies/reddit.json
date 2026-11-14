@@ -103,6 +103,10 @@
   {
    "date": "2026-11-13",
    "open": 146
+  },
+  {
+   "date": "2026-11-14",
+   "open": 145
   }
  ],
  "jobs": {
@@ -467,7 +471,7 @@
    "url": "https://job-boards.greenhouse.io/reddit/jobs/7950520"
   },
   "7954001": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

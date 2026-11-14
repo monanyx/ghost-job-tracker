@@ -103,6 +103,10 @@
   {
    "date": "2026-11-13",
    "open": 45
+  },
+  {
+   "date": "2026-11-14",
+   "open": 45
   }
  ],
  "jobs": {
@@ -842,7 +846,7 @@
    "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5014940101"
   },
   "5024636101": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-02T11:41:30+00:00",
@@ -1050,6 +1054,21 @@
    "reopened": 0,
    "title": "Senior Associate, Information Security",
    "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5034977101"
+  },
+  "5035788101": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "business operations specialist @ vienna, vienna, austria",
+   "location": "Vienna, Vienna, Austria",
+   "posted_at": "2026-11-13T17:17:03+00:00",
+   "posted_history": [
+    "2026-11-13T17:17:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Business Operations Specialist",
+   "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5035788101"
   }
  }
 }

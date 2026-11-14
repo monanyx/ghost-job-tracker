@@ -103,6 +103,10 @@
   {
    "date": "2026-11-13",
    "open": 291
+  },
+  {
+   "date": "2026-11-14",
+   "open": 288
   }
  ],
  "jobs": {
@@ -3152,7 +3156,7 @@
    "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000154431779"
   },
   "744000154501742": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "Ubisoft",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3557,7 +3561,7 @@
    "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000155522049"
   },
   "744000155696068": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "Ubisoft",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4817,7 +4821,7 @@
    "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000156027817"
   },
   "744000156028462": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "Ubisoft",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6392,7 +6396,7 @@
    "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000158471175"
   },
   "744000158475199": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "Ubisoft",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
@@ -7262,7 +7266,7 @@
    "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000158699281"
   },
   "744000158700011": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "Ubisoft",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -9152,7 +9156,7 @@
    "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000160885012"
   },
   "744000160893379": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "Ubisoft",
    "evergreen": false,
    "first_seen": "2026-11-11T11:27:30+00:00",
@@ -9167,7 +9171,7 @@
    "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000160893379"
   },
   "744000160893659": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "Ubisoft",
    "evergreen": false,
    "first_seen": "2026-11-11T11:27:30+00:00",
@@ -9377,7 +9381,7 @@
    "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000161340439"
   },
   "744000161386079": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "Ubisoft",
    "evergreen": false,
    "first_seen": "2026-11-13T11:35:01+00:00",
@@ -9392,7 +9396,7 @@
    "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000161386079"
   },
   "744000161389089": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "Ubisoft",
    "evergreen": false,
    "first_seen": "2026-11-13T11:35:01+00:00",
@@ -9405,6 +9409,96 @@
    "reopened": 0,
    "title": "Casting Production Coordinator",
    "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000161389089"
+  },
+  "744000161483264": {
+   "closed_at": null,
+   "department": "Ubisoft",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "casting production coordinator @ montreal, qc, canada",
+   "location": "Montreal, QC, Canada",
+   "posted_at": "2026-11-13T13:26:47+00:00",
+   "posted_history": [
+    "2026-11-13T13:26:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Casting Production Coordinator (fixed term)",
+   "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000161483264"
+  },
+  "744000161484179": {
+   "closed_at": null,
+   "department": "Ubisoft",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "coordinateur trice de production casting @ montreal, qc, canada",
+   "location": "Montreal, QC, Canada",
+   "posted_at": "2026-11-13T13:24:54+00:00",
+   "posted_history": [
+    "2026-11-13T13:24:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Coordinateur·trice de production - casting (temporaire)",
+   "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000161484179"
+  },
+  "744000161505131": {
+   "closed_at": null,
+   "department": "Ubisoft",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "alternance technical art programmation @ annecy, auvergne-rhône-alpes, france",
+   "location": "Annecy, Auvergne-Rhône-Alpes, France",
+   "posted_at": "2026-11-13T14:56:42+00:00",
+   "posted_history": [
+    "2026-11-13T14:56:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Alternance -Technical Art & Programmation",
+   "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000161505131"
+  },
+  "744000161524819": {
+   "closed_at": null,
+   "department": "Ubisoft",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "prompt specialist @ montreal, qc, canada",
+   "location": "Montreal, QC, Canada",
+   "posted_at": "2026-11-13T15:58:49+00:00",
+   "posted_history": [
+    "2026-11-13T15:58:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Prompt Specialist",
+   "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000161524819"
+  },
+  "744000161531273": {
+   "closed_at": null,
+   "department": "Ubisoft",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "sp cialiste prompt @ montreal, qc, canada",
+   "location": "Montreal, QC, Canada",
+   "posted_at": "2026-11-13T16:28:35+00:00",
+   "posted_history": [
+    "2026-11-13T16:28:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Spécialiste Prompt",
+   "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000161531273"
+  },
+  "744000161565892": {
+   "closed_at": null,
+   "department": "Ubisoft",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "conseiller re en ressources humaines @ montreal, qc, canada",
+   "location": "Montreal, QC, Canada",
+   "posted_at": "2026-11-13T19:51:33+00:00",
+   "posted_history": [
+    "2026-11-13T19:51:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Conseiller.ère en Ressources Humaines",
+   "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000161565892"
   }
  }
 }

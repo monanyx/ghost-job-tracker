@@ -103,6 +103,10 @@
   {
    "date": "2026-11-13",
    "open": 365
+  },
+  {
+   "date": "2026-11-14",
+   "open": 362
   }
  ],
  "jobs": {
@@ -557,7 +561,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/7561410?gh_jid=7561410"
   },
   "7571064": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -572,7 +576,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/7571064?gh_jid=7571064"
   },
   "7572029": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1502,7 +1506,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8018310?gh_jid=8018310"
   },
   "8018533": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1997,7 +2001,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8071502?gh_jid=8071502"
   },
   "8071508": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2421,8 +2425,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "global paid search marketing manager @ bellevue, washington; chicago, illinois; toronto, ontario, canada",
-   "location": "Bellevue, Washington; Chicago, Illinois; Toronto, Ontario, Canada",
+   "fp": "global paid search marketing manager @ toronto, ontario, canada",
+   "location": "Toronto, Ontario, Canada",
    "posted_at": "2026-08-04T19:47:03+00:00",
    "posted_history": [
     "2026-08-04T19:47:03+00:00"
@@ -3002,7 +3006,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8142022?gh_jid=8142022"
   },
   "8142155": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3436,6 +3440,21 @@
    "title": "Vice President, Vertical Strategy & Commercialization",
    "url": "https://www.okta.com/company/careers/opportunity/8175690?gh_jid=8175690"
   },
+  "8176095": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "director channel and alliances emerging markets @ dublin, ireland",
+   "location": "Dublin, Ireland",
+   "posted_at": "2026-09-10T09:37:55+00:00",
+   "posted_history": [
+    "2026-09-10T09:37:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Director Channel and Alliances - Emerging Markets",
+   "url": "https://www.okta.com/company/careers/opportunity/8176095?gh_jid=8176095"
+  },
   "8178030": {
    "closed_at": null,
    "department": "",
@@ -3827,7 +3846,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8203628?gh_jid=8203628"
   },
   "8203708": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4232,7 +4251,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8213721?gh_jid=8213721"
   },
   "8213755": {
-   "closed_at": "2026-11-12T11:51:19+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4242,7 +4261,7 @@
    "posted_history": [
     "2026-10-01T23:21:00+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Product Manager - Okta Identity Governance",
    "url": "https://www.okta.com/company/careers/opportunity/8213755?gh_jid=8213755"
   },
@@ -4502,7 +4521,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8232605?gh_jid=8232605"
   },
   "8232905": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4517,7 +4536,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8232905?gh_jid=8232905"
   },
   "8233336": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4941,14 +4960,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "staff software engineer fullstack @ bengaluru, india",
+   "fp": "staff fullstack engineer @ bengaluru, india",
    "location": "Bengaluru, India",
    "posted_at": "2026-09-30T06:17:02+00:00",
    "posted_history": [
     "2026-09-30T06:17:02+00:00"
    ],
    "reopened": 0,
-   "title": "Staff Software Engineer-FullStack",
+   "title": "Staff FullStack Engineer",
    "url": "https://www.okta.com/company/careers/opportunity/8242227?gh_jid=8242227"
   },
   "8242257": {
@@ -5147,7 +5166,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8243174?gh_jid=8243174"
   },
   "8243180": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5447,7 +5466,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8255904?gh_jid=8255904"
   },
   "8256066": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5987,7 +6006,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8276264?gh_jid=8276264"
   },
   "8277098": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6092,7 +6111,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8281837?gh_jid=8281837"
   },
   "8281894": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7112,7 +7131,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8305851?gh_jid=8305851"
   },
   "8306330": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -7251,14 +7270,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
-   "fp": "sr customer success manager @ warsaw, poland",
+   "fp": "customer success manager @ warsaw, poland",
    "location": "Warsaw, Poland",
    "posted_at": "2026-10-29T09:12:44+00:00",
    "posted_history": [
     "2026-10-29T09:12:44+00:00"
    ],
    "reopened": 0,
-   "title": "Sr Customer Success Manager",
+   "title": "Customer Success Manager",
    "url": "https://www.okta.com/company/careers/opportunity/8317558?gh_jid=8317558"
   },
   "8317731": {
@@ -7470,6 +7489,21 @@
    "reopened": 0,
    "title": "Senior Software Engineer, Performance ( Toronto)",
    "url": "https://www.okta.com/company/careers/opportunity/8329646?gh_jid=8329646"
+  },
+  "8331195": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "strategic account executive auth0 @ louisiana; new york, new york; north carolina; south carolina; tennessee; virginia",
+   "location": "Louisiana; New York, New York; North Carolina; South Carolina; Tennessee; Virginia",
+   "posted_at": "2026-11-13T18:34:14+00:00",
+   "posted_history": [
+    "2026-11-13T18:34:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Account Executive, Auth0",
+   "url": "https://www.okta.com/company/careers/opportunity/8331195?gh_jid=8331195"
   },
   "8331368": {
    "closed_at": "2026-10-30T10:28:19+00:00",
@@ -7951,6 +7985,21 @@
    "title": "Senior Manager, Site Reliability Engineering",
    "url": "https://www.okta.com/company/careers/opportunity/8353207?gh_jid=8353207"
   },
+  "8354795": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "regional sales manager enterprise @ los angeles, california; san francisco, california",
+   "location": "Los Angeles, California; San Francisco, California",
+   "posted_at": "2026-11-13T20:05:33+00:00",
+   "posted_history": [
+    "2026-11-13T20:05:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Regional Sales Manager, Enterprise",
+   "url": "https://www.okta.com/company/careers/opportunity/8354795?gh_jid=8354795"
+  },
   "8355883": {
    "closed_at": null,
    "department": "",
@@ -8026,6 +8075,36 @@
    "title": "Senior Software Engineer - Full Stack Developer",
    "url": "https://www.okta.com/company/careers/opportunity/8358353?gh_jid=8358353"
   },
+  "8359853": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "senior full stack engineer builder platform @ toronto, ontario, canada",
+   "location": "Toronto, Ontario, Canada",
+   "posted_at": "2026-11-13T20:57:10+00:00",
+   "posted_history": [
+    "2026-11-13T20:57:10+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Full-Stack Engineer, Builder Platform",
+   "url": "https://www.okta.com/company/careers/opportunity/8359853?gh_jid=8359853"
+  },
+  "8373834": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "staff software engineer okta identity governance @ san francisco, california",
+   "location": "San Francisco, California",
+   "posted_at": "2026-11-13T22:17:09+00:00",
+   "posted_history": [
+    "2026-11-13T22:17:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer - Okta Identity Governance",
+   "url": "https://www.okta.com/company/careers/opportunity/8373834?gh_jid=8373834"
+  },
   "8374832": {
    "closed_at": null,
    "department": "",
@@ -8055,6 +8134,66 @@
    "reopened": 0,
    "title": "Director, Product Security, PSIRT",
    "url": "https://www.okta.com/company/careers/opportunity/8383373?gh_jid=8383373"
+  },
+  "8384384": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "staff software engineer privileged access management @ bellevue, washington",
+   "location": "Bellevue, Washington",
+   "posted_at": "2026-11-13T19:55:02+00:00",
+   "posted_history": [
+    "2026-11-13T19:55:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer - Privileged Access Management (PAM)",
+   "url": "https://www.okta.com/company/careers/opportunity/8384384?gh_jid=8384384"
+  },
+  "8385349": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "sales development representative uki @ dublin, ireland",
+   "location": "Dublin, Ireland",
+   "posted_at": "2026-11-13T12:39:25+00:00",
+   "posted_history": [
+    "2026-11-13T12:39:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales Development Representative - UKI",
+   "url": "https://www.okta.com/company/careers/opportunity/8385349?gh_jid=8385349"
+  },
+  "8385852": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "senior smb customer account executive @ bellevue, washington; san francisco, california",
+   "location": "Bellevue, Washington; San Francisco, California",
+   "posted_at": "2026-11-13T17:48:00+00:00",
+   "posted_history": [
+    "2026-11-13T17:48:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior SMB Customer Account Executive (West)",
+   "url": "https://www.okta.com/company/careers/opportunity/8385852?gh_jid=8385852"
+  },
+  "8385863": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "senior smb customer account executive @ chicago, illinois; washington, dc",
+   "location": "Chicago, Illinois; Washington, DC",
+   "posted_at": "2026-11-13T17:48:22+00:00",
+   "posted_history": [
+    "2026-11-13T17:48:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior SMB Customer Account Executive (East)",
+   "url": "https://www.okta.com/company/careers/opportunity/8385863?gh_jid=8385863"
   }
  }
 }

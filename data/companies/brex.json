@@ -103,6 +103,10 @@
   {
    "date": "2026-11-13",
    "open": 283
+  },
+  {
+   "date": "2026-11-14",
+   "open": 286
   }
  ],
  "jobs": {
@@ -1382,7 +1386,7 @@
    "url": "https://www.brex.com/careers/8580566002?gh_jid=8580566002"
   },
   "8584366002": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1530,6 +1534,21 @@
    "reopened": 0,
    "title": "AI Engineer, Workbench",
    "url": "https://www.brex.com/careers/8606845002?gh_jid=8606845002"
+  },
+  "8606885002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "ai engineer ecosystem @ seattle, washington, united states",
+   "location": "Seattle, Washington, United States",
+   "posted_at": "2026-06-24T21:25:10+00:00",
+   "posted_history": [
+    "2026-06-24T21:25:10+00:00"
+   ],
+   "reopened": 0,
+   "title": "AI Engineer, Ecosystem",
+   "url": "https://www.brex.com/careers/8606885002?gh_jid=8606885002"
   },
   "8612473002": {
    "closed_at": null,
@@ -2882,7 +2901,7 @@
    "url": "https://www.brex.com/careers/8787053002?gh_jid=8787053002"
   },
   "8795500002": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5415,6 +5434,66 @@
    "reopened": 0,
    "title": "Software Engineer II, Frontend (Banking)",
    "url": "https://www.brex.com/careers/8939939002?gh_jid=8939939002"
+  },
+  "8943620002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "senior grc engineer @ new york, new york, united states",
+   "location": "New York, New York, United States",
+   "posted_at": "2026-11-13T23:47:39+00:00",
+   "posted_history": [
+    "2026-11-13T23:47:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior GRC Engineer",
+   "url": "https://www.brex.com/careers/8943620002?gh_jid=8943620002"
+  },
+  "8943780002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "senior grc engineer @ seattle, washington, united states",
+   "location": "Seattle, Washington, United States",
+   "posted_at": "2026-11-13T23:47:41+00:00",
+   "posted_history": [
+    "2026-11-13T23:47:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior GRC Engineer",
+   "url": "https://www.brex.com/careers/8943780002?gh_jid=8943780002"
+  },
+  "8943782002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "senior grc engineer @ san francisco, california, united states",
+   "location": "San Francisco, California, United States",
+   "posted_at": "2026-11-13T23:47:43+00:00",
+   "posted_history": [
+    "2026-11-13T23:47:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior GRC Engineer",
+   "url": "https://www.brex.com/careers/8943782002?gh_jid=8943782002"
+  },
+  "8943783002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "senior grc engineer @ vancouver, british columbia, canada",
+   "location": "Vancouver, British Columbia, Canada",
+   "posted_at": "2026-11-13T23:47:45+00:00",
+   "posted_history": [
+    "2026-11-13T23:47:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior GRC Engineer",
+   "url": "https://www.brex.com/careers/8943783002?gh_jid=8943783002"
   }
  }
 }

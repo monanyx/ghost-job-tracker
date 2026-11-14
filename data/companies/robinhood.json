@@ -103,6 +103,10 @@
   {
    "date": "2026-11-13",
    "open": 160
+  },
+  {
+   "date": "2026-11-14",
+   "open": 165
   }
  ],
  "jobs": {
@@ -1022,7 +1026,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8082718?t=gh_src=&gh_jid=8082718"
   },
   "8083818": {
-   "closed_at": "2026-11-03T11:21:29+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-28T10:01:46+00:00",
@@ -1032,7 +1036,7 @@
    "posted_history": [
     "2026-07-30T12:27:22+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Software Developer, Developer Experience (DevX)",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8083818?t=gh_src=&gh_jid=8083818"
   },
@@ -1142,7 +1146,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8114730?t=gh_src=&gh_jid=8114730"
   },
   "8120094": {
-   "closed_at": "2026-11-07T10:41:11+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
@@ -1152,7 +1156,7 @@
    "posted_history": [
     "2026-08-18T18:25:23+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Software Engineer, Enterprise Build",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8120094?t=gh_src=&gh_jid=8120094"
   },
@@ -1367,7 +1371,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8164884?t=gh_src=&gh_jid=8164884"
   },
   "8164943": {
-   "closed_at": "2026-11-03T11:21:29+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-28T10:01:46+00:00",
@@ -1377,7 +1381,7 @@
    "posted_history": [
     "2026-08-28T18:53:12+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Software Engineer, Developer Experience (DevX)",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8164943?t=gh_src=&gh_jid=8164943"
   },
@@ -1712,7 +1716,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8198187?t=gh_src=&gh_jid=8198187"
   },
   "8198241": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2541,14 +2545,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-13T11:35:01+00:00",
-   "fp": "aml investigations manager @ denver, co; new york, ny; westlake, tx",
+   "fp": "aml investigator @ denver, co; new york, ny; westlake, tx",
    "location": "Denver, CO; New York, NY; Westlake, TX",
    "posted_at": "2026-11-12T20:14:34+00:00",
    "posted_history": [
     "2026-11-12T20:14:34+00:00"
    ],
    "reopened": 0,
-   "title": "AML Investigations Manager",
+   "title": "AML Investigator",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8259642?t=gh_src=&gh_jid=8259642"
   },
   "8259652": {
@@ -2661,14 +2665,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-11T11:27:30+00:00",
-   "fp": "creative director @ menlo park, ca; new york, ny",
+   "fp": "principal creative director @ menlo park, ca; new york, ny",
    "location": "Menlo Park, CA; New York, NY",
    "posted_at": "2026-11-10T22:31:45+00:00",
    "posted_history": [
     "2026-11-10T22:31:45+00:00"
    ],
    "reopened": 0,
-   "title": "Creative Director",
+   "title": "Principal Creative Director",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8265130?t=gh_src=&gh_jid=8265130"
   },
   "8265728": {
@@ -2957,7 +2961,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8304315?t=gh_src=&gh_jid=8304315"
   },
   "8305772": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
@@ -3316,6 +3320,21 @@
    "title": "President, Bitstamp Europe",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8350712?t=gh_src=&gh_jid=8350712"
   },
+  "8356065": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "senior data scientist experimentation @ menlo park, ca",
+   "location": "Menlo Park, CA",
+   "posted_at": "2026-11-13T22:25:02+00:00",
+   "posted_history": [
+    "2026-11-13T22:25:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Data Scientist, Experimentation",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8356065?t=gh_src=&gh_jid=8356065"
+  },
   "8356278": {
    "closed_at": null,
    "department": "",
@@ -3376,6 +3395,21 @@
    "title": "Fraud and Disputes Vendor Management Specialist",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8357023?t=gh_src=&gh_jid=8357023"
   },
+  "8357464": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "corporate finance intern @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-11-13T21:14:12+00:00",
+   "posted_history": [
+    "2026-11-13T21:14:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Corporate Finance Intern (Summer 2027)",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8357464?t=gh_src=&gh_jid=8357464"
+  },
   "8357602": {
    "closed_at": null,
    "department": "",
@@ -3390,6 +3424,21 @@
    "reopened": 0,
    "title": "Customer Experience Team Lead, RHM Executive Office",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8357602?t=gh_src=&gh_jid=8357602"
+  },
+  "8367410": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "futures compliance senior specialist @ chicago, il",
+   "location": "Chicago, IL",
+   "posted_at": "2026-11-13T22:20:47+00:00",
+   "posted_history": [
+    "2026-11-13T22:20:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Futures Compliance Senior Specialist",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8367410?t=gh_src=&gh_jid=8367410"
   },
   "8368338": {
    "closed_at": null,
@@ -3435,6 +3484,21 @@
    "reopened": 0,
    "title": "Staff MarTech Manager",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8374447?t=gh_src=&gh_jid=8374447"
+  },
+  "8379461": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "director and associate general counsel banking and credit cards @ menlo park, ca; new york, ny; washington, dc",
+   "location": "Menlo Park, CA; New York, NY; Washington, DC",
+   "posted_at": "2026-11-14T00:08:02+00:00",
+   "posted_history": [
+    "2026-11-14T00:08:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Director and Associate General Counsel, Banking and Credit Cards",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8379461?t=gh_src=&gh_jid=8379461"
   },
   "8379685": {
    "closed_at": null,

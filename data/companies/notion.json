@@ -103,6 +103,10 @@
   {
    "date": "2026-11-13",
    "open": 167
+  },
+  {
+   "date": "2026-11-14",
+   "open": 166
   }
  ],
  "jobs": {
@@ -1325,7 +1329,7 @@
    "url": "https://jobs.ashbyhq.com/notion/77af0faa-8f69-4dc5-baa6-6e253823bccb"
   },
   "7832514e-f065-4345-9eee-47083880c0a1": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "Finance",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1368,6 +1372,21 @@
    "reopened": 0,
    "title": "Forward Deployed Engineer, India",
    "url": "https://jobs.ashbyhq.com/notion/79c18580-c927-456c-9d5f-72efbc6c43cb"
+  },
+  "7a044182-7787-47cd-b8eb-18ebf5642ed4": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "forward deployed architect @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2026-11-13T17:01:40+00:00",
+   "posted_history": [
+    "2026-11-13T17:01:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Architect",
+   "url": "https://jobs.ashbyhq.com/notion/7a044182-7787-47cd-b8eb-18ebf5642ed4"
   },
   "7ec83090-7c5b-4691-bf20-e11e892cede1": {
    "closed_at": "2026-11-10T11:47:05+00:00",
@@ -2226,7 +2245,7 @@
    "url": "https://jobs.ashbyhq.com/notion/c25bba57-f0f2-4d2b-8363-fbe04bc1fba0"
   },
   "c413d063-add4-4c55-aebd-704d49fb54c1": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "People",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",

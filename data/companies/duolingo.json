@@ -103,6 +103,10 @@
   {
    "date": "2026-11-13",
    "open": 61
+  },
+  {
+   "date": "2026-11-14",
+   "open": 59
   }
  ],
  "jobs": {
@@ -197,7 +201,7 @@
    "url": "https://careers.duolingo.com/jobs/8489240002?gh_jid=8489240002"
   },
   "8530395002": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -287,7 +291,7 @@
    "url": "https://careers.duolingo.com/jobs/8584465002?gh_jid=8584465002"
   },
   "8590178002": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -302,7 +306,7 @@
    "url": "https://careers.duolingo.com/jobs/8590178002?gh_jid=8590178002"
   },
   "8602840002": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -662,7 +666,7 @@
    "url": "https://careers.duolingo.com/jobs/8747077002?gh_jid=8747077002"
   },
   "8747099002": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -767,7 +771,7 @@
    "url": "https://careers.duolingo.com/jobs/8761234002?gh_jid=8761234002"
   },
   "8761428002": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -936,14 +940,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "staff technical program manager @ new york, ny",
+   "fp": "staff technical program manager growth @ new york, ny",
    "location": "New York, NY",
    "posted_at": "2026-10-07T14:10:45+00:00",
    "posted_history": [
     "2026-10-07T14:10:45+00:00"
    ],
    "reopened": 0,
-   "title": "Staff Technical Program Manager",
+   "title": "Staff Technical Program Manager, Growth",
    "url": "https://careers.duolingo.com/jobs/8875080002?gh_jid=8875080002"
   },
   "8881612002": {
@@ -1260,6 +1264,51 @@
    "reopened": 0,
    "title": "Staff Security Engineer",
    "url": "https://careers.duolingo.com/jobs/8935541002?gh_jid=8935541002"
+  },
+  "8939678002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "strategic finance fp a manager @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-11-13T19:02:11+00:00",
+   "posted_history": [
+    "2026-11-13T19:02:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Finance & FP&A Manager",
+   "url": "https://careers.duolingo.com/jobs/8939678002?gh_jid=8939678002"
+  },
+  "8942115002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "language measurement scientist @ pittsburgh, pa",
+   "location": "Pittsburgh, PA",
+   "posted_at": "2026-11-13T17:34:33+00:00",
+   "posted_history": [
+    "2026-11-13T17:34:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Language Measurement Scientist",
+   "url": "https://careers.duolingo.com/jobs/8942115002?gh_jid=8942115002"
+  },
+  "8943317002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "associate creative director @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-11-13T21:05:37+00:00",
+   "posted_history": [
+    "2026-11-13T21:05:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Associate Creative Director",
+   "url": "https://careers.duolingo.com/jobs/8943317002?gh_jid=8943317002"
   }
  }
 }

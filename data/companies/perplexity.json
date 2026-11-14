@@ -103,6 +103,10 @@
   {
    "date": "2026-11-13",
    "open": 142
+  },
+  {
+   "date": "2026-11-14",
+   "open": 141
   }
  ],
  "jobs": {
@@ -1513,14 +1517,14 @@
    "department": "Security",
    "evergreen": false,
    "first_seen": "2026-11-13T11:35:01+00:00",
-   "fp": "engineering manager security @ san francisco",
+   "fp": "engineering manager @ san francisco",
    "location": "San Francisco",
    "posted_at": "2026-11-13T02:54:29+00:00",
    "posted_history": [
     "2026-11-13T02:54:29+00:00"
    ],
    "reopened": 0,
-   "title": "Engineering Manager, Security",
+   "title": "Engineering Manager (Security)",
    "url": "https://jobs.ashbyhq.com/Perplexity/859604e1-9ada-4833-97b3-51fe185b6ff7"
   },
   "883bd78f-c9cd-4ae5-afbf-b21f16f06a6f": {
@@ -1943,6 +1947,21 @@
    "title": "Member of Technical Staff (Software Engineer, Desktop Apps)",
    "url": "https://jobs.ashbyhq.com/Perplexity/b00cbb00-f672-4909-a7be-bbd02c7d7b5f"
   },
+  "b23d83e3-add8-48ea-b16e-65a956d1192c": {
+   "closed_at": null,
+   "department": "Security",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "member of technical staff @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-11-13T16:21:54+00:00",
+   "posted_history": [
+    "2026-11-13T16:21:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff (Software Engineer, Cybersecurity Products)",
+   "url": "https://jobs.ashbyhq.com/Perplexity/b23d83e3-add8-48ea-b16e-65a956d1192c"
+  },
   "b349ec0e-be02-47b0-8595-8de0dbb074c5": {
    "closed_at": null,
    "department": "Growth",
@@ -1989,7 +2008,7 @@
    "url": "https://jobs.ashbyhq.com/Perplexity/b85c4547-fa75-41a8-bd36-6f2c70117764"
   },
   "b9e1ff15-d52a-46d5-abf0-26460f2a116c": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "Search",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2079,7 +2098,7 @@
    "url": "https://jobs.ashbyhq.com/Perplexity/c20486f5-1e9c-436c-ba67-dc69842c221c"
   },
   "c5dcc0db-7fdc-4e09-86c7-b6618400df16": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "Workplace",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2657,14 +2676,14 @@
    "department": "Customer Success & Support",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "scaled enterprise customer success manager @ san francisco",
+   "fp": "customer success manager @ san francisco",
    "location": "San Francisco",
    "posted_at": "2026-05-16T00:19:04+00:00",
    "posted_history": [
     "2026-05-16T00:19:04+00:00"
    ],
    "reopened": 0,
-   "title": "Scaled Enterprise Customer Success Manager",
+   "title": "Customer Success Manager",
    "url": "https://jobs.ashbyhq.com/Perplexity/fdc2ea75-c198-4a9e-9c0a-df835ed61ed0"
   },
   "ffa25e26-9675-4ab1-bc98-325675879e1d": {

@@ -103,6 +103,10 @@
   {
    "date": "2026-11-13",
    "open": 143
+  },
+  {
+   "date": "2026-11-14",
+   "open": 142
   }
  ],
  "jobs": {
@@ -827,7 +831,7 @@
    "url": "https://epicgames.com/careers/jobs/6122977004?gh_jid=6122977004"
   },
   "6122983004": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -842,7 +846,7 @@
    "url": "https://epicgames.com/careers/jobs/6122983004?gh_jid=6122983004"
   },
   "6122985004": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2910,6 +2914,21 @@
    "reopened": 0,
    "title": "Senior Security Automation Software Programmer",
    "url": "https://epicgames.com/careers/jobs/6258494004?gh_jid=6258494004"
+  },
+  "6261103004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "senior ai programmer @ montreal,quebec,canada",
+   "location": "Montreal,Quebec,Canada",
+   "posted_at": "2026-11-13T15:14:32+00:00",
+   "posted_history": [
+    "2026-11-13T15:14:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior AI Programmer",
+   "url": "https://epicgames.com/careers/jobs/6261103004?gh_jid=6261103004"
   }
  }
 }

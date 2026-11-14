@@ -103,6 +103,10 @@
   {
    "date": "2026-11-13",
    "open": 57
+  },
+  {
+   "date": "2026-11-14",
+   "open": 58
   }
  ],
  "jobs": {
@@ -1260,6 +1264,21 @@
    "reopened": 0,
    "title": "Software Engineer II, Fintech",
    "url": "https://job-boards.greenhouse.io/twitch/jobs/8937278002"
+  },
+  "8943553002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "software engineer i payments @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-13T23:16:21+00:00",
+   "posted_history": [
+    "2026-11-13T23:16:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer I, Payments",
+   "url": "https://job-boards.greenhouse.io/twitch/jobs/8943553002"
   }
  }
 }

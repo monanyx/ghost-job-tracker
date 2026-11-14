@@ -103,6 +103,10 @@
   {
    "date": "2026-11-13",
    "open": 270
+  },
+  {
+   "date": "2026-11-14",
+   "open": 265
   }
  ],
  "jobs": {
@@ -1082,7 +1086,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7771553003?gh_jid=7771553003"
   },
   "7773228003": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1577,7 +1581,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7815061003?gh_jid=7815061003"
   },
   "7815115003": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-05T11:30:12+00:00",
@@ -3826,6 +3830,21 @@
    "title": "Senior Deployment Engineer",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8037367003?gh_jid=8037367003"
   },
+  "8037428003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "lead project manager @ madrid, spain",
+   "location": "Madrid, Spain",
+   "posted_at": "2026-11-14T09:07:50+00:00",
+   "posted_history": [
+    "2026-11-14T09:07:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Lead Project Manager",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/8037428003?gh_jid=8037428003"
+  },
   "8037503003": {
    "closed_at": null,
    "department": "",
@@ -4097,7 +4116,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8042925003?gh_jid=8042925003"
   },
   "8044261003": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -4693,8 +4712,23 @@
     "2026-11-11T14:35:29+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Value Engineer - AI & Process Optimization (Copenhagen)",
+   "title": "Senior Value Engineer - AI & Process Optimization",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8201374003?gh_jid=8201374003"
+  },
+  "8201375003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "senior value engineer ai process optimization @ remote, portugal",
+   "location": "Remote, Portugal",
+   "posted_at": "2026-11-11T14:37:01+00:00",
+   "posted_history": [
+    "2026-11-11T14:37:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Value Engineer - AI & Process Optimization",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/8201375003?gh_jid=8201375003"
   },
   "8201377003": {
    "closed_at": null,
@@ -4708,8 +4742,23 @@
     "2026-11-11T14:37:57+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Value Engineer - AI & Process Optimization (Copenhagen)",
+   "title": "Senior Value Engineer - AI & Process Optimization",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8201377003?gh_jid=8201377003"
+  },
+  "8201379003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-14T10:56:25+00:00",
+   "fp": "senior value engineer ai process optimization @ remote, finland",
+   "location": "Remote, Finland",
+   "posted_at": "2026-11-11T14:38:29+00:00",
+   "posted_history": [
+    "2026-11-11T14:38:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Value Engineer - AI & Process Optimization",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/8201379003?gh_jid=8201379003"
   },
   "8201382003": {
    "closed_at": null,
@@ -4723,7 +4772,7 @@
     "2026-11-11T14:42:09+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Value Engineer (Pharma) - AI & Process Optimization (Copenhagen)",
+   "title": "Senior Value Engineer (Pharma) - AI & Process Optimization",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8201382003?gh_jid=8201382003"
   },
   "8201389003": {
@@ -4738,7 +4787,7 @@
     "2026-11-11T14:50:45+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Value Engineer (Pharma) - AI & Process Optimization (Copenhagen)",
+   "title": "Senior Value Engineer (Pharma) - AI & Process Optimization",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8201389003?gh_jid=8201389003"
   },
   "8201390003": {
@@ -4768,7 +4817,7 @@
     "2026-11-11T14:51:35+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Value Engineer (Pharma) - AI & Process Optimization (Copenhagen)",
+   "title": "Senior Value Engineer (Pharma) - AI & Process Optimization",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8201393003?gh_jid=8201393003"
   },
   "8201397003": {
@@ -4783,7 +4832,7 @@
     "2026-11-11T14:53:14+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Value Engineer (Pharma) - AI & Process Optimization (Copenhagen)",
+   "title": "Senior Value Engineer (Pharma) - AI & Process Optimization",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8201397003?gh_jid=8201397003"
   },
   "8201398003": {
@@ -4798,7 +4847,7 @@
     "2026-11-11T14:55:51+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Value Engineer (Pharma) - AI & Process Optimization (Copenhagen)",
+   "title": "Senior Value Engineer (Pharma) - AI & Process Optimization",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8201398003?gh_jid=8201398003"
   },
   "8201403003": {
@@ -4813,7 +4862,7 @@
     "2026-11-11T14:55:54+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Value Engineer (Pharma) - AI & Process Optimization (Copenhagen)",
+   "title": "Senior Value Engineer (Pharma) - AI & Process Optimization",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8201403003?gh_jid=8201403003"
   },
   "8201407003": {
@@ -4828,7 +4877,7 @@
     "2026-11-11T14:56:52+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Value Engineer - AI & Process Optimization (Copenhagen)",
+   "title": "Senior Value Engineer - AI & Process Optimization",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8201407003?gh_jid=8201407003"
   },
   "8201411003": {
@@ -4843,7 +4892,7 @@
     "2026-11-11T14:57:59+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Value Engineer - AI & Process Optimization (Copenhagen)",
+   "title": "Senior Value Engineer - AI & Process Optimization",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8201411003?gh_jid=8201411003"
   },
   "8201662003": {
@@ -4907,7 +4956,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8201666003?gh_jid=8201666003"
   },
   "8201885003": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-12T11:51:19+00:00",
@@ -4922,7 +4971,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8201885003?gh_jid=8201885003"
   },
   "8201886003": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-12T11:51:19+00:00",
@@ -4937,7 +4986,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8201886003?gh_jid=8201886003"
   },
   "8201887003": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-12T11:51:19+00:00",
@@ -4952,7 +5001,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8201887003?gh_jid=8201887003"
   },
   "8201888003": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-12T11:51:19+00:00",
@@ -4967,7 +5016,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8201888003?gh_jid=8201888003"
   },
   "8201889003": {
-   "closed_at": null,
+   "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-12T11:51:19+00:00",
