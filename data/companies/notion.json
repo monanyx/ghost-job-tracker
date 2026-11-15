@@ -107,6 +107,10 @@
   {
    "date": "2026-11-14",
    "open": 166
+  },
+  {
+   "date": "2026-11-15",
+   "open": 165
   }
  ],
  "jobs": {
@@ -954,7 +958,7 @@
    "url": "https://jobs.ashbyhq.com/notion/4bc0802c-b5e0-411c-be01-daaea2bc3ae0"
   },
   "4e7b3471-20b7-4a37-8455-8b2735bfaf26": {
-   "closed_at": null,
+   "closed_at": "2026-11-15T11:30:18+00:00",
    "department": "Finance",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

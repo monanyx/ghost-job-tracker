@@ -107,6 +107,10 @@
   {
    "date": "2026-11-14",
    "open": 2758
+  },
+  {
+   "date": "2026-11-15",
+   "open": 2758
   }
  ],
  "jobs": {
@@ -4806,7 +4810,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8546238002?gh_jid=8546238002"
   },
   "8546250002": {
-   "closed_at": null,
+   "closed_at": "2026-11-15T11:30:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7041,7 +7045,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8563021002?gh_jid=8563021002"
   },
   "8563083002": {
-   "closed_at": null,
+   "closed_at": "2026-11-15T11:30:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -51801,7 +51805,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8939832002?gh_jid=8939832002"
   },
   "8939937002": {
-   "closed_at": null,
+   "closed_at": "2026-11-15T11:30:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-13T11:35:01+00:00",
@@ -52399,6 +52403,51 @@
    "reopened": 0,
    "title": "Process Operator Specialist, Air Separation Unit (Starship) - Level 4/5 - Night Shift",
    "url": "https://boards.greenhouse.io/spacex/jobs/8943271002?gh_jid=8943271002"
+  },
+  "8943425002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-15T11:30:18+00:00",
+   "fp": "tig welder @ starbase, tx",
+   "location": "Starbase, TX",
+   "posted_at": "2026-11-14T20:16:04+00:00",
+   "posted_history": [
+    "2026-11-14T20:16:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "TIG Welder (Starship)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8943425002?gh_jid=8943425002"
+  },
+  "8943586002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-15T11:30:18+00:00",
+   "fp": "full stack software engineer @ palo alto, ca",
+   "location": "Palo Alto, CA",
+   "posted_at": "2026-11-15T02:59:43+00:00",
+   "posted_history": [
+    "2026-11-15T02:59:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Full Stack Software Engineer (Starlink)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8943586002?gh_jid=8943586002"
+  },
+  "8943684002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-15T11:30:18+00:00",
+   "fp": "sr full stack software engineer @ palo alto, ca",
+   "location": "Palo Alto, CA",
+   "posted_at": "2026-11-15T02:56:23+00:00",
+   "posted_history": [
+    "2026-11-15T02:56:23+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Full Stack Software Engineer (Starlink)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8943684002?gh_jid=8943684002"
   },
   "8943811002": {
    "closed_at": null,

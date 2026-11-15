@@ -107,6 +107,10 @@
   {
    "date": "2026-11-14",
    "open": 313
+  },
+  {
+   "date": "2026-11-15",
+   "open": 319
   }
  ],
  "jobs": {
@@ -3426,7 +3430,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8205198?gh_jid=8205198"
   },
   "8207926": {
-   "closed_at": "2026-11-14T10:56:25+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3436,7 +3440,7 @@
    "posted_history": [
     "2026-09-17T18:58:45+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Account Development Representative II",
    "url": "https://www.samsara.com/company/careers/roles/8207926?gh_jid=8207926"
   },
@@ -3605,6 +3609,21 @@
    "title": "Senior Security Operations Engineer",
    "url": "https://www.samsara.com/company/careers/roles/8223613?gh_jid=8223613"
   },
+  "8223641": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-15T11:30:18+00:00",
+   "fp": "sr software engineer i ii operational ai @ remote - us",
+   "location": "Remote - US",
+   "posted_at": "2026-11-14T17:32:27+00:00",
+   "posted_history": [
+    "2026-11-14T17:32:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr Software Engineer I/II, Operational AI",
+   "url": "https://www.samsara.com/company/careers/roles/8223641?gh_jid=8223641"
+  },
   "8223645": {
    "closed_at": null,
    "department": "",
@@ -3726,7 +3745,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8227725?gh_jid=8227725"
   },
   "8231364": {
-   "closed_at": "2026-11-14T10:56:25+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3736,7 +3755,7 @@
    "posted_history": [
     "2026-09-30T20:02:05+00:00"
    ],
-   "reopened": 1,
+   "reopened": 2,
    "title": "Enablement Consultant",
    "url": "https://www.samsara.com/company/careers/roles/8231364?gh_jid=8231364"
   },
@@ -6021,7 +6040,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8332757?gh_jid=8332757"
   },
   "8336436": {
-   "closed_at": "2026-11-13T11:35:01+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
@@ -6031,7 +6050,7 @@
    "posted_history": [
     "2026-10-30T10:54:03+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Sales Engineering Manager Select - UK&I",
    "url": "https://www.samsara.com/company/careers/roles/8336436?gh_jid=8336436"
   },
@@ -6471,7 +6490,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8358633?gh_jid=8358633"
   },
   "8358654": {
-   "closed_at": null,
+   "closed_at": "2026-11-15T11:30:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",
@@ -7145,6 +7164,21 @@
    "title": "Sr. Hardware Reliability Engineer",
    "url": "https://www.samsara.com/company/careers/roles/8374813?gh_jid=8374813"
   },
+  "8374911": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-15T11:30:18+00:00",
+   "fp": "senior manager software engineering ai developer productivity @ remote - us",
+   "location": "Remote - US",
+   "posted_at": "2026-11-14T17:29:14+00:00",
+   "posted_history": [
+    "2026-11-14T17:29:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Software Engineering - AI Developer Productivity (Dev Agents and SRE AI)",
+   "url": "https://www.samsara.com/company/careers/roles/8374911?gh_jid=8374911"
+  },
   "8374913": {
    "closed_at": null,
    "department": "",
@@ -7219,6 +7253,36 @@
    "reopened": 0,
    "title": "Sr. Manager, Agents",
    "url": "https://www.samsara.com/company/careers/roles/8381399?gh_jid=8381399"
+  },
+  "8387002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-15T11:30:18+00:00",
+   "fp": "senior manager software engineering ai developer productivity @ remote - canada",
+   "location": "Remote - Canada",
+   "posted_at": "2026-11-14T17:29:17+00:00",
+   "posted_history": [
+    "2026-11-14T17:29:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Software Engineering - AI Developer Productivity (Dev Agents and SRE AI)",
+   "url": "https://www.samsara.com/company/careers/roles/8387002?gh_jid=8387002"
+  },
+  "8387609": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-15T11:30:18+00:00",
+   "fp": "sr software engineer i ii operational ai @ remote - canada",
+   "location": "Remote - Canada",
+   "posted_at": "2026-11-14T17:32:25+00:00",
+   "posted_history": [
+    "2026-11-14T17:32:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr Software Engineer I/II, Operational AI",
+   "url": "https://www.samsara.com/company/careers/roles/8387609?gh_jid=8387609"
   }
  }
 }

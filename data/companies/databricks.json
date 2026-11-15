@@ -107,6 +107,10 @@
   {
    "date": "2026-11-14",
    "open": 896
+  },
+  {
+   "date": "2026-11-15",
+   "open": 895
   }
  ],
  "jobs": {
@@ -531,7 +535,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6709301002"
   },
   "6716344002": {
-   "closed_at": null,
+   "closed_at": "2026-11-15T11:30:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -12216,7 +12220,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8808527002"
   },
   "8811059002": {
-   "closed_at": null,
+   "closed_at": "2026-11-15T11:30:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",
@@ -16759,6 +16763,21 @@
    "reopened": 0,
    "title": "Sr. Engineering Manager - Developer Ecosystem",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8940907002"
+  },
+  "8944097002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-15T11:30:18+00:00",
+   "fp": "staff software engineer @ bengaluru, india",
+   "location": "Bengaluru, India",
+   "posted_at": "2026-11-15T04:36:01+00:00",
+   "posted_history": [
+    "2026-11-15T04:36:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer (App-Framework)",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8944097002"
   }
  }
 }

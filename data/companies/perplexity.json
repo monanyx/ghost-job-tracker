@@ -107,6 +107,10 @@
   {
    "date": "2026-11-14",
    "open": 141
+  },
+  {
+   "date": "2026-11-15",
+   "open": 141
   }
  ],
  "jobs": {
@@ -304,6 +308,21 @@
    "reopened": 0,
    "title": "Member of Technical Staff (Software Engineer, AI Policy and Strategic Initiatives)",
    "url": "https://jobs.ashbyhq.com/Perplexity/1056951e-8a42-4330-b72c-90162b3cd1c9"
+  },
+  "10a51134-6741-40ec-8cca-a8ac1534673b": {
+   "closed_at": null,
+   "department": "AI Research & Systems",
+   "evergreen": false,
+   "first_seen": "2026-11-15T11:30:18+00:00",
+   "fp": "member of technical staff @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-11-15T01:03:15+00:00",
+   "posted_history": [
+    "2026-11-15T01:03:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff (AI Software Engineer, Agent Engine)",
+   "url": "https://jobs.ashbyhq.com/Perplexity/10a51134-6741-40ec-8cca-a8ac1534673b"
   },
   "1354f2e8-56c8-4a66-81f8-eb5d5b944506": {
    "closed_at": null,
@@ -2218,7 +2237,7 @@
    "url": "https://jobs.ashbyhq.com/Perplexity/d7e05546-4d42-4f1a-8ccd-c95d2519f5f6"
   },
   "d865c821-9a27-416c-9c6a-14132a86f760": {
-   "closed_at": null,
+   "closed_at": "2026-11-15T11:30:18+00:00",
    "department": "AI Research & Systems",
    "evergreen": false,
    "first_seen": "2026-10-26T09:22:13+00:00",

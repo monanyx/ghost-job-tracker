@@ -107,6 +107,10 @@
   {
    "date": "2026-11-14",
    "open": 251
+  },
+  {
+   "date": "2026-11-15",
+   "open": 254
   }
  ],
  "jobs": {
@@ -4356,7 +4360,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8909618002"
   },
   "8911335002": {
-   "closed_at": null,
+   "closed_at": "2026-11-15T11:30:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
@@ -5314,6 +5318,66 @@
    "reopened": 0,
    "title": "Senior Backend Engineer (Go), Tenant Scales: Gitaly",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8937425002"
+  },
+  "8937797002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-15T11:30:18+00:00",
+   "fp": "customer success architect neur @ remote, united kingdom",
+   "location": "Remote, United Kingdom",
+   "posted_at": "2026-11-15T07:56:39+00:00",
+   "posted_history": [
+    "2026-11-15T07:56:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Success Architect, NEUR",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8937797002"
+  },
+  "8937803002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-15T11:30:18+00:00",
+   "fp": "customer success architect france @ remote, france",
+   "location": "Remote, France",
+   "posted_at": "2026-11-15T07:58:19+00:00",
+   "posted_history": [
+    "2026-11-15T07:58:19+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Success Architect, France",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8937803002"
+  },
+  "8937825002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-15T11:30:18+00:00",
+   "fp": "customer success engineer emea @ remote, israel",
+   "location": "Remote, Israel",
+   "posted_at": "2026-11-15T08:00:12+00:00",
+   "posted_history": [
+    "2026-11-15T08:00:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Success Engineer, EMEA",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8937825002"
+  },
+  "8937862002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-15T11:30:18+00:00",
+   "fp": "senior engagement manager professional services sales emea @ remote ireland; remote, france; remote, germany; remote, spain; remote, united kingdom",
+   "location": "Remote Ireland; Remote, France; Remote, Germany; Remote, Spain; Remote, United Kingdom",
+   "posted_at": "2026-11-15T08:24:01+00:00",
+   "posted_history": [
+    "2026-11-15T08:24:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Engagement Manager - Professional Services Sales,  EMEA",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8937862002"
   }
  }
 }

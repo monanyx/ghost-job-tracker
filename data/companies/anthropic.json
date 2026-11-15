@@ -107,6 +107,10 @@
   {
    "date": "2026-11-14",
    "open": 670
+  },
+  {
+   "date": "2026-11-15",
+   "open": 668
   }
  ],
  "jobs": {
@@ -3726,7 +3730,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5325909008"
   },
   "5339199008": {
-   "closed_at": null,
+   "closed_at": "2026-11-15T11:30:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -10056,7 +10060,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5448194008"
   },
   "5448360008": {
-   "closed_at": null,
+   "closed_at": "2026-11-15T11:30:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -11241,7 +11245,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5459272008"
   },
   "5459274008": {
-   "closed_at": null,
+   "closed_at": "2026-11-15T11:30:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -11740,14 +11744,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
-   "fp": "data engineer gtm systems @ san francisco, ca | new york city, ny; seattle, wa",
+   "fp": "data foundations gtm systems @ san francisco, ca | new york city, ny; seattle, wa",
    "location": "San Francisco, CA | New York City, NY; Seattle, WA",
    "posted_at": "2026-10-30T23:34:18+00:00",
    "posted_history": [
     "2026-10-30T23:34:18+00:00"
    ],
    "reopened": 0,
-   "title": "Data Engineer, GTM Systems",
+   "title": "Data Foundations, GTM Systems",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5464234008"
   },
   "5464485008": {
@@ -12229,6 +12233,21 @@
    "reopened": 0,
    "title": "Research Engineer / Scientist, Pre-training",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468947008"
+  },
+  "5469291008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-15T11:30:18+00:00",
+   "fp": "engineering manager billing platform @ san francisco, ca | new york city, ny | seattle, wa",
+   "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+   "posted_at": "2026-11-14T20:19:44+00:00",
+   "posted_history": [
+    "2026-11-14T20:19:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager, Billing Platform",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5469291008"
   },
   "5469337008": {
    "closed_at": null,
