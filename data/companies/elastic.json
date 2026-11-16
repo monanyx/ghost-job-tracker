@@ -111,6 +111,10 @@
   {
    "date": "2026-11-15",
    "open": 400
+  },
+  {
+   "date": "2026-11-16",
+   "open": 400
   }
  ],
  "jobs": {
@@ -6415,7 +6419,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8289151&gh_jid=8289151"
   },
   "8289153": {
-   "closed_at": null,
+   "closed_at": "2026-11-16T12:03:27+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-05T11:30:12+00:00",
@@ -7389,6 +7393,21 @@
    "title": "Marketing Strategy & Planning Specialist",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8327970&gh_jid=8327970"
   },
+  "8330343": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-16T12:03:27+00:00",
+   "fp": "consulting architect @ australia",
+   "location": "Australia",
+   "posted_at": "2026-11-16T09:41:45+00:00",
+   "posted_history": [
+    "2026-11-16T09:41:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Consulting Architect (Canberra)",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8330343&gh_jid=8330343"
+  },
   "8332655": {
    "closed_at": null,
    "department": "",
@@ -8189,14 +8208,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-14T10:56:25+00:00",
-   "fp": "regional services partner @ singapore",
+   "fp": "senior principal regional services partner @ singapore",
    "location": "Singapore",
    "posted_at": "2026-11-13T15:35:51+00:00",
    "posted_history": [
     "2026-11-13T15:35:51+00:00"
    ],
    "reopened": 0,
-   "title": "Regional Services Partner",
+   "title": "Senior Principal Regional Services Partner",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8377579&gh_jid=8377579"
   },
   "8377647": {

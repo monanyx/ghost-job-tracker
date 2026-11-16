@@ -111,6 +111,10 @@
   {
    "date": "2026-11-15",
    "open": 128
+  },
+  {
+   "date": "2026-11-16",
+   "open": 124
   }
  ],
  "jobs": {
@@ -572,17 +576,18 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/257f24da-83db-4bad-a6dc-37793a1a0bac"
   },
   "258de005-ab84-4cc7-9a59-1df0c74a12b8": {
-   "closed_at": "2026-11-13T11:35:01+00:00",
+   "closed_at": null,
    "department": "Growth",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
    "fp": "b2b marketing india @ remote",
    "location": "Remote",
-   "posted_at": "2026-10-29T16:29:43+00:00",
+   "posted_at": "2026-11-16T11:23:43+00:00",
    "posted_history": [
-    "2026-10-29T16:29:43+00:00"
+    "2026-10-29T16:29:43+00:00",
+    "2026-11-16T11:23:43+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "B2B Marketing - India",
    "url": "https://jobs.ashbyhq.com/ElevenLabs/258de005-ab84-4cc7-9a59-1df0c74a12b8"
   },
@@ -814,7 +819,7 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/34dbe44c-9815-40b2-81f4-91c607fd84b2"
   },
   "34e2d52b-f57a-4833-87a1-0a7b0c4c5532": {
-   "closed_at": null,
+   "closed_at": "2026-11-16T12:03:27+00:00",
    "department": "Operations",
    "evergreen": false,
    "first_seen": "2026-11-06T11:30:42+00:00",
@@ -1514,7 +1519,7 @@
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "sales lead enterprise financial services @ remote",
+   "fp": "head of financial services amer @ remote",
    "location": "Remote",
    "posted_at": "2026-10-23T16:29:39+00:00",
    "posted_history": [
@@ -1522,7 +1527,7 @@
     "2026-10-23T16:29:39+00:00"
    ],
    "reopened": 1,
-   "title": "Sales Lead - Enterprise - Financial Services",
+   "title": "Head of Financial Services, AMER",
    "url": "https://jobs.ashbyhq.com/ElevenLabs/7209ce9f-3c69-4dbb-adbb-6c6c068ebad0"
   },
   "7389c057-3e25-4e7a-8a03-5e80f40a15a0": {
@@ -1678,7 +1683,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/7d29f7f7-158a-42e0-a6be-0ceba630863c"
   },
   "813f6b98-fa14-4d8f-902d-5d09029be20a": {
-   "closed_at": null,
+   "closed_at": "2026-11-16T12:03:27+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2608,7 +2613,7 @@
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "sales lead enterprise healthcare @ remote",
+   "fp": "head of healthcare amer @ remote",
    "location": "Remote",
    "posted_at": "2026-10-23T16:29:12+00:00",
    "posted_history": [
@@ -2616,7 +2621,7 @@
     "2026-10-23T16:29:12+00:00"
    ],
    "reopened": 1,
-   "title": "Sales Lead - Enterprise - Healthcare",
+   "title": "Head of Healthcare, AMER",
    "url": "https://jobs.ashbyhq.com/ElevenLabs/c4085864-14ca-4959-a3f8-3a4015c76eb5"
   },
   "c4e0d704-c7eb-4d6d-b71b-23bfd86fe463": {
@@ -2787,7 +2792,7 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/cdcf48bf-b6cf-41ce-88ee-34674768fb0d"
   },
   "ce3d5a59-fb8c-482b-bc3f-60e44576c5e0": {
-   "closed_at": null,
+   "closed_at": "2026-11-16T12:03:27+00:00",
    "department": "Engineering & Product",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3001,7 +3006,7 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/e2bc0a9f-15b5-49a1-a796-2dc9b2f5b7ac"
   },
   "e4e0450f-d139-4f8e-b210-2f326a680d90": {
-   "closed_at": null,
+   "closed_at": "2026-11-16T12:03:27+00:00",
    "department": "Engineering & Product",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3292,7 +3297,7 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/f0d1e869-4874-45af-9bc3-81479d88565b"
   },
   "f1427164-3037-47d1-a768-11cfb87953ae": {
-   "closed_at": null,
+   "closed_at": "2026-11-16T12:03:27+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

@@ -111,6 +111,10 @@
   {
    "date": "2026-11-15",
    "open": 355
+  },
+  {
+   "date": "2026-11-16",
+   "open": 354
   }
  ],
  "jobs": {
@@ -3310,18 +3314,18 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=8184675"
   },
   "8185551": {
-   "closed_at": "2026-11-05T11:30:12+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
-   "fp": "staff software engineer backend @ bangalore, india",
-   "location": "Bangalore, India",
+   "fp": "staff software engineer toast connect @ dublin, ireland",
+   "location": "Dublin, Ireland",
    "posted_at": "2026-09-21T05:59:46+00:00",
    "posted_history": [
     "2026-09-21T05:59:46+00:00"
    ],
-   "reopened": 0,
-   "title": "Staff Software Engineer, Backend",
+   "reopened": 1,
+   "title": "Staff Software Engineer - Toast Connect",
    "url": "https://careers.toasttab.com/jobs?gh_jid=8185551"
   },
   "8185640": {
@@ -5050,7 +5054,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=8259361"
   },
   "8259363": {
-   "closed_at": null,
+   "closed_at": "2026-11-16T12:03:27+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7690,7 +7694,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=8345739"
   },
   "8345741": {
-   "closed_at": null,
+   "closed_at": "2026-11-16T12:03:27+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-06T11:30:42+00:00",
@@ -7750,7 +7754,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=8348999"
   },
   "8349001": {
-   "closed_at": null,
+   "closed_at": "2026-11-16T12:03:27+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
@@ -9233,6 +9237,21 @@
    "reopened": 0,
    "title": "Territory Account Executive, SMB - Spring Valley, NV",
    "url": "https://careers.toasttab.com/jobs?gh_jid=8386686"
+  },
+  "8392130": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-16T12:03:27+00:00",
+   "fp": "senior customer care technical specialist @ chennai",
+   "location": "Chennai",
+   "posted_at": "2026-11-16T07:34:26+00:00",
+   "posted_history": [
+    "2026-11-16T07:34:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Customer Care Technical Specialist",
+   "url": "https://careers.toasttab.com/jobs?gh_jid=8392130"
   }
  }
 }

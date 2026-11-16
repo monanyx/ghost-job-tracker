@@ -111,6 +111,10 @@
   {
    "date": "2026-11-15",
    "open": 180
+  },
+  {
+   "date": "2026-11-16",
+   "open": 179
   }
  ],
  "jobs": {
@@ -2262,7 +2266,7 @@
    "url": "https://jobs.ashbyhq.com/ramp/a808d519-404a-4aee-9189-2b1ad62d0330"
   },
   "a8451979-2691-440e-851b-49a3b807729b": {
-   "closed_at": null,
+   "closed_at": "2026-11-16T12:03:27+00:00",
    "department": "Design",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

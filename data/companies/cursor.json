@@ -111,6 +111,10 @@
   {
    "date": "2026-11-15",
    "open": 99
+  },
+  {
+   "date": "2026-11-16",
+   "open": 97
   }
  ],
  "jobs": {
@@ -2307,7 +2311,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/7e1d8e07-c87b-4388-892a-6b138bebf665"
   },
   "7fc92832-a196-460b-924c-ee1d93b20184": {
-   "closed_at": null,
+   "closed_at": "2026-11-16T12:03:27+00:00",
    "department": "Customer Success",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
@@ -3073,7 +3077,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/bb1e7f02-d30c-49fa-8d67-9a35ecc59462"
   },
   "bdae07e2-54ad-4e66-a56e-e6442483f15b": {
-   "closed_at": null,
+   "closed_at": "2026-11-16T12:03:27+00:00",
    "department": "Solutions",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",

@@ -111,6 +111,10 @@
   {
    "date": "2026-11-15",
    "open": 785
+  },
+  {
+   "date": "2026-11-16",
+   "open": 788
   }
  ],
  "jobs": {
@@ -310,7 +314,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=6570253"
   },
   "6570259": {
-   "closed_at": "2026-11-11T11:27:30+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
@@ -320,7 +324,7 @@
    "posted_history": [
     "2025-01-27T11:14:42+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Sales Development Representative (German fluency)",
    "url": "https://stripe.com/jobs/search?gh_jid=6570259"
   },
@@ -3128,6 +3132,21 @@
    "reopened": 0,
    "title": "Solutions Architect (India)",
    "url": "https://stripe.com/jobs/search?gh_jid=8042913"
+  },
+  "8043052": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-16T12:03:27+00:00",
+   "fp": "data scientist global growth @ singapore",
+   "location": "Singapore",
+   "posted_at": "2026-07-09T03:44:22+00:00",
+   "posted_history": [
+    "2026-07-09T03:44:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Data Scientist, Global Growth",
+   "url": "https://stripe.com/jobs/search?gh_jid=8043052"
   },
   "8043083": {
    "closed_at": null,
@@ -11483,6 +11502,21 @@
    "reopened": 0,
    "title": "Engineering Manager - Support Experience",
    "url": "https://stripe.com/jobs/search?gh_jid=8264421"
+  },
+  "8264423": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-16T12:03:27+00:00",
+   "fp": "head of southern europe revenue growth @ madrid",
+   "location": "Madrid",
+   "posted_at": "2026-10-09T16:50:09+00:00",
+   "posted_history": [
+    "2026-10-09T16:50:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Head of Southern Europe Revenue & Growth",
+   "url": "https://stripe.com/jobs/search?gh_jid=8264423"
   },
   "8265128": {
    "closed_at": null,

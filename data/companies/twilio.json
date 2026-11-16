@@ -111,6 +111,10 @@
   {
    "date": "2026-11-15",
    "open": 114
+  },
+  {
+   "date": "2026-11-16",
+   "open": 113
   }
  ],
  "jobs": {
@@ -2155,7 +2159,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8261442"
   },
   "8261528": {
-   "closed_at": null,
+   "closed_at": "2026-11-16T12:03:27+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2649,6 +2653,21 @@
    "title": "Staff, Software Engineer (L4)",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8319434"
   },
+  "8319442": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-16T12:03:27+00:00",
+   "fp": "software engineer @ remote - india",
+   "location": "Remote - India",
+   "posted_at": "2026-11-16T06:27:58+00:00",
+   "posted_history": [
+    "2026-11-16T06:27:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer (L1)",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8319442"
+  },
   "8324443": {
    "closed_at": null,
    "department": "",
@@ -2695,7 +2714,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8324448"
   },
   "8325734": {
-   "closed_at": null,
+   "closed_at": "2026-11-16T12:03:27+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",

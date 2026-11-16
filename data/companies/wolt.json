@@ -111,6 +111,10 @@
   {
    "date": "2026-11-15",
    "open": 191
+  },
+  {
+   "date": "2026-11-16",
+   "open": 189
   }
  ],
  "jobs": {
@@ -293,7 +297,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/6693563"
   },
   "6693568": {
-   "closed_at": null,
+   "closed_at": "2026-11-16T12:03:27+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -427,6 +431,21 @@
    "title": "Grocery Store Assistant",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/6693771"
   },
+  "6693805": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-16T12:03:27+00:00",
+   "fp": "grocery associate @ frankfurt, germany",
+   "location": "Frankfurt, Germany",
+   "posted_at": "2025-03-19T10:29:00+00:00",
+   "posted_history": [
+    "2025-03-19T10:29:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Grocery Associate",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/6693805"
+  },
   "6693874": {
    "closed_at": null,
    "department": "",
@@ -458,7 +477,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/6694005"
   },
   "6694009": {
-   "closed_at": null,
+   "closed_at": "2026-11-16T12:03:27+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -2511,7 +2530,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8185980"
   },
   "8188093": {
-   "closed_at": null,
+   "closed_at": "2026-11-16T12:03:27+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
@@ -4135,14 +4154,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
-   "fp": "strategy business operations manager wolt drive @ helsinki, finland; london, united kingdom - deliveroo",
+   "fp": "strategy business operations manager wolt drive deliveroo express @ helsinki, finland; london, united kingdom - deliveroo",
    "location": "Helsinki, Finland; London, United Kingdom - Deliveroo",
    "posted_at": "2026-11-02T19:41:41+00:00",
    "posted_history": [
     "2026-11-02T19:41:41+00:00"
    ],
    "reopened": 0,
-   "title": "Strategy & Business Operations Manager, Wolt Drive",
+   "title": "Strategy & Business Operations Manager, Wolt Drive & Deliveroo Express",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8336365"
   },
   "8336823": {

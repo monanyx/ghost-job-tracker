@@ -111,6 +111,10 @@
   {
    "date": "2026-11-15",
    "open": 2758
+  },
+  {
+   "date": "2026-11-16",
+   "open": 2753
   }
  ],
  "jobs": {
@@ -2935,7 +2939,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8521318002?gh_jid=8521318002"
   },
   "8521329002": {
-   "closed_at": null,
+   "closed_at": "2026-11-16T12:03:27+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3415,7 +3419,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8527331002?gh_jid=8527331002"
   },
   "8527730002": {
-   "closed_at": null,
+   "closed_at": "2026-11-16T12:03:27+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3775,7 +3779,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8533239002?gh_jid=8533239002"
   },
   "8533338002": {
-   "closed_at": null,
+   "closed_at": "2026-11-16T12:03:27+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3865,7 +3869,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8533693002?gh_jid=8533693002"
   },
   "8533743002": {
-   "closed_at": null,
+   "closed_at": "2026-11-16T12:03:27+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5140,7 +5144,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8548936002?gh_jid=8548936002"
   },
   "8549216002": {
-   "closed_at": null,
+   "closed_at": "2026-11-16T12:03:27+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -22525,7 +22529,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8696105002?gh_jid=8696105002"
   },
   "8696124002": {
-   "closed_at": null,
+   "closed_at": "2026-11-16T12:03:27+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -40405,7 +40409,7 @@
    "url": "https://boards.greenhouse.io/spacex/jobs/8883358002?gh_jid=8883358002"
   },
   "8883500002": {
-   "closed_at": null,
+   "closed_at": "2026-11-16T12:03:27+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -52478,6 +52482,36 @@
    "reopened": 0,
    "title": "Sr. Materials Engineer, Polymer Development",
    "url": "https://boards.greenhouse.io/spacex/jobs/8943819002?gh_jid=8943819002"
+  },
+  "8944230002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-16T12:03:27+00:00",
+   "fp": "sr mechanical engineer @ hawthorne, ca",
+   "location": "Hawthorne, CA",
+   "posted_at": "2026-11-16T05:11:40+00:00",
+   "posted_history": [
+    "2026-11-16T05:11:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Mechanical Engineer (Starship Avionics)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8944230002?gh_jid=8944230002"
+  },
+  "8944232002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-16T12:03:27+00:00",
+   "fp": "site reliability engineer gnc @ hawthorne, ca",
+   "location": "Hawthorne, CA",
+   "posted_at": "2026-11-16T05:39:26+00:00",
+   "posted_history": [
+    "2026-11-16T05:39:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Site Reliability Engineer, GNC (Falcon)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8944232002?gh_jid=8944232002"
   }
  }
 }

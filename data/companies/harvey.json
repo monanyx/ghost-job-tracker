@@ -111,9 +111,28 @@
   {
    "date": "2026-11-15",
    "open": 388
+  },
+  {
+   "date": "2026-11-16",
+   "open": 388
   }
  ],
  "jobs": {
+  "0078cf37-4076-47ac-acaa-37a83334b43c": {
+   "closed_at": null,
+   "department": "Customer Success",
+   "evergreen": false,
+   "first_seen": "2026-11-16T12:03:27+00:00",
+   "fp": "customer success leader singapore @ singapore",
+   "location": "Singapore",
+   "posted_at": "2026-11-16T11:19:51+00:00",
+   "posted_history": [
+    "2026-11-16T11:19:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Success Leader, Singapore",
+   "url": "https://jobs.ashbyhq.com/harvey/0078cf37-4076-47ac-acaa-37a83334b43c"
+  },
   "00ef2ebe-aacc-44a6-ad7e-1edc5ea837d1": {
    "closed_at": null,
    "department": "Recruiting",
@@ -687,7 +706,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/1321b20d-d6f8-4bdb-b2de-ec33c0948b53"
   },
   "1406ae6f-1dfc-4b5a-985d-cccbffe283e1": {
-   "closed_at": null,
+   "closed_at": "2026-11-16T12:03:27+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

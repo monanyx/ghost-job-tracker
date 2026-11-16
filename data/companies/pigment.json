@@ -111,6 +111,10 @@
   {
    "date": "2026-11-15",
    "open": 126
+  },
+  {
+   "date": "2026-11-16",
+   "open": 125
   }
  ],
  "jobs": {
@@ -2020,7 +2024,7 @@
    "url": "https://jobs.lever.co/pigment/c9226493-32ce-4da6-b6a0-378fd148595b"
   },
   "caafdfb5-b08d-4241-aa65-a67e8904960e": {
-   "closed_at": null,
+   "closed_at": "2026-11-16T12:03:27+00:00",
    "department": "Support",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

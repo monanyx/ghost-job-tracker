@@ -111,6 +111,10 @@
   {
    "date": "2026-11-15",
    "open": 362
+  },
+  {
+   "date": "2026-11-16",
+   "open": 363
   }
  ],
  "jobs": {
@@ -2020,7 +2024,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8071508?gh_jid=8071508"
   },
   "8072515": {
-   "closed_at": null,
+   "closed_at": "2026-11-16T12:03:27+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2590,7 +2594,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8110447?gh_jid=8110447"
   },
   "8110717": {
-   "closed_at": null,
+   "closed_at": "2026-11-16T12:03:27+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4345,7 +4349,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8220649?gh_jid=8220649"
   },
   "8220655": {
-   "closed_at": null,
+   "closed_at": "2026-11-16T12:03:27+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5410,7 +5414,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8248960?gh_jid=8248960"
   },
   "8249918": {
-   "closed_at": null,
+   "closed_at": "2026-11-16T12:03:27+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5590,7 +5594,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8258420?gh_jid=8258420"
   },
   "8258803": {
-   "closed_at": "2026-11-04T11:35:04+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5600,7 +5604,7 @@
    "posted_history": [
     "2026-10-07T05:50:03+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Staff Software Engineer, Platform & Infrastructure",
    "url": "https://www.okta.com/company/careers/opportunity/8258803?gh_jid=8258803"
   },
@@ -7974,6 +7978,21 @@
    "title": "Staff Product Designer",
    "url": "https://www.okta.com/company/careers/opportunity/8351641?gh_jid=8351641"
   },
+  "8352082": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-16T12:03:27+00:00",
+   "fp": "associate customer success manager apac @ bengaluru, india",
+   "location": "Bengaluru, India",
+   "posted_at": "2026-11-16T07:25:17+00:00",
+   "posted_history": [
+    "2026-11-16T07:25:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Associate Customer Success Manager, APAC",
+   "url": "https://www.okta.com/company/careers/opportunity/8352082?gh_jid=8352082"
+  },
   "8353207": {
    "closed_at": null,
    "department": "",
@@ -8003,6 +8022,21 @@
    "reopened": 0,
    "title": "Regional Sales Manager, Enterprise",
    "url": "https://www.okta.com/company/careers/opportunity/8354795?gh_jid=8354795"
+  },
+  "8354829": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-16T12:03:27+00:00",
+   "fp": "benefits operations specialist @ bengaluru, india",
+   "location": "Bengaluru, India",
+   "posted_at": "2026-11-16T06:40:33+00:00",
+   "posted_history": [
+    "2026-11-16T06:40:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Benefits Operations Specialist",
+   "url": "https://www.okta.com/company/careers/opportunity/8354829?gh_jid=8354829"
   },
   "8355883": {
    "closed_at": null,
@@ -8123,6 +8157,36 @@
    "reopened": 0,
    "title": "Finance Manager, People and Corp Dev.",
    "url": "https://www.okta.com/company/careers/opportunity/8374832?gh_jid=8374832"
+  },
+  "8377182": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-16T12:03:27+00:00",
+   "fp": "demo engineering developer @ bengaluru, india",
+   "location": "Bengaluru, India",
+   "posted_at": "2026-11-16T10:54:53+00:00",
+   "posted_history": [
+    "2026-11-16T10:54:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "Demo Engineering Developer",
+   "url": "https://www.okta.com/company/careers/opportunity/8377182?gh_jid=8377182"
+  },
+  "8382952": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-16T12:03:27+00:00",
+   "fp": "senior software engineer core identity @ dublin, ireland",
+   "location": "Dublin, Ireland",
+   "posted_at": "2026-11-16T10:53:18+00:00",
+   "posted_history": [
+    "2026-11-16T10:53:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer - Core Identity (Auth0)",
+   "url": "https://www.okta.com/company/careers/opportunity/8382952?gh_jid=8382952"
   },
   "8383373": {
    "closed_at": null,

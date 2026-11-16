@@ -111,6 +111,10 @@
   {
    "date": "2026-11-15",
    "open": 55
+  },
+  {
+   "date": "2026-11-16",
+   "open": 58
   }
  ],
  "jobs": {
@@ -963,18 +967,19 @@
    "url": "https://jobs.ashbyhq.com/n8n/bf5c14d9-3371-416b-9832-2d3c38de3796"
   },
   "c9fc97fa-a473-4133-b3cb-502785649ecd": {
-   "closed_at": "2026-11-10T11:47:05+00:00",
+   "closed_at": null,
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "forward deployed engineer emea @ berlin office",
    "location": "Berlin Office",
-   "posted_at": "2026-10-30T17:09:26+00:00",
+   "posted_at": "2026-11-16T10:49:30+00:00",
    "posted_history": [
     "2026-09-15T15:22:26+00:00",
-    "2026-10-30T17:09:26+00:00"
+    "2026-10-30T17:09:26+00:00",
+    "2026-11-16T10:49:30+00:00"
    ],
-   "reopened": 1,
+   "reopened": 2,
    "title": "Forward Deployed Engineer - EMEA",
    "url": "https://jobs.ashbyhq.com/n8n/c9fc97fa-a473-4133-b3cb-502785649ecd"
   },
@@ -1085,6 +1090,21 @@
    "title": "Senior Product Manager - Core Platform (Engine, Scale & Reliability)",
    "url": "https://jobs.ashbyhq.com/n8n/d418f8fb-b2f2-405e-8f22-db73dcf4e8b4"
   },
+  "d76ac539-c445-4288-92cb-9266ccbbefe3": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-16T12:03:27+00:00",
+   "fp": "enterprise account executive uk i @ united kingdom",
+   "location": "United Kingdom",
+   "posted_at": "2026-11-16T09:36:08+00:00",
+   "posted_history": [
+    "2026-11-16T09:36:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Account Executive UK&I (Remote UK&I)",
+   "url": "https://jobs.ashbyhq.com/n8n/d76ac539-c445-4288-92cb-9266ccbbefe3"
+  },
   "d7efe3a6-bea9-4b3b-b8ee-3e91bfd5cef7": {
    "closed_at": null,
    "department": "Sales",
@@ -1190,6 +1210,21 @@
    "reopened": 0,
    "title": "Staff Core Platform Engineer",
    "url": "https://jobs.ashbyhq.com/n8n/ea8efc33-c7b8-4b88-826c-3dca17c3aa47"
+  },
+  "f16af9d9-2c3e-4eed-98cc-4b25277e44e8": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-16T12:03:27+00:00",
+   "fp": "enterprise account executive dach @ germany",
+   "location": "Germany",
+   "posted_at": "2026-11-16T09:29:56+00:00",
+   "posted_history": [
+    "2026-11-16T09:29:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Account Executive DACH (Remote DACH)",
+   "url": "https://jobs.ashbyhq.com/n8n/f16af9d9-2c3e-4eed-98cc-4b25277e44e8"
   },
   "fb5e4f97-a769-4b87-95f4-bdc5e4c3b031": {
    "closed_at": null,

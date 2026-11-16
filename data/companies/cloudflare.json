@@ -111,6 +111,10 @@
   {
    "date": "2026-11-15",
    "open": 479
+  },
+  {
+   "date": "2026-11-16",
+   "open": 473
   }
  ],
  "jobs": {
@@ -970,7 +974,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/7747326?gh_jid=7747326"
   },
   "7756883": {
-   "closed_at": null,
+   "closed_at": "2026-11-16T12:03:27+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3445,7 +3449,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8158614?gh_jid=8158614"
   },
   "8158617": {
-   "closed_at": null,
+   "closed_at": "2026-11-16T12:03:27+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3580,7 +3584,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8160660?gh_jid=8160660"
   },
   "8161030": {
-   "closed_at": null,
+   "closed_at": "2026-11-16T12:03:27+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5170,7 +5174,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8219990?gh_jid=8219990"
   },
   "8220060": {
-   "closed_at": null,
+   "closed_at": "2026-11-16T12:03:27+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5215,7 +5219,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8220734?gh_jid=8220734"
   },
   "8220770": {
-   "closed_at": null,
+   "closed_at": "2026-11-16T12:03:27+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -9040,7 +9044,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8378851?gh_jid=8378851"
   },
   "8378916": {
-   "closed_at": null,
+   "closed_at": "2026-11-16T12:03:27+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-12T11:51:19+00:00",

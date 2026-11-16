@@ -111,6 +111,10 @@
   {
    "date": "2026-11-15",
    "open": 288
+  },
+  {
+   "date": "2026-11-16",
+   "open": 292
   }
  ],
  "jobs": {
@@ -9445,7 +9449,7 @@
    "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000161484179"
   },
   "744000161505131": {
-   "closed_at": null,
+   "closed_at": "2026-11-16T12:03:27+00:00",
    "department": "Ubisoft",
    "evergreen": false,
    "first_seen": "2026-11-14T10:56:25+00:00",
@@ -9503,6 +9507,81 @@
    "reopened": 0,
    "title": "Conseiller.ère en Ressources Humaines",
    "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000161565892"
+  },
+  "744000161721659": {
+   "closed_at": null,
+   "department": "Ubisoft",
+   "evergreen": false,
+   "first_seen": "2026-11-16T12:03:27+00:00",
+   "fp": "intern game tester @ chengdu, sichuan, china",
+   "location": "Chengdu, Sichuan, China",
+   "posted_at": "2026-11-16T02:46:07+00:00",
+   "posted_history": [
+    "2026-11-16T02:46:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Intern Game Tester",
+   "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000161721659"
+  },
+  "744000161746074": {
+   "closed_at": null,
+   "department": "Ubisoft",
+   "evergreen": false,
+   "first_seen": "2026-11-16T12:03:27+00:00",
+   "fp": "senior data scientist h f nb @ paris, idf, france",
+   "location": "Paris, IDF, France",
+   "posted_at": "2026-11-16T08:28:21+00:00",
+   "posted_history": [
+    "2026-11-16T08:28:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Data Scientist - H/F/NB",
+   "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000161746074"
+  },
+  "744000161749429": {
+   "closed_at": null,
+   "department": "Ubisoft",
+   "evergreen": false,
+   "first_seen": "2026-11-16T12:03:27+00:00",
+   "fp": "gameplay programmer @ sofia, sofia city province, bulgaria",
+   "location": "Sofia, Sofia City Province, Bulgaria",
+   "posted_at": "2026-11-16T08:42:19+00:00",
+   "posted_history": [
+    "2026-11-16T08:42:19+00:00"
+   ],
+   "reopened": 0,
+   "title": "Gameplay Programmer",
+   "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000161749429"
+  },
+  "744000161765909": {
+   "closed_at": null,
+   "department": "Ubisoft",
+   "evergreen": false,
+   "first_seen": "2026-11-16T12:03:27+00:00",
+   "fp": "software tester @ kyiv, kyiv city, ukraine",
+   "location": "Kyiv, Kyiv city, Ukraine",
+   "posted_at": "2026-11-16T10:17:23+00:00",
+   "posted_history": [
+    "2026-11-16T10:17:23+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Tester [Ubisoft Connect]",
+   "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000161765909"
+  },
+  "744000161768709": {
+   "closed_at": null,
+   "department": "Ubisoft",
+   "evergreen": false,
+   "first_seen": "2026-11-16T12:03:27+00:00",
+   "fp": "data engineer @ bucharest, bucharest, romania",
+   "location": "Bucharest, Bucharest, Romania",
+   "posted_at": "2026-11-16T10:17:50+00:00",
+   "posted_history": [
+    "2026-11-16T10:17:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Data Engineer [The Division 2]",
+   "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000161768709"
   }
  }
 }

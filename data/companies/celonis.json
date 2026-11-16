@@ -111,6 +111,10 @@
   {
    "date": "2026-11-15",
    "open": 265
+  },
+  {
+   "date": "2026-11-16",
+   "open": 264
   }
  ],
  "jobs": {
@@ -670,7 +674,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7650598003?gh_jid=7650598003"
   },
   "7665962003": {
-   "closed_at": null,
+   "closed_at": "2026-11-16T12:03:27+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
@@ -1900,7 +1904,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7823937003?gh_jid=7823937003"
   },
   "7825688003": {
-   "closed_at": null,
+   "closed_at": "2026-11-16T12:03:27+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2710,7 +2714,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7988891003?gh_jid=7988891003"
   },
   "7989093003": {
-   "closed_at": null,
+   "closed_at": "2026-11-16T12:03:27+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2815,7 +2819,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7991058003?gh_jid=7991058003"
   },
   "7993836003": {
-   "closed_at": null,
+   "closed_at": "2026-11-16T12:03:27+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2830,7 +2834,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7993836003?gh_jid=7993836003"
   },
   "7993837003": {
-   "closed_at": null,
+   "closed_at": "2026-11-16T12:03:27+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2920,7 +2924,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7995493003?gh_jid=7995493003"
   },
   "7995501003": {
-   "closed_at": null,
+   "closed_at": "2026-11-16T12:03:27+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2950,7 +2954,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7995509003?gh_jid=7995509003"
   },
   "7996959003": {
-   "closed_at": null,
+   "closed_at": "2026-11-16T12:03:27+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2965,7 +2969,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7996959003?gh_jid=7996959003"
   },
   "7997059003": {
-   "closed_at": null,
+   "closed_at": "2026-11-16T12:03:27+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3775,7 +3779,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8036907003?gh_jid=8036907003"
   },
   "8036958003": {
-   "closed_at": null,
+   "closed_at": "2026-11-16T12:03:27+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -4403,6 +4407,51 @@
    "reopened": 0,
    "title": "Lead Project Manager",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8173357003?gh_jid=8173357003"
+  },
+  "8173376003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-16T12:03:27+00:00",
+   "fp": "lead product incubation specialist @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2026-11-16T09:52:20+00:00",
+   "posted_history": [
+    "2026-11-16T09:52:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Lead Product Incubation Specialist",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/8173376003?gh_jid=8173376003"
+  },
+  "8173377003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-16T12:03:27+00:00",
+   "fp": "lead product incubation specialist @ munich, germany",
+   "location": "Munich, Germany",
+   "posted_at": "2026-11-16T09:52:39+00:00",
+   "posted_history": [
+    "2026-11-16T09:52:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Lead Product Incubation Specialist",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/8173377003?gh_jid=8173377003"
+  },
+  "8173380003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-16T12:03:27+00:00",
+   "fp": "lead product incubation specialist @ madrid, spain",
+   "location": "Madrid, Spain",
+   "posted_at": "2026-11-16T09:52:41+00:00",
+   "posted_history": [
+    "2026-11-16T09:52:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Lead Product Incubation Specialist",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/8173380003?gh_jid=8173380003"
   },
   "8175506003": {
    "closed_at": null,
@@ -5228,6 +5277,81 @@
    "reopened": 0,
    "title": "Associate Technology Consultant - Galaxy Graduate Program",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8203121003?gh_jid=8203121003"
+  },
+  "8203338003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-16T12:03:27+00:00",
+   "fp": "enterprise account executive fsi benelux @ amsterdam, netherlands",
+   "location": "Amsterdam, Netherlands",
+   "posted_at": "2026-11-16T11:43:22+00:00",
+   "posted_history": [
+    "2026-11-16T11:43:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Account Executive FSI Benelux",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/8203338003?gh_jid=8203338003"
+  },
+  "8203723003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-16T12:03:27+00:00",
+   "fp": "senior ai transformation innovation consultant @ munich, germany",
+   "location": "Munich, Germany",
+   "posted_at": "2026-11-16T09:58:52+00:00",
+   "posted_history": [
+    "2026-11-16T09:58:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior AI Transformation & Innovation Consultant",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/8203723003?gh_jid=8203723003"
+  },
+  "8204698003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-16T12:03:27+00:00",
+   "fp": "senior applied value engineer @ munich, germany",
+   "location": "Munich, Germany",
+   "posted_at": "2026-11-16T09:59:59+00:00",
+   "posted_history": [
+    "2026-11-16T09:59:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Applied Value Engineer",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/8204698003?gh_jid=8204698003"
+  },
+  "8204700003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-16T12:03:27+00:00",
+   "fp": "senior applied ai solution engineer @ munich, germany",
+   "location": "Munich, Germany",
+   "posted_at": "2026-11-16T10:01:47+00:00",
+   "posted_history": [
+    "2026-11-16T10:01:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Applied AI Solution Engineer",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/8204700003?gh_jid=8204700003"
+  },
+  "8204701003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-16T12:03:27+00:00",
+   "fp": "senior strategic presales and solutions consultant @ munich, germany",
+   "location": "Munich, Germany",
+   "posted_at": "2026-11-16T10:02:44+00:00",
+   "posted_history": [
+    "2026-11-16T10:02:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Strategic Presales and Solutions Consultant (AI)",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/8204701003?gh_jid=8204701003"
   }
  }
 }

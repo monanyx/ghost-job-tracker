@@ -111,6 +111,10 @@
   {
    "date": "2026-11-15",
    "open": 254
+  },
+  {
+   "date": "2026-11-16",
+   "open": 254
   }
  ],
  "jobs": {
@@ -2785,7 +2789,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8860106002"
   },
   "8860127002": {
-   "closed_at": null,
+   "closed_at": "2026-11-16T12:03:27+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2815,7 +2819,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8860134002"
   },
   "8860142002": {
-   "closed_at": null,
+   "closed_at": "2026-11-16T12:03:27+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4225,7 +4229,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8905040002"
   },
   "8905402002": {
-   "closed_at": null,
+   "closed_at": "2026-11-16T12:03:27+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -4589,14 +4593,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-06T11:30:42+00:00",
-   "fp": "commercial account executive netherlands @ remote, netherlands",
-   "location": "Remote, Netherlands",
+   "fp": "commercial account executive belux @ remote, france; remote, netherlands",
+   "location": "Remote, France; Remote, Netherlands",
    "posted_at": "2026-11-05T14:52:41+00:00",
    "posted_history": [
     "2026-11-05T14:52:41+00:00"
    ],
    "reopened": 0,
-   "title": "Commercial Account Executive, Netherlands",
+   "title": "Commercial Account Executive, Belux",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8921443002"
   },
   "8922013002": {
@@ -4808,6 +4812,51 @@
    "reopened": 0,
    "title": "Senior Ecosystems Sales Manager: Scale, India",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8926435002"
+  },
+  "8926443002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-16T12:03:27+00:00",
+   "fp": "customer success engineer india @ remote, india",
+   "location": "Remote, India",
+   "posted_at": "2026-11-16T05:59:50+00:00",
+   "posted_history": [
+    "2026-11-16T05:59:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Success Engineer, India",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8926443002"
+  },
+  "8926445002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-16T12:03:27+00:00",
+   "fp": "customer success engineer singapore @ remote, singapore",
+   "location": "Remote, Singapore",
+   "posted_at": "2026-11-16T06:10:54+00:00",
+   "posted_history": [
+    "2026-11-16T06:10:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Success Engineer, Singapore",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8926445002"
+  },
+  "8926449002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-16T12:03:27+00:00",
+   "fp": "customer success architect australia @ remote, australia",
+   "location": "Remote, Australia",
+   "posted_at": "2026-11-16T06:33:02+00:00",
+   "posted_history": [
+    "2026-11-16T06:33:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Success Architect, Australia",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8926449002"
   },
   "8926653002": {
    "closed_at": null,
@@ -5305,7 +5354,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8936287002"
   },
   "8937425002": {
-   "closed_at": null,
+   "closed_at": "2026-11-16T12:03:27+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-14T10:56:25+00:00",
@@ -5378,6 +5427,21 @@
    "reopened": 0,
    "title": "Senior Engagement Manager - Professional Services Sales,  EMEA",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8937862002"
+  },
+  "8940804002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-16T12:03:27+00:00",
+   "fp": "strategic enterprise account executive @ remote, australia",
+   "location": "Remote, Australia",
+   "posted_at": "2026-11-16T05:09:11+00:00",
+   "posted_history": [
+    "2026-11-16T05:09:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Enterprise Account Executive (Sydney or Melbourne)",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8940804002"
   }
  }
 }
