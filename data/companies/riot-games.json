@@ -115,6 +115,10 @@
   {
    "date": "2026-11-16",
    "open": 193
+  },
+  {
+   "date": "2026-11-17",
+   "open": 200
   }
  ],
  "jobs": {
@@ -1184,7 +1188,7 @@
    "url": "https://www.riotgames.com/en/work-with-us/job/8070760?gh_jid=8070760"
   },
   "8073566": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1203,14 +1207,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior vfx artist valorant @ singapore",
+   "fp": "manager vfx art valorant @ singapore",
    "location": "Singapore",
    "posted_at": "2026-07-20T05:43:33+00:00",
    "posted_history": [
     "2026-07-20T05:43:33+00:00"
    ],
    "reopened": 0,
-   "title": "Senior VFX Artist - VALORANT",
+   "title": "Manager, VFX Art - VALORANT",
    "url": "https://www.riotgames.com/en/work-with-us/job/8073587?gh_jid=8073587"
   },
   "8076086": {
@@ -3089,18 +3093,18 @@
    "url": "https://www.riotgames.com/en/work-with-us/job/8306765?gh_jid=8306765"
   },
   "8316719": {
-   "closed_at": "2026-11-07T10:41:11+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
-   "fp": "sr manager game production valorant maps @ los angeles, usa",
+   "fp": "senior game producer valorant maps @ los angeles, usa",
    "location": "Los Angeles, USA",
    "posted_at": "2026-10-26T23:55:55+00:00",
    "posted_history": [
     "2026-10-26T23:55:55+00:00"
    ],
-   "reopened": 0,
-   "title": "Sr. Manager, Game Production - VALORANT, Maps",
+   "reopened": 1,
+   "title": "Senior Game Producer - VALORANT, Maps",
    "url": "https://www.riotgames.com/en/work-with-us/job/8316719?gh_jid=8316719"
   },
   "8316731": {
@@ -3134,7 +3138,7 @@
    "url": "https://www.riotgames.com/en/work-with-us/job/8316775?gh_jid=8316775"
   },
   "8316786": {
-   "closed_at": "2026-11-16T12:03:27+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -3144,7 +3148,7 @@
    "posted_history": [
     "2026-10-29T15:37:34+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Manager, Machine Learning Engineering - League of Legends",
    "url": "https://www.riotgames.com/en/work-with-us/job/8316786?gh_jid=8316786"
   },
@@ -3284,7 +3288,7 @@
    "url": "https://www.riotgames.com/en/work-with-us/job/8338311?gh_jid=8338311"
   },
   "8348367": {
-   "closed_at": "2026-11-14T10:56:25+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
@@ -3294,7 +3298,7 @@
    "posted_history": [
     "2026-11-03T13:56:38+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Software Engineer - League of Legends",
    "url": "https://www.riotgames.com/en/work-with-us/job/8348367?gh_jid=8348367"
   },
@@ -3357,6 +3361,36 @@
    "reopened": 0,
    "title": "Event Producer III - Esports",
    "url": "https://www.riotgames.com/en/work-with-us/job/8351148?gh_jid=8351148"
+  },
+  "8351150": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "senior game product manager riftbound @ shanghai, china",
+   "location": "Shanghai, China",
+   "posted_at": "2026-11-17T03:22:13+00:00",
+   "posted_history": [
+    "2026-11-17T03:22:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Game Product Manager - Riftbound",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8351150?gh_jid=8351150"
+  },
+  "8351152": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "researcher ii riftbound @ los angeles, usa",
+   "location": "Los Angeles, USA",
+   "posted_at": "2026-11-16T21:27:31+00:00",
+   "posted_history": [
+    "2026-11-16T21:27:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Researcher II - Riftbound",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8351152?gh_jid=8351152"
   },
   "8351154": {
    "closed_at": null,
@@ -3598,6 +3632,21 @@
    "title": "Game Producer Intern, Teamfight Tactics (Masters/PhD) - Summer 2027",
    "url": "https://www.riotgames.com/en/work-with-us/job/8356876?gh_jid=8356876"
   },
+  "8357220": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "internal audit staff @ los angeles, usa",
+   "location": "Los Angeles, USA",
+   "posted_at": "2026-11-16T19:34:48+00:00",
+   "posted_history": [
+    "2026-11-16T19:34:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "Internal Audit Staff",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8357220?gh_jid=8357220"
+  },
   "8359392": {
    "closed_at": null,
    "department": "",
@@ -3642,6 +3691,21 @@
    "reopened": 0,
    "title": "Principal Program Manager, Strategy & Operations (12 Month Contract)",
    "url": "https://www.riotgames.com/en/work-with-us/job/8368313?gh_jid=8368313"
+  },
+  "8368323": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "gameplay capture artist ii @ los angeles, usa",
+   "location": "Los Angeles, USA",
+   "posted_at": "2026-11-17T00:27:48+00:00",
+   "posted_history": [
+    "2026-11-17T00:27:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "Gameplay Capture Artist II",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8368323?gh_jid=8368323"
   },
   "8369218": {
    "closed_at": null,
@@ -3732,6 +3796,21 @@
    "reopened": 0,
    "title": "Security Engineer, Security Operations",
    "url": "https://www.riotgames.com/en/work-with-us/job/8381955?gh_jid=8381955"
+  },
+  "8384236": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "senior security engineer security risk engineering @ los angeles, usa",
+   "location": "Los Angeles, USA",
+   "posted_at": "2026-11-16T16:08:59+00:00",
+   "posted_history": [
+    "2026-11-16T16:08:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Security Engineer – Security Risk Engineering",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8384236?gh_jid=8384236"
   },
   "8385235": {
    "closed_at": null,

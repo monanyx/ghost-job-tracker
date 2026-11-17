@@ -115,6 +115,10 @@
   {
    "date": "2026-11-16",
    "open": 60
+  },
+  {
+   "date": "2026-11-17",
+   "open": 59
   }
  ],
  "jobs": {
@@ -134,7 +138,7 @@
    "url": "https://job-boards.greenhouse.io/monzo/jobs/5018066"
   },
   "5758065": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -359,7 +363,7 @@
    "url": "https://job-boards.greenhouse.io/monzo/jobs/6945371"
   },
   "7194922": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1259,7 +1263,7 @@
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8274038"
   },
   "8281171": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-09T12:08:42+00:00",
@@ -1543,8 +1547,23 @@
    "title": "Credit Model Validation Manager",
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8331328"
   },
-  "8336327": {
+  "8333519": {
    "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "integrated marketing lead business banking @ cardiff, london or remote (uk)",
+   "location": "Cardiff, London or Remote (UK)",
+   "posted_at": "2026-11-17T09:35:04+00:00",
+   "posted_history": [
+    "2026-11-17T09:35:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "Integrated Marketing Lead, Business Banking",
+   "url": "https://job-boards.greenhouse.io/monzo/jobs/8333519"
+  },
+  "8336327": {
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-05T11:30:12+00:00",
@@ -1962,6 +1981,36 @@
    "reopened": 0,
    "title": "Product Operations Manager",
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8392439"
+  },
+  "8393062": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "creative studio resource manager creative ops @ cardiff, london or remote (uk)",
+   "location": "Cardiff, London or Remote (UK)",
+   "posted_at": "2026-11-16T19:06:54+00:00",
+   "posted_history": [
+    "2026-11-16T19:06:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Creative Studio Resource Manager - Creative Ops",
+   "url": "https://job-boards.greenhouse.io/monzo/jobs/8393062"
+  },
+  "8393065": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "financial operations analyst 12 month fixed term contract @ cardiff, london or remote (uk)",
+   "location": "Cardiff, London or Remote (UK)",
+   "posted_at": "2026-11-17T08:46:50+00:00",
+   "posted_history": [
+    "2026-11-17T08:46:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Financial Operations Analyst, 12 Month Fixed Term Contract",
+   "url": "https://job-boards.greenhouse.io/monzo/jobs/8393065"
   }
  }
 }

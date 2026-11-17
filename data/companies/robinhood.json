@@ -115,6 +115,10 @@
   {
    "date": "2026-11-16",
    "open": 165
+  },
+  {
+   "date": "2026-11-17",
+   "open": 166
   }
  ],
  "jobs": {
@@ -213,14 +217,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "software engineer 2 backend @ menlo park, ca; new york, ny",
+   "fp": "software engineer backend @ menlo park, ca; new york, ny",
    "location": "Menlo Park, CA; New York, NY",
    "posted_at": "2025-09-27T15:57:00+00:00",
    "posted_history": [
     "2025-09-27T15:57:00+00:00"
    ],
    "reopened": 0,
-   "title": "Software Engineer 2, Backend",
+   "title": "Software Engineer, Backend",
    "url": "https://boards.greenhouse.io/robinhood/jobs/7263592?t=gh_src=&gh_jid=7263592"
   },
   "7264931": {
@@ -374,7 +378,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/7580272?t=gh_src=&gh_jid=7580272"
   },
   "7648452": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -389,7 +393,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/7648452?t=gh_src=&gh_jid=7648452"
   },
   "7648454": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -522,6 +526,21 @@
    "reopened": 0,
    "title": "Staff Product Designer, National Impact",
    "url": "https://boards.greenhouse.io/robinhood/jobs/7804648?t=gh_src=&gh_jid=7804648"
+  },
+  "7871254": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "senior software developer kubernetes compute @ toronto, canada",
+   "location": "Toronto, Canada",
+   "posted_at": "2026-05-26T19:53:25+00:00",
+   "posted_history": [
+    "2026-05-26T19:53:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Developer, Kubernetes Compute",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/7871254?t=gh_src=&gh_jid=7871254"
   },
   "7914059": {
    "closed_at": "2026-11-13T11:35:01+00:00",
@@ -2339,7 +2358,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8247333?t=gh_src=&gh_jid=8247333"
   },
   "8248165": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3328,6 +3347,21 @@
    "title": "President, Bitstamp Europe",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8350712?t=gh_src=&gh_jid=8350712"
   },
+  "8354333": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "senior client platform engineer @ menlo park, ca",
+   "location": "Menlo Park, CA",
+   "posted_at": "2026-11-16T15:50:13+00:00",
+   "posted_history": [
+    "2026-11-16T15:50:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Client Platform Engineer",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8354333?t=gh_src=&gh_jid=8354333"
+  },
   "8356065": {
    "closed_at": null,
    "department": "",
@@ -3493,6 +3527,21 @@
    "title": "Staff MarTech Manager",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8374447?t=gh_src=&gh_jid=8374447"
   },
+  "8379150": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "benefits partner @ chicago, il; menlo park, ca; new york, ny",
+   "location": "Chicago, IL; Menlo Park, CA; New York, NY",
+   "posted_at": "2026-11-16T21:14:24+00:00",
+   "posted_history": [
+    "2026-11-16T21:14:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Benefits Partner",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8379150?t=gh_src=&gh_jid=8379150"
+  },
   "8379461": {
    "closed_at": null,
    "department": "",
@@ -3528,15 +3577,30 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-13T11:35:01+00:00",
-   "fp": "senior software engineer trump accounts @ menlo park, ca; new york, ny",
+   "fp": "senior software engineer government products @ menlo park, ca; new york, ny",
    "location": "Menlo Park, CA; New York, NY",
    "posted_at": "2026-11-13T00:34:27+00:00",
    "posted_history": [
     "2026-11-13T00:34:27+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Software Engineer, Trump Accounts",
+   "title": "Senior Software Engineer,  Government Products",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8384669?t=gh_src=&gh_jid=8384669"
+  },
+  "8385931": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "software engineer backend government products @ menlo park, ca; new york, ny",
+   "location": "Menlo Park, CA; New York, NY",
+   "posted_at": "2026-11-16T18:35:06+00:00",
+   "posted_history": [
+    "2026-11-16T18:35:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Backend - Government Products",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8385931?t=gh_src=&gh_jid=8385931"
   }
  }
 }

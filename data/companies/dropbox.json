@@ -115,11 +115,15 @@
   {
    "date": "2026-11-16",
    "open": 44
+  },
+  {
+   "date": "2026-11-17",
+   "open": 41
   }
  ],
  "jobs": {
   "6330377": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -359,7 +363,7 @@
    "url": "https://jobs.dropbox.com/listing/8137896?gh_jid=8137896"
   },
   "8159652": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -389,7 +393,7 @@
    "url": "https://jobs.dropbox.com/listing/8159659?gh_jid=8159659"
   },
   "8159670": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -479,7 +483,7 @@
    "url": "https://jobs.dropbox.com/listing/8208317?gh_jid=8208317"
   },
   "8234201": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -494,7 +498,7 @@
    "url": "https://jobs.dropbox.com/listing/8234201?gh_jid=8234201"
   },
   "8234202": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -868,6 +872,21 @@
    "title": "Senior Security Engineer, AI Security",
    "url": "https://jobs.dropbox.com/listing/8328549?gh_jid=8328549"
   },
+  "8353167": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "senior account executive anz @ remote - australia: select locations",
+   "location": "Remote - Australia: Select locations",
+   "posted_at": "2026-11-16T13:19:41+00:00",
+   "posted_history": [
+    "2026-11-16T13:19:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Account Executive - ANZ",
+   "url": "https://jobs.dropbox.com/listing/8353167?gh_jid=8353167"
+  },
   "8356282": {
    "closed_at": null,
    "department": "",
@@ -972,6 +991,21 @@
    "reopened": 0,
    "title": "Technical Architect",
    "url": "https://jobs.dropbox.com/listing/8359352?gh_jid=8359352"
+  },
+  "8359398": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "senior account executive @ remote - us: select locations",
+   "location": "Remote - US: Select locations",
+   "posted_at": "2026-11-16T18:56:40+00:00",
+   "posted_history": [
+    "2026-11-16T18:56:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Account Executive",
+   "url": "https://jobs.dropbox.com/listing/8359398?gh_jid=8359398"
   },
   "8374438": {
    "closed_at": null,

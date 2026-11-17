@@ -115,6 +115,10 @@
   {
    "date": "2026-11-16",
    "open": 46
+  },
+  {
+   "date": "2026-11-17",
+   "open": 51
   }
  ],
  "jobs": {
@@ -359,7 +363,7 @@
    "url": "https://job-boards.greenhouse.io/contentful/jobs/8259341"
   },
   "8259343": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -374,7 +378,7 @@
    "url": "https://job-boards.greenhouse.io/contentful/jobs/8259343"
   },
   "8259346": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -837,6 +841,111 @@
    "reopened": 0,
    "title": "Customer Success Manager",
    "url": "https://job-boards.greenhouse.io/contentful/jobs/8386908"
+  },
+  "8393388": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "customer success manager @ denver, colorado, united states",
+   "location": "Denver, Colorado, United States",
+   "posted_at": "2026-11-16T17:05:22+00:00",
+   "posted_history": [
+    "2026-11-16T17:05:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Success Manager",
+   "url": "https://job-boards.greenhouse.io/contentful/jobs/8393388"
+  },
+  "8393390": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "customer success manager @ new york, new york, united states",
+   "location": "New York, New York, United States",
+   "posted_at": "2026-11-16T17:05:24+00:00",
+   "posted_history": [
+    "2026-11-16T17:05:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Success Manager",
+   "url": "https://job-boards.greenhouse.io/contentful/jobs/8393390"
+  },
+  "8394550": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "regional sales director mid market @ denver, colorado, united states",
+   "location": "Denver, Colorado, United States",
+   "posted_at": "2026-11-17T00:06:32+00:00",
+   "posted_history": [
+    "2026-11-17T00:06:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Regional Sales Director, Mid Market",
+   "url": "https://job-boards.greenhouse.io/contentful/jobs/8394550"
+  },
+  "8394562": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "regional sales director mid market @ san francisco, california, united states",
+   "location": "San Francisco, California, United States",
+   "posted_at": "2026-11-17T00:06:34+00:00",
+   "posted_history": [
+    "2026-11-17T00:06:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Regional Sales Director, Mid Market",
+   "url": "https://job-boards.greenhouse.io/contentful/jobs/8394562"
+  },
+  "8394563": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "regional sales director mid market @ san diego, california, united states",
+   "location": "San Diego, California, United States",
+   "posted_at": "2026-11-17T00:06:36+00:00",
+   "posted_history": [
+    "2026-11-17T00:06:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Regional Sales Director, Mid Market",
+   "url": "https://job-boards.greenhouse.io/contentful/jobs/8394563"
+  },
+  "8394565": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "regional sales director mid market @ los angeles, california, united states",
+   "location": "Los Angeles, California, United States",
+   "posted_at": "2026-11-17T00:06:37+00:00",
+   "posted_history": [
+    "2026-11-17T00:06:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Regional Sales Director, Mid Market",
+   "url": "https://job-boards.greenhouse.io/contentful/jobs/8394565"
+  },
+  "8394566": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "regional sales director mid market @ seattle, washington, united states",
+   "location": "Seattle, Washington, United States",
+   "posted_at": "2026-11-17T00:06:40+00:00",
+   "posted_history": [
+    "2026-11-17T00:06:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Regional Sales Director, Mid Market",
+   "url": "https://job-boards.greenhouse.io/contentful/jobs/8394566"
   }
  }
 }

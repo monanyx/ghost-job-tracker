@@ -115,6 +115,10 @@
   {
    "date": "2026-11-16",
    "open": 363
+  },
+  {
+   "date": "2026-11-17",
+   "open": 358
   }
  ],
  "jobs": {
@@ -678,8 +682,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "principal classified systems architect okta federal @ washington, dc",
-   "location": "Washington, DC",
+   "fp": "principal classified systems architect okta federal @ washington d.c.",
+   "location": "Washington D.C.",
    "posted_at": "2026-02-17T16:23:08+00:00",
    "posted_history": [
     "2026-02-17T16:23:08+00:00"
@@ -1019,7 +1023,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/7821054?gh_jid=7821054"
   },
   "7821640": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1289,7 +1293,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/7941715?gh_jid=7941715"
   },
   "7960157": {
-   "closed_at": "2026-11-11T11:27:30+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-05T11:30:12+00:00",
@@ -1299,9 +1303,24 @@
    "posted_history": [
     "2026-05-28T07:44:27+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "People Operations Specialist",
    "url": "https://www.okta.com/company/careers/opportunity/7960157?gh_jid=7960157"
+  },
+  "7963271": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "senior site reliability engineer @ bengaluru, india",
+   "location": "Bengaluru, India",
+   "posted_at": "2026-05-28T15:11:09+00:00",
+   "posted_history": [
+    "2026-05-28T15:11:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Site Reliability Engineer",
+   "url": "https://www.okta.com/company/careers/opportunity/7963271?gh_jid=7963271"
   },
   "7977080": {
    "closed_at": null,
@@ -1574,7 +1593,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8022189?gh_jid=8022189"
   },
   "8022237": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2564,7 +2583,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8109002?gh_jid=8109002"
   },
   "8109371": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2879,7 +2898,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8137951?gh_jid=8137951"
   },
   "8138328": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2969,7 +2988,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8139707?gh_jid=8139707"
   },
   "8139717": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3463,6 +3482,21 @@
    "title": "Director Channel and Alliances - Emerging Markets",
    "url": "https://www.okta.com/company/careers/opportunity/8176095?gh_jid=8176095"
   },
+  "8176587": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "director solutions engineering emea cee @ germany",
+   "location": "Germany",
+   "posted_at": "2026-11-17T07:23:21+00:00",
+   "posted_history": [
+    "2026-11-17T07:23:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Director, Solutions Engineering, EMEA CEE",
+   "url": "https://www.okta.com/company/careers/opportunity/8176587?gh_jid=8176587"
+  },
   "8178030": {
    "closed_at": null,
    "department": "",
@@ -3884,7 +3918,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8204491?gh_jid=8204491"
   },
   "8204750": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4364,7 +4398,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8220655?gh_jid=8220655"
   },
   "8220791": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4484,7 +4518,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8229910?gh_jid=8229910"
   },
   "8230163": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4737,6 +4771,21 @@
    "reopened": 0,
    "title": "Area Sales Director, Enterprise (Auth0)",
    "url": "https://www.okta.com/company/careers/opportunity/8237969?gh_jid=8237969"
+  },
+  "8238010": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "senior software engineer mfa assurance policies and hybrid access @ toronto, on, canada",
+   "location": "Toronto, ON, Canada",
+   "posted_at": "2026-11-16T18:59:38+00:00",
+   "posted_history": [
+    "2026-11-16T18:59:38+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer (Frontend) - MFA, Assurance, Policies and Hybrid Access",
+   "url": "https://www.okta.com/company/careers/opportunity/8238010?gh_jid=8238010"
   },
   "8238157": {
    "closed_at": null,
@@ -5253,14 +5302,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "global partner program operations manager @ bengaluru, india",
-   "location": "Bengaluru, India",
+   "fp": "partner program manager apj @ bengaluru",
+   "location": "Bengaluru",
    "posted_at": "2026-10-02T12:10:58+00:00",
    "posted_history": [
     "2026-10-02T12:10:58+00:00"
    ],
    "reopened": 0,
-   "title": "Global Partner Program Operations Manager",
+   "title": "Partner Program Manager, APJ",
    "url": "https://www.okta.com/company/careers/opportunity/8245298?gh_jid=8245298"
   },
   "8246071": {
@@ -5414,7 +5463,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8248960?gh_jid=8248960"
   },
   "8249918": {
-   "closed_at": "2026-11-16T12:03:27+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5424,7 +5473,7 @@
    "posted_history": [
     "2026-10-08T15:00:17+00:00"
    ],
-   "reopened": 1,
+   "reopened": 2,
    "title": "Senior Product Manager, Okta for AI Agents",
    "url": "https://www.okta.com/company/careers/opportunity/8249918?gh_jid=8249918"
   },
@@ -5504,7 +5553,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8256688?gh_jid=8256688"
   },
   "8257554": {
-   "closed_at": "2026-11-03T11:21:29+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5514,7 +5563,7 @@
    "posted_history": [
     "2026-10-08T13:19:08+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior AI Analyst, People Digital Solutions",
    "url": "https://www.okta.com/company/careers/opportunity/8257554?gh_jid=8257554"
   },
@@ -6269,7 +6318,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8285002?gh_jid=8285002"
   },
   "8285012": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6509,7 +6558,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8289109?gh_jid=8289109"
   },
   "8289127": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6719,7 +6768,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8289915?gh_jid=8289915"
   },
   "8292594": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6824,7 +6873,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8299819?gh_jid=8299819"
   },
   "8299845": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -6839,7 +6888,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8299845?gh_jid=8299845"
   },
   "8299852": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -7398,8 +7447,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
-   "fp": "senior digital strategy and growth manager @ toronto, ontario, canada",
-   "location": "Toronto, Ontario, Canada",
+   "fp": "senior digital strategy and growth manager @ bellevue, wa, united states; chicago, illinois, united states; toronto, on, canada",
+   "location": "Bellevue, WA, United States; Chicago, Illinois, United States; Toronto, ON, Canada",
    "posted_at": "2026-11-02T22:29:11+00:00",
    "posted_history": [
     "2026-11-02T22:29:11+00:00"
@@ -7653,8 +7702,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
-   "fp": "sr manager digital product owner @ san francisco, california",
-   "location": "San Francisco, California",
+   "fp": "sr manager digital product owner @ san francisco, ca, united states",
+   "location": "San Francisco, CA, United States",
    "posted_at": "2026-10-29T21:00:17+00:00",
    "posted_history": [
     "2026-10-29T21:00:17+00:00"
@@ -7737,6 +7786,21 @@
    "reopened": 0,
    "title": "Business Development Representative -France",
    "url": "https://www.okta.com/company/careers/opportunity/8336721?gh_jid=8336721"
+  },
+  "8336985": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "executive assistant @ san francisco, california",
+   "location": "San Francisco, California",
+   "posted_at": "2026-11-16T14:58:25+00:00",
+   "posted_history": [
+    "2026-11-16T14:58:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Executive Assistant",
+   "url": "https://www.okta.com/company/careers/opportunity/8336985?gh_jid=8336985"
   },
   "8345577": {
    "closed_at": null,
@@ -8013,14 +8077,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-14T10:56:25+00:00",
-   "fp": "regional sales manager enterprise @ los angeles, california; san francisco, california",
-   "location": "Los Angeles, California; San Francisco, California",
+   "fp": "enterprise account executive west @ california remote",
+   "location": "California Remote",
    "posted_at": "2026-11-13T20:05:33+00:00",
    "posted_history": [
     "2026-11-13T20:05:33+00:00"
    ],
    "reopened": 0,
-   "title": "Regional Sales Manager, Enterprise",
+   "title": "Enterprise Account Executive, West",
    "url": "https://www.okta.com/company/careers/opportunity/8354795?gh_jid=8354795"
   },
   "8354829": {
@@ -8028,8 +8092,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-16T12:03:27+00:00",
-   "fp": "benefits operations specialist @ bengaluru, india",
-   "location": "Bengaluru, India",
+   "fp": "benefits operations specialist @ bengaluru",
+   "location": "Bengaluru",
    "posted_at": "2026-11-16T06:40:33+00:00",
    "posted_history": [
     "2026-11-16T06:40:33+00:00"
@@ -8203,13 +8267,28 @@
    "title": "Director, Product Security, PSIRT",
    "url": "https://www.okta.com/company/careers/opportunity/8383373?gh_jid=8383373"
   },
+  "8384032": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "senior software engineer @ toronto, on, canada",
+   "location": "Toronto, ON, Canada",
+   "posted_at": "2026-11-17T01:44:30+00:00",
+   "posted_history": [
+    "2026-11-17T01:44:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer",
+   "url": "https://www.okta.com/company/careers/opportunity/8384032?gh_jid=8384032"
+  },
   "8384384": {
    "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-14T10:56:25+00:00",
-   "fp": "staff software engineer privileged access management @ bellevue, washington",
-   "location": "Bellevue, Washington",
+   "fp": "staff software engineer privileged access management @ toronto, on, canada",
+   "location": "Toronto, ON, Canada",
    "posted_at": "2026-11-13T19:55:02+00:00",
    "posted_history": [
     "2026-11-13T19:55:02+00:00"

@@ -115,6 +115,10 @@
   {
    "date": "2026-11-16",
    "open": 473
+  },
+  {
+   "date": "2026-11-17",
+   "open": 475
   }
  ],
  "jobs": {
@@ -224,7 +228,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/6696709?gh_jid=6696709"
   },
   "6972536": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1829,7 +1833,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8045309?gh_jid=8045309"
   },
   "8045321": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3104,7 +3108,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8143377?gh_jid=8143377"
   },
   "8143511": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3569,7 +3573,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8160655?gh_jid=8160655"
   },
   "8160660": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3777,6 +3781,21 @@
    "reopened": 0,
    "title": "Territory Account Executive, Digital Native (Indonesia)",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8168940?gh_jid=8168940"
+  },
+  "8169264": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "business development representative french speaking @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-09-04T12:36:43+00:00",
+   "posted_history": [
+    "2026-09-04T12:36:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Business Development Representative - French Speaking",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8169264?gh_jid=8169264"
   },
   "8169689": {
    "closed_at": null,
@@ -4308,14 +4327,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior software engineer security rules @ hybrid",
+   "fp": "senior software engineer distributed systems @ hybrid",
    "location": "Hybrid",
    "posted_at": "2026-09-07T11:21:41+00:00",
    "posted_history": [
     "2026-09-07T11:21:41+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Software Engineer, Security Rules",
+   "title": "Senior Software Engineer, Distributed Systems",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8184838?gh_jid=8184838"
   },
   "8185503": {
@@ -4409,7 +4428,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8185854?gh_jid=8185854"
   },
   "8186045": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5804,7 +5823,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8239175?gh_jid=8239175"
   },
   "8239181": {
-   "closed_at": "2026-11-12T11:51:19+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -5814,7 +5833,7 @@
    "posted_history": [
     "2026-11-02T16:10:30+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Systems Engineer",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8239181?gh_jid=8239181"
   },
@@ -7079,7 +7098,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8282124?gh_jid=8282124"
   },
   "8282783": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7604,7 +7623,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8312693?gh_jid=8312693"
   },
   "8317733": {
-   "closed_at": "2026-11-13T11:35:01+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-28T10:01:46+00:00",
@@ -7614,7 +7633,7 @@
    "posted_history": [
     "2026-10-27T15:13:41+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Security Research Analyst, WAF Managed Rules",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8317733?gh_jid=8317733"
   },
@@ -8834,18 +8853,18 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8360609?gh_jid=8360609"
   },
   "8365223": {
-   "closed_at": "2026-11-14T10:56:25+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-12T11:51:19+00:00",
-   "fp": "senior product manager flora @ hybrid; in-office",
+   "fp": "senior product manager new database product @ hybrid; in-office",
    "location": "Hybrid; In-Office",
    "posted_at": "2026-11-12T09:37:19+00:00",
    "posted_history": [
     "2026-11-12T09:37:19+00:00"
    ],
-   "reopened": 0,
-   "title": "Senior Product Manager, Flora",
+   "reopened": 1,
+   "title": "Senior Product Manager, New Database Product",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8365223?gh_jid=8365223"
   },
   "8366762": {
@@ -8892,6 +8911,21 @@
    "reopened": 0,
    "title": "Data Center Operations Engineer",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8369401?gh_jid=8369401"
+  },
+  "8370855": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "senior manager customer engineering @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-17T11:18:52+00:00",
+   "posted_history": [
+    "2026-11-17T11:18:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Customer Engineering",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8370855?gh_jid=8370855"
   },
   "8372322": {
    "closed_at": null,
@@ -9073,6 +9107,36 @@
    "title": "Principal, Developer Platform Positioning",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8381749?gh_jid=8381749"
   },
+  "8383449": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "people team intern emea employment compliance manager enablement @ in-office",
+   "location": "In-Office",
+   "posted_at": "2026-11-17T11:48:04+00:00",
+   "posted_history": [
+    "2026-11-17T11:48:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "People Team Intern, EMEA Employment Compliance & Manager Enablement (Spring 2027)",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8383449?gh_jid=8383449"
+  },
+  "8383577": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "principal software engineer identity access management @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-16T16:14:50+00:00",
+   "posted_history": [
+    "2026-11-16T16:14:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Software Engineer, Identity & Access Management",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8383577?gh_jid=8383577"
+  },
   "8383781": {
    "closed_at": null,
    "department": "",
@@ -9102,6 +9166,21 @@
    "reopened": 0,
    "title": "Territory Account Executive",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8384276?gh_jid=8384276"
+  },
+  "8384969": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "public relations associate apjc @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-17T01:55:20+00:00",
+   "posted_history": [
+    "2026-11-17T01:55:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Public Relations Associate, APJC",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8384969?gh_jid=8384969"
   },
   "8385867": {
    "closed_at": null,

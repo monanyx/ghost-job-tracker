@@ -115,6 +115,10 @@
   {
    "date": "2026-11-16",
    "open": 58
+  },
+  {
+   "date": "2026-11-17",
+   "open": 60
   }
  ],
  "jobs": {
@@ -288,18 +292,19 @@
    "url": "https://jobs.ashbyhq.com/n8n/1fbf28aa-39c9-4ce4-a29a-238a725d8014"
   },
   "240f952d-fa35-4268-b84e-c5697024dab8": {
-   "closed_at": "2026-11-10T11:47:05+00:00",
+   "closed_at": null,
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
    "fp": "manager customer success @ berlin office",
    "location": "Berlin Office",
-   "posted_at": "2026-11-02T08:59:11+00:00",
+   "posted_at": "2026-11-16T15:31:29+00:00",
    "posted_history": [
     "2026-10-28T15:13:33+00:00",
-    "2026-11-02T08:59:11+00:00"
+    "2026-11-02T08:59:11+00:00",
+    "2026-11-16T15:31:29+00:00"
    ],
-   "reopened": 1,
+   "reopened": 2,
    "title": "Manager, Customer Success (Remote - EMEA)",
    "url": "https://jobs.ashbyhq.com/n8n/240f952d-fa35-4268-b84e-c5697024dab8"
   },
@@ -503,14 +508,14 @@
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-11-13T11:35:01+00:00",
-   "fp": "large enterprise account executive nordics benelux @ netherlands",
+   "fp": "enterprise account executive major accounts @ netherlands",
    "location": "Netherlands",
    "posted_at": "2026-11-12T14:24:16+00:00",
    "posted_history": [
     "2026-11-12T14:24:16+00:00"
    ],
    "reopened": 0,
-   "title": "Large Enterprise Account Executive, Nordics & Benelux",
+   "title": "Enterprise Account Executive, Major Accounts (Nordics & Benelux)",
    "url": "https://jobs.ashbyhq.com/n8n/4a2762be-bc45-4b62-93da-3636df429557"
   },
   "4b44cb99-be47-425c-bba6-8f9976c71ca8": {
@@ -621,17 +626,18 @@
    "url": "https://jobs.ashbyhq.com/n8n/592d917f-8dfc-4207-af49-ef48572fe3d2"
   },
   "5bd16c97-aaa4-499b-81a4-9599852fe6e9": {
-   "closed_at": "2026-11-02T11:41:30+00:00",
+   "closed_at": null,
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "renewals specialist remote @ new york",
    "location": "New York",
-   "posted_at": "2026-10-08T10:44:30+00:00",
+   "posted_at": "2026-11-16T15:42:36+00:00",
    "posted_history": [
-    "2026-10-08T10:44:30+00:00"
+    "2026-10-08T10:44:30+00:00",
+    "2026-11-16T15:42:36+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Renewals Specialist - Remote (US East Coast)",
    "url": "https://jobs.ashbyhq.com/n8n/5bd16c97-aaa4-499b-81a4-9599852fe6e9"
   },
@@ -655,14 +661,14 @@
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
-   "fp": "large enterprise account executive dach @ germany",
+   "fp": "enterprise account executive major accounts @ germany",
    "location": "Germany",
    "posted_at": "2026-10-30T23:52:17+00:00",
    "posted_history": [
     "2026-10-30T23:52:17+00:00"
    ],
    "reopened": 0,
-   "title": "Large Enterprise Account Executive DACH (Remote DACH)",
+   "title": "Enterprise Account Executive, Major Accounts (DACH)",
    "url": "https://jobs.ashbyhq.com/n8n/6a343c1a-029e-420b-93f3-c4b547780629"
   },
   "70098d15-bf0f-4fce-b415-310d38195e4e": {
@@ -670,14 +676,14 @@
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
-   "fp": "large enterprise account executive uk i @ united kingdom",
+   "fp": "enterprise account executive major accounts @ united kingdom",
    "location": "United Kingdom",
    "posted_at": "2026-10-31T00:07:57+00:00",
    "posted_history": [
     "2026-10-31T00:07:57+00:00"
    ],
    "reopened": 0,
-   "title": "Large Enterprise Account Executive UK&I (Remote UK&I)",
+   "title": "Enterprise Account Executive, Major Accounts (UK & I)",
    "url": "https://jobs.ashbyhq.com/n8n/70098d15-bf0f-4fce-b415-310d38195e4e"
   },
   "79df05ec-9629-42d2-a612-06eeaaf2450f": {
@@ -715,14 +721,14 @@
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-11-13T11:35:01+00:00",
-   "fp": "large enterprise account executive europe south @ spain",
+   "fp": "enterprise account executive major accounts @ spain",
    "location": "Spain",
    "posted_at": "2026-11-12T14:14:24+00:00",
    "posted_history": [
     "2026-11-12T14:14:24+00:00"
    ],
    "reopened": 0,
-   "title": "Large Enterprise Account Executive, Europe - South",
+   "title": "Enterprise Account Executive, Major Accounts (Europe - South)",
    "url": "https://jobs.ashbyhq.com/n8n/804c5b7b-e9fe-45ab-aaa5-2b2f0800c2e1"
   },
   "8825850a-031b-4312-903c-3d3a25c45142": {

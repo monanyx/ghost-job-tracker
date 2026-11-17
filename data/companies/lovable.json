@@ -115,6 +115,10 @@
   {
    "date": "2026-11-16",
    "open": 79
+  },
+  {
+   "date": "2026-11-17",
+   "open": 78
   }
  ],
  "jobs": {
@@ -1507,7 +1511,7 @@
    "url": "https://jobs.ashbyhq.com/lovable/e8085310-ce77-4412-931c-2cf7297c37ed"
   },
   "e826f9a8-e380-4c6b-a869-4b92e42d3f5a": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "EPD",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

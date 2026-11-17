@@ -115,6 +115,10 @@
   {
    "date": "2026-11-16",
    "open": 113
+  },
+  {
+   "date": "2026-11-17",
+   "open": 115
   }
  ],
  "jobs": {
@@ -284,7 +288,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/7865849"
   },
   "7904293": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -554,7 +558,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8026207"
   },
   "8026211": {
-   "closed_at": "2026-11-06T11:30:42+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -564,7 +568,7 @@
    "posted_history": [
     "2026-10-06T16:34:32+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Software Engineer, Platform Access (L2)",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8026211"
   },
@@ -958,6 +962,21 @@
    "title": "New Business Account Executive",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8125581"
   },
+  "8131089": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "software engineer @ remote - us",
+   "location": "Remote - US",
+   "posted_at": "2026-11-16T21:10:41+00:00",
+   "posted_history": [
+    "2026-11-16T21:10:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer (L2)",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8131089"
+  },
   "8131091": {
    "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
@@ -1094,7 +1113,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8157509"
   },
   "8160279": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1424,7 +1443,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8201677"
   },
   "8202189": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1709,7 +1728,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8240694"
   },
   "8241250": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2339,7 +2358,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8267928"
   },
   "8268235": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
@@ -2654,7 +2673,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8319434"
   },
   "8319442": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-16T12:03:27+00:00",
@@ -2968,6 +2987,36 @@
    "title": "Staff Software Engineer, Mobile (P4)",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8356548"
   },
+  "8356811": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "strategic account executive 4 @ remote - us",
+   "location": "Remote - US",
+   "posted_at": "2026-11-16T16:37:04+00:00",
+   "posted_history": [
+    "2026-11-16T16:37:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Account Executive 4",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8356811"
+  },
+  "8358938": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "fast track operations specialist 2 @ remote - india",
+   "location": "Remote - India",
+   "posted_at": "2026-11-17T09:47:59+00:00",
+   "posted_history": [
+    "2026-11-17T09:47:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Fast Track Operations Specialist 2",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8358938"
+  },
   "8360564": {
    "closed_at": null,
    "department": "",
@@ -3043,6 +3092,21 @@
    "title": "Principal, Product Learning & Development",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8373065"
   },
+  "8382226": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "senior account executive @ remote - singapore",
+   "location": "Remote - Singapore",
+   "posted_at": "2026-11-17T07:00:23+00:00",
+   "posted_history": [
+    "2026-11-17T07:00:23+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Account Executive",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8382226"
+  },
   "8383015": {
    "closed_at": null,
    "department": "",
@@ -3057,6 +3121,36 @@
    "reopened": 0,
    "title": "New Business Account Executive",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8383015"
+  },
+  "8385422": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "senior manager strategic accounts asia @ remote - singapore",
+   "location": "Remote - Singapore",
+   "posted_at": "2026-11-17T10:09:25+00:00",
+   "posted_history": [
+    "2026-11-17T10:09:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Strategic Accounts Asia",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8385422"
+  },
+  "8385881": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "staff technical account manager @ remote - india",
+   "location": "Remote - India",
+   "posted_at": "2026-11-17T06:37:49+00:00",
+   "posted_history": [
+    "2026-11-17T06:37:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff, Technical Account Manager",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8385881"
   },
   "8386024": {
    "closed_at": null,
@@ -3087,6 +3181,21 @@
    "reopened": 0,
    "title": "Fraud Specialist, Supplier Operations & Governance",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8386095"
+  },
+  "8393935": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "senior hr partner @ remote - canada",
+   "location": "Remote - Canada",
+   "posted_at": "2026-11-16T21:23:37+00:00",
+   "posted_history": [
+    "2026-11-16T21:23:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior HR Partner",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8393935"
   }
  }
 }

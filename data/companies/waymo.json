@@ -115,6 +115,10 @@
   {
    "date": "2026-11-16",
    "open": 373
+  },
+  {
+   "date": "2026-11-17",
+   "open": 369
   }
  ],
  "jobs": {
@@ -899,7 +903,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=7488508"
   },
   "7488596": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1334,7 +1338,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=7808260"
   },
   "7815237": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1934,7 +1938,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=7947334"
   },
   "7959074": {
-   "closed_at": "2026-11-13T11:35:01+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1944,7 +1948,7 @@
    "posted_history": [
     "2026-06-02T22:09:57+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Business Intelligence Analyst",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=7959074"
   },
@@ -2954,7 +2958,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8083286"
   },
   "8084419": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3269,7 +3273,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8124243"
   },
   "8125600": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
@@ -4064,7 +4068,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8197014"
   },
   "8197554": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4529,7 +4533,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8214350"
   },
   "8214519": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5118,14 +5122,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "product quality engineer automotive sensors @ mountain view, ca, usa",
+   "fp": "product quality engineer sensors @ mountain view, ca, usa",
    "location": "Mountain View, CA, USA ",
    "posted_at": "2026-09-30T19:42:41+00:00",
    "posted_history": [
     "2026-09-30T19:42:41+00:00"
    ],
    "reopened": 0,
-   "title": "Product Quality Engineer, Automotive Sensors",
+   "title": "Product Quality Engineer, Sensors",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8241745"
   },
   "8243556": {
@@ -5489,7 +5493,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8250120"
   },
   "8250220": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6478,6 +6482,21 @@
    "title": "Safety Assurance Manager / 安全性保証マネージャー",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8329325"
   },
+  "8329360": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "operations rider only readiness manager japan @ tokyo, japan",
+   "location": "Tokyo, Japan",
+   "posted_at": "2026-11-16T19:02:59+00:00",
+   "posted_history": [
+    "2026-11-16T19:02:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Operations Rider-Only Readiness Manager, Japan / ライダー オンリー（完全無人運転）運用準備マネージャー（オペレーション部門、日本）",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8329360"
+  },
   "8334474": {
    "closed_at": null,
    "department": "",
@@ -6748,6 +6767,21 @@
    "title": "2027 Summer Intern, PhD, Machine Learning - Generative World Models & Controllable Simulation",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8351210"
   },
+  "8351324": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "zoning manager us @ new york city, ny, usa; washington, d.c., usa; mountain view, ca, usa",
+   "location": "New York City, NY, USA; Washington, D.C., USA; Mountain View, CA, USA",
+   "posted_at": "2026-11-05T21:35:11+00:00",
+   "posted_history": [
+    "2026-11-05T21:35:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Zoning Manager, US",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8351324"
+  },
   "8351491": {
    "closed_at": null,
    "department": "",
@@ -7008,14 +7042,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
-   "fp": "technical program manager hardware modules @ mountain view, ca, usa; san francisco, ca, usa",
+   "fp": "senior technical program manager hardware modules @ mountain view, ca, usa; san francisco, ca, usa",
    "location": "Mountain View, CA, USA; San Francisco, CA, USA",
    "posted_at": "2026-11-09T22:39:24+00:00",
    "posted_history": [
     "2026-11-09T22:39:24+00:00"
    ],
    "reopened": 0,
-   "title": "Technical Program Manager, Hardware Modules",
+   "title": "Senior Technical Program Manager, Hardware Modules",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8360841"
   },
   "8363212": {

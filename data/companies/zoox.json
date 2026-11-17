@@ -115,6 +115,10 @@
   {
    "date": "2026-11-16",
    "open": 241
+  },
+  {
+   "date": "2026-11-17",
+   "open": 238
   }
  ],
  "jobs": {
@@ -179,7 +183,7 @@
    "url": "https://jobs.lever.co/zoox/013b341d-8019-431d-bfda-8be411a14d84"
   },
   "0168ad29-2fd8-4c91-865c-b9fff8aa30c1": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "Safety Policy and Strategy",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",
@@ -299,7 +303,7 @@
    "url": "https://jobs.lever.co/zoox/06f146c2-25f6-40fd-8393-4f92ce518929"
   },
   "07f0834f-06ec-44c7-a24b-3efa08589d38": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "Software Platforms and Product",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -568,6 +572,21 @@
    "title": "Senior Manager, Fleet Operations Training",
    "url": "https://jobs.lever.co/zoox/11f3d5cc-be0c-492f-97b8-29358bd5a057"
   },
+  "15b6716e-5b08-4e04-a0c7-00532b82fa69": {
+   "closed_at": null,
+   "department": "Software Systems",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "software engineer vehicle deployment @ foster city, ca",
+   "location": "Foster City, CA",
+   "posted_at": "2026-11-05T17:37:40+00:00",
+   "posted_history": [
+    "2026-11-05T17:37:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Vehicle Deployment",
+   "url": "https://jobs.lever.co/zoox/15b6716e-5b08-4e04-a0c7-00532b82fa69"
+  },
   "16f95b9e-6520-41bb-9a27-27a5f8f5dcf5": {
    "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "Base Operations",
@@ -674,7 +693,7 @@
    "url": "https://jobs.lever.co/zoox/1c9dae67-e486-4e39-b6a5-ccac4d93b2df"
   },
   "1cdcccf4-3a29-4a24-8cdc-f476da8f4821": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "AHMO",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1364,7 +1383,7 @@
    "url": "https://jobs.lever.co/zoox/36d2a9b9-bb21-4150-87fd-35a387f27855"
   },
   "3921a393-27c0-4a62-bb4d-2e88d80e45e0": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "Autonomy Software",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1619,7 +1638,7 @@
    "url": "https://jobs.lever.co/zoox/4a26b266-b3b2-4a08-be0d-de81029da441"
   },
   "4b00bf61-6547-4c50-be83-5d659176090b": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "Software Platforms and Product",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2127,6 +2146,21 @@
    "reopened": 0,
    "title": "Procurement Operations Manager",
    "url": "https://jobs.lever.co/zoox/68996f74-85e8-435d-9369-906438670794"
+  },
+  "6a2a0d85-f466-4177-8236-eac6e2df2e93": {
+   "closed_at": null,
+   "department": "Product",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "ux designer intern @ foster city, ca",
+   "location": "Foster City, CA",
+   "posted_at": "2026-11-17T01:59:51+00:00",
+   "posted_history": [
+    "2026-11-17T01:59:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "UX Designer Intern [Summer 2027]",
+   "url": "https://jobs.lever.co/zoox/6a2a0d85-f466-4177-8236-eac6e2df2e93"
   },
   "6d975a67-c0ec-4eb5-99b5-5ba4a455e5bd": {
    "closed_at": null,
@@ -3238,6 +3272,21 @@
    "title": "Staff Industrial Engineer",
    "url": "https://jobs.lever.co/zoox/9f30b1a9-9637-431b-ad46-83ba696108bd"
   },
+  "9fdd6600-099c-45e3-beab-f0ec7dbc296a": {
+   "closed_at": null,
+   "department": "Product",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "service designer intern @ foster city, ca",
+   "location": "Foster City, CA",
+   "posted_at": "2026-11-12T18:58:54+00:00",
+   "posted_history": [
+    "2026-11-12T18:58:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Service Designer Intern [Summer 2027]",
+   "url": "https://jobs.lever.co/zoox/9fdd6600-099c-45e3-beab-f0ec7dbc296a"
+  },
   "a0ffbca7-3613-498a-9f7b-c8dc13858184": {
    "closed_at": null,
    "department": "Manufacturing Engineering",
@@ -3513,14 +3562,14 @@
    "department": "Fleet Operations",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",
-   "fp": "program manager intern @ foster city, ca",
+   "fp": "mba program manager intern @ foster city, ca",
    "location": "Foster City, CA",
    "posted_at": "2026-11-06T23:11:55+00:00",
    "posted_history": [
     "2026-11-06T23:11:55+00:00"
    ],
    "reopened": 0,
-   "title": "Program Manager Intern [Summer 2027]",
+   "title": "MBA Program Manager Intern [Summer 2027]",
    "url": "https://jobs.lever.co/zoox/affbfa7d-30c5-4639-aa56-2ba138200bd8"
   },
   "b1bba11f-2b04-4a4a-8095-752c04182af1": {
@@ -4199,7 +4248,7 @@
    "url": "https://jobs.lever.co/zoox/e1f6143d-a18d-4d92-ad6c-fb2cd661609e"
   },
   "e2dc70db-8179-45c6-81f8-33c53409d29f": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "Finance",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

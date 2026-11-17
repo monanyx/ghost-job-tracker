@@ -115,9 +115,28 @@
   {
    "date": "2026-11-16",
    "open": 122
+  },
+  {
+   "date": "2026-11-17",
+   "open": 125
   }
  ],
  "jobs": {
+  "0067eb76-92af-497e-a5f8-7521716552f9": {
+   "closed_at": null,
+   "department": "People Operations",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "talent partner tech @ new york",
+   "location": "New York",
+   "posted_at": "2026-11-16T23:13:22+00:00",
+   "posted_history": [
+    "2026-11-16T23:13:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Talent Partner, Tech",
+   "url": "https://jobs.ashbyhq.com/cohere/0067eb76-92af-497e-a5f8-7521716552f9"
+  },
   "01a34bc3-6421-4af2-bf5b-f42e98155dda": {
    "closed_at": null,
    "department": "Product Management & Program Management",
@@ -634,14 +653,14 @@
    "department": "Business Operations",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
-   "fp": "senior manager gtm revenue finance @ united states",
+   "fp": "senior manager gtm strategic finance @ united states",
    "location": "United States",
    "posted_at": "2026-11-09T19:32:25+00:00",
    "posted_history": [
     "2026-11-09T19:32:25+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Manager, GTM & Revenue Finance",
+   "title": "Senior Manager, GTM Strategic Finance",
    "url": "https://jobs.ashbyhq.com/cohere/3898333d-fcbe-4d3f-afad-8be721b08319"
   },
   "3906eb1d-932f-485a-8f77-e8cc31859fdd": {
@@ -674,6 +693,21 @@
    "reopened": 1,
    "title": "Staff Software Engineer, Agentic Analytics",
    "url": "https://jobs.ashbyhq.com/cohere/39cab400-c976-41d9-9002-880ac6985b64"
+  },
+  "40060bf5-5fb1-4969-ba7b-da27ce4a9e38": {
+   "closed_at": null,
+   "department": "Revenue",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "strategic account executive manufacturing @ houston",
+   "location": "Houston",
+   "posted_at": "2026-11-17T02:26:05+00:00",
+   "posted_history": [
+    "2026-11-17T02:26:05+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Account Executive - Manufacturing",
+   "url": "https://jobs.ashbyhq.com/cohere/40060bf5-5fb1-4969-ba7b-da27ce4a9e38"
   },
   "41cb2a12-e33a-4368-a9f8-0ae0d19c023e": {
    "closed_at": null,
@@ -960,6 +994,21 @@
    "reopened": 0,
    "title": "Customer Success Manager - Public Sector & Defense, France",
    "url": "https://jobs.ashbyhq.com/cohere/597e18f5-c33c-4350-8bcd-05a751cece3a"
+  },
+  "5a61f4d2-5a52-4c98-a8a9-71fbfd67e485": {
+   "closed_at": null,
+   "department": "People Operations",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "compensation business partner @ new york",
+   "location": "New York",
+   "posted_at": "2026-11-16T23:39:23+00:00",
+   "posted_history": [
+    "2026-11-16T23:39:23+00:00"
+   ],
+   "reopened": 0,
+   "title": "Compensation Business Partner",
+   "url": "https://jobs.ashbyhq.com/cohere/5a61f4d2-5a52-4c98-a8a9-71fbfd67e485"
   },
   "5adf044a-a601-467a-bb92-807850b4f7ec": {
    "closed_at": "2026-10-22T08:55:54+00:00",
@@ -1517,7 +1566,7 @@
    "url": "https://jobs.ashbyhq.com/cohere/8f60b8e2-55b9-4258-a4cc-813273161f97"
   },
   "96c74af4-b3d7-4960-a666-212ce4debac8": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "Engineering & Infra",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2117,6 +2166,21 @@
    "reopened": 0,
    "title": "Senior Account Executive - Technology",
    "url": "https://jobs.ashbyhq.com/cohere/d4c55e53-850e-4bf9-bd34-de86ab27ebc2"
+  },
+  "d5cc437c-2397-4c1a-9d12-3a2bf64d98ea": {
+   "closed_at": null,
+   "department": "Embeddings & Search",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "member of technical staff search @ united states",
+   "location": "United States",
+   "posted_at": "2026-11-17T10:05:17+00:00",
+   "posted_history": [
+    "2026-11-17T10:05:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff, Search",
+   "url": "https://jobs.ashbyhq.com/cohere/d5cc437c-2397-4c1a-9d12-3a2bf64d98ea"
   },
   "dbe76343-a8ae-445c-b2f9-c5a304d54f6a": {
    "closed_at": null,

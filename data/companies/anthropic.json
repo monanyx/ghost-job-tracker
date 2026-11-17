@@ -115,6 +115,10 @@
   {
    "date": "2026-11-16",
    "open": 661
+  },
+  {
+   "date": "2026-11-17",
+   "open": 660
   }
  ],
  "jobs": {
@@ -3779,7 +3783,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5342935008"
   },
   "5344577008": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5129,17 +5133,17 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5388726008"
   },
   "5389305008": {
-   "closed_at": "2026-11-14T10:56:25+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "software engineer education @ san francisco, ca | new york city, ny",
-   "location": "San Francisco, CA | New York City, NY",
+   "fp": "software engineer education @ san francisco, ca",
+   "location": "San Francisco, CA",
    "posted_at": "2026-08-13T17:54:58+00:00",
    "posted_history": [
     "2026-08-13T17:54:58+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Software Engineer, Education",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5389305008"
   },
@@ -5819,7 +5823,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391340008"
   },
   "5391344008": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6569,7 +6573,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5399225008"
   },
   "5399379008": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7139,7 +7143,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5414793008"
   },
   "5415287008": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7289,7 +7293,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5416059008"
   },
   "5416696008": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7589,7 +7593,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5419869008"
   },
   "5420245008": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -9539,7 +9543,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5443871008"
   },
   "5443875008": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -9584,7 +9588,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5443900008"
   },
   "5443997008": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
@@ -10679,7 +10683,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5454474008"
   },
   "5454518008": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -11778,14 +11782,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-28T10:01:46+00:00",
-   "fp": "tech lead manager core apps data scientist @ new york city, ny; san francisco, ca | new york city, ny; seattle, wa",
+   "fp": "tech lead manager claude code data scientist @ new york city, ny; san francisco, ca | new york city, ny; seattle, wa",
    "location": "New York City, NY; San Francisco, CA | New York City, NY; Seattle, WA",
    "posted_at": "2026-10-27T21:37:35+00:00",
    "posted_history": [
     "2026-10-27T21:37:35+00:00"
    ],
    "reopened": 0,
-   "title": "Tech Lead Manager, Core Apps Data Scientist",
+   "title": "Tech Lead Manager, Claude Code Data Scientist",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5464493008"
   },
   "5464894008": {
@@ -12883,6 +12887,21 @@
    "title": "Staff+ Software Engineer, Safeguards Evals",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5477379008"
   },
+  "5477416008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "research engineer ai monitoring @ london, uk",
+   "location": "London, UK",
+   "posted_at": "2026-11-16T21:28:41+00:00",
+   "posted_history": [
+    "2026-11-16T21:28:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Research Engineer, AI Monitoring",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5477416008"
+  },
   "5477464008": {
    "closed_at": null,
    "department": "",
@@ -13108,6 +13127,21 @@
    "title": "GTM Narrative Lead",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5481671008"
   },
+  "5481842008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "gtm strategy operations strategic planning @ new york city, ny; san francisco, ca | new york city, ny",
+   "location": "New York City, NY; San Francisco, CA | New York City, NY",
+   "posted_at": "2026-11-16T18:10:36+00:00",
+   "posted_history": [
+    "2026-11-16T18:10:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "GTM Strategy & Operations - Strategic Planning",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5481842008"
+  },
   "5481980008": {
    "closed_at": null,
    "department": "",
@@ -13122,6 +13156,81 @@
    "reopened": 0,
    "title": "Technical Program Manager, Life Sciences Research (Genetic Medicine)",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5481980008"
+  },
+  "5482207008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "head of pmo workplace @ new york city, ny; san francisco, ca | new york city, ny; seattle, wa",
+   "location": "New York City, NY; San Francisco, CA | New York City, NY; Seattle, WA",
+   "posted_at": "2026-11-17T01:27:33+00:00",
+   "posted_history": [
+    "2026-11-17T01:27:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Head of PMO, Workplace",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5482207008"
+  },
+  "5482310008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "docs lead platform @ san francisco, ca | new york city, ny",
+   "location": "San Francisco, CA | New York City, NY",
+   "posted_at": "2026-11-16T22:11:44+00:00",
+   "posted_history": [
+    "2026-11-16T22:11:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Docs Lead, Platform",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5482310008"
+  },
+  "5484035008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "applied ai architect beneficial deployments @ san francisco, ca | new york city, ny",
+   "location": "San Francisco, CA | New York City, NY",
+   "posted_at": "2026-11-16T23:14:39+00:00",
+   "posted_history": [
+    "2026-11-16T23:14:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Applied AI Architect, Beneficial Deployments (Non-Profits)",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5484035008"
+  },
+  "5484144008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "staff software engineer deployment @ london, uk",
+   "location": "London, UK",
+   "posted_at": "2026-11-17T00:33:44+00:00",
+   "posted_history": [
+    "2026-11-17T00:33:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff+ Software Engineer, Deployment",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5484144008"
+  },
+  "5484171008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "software engineer datacenter server lifecycle @ remote-friendly, united states",
+   "location": "Remote-Friendly, United States",
+   "posted_at": "2026-11-17T01:53:14+00:00",
+   "posted_history": [
+    "2026-11-17T01:53:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Datacenter Server Lifecycle",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5484171008"
   }
  }
 }

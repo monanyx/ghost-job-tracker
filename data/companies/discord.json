@@ -115,11 +115,15 @@
   {
    "date": "2026-11-16",
    "open": 26
+  },
+  {
+   "date": "2026-11-17",
+   "open": 25
   }
  ],
  "jobs": {
   "8214127002": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -464,7 +468,7 @@
    "url": "https://job-boards.greenhouse.io/discord/jobs/8703614002"
   },
   "8722538002": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -522,6 +526,21 @@
    "reopened": 0,
    "title": "Senior Stock Administrator",
    "url": "https://job-boards.greenhouse.io/discord/jobs/8757366002"
+  },
+  "8761356002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "engineering manager machine learning safety @ san francisco bay area or remote (u.s.)",
+   "location": "San Francisco Bay Area or Remote (U.S.)",
+   "posted_at": "2026-11-17T01:44:31+00:00",
+   "posted_history": [
+    "2026-11-17T01:44:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager, Machine Learning - Safety",
+   "url": "https://job-boards.greenhouse.io/discord/jobs/8761356002"
   },
   "8769799002": {
    "closed_at": null,

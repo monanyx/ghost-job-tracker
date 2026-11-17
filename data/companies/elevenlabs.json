@@ -115,6 +115,10 @@
   {
    "date": "2026-11-16",
    "open": 124
+  },
+  {
+   "date": "2026-11-17",
+   "open": 122
   }
  ],
  "jobs": {
@@ -773,7 +777,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/31a6f0f4-8e1d-4d77-9d00-026ed12213f2"
   },
   "33bb01d0-993c-47fa-ae91-81c0c84f367e": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "Growth",
    "evergreen": false,
    "first_seen": "2026-11-02T11:41:30+00:00",
@@ -1000,7 +1004,7 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/3b7a423c-01fd-4405-ab9a-ee51ed354ba9"
   },
   "3b807ff1-a6b0-4f1c-b4f4-6ab265ac6d2f": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "Engineering & Product",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1409,17 +1413,18 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/6a530871-b6c6-4783-ac6b-69cc3b084192"
   },
   "6b5a902d-49ea-4fa9-ab67-d6e88c361695": {
-   "closed_at": "2026-11-10T11:47:05+00:00",
+   "closed_at": null,
    "department": "Engineering & Product",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "deployment strategist lead india @ india",
    "location": "India",
-   "posted_at": "2026-08-20T00:10:41+00:00",
+   "posted_at": "2026-11-16T17:22:45+00:00",
    "posted_history": [
-    "2026-08-20T00:10:41+00:00"
+    "2026-08-20T00:10:41+00:00",
+    "2026-11-16T17:22:45+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Deployment Strategist Lead - India",
    "url": "https://jobs.ashbyhq.com/ElevenLabs/6b5a902d-49ea-4fa9-ab67-d6e88c361695"
   },
@@ -1453,6 +1458,21 @@
    "reopened": 1,
    "title": "Sales Lead - Mid-Market - East",
    "url": "https://jobs.ashbyhq.com/ElevenLabs/6d4c4080-b53b-4b00-8b1d-3ec1e0955135"
+  },
+  "6de4d812-1c2e-4e3e-942a-54d20e5f6cc6": {
+   "closed_at": null,
+   "department": "Revenue",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "account executive enterprise media and entertainment @ united states",
+   "location": "United States",
+   "posted_at": "2026-11-16T13:44:06+00:00",
+   "posted_history": [
+    "2026-11-16T13:44:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive - Enterprise - Media and Entertainment",
+   "url": "https://jobs.ashbyhq.com/ElevenLabs/6de4d812-1c2e-4e3e-942a-54d20e5f6cc6"
   },
   "6e1b66a8-8d2e-43b0-9076-9748b84bcfab": {
    "closed_at": "2026-11-10T11:47:05+00:00",
@@ -1519,7 +1539,7 @@
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "head of financial services amer @ remote",
+   "fp": "head of financial services us enterprise @ remote",
    "location": "Remote",
    "posted_at": "2026-10-23T16:29:39+00:00",
    "posted_history": [
@@ -1527,7 +1547,7 @@
     "2026-10-23T16:29:39+00:00"
    ],
    "reopened": 1,
-   "title": "Head of Financial Services, AMER",
+   "title": "Head of Financial Services - US Enterprise",
    "url": "https://jobs.ashbyhq.com/ElevenLabs/7209ce9f-3c69-4dbb-adbb-6c6c068ebad0"
   },
   "7389c057-3e25-4e7a-8a03-5e80f40a15a0": {
@@ -1546,7 +1566,7 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/7389c057-3e25-4e7a-8a03-5e80f40a15a0"
   },
   "750a8325-7ce1-45ea-b0b1-61dab78a456e": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "Engineering & Product",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
@@ -1653,19 +1673,20 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/7ab03a75-830a-40ee-b4e5-bf83b31b1d24"
   },
   "7d01b1ec-511d-40bf-a6ed-88b212932edb": {
-   "closed_at": "2026-11-06T11:30:42+00:00",
+   "closed_at": null,
    "department": "Finance",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "deal operations strategist @ united states",
    "location": "United States",
-   "posted_at": "2026-07-06T14:55:32+00:00",
+   "posted_at": "2026-11-17T01:01:03+00:00",
    "posted_history": [
-    "2026-07-06T14:55:32+00:00"
+    "2026-07-06T14:55:32+00:00",
+    "2026-11-17T01:01:03+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Deal Operations Strategist",
-   "url": "https://jobs.ashbyhq.com/elevenlabs/7d01b1ec-511d-40bf-a6ed-88b212932edb"
+   "url": "https://jobs.ashbyhq.com/ElevenLabs/7d01b1ec-511d-40bf-a6ed-88b212932edb"
   },
   "7d29f7f7-158a-42e0-a6be-0ceba630863c": {
    "closed_at": "2026-11-05T11:30:12+00:00",
@@ -2092,7 +2113,7 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/9aca205e-b2bc-405b-85d6-3d2aadbe49b1"
   },
   "9c44055f-3246-42ab-8bb6-d89258a8c43a": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "Operations",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -2366,7 +2387,7 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/ac7cc39a-a58b-4ef2-961a-ca16e060a361"
   },
   "b050f85c-70d5-4da6-8224-bf9f8f4c5563": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "Operations",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
@@ -2432,7 +2453,7 @@
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "head of public sector amer @ washington, d.c.",
+   "fp": "head of public sector us @ washington, d.c.",
    "location": "Washington, D.C.",
    "posted_at": "2026-11-02T16:56:43+00:00",
    "posted_history": [
@@ -2440,7 +2461,7 @@
     "2026-11-02T16:56:43+00:00"
    ],
    "reopened": 0,
-   "title": "Head of Public Sector, AMER",
+   "title": "Head of Public Sector, US",
    "url": "https://jobs.ashbyhq.com/ElevenLabs/b43e388f-f204-41c5-a2bc-ee3bc1281e39"
   },
   "b85d7749-5b12-4f3c-87e9-61a477da77aa": {
@@ -2613,7 +2634,7 @@
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "head of healthcare amer @ remote",
+   "fp": "head of healthcare us enterprise @ remote",
    "location": "Remote",
    "posted_at": "2026-10-23T16:29:12+00:00",
    "posted_history": [
@@ -2621,7 +2642,7 @@
     "2026-10-23T16:29:12+00:00"
    ],
    "reopened": 1,
-   "title": "Head of Healthcare, AMER",
+   "title": "Head of Healthcare - US Enterprise",
    "url": "https://jobs.ashbyhq.com/ElevenLabs/c4085864-14ca-4959-a3f8-3a4015c76eb5"
   },
   "c4e0d704-c7eb-4d6d-b71b-23bfd86fe463": {
@@ -2960,6 +2981,21 @@
    "title": "Proposal Manager",
    "url": "https://jobs.ashbyhq.com/ElevenLabs/db8e1ff9-5a5a-49ed-89ea-93f993e5a65f"
   },
+  "dc9950e5-88da-4070-8fa2-c1813f24fe94": {
+   "closed_at": null,
+   "department": "Revenue",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "account manager nordics @ sweden",
+   "location": "Sweden",
+   "posted_at": "2026-11-16T14:50:25+00:00",
+   "posted_history": [
+    "2026-11-16T14:50:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Manager - Nordics",
+   "url": "https://jobs.ashbyhq.com/ElevenLabs/dc9950e5-88da-4070-8fa2-c1813f24fe94"
+  },
   "e062d169-7294-4125-bc7b-e3a821dcd620": {
    "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "Growth",
@@ -3267,7 +3303,7 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/f00cd4ae-3429-43a9-9e78-247ca3e4c404"
   },
   "f090d901-2305-4e72-b09d-32b7e2e0ca49": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

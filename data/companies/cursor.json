@@ -115,6 +115,10 @@
   {
    "date": "2026-11-16",
    "open": 97
+  },
+  {
+   "date": "2026-11-17",
+   "open": 95
   }
  ],
  "jobs": {
@@ -284,7 +288,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/053a8b5a-32bc-4a08-8dad-b4fc20f2883c"
   },
   "06675830-9b99-4347-8436-8110ca9c99a4": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
@@ -1684,14 +1688,14 @@
    "department": "Revenue Operations",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
-   "fp": "deal desk manager apj @ singapore",
+   "fp": "head of deal desk apj @ singapore",
    "location": "Singapore",
    "posted_at": "2026-11-09T20:32:17+00:00",
    "posted_history": [
     "2026-11-09T20:32:17+00:00"
    ],
    "reopened": 0,
-   "title": "Deal Desk Manager, APJ",
+   "title": "Head of Deal Desk, APJ",
    "url": "https://jobs.ashbyhq.com/cursor/5aff7957-9655-4cc1-98d8-813e33aeb380"
   },
   "5b744208-cb2c-4c31-9217-e0cbbf8ad7af": {
@@ -2596,7 +2600,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/94cc6684-9dbf-43f9-8ffc-405614e64ddd"
   },
   "95dbf92c-6593-4f2b-af1f-7deccf155750": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "User Ops",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",

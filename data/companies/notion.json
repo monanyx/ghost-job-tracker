@@ -115,6 +115,10 @@
   {
    "date": "2026-11-16",
    "open": 165
+  },
+  {
+   "date": "2026-11-17",
+   "open": 164
   }
  ],
  "jobs": {
@@ -2703,7 +2707,7 @@
    "url": "https://jobs.ashbyhq.com/notion/e7c18c11-c8ab-47cf-afb6-6bfc61b5e74f"
   },
   "e95ff317-92fe-4e34-88da-a83fe093f017": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

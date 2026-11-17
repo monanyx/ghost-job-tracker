@@ -115,6 +115,10 @@
   {
    "date": "2026-11-16",
    "open": 396
+  },
+  {
+   "date": "2026-11-17",
+   "open": 400
   }
  ],
  "jobs": {
@@ -1109,7 +1113,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=7607210"
   },
   "7613587": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1484,7 +1488,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=7779016"
   },
   "7779540": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2039,7 +2043,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8008794"
   },
   "8013287": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4244,7 +4248,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8173745"
   },
   "8173777": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4949,7 +4953,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8208113"
   },
   "8208271": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6809,18 +6813,18 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8304692"
   },
   "8305331": {
-   "closed_at": "2026-11-16T12:03:27+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
-   "fp": "senior software engineer app modernization @ sydney",
+   "fp": "staff software engineer app analysis @ sydney",
    "location": "Sydney",
    "posted_at": "2026-10-21T08:38:28+00:00",
    "posted_history": [
     "2026-10-21T08:38:28+00:00"
    ],
-   "reopened": 0,
-   "title": "Senior Software Engineer, App Modernization",
+   "reopened": 1,
+   "title": "Staff Software Engineer, App Analysis",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8305331"
   },
   "8305915": {
@@ -7113,8 +7117,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-12T11:51:19+00:00",
-   "fp": "business systems analyst 3 @ gurugram",
-   "location": "Gurugram",
+   "fp": "business systems analyst 3 @ bengaluru; gurugram",
+   "location": "Bengaluru; Gurugram",
    "posted_at": "2026-11-11T16:20:59+00:00",
    "posted_history": [
     "2026-11-11T16:20:59+00:00"
@@ -7678,6 +7682,21 @@
    "title": "Senior Product Manager, Marketing AI",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8355989"
   },
+  "8358101": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "senior software engineer @ gurugram",
+   "location": "Gurugram",
+   "posted_at": "2026-11-17T11:23:14+00:00",
+   "posted_history": [
+    "2026-11-17T11:23:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer (Enterprise Advanced)",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8358101"
+  },
   "8358879": {
    "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
@@ -7743,14 +7762,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-11T11:27:30+00:00",
-   "fp": "it support lead @ new york city",
+   "fp": "manager it support @ new york city",
    "location": "New York City",
    "posted_at": "2026-11-10T20:55:30+00:00",
    "posted_history": [
     "2026-11-10T20:55:30+00:00"
    ],
    "reopened": 0,
-   "title": "IT Support Lead",
+   "title": "Manager, IT Support",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8360183"
   },
   "8360228": {
@@ -7918,6 +7937,21 @@
    "title": "Senior Regional Employee Experience Manager",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8367280"
   },
+  "8367498": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "principal engagement architect @ new york city",
+   "location": "New York City",
+   "posted_at": "2026-11-16T19:48:22+00:00",
+   "posted_history": [
+    "2026-11-16T19:48:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Engagement Architect",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8367498"
+  },
   "8367902": {
    "closed_at": null,
    "department": "",
@@ -7998,14 +8032,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-12T11:51:19+00:00",
-   "fp": "contract recruiter @ new york city",
+   "fp": "contract recruiter corporate @ new york city",
    "location": "New York City",
    "posted_at": "2026-11-11T18:04:47+00:00",
    "posted_history": [
     "2026-11-11T18:04:47+00:00"
    ],
    "reopened": 0,
-   "title": "Contract Recruiter",
+   "title": "Contract Recruiter, Corporate (6 months)",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8378846"
   },
   "8379386": {
@@ -8128,6 +8162,21 @@
    "title": "Talent Discovery Sourcer",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8381920"
   },
+  "8381944": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "senior software engineer @ dublin, ireland",
+   "location": "Dublin, Ireland",
+   "posted_at": "2026-11-17T10:26:04+00:00",
+   "posted_history": [
+    "2026-11-17T10:26:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8381944"
+  },
   "8383022": {
    "closed_at": null,
    "department": "",
@@ -8203,6 +8252,66 @@
    "title": "Manager, Customer Success Operations",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8383215"
   },
+  "8383708": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "engineering manager workload resilience @ united states",
+   "location": "United States",
+   "posted_at": "2026-11-16T22:39:44+00:00",
+   "posted_history": [
+    "2026-11-16T22:39:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager, Workload Resilience",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8383708"
+  },
+  "8383710": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "engineering manager workload resilience @ british columbia; ontario",
+   "location": "British Columbia; Ontario",
+   "posted_at": "2026-11-16T22:39:46+00:00",
+   "posted_history": [
+    "2026-11-16T22:39:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager, Workload Resilience",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8383710"
+  },
+  "8384213": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "manager sales development @ toronto",
+   "location": "Toronto",
+   "posted_at": "2026-11-16T18:59:49+00:00",
+   "posted_history": [
+    "2026-11-16T18:59:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Sales Development",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8384213"
+  },
+  "8384442": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "customer success manager @ los angeles; salt lake city; san diego",
+   "location": "Los Angeles; Salt Lake City; San Diego",
+   "posted_at": "2026-11-16T16:25:45+00:00",
+   "posted_history": [
+    "2026-11-16T16:25:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Success Manager",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8384442"
+  },
   "8384766": {
    "closed_at": null,
    "department": "",
@@ -8277,6 +8386,21 @@
    "reopened": 0,
    "title": "Program Manager",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8386495"
+  },
+  "8393203": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "associate account executive @ london",
+   "location": "London",
+   "posted_at": "2026-11-16T16:39:39+00:00",
+   "posted_history": [
+    "2026-11-16T16:39:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Associate Account Executive",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8393203"
   }
  }
 }

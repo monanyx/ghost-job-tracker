@@ -115,6 +115,10 @@
   {
    "date": "2026-11-16",
    "open": 85
+  },
+  {
+   "date": "2026-11-17",
+   "open": 83
   }
  ],
  "jobs": {
@@ -1469,7 +1473,7 @@
    "url": "https://instacart.careers/job/?gh_jid=8237079"
   },
   "8237126": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1484,7 +1488,7 @@
    "url": "https://instacart.careers/job/?gh_jid=8237126"
   },
   "8237127": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2234,7 +2238,7 @@
    "url": "https://instacart.careers/job/?gh_jid=8336883"
   },
   "8337521": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -2309,7 +2313,7 @@
    "url": "https://instacart.careers/job/?gh_jid=8347897"
   },
   "8355990": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-06T11:30:42+00:00",
@@ -2324,7 +2328,7 @@
    "url": "https://instacart.careers/job/?gh_jid=8355990"
   },
   "8355992": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-06T11:30:42+00:00",
@@ -2652,6 +2656,51 @@
    "reopened": 0,
    "title": "Senior iOS Engineer",
    "url": "https://instacart.careers/job/?gh_jid=8386574"
+  },
+  "8394152": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "senior product designer ii commerce retailer platform @ united states - remote",
+   "location": "United States - Remote",
+   "posted_at": "2026-11-16T20:55:32+00:00",
+   "posted_history": [
+    "2026-11-16T20:55:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Designer II - Commerce & Retailer Platform",
+   "url": "https://instacart.careers/job/?gh_jid=8394152"
+  },
+  "8394157": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "senior product designer ii commerce retailer platform @ canada - remote (on, ab, bc, or ns only)",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-11-16T20:56:36+00:00",
+   "posted_history": [
+    "2026-11-16T20:56:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Designer II - Commerce & Retailer Platform",
+   "url": "https://instacart.careers/job/?gh_jid=8394157"
+  },
+  "8394386": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "sales engineer @ united states - remote",
+   "location": "United States - Remote",
+   "posted_at": "2026-11-16T22:25:23+00:00",
+   "posted_history": [
+    "2026-11-16T22:25:23+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales Engineer",
+   "url": "https://instacart.careers/job/?gh_jid=8394386"
   }
  }
 }

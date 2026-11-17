@@ -115,6 +115,10 @@
   {
    "date": "2026-11-16",
    "open": 388
+  },
+  {
+   "date": "2026-11-17",
+   "open": 386
   }
  ],
  "jobs": {
@@ -1632,7 +1636,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/3188a79d-c5f2-40c3-8f9f-bf1c37938f9f"
   },
   "31cfe42b-6c69-4a73-9913-01ae85a8e68a": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "Marketing",
    "evergreen": false,
    "first_seen": "2026-11-05T11:30:12+00:00",
@@ -2282,7 +2286,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/4a82c276-1113-41f6-baf9-a5be27e5c78f"
   },
   "4b990a09-e6f7-49db-af7d-213f647f1a86": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "Go to Market",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2342,7 +2346,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/4d661139-19ad-42af-9f6c-a68c71263e14"
   },
   "4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2568,6 +2572,21 @@
    "title": "Senior Infrastructure Engineer",
    "url": "https://jobs.ashbyhq.com/harvey/54770fc2-8dc0-4812-bfc5-0f4d628b97d9"
   },
+  "56357288-3ba6-4808-8121-becc6c1efe38": {
+   "closed_at": null,
+   "department": "IT",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "senior ai enablement engineer gtm @ new york",
+   "location": "New York",
+   "posted_at": "2026-11-16T14:30:36+00:00",
+   "posted_history": [
+    "2026-11-16T14:30:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior AI Enablement Engineer, GTM",
+   "url": "https://jobs.ashbyhq.com/harvey/56357288-3ba6-4808-8121-becc6c1efe38"
+  },
   "56483928-e6b1-4e30-b5fa-2539494fe620": {
    "closed_at": null,
    "department": "Security",
@@ -2588,8 +2607,8 @@
    "department": "Go to Market",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "account executive mid market @ london",
-   "location": "London",
+   "fp": "account executive mid market @ dublin",
+   "location": "Dublin",
    "posted_at": "2026-10-02T16:43:22+00:00",
    "posted_history": [
     "2026-10-02T16:43:22+00:00"
@@ -3130,14 +3149,14 @@
    "department": "Product",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "staff product manager agents @ san francisco",
+   "fp": "senior staff product manager agents @ san francisco",
    "location": "San Francisco",
    "posted_at": "2026-10-14T22:22:57+00:00",
    "posted_history": [
     "2026-10-14T22:22:57+00:00"
    ],
    "reopened": 0,
-   "title": "Staff Product Manager, Agents",
+   "title": "Senior / Staff Product Manager, Agents",
    "url": "https://jobs.ashbyhq.com/harvey/68bb5519-f4a5-4fa4-ba47-886f0abc36d8"
   },
   "6926b8ea-a3bc-4f29-bcc7-5ed70780b4c6": {
@@ -3926,6 +3945,21 @@
    "reopened": 0,
    "title": "Integrated Campaigns Lead",
    "url": "https://jobs.ashbyhq.com/harvey/83215ffd-c901-4cd6-8081-35e072e966cd"
+  },
+  "83a438ac-a6f8-4388-983a-ec95155a2604": {
+   "closed_at": null,
+   "department": "Go to Market",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "sales manager mid market @ new york",
+   "location": "New York",
+   "posted_at": "2026-11-16T14:58:15+00:00",
+   "posted_history": [
+    "2026-11-16T14:58:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales Manager, Mid-Market",
+   "url": "https://jobs.ashbyhq.com/harvey/83a438ac-a6f8-4388-983a-ec95155a2604"
   },
   "83cc77b3-1616-4448-95a9-698dd228b9f9": {
    "closed_at": null,
@@ -4951,7 +4985,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/a5d3cbcd-60e4-4420-b332-f936bb4bc46b"
   },
   "a6bfcd6d-a899-4e11-bb61-57f2d9f35dec": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "Product",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5070,6 +5104,21 @@
    "reopened": 0,
    "title": "Program Manager, Product Systems and Insights",
    "url": "https://jobs.ashbyhq.com/harvey/aa5babaa-bd03-45d2-beea-c159a8bec305"
+  },
+  "ab302989-8958-4bdd-9110-5c13c8810986": {
+   "closed_at": null,
+   "department": "IT",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "senior ai enablement engineer gtm @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-11-16T14:31:50+00:00",
+   "posted_history": [
+    "2026-11-16T14:31:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior AI Enablement Engineer, GTM",
+   "url": "https://jobs.ashbyhq.com/harvey/ab302989-8958-4bdd-9110-5c13c8810986"
   },
   "ab6790b4-11b5-4a1f-8e92-c572eb18a9f0": {
    "closed_at": null,
@@ -5314,7 +5363,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/b0570329-6c45-4446-9314-146c9dead90b"
   },
   "b0996df6-6b6e-42be-a4f9-0084536068f5": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6283,6 +6332,21 @@
    "title": "Staff Product Designer",
    "url": "https://jobs.ashbyhq.com/harvey/d527a336-24e3-46ef-8d05-1da557c7bff4"
   },
+  "d61a55d8-2480-40be-928d-e9f476ea76ce": {
+   "closed_at": null,
+   "department": "IT",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "senior ai enablement engineer gtm @ remote",
+   "location": "Remote",
+   "posted_at": "2026-11-16T14:31:09+00:00",
+   "posted_history": [
+    "2026-11-16T14:31:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior AI Enablement Engineer, GTM",
+   "url": "https://jobs.ashbyhq.com/harvey/d61a55d8-2480-40be-928d-e9f476ea76ce"
+  },
   "d629fa64-599d-435c-b4ef-a925299ddac8": {
    "closed_at": null,
    "department": "Product",
@@ -6675,7 +6739,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/e0d05322-1dd6-4271-bd15-825108273807"
   },
   "e196283b-5615-4688-a37b-4fe325a6ec3d": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "Security",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

@@ -115,6 +115,10 @@
   {
    "date": "2026-11-16",
    "open": 264
+  },
+  {
+   "date": "2026-11-17",
+   "open": 263
   }
  ],
  "jobs": {
@@ -445,7 +449,7 @@
     "2026-06-17T13:57:28+00:00"
    ],
    "reopened": 0,
-   "title": "Associate Deployment Engineer - Galaxy Graduate Program (German/French/Italian speaking)",
+   "title": "Associate Deployment Engineer - Galaxy Graduate Program (German/French/Italian/Portuguese Speaking)",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7627711003?gh_jid=7627711003"
   },
   "7627719003": {
@@ -528,14 +532,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-11T11:27:30+00:00",
-   "fp": "senior applied value engineer @ bangalore, india",
+   "fp": "senior applied value engineer cpgr cmt nam @ bangalore, india",
    "location": "Bangalore, India",
    "posted_at": "2026-03-26T07:02:17+00:00",
    "posted_history": [
     "2026-03-26T07:02:17+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Applied Value Engineer",
+   "title": "Senior Applied Value Engineer -CPGR/CMT - NAM",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7635158003?gh_jid=7635158003"
   },
   "7635174003": {
@@ -644,7 +648,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7635374003?gh_jid=7635374003"
   },
   "7635542003": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
@@ -1139,7 +1143,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7775171003?gh_jid=7775171003"
   },
   "7775183003": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4724,7 +4728,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8200166003?gh_jid=8200166003"
   },
   "8200179003": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
@@ -5352,6 +5356,36 @@
    "reopened": 0,
    "title": "Senior Strategic Presales and Solutions Consultant (AI)",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8204701003?gh_jid=8204701003"
+  },
+  "8204772003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "senior value engineer @ amsterdam, netherlands",
+   "location": "Amsterdam, Netherlands",
+   "posted_at": "2026-11-16T14:03:50+00:00",
+   "posted_history": [
+    "2026-11-16T14:03:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Value Engineer",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/8204772003?gh_jid=8204772003"
+  },
+  "8205462003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "principal enterprise architect @ zürich, switzerland",
+   "location": "Zürich, Switzerland",
+   "posted_at": "2026-11-16T16:10:14+00:00",
+   "posted_history": [
+    "2026-11-16T16:10:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Enterprise Architect",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/8205462003?gh_jid=8205462003"
   }
  }
 }

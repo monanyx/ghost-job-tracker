@@ -115,6 +115,10 @@
   {
    "date": "2026-11-16",
    "open": 107
+  },
+  {
+   "date": "2026-11-17",
+   "open": 113
   }
  ],
  "jobs": {
@@ -1034,7 +1038,7 @@
    "url": "https://www.asana.com/jobs/apply/8129531?gh_jid=8129531"
   },
   "8131896": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1469,7 +1473,7 @@
    "url": "https://www.asana.com/jobs/apply/8221174?gh_jid=8221174"
   },
   "8226969": {
-   "closed_at": "2026-11-03T11:21:29+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1479,7 +1483,7 @@
    "posted_history": [
     "2026-10-19T21:23:05+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Staff Software Engineer, Data Loading Infrastructure",
    "url": "https://www.asana.com/jobs/apply/8226969?gh_jid=8226969"
   },
@@ -2218,6 +2222,36 @@
    "title": "People Partner",
    "url": "https://www.asana.com/jobs/apply/8318046?gh_jid=8318046"
   },
+  "8318674": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "staff software engineer asm @ vancouver, bc",
+   "location": "Vancouver, BC",
+   "posted_at": "2026-11-16T17:24:31+00:00",
+   "posted_history": [
+    "2026-11-16T17:24:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer, ASM",
+   "url": "https://www.asana.com/jobs/apply/8318674?gh_jid=8318674"
+  },
+  "8318739": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "product manager @ warsaw",
+   "location": "Warsaw",
+   "posted_at": "2026-11-16T13:09:46+00:00",
+   "posted_history": [
+    "2026-11-16T13:09:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Manager",
+   "url": "https://www.asana.com/jobs/apply/8318739?gh_jid=8318739"
+  },
   "8319678": {
    "closed_at": null,
    "department": "",
@@ -2428,6 +2462,36 @@
    "title": "Workplace Lead",
    "url": "https://www.asana.com/jobs/apply/8357119?gh_jid=8357119"
   },
+  "8357334": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "smb account executive @ chicago",
+   "location": "Chicago",
+   "posted_at": "2026-11-16T18:47:27+00:00",
+   "posted_history": [
+    "2026-11-16T18:47:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "SMB Account Executive",
+   "url": "https://www.asana.com/jobs/apply/8357334?gh_jid=8357334"
+  },
+  "8367544": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "head of content design @ vancouver, bc",
+   "location": "Vancouver, BC",
+   "posted_at": "2026-11-16T22:20:31+00:00",
+   "posted_history": [
+    "2026-11-16T22:20:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Head of Content Design",
+   "url": "https://www.asana.com/jobs/apply/8367544?gh_jid=8367544"
+  },
   "8369132": {
    "closed_at": null,
    "department": "",
@@ -2442,6 +2506,36 @@
    "reopened": 0,
    "title": "Staff Product Designer, AI",
    "url": "https://www.asana.com/jobs/apply/8369132?gh_jid=8369132"
+  },
+  "8370078": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "software engineer android @ warsaw",
+   "location": "Warsaw",
+   "posted_at": "2026-11-16T13:30:42+00:00",
+   "posted_history": [
+    "2026-11-16T13:30:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Android",
+   "url": "https://www.asana.com/jobs/apply/8370078?gh_jid=8370078"
+  },
+  "8375451": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "program manager @ warsaw",
+   "location": "Warsaw",
+   "posted_at": "2026-11-16T14:04:23+00:00",
+   "posted_history": [
+    "2026-11-16T14:04:23+00:00"
+   ],
+   "reopened": 0,
+   "title": "Program Manager",
+   "url": "https://www.asana.com/jobs/apply/8375451?gh_jid=8375451"
   },
   "8379094": {
    "closed_at": null,

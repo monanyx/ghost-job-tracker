@@ -115,6 +115,10 @@
   {
    "date": "2026-11-16",
    "open": 179
+  },
+  {
+   "date": "2026-11-17",
+   "open": 179
   }
  ],
  "jobs": {
@@ -1050,7 +1054,7 @@
    "url": "https://jobs.ashbyhq.com/ramp/4e64ab86-4e30-403b-b1b9-41dc052570ce"
   },
   "4e6fffef-bb23-4623-ad86-95b840dd51be": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2734,7 +2738,7 @@
    "url": "https://jobs.ashbyhq.com/ramp/bca0346c-b843-4795-96df-6091f51e421b"
   },
   "bdd28c40-f95b-43df-bebe-3b8a25c8f602": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "People & Talent",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3261,6 +3265,36 @@
    "reopened": 0,
    "title": "Customer Activation Manager | Strategic Enterprise",
    "url": "https://jobs.ashbyhq.com/ramp/f330ccd7-59f5-4032-82b0-4448482769e4"
+  },
+  "f34619af-0475-4987-83b9-eb926b4bb07a": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "customer success manager strategic @ new york, ny (hq)",
+   "location": "New York, NY (HQ)",
+   "posted_at": "2026-11-16T22:38:33+00:00",
+   "posted_history": [
+    "2026-11-16T22:38:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Success Manager, Strategic",
+   "url": "https://jobs.ashbyhq.com/ramp/f34619af-0475-4987-83b9-eb926b4bb07a"
+  },
+  "f424733c-6dc9-4194-82a5-c658812a946e": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "solutions lead @ london, uk",
+   "location": "London, UK",
+   "posted_at": "2026-11-17T00:07:46+00:00",
+   "posted_history": [
+    "2026-11-17T00:07:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "Solutions Lead",
+   "url": "https://jobs.ashbyhq.com/ramp/f424733c-6dc9-4194-82a5-c658812a946e"
   },
   "f4545aaa-c98b-4134-b250-f12dc46ad6a8": {
    "closed_at": null,

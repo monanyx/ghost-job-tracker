@@ -115,6 +115,10 @@
   {
    "date": "2026-11-16",
    "open": 384
+  },
+  {
+   "date": "2026-11-17",
+   "open": 380
   }
  ],
  "jobs": {
@@ -3029,7 +3033,7 @@
    "url": "https://careers.datadoghq.com/detail/8030324/?gh_jid=8030324"
   },
   "8030598": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3224,7 +3228,7 @@
    "url": "https://careers.datadoghq.com/detail/8052114/?gh_jid=8052114"
   },
   "8052118": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3464,7 +3468,7 @@
    "url": "https://careers.datadoghq.com/detail/8091967/?gh_jid=8091967"
   },
   "8092004": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3629,7 +3633,7 @@
    "url": "https://careers.datadoghq.com/detail/8096181/?gh_jid=8096181"
   },
   "8096323": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4724,7 +4728,7 @@
    "url": "https://careers.datadoghq.com/detail/8166231/?gh_jid=8166231"
   },
   "8167729": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5129,7 +5133,7 @@
    "url": "https://careers.datadoghq.com/detail/8186363/?gh_jid=8186363"
   },
   "8188800": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5653,6 +5657,21 @@
    "title": "Global Safety & Security Manager",
    "url": "https://careers.datadoghq.com/detail/8223272/?gh_jid=8223272"
   },
+  "8223733": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "executive recruiter @ boston, massachusetts, usa; new york, new york, usa",
+   "location": "Boston, Massachusetts, USA; New York, New York, USA",
+   "posted_at": "2026-11-16T19:04:22+00:00",
+   "posted_history": [
+    "2026-11-16T19:04:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Executive Recruiter",
+   "url": "https://careers.datadoghq.com/detail/8223733/?gh_jid=8223733"
+  },
   "8223819": {
    "closed_at": "2026-10-28T10:01:46+00:00",
    "department": "",
@@ -5774,7 +5793,7 @@
    "url": "https://careers.datadoghq.com/detail/8230270/?gh_jid=8230270"
   },
   "8230620": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6138,14 +6157,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "commercial customer success manager dach @ dublin, ireland",
-   "location": "Dublin, Ireland",
+   "fp": "customer success manager dach @ amsterdam, the netherlands; dublin, ireland",
+   "location": "Amsterdam, The Netherlands; Dublin, Ireland",
    "posted_at": "2026-10-09T08:49:45+00:00",
    "posted_history": [
     "2026-10-09T08:49:45+00:00"
    ],
    "reopened": 0,
-   "title": "Commercial Customer Success Manager (Key Accounts) - DACH",
+   "title": "Customer Success Manager (Key Accounts) - DACH",
    "url": "https://careers.datadoghq.com/detail/8243071/?gh_jid=8243071"
   },
   "8243549": {
@@ -7558,6 +7577,21 @@
    "title": "Customer Success Manager (Key Accounts ) - Nordics",
    "url": "https://careers.datadoghq.com/detail/8330644/?gh_jid=8330644"
   },
+  "8331059": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "executive recruiter @ dublin, ireland; london, united kingdom",
+   "location": "Dublin, Ireland; London, United Kingdom",
+   "posted_at": "2026-11-16T19:04:25+00:00",
+   "posted_history": [
+    "2026-11-16T19:04:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Executive Recruiter",
+   "url": "https://careers.datadoghq.com/detail/8331059/?gh_jid=8331059"
+  },
   "8333737": {
    "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "",
@@ -7812,6 +7846,21 @@
    "reopened": 0,
    "title": "Director, People Business Partner",
    "url": "https://careers.datadoghq.com/detail/8346056/?gh_jid=8346056"
+  },
+  "8346224": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "senior forward deployed engineer @ new york, new york, usa",
+   "location": "New York, New York, USA",
+   "posted_at": "2026-11-16T22:01:15+00:00",
+   "posted_history": [
+    "2026-11-16T22:01:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Forward Deployed Engineer",
+   "url": "https://careers.datadoghq.com/detail/8346224/?gh_jid=8346224"
   },
   "8346246": {
    "closed_at": null,

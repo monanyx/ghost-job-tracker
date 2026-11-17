@@ -115,9 +115,28 @@
   {
    "date": "2026-11-16",
    "open": 44
+  },
+  {
+   "date": "2026-11-17",
+   "open": 49
   }
  ],
  "jobs": {
+  "4591201101": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "software engineer python @ vienna, vienna, austria",
+   "location": "Vienna, Vienna, Austria",
+   "posted_at": "2025-05-16T14:46:47+00:00",
+   "posted_history": [
+    "2025-05-16T14:46:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Python (Asset Pricing & Hedging)",
+   "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4591201101"
+  },
   "4643990101": {
    "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "",
@@ -268,6 +287,21 @@
    "title": "Open Application",
    "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4872578101"
   },
+  "4880524101": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "software engineer rust python @ vienna, vienna, austria",
+   "location": "Vienna, Vienna, Austria",
+   "posted_at": "2026-06-02T11:08:00+00:00",
+   "posted_history": [
+    "2026-06-02T11:08:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Rust & Python (Asset Pricing & Hedging)",
+   "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4880524101"
+  },
   "4914511101": {
    "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
@@ -403,6 +437,21 @@
    "title": "Product Manager – Securities & Commodities",
    "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4954936101"
   },
+  "4963196101": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "software engineer java @ vienna, vienna, austria",
+   "location": "Vienna, Vienna, Austria",
+   "posted_at": "2026-11-16T19:41:41+00:00",
+   "posted_history": [
+    "2026-11-16T19:41:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Java (Prime Services)",
+   "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4963196101"
+  },
   "4966607101": {
    "closed_at": "2026-10-22T08:55:54+00:00",
    "department": "",
@@ -433,8 +482,23 @@
    "title": "Associate, Customer Support - Live chat",
    "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4969789101"
   },
-  "4983426101": {
+  "4979476101": {
    "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "senior engineer golang @ bucurești, bucharest, romania",
+   "location": "București, Bucharest, Romania",
+   "posted_at": "2026-11-16T13:49:02+00:00",
+   "posted_history": [
+    "2026-11-16T13:49:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Engineer, Golang",
+   "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4979476101"
+  },
+  "4983426101": {
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -449,7 +513,7 @@
    "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4983426101"
   },
   "4987239101": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -779,7 +843,7 @@
    "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5009828101"
   },
   "5011135101": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -1077,6 +1141,66 @@
    "reopened": 0,
    "title": "Business Operations Specialist",
    "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5035788101"
+  },
+  "5036740101": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "senior specialist business operations @ vienna, vienna, austria",
+   "location": "Vienna, Vienna, Austria",
+   "posted_at": "2026-11-16T22:25:12+00:00",
+   "posted_history": [
+    "2026-11-16T22:25:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Specialist, Business Operations (Crypto)",
+   "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5036740101"
+  },
+  "5036744101": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "senior specialist business operations @ vienna, vienna, austria",
+   "location": "Vienna, Vienna, Austria",
+   "posted_at": "2026-11-16T22:25:28+00:00",
+   "posted_history": [
+    "2026-11-16T22:25:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Specialist, Business Operations (Fusion)",
+   "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5036744101"
+  },
+  "5036928101": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "software engineer golang @ bucurești, bucharest, romania",
+   "location": "București, Bucharest, Romania",
+   "posted_at": "2026-11-17T09:11:19+00:00",
+   "posted_history": [
+    "2026-11-17T09:11:19+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Golang",
+   "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5036928101"
+  },
+  "5039100101": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "senior software engineer java @ vienna, vienna, austria",
+   "location": "Vienna, Vienna, Austria",
+   "posted_at": "2026-11-17T09:50:44+00:00",
+   "posted_history": [
+    "2026-11-17T09:50:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Java",
+   "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5039100101"
   }
  }
 }

@@ -115,6 +115,10 @@
   {
    "date": "2026-11-16",
    "open": 71
+  },
+  {
+   "date": "2026-11-17",
+   "open": 74
   }
  ],
  "jobs": {
@@ -929,7 +933,7 @@
    "url": "https://boards.greenhouse.io/chime/jobs/8840205002?gh_jid=8840205002"
   },
   "8842932002": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1469,7 +1473,7 @@
    "url": "https://boards.greenhouse.io/chime/jobs/8922481002?gh_jid=8922481002"
   },
   "8922747002": {
-   "closed_at": null,
+   "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
@@ -1497,6 +1501,21 @@
    "reopened": 0,
    "title": "Senior Training Lead",
    "url": "https://boards.greenhouse.io/chime/jobs/8928783002?gh_jid=8928783002"
+  },
+  "8929303002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "director strategic forecasting @ san francisco, ca, usa",
+   "location": "San Francisco, CA, USA",
+   "posted_at": "2026-11-16T21:39:29+00:00",
+   "posted_history": [
+    "2026-11-16T21:39:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Director, Strategic Forecasting",
+   "url": "https://boards.greenhouse.io/chime/jobs/8929303002?gh_jid=8929303002"
   },
   "8929507002": {
    "closed_at": null,
@@ -1528,6 +1547,21 @@
    "title": "Tech Lead Manager, Human Agent Tooling",
    "url": "https://boards.greenhouse.io/chime/jobs/8932327002?gh_jid=8932327002"
   },
+  "8932546002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "director incident availability engineering @ san francisco, ca, usa",
+   "location": "San Francisco, CA, USA",
+   "posted_at": "2026-11-16T21:43:00+00:00",
+   "posted_history": [
+    "2026-11-16T21:43:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Director, Incident & Availability Engineering",
+   "url": "https://boards.greenhouse.io/chime/jobs/8932546002?gh_jid=8932546002"
+  },
   "8933682002": {
    "closed_at": null,
    "department": "",
@@ -1557,6 +1591,51 @@
    "reopened": 0,
    "title": "Sr. Product Marketing Manager, Lending",
    "url": "https://boards.greenhouse.io/chime/jobs/8940707002?gh_jid=8940707002"
+  },
+  "8941673002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "staff data scientist product marketing @ san francisco, ca, usa",
+   "location": "San Francisco, CA, USA",
+   "posted_at": "2026-11-16T18:44:42+00:00",
+   "posted_history": [
+    "2026-11-16T18:44:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Data Scientist, Product Marketing",
+   "url": "https://boards.greenhouse.io/chime/jobs/8941673002?gh_jid=8941673002"
+  },
+  "8943054002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "sr growth product marketing manager @ san francisco, ca, usa",
+   "location": "San Francisco, CA, USA",
+   "posted_at": "2026-11-16T21:47:55+00:00",
+   "posted_history": [
+    "2026-11-16T21:47:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Growth Product Marketing Manager",
+   "url": "https://boards.greenhouse.io/chime/jobs/8943054002?gh_jid=8943054002"
+  },
+  "8945757002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-17T12:29:08+00:00",
+   "fp": "sr crm operations manager @ san francisco, ca, usa",
+   "location": "San Francisco, CA, USA",
+   "posted_at": "2026-11-16T21:49:52+00:00",
+   "posted_history": [
+    "2026-11-16T21:49:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. CRM Operations Manager",
+   "url": "https://boards.greenhouse.io/chime/jobs/8945757002?gh_jid=8945757002"
   }
  }
 }
