@@ -119,6 +119,10 @@
   {
    "date": "2026-11-17",
    "open": 200
+  },
+  {
+   "date": "2026-11-18",
+   "open": 202
   }
  ],
  "jobs": {
@@ -843,7 +847,7 @@
    "url": "https://www.riotgames.com/en/work-with-us/job/7981585?gh_jid=7981585"
   },
   "7984204": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1263,7 +1267,7 @@
    "url": "https://www.riotgames.com/en/work-with-us/job/8078074?gh_jid=8078074"
   },
   "8078139": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1657,14 +1661,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior brand manager eastern europe valorant @ berlin, germany",
+   "fp": "senior brand manager valorant eastern europe @ berlin, germany",
    "location": "Berlin, Germany",
    "posted_at": "2026-08-25T08:59:09+00:00",
    "posted_history": [
     "2026-08-25T08:59:09+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Brand Manager Eastern Europe - VALORANT",
+   "title": "Senior Brand Manager – VALORANT Eastern Europe",
    "url": "https://www.riotgames.com/en/work-with-us/job/8156010?gh_jid=8156010"
   },
   "8160864": {
@@ -3707,6 +3711,36 @@
    "title": "Gameplay Capture Artist II",
    "url": "https://www.riotgames.com/en/work-with-us/job/8368323?gh_jid=8368323"
   },
+  "8368570": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "principal 3d environment artist valorant maps @ los angeles, usa; mercer island, usa",
+   "location": "Los Angeles, USA; Mercer Island, USA",
+   "posted_at": "2026-11-17T19:39:49+00:00",
+   "posted_history": [
+    "2026-11-17T19:39:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal 3D Environment Artist - VALORANT, Maps",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8368570?gh_jid=8368570"
+  },
+  "8368573": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "senior 3d environment artist valorant maps @ los angeles, usa; mercer island, usa",
+   "location": "Los Angeles, USA; Mercer Island, USA",
+   "posted_at": "2026-11-17T19:38:55+00:00",
+   "posted_history": [
+    "2026-11-17T19:38:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior 3D Environment Artist - VALORANT, Maps",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8368573?gh_jid=8368573"
+  },
   "8369218": {
    "closed_at": null,
    "department": "",
@@ -3826,6 +3860,36 @@
    "reopened": 0,
    "title": "Manager, Software Engineering - SRE Site Lead: Dublin ROC",
    "url": "https://www.riotgames.com/en/work-with-us/job/8385235?gh_jid=8385235"
+  },
+  "8393589": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "esports competitive operations @ berlin, germany",
+   "location": "Berlin, Germany",
+   "posted_at": "2026-11-17T12:30:16+00:00",
+   "posted_history": [
+    "2026-11-17T12:30:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Esports Competitive Operations",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8393589?gh_jid=8393589"
+  },
+  "8394988": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "brand manager valorant mobile @ shanghai, china",
+   "location": "Shanghai, China",
+   "posted_at": "2026-11-18T07:07:03+00:00",
+   "posted_history": [
+    "2026-11-18T07:07:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Brand Manager - VALORANT Mobile",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8394988?gh_jid=8394988"
   }
  }
 }

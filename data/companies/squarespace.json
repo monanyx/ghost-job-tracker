@@ -119,6 +119,10 @@
   {
    "date": "2026-11-17",
    "open": 17
+  },
+  {
+   "date": "2026-11-18",
+   "open": 17
   }
  ],
  "jobs": {
@@ -258,7 +262,7 @@
    "url": "http://www.squarespace.com/about/careers?gh_jid=8079468"
   },
   "8101306": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -586,6 +590,21 @@
    "reopened": 0,
    "title": "Senior Manager, Data Science and Machine Learning",
    "url": "http://www.squarespace.com/about/careers?gh_jid=8249791"
+  },
+  "8286760": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "enterprise transformation senior lead @ new york city",
+   "location": "New York City",
+   "posted_at": "2026-11-17T15:17:50+00:00",
+   "posted_history": [
+    "2026-11-17T15:17:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Transformation, Senior Lead",
+   "url": "http://www.squarespace.com/about/careers?gh_jid=8286760"
   },
   "8349561": {
    "closed_at": null,

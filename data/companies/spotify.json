@@ -119,6 +119,10 @@
   {
    "date": "2026-11-17",
    "open": 87
+  },
+  {
+   "date": "2026-11-18",
+   "open": 91
   }
  ],
  "jobs": {
@@ -482,6 +486,21 @@
    "title": "Staff Machine Learning Engineer, Home Surfaces",
    "url": "https://jobs.lever.co/spotify/281e7db9-86ba-4a1c-8773-c23b96ed32dc"
   },
+  "288ef608-a1e5-4127-b606-3a9981640f91": {
+   "closed_at": null,
+   "department": "Experience",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "senior machine learning engineer content intelligence @ london",
+   "location": "London",
+   "posted_at": "2026-06-09T08:55:07+00:00",
+   "posted_history": [
+    "2026-06-09T08:55:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Machine Learning Engineer - Content Intelligence",
+   "url": "https://jobs.lever.co/spotify/288ef608-a1e5-4127-b606-3a9981640f91"
+  },
   "29252640-3fc6-4ba9-8dac-2838093bab96": {
    "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "Marketing",
@@ -723,7 +742,7 @@
    "url": "https://jobs.lever.co/spotify/56ea6f2e-f20b-4e46-ab94-d3eb0a89482d"
   },
   "5861816e-7ac4-4921-8e90-8e093707e27d": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "Experience",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -797,6 +816,21 @@
    "title": "Staff Machine Learning Engineer, Home Surfaces",
    "url": "https://jobs.lever.co/spotify/6af8894a-752f-4485-be70-a6685e5fd696"
   },
+  "6ddd19d7-b4ed-4a1f-b8e9-3e6e55066d4b": {
+   "closed_at": null,
+   "department": "Content Business",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "editor uk ireland @ london",
+   "location": "London",
+   "posted_at": "2026-11-17T12:11:22+00:00",
+   "posted_history": [
+    "2026-11-17T12:11:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Editor, UK & Ireland",
+   "url": "https://jobs.lever.co/spotify/6ddd19d7-b4ed-4a1f-b8e9-3e6e55066d4b"
+  },
   "6eb9ce0e-5372-4a4f-b2fa-d005f9426750": {
    "closed_at": null,
    "department": "Personalization",
@@ -856,6 +890,21 @@
    "reopened": 0,
    "title": "Artist Label Partnerships Manager, Taiwan",
    "url": "https://jobs.lever.co/spotify/77526d53-3811-4336-9c0d-72f6ac0242c7"
+  },
+  "77d3435e-569e-4644-876d-afc960da8d0a": {
+   "closed_at": null,
+   "department": "Music Marketing",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "associate artist label partnerships manager south korea @ seoul",
+   "location": "Seoul",
+   "posted_at": "2026-11-17T06:26:32+00:00",
+   "posted_history": [
+    "2026-11-17T06:26:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Associate Artist Label Partnerships Manager, South Korea",
+   "url": "https://jobs.lever.co/spotify/77d3435e-569e-4644-876d-afc960da8d0a"
   },
   "785989a6-b219-43b1-92d9-750a67054f24": {
    "closed_at": null,
@@ -1412,6 +1461,21 @@
    "title": "Fullstack Engineer - Backstage",
    "url": "https://jobs.lever.co/spotify/ac7b1bb0-2300-47a4-8d9d-f80e9392bd19"
   },
+  "b24fe5e5-dcb2-4238-a883-5fdb6bd404db": {
+   "closed_at": null,
+   "department": "Accounting",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "accounting analyst content accounting @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-11-13T10:27:28+00:00",
+   "posted_history": [
+    "2026-11-13T10:27:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Accounting Analyst, Content Accounting",
+   "url": "https://jobs.lever.co/spotify/b24fe5e5-dcb2-4238-a883-5fdb6bd404db"
+  },
   "b459a23c-18bd-43f6-a8fa-2a3165c8dac7": {
    "closed_at": null,
    "department": "Personalization",
@@ -1741,6 +1805,21 @@
    "reopened": 0,
    "title": "Tax Analyst",
    "url": "https://jobs.lever.co/spotify/d2489df3-87cb-48bb-81af-83aab5f03bdc"
+  },
+  "d83cbddf-871a-4f9a-9b29-52cd676e2b3c": {
+   "closed_at": null,
+   "department": "Experience",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "senior machine learning engineer policy safety @ london",
+   "location": "London",
+   "posted_at": "2026-05-04T07:54:01+00:00",
+   "posted_history": [
+    "2026-05-04T07:54:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Machine Learning Engineer - Policy & Safety",
+   "url": "https://jobs.lever.co/spotify/d83cbddf-871a-4f9a-9b29-52cd676e2b3c"
   },
   "d86e7feb-15df-434d-8054-b7fb65010586": {
    "closed_at": "2026-11-06T11:30:42+00:00",

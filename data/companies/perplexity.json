@@ -119,6 +119,10 @@
   {
    "date": "2026-11-17",
    "open": 148
+  },
+  {
+   "date": "2026-11-18",
+   "open": 147
   }
  ],
  "jobs": {
@@ -2715,7 +2719,7 @@
    "url": "https://jobs.ashbyhq.com/Perplexity/f45ba174-7e99-4743-9d19-6e4d3e196458"
   },
   "f4d81f6b-958c-4bc0-a9aa-9850c3508ca9": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "Finance",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

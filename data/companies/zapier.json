@@ -119,22 +119,27 @@
   {
    "date": "2026-11-17",
    "open": 10
+  },
+  {
+   "date": "2026-11-18",
+   "open": 11
   }
  ],
  "jobs": {
   "04838dc8-0efa-4fe5-b705-c99f6b3f17c6": {
-   "closed_at": "2026-11-06T11:30:42+00:00",
+   "closed_at": null,
    "department": "Legal",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "legal counsel @ namer",
+   "fp": "legal counsel ai legal engineering @ namer",
    "location": "NAMER",
-   "posted_at": "2026-09-18T02:48:49+00:00",
+   "posted_at": "2026-11-17T21:29:42+00:00",
    "posted_history": [
-    "2026-09-18T02:48:49+00:00"
+    "2026-09-18T02:48:49+00:00",
+    "2026-11-17T21:29:42+00:00"
    ],
-   "reopened": 0,
-   "title": "Legal Counsel",
+   "reopened": 1,
+   "title": "Legal Counsel, AI & Legal Engineering",
    "url": "https://jobs.ashbyhq.com/zapier/04838dc8-0efa-4fe5-b705-c99f6b3f17c6"
   },
   "1e5d20ae-d2ce-4924-9957-73a8c7c17654": {
@@ -232,14 +237,14 @@
    "department": "Data",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "manager analytics strategy @ namer",
+   "fp": "sr manager analytics strategy @ namer",
    "location": "NAMER",
    "posted_at": "2026-08-26T15:46:24+00:00",
    "posted_history": [
     "2026-08-26T15:46:24+00:00"
    ],
    "reopened": 0,
-   "title": "Manager, Analytics & Strategy",
+   "title": "Sr. Manager, Analytics & Strategy",
    "url": "https://jobs.ashbyhq.com/zapier/7dd68291-3696-4fd0-a5d0-24ab73d22fff"
   },
   "904eb3dd-2cc0-48af-bb54-8ade5f7db686": {

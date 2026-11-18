@@ -119,6 +119,10 @@
   {
    "date": "2026-11-17",
    "open": 263
+  },
+  {
+   "date": "2026-11-18",
+   "open": 263
   }
  ],
  "jobs": {
@@ -2238,7 +2242,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7885816003?gh_jid=7885816003"
   },
   "7885824003": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2553,7 +2557,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7977884003?gh_jid=7977884003"
   },
   "7979056003": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3318,7 +3322,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8014300003?gh_jid=8014300003"
   },
   "8014366003": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4096,6 +4100,21 @@
    "reopened": 0,
    "title": "Principal Deployment Engineer",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8042510003?gh_jid=8042510003"
+  },
+  "8042632003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "account executive cross industries @ zürich, switzerland",
+   "location": "Zürich, Switzerland",
+   "posted_at": "2026-11-18T11:28:56+00:00",
+   "posted_history": [
+    "2026-11-18T11:28:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive - Cross Industries",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/8042632003?gh_jid=8042632003"
   },
   "8042640003": {
    "closed_at": null,
@@ -5386,6 +5405,36 @@
    "reopened": 0,
    "title": "Principal Enterprise Architect",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8205462003?gh_jid=8205462003"
+  },
+  "8207711003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "senior deployment engineer @ madrid, spain",
+   "location": "Madrid, Spain",
+   "posted_at": "2026-11-17T21:43:02+00:00",
+   "posted_history": [
+    "2026-11-17T21:43:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Deployment Engineer",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/8207711003?gh_jid=8207711003"
+  },
+  "8208041003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "account executive cross industries @ remote, switzerland",
+   "location": "Remote, Switzerland",
+   "posted_at": "2026-11-18T11:32:17+00:00",
+   "posted_history": [
+    "2026-11-18T11:32:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive - Cross Industries",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/8208041003?gh_jid=8208041003"
   }
  }
 }

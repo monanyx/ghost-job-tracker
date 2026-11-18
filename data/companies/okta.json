@@ -119,11 +119,15 @@
   {
    "date": "2026-11-17",
    "open": 358
+  },
+  {
+   "date": "2026-11-18",
+   "open": 357
   }
  ],
  "jobs": {
   "5772061": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -258,7 +262,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/7013572?gh_jid=7013572"
   },
   "7013622": {
-   "closed_at": "2026-10-28T10:01:46+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -268,7 +272,7 @@
    "posted_history": [
     "2026-09-09T19:28:10+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Sales Development Representative, Central",
    "url": "https://www.okta.com/company/careers/opportunity/7013622?gh_jid=7013622"
   },
@@ -1622,6 +1626,21 @@
    "title": "Senior Product Manager - UI Platform",
    "url": "https://www.okta.com/company/careers/opportunity/8022482?gh_jid=8022482"
   },
+  "8022979": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "senior product designer @ bengaluru",
+   "location": "Bengaluru",
+   "posted_at": "2026-11-18T06:27:01+00:00",
+   "posted_history": [
+    "2026-11-18T06:27:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Designer",
+   "url": "https://www.okta.com/company/careers/opportunity/8022979?gh_jid=8022979"
+  },
   "8036362": {
    "closed_at": "2026-11-06T11:30:42+00:00",
    "department": "",
@@ -2763,7 +2782,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8128431?gh_jid=8128431"
   },
   "8128435": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2943,7 +2962,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8139374?gh_jid=8139374"
   },
   "8139694": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2973,7 +2992,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8139696?gh_jid=8139696"
   },
   "8139707": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3003,7 +3022,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8139717?gh_jid=8139717"
   },
   "8141274": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -3378,7 +3397,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8165103?gh_jid=8165103"
   },
   "8167464": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3468,7 +3487,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8175690?gh_jid=8175690"
   },
   "8176095": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-14T10:56:25+00:00",
@@ -3828,7 +3847,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8201507?gh_jid=8201507"
   },
   "8201589": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4727,6 +4746,21 @@
    "title": "Engineering Manager, Governance Intelligence",
    "url": "https://www.okta.com/company/careers/opportunity/8237524?gh_jid=8237524"
   },
+  "8237676": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "senior software engineer enterprise access team @ toronto, on, canada",
+   "location": "Toronto, ON, Canada",
+   "posted_at": "2026-10-02T18:18:42+00:00",
+   "posted_history": [
+    "2026-10-02T18:18:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer - Enterprise Access Team",
+   "url": "https://www.okta.com/company/careers/opportunity/8237676?gh_jid=8237676"
+  },
   "8237681": {
    "closed_at": null,
    "department": "",
@@ -4747,14 +4781,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior software engineer @ toronto, ontario, canada",
-   "location": "Toronto, Ontario, Canada",
+   "fp": "senior software engineer developer experience @ toronto, on, canada",
+   "location": "Toronto, ON, Canada",
    "posted_at": "2026-09-28T18:20:53+00:00",
    "posted_history": [
     "2026-09-28T18:20:53+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Software Engineer",
+   "title": "Senior Software Engineer, Developer Experience (CI/CD & Release Engineering)",
    "url": "https://www.okta.com/company/careers/opportunity/8237695?gh_jid=8237695"
   },
   "8237969": {
@@ -4998,7 +5032,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8241309?gh_jid=8241309"
   },
   "8241679": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5182,8 +5216,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior software engineer oig @ bellevue, washington; san francisco, california",
-   "location": "Bellevue, Washington; San Francisco, California",
+   "fp": "senior software engineer oig @ san francisco, ca, united states",
+   "location": "San Francisco, CA, United States",
    "posted_at": "2026-09-30T15:30:23+00:00",
    "posted_history": [
     "2026-09-30T15:30:23+00:00"
@@ -5272,8 +5306,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "staff software engineer @ san francisco, california",
-   "location": "San Francisco, California",
+   "fp": "staff software engineer @ san francisco, ca, united states",
+   "location": "San Francisco, CA, United States",
    "posted_at": "2026-09-30T19:25:24+00:00",
    "posted_history": [
     "2026-09-30T19:25:24+00:00"
@@ -5467,8 +5501,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior product manager okta for ai agents @ bellevue, washington; chicago, illinois; new york, new york; san francisco, california; washington, dc",
-   "location": "Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Washington, DC",
+   "fp": "senior product manager okta for ai agents @ san francisco, ca, united states",
+   "location": "San Francisco, CA, United States",
    "posted_at": "2026-10-08T15:00:17+00:00",
    "posted_history": [
     "2026-10-08T15:00:17+00:00"
@@ -5568,7 +5602,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8257554?gh_jid=8257554"
   },
   "8258366": {
-   "closed_at": "2026-10-27T09:20:56+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5578,7 +5612,7 @@
    "posted_history": [
     "2026-10-07T12:23:47+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Solutions Engineer, UK&I",
    "url": "https://www.okta.com/company/careers/opportunity/8258366?gh_jid=8258366"
   },
@@ -6288,7 +6322,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8284216?gh_jid=8284216"
   },
   "8284930": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6303,7 +6337,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8284930?gh_jid=8284930"
   },
   "8285002": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6648,7 +6682,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8289604?gh_jid=8289604"
   },
   "8289693": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
@@ -6753,7 +6787,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8289910?gh_jid=8289910"
   },
   "8289915": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7098,7 +7132,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8304288?gh_jid=8304288"
   },
   "8304868": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -7357,8 +7391,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
-   "fp": "software architect ai systems and platform @ san francisco, california",
-   "location": "San Francisco, California",
+   "fp": "software architect ai systems and platform @ san francisco, ca, united states",
+   "location": "San Francisco, CA, United States",
    "posted_at": "2026-10-23T21:54:20+00:00",
    "posted_history": [
     "2026-10-23T21:54:20+00:00"
@@ -7387,8 +7421,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
-   "fp": "sr software engineer ai platform infrastructure @ san francisco, california",
-   "location": "San Francisco, California",
+   "fp": "sr software engineer ai platform infrastructure @ san francisco, ca, united states",
+   "location": "San Francisco, CA, United States",
    "posted_at": "2026-10-23T22:29:17+00:00",
    "posted_history": [
     "2026-10-23T22:29:17+00:00"
@@ -7402,8 +7436,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
-   "fp": "staff software engineer ai platform infrastructure @ san francisco, california",
-   "location": "San Francisco, California",
+   "fp": "staff software engineer ai platform infrastructure @ san francisco, ca, united states",
+   "location": "San Francisco, CA, United States",
    "posted_at": "2026-10-24T00:26:43+00:00",
    "posted_history": [
     "2026-10-24T00:26:43+00:00"
@@ -7552,8 +7586,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-14T10:56:25+00:00",
-   "fp": "strategic account executive auth0 @ louisiana; new york, new york; north carolina; south carolina; tennessee; virginia",
-   "location": "Louisiana; New York, New York; North Carolina; South Carolina; Tennessee; Virginia",
+   "fp": "strategic account executive auth0 @ new york, new york, united states",
+   "location": "New York, New York, United States",
    "posted_at": "2026-11-13T18:34:14+00:00",
    "posted_history": [
     "2026-11-13T18:34:14+00:00"
@@ -7563,7 +7597,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8331195?gh_jid=8331195"
   },
   "8331368": {
-   "closed_at": "2026-10-30T10:28:19+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
@@ -7573,7 +7607,7 @@
    "posted_history": [
     "2026-10-28T18:42:34+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "People Partner Specialist",
    "url": "https://www.okta.com/company/careers/opportunity/8331368?gh_jid=8331368"
   },
@@ -8237,6 +8271,21 @@
    "title": "Demo Engineering Developer",
    "url": "https://www.okta.com/company/careers/opportunity/8377182?gh_jid=8377182"
   },
+  "8378013": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "engineering manager @ bengaluru",
+   "location": "Bengaluru",
+   "posted_at": "2026-11-17T13:25:29+00:00",
+   "posted_history": [
+    "2026-11-17T13:25:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager",
+   "url": "https://www.okta.com/company/careers/opportunity/8378013?gh_jid=8378013"
+  },
   "8382952": {
    "closed_at": null,
    "department": "",
@@ -8267,6 +8316,21 @@
    "title": "Director, Product Security, PSIRT",
    "url": "https://www.okta.com/company/careers/opportunity/8383373?gh_jid=8383373"
   },
+  "8384001": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "senior software engineer data platform @ bellevue, wa, united states",
+   "location": "Bellevue, WA, United States",
+   "posted_at": "2026-11-17T17:04:21+00:00",
+   "posted_history": [
+    "2026-11-17T17:04:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Data Platform",
+   "url": "https://www.okta.com/company/careers/opportunity/8384001?gh_jid=8384001"
+  },
   "8384032": {
    "closed_at": null,
    "department": "",
@@ -8283,7 +8347,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8384032?gh_jid=8384032"
   },
   "8384384": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-14T10:56:25+00:00",
@@ -8311,6 +8375,36 @@
    "reopened": 0,
    "title": "Sales Development Representative - UKI",
    "url": "https://www.okta.com/company/careers/opportunity/8385349?gh_jid=8385349"
+  },
+  "8385706": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "staff site reliability engineer @ bellevue, wa, united states",
+   "location": "Bellevue, WA, United States",
+   "posted_at": "2026-11-17T18:12:25+00:00",
+   "posted_history": [
+    "2026-11-17T18:12:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Site Reliability Engineer",
+   "url": "https://www.okta.com/company/careers/opportunity/8385706?gh_jid=8385706"
+  },
+  "8385710": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "staff software engineer @ washington d.c.",
+   "location": "Washington D.C.",
+   "posted_at": "2026-11-18T00:30:54+00:00",
+   "posted_history": [
+    "2026-11-18T00:30:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer",
+   "url": "https://www.okta.com/company/careers/opportunity/8385710?gh_jid=8385710"
   },
   "8385852": {
    "closed_at": null,
@@ -8341,6 +8435,81 @@
    "reopened": 0,
    "title": "Senior SMB Customer Account Executive (East)",
    "url": "https://www.okta.com/company/careers/opportunity/8385863?gh_jid=8385863"
+  },
+  "8395428": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "engineering manager @ bengaluru",
+   "location": "Bengaluru",
+   "posted_at": "2026-11-17T13:26:36+00:00",
+   "posted_history": [
+    "2026-11-17T13:26:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager",
+   "url": "https://www.okta.com/company/careers/opportunity/8395428?gh_jid=8395428"
+  },
+  "8395735": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "senior software engineer identity threat protection @ toronto, on, canada",
+   "location": "Toronto, ON, Canada",
+   "posted_at": "2026-11-17T18:10:03+00:00",
+   "posted_history": [
+    "2026-11-17T18:10:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Identity Threat Protection",
+   "url": "https://www.okta.com/company/careers/opportunity/8395735?gh_jid=8395735"
+  },
+  "8396676": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "staff software engineer okta identity governance @ bellevue, wa, united states; new york, new york, united states; washington d.c.",
+   "location": "Bellevue, WA, United States; New York, New York, United States; Washington D.C.",
+   "posted_at": "2026-11-17T22:15:49+00:00",
+   "posted_history": [
+    "2026-11-17T22:15:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer - Okta Identity Governance",
+   "url": "https://www.okta.com/company/careers/opportunity/8396676?gh_jid=8396676"
+  },
+  "8396722": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "senior software development engineer in test okta identity governance @ toronto, on, canada",
+   "location": "Toronto, ON, Canada",
+   "posted_at": "2026-11-17T23:59:10+00:00",
+   "posted_history": [
+    "2026-11-17T23:59:10+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Development Engineer in Test - Okta Identity Governance",
+   "url": "https://www.okta.com/company/careers/opportunity/8396722?gh_jid=8396722"
+  },
+  "8396761": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "senior software engineer @ toronto, on, canada",
+   "location": "Toronto, ON, Canada",
+   "posted_at": "2026-11-18T00:48:59+00:00",
+   "posted_history": [
+    "2026-11-18T00:48:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer",
+   "url": "https://www.okta.com/company/careers/opportunity/8396761?gh_jid=8396761"
   }
  }
 }

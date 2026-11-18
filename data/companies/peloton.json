@@ -119,6 +119,10 @@
   {
    "date": "2026-11-17",
    "open": 36
+  },
+  {
+   "date": "2026-11-18",
+   "open": 38
   }
  ],
  "jobs": {
@@ -168,18 +172,18 @@
    "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=7568872"
   },
   "7718331": {
-   "closed_at": "2026-10-28T10:01:46+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "manager dimensional metrology engineering @ linden, new jersey",
+   "fp": "dimensional metrology engineer iii @ linden, new jersey",
    "location": "Linden, New Jersey",
    "posted_at": "2026-04-24T20:01:43+00:00",
    "posted_history": [
     "2026-04-24T20:01:43+00:00"
    ],
-   "reopened": 0,
-   "title": "Manager, Dimensional & Metrology Engineering",
+   "reopened": 1,
+   "title": "Dimensional & Metrology Engineer III",
    "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=7718331"
   },
   "7785644": {
@@ -213,7 +217,7 @@
    "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=7785648"
   },
   "7953889": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1292,6 +1296,21 @@
    "title": "Associate Production Director",
    "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8338265"
   },
+  "8384619": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "sr analyst gtm finance @ new york, new york",
+   "location": "New York, New York",
+   "posted_at": "2026-11-17T21:16:59+00:00",
+   "posted_history": [
+    "2026-11-17T21:16:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Analyst, GTM Finance",
+   "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8384619"
+  },
   "8384770": {
    "closed_at": null,
    "department": "",
@@ -1321,6 +1340,21 @@
    "reopened": 0,
    "title": "Peloton Expert (Full-Time) - Calgary Retail",
    "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8384776"
+  },
+  "8393491": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "lead expert international plaza and bay street @ tampa, florida",
+   "location": "Tampa, Florida",
+   "posted_at": "2026-11-17T15:21:00+00:00",
+   "posted_history": [
+    "2026-11-17T15:21:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Lead Expert - International Plaza and Bay Street",
+   "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8393491"
   }
  }
 }

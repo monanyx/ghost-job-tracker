@@ -119,6 +119,10 @@
   {
    "date": "2026-11-17",
    "open": 80
+  },
+  {
+   "date": "2026-11-18",
+   "open": 77
   }
  ],
  "jobs": {
@@ -183,7 +187,7 @@
    "url": "https://jobs.ashbyhq.com/vanta/0ab177a8-3ea8-4b91-9a55-bfef435b0cfc"
   },
   "0c4ff8a3-c916-467b-b3e2-053f009f3ba4": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -271,6 +275,21 @@
    "reopened": 0,
    "title": "Staff Product Designer, Design Systems",
    "url": "https://jobs.ashbyhq.com/vanta/0fcbc935-76c7-4eac-b522-af421ed200c9"
+  },
+  "10098ac6-b0c1-4ba6-9903-6c5ebe85fe1e": {
+   "closed_at": null,
+   "department": "Revenue",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "business development representative @ dublin, ireland",
+   "location": "Dublin, Ireland",
+   "posted_at": "2026-11-17T11:53:27+00:00",
+   "posted_history": [
+    "2026-11-17T11:53:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Business Development Representative [French Fluency]",
+   "url": "https://jobs.ashbyhq.com/vanta/10098ac6-b0c1-4ba6-9903-6c5ebe85fe1e"
   },
   "102dbbdc-882a-4bcf-bf69-ec9fe9351a29": {
    "closed_at": null,
@@ -1159,7 +1178,7 @@
    "url": "https://jobs.ashbyhq.com/vanta/adcc38ca-79e9-4788-893d-bcdf03db10b2"
   },
   "b01ad813-3dd3-4603-ab81-75b14772b43b": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "Software Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1565,7 +1584,7 @@
    "url": "https://jobs.ashbyhq.com/vanta/ecdf2c04-47a5-4360-a664-4341b9b355ce"
   },
   "ed31b882-0d92-4bcd-a0e7-bed3a7d04ec4": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1745,7 +1764,7 @@
    "url": "https://jobs.ashbyhq.com/vanta/fb60fcb9-6a5f-45d4-988d-a7a36c798724"
   },
   "fedc71ba-ef1d-454c-9536-ce87333a23c7": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "Software Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

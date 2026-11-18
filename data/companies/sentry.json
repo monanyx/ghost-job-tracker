@@ -119,6 +119,10 @@
   {
    "date": "2026-11-17",
    "open": 39
+  },
+  {
+   "date": "2026-11-18",
+   "open": 40
   }
  ],
  "jobs": {
@@ -398,14 +402,14 @@
    "department": "Marketing ",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior developer experience engineer @ san francisco, california",
+   "fp": "staff developer experience engineer @ san francisco, california",
    "location": "San Francisco, California",
    "posted_at": "2025-12-09T21:40:56+00:00",
    "posted_history": [
     "2025-12-09T21:40:56+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Developer Experience Engineer",
+   "title": "Staff Developer Experience Engineer",
    "url": "https://jobs.ashbyhq.com/sentry/7ed2b263-3873-44c6-a730-2ca96100c58f"
   },
   "81f09568-da7d-4ed1-8283-614f846c9b00": {
@@ -797,6 +801,21 @@
    "reopened": 1,
    "title": "Security Engineer, Application Security",
    "url": "https://jobs.ashbyhq.com/sentry/dc1e73a4-3cb8-4269-82b5-fdc6495b7e83"
+  },
+  "dec0e283-d688-42b5-80a9-d5346392dd1c": {
+   "closed_at": null,
+   "department": "Sales ",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "named corporate account executive @ san francisco, california",
+   "location": "San Francisco, California",
+   "posted_at": "2026-11-17T21:21:43+00:00",
+   "posted_history": [
+    "2026-11-17T21:21:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Named Corporate Account Executive",
+   "url": "https://jobs.ashbyhq.com/sentry/dec0e283-d688-42b5-80a9-d5346392dd1c"
   },
   "ee7542d4-f478-4aa0-8da9-3583845d8269": {
    "closed_at": null,

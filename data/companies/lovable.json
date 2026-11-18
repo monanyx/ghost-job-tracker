@@ -119,6 +119,10 @@
   {
    "date": "2026-11-17",
    "open": 78
+  },
+  {
+   "date": "2026-11-18",
+   "open": 80
   }
  ],
  "jobs": {
@@ -1118,6 +1122,21 @@
    "title": "Data Scientist, Agent",
    "url": "https://jobs.ashbyhq.com/lovable/a1e49a18-7533-450f-b760-cef337f2f9e3"
   },
+  "a3984ab8-067f-45c4-a644-a2f60c9ed697": {
+   "closed_at": null,
+   "department": "EPD",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "staff software engineer enterprise @ new york city",
+   "location": "New York City",
+   "posted_at": "2026-11-17T18:56:05+00:00",
+   "posted_history": [
+    "2026-11-17T18:56:05+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer, Enterprise",
+   "url": "https://jobs.ashbyhq.com/lovable/a3984ab8-067f-45c4-a644-a2f60c9ed697"
+  },
   "a4e39bdc-b143-43ea-8077-a113445edbd2": {
    "closed_at": null,
    "department": "EPD",
@@ -1284,7 +1303,7 @@
    "url": "https://jobs.ashbyhq.com/lovable/cf5c382b-95a1-4c94-b3f4-f1181126bb2b"
   },
   "cf78be5e-41ca-478a-b480-0d0839c24543": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "EPD",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1600,6 +1619,36 @@
    "reopened": 1,
    "title": "Forward Deployed Engineering Lead",
    "url": "https://jobs.ashbyhq.com/lovable/f8590c0f-5374-4753-839b-e5c7315a71c2"
+  },
+  "fb1e1c16-b5e8-4c9e-81f1-4fe69ac157d1": {
+   "closed_at": null,
+   "department": "EPD",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "deployment strategist @ new york city",
+   "location": "New York City",
+   "posted_at": "2026-11-18T08:22:38+00:00",
+   "posted_history": [
+    "2026-11-18T08:22:38+00:00"
+   ],
+   "reopened": 0,
+   "title": "Deployment Strategist",
+   "url": "https://jobs.ashbyhq.com/lovable/fb1e1c16-b5e8-4c9e-81f1-4fe69ac157d1"
+  },
+  "fdd4c0a3-8b9f-45c4-82b9-865b444d5d8c": {
+   "closed_at": null,
+   "department": "EPD",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "staff software engineer enterprise @ london",
+   "location": "London",
+   "posted_at": "2026-11-17T18:57:30+00:00",
+   "posted_history": [
+    "2026-11-17T18:57:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer, Enterprise",
+   "url": "https://jobs.ashbyhq.com/lovable/fdd4c0a3-8b9f-45c4-82b9-865b444d5d8c"
   }
  }
 }

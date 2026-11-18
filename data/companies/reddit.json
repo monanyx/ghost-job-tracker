@@ -119,6 +119,10 @@
   {
    "date": "2026-11-17",
    "open": 148
+  },
+  {
+   "date": "2026-11-18",
+   "open": 146
   }
  ],
  "jobs": {
@@ -438,7 +442,7 @@
    "url": "https://job-boards.greenhouse.io/reddit/jobs/7895156"
   },
   "7909463": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1083,7 +1087,7 @@
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8089959"
   },
   "8090680": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1454,7 +1458,7 @@
     "2026-08-20T12:04:44+00:00"
    ],
    "reopened": 0,
-   "title": "Community Manager, French Speaking (Contract)",
+   "title": "Community Manager – French Speaking (12-Month Contract)",
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8143677"
   },
   "8143702": {
@@ -1593,7 +1597,7 @@
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8157580"
   },
   "8167412": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2429,7 +2433,7 @@
     "2026-10-13T08:09:25+00:00"
    ],
    "reopened": 0,
-   "title": "Community Manager, French Speaking (Contract)",
+   "title": "Community Manager – French Speaking (12-Month Contract)",
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8275964"
   },
   "8276095": {
@@ -3153,7 +3157,7 @@
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8382925"
   },
   "8393472": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-17T12:29:08+00:00",
@@ -3166,6 +3170,36 @@
    "reopened": 0,
    "title": "Community Manager, French Speaking (Contract)",
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8393472"
+  },
+  "8395504": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "manager business risk and ai automation @ remote - united states",
+   "location": "Remote - United States",
+   "posted_at": "2026-11-17T14:15:24+00:00",
+   "posted_history": [
+    "2026-11-17T14:15:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Business Risk and AI Automation",
+   "url": "https://job-boards.greenhouse.io/reddit/jobs/8395504"
+  },
+  "8396679": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "lead client partner large customer sales @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-17T23:20:50+00:00",
+   "posted_history": [
+    "2026-11-17T23:20:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Lead Client Partner, Large Customer Sales (Tech / AI)",
+   "url": "https://job-boards.greenhouse.io/reddit/jobs/8396679"
   }
  }
 }

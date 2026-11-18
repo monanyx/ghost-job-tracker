@@ -119,6 +119,10 @@
   {
    "date": "2026-11-17",
    "open": 87
+  },
+  {
+   "date": "2026-11-18",
+   "open": 87
   }
  ],
  "jobs": {
@@ -1218,7 +1222,7 @@
    "url": "https://job-boards.greenhouse.io/vercel/jobs/6181759004"
   },
   "6183272004": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1786,6 +1790,21 @@
    "reopened": 0,
    "title": "Manager, Startup Sales - Install Base",
    "url": "https://job-boards.greenhouse.io/vercel/jobs/6248603004"
+  },
+  "6262094004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "field marketing manager enterprise @ hybrid - san francisco",
+   "location": "Hybrid - San Francisco",
+   "posted_at": "2026-11-17T18:42:30+00:00",
+   "posted_history": [
+    "2026-11-17T18:42:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Field Marketing Manager, Enterprise",
+   "url": "https://job-boards.greenhouse.io/vercel/jobs/6262094004"
   },
   "6262657004": {
    "closed_at": null,

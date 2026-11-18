@@ -119,11 +119,15 @@
   {
    "date": "2026-11-17",
    "open": 315
+  },
+  {
+   "date": "2026-11-18",
+   "open": 313
   }
  ],
  "jobs": {
   "7266176": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -378,7 +382,7 @@
    "url": "https://www.samsara.com/company/careers/roles/7558150?gh_jid=7558150"
   },
   "7571463": {
-   "closed_at": "2026-11-17T12:29:08+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -388,7 +392,7 @@
    "posted_history": [
     "2026-01-29T11:18:51+00:00"
    ],
-   "reopened": 1,
+   "reopened": 2,
    "title": "Mid-Market Account Executive - France",
    "url": "https://www.samsara.com/company/careers/roles/7571463?gh_jid=7571463"
   },
@@ -727,8 +731,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "select major account executive @ remote - us",
-   "location": "Remote - US",
+   "fp": "select major account executive @ remote - ct; remote - ma; remote - nh; remote - nj; remote - ny; remote - pa; remote - pa metro; remote - ri",
+   "location": "Remote - CT; Remote - MA; Remote - NH; Remote - NJ; Remote - NY; Remote - PA; Remote - PA Metro; Remote - RI",
    "posted_at": "2026-06-01T17:18:24+00:00",
    "posted_history": [
     "2026-06-01T17:18:24+00:00"
@@ -1218,7 +1222,7 @@
    "url": "https://www.samsara.com/company/careers/roles/7926750?gh_jid=7926750"
   },
   "7951885": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1398,7 +1402,7 @@
    "url": "https://www.samsara.com/company/careers/roles/7964565?gh_jid=7964565"
   },
   "7967689": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2013,7 +2017,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8068523?gh_jid=8068523"
   },
   "8072065": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2343,7 +2347,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8109358?gh_jid=8109358"
   },
   "8112694": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2943,7 +2947,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8168295?gh_jid=8168295"
   },
   "8169431": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3138,7 +3142,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8180693?gh_jid=8180693"
   },
   "8186048": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3442,14 +3446,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "account development representative ii @ remote - canada; remote - toronto",
+   "fp": "account development representative ii toronto @ remote - canada; remote - toronto",
    "location": "Remote - Canada; Remote - Toronto",
    "posted_at": "2026-09-17T18:58:45+00:00",
    "posted_history": [
     "2026-09-17T18:58:45+00:00"
    ],
    "reopened": 1,
-   "title": "Account Development Representative II",
+   "title": "Account Development Representative II - Toronto",
    "url": "https://www.samsara.com/company/careers/roles/8207926?gh_jid=8207926"
   },
   "8207928": {
@@ -3457,8 +3461,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "account development representative canada @ remote - quebec",
-   "location": "Remote - Quebec",
+   "fp": "account development representative canada @ remote - canada; remote - ontario; remote - quebec; remote - toronto",
+   "location": "Remote - Canada; Remote - Ontario; Remote - Quebec; Remote - Toronto",
    "posted_at": "2026-09-17T18:44:15+00:00",
    "posted_history": [
     "2026-09-17T18:44:15+00:00"
@@ -3483,7 +3487,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8209909?gh_jid=8209909"
   },
   "8210697": {
-   "closed_at": "2026-11-17T12:29:08+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3493,7 +3497,7 @@
    "posted_history": [
     "2026-09-18T15:25:02+00:00"
    ],
-   "reopened": 1,
+   "reopened": 2,
    "title": "Sr. Software Engineer II / Tech lead, Agentic Platform (Poland, Remote, B2B)",
    "url": "https://www.samsara.com/company/careers/roles/8210697?gh_jid=8210697"
   },
@@ -3528,7 +3532,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8212556?gh_jid=8212556"
   },
   "8212787": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3708,7 +3712,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8223751?gh_jid=8223751"
   },
   "8226209": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3888,7 +3892,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8237134?gh_jid=8237134"
   },
   "8237426": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3903,7 +3907,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8237426?gh_jid=8237426"
   },
   "8237427": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4563,7 +4567,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8281716?gh_jid=8281716"
   },
   "8282082": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
@@ -4623,7 +4627,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8282635?gh_jid=8282635"
   },
   "8287417": {
-   "closed_at": "2026-11-17T12:29:08+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4633,7 +4637,7 @@
    "posted_history": [
     "2026-10-19T20:29:38+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Executive Assistant",
    "url": "https://www.samsara.com/company/careers/roles/8287417?gh_jid=8287417"
   },
@@ -4726,6 +4730,21 @@
    "reopened": 0,
    "title": "Sr. Customer Success Strategy Manager, New Products",
    "url": "https://www.samsara.com/company/careers/roles/8300580?gh_jid=8300580"
+  },
+  "8300773": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "director ai product management @ remote - us",
+   "location": "Remote - US",
+   "posted_at": "2026-11-17T23:51:24+00:00",
+   "posted_history": [
+    "2026-11-17T23:51:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Director, AI Product Management (GTM)",
+   "url": "https://www.samsara.com/company/careers/roles/8300773?gh_jid=8300773"
   },
   "8302004": {
    "closed_at": null,
@@ -5118,7 +5137,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8305848?gh_jid=8305848"
   },
   "8306291": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -5369,7 +5388,7 @@
     "2026-10-26T18:22:47+00:00"
    ],
    "reopened": 0,
-   "title": "Manager, Account Development",
+   "title": "Manager, Account Development (Atlanta, GA)",
    "url": "https://www.samsara.com/company/careers/roles/8325035?gh_jid=8325035"
   },
   "8325045": {
@@ -5392,8 +5411,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
-   "fp": "account development representative ii atlanta @ remote - ga",
-   "location": "Remote - GA",
+   "fp": "account development representative ii atlanta @ atlanta, georgia, united states",
+   "location": "Atlanta, Georgia, United States",
    "posted_at": "2026-10-26T18:23:00+00:00",
    "posted_history": [
     "2026-10-26T18:23:00+00:00"
@@ -5474,7 +5493,7 @@
     "2026-10-26T18:47:16+00:00"
    ],
    "reopened": 0,
-   "title": "Manager, Account Development",
+   "title": "Manager, Account Development (Atlanta, GA)",
    "url": "https://www.samsara.com/company/careers/roles/8325343?gh_jid=8325343"
   },
   "8325349": {
@@ -5493,7 +5512,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8325349?gh_jid=8325349"
   },
   "8325352": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
@@ -5542,8 +5561,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
-   "fp": "account development representative intern phoenix @ remote - az",
-   "location": "Remote - AZ",
+   "fp": "account development representative intern phoenix @ phoenix, arizona, united states",
+   "location": "Phoenix, Arizona, United States",
    "posted_at": "2026-10-26T18:52:43+00:00",
    "posted_history": [
     "2026-10-26T18:52:43+00:00"
@@ -5957,6 +5976,21 @@
    "title": "Senior Supply Planning Manager - US",
    "url": "https://www.samsara.com/company/careers/roles/8328373?gh_jid=8328373"
   },
+  "8329357": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "head of data science @ remote - sf bay area",
+   "location": "Remote - SF Bay Area",
+   "posted_at": "2026-11-17T20:45:55+00:00",
+   "posted_history": [
+    "2026-11-17T20:45:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Head of Data Science",
+   "url": "https://www.samsara.com/company/careers/roles/8329357?gh_jid=8329357"
+  },
   "8330570": {
    "closed_at": null,
    "department": "",
@@ -5986,6 +6020,21 @@
    "reopened": 0,
    "title": "Sr. Internal Communications Manager",
    "url": "https://www.samsara.com/company/careers/roles/8331165?gh_jid=8331165"
+  },
+  "8331168": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "staff marketing communications manager @ remote - nyc; remote - sf bay area",
+   "location": "Remote - NYC; Remote - SF Bay Area",
+   "posted_at": "2026-11-17T22:40:34+00:00",
+   "posted_history": [
+    "2026-11-17T22:40:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Marketing Communications Manager",
+   "url": "https://www.samsara.com/company/careers/roles/8331168?gh_jid=8331168"
   },
   "8331538": {
    "closed_at": null,
@@ -6022,8 +6071,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
-   "fp": "account development representative canada @ remote - quebec",
-   "location": "Remote - Quebec",
+   "fp": "account development representative canada @ canada; remote - canada; remote - quebec; remote - toronto",
+   "location": "Canada; Remote - Canada; Remote - Quebec; Remote - Toronto",
    "posted_at": "2026-10-29T00:13:59+00:00",
    "posted_history": [
     "2026-10-29T00:13:59+00:00"
@@ -6052,8 +6101,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
-   "fp": "select major account executive @ remote - ma; remote - oh; remote - pa",
-   "location": "Remote - MA; Remote - OH; Remote - PA",
+   "fp": "select major account executive @ remote - de; remote - ma; remote - md; remote - nj; remote - ny; remote - pa; remote - ri",
+   "location": "Remote - DE; Remote - MA; Remote - MD; Remote - NJ; Remote - NY; Remote - PA; Remote - RI",
    "posted_at": "2026-10-29T00:20:26+00:00",
    "posted_history": [
     "2026-10-29T00:20:26+00:00"
@@ -6138,7 +6187,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8337779?gh_jid=8337779"
   },
   "8351204": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
@@ -6241,6 +6290,21 @@
    "reopened": 0,
    "title": "Customer Success Account Manager, Mid-Market - German",
    "url": "https://www.samsara.com/company/careers/roles/8353146?gh_jid=8353146"
+  },
+  "8353148": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "associate sales engineer se desk mexico @ remote - mexico",
+   "location": "Remote - Mexico",
+   "posted_at": "2026-11-17T19:59:05+00:00",
+   "posted_history": [
+    "2026-11-17T19:59:05+00:00"
+   ],
+   "reopened": 0,
+   "title": "Associate Sales Engineer, SE Desk- Mexico",
+   "url": "https://www.samsara.com/company/careers/roles/8353148?gh_jid=8353148"
   },
   "8353150": {
    "closed_at": null,
@@ -6468,7 +6532,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8355866?gh_jid=8355866"
   },
   "8358617": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-06T11:30:42+00:00",
@@ -6483,7 +6547,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8358617?gh_jid=8358617"
   },
   "8358618": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",
@@ -6647,8 +6711,23 @@
    "title": "Software Engineering Internship - San Francisco",
    "url": "https://www.samsara.com/company/careers/roles/8358786?gh_jid=8358786"
   },
-  "8359009": {
+  "8358996": {
    "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "mid market account executive uk i @ london, england, united kingdom",
+   "location": "London, England, United Kingdom",
+   "posted_at": "2026-11-17T20:19:53+00:00",
+   "posted_history": [
+    "2026-11-17T20:19:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "Mid-Market Account Executive - UK&I",
+   "url": "https://www.samsara.com/company/careers/roles/8358996?gh_jid=8358996"
+  },
+  "8359009": {
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",
@@ -6918,7 +6997,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8359325?gh_jid=8359325"
   },
   "8359386": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",
@@ -7038,7 +7117,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8359956?gh_jid=8359956"
   },
   "8359978": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",
@@ -7322,6 +7401,21 @@
    "title": "Senior Sales Engineer, France",
    "url": "https://www.samsara.com/company/careers/roles/8382746?gh_jid=8382746"
   },
+  "8383258": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "sr program manager gtm programs @ remote - ca; remote - chicago; remote - seattle; remote - tx",
+   "location": "Remote - CA; Remote - Chicago; Remote - Seattle; Remote - TX",
+   "posted_at": "2026-11-17T23:34:46+00:00",
+   "posted_history": [
+    "2026-11-17T23:34:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Program Manager, GTM Programs",
+   "url": "https://www.samsara.com/company/careers/roles/8383258?gh_jid=8383258"
+  },
   "8386261": {
    "closed_at": null,
    "department": "",
@@ -7336,6 +7430,21 @@
    "reopened": 0,
    "title": "Sr. Growth Marketing Manager - New Products",
    "url": "https://www.samsara.com/company/careers/roles/8386261?gh_jid=8386261"
+  },
+  "8386368": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "customer success adoption specialist @ remote - ca; remote - chicago; remote - seattle; remote - tx",
+   "location": "Remote - CA; Remote - Chicago; Remote - Seattle; Remote - TX",
+   "posted_at": "2026-11-18T08:54:25+00:00",
+   "posted_history": [
+    "2026-11-18T08:54:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Success Adoption Specialist",
+   "url": "https://www.samsara.com/company/careers/roles/8386368?gh_jid=8386368"
   },
   "8387002": {
    "closed_at": null,
@@ -7366,6 +7475,126 @@
    "reopened": 0,
    "title": "Sr Software Engineer I/II, Operational AI",
    "url": "https://www.samsara.com/company/careers/roles/8387609?gh_jid=8387609"
+  },
+  "8395381": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "mid market account executive france @ remote - france",
+   "location": "Remote - France",
+   "posted_at": "2026-11-17T22:08:11+00:00",
+   "posted_history": [
+    "2026-11-17T22:08:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Mid-Market Account Executive - France",
+   "url": "https://www.samsara.com/company/careers/roles/8395381?gh_jid=8395381"
+  },
+  "8395384": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "account executive mid market dach @ remote - germany",
+   "location": "Remote - Germany",
+   "posted_at": "2026-11-17T14:24:38+00:00",
+   "posted_history": [
+    "2026-11-17T14:24:38+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, Mid-Market - DACH",
+   "url": "https://www.samsara.com/company/careers/roles/8395384?gh_jid=8395384"
+  },
+  "8397457": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "enterprise core account executive public sector @ remote - az",
+   "location": "Remote - AZ",
+   "posted_at": "2026-11-17T22:18:43+00:00",
+   "posted_history": [
+    "2026-11-17T22:18:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Core Account Executive - Public Sector (Arizona)",
+   "url": "https://www.samsara.com/company/careers/roles/8397457?gh_jid=8397457"
+  },
+  "8397679": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "enterprise core account executive public sector @ remote - tx",
+   "location": "Remote - TX",
+   "posted_at": "2026-11-17T22:18:46+00:00",
+   "posted_history": [
+    "2026-11-17T22:18:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Core Account Executive - Public Sector (Texas)",
+   "url": "https://www.samsara.com/company/careers/roles/8397679?gh_jid=8397679"
+  },
+  "8397801": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "sr content developer @ remote - mexico",
+   "location": "Remote - Mexico",
+   "posted_at": "2026-11-17T23:19:23+00:00",
+   "posted_history": [
+    "2026-11-17T23:19:23+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Content Developer (Mexico)",
+   "url": "https://www.samsara.com/company/careers/roles/8397801?gh_jid=8397801"
+  },
+  "8397804": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "account validation specialist @ cdmx3; mexico",
+   "location": "CDMX3; Mexico",
+   "posted_at": "2026-11-17T23:25:32+00:00",
+   "posted_history": [
+    "2026-11-17T23:25:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Validation Specialist (CDMX)",
+   "url": "https://www.samsara.com/company/careers/roles/8397804?gh_jid=8397804"
+  },
+  "8397901": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "technical account manager @ remote - bengaluru; remote - mexico",
+   "location": "Remote - Bengaluru; Remote - Mexico",
+   "posted_at": "2026-11-18T00:21:24+00:00",
+   "posted_history": [
+    "2026-11-18T00:21:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Account Manager (Mexico)",
+   "url": "https://www.samsara.com/company/careers/roles/8397901?gh_jid=8397901"
+  },
+  "8397935": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "contract and billing specialist usa @ remote - us",
+   "location": "Remote - US",
+   "posted_at": "2026-11-18T00:35:53+00:00",
+   "posted_history": [
+    "2026-11-18T00:35:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "Contract and Billing Specialist - USA",
+   "url": "https://www.samsara.com/company/careers/roles/8397935?gh_jid=8397935"
   }
  }
 }

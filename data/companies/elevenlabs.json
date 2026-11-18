@@ -119,11 +119,15 @@
   {
    "date": "2026-11-17",
    "open": 122
+  },
+  {
+   "date": "2026-11-18",
+   "open": 128
   }
  ],
  "jobs": {
   "00686b87-a6e2-4fbc-9dd5-b3b35ad02638": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "Operations",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
@@ -184,19 +188,20 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/04d1c724-466a-4520-aea1-44aee822c14b"
   },
   "0547cf3a-856f-4db2-8307-73db634c4096": {
-   "closed_at": "2026-10-27T09:20:56+00:00",
+   "closed_at": null,
    "department": "Engineering & Product",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "full stack engineer elevenmusic @ remote",
    "location": "Remote",
-   "posted_at": "2026-10-19T09:45:46+00:00",
+   "posted_at": "2026-11-17T16:00:05+00:00",
    "posted_history": [
-    "2026-10-19T09:45:46+00:00"
+    "2026-10-19T09:45:46+00:00",
+    "2026-11-17T16:00:05+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Full-Stack Engineer - ElevenMusic",
-   "url": "https://jobs.ashbyhq.com/elevenlabs/0547cf3a-856f-4db2-8307-73db634c4096"
+   "url": "https://jobs.ashbyhq.com/ElevenLabs/0547cf3a-856f-4db2-8307-73db634c4096"
   },
   "062dba92-e25b-47ee-b119-aeca540f515f": {
    "closed_at": null,
@@ -626,19 +631,20 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/277de6ad-3db5-4b96-afb5-cec3d797e788"
   },
   "27e92957-374f-409a-b787-166b10e0f042": {
-   "closed_at": "2026-11-06T11:30:42+00:00",
+   "closed_at": null,
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
    "fp": "hyperscaler systems integrator partner manager @ remote",
    "location": "Remote",
-   "posted_at": "2026-10-26T16:41:08+00:00",
+   "posted_at": "2026-11-17T23:03:35+00:00",
    "posted_history": [
-    "2026-10-26T16:41:08+00:00"
+    "2026-10-26T16:41:08+00:00",
+    "2026-11-17T23:03:35+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Hyperscaler & Systems Integrator Partner Manager (North America)",
-   "url": "https://jobs.ashbyhq.com/elevenlabs/27e92957-374f-409a-b787-166b10e0f042"
+   "url": "https://jobs.ashbyhq.com/ElevenLabs/27e92957-374f-409a-b787-166b10e0f042"
   },
   "2a99d0a0-adae-41b5-a7ef-f1d3faee60a7": {
    "closed_at": "2026-11-02T11:41:30+00:00",
@@ -1066,7 +1072,7 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/3e9f8e45-cd55-4fb9-9452-0ebbd6e15de6"
   },
   "3eede250-d2a7-4f13-b0b2-d8a530cb6130": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "Engineering & Product",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1533,6 +1539,21 @@
    "reopened": 0,
    "title": "Public Sector Partnerships - US",
    "url": "https://jobs.ashbyhq.com/ElevenLabs/71b1f886-593a-43a3-86db-1ab8e2a83496"
+  },
+  "71cf2fcc-ec19-45dd-b6c6-439f702779bb": {
+   "closed_at": null,
+   "department": "Revenue",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "account manager poland @ poland",
+   "location": "Poland",
+   "posted_at": "2026-11-17T15:24:59+00:00",
+   "posted_history": [
+    "2026-11-17T15:24:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Manager - Poland",
+   "url": "https://jobs.ashbyhq.com/ElevenLabs/71cf2fcc-ec19-45dd-b6c6-439f702779bb"
   },
   "7209ce9f-3c69-4dbb-adbb-6c6c068ebad0": {
    "closed_at": null,
@@ -2233,6 +2254,21 @@
    "title": "Full-Stack Engineer (Backend Leaning) - Studio",
    "url": "https://jobs.ashbyhq.com/elevenlabs/a1c86d02-e9df-4580-87e4-1333f2b83e94"
   },
+  "a1dba952-6682-431c-ac7f-a40b5d4f9ccb": {
+   "closed_at": null,
+   "department": "Revenue",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "head of strategic pursuits @ remote",
+   "location": "Remote",
+   "posted_at": "2026-11-17T21:10:18+00:00",
+   "posted_history": [
+    "2026-11-17T21:10:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Head of Strategic Pursuits",
+   "url": "https://jobs.ashbyhq.com/ElevenLabs/a1dba952-6682-431c-ac7f-a40b5d4f9ccb"
+  },
   "a2910e63-1dcc-4da2-a8ee-bc2a044e4613": {
    "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "Finance",
@@ -2447,6 +2483,21 @@
    "reopened": 0,
    "title": "Android Engineer - Creative App",
    "url": "https://jobs.ashbyhq.com/ElevenLabs/b380fb97-bb18-46a5-91db-5132e6693e93"
+  },
+  "b3dd0a00-6223-405b-9064-8619e98fa6e6": {
+   "closed_at": null,
+   "department": "Engineering & Product",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "marketplace operations @ united kingdom",
+   "location": "United Kingdom",
+   "posted_at": "2026-11-17T20:52:42+00:00",
+   "posted_history": [
+    "2026-11-17T20:52:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Marketplace Operations",
+   "url": "https://jobs.ashbyhq.com/ElevenLabs/b3dd0a00-6223-405b-9064-8619e98fa6e6"
   },
   "b43e388f-f204-41c5-a2bc-ee3bc1281e39": {
    "closed_at": null,
@@ -2752,19 +2803,20 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/c89e8bf6-6d4c-43bd-bd2a-661ae73c82bf"
   },
   "c90159fa-8577-4213-b5b3-356051742c67": {
-   "closed_at": "2026-10-30T10:28:19+00:00",
+   "closed_at": null,
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "account executive enterprise healthcare @ remote",
    "location": "Remote",
-   "posted_at": "2026-10-14T12:47:22+00:00",
+   "posted_at": "2026-11-17T18:51:26+00:00",
    "posted_history": [
-    "2026-10-14T12:47:22+00:00"
+    "2026-10-14T12:47:22+00:00",
+    "2026-11-17T18:51:26+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Account Executive - Enterprise - Healthcare",
-   "url": "https://jobs.ashbyhq.com/elevenlabs/c90159fa-8577-4213-b5b3-356051742c67"
+   "url": "https://jobs.ashbyhq.com/ElevenLabs/c90159fa-8577-4213-b5b3-356051742c67"
   },
   "cb77d3a7-ee72-4055-a7ba-3a32732c5ae6": {
    "closed_at": "2026-10-31T09:57:28+00:00",
@@ -2813,18 +2865,19 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/cdcf48bf-b6cf-41ce-88ee-34674768fb0d"
   },
   "ce3d5a59-fb8c-482b-bc3f-60e44576c5e0": {
-   "closed_at": "2026-11-16T12:03:27+00:00",
+   "closed_at": null,
    "department": "Engineering & Product",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "full stack engineer platform engineering @ remote",
    "location": "Remote",
-   "posted_at": "2026-11-02T19:36:14+00:00",
+   "posted_at": "2026-11-17T17:14:57+00:00",
    "posted_history": [
     "2026-10-14T10:03:44+00:00",
-    "2026-11-02T19:36:14+00:00"
+    "2026-11-02T19:36:14+00:00",
+    "2026-11-17T17:14:57+00:00"
    ],
-   "reopened": 1,
+   "reopened": 2,
    "title": "Full-Stack Engineer (Backend Leaning) - Platform Engineering",
    "url": "https://jobs.ashbyhq.com/ElevenLabs/ce3d5a59-fb8c-482b-bc3f-60e44576c5e0"
   },
@@ -3042,18 +3095,19 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/e2bc0a9f-15b5-49a1-a796-2dc9b2f5b7ac"
   },
   "e4e0450f-d139-4f8e-b210-2f326a680d90": {
-   "closed_at": "2026-11-16T12:03:27+00:00",
+   "closed_at": null,
    "department": "Engineering & Product",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "full stack engineer payments engineering @ remote",
    "location": "Remote",
-   "posted_at": "2026-11-02T19:36:35+00:00",
+   "posted_at": "2026-11-17T17:16:54+00:00",
    "posted_history": [
     "2026-10-14T10:04:28+00:00",
-    "2026-11-02T19:36:35+00:00"
+    "2026-11-02T19:36:35+00:00",
+    "2026-11-17T17:16:54+00:00"
    ],
-   "reopened": 1,
+   "reopened": 2,
    "title": "Full-Stack Engineer (Backend Leaning) - Payments Engineering",
    "url": "https://jobs.ashbyhq.com/ElevenLabs/e4e0450f-d139-4f8e-b210-2f326a680d90"
   },

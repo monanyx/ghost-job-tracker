@@ -119,6 +119,10 @@
   {
    "date": "2026-11-17",
    "open": 380
+  },
+  {
+   "date": "2026-11-18",
+   "open": 381
   }
  ],
  "jobs": {
@@ -423,7 +427,7 @@
    "url": "https://careers.datadoghq.com/detail/6427176/?gh_jid=6427176"
   },
   "6430289": {
-   "closed_at": "2026-11-11T11:27:30+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -433,7 +437,7 @@
    "posted_history": [
     "2024-11-28T04:41:34+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Enterprise Sales Engineer",
    "url": "https://careers.datadoghq.com/detail/6430289/?gh_jid=6430289"
   },
@@ -637,18 +641,18 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "enterprise account executive denmark @ copenhagen, denmark",
+   "fp": "enterprise sales executive denmark @ copenhagen, denmark",
    "location": "Copenhagen, Denmark",
    "posted_at": "2025-03-05T17:46:25+00:00",
    "posted_history": [
     "2025-03-05T17:46:25+00:00"
    ],
    "reopened": 0,
-   "title": "Enterprise Account Executive - Denmark",
+   "title": "Enterprise Sales Executive - Denmark",
    "url": "https://careers.datadoghq.com/detail/6677658/?gh_jid=6677658"
   },
   "6703351": {
-   "closed_at": "2026-11-11T11:27:30+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -658,7 +662,7 @@
    "posted_history": [
     "2025-03-12T09:33:51+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Enterprise Sales Engineer",
    "url": "https://careers.datadoghq.com/detail/6703351/?gh_jid=6703351"
   },
@@ -1312,8 +1316,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "major account manager @ boston, massachusetts, usa; new york, new york, usa",
-   "location": "Boston, Massachusetts, USA; New York, New York, USA",
+   "fp": "major account manager @ boston, massachusetts, usa; mexico city, mexico; new york, new york, usa",
+   "location": "Boston, Massachusetts, USA; Mexico City, Mexico; New York, New York, USA",
    "posted_at": "2025-12-17T17:04:06+00:00",
    "posted_history": [
     "2025-12-17T17:04:06+00:00"
@@ -2703,7 +2707,7 @@
    "url": "https://careers.datadoghq.com/detail/7985840/?gh_jid=7985840"
   },
   "7989348": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4203,7 +4207,7 @@
    "url": "https://careers.datadoghq.com/detail/8131985/?gh_jid=8131985"
   },
   "8136510": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5793,7 +5797,7 @@
    "url": "https://careers.datadoghq.com/detail/8230270/?gh_jid=8230270"
   },
   "8230620": {
-   "closed_at": "2026-11-17T12:29:08+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5803,7 +5807,7 @@
    "posted_history": [
     "2026-10-06T14:44:35+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Manager, Accounts Payable",
    "url": "https://careers.datadoghq.com/detail/8230620/?gh_jid=8230620"
   },
@@ -6048,7 +6052,7 @@
    "url": "https://careers.datadoghq.com/detail/8238495/?gh_jid=8238495"
   },
   "8238655": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7218,7 +7222,7 @@
    "url": "https://careers.datadoghq.com/detail/8303351/?gh_jid=8303351"
   },
   "8303404": {
-   "closed_at": "2026-11-11T11:27:30+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -7228,7 +7232,7 @@
    "posted_history": [
     "2026-10-22T02:06:50+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Mid Market Account Executive (Brazil)",
    "url": "https://careers.datadoghq.com/detail/8303404/?gh_jid=8303404"
   },
@@ -7852,8 +7856,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-17T12:29:08+00:00",
-   "fp": "senior forward deployed engineer @ new york, new york, usa",
-   "location": "New York, New York, USA",
+   "fp": "senior forward deployed engineer @ denver, colorado, usa; new york, new york, usa; san francisco, california, usa",
+   "location": "Denver, Colorado, USA; New York, New York, USA; San Francisco, California, USA",
    "posted_at": "2026-11-16T22:01:15+00:00",
    "posted_history": [
     "2026-11-16T22:01:15+00:00"
@@ -8028,7 +8032,7 @@
    "url": "https://careers.datadoghq.com/detail/8357178/?gh_jid=8357178"
   },
   "8358479": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-06T11:30:42+00:00",
@@ -8101,6 +8105,21 @@
    "reopened": 0,
    "title": "Senior AI Research Engineer - GPU Systems & Kernels",
    "url": "https://careers.datadoghq.com/detail/8365206/?gh_jid=8365206"
+  },
+  "8366583": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "commercial counsel enterprise @ new york, new york, usa",
+   "location": "New York, New York, USA",
+   "posted_at": "2026-11-17T19:49:16+00:00",
+   "posted_history": [
+    "2026-11-17T19:49:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Commercial Counsel, Enterprise",
+   "url": "https://careers.datadoghq.com/detail/8366583/?gh_jid=8366583"
   },
   "8368886": {
    "closed_at": null,

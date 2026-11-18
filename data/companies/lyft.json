@@ -119,6 +119,10 @@
   {
    "date": "2026-11-17",
    "open": 144
+  },
+  {
+   "date": "2026-11-18",
+   "open": 148
   }
  ],
  "jobs": {
@@ -663,7 +667,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8648043002?gh_jid=8648043002"
   },
   "8648144002": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1113,7 +1117,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8746134002?gh_jid=8746134002"
   },
   "8750763002": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1548,7 +1552,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8783345002?gh_jid=8783345002"
   },
   "8790623002": {
-   "closed_at": "2026-10-31T09:57:28+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1558,7 +1562,7 @@
    "posted_history": [
     "2026-09-11T16:00:17+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Business Systems Engineer, Intelligent Automation",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8790623002?gh_jid=8790623002"
   },
@@ -2943,7 +2947,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8900191002?gh_jid=8900191002"
   },
   "8900209002": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-20T08:53:12+00:00",
@@ -3857,6 +3861,21 @@
    "title": "Data Engineer",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8931413002?gh_jid=8931413002"
   },
+  "8935229002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "regulatory operations program manager @ toronto, canada",
+   "location": "Toronto, Canada",
+   "posted_at": "2026-11-17T16:30:22+00:00",
+   "posted_history": [
+    "2026-11-17T16:30:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Regulatory Operations Program Manager",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8935229002?gh_jid=8935229002"
+  },
   "8936180002": {
    "closed_at": null,
    "department": "",
@@ -3903,7 +3922,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8938484002?gh_jid=8938484002"
   },
   "8938558002": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-13T11:35:01+00:00",
@@ -3933,7 +3952,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8938561002?gh_jid=8938561002"
   },
   "8938627002": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-13T11:35:01+00:00",
@@ -4006,6 +4025,111 @@
    "reopened": 0,
    "title": "Counsel, Patents & IP",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8943182002?gh_jid=8943182002"
+  },
+  "8944658002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "engineering manager ad infra @ toronto, canada",
+   "location": "Toronto, Canada",
+   "posted_at": "2026-11-17T20:35:40+00:00",
+   "posted_history": [
+    "2026-11-17T20:35:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager, Ad Infra (Lyft Ads)",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8944658002?gh_jid=8944658002"
+  },
+  "8944659002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "ml engineer marketplace @ toronto, canada",
+   "location": "Toronto, Canada",
+   "posted_at": "2026-11-17T20:25:50+00:00",
+   "posted_history": [
+    "2026-11-17T20:25:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "ML Engineer, Marketplace",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8944659002?gh_jid=8944659002"
+  },
+  "8948514002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "training lead autonomous vehicle technician operations @ nashville, tn",
+   "location": "Nashville, TN",
+   "posted_at": "2026-11-18T00:16:36+00:00",
+   "posted_history": [
+    "2026-11-18T00:16:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Training Lead, Autonomous Vehicle Technician Operations",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8948514002?gh_jid=8948514002"
+  },
+  "8948517002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "people project manager @ nashville, tn",
+   "location": "Nashville, TN",
+   "posted_at": "2026-11-18T01:02:18+00:00",
+   "posted_history": [
+    "2026-11-18T01:02:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "People Project Manager",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8948517002?gh_jid=8948517002"
+  },
+  "8948519002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "people project coordinator @ nashville, tn",
+   "location": "Nashville, TN",
+   "posted_at": "2026-11-18T01:01:37+00:00",
+   "posted_history": [
+    "2026-11-18T01:01:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "People Project Coordinator",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8948519002?gh_jid=8948519002"
+  },
+  "8948757002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "analytics lead growth strategy analytics @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-17T19:50:36+00:00",
+   "posted_history": [
+    "2026-11-17T19:50:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Analytics Lead, Growth Strategy & Analytics",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8948757002?gh_jid=8948757002"
+  },
+  "8948773002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "analytics lead growth strategy analytics @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-11-17T19:51:33+00:00",
+   "posted_history": [
+    "2026-11-17T19:51:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Analytics Lead, Growth Strategy & Analytics",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8948773002?gh_jid=8948773002"
   }
  }
 }

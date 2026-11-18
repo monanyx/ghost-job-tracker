@@ -119,6 +119,10 @@
   {
    "date": "2026-11-17",
    "open": 41
+  },
+  {
+   "date": "2026-11-18",
+   "open": 40
   }
  ],
  "jobs": {
@@ -318,7 +322,7 @@
    "url": "https://jobs.dropbox.com/listing/8067367?gh_jid=8067367"
   },
   "8075216": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

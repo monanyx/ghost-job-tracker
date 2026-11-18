@@ -119,6 +119,10 @@
   {
    "date": "2026-11-17",
    "open": 60
+  },
+  {
+   "date": "2026-11-18",
+   "open": 61
   }
  ],
  "jobs": {
@@ -153,18 +157,19 @@
    "url": "https://jobs.ashbyhq.com/n8n/01d9f6ac-4bc2-410d-aa2e-0bc7d471c210"
   },
   "01e97911-afbc-4d4b-bdc7-ea6cd5e51662": {
-   "closed_at": "2026-11-14T10:56:25+00:00",
+   "closed_at": null,
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
    "fp": "enterprise sales leader @ london office",
    "location": "London Office",
-   "posted_at": "2026-11-02T15:47:45+00:00",
+   "posted_at": "2026-11-18T09:32:18+00:00",
    "posted_history": [
     "2026-10-21T17:06:27+00:00",
-    "2026-11-02T15:47:45+00:00"
+    "2026-11-02T15:47:45+00:00",
+    "2026-11-18T09:32:18+00:00"
    ],
-   "reopened": 1,
+   "reopened": 2,
    "title": "Enterprise Sales Leader",
    "url": "https://jobs.ashbyhq.com/n8n/01e97911-afbc-4d4b-bdc7-ea6cd5e51662"
   },

@@ -119,9 +119,28 @@
   {
    "date": "2026-11-17",
    "open": 9
+  },
+  {
+   "date": "2026-11-18",
+   "open": 11
   }
  ],
  "jobs": {
+  "7909563002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "account executive corporate @ london, united kingdom",
+   "location": "London, United Kingdom ",
+   "posted_at": "2025-03-17T14:06:20+00:00",
+   "posted_history": [
+    "2025-03-17T14:06:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, Corporate",
+   "url": "https://job-boards.greenhouse.io/airtable/jobs/7909563002"
+  },
   "8368711002": {
    "closed_at": null,
    "department": "",
@@ -196,6 +215,21 @@
    "reopened": 0,
    "title": "Senior Solutions Architect",
    "url": "https://job-boards.greenhouse.io/airtable/jobs/8498915002"
+  },
+  "8579474002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "senior account executive strategic accounts uk i northern europe @ london, united kingdom",
+   "location": "London, United Kingdom ",
+   "posted_at": "2026-11-17T19:16:35+00:00",
+   "posted_history": [
+    "2026-11-17T19:16:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Account Executive, Strategic Accounts  UK&I + Northern Europe",
+   "url": "https://job-boards.greenhouse.io/airtable/jobs/8579474002"
   },
   "8905022002": {
    "closed_at": null,

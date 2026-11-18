@@ -119,6 +119,10 @@
   {
    "date": "2026-11-17",
    "open": 95
+  },
+  {
+   "date": "2026-11-18",
+   "open": 94
   }
  ],
  "jobs": {
@@ -1042,8 +1046,8 @@
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-11-14T10:56:25+00:00",
-   "fp": "regional director strategic enterprise latam @ remote",
-   "location": "Remote",
+   "fp": "regional director strategic enterprise latam @ sao paulo",
+   "location": "Sao Paulo",
    "posted_at": "2026-11-13T16:43:03+00:00",
    "posted_history": [
     "2026-11-13T16:43:03+00:00"
@@ -1818,6 +1822,21 @@
    "title": "Software Engineer, Billing",
    "url": "https://jobs.ashbyhq.com/cursor/6222602a-f0ca-4558-8364-06970723e917"
   },
+  "62dbe8b8-74d9-464e-b6f0-5370d79332bd": {
+   "closed_at": null,
+   "department": "Solutions",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "forward deployed engineering partner program lead @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-18T00:20:46+00:00",
+   "posted_history": [
+    "2026-11-18T00:20:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed Engineering Partner Program Lead",
+   "url": "https://jobs.ashbyhq.com/cursor/62dbe8b8-74d9-464e-b6f0-5370d79332bd"
+  },
   "635bd64f-b554-4d37-9128-cefad35913af": {
    "closed_at": "2026-11-10T11:47:05+00:00",
    "department": "Engineering",
@@ -2349,8 +2368,8 @@
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-11-13T11:35:01+00:00",
-   "fp": "strategic account executive enterprise latam @ remote",
-   "location": "Remote",
+   "fp": "strategic account executive enterprise latam @ sao paulo",
+   "location": "Sao Paulo",
    "posted_at": "2026-11-12T20:30:39+00:00",
    "posted_history": [
     "2026-11-12T20:30:39+00:00"
@@ -2360,7 +2379,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/86f0738c-613a-4e75-ae9f-1503d335512e"
   },
   "8759ece1-451e-4074-93dd-9d247a648ef7": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "Solutions",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
@@ -3787,7 +3806,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/e7857cc6-cfe3-4e6e-aa23-9c48b09c4416"
   },
   "e7fc78cd-a4b9-468e-b286-e20cf3728d45": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "Customer Success",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",

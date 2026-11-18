@@ -119,6 +119,10 @@
   {
    "date": "2026-11-17",
    "open": 259
+  },
+  {
+   "date": "2026-11-18",
+   "open": 256
   }
  ],
  "jobs": {
@@ -1473,7 +1477,7 @@
    "url": "https://www.coinbase.com/careers/positions/8124224?gh_jid=8124224"
   },
   "8129321": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2028,7 +2032,7 @@
    "url": "https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991"
   },
   "8174232": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2313,7 +2317,7 @@
    "url": "https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510"
   },
   "8175514": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2493,7 +2497,7 @@
    "url": "https://www.coinbase.com/careers/positions/8187551?gh_jid=8187551"
   },
   "8192485": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4278,7 +4282,7 @@
    "url": "https://www.coinbase.com/careers/positions/8334767?gh_jid=8334767"
   },
   "8335547": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -5387,6 +5391,21 @@
    "title": "Compliance, International Investigations Associate",
    "url": "https://www.coinbase.com/careers/positions/8382720?gh_jid=8382720"
   },
+  "8385963": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "credit risk manager @ remote - usa",
+   "location": "Remote - USA",
+   "posted_at": "2026-11-17T23:28:13+00:00",
+   "posted_history": [
+    "2026-11-17T23:28:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Credit Risk Manager",
+   "url": "https://www.coinbase.com/careers/positions/8385963?gh_jid=8385963"
+  },
   "8386363": {
    "closed_at": null,
    "department": "",
@@ -5432,8 +5451,23 @@
    "title": "Chief of Staff, CTO",
    "url": "https://www.coinbase.com/careers/positions/8393768?gh_jid=8393768"
   },
-  "8394402": {
+  "8394348": {
    "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "associate manager sox and internal controls @ remote - usa",
+   "location": "Remote - USA",
+   "posted_at": "2026-11-17T17:19:42+00:00",
+   "posted_history": [
+    "2026-11-17T17:19:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Associate Manager, SOX and Internal Controls",
+   "url": "https://www.coinbase.com/careers/positions/8394348?gh_jid=8394348"
+  },
+  "8394402": {
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-17T12:29:08+00:00",
@@ -5461,6 +5495,21 @@
    "reopened": 0,
    "title": "Product Security Engineer, Offensive Security",
    "url": "https://www.coinbase.com/careers/positions/8394654?gh_jid=8394654"
+  },
+  "8395582": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "senior software engineer financial integrity @ remote - usa",
+   "location": "Remote - USA",
+   "posted_at": "2026-11-17T14:59:41+00:00",
+   "posted_history": [
+    "2026-11-17T14:59:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Financial Integrity",
+   "url": "https://www.coinbase.com/careers/positions/8395582?gh_jid=8395582"
   }
  }
 }

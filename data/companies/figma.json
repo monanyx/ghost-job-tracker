@@ -119,6 +119,10 @@
   {
    "date": "2026-11-17",
    "open": 140
+  },
+  {
+   "date": "2026-11-18",
+   "open": 144
   }
  ],
  "jobs": {
@@ -1462,14 +1466,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "manager customer enablement @ tokyo, japan",
+   "fp": "manager customer success @ tokyo, japan",
    "location": "Tokyo, Japan",
    "posted_at": "2026-08-18T01:56:24+00:00",
    "posted_history": [
     "2026-08-18T01:56:24+00:00"
    ],
    "reopened": 0,
-   "title": "Manager, Customer Enablement (Tokyo, Japan)",
+   "title": "Manager, Customer Success (Tokyo, Japan)",
    "url": "https://boards.greenhouse.io/figma/jobs/6144873004?gh_jid=6144873004"
   },
   "6147761004": {
@@ -1623,7 +1627,7 @@
    "url": "https://boards.greenhouse.io/figma/jobs/6166497004?gh_jid=6166497004"
   },
   "6166608004": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2527,14 +2531,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
-   "fp": "manager customer enablement figma weave @ new york, ny",
+   "fp": "manager customer success figma weave @ new york, ny",
    "location": "New York, NY",
    "posted_at": "2026-10-26T20:03:15+00:00",
    "posted_history": [
     "2026-10-26T20:03:15+00:00"
    ],
    "reopened": 0,
-   "title": "Manager, Customer Enablement - Figma Weave (New York, United States)",
+   "title": "Manager, Customer Success - Figma Weave (New York, United States)",
    "url": "https://boards.greenhouse.io/figma/jobs/6232422004?gh_jid=6232422004"
   },
   "6232528004": {
@@ -3017,6 +3021,21 @@
    "title": "Manager, Recruiting - Engineering",
    "url": "https://boards.greenhouse.io/figma/jobs/6253326004?gh_jid=6253326004"
   },
+  "6253947004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "account executive smb @ tokyo, japan",
+   "location": "Tokyo, Japan",
+   "posted_at": "2026-11-18T01:51:08+00:00",
+   "posted_history": [
+    "2026-11-18T01:51:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, SMB (Tokyo, Japan)",
+   "url": "https://boards.greenhouse.io/figma/jobs/6253947004?gh_jid=6253947004"
+  },
   "6256957004": {
    "closed_at": null,
    "department": "",
@@ -3031,6 +3050,66 @@
    "reopened": 0,
    "title": "Executive Assistant, CEO",
    "url": "https://boards.greenhouse.io/figma/jobs/6256957004?gh_jid=6256957004"
+  },
+  "6261622004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "technical program manager ai @ new york, ny • united states",
+   "location": "New York, NY • United States",
+   "posted_at": "2026-11-17T18:49:54+00:00",
+   "posted_history": [
+    "2026-11-17T18:49:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Program Manager, AI",
+   "url": "https://boards.greenhouse.io/figma/jobs/6261622004?gh_jid=6261622004"
+  },
+  "6263971004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "brand designer figma weave @ tel aviv, israel",
+   "location": "Tel Aviv, Israel",
+   "posted_at": "2026-11-18T11:32:37+00:00",
+   "posted_history": [
+    "2026-11-18T11:32:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Brand Designer - Figma Weave (Tel Aviv, Israel)",
+   "url": "https://boards.greenhouse.io/figma/jobs/6263971004?gh_jid=6263971004"
+  },
+  "6263992004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "senior inside sales representative @ london, england",
+   "location": "London, England",
+   "posted_at": "2026-11-18T09:36:18+00:00",
+   "posted_history": [
+    "2026-11-18T09:36:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Inside Sales Representative (Berlin, Germany)",
+   "url": "https://boards.greenhouse.io/figma/jobs/6263992004?gh_jid=6263992004"
+  },
+  "6263994004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "senior inside sales representative @ paris, france",
+   "location": "Paris, France",
+   "posted_at": "2026-11-18T09:36:34+00:00",
+   "posted_history": [
+    "2026-11-18T09:36:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Inside Sales Representative (Paris, France)",
+   "url": "https://boards.greenhouse.io/figma/jobs/6263994004?gh_jid=6263994004"
   }
  }
 }

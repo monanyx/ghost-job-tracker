@@ -119,6 +119,10 @@
   {
    "date": "2026-11-17",
    "open": 384
+  },
+  {
+   "date": "2026-11-18",
+   "open": 379
   }
  ],
  "jobs": {
@@ -1743,7 +1747,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8091860&gh_jid=8091860"
   },
   "8091966": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1923,7 +1927,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8107090&gh_jid=8107090"
   },
   "8108464": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3603,7 +3607,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8162650&gh_jid=8162650"
   },
   "8166580": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5268,7 +5272,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8240077&gh_jid=8240077"
   },
   "8240098": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-14T10:56:25+00:00",
@@ -5837,6 +5841,21 @@
    "title": "Sr Accountant",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8260105&gh_jid=8260105"
   },
+  "8260391": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "inside account executive west @ washington, united states",
+   "location": "Washington, United States",
+   "posted_at": "2026-11-16T18:26:49+00:00",
+   "posted_history": [
+    "2026-11-16T18:26:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Inside Account Executive (Hunter AE) - West",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8260391&gh_jid=8260391"
+  },
   "8260766": {
    "closed_at": "2026-10-21T08:53:29+00:00",
    "department": "",
@@ -6243,7 +6262,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8281375&gh_jid=8281375"
   },
   "8281506": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
@@ -7083,7 +7102,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8313394&gh_jid=8313394"
   },
   "8314141": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-02T11:41:30+00:00",
@@ -7398,7 +7417,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8324621&gh_jid=8324621"
   },
   "8325182": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
@@ -7638,7 +7657,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8344335&gh_jid=8344335"
   },
   "8345719": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-02T11:41:30+00:00",
@@ -7653,7 +7672,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8345719&gh_jid=8345719"
   },
   "8345720": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-02T11:41:30+00:00",
@@ -8342,6 +8361,21 @@
    "title": "Senior Principal Regional Services Partner",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8377579&gh_jid=8377579"
   },
+  "8377597": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "senior solutions architect @ sydney, australia",
+   "location": "Sydney, Australia",
+   "posted_at": "2026-11-18T08:52:55+00:00",
+   "posted_history": [
+    "2026-11-18T08:52:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Solutions Architect",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8377597&gh_jid=8377597"
+  },
   "8377647": {
    "closed_at": null,
    "department": "",
@@ -8612,6 +8646,21 @@
    "title": "Principal Java Engineer - Distributed Systems, Serverless - Elasticsearch",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8378143&gh_jid=8378143"
   },
+  "8382571": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "senior solutions architect @ singapore",
+   "location": "Singapore",
+   "posted_at": "2026-11-18T07:29:55+00:00",
+   "posted_history": [
+    "2026-11-18T07:29:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Solutions Architect",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8382571&gh_jid=8382571"
+  },
   "8382582": {
    "closed_at": null,
    "department": "",
@@ -8671,6 +8720,21 @@
    "reopened": 0,
    "title": "Inside Account Executive (Hunter AE) - Central",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8393700&gh_jid=8393700"
+  },
+  "8397002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "inside account executive west @ california, united states",
+   "location": "California, United States",
+   "posted_at": "2026-11-17T19:58:20+00:00",
+   "posted_history": [
+    "2026-11-17T19:58:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Inside Account Executive (Hunter AE) - West",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8397002&gh_jid=8397002"
   }
  }
 }

@@ -119,6 +119,10 @@
   {
    "date": "2026-11-17",
    "open": 303
+  },
+  {
+   "date": "2026-11-18",
+   "open": 301
   }
  ],
  "jobs": {
@@ -1923,7 +1927,7 @@
    "url": "https://jobs.lever.co/palantir/5174e95b-2e0a-46f8-8db7-e2c837a0ac94"
   },
   "51ea4a3b-7764-4c87-96e4-310e19c856d5": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "Technical Operations",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4233,7 +4237,7 @@
    "url": "https://jobs.lever.co/palantir/c38bb622-6f8e-43a1-8ae7-32291da328a8"
   },
   "c3f40e41-6258-4233-a7f9-091bf67df30b": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "Technical Operations",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

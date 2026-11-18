@@ -119,6 +119,10 @@
   {
    "date": "2026-11-17",
    "open": 164
+  },
+  {
+   "date": "2026-11-18",
+   "open": 167
   }
  ],
  "jobs": {
@@ -770,18 +774,19 @@
    "url": "https://jobs.ashbyhq.com/notion/414aea17-4326-4e95-84e6-09f87cb79468"
   },
   "42279d85-cf60-4c3c-bf82-92b9e215f3c7": {
-   "closed_at": "2026-11-13T11:35:01+00:00",
+   "closed_at": null,
    "department": "Marketing",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "senior field marketer @ san francisco, california",
    "location": "San Francisco, California",
-   "posted_at": "2026-11-06T22:46:10+00:00",
+   "posted_at": "2026-11-18T00:43:57+00:00",
    "posted_history": [
     "2026-09-04T20:24:59+00:00",
-    "2026-11-06T22:46:10+00:00"
+    "2026-11-06T22:46:10+00:00",
+    "2026-11-18T00:43:57+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Field Marketer",
    "url": "https://jobs.ashbyhq.com/notion/42279d85-cf60-4c3c-bf82-92b9e215f3c7"
   },
@@ -1807,7 +1812,7 @@
    "url": "https://jobs.ashbyhq.com/notion/9a849c30-11ad-44ad-86e5-ecb7cc4b7934"
   },
   "9c2e6e72-6dc0-496c-a705-32d441fa04c7": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "People",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2105,6 +2110,21 @@
    "reopened": 0,
    "title": "Lead Product Marketing Manager, Core Product",
    "url": "https://jobs.ashbyhq.com/notion/b58ad3ae-5fdd-4a9f-9ef5-0c0f3ebce147"
+  },
+  "b741addb-c38b-4b62-9786-ea86a30953d2": {
+   "closed_at": null,
+   "department": "User Research and Product Operations",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "market researcher @ san francisco, california",
+   "location": "San Francisco, California",
+   "posted_at": "2026-11-17T19:57:50+00:00",
+   "posted_history": [
+    "2026-11-17T19:57:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Market Researcher",
+   "url": "https://jobs.ashbyhq.com/notion/b741addb-c38b-4b62-9786-ea86a30953d2"
   },
   "b7518817-864a-41d2-bc51-962691bc0265": {
    "closed_at": "2026-11-11T11:27:30+00:00",
@@ -2526,6 +2546,21 @@
    "title": "Outcomes Architect, CEE (Customer Success)",
    "url": "https://jobs.ashbyhq.com/notion/d8ece3fa-37ca-40c8-9092-ebccdbdadd5a"
   },
+  "da9a9a45-10e3-4c6a-916f-f89ee4cf29a4": {
+   "closed_at": null,
+   "department": "Revenue Operations & Strategy ",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "gtm pricing packaging lead commercial operations @ san francisco, california",
+   "location": "San Francisco, California",
+   "posted_at": "2026-11-17T20:29:04+00:00",
+   "posted_history": [
+    "2026-11-17T20:29:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "GTM Pricing & Packaging Lead, Commercial Operations",
+   "url": "https://jobs.ashbyhq.com/notion/da9a9a45-10e3-4c6a-916f-f89ee4cf29a4"
+  },
   "dc87f28a-5666-4c51-b1f5-f539c6a5ce2b": {
    "closed_at": null,
    "department": "Sales",
@@ -2870,6 +2905,21 @@
    "reopened": 0,
    "title": "Software Engineer, Growth",
    "url": "https://jobs.ashbyhq.com/notion/f524ef6b-6a8a-4d73-b7ff-eac85bd6c887"
+  },
+  "f5f95c45-7a2b-4abd-9875-f64dfbc89342": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "enterprise solutions consultant @ new york, new york",
+   "location": "New York, New York",
+   "posted_at": "2026-11-17T14:24:44+00:00",
+   "posted_history": [
+    "2026-11-17T14:24:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Solutions Consultant (New York, NY)",
+   "url": "https://jobs.ashbyhq.com/notion/f5f95c45-7a2b-4abd-9875-f64dfbc89342"
   },
   "f603aedb-1454-4a75-b2f0-a3afb2a8f973": {
    "closed_at": null,

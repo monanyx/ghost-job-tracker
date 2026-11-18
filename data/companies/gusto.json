@@ -119,6 +119,10 @@
   {
    "date": "2026-11-17",
    "open": 78
+  },
+  {
+   "date": "2026-11-18",
+   "open": 78
   }
  ],
  "jobs": {
@@ -933,7 +937,7 @@
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8120017"
   },
   "8128422": {
-   "closed_at": "2026-11-14T10:56:25+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
@@ -943,7 +947,7 @@
    "posted_history": [
     "2026-09-04T23:00:33+00:00"
    ],
-   "reopened": 1,
+   "reopened": 2,
    "title": "Senior L&D Specialist",
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8128422"
   },
@@ -1233,7 +1237,7 @@
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8180461"
   },
   "8189814": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1267,8 +1271,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
-   "fp": "premier account partner @ atlanta, ga - hybrid; scottsdale, az - hybrid",
-   "location": "Atlanta, GA - Hybrid; Scottsdale, AZ - Hybrid",
+   "fp": "premier account partner @ atlanta, ga - hybrid; denver, co - hybrid",
+   "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid",
    "posted_at": "2026-09-15T21:58:37+00:00",
    "posted_history": [
     "2026-09-15T21:58:37+00:00"
@@ -1742,6 +1746,21 @@
    "title": "Principal Product Manager, HR Experiences",
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8260099"
   },
+  "8260696": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "senior product counsel hr products @ denver, co - hybrid; new york, ny - hybrid; san francisco, ca - hybrid",
+   "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+   "posted_at": "2026-11-17T23:45:51+00:00",
+   "posted_history": [
+    "2026-11-17T23:45:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Counsel - HR Products",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8260696"
+  },
   "8263050": {
    "closed_at": null,
    "department": "",
@@ -1772,6 +1791,21 @@
    "title": "Manager, Account Executive Platform Sales",
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8268021"
   },
+  "8274972": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "product counsel hr products @ denver, co - hybrid; new york, ny - hybrid; san francisco, ca - hybrid",
+   "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+   "posted_at": "2026-11-17T23:37:37+00:00",
+   "posted_history": [
+    "2026-11-17T23:37:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Counsel - HR Products",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8274972"
+  },
   "8275011": {
    "closed_at": null,
    "department": "",
@@ -1788,7 +1822,7 @@
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8275011"
   },
   "8275021": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1897,14 +1931,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
-   "fp": "product counsel payroll and fintech @ san francisco, ca - hybrid",
+   "fp": "senior product counsel payroll and fintech @ san francisco, ca - hybrid",
    "location": "San Francisco, CA - Hybrid",
    "posted_at": "2026-10-26T16:59:37+00:00",
    "posted_history": [
     "2026-10-26T16:59:37+00:00"
    ],
    "reopened": 0,
-   "title": "Product Counsel, Payroll and Fintech",
+   "title": "Senior Product Counsel, Payroll and Fintech",
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8304582"
   },
   "8346795": {
@@ -1983,7 +2017,7 @@
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8348189"
   },
   "8350346": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",

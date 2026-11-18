@@ -119,6 +119,10 @@
   {
    "date": "2026-11-17",
    "open": 386
+  },
+  {
+   "date": "2026-11-18",
+   "open": 383
   }
  ],
  "jobs": {
@@ -454,7 +458,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/0a8ca756-7d41-46cc-8cde-960af47658b2"
   },
   "0b11604a-3743-4202-85d2-260dee788611": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "Security",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -558,6 +562,21 @@
    "reopened": 0,
    "title": "Enterprise Customer Success Manager",
    "url": "https://jobs.ashbyhq.com/harvey/0d750bf9-d3f2-4816-9e28-23d12a0ef2e2"
+  },
+  "0eeba998-e84a-4f37-a8f5-2ddd7399bd50": {
+   "closed_at": null,
+   "department": "Go to Market",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "gtm strategy operations emea @ london",
+   "location": "London",
+   "posted_at": "2026-11-17T14:10:46+00:00",
+   "posted_history": [
+    "2026-11-17T14:10:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "GTM Strategy & Operations, EMEA",
+   "url": "https://jobs.ashbyhq.com/harvey/0eeba998-e84a-4f37-a8f5-2ddd7399bd50"
   },
   "0f28d396-8240-4caf-a8aa-18bb8c6d35bf": {
    "closed_at": null,
@@ -1080,14 +1099,14 @@
    "department": "Marketing",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
-   "fp": "field marketing manager @ san francisco",
+   "fp": "senior field marketing manager @ san francisco",
    "location": "San Francisco",
    "posted_at": "2026-11-02T22:22:27+00:00",
    "posted_history": [
     "2026-11-02T22:22:27+00:00"
    ],
    "reopened": 0,
-   "title": "Field Marketing Manager",
+   "title": "Senior Field Marketing Manager",
    "url": "https://jobs.ashbyhq.com/harvey/21b528c7-ca25-4caf-9b19-9709e2caab50"
   },
   "21e7d9f0-4d47-435e-8acf-c220b6bd720c": {
@@ -2594,9 +2613,10 @@
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "director of product security @ san francisco",
    "location": "San Francisco",
-   "posted_at": "2026-09-30T18:14:04+00:00",
+   "posted_at": "2026-11-18T00:36:17+00:00",
    "posted_history": [
-    "2026-09-30T18:14:04+00:00"
+    "2026-09-30T18:14:04+00:00",
+    "2026-11-18T00:36:17+00:00"
    ],
    "reopened": 0,
    "title": "Director of Product Security",
@@ -2859,7 +2879,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/5e68f8ed-1e00-4bd4-acfd-54405f553a0e"
   },
   "5ed49bc7-8cbe-46c3-8372-3db733ad02fb": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "Customer Experience",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
@@ -3827,7 +3847,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/7ef2c12e-dd17-4d8c-a445-bd4ebf559484"
   },
   "7f8fd013-5d67-4029-88ac-23818c8b0675": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "Customer Experience",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
@@ -5046,7 +5066,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/a950ea5d-d1be-491c-b8c3-1c30237aa1bc"
   },
   "a9ad715e-6724-4ab8-a739-2cec5cd0e61f": {
-   "closed_at": null,
+   "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "Customer Experience",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
@@ -6397,14 +6417,14 @@
    "department": "Recruiting",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "lead technical recruiter research @ san francisco",
+   "fp": "senior research recruiter @ san francisco",
    "location": "San Francisco",
    "posted_at": "2026-10-06T17:52:09+00:00",
    "posted_history": [
     "2026-10-06T17:52:09+00:00"
    ],
    "reopened": 0,
-   "title": "Lead Technical Recruiter - Research",
+   "title": "Senior Research Recruiter",
    "url": "https://jobs.ashbyhq.com/harvey/d6ceb665-d5a2-483e-82ee-8b6f1445d29c"
   },
   "d6ea5dcb-17a9-4aad-82a3-c789812ca9ed": {
@@ -6517,14 +6537,14 @@
    "department": "Recruiting",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "lead technical recruiter research @ new york",
+   "fp": "senior research recruiter @ new york",
    "location": "New York",
    "posted_at": "2026-10-06T17:51:11+00:00",
    "posted_history": [
     "2026-10-06T17:51:11+00:00"
    ],
    "reopened": 0,
-   "title": "Lead Technical Recruiter - Research",
+   "title": "Senior Research Recruiter",
    "url": "https://jobs.ashbyhq.com/harvey/da713961-ca51-4b13-a744-d089058cc9c5"
   },
   "daad560f-c851-4cb9-89ac-efb2186c4031": {

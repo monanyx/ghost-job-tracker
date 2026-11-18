@@ -119,6 +119,10 @@
   {
    "date": "2026-11-17",
    "open": 125
+  },
+  {
+   "date": "2026-11-18",
+   "open": 127
   }
  ],
  "jobs": {
@@ -714,11 +718,12 @@
    "department": "Product Management & Program Management",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "technical program manager ai delivery @ united states",
-   "location": "United States",
-   "posted_at": "2026-09-03T21:22:39+00:00",
+   "fp": "technical program manager ai delivery @ canada",
+   "location": "Canada",
+   "posted_at": "2026-11-17T13:48:48+00:00",
    "posted_history": [
-    "2026-09-03T21:22:39+00:00"
+    "2026-09-03T21:22:39+00:00",
+    "2026-11-17T13:48:48+00:00"
    ],
    "reopened": 0,
    "title": "Technical Program Manager, AI Delivery",
@@ -1000,14 +1005,14 @@
    "department": "People Operations",
    "evergreen": false,
    "first_seen": "2026-11-17T12:29:08+00:00",
-   "fp": "compensation business partner @ new york",
+   "fp": "tech compensation business partner @ new york",
    "location": "New York",
    "posted_at": "2026-11-16T23:39:23+00:00",
    "posted_history": [
     "2026-11-16T23:39:23+00:00"
    ],
    "reopened": 0,
-   "title": "Compensation Business Partner",
+   "title": "Tech Compensation Business Partner",
    "url": "https://jobs.ashbyhq.com/cohere/5a61f4d2-5a52-4c98-a8a9-71fbfd67e485"
   },
   "5adf044a-a601-467a-bb92-807850b4f7ec": {
@@ -1295,6 +1300,21 @@
    "title": "Research Internship (Winter 2027)",
    "url": "https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785"
   },
+  "74373c60-3ce9-48fd-ae8d-5235fa24c682": {
+   "closed_at": null,
+   "department": "People Operations",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "talent coordinator @ germany",
+   "location": "Germany",
+   "posted_at": "2026-11-17T14:16:50+00:00",
+   "posted_history": [
+    "2026-11-17T14:16:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Talent Coordinator",
+   "url": "https://jobs.ashbyhq.com/cohere/74373c60-3ce9-48fd-ae8d-5235fa24c682"
+  },
   "75765a04-82cb-4d17-ac53-09b156656a7d": {
    "closed_at": null,
    "department": "Design",
@@ -1339,6 +1359,21 @@
    "reopened": 0,
    "title": "Manager, Corporate Accounting",
    "url": "https://jobs.ashbyhq.com/cohere/77885bc2-a88a-421b-a2d6-ae209a8fa758"
+  },
+  "789f7d5f-d829-45b6-a1ed-b9cff0c92389": {
+   "closed_at": null,
+   "department": "Business Operations",
+   "evergreen": false,
+   "first_seen": "2026-11-18T12:16:07+00:00",
+   "fp": "direct strategic sourcing lead @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-11-17T16:59:49+00:00",
+   "posted_history": [
+    "2026-11-17T16:59:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Direct Strategic Sourcing Lead",
+   "url": "https://jobs.ashbyhq.com/cohere/789f7d5f-d829-45b6-a1ed-b9cff0c92389"
   },
   "7e0e08ed-4b12-4aaa-8dda-ad6292992061": {
    "closed_at": null,
