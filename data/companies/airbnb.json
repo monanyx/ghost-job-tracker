@@ -123,6 +123,10 @@
   {
    "date": "2026-11-18",
    "open": 199
+  },
+  {
+   "date": "2026-11-19",
+   "open": 197
   }
  ],
  "jobs": {
@@ -457,7 +461,7 @@
    "url": "https://careers.airbnb.com/positions/7789554?gh_jid=7789554"
   },
   "7818982": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -472,7 +476,7 @@
    "url": "https://careers.airbnb.com/positions/7818982?gh_jid=7818982"
   },
   "7826337": {
-   "closed_at": "2026-11-14T10:56:25+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -482,7 +486,7 @@
    "posted_history": [
     "2026-04-20T23:45:42+00:00"
    ],
-   "reopened": 1,
+   "reopened": 2,
    "title": "Machine Learning Engineer, Assistance Engineering",
    "url": "https://careers.airbnb.com/positions/7826337?gh_jid=7826337"
   },
@@ -785,6 +789,21 @@
    "reopened": 0,
    "title": "Market Manager - Vacation Rental",
    "url": "https://careers.airbnb.com/positions/8000413?gh_jid=8000413"
+  },
+  "8014904": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "senior machine learning engineer assistance engineering @ remote-usa",
+   "location": "Remote-USA",
+   "posted_at": "2026-06-18T17:34:30+00:00",
+   "posted_history": [
+    "2026-06-18T17:34:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Machine Learning Engineer, Assistance Engineering",
+   "url": "https://careers.airbnb.com/positions/8014904?gh_jid=8014904"
   },
   "8023118": {
    "closed_at": null,
@@ -1256,8 +1275,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior support specialist premium support @ canada",
-   "location": "Canada",
+   "fp": "senior support specialist premium support @ british columbia, alberta",
+   "location": "British Columbia, Alberta",
    "posted_at": "2026-08-05T15:03:52+00:00",
    "posted_history": [
     "2026-08-05T15:03:52+00:00"
@@ -1271,8 +1290,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "sp cialiste principal soutien premium @ canada",
-   "location": "Canada",
+   "fp": "sp cialiste principal soutien premium @ british columbia, alberta",
+   "location": "British Columbia, Alberta",
    "posted_at": "2026-08-05T15:03:54+00:00",
    "posted_history": [
     "2026-08-05T15:03:54+00:00"
@@ -1762,7 +1781,7 @@
    "url": "https://careers.airbnb.com/positions/8185136?gh_jid=8185136"
   },
   "8187190": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-13T11:35:01+00:00",
@@ -1957,7 +1976,7 @@
    "url": "https://careers.airbnb.com/positions/8207342?gh_jid=8207342"
   },
   "8209244": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -2561,8 +2580,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "product manager api platform @ united states",
-   "location": "United States",
+   "fp": "product manager api platform @ san francisco, ca",
+   "location": "San Francisco, CA",
    "posted_at": "2026-10-09T20:49:23+00:00",
    "posted_history": [
     "2026-10-09T20:49:23+00:00"
@@ -3011,8 +3030,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
-   "fp": "product manager social features @ united states",
-   "location": "United States",
+   "fp": "product manager social features @ san francisco, ca",
+   "location": "San Francisco, CA ",
    "posted_at": "2026-10-20T18:20:30+00:00",
    "posted_history": [
     "2026-10-20T18:20:30+00:00"
@@ -3532,7 +3551,7 @@
    "url": "https://careers.airbnb.com/positions/8306218?gh_jid=8306218"
   },
   "8306554": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
@@ -3547,7 +3566,7 @@
    "url": "https://careers.airbnb.com/positions/8306554?gh_jid=8306554"
   },
   "8306555": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
@@ -4012,7 +4031,7 @@
    "url": "https://careers.airbnb.com/positions/8334372?gh_jid=8334372"
   },
   "8334730": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -4027,7 +4046,7 @@
    "url": "https://careers.airbnb.com/positions/8334730?gh_jid=8334730"
   },
   "8334731": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
@@ -4406,14 +4425,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-18T12:16:07+00:00",
-   "fp": "account executive @ singapore",
+   "fp": "market manager hotels @ singapore",
    "location": "Singapore",
    "posted_at": "2026-11-18T02:00:15+00:00",
    "posted_history": [
     "2026-11-18T02:00:15+00:00"
    ],
    "reopened": 0,
-   "title": "Account Executive",
+   "title": "Market Manager, Hotels",
    "url": "https://careers.airbnb.com/positions/8351513?gh_jid=8351513"
   },
   "8352713": {
@@ -4432,7 +4451,7 @@
    "url": "https://careers.airbnb.com/positions/8352713?gh_jid=8352713"
   },
   "8354382": {
-   "closed_at": "2026-11-12T11:51:19+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-05T11:30:12+00:00",
@@ -4442,7 +4461,7 @@
    "posted_history": [
     "2026-11-04T23:49:21+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Manager, Business Technology Enablement",
    "url": "https://careers.airbnb.com/positions/8354382?gh_jid=8354382"
   },
@@ -4522,7 +4541,7 @@
    "url": "https://careers.airbnb.com/positions/8356755?gh_jid=8356755"
   },
   "8356835": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-13T11:35:01+00:00",
@@ -4746,6 +4765,21 @@
    "title": "Communications Intern, France",
    "url": "https://careers.airbnb.com/positions/8376005?gh_jid=8376005"
   },
+  "8376045": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "brand marketing intern france @ paris, france",
+   "location": "Paris, France",
+   "posted_at": "2026-11-18T17:41:29+00:00",
+   "posted_history": [
+    "2026-11-18T17:41:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Brand Marketing Intern, France",
+   "url": "https://careers.airbnb.com/positions/8376045?gh_jid=8376045"
+  },
   "8376087": {
    "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
@@ -4941,6 +4975,21 @@
    "title": "Senior Key Accounts Manager",
    "url": "https://careers.airbnb.com/positions/8383090?gh_jid=8383090"
   },
+  "8383877": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "senior connectivity partner manager @ united states",
+   "location": "United States",
+   "posted_at": "2026-11-18T16:46:18+00:00",
+   "posted_history": [
+    "2026-11-18T16:46:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Connectivity Partner Manager",
+   "url": "https://careers.airbnb.com/positions/8383877?gh_jid=8383877"
+  },
   "8383913": {
    "closed_at": null,
    "department": "",
@@ -4955,6 +5004,21 @@
    "reopened": 0,
    "title": "Lead, Quality, Elevated Support",
    "url": "https://careers.airbnb.com/positions/8383913?gh_jid=8383913"
+  },
+  "8385577": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "communications manager trust @ san francisco, united states",
+   "location": "San Francisco, United States ",
+   "posted_at": "2026-11-18T15:37:40+00:00",
+   "posted_history": [
+    "2026-11-18T15:37:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Communications Manager, Trust",
+   "url": "https://careers.airbnb.com/positions/8385577?gh_jid=8385577"
   },
   "8386065": {
    "closed_at": "2026-11-17T12:29:08+00:00",

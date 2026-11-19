@@ -123,6 +123,10 @@
   {
    "date": "2026-11-18",
    "open": 396
+  },
+  {
+   "date": "2026-11-19",
+   "open": 403
   }
  ],
  "jobs": {
@@ -3191,14 +3195,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "technical account manager @ gurugram",
+   "fp": "senior technical account manager @ gurugram",
    "location": "Gurugram",
    "posted_at": "2026-09-14T06:49:56+00:00",
    "posted_history": [
     "2026-09-14T06:49:56+00:00"
    ],
    "reopened": 0,
-   "title": "Technical Account Manager",
+   "title": "Senior Technical Account Manager",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8120184"
   },
   "8121701": {
@@ -4091,14 +4095,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-13T11:35:01+00:00",
-   "fp": "escalation manager @ hawaii",
+   "fp": "critical situation manager @ hawaii",
    "location": "Hawaii",
    "posted_at": "2026-11-12T15:00:06+00:00",
    "posted_history": [
     "2026-11-12T15:00:06+00:00"
    ],
    "reopened": 0,
-   "title": "Escalation Manager",
+   "title": "Critical Situation Manager",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8170620"
   },
   "8170628": {
@@ -4282,7 +4286,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8173795"
   },
   "8173798": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4841,14 +4845,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "associate tse ii @ bengaluru",
+   "fp": "technical services engineer @ bengaluru",
    "location": "Bengaluru",
    "posted_at": "2026-09-24T05:54:52+00:00",
    "posted_history": [
     "2026-09-24T05:54:52+00:00"
    ],
    "reopened": 1,
-   "title": "Associate TSE II",
+   "title": "Technical Services Engineer (Weekend working)",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8205430"
   },
   "8205437": {
@@ -5081,14 +5085,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "technical account manager @ bengaluru",
+   "fp": "senior technical account manager @ bengaluru",
    "location": "Bengaluru",
    "posted_at": "2026-09-18T08:55:12+00:00",
    "posted_history": [
     "2026-09-18T08:55:12+00:00"
    ],
    "reopened": 0,
-   "title": "Technical Account Manager",
+   "title": "Senior Technical Account Manager",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8213069"
   },
   "8213746": {
@@ -7551,6 +7555,21 @@
    "title": "Software Engineer 3",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8349259"
   },
+  "8349265": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "senior software engineer @ dublin; dublin, ireland",
+   "location": "Dublin; Dublin, Ireland",
+   "posted_at": "2026-11-18T14:38:36+00:00",
+   "posted_history": [
+    "2026-11-18T14:38:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8349265"
+  },
   "8350841": {
    "closed_at": null,
    "department": "",
@@ -7670,6 +7689,21 @@
    "reopened": 0,
    "title": "Lead, Technical Services Engineering",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8354988"
+  },
+  "8355201": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "staff technical program manager growth @ new york city; united states",
+   "location": "New York City; United States",
+   "posted_at": "2026-11-18T21:56:34+00:00",
+   "posted_history": [
+    "2026-11-18T21:56:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Technical Program Manager, Growth",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8355201"
   },
   "8355268": {
    "closed_at": null,
@@ -8121,6 +8155,21 @@
    "title": "Senior Solutions Architect (Pre-Sales)",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8381821"
   },
+  "8381861": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "associate technical services engineer @ mexico city",
+   "location": "Mexico City",
+   "posted_at": "2026-11-19T01:26:55+00:00",
+   "posted_history": [
+    "2026-11-19T01:26:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Associate Technical Services Engineer",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8381861"
+  },
   "8381869": {
    "closed_at": null,
    "department": "",
@@ -8150,6 +8199,21 @@
    "reopened": 0,
    "title": "Lead, Candidate Experience",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8381870"
+  },
+  "8381890": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "regional marketing manager japan @ tokyo",
+   "location": "Tokyo",
+   "posted_at": "2026-11-19T03:32:24+00:00",
+   "posted_history": [
+    "2026-11-19T03:32:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Regional Marketing Manager, Japan",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8381890"
   },
   "8381898": {
    "closed_at": null,
@@ -8471,14 +8535,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-18T12:16:07+00:00",
-   "fp": "lead ai startup and dn marketing @ dublin, ireland",
+   "fp": "manager emea demand generation @ dublin, ireland",
    "location": "Dublin, Ireland",
    "posted_at": "2026-11-18T10:50:44+00:00",
    "posted_history": [
     "2026-11-18T10:50:44+00:00"
    ],
    "reopened": 0,
-   "title": "Lead, AI Startup and DN Marketing",
+   "title": "Manager, EMEA Demand Generation",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8395592"
   },
   "8396867": {
@@ -8495,6 +8559,36 @@
    "reopened": 0,
    "title": "Senior Network Engineer",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8396867"
+  },
+  "8397699": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "senior software engineer cloud payments @ atlanta; austin; boston; chicago; dallas; denver; los angeles; new york city; palo alto; princeton; san francisco; seattle; united states; washington dc",
+   "location": "Atlanta; Austin; Boston; Chicago; Dallas; Denver; Los Angeles; New York City; Palo Alto; Princeton; San Francisco; Seattle; United States; Washington DC",
+   "posted_at": "2026-11-18T22:08:42+00:00",
+   "posted_history": [
+    "2026-11-18T22:08:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Cloud Payments",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8397699"
+  },
+  "8397701": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "senior software engineer cloud payments @ toronto; vancouver",
+   "location": "Toronto; Vancouver",
+   "posted_at": "2026-11-18T22:08:44+00:00",
+   "posted_history": [
+    "2026-11-18T22:08:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Cloud Payments",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8397701"
   },
   "8398664": {
    "closed_at": null,
@@ -8525,6 +8619,36 @@
    "reopened": 0,
    "title": "Technical Recruiter, Contract",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8398670"
+  },
+  "8399041": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "staff technical program manager growth @ ontario; quebec; toronto",
+   "location": "Ontario; Quebec; Toronto",
+   "posted_at": "2026-11-18T21:56:36+00:00",
+   "posted_history": [
+    "2026-11-18T21:56:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Technical Program Manager, Growth",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8399041"
+  },
+  "8399277": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "senior solutions architect @ beijing",
+   "location": "Beijing",
+   "posted_at": "2026-11-19T08:05:59+00:00",
+   "posted_history": [
+    "2026-11-19T08:05:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Solutions Architect",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8399277"
   }
  }
 }

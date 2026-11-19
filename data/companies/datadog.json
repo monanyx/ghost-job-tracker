@@ -123,6 +123,10 @@
   {
    "date": "2026-11-18",
    "open": 381
+  },
+  {
+   "date": "2026-11-19",
+   "open": 379
   }
  ],
  "jobs": {
@@ -1316,8 +1320,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "major account manager @ boston, massachusetts, usa; mexico city, mexico; new york, new york, usa",
-   "location": "Boston, Massachusetts, USA; Mexico City, Mexico; New York, New York, USA",
+   "fp": "major account manager @ boston, massachusetts, usa; new york, new york, usa",
+   "location": "Boston, Massachusetts, USA; New York, New York, USA",
    "posted_at": "2025-12-17T17:04:06+00:00",
    "posted_history": [
     "2025-12-17T17:04:06+00:00"
@@ -1567,7 +1571,7 @@
    "url": "https://careers.datadoghq.com/detail/7442122/?gh_jid=7442122"
   },
   "7452669": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1730,6 +1734,21 @@
    "reopened": 0,
    "title": "Enterprise Sales Engineer - UK/Ireland",
    "url": "https://careers.datadoghq.com/detail/7487353/?gh_jid=7487353"
+  },
+  "7492312": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "major account manager @ florida, usa, remote; north carolina, usa, remote",
+   "location": "Florida, USA, Remote; North Carolina, USA, Remote",
+   "posted_at": "2025-12-23T13:45:13+00:00",
+   "posted_history": [
+    "2025-12-23T13:45:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Major Account Manager",
+   "url": "https://careers.datadoghq.com/detail/7492312/?gh_jid=7492312"
   },
   "7496237": {
    "closed_at": null,
@@ -1957,7 +1976,7 @@
    "url": "https://careers.datadoghq.com/detail/7579684/?gh_jid=7579684"
   },
   "7582679": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2002,7 +2021,7 @@
    "url": "https://careers.datadoghq.com/detail/7583609/?gh_jid=7583609"
   },
   "7584250": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2317,18 +2336,18 @@
    "url": "https://careers.datadoghq.com/detail/7807783/?gh_jid=7807783"
   },
   "7811662": {
-   "closed_at": "2026-11-11T11:27:30+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-06T11:30:42+00:00",
-   "fp": "senior sales engineer public sector japan @ tokyo, japan",
+   "fp": "senior sales engineer @ tokyo, japan",
    "location": "Tokyo, Japan",
    "posted_at": "2026-04-21T01:33:03+00:00",
    "posted_history": [
     "2026-04-21T01:33:03+00:00"
    ],
-   "reopened": 0,
-   "title": "Senior Sales Engineer, Public Sector Japan",
+   "reopened": 1,
+   "title": "Senior Sales Engineer",
    "url": "https://careers.datadoghq.com/detail/7811662/?gh_jid=7811662"
   },
   "7834545": {
@@ -3832,7 +3851,7 @@
    "url": "https://careers.datadoghq.com/detail/8109441/?gh_jid=8109441"
   },
   "8113116": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4882,7 +4901,7 @@
    "url": "https://careers.datadoghq.com/detail/8173897/?gh_jid=8173897"
   },
   "8173964": {
-   "closed_at": "2026-11-06T11:30:42+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4892,7 +4911,7 @@
    "posted_history": [
     "2026-09-15T20:07:30+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Manager, Field Enablement EMEA",
    "url": "https://careers.datadoghq.com/detail/8173964/?gh_jid=8173964"
   },
@@ -5711,8 +5730,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "manager business recruiting enterprise sales @ new york, new york, usa",
-   "location": "New York, New York, USA",
+   "fp": "manager business recruiting enterprise sales @ boston, massachusetts, usa; new york, new york, usa",
+   "location": "Boston, Massachusetts, USA; New York, New York, USA",
    "posted_at": "2026-09-28T19:25:23+00:00",
    "posted_history": [
     "2026-09-28T19:25:23+00:00"
@@ -6082,7 +6101,7 @@
    "url": "https://careers.datadoghq.com/detail/8238714/?gh_jid=8238714"
   },
   "8239749": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7301,14 +7320,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
-   "fp": "manager business recruiting gtm ecosystems @ new york, new york, usa",
-   "location": "New York, New York, USA",
+   "fp": "manager business recruiting gtm @ boston, massachusetts, usa; new york, new york, usa",
+   "location": "Boston, Massachusetts, USA; New York, New York, USA",
    "posted_at": "2026-10-21T18:56:51+00:00",
    "posted_history": [
     "2026-10-21T18:56:51+00:00"
    ],
    "reopened": 0,
-   "title": "Manager, Business Recruiting - GTM Ecosystems",
+   "title": "Manager, Business Recruiting - GTM",
    "url": "https://careers.datadoghq.com/detail/8306557/?gh_jid=8306557"
   },
   "8310668": {
@@ -7327,7 +7346,7 @@
    "url": "https://careers.datadoghq.com/detail/8310668/?gh_jid=8310668"
   },
   "8311586": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-06T11:30:42+00:00",
@@ -8225,6 +8244,21 @@
    "reopened": 0,
    "title": "Staff Research Scientist - Foundation & World Models",
    "url": "https://careers.datadoghq.com/detail/8385205/?gh_jid=8385205"
+  },
+  "8393631": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "director technical support engineering premier emea @ dublin, ireland; paris, france",
+   "location": "Dublin, Ireland; Paris, France",
+   "posted_at": "2026-11-18T15:28:55+00:00",
+   "posted_history": [
+    "2026-11-18T15:28:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Director, Technical Support Engineering, Premier - EMEA",
+   "url": "https://careers.datadoghq.com/detail/8393631/?gh_jid=8393631"
   }
  }
 }

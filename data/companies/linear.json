@@ -123,6 +123,10 @@
   {
    "date": "2026-11-18",
    "open": 33
+  },
+  {
+   "date": "2026-11-19",
+   "open": 32
   }
  ],
  "jobs": {
@@ -262,7 +266,7 @@
    "url": "https://jobs.ashbyhq.com/linear/41b3ed5c-f7a0-40b7-8a77-4952868c3d47"
   },
   "493579ff-3198-420f-ab6a-b8bb971cb513": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "Product",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

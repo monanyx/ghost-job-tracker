@@ -123,11 +123,15 @@
   {
    "date": "2026-11-18",
    "open": 140
+  },
+  {
+   "date": "2026-11-19",
+   "open": 135
   }
  ],
  "jobs": {
   "5657930004": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -142,7 +146,7 @@
    "url": "https://epicgames.com/careers/jobs/5657930004?gh_jid=5657930004"
   },
   "5657932004": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -202,7 +206,7 @@
    "url": "https://epicgames.com/careers/jobs/5674511004?gh_jid=5674511004"
   },
   "5687406004": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1177,7 +1181,7 @@
    "url": "https://epicgames.com/careers/jobs/6144315004?gh_jid=6144315004"
   },
   "6147154004": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1552,7 +1556,7 @@
    "url": "https://epicgames.com/careers/jobs/6193455004?gh_jid=6193455004"
   },
   "6193647004": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1627,7 +1631,7 @@
    "url": "https://epicgames.com/careers/jobs/6196661004?gh_jid=6196661004"
   },
   "6200355004": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2482,7 +2486,7 @@
    "url": "https://epicgames.com/careers/jobs/6231468004?gh_jid=6231468004"
   },
   "6232770004": {
-   "closed_at": "2026-10-31T09:57:28+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
@@ -2492,7 +2496,7 @@
    "posted_history": [
     "2026-10-23T18:40:20+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Tools Programmer Intern (Graphics)",
    "url": "https://epicgames.com/careers/jobs/6232770004?gh_jid=6232770004"
   },

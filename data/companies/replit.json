@@ -123,6 +123,10 @@
   {
    "date": "2026-11-18",
    "open": 35
+  },
+  {
+   "date": "2026-11-19",
+   "open": 36
   }
  ],
  "jobs": {
@@ -791,7 +795,7 @@
    "url": "https://jobs.ashbyhq.com/replit/8fbbe594-596a-4a4f-844b-dc00111e717f"
   },
   "9394684e-814c-4a3c-b5ed-19612e4331bc": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "GTM",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -865,6 +869,21 @@
    "reopened": 0,
    "title": "Forward Deployed Engineer",
    "url": "https://jobs.ashbyhq.com/replit/9a56d0ac-db44-4dc1-b960-2364557bf4c8"
+  },
+  "9b211cc2-dcb2-4902-b84f-a5a2d5d0705f": {
+   "closed_at": null,
+   "department": "GTM",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "business operations analyst @ foster city, ca",
+   "location": "Foster City, CA",
+   "posted_at": "2026-11-18T18:19:54+00:00",
+   "posted_history": [
+    "2026-11-18T18:19:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Business Operations Analyst",
+   "url": "https://jobs.ashbyhq.com/replit/9b211cc2-dcb2-4902-b84f-a5a2d5d0705f"
   },
   "a45ca7ba-21f9-464d-8c00-eb5361b3c9f4": {
    "closed_at": "2026-11-05T11:30:12+00:00",
@@ -1242,6 +1261,21 @@
    "reopened": 0,
    "title": "Staff Software Engineer, Replit Cloud",
    "url": "https://jobs.ashbyhq.com/replit/f98605a1-36d2-4b2f-b9be-f66064a02645"
+  },
+  "fa9ee306-7e2b-4d94-87d1-0db292102f03": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "senior staff software engineer connectors platform @ foster city, ca",
+   "location": "Foster City, CA",
+   "posted_at": "2026-11-18T19:14:36+00:00",
+   "posted_history": [
+    "2026-11-18T19:14:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior / Staff Software Engineer, Connectors Platform",
+   "url": "https://jobs.ashbyhq.com/replit/fa9ee306-7e2b-4d94-87d1-0db292102f03"
   },
   "fe171a6b-ebbb-4ecb-bc74-01b2131bc0c6": {
    "closed_at": "2026-10-24T08:24:32+00:00",

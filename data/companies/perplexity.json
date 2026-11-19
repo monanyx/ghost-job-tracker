@@ -123,6 +123,10 @@
   {
    "date": "2026-11-18",
    "open": 147
+  },
+  {
+   "date": "2026-11-19",
+   "open": 147
   }
  ],
  "jobs": {
@@ -296,14 +300,14 @@
    "department": "Revenue Operations",
    "evergreen": false,
    "first_seen": "2026-11-13T11:35:01+00:00",
-   "fp": "head of marketing operations @ san francisco",
+   "fp": "head of pipeline operations @ san francisco",
    "location": "San Francisco",
    "posted_at": "2026-11-13T00:49:59+00:00",
    "posted_history": [
     "2026-11-13T00:49:59+00:00"
    ],
    "reopened": 0,
-   "title": "Head of Marketing Operations",
+   "title": "Head of Pipeline Operations",
    "url": "https://jobs.ashbyhq.com/Perplexity/0ddf1b9a-9875-445c-a78f-f033d023a34a"
   },
   "1056951e-8a42-4330-b72c-90162b3cd1c9": {
@@ -313,9 +317,10 @@
    "first_seen": "2026-11-08T10:46:34+00:00",
    "fp": "member of technical staff @ san francisco",
    "location": "San Francisco",
-   "posted_at": "2026-11-07T20:08:31+00:00",
+   "posted_at": "2026-11-19T04:37:03+00:00",
    "posted_history": [
-    "2026-11-07T20:08:31+00:00"
+    "2026-11-07T20:08:31+00:00",
+    "2026-11-19T04:37:03+00:00"
    ],
    "reopened": 0,
    "title": "Member of Technical Staff (Software Engineer, AI Policy and Strategic Initiatives)",
@@ -328,9 +333,10 @@
    "first_seen": "2026-11-15T11:30:18+00:00",
    "fp": "member of technical staff @ san francisco",
    "location": "San Francisco",
-   "posted_at": "2026-11-15T01:03:15+00:00",
+   "posted_at": "2026-11-19T04:36:58+00:00",
    "posted_history": [
-    "2026-11-15T01:03:15+00:00"
+    "2026-11-15T01:03:15+00:00",
+    "2026-11-19T04:36:58+00:00"
    ],
    "reopened": 0,
    "title": "Member of Technical Staff (AI Software Engineer, Agent Engine)",
@@ -438,7 +444,7 @@
     "2026-11-13T01:15:13+00:00"
    ],
    "reopened": 0,
-   "title": "Member of Technical Staff (Site Reliability Engineer, Crawler)",
+   "title": "Member of Technical Staff (Site Reliability Engineer, Search Crawler)",
    "url": "https://jobs.ashbyhq.com/Perplexity/190962f1-a955-4690-8025-6943dcbf063c"
   },
   "19d8bcfd-e493-4b3a-b8fd-11a2a6502da2": {
@@ -900,11 +906,12 @@
    "first_seen": "2026-10-27T09:20:56+00:00",
    "fp": "engineering manager @ san francisco",
    "location": "San Francisco",
-   "posted_at": "2026-11-09T19:38:54+00:00",
+   "posted_at": "2026-11-19T04:36:53+00:00",
    "posted_history": [
     "2026-10-27T02:05:54+00:00",
     "2026-10-31T00:47:18+00:00",
-    "2026-11-09T19:38:54+00:00"
+    "2026-11-09T19:38:54+00:00",
+    "2026-11-19T04:36:53+00:00"
    ],
    "reopened": 0,
    "title": "Engineering Manager (Agent Engine)",
@@ -1585,7 +1592,7 @@
     "2026-11-17T08:38:27+00:00"
    ],
    "reopened": 0,
-   "title": "Member of Technical Staff (Index Engineer, Search Crawler)",
+   "title": "Member of Technical Staff (Index, Search Crawler)",
    "url": "https://jobs.ashbyhq.com/Perplexity/7f3dc848-6e0b-4ad1-85bc-d24a30179b74"
   },
   "7f880194-7276-4b46-8a50-58b48da8882e": {
@@ -2216,7 +2223,7 @@
     "2026-10-08T17:09:26+00:00"
    ],
    "reopened": 0,
-   "title": "Member of Technical Staff (Search Crawler Analyst)",
+   "title": "Member of Technical Staff (Analyst, Search Crawler)",
    "url": "https://jobs.ashbyhq.com/Perplexity/c20486f5-1e9c-436c-ba67-dc69842c221c"
   },
   "c5dcc0db-7fdc-4e09-86c7-b6618400df16": {
@@ -2564,7 +2571,7 @@
     "2026-07-09T22:28:24+00:00"
    ],
    "reopened": 0,
-   "title": "Member of Technical Staff (Software Engineer, Integrations)",
+   "title": "Member of Technical Staff (Software Engineer, Agent Verticals)",
    "url": "https://jobs.ashbyhq.com/Perplexity/ea87532c-69a0-497d-9cf3-04cc2a6c6410"
   },
   "ebd5d9b3-39c4-498b-85a6-2f565e001d7e": {
@@ -2654,7 +2661,7 @@
     "2026-11-13T00:55:53+00:00"
    ],
    "reopened": 0,
-   "title": "Member of Technical Staff (Web Access Engineer, Crawler)",
+   "title": "Member of Technical Staff (Web Access Engineer, Search Crawler)",
    "url": "https://jobs.ashbyhq.com/Perplexity/f32bb0d4-fb91-4fa6-8d7d-bd1a70ce2836"
   },
   "f3814af2-55a3-49a5-b0cb-67199a2a45fb": {

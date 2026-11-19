@@ -123,6 +123,10 @@
   {
    "date": "2026-11-18",
    "open": 61
+  },
+  {
+   "date": "2026-11-19",
+   "open": 64
   }
  ],
  "jobs": {
@@ -479,7 +483,7 @@
    "url": "https://jobs.ashbyhq.com/n8n/40332dfe-2da2-4655-b343-87d847134b8e"
   },
   "473bcbae-ad3e-4611-8ca3-3499040e5f22": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "Product",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -524,17 +528,18 @@
    "url": "https://jobs.ashbyhq.com/n8n/4a2762be-bc45-4b62-93da-3636df429557"
   },
   "4b44cb99-be47-425c-bba6-8f9976c71ca8": {
-   "closed_at": "2026-10-21T08:53:29+00:00",
+   "closed_at": null,
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "customer success manager guided west coast @ washington state",
    "location": "Washington State",
-   "posted_at": "2026-10-06T08:18:06+00:00",
+   "posted_at": "2026-11-19T09:15:01+00:00",
    "posted_history": [
-    "2026-10-06T08:18:06+00:00"
+    "2026-10-06T08:18:06+00:00",
+    "2026-11-19T09:15:01+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Customer Success Manager - Guided - West Coast",
    "url": "https://jobs.ashbyhq.com/n8n/4b44cb99-be47-425c-bba6-8f9976c71ca8"
   },
@@ -706,6 +711,21 @@
    "title": "Senior FP&A Manager - Marketing",
    "url": "https://jobs.ashbyhq.com/n8n/79df05ec-9629-42d2-a612-06eeaaf2450f"
   },
+  "79e4f4d1-41fa-45fd-acd7-7f305f018754": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "soultions engineering manager @ berlin office",
+   "location": "Berlin Office",
+   "posted_at": "2026-11-18T19:27:11+00:00",
+   "posted_history": [
+    "2026-11-18T19:27:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Soultions Engineering Manager (EMEA)",
+   "url": "https://jobs.ashbyhq.com/n8n/79e4f4d1-41fa-45fd-acd7-7f305f018754"
+  },
   "7a223f15-4d26-4515-837c-dc8a3bcd98d4": {
    "closed_at": null,
    "department": "Sales",
@@ -795,6 +815,21 @@
    "reopened": 0,
    "title": "Senior Support Engineer | Remote | North America",
    "url": "https://jobs.ashbyhq.com/n8n/96d809df-d383-417b-8906-37c6028304f2"
+  },
+  "98d8bc2f-ee58-4732-8977-61a761aac8b0": {
+   "closed_at": null,
+   "department": "Product",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "senior product manager core experience @ berlin office",
+   "location": "Berlin Office",
+   "posted_at": "2026-11-19T10:41:55+00:00",
+   "posted_history": [
+    "2026-11-19T10:41:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Manager - Core Experience",
+   "url": "https://jobs.ashbyhq.com/n8n/98d8bc2f-ee58-4732-8977-61a761aac8b0"
   },
   "98dc8c86-b135-4803-8044-1d6f6a631aa8": {
    "closed_at": null,
@@ -976,6 +1011,21 @@
    "reopened": 0,
    "title": "Sales Development Representative US",
    "url": "https://jobs.ashbyhq.com/n8n/bf5c14d9-3371-416b-9832-2d3c38de3796"
+  },
+  "c24e144d-f675-4ede-aeb8-ca804953a5a6": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "solutions engineer manager @ boston",
+   "location": "Boston",
+   "posted_at": "2026-11-18T19:33:23+00:00",
+   "posted_history": [
+    "2026-11-18T19:33:23+00:00"
+   ],
+   "reopened": 0,
+   "title": "Solutions Engineer Manager  (US)",
+   "url": "https://jobs.ashbyhq.com/n8n/c24e144d-f675-4ede-aeb8-ca804953a5a6"
   },
   "c9fc97fa-a473-4133-b3cb-502785649ecd": {
    "closed_at": null,

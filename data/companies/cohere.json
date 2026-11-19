@@ -123,6 +123,10 @@
   {
    "date": "2026-11-18",
    "open": 127
+  },
+  {
+   "date": "2026-11-19",
+   "open": 125
   }
  ],
  "jobs": {
@@ -217,7 +221,7 @@
    "url": "https://jobs.ashbyhq.com/cohere/0cf19dbd-bfa9-425f-a357-e2bd874bb489"
   },
   "0ef0a9f8-33ac-4360-a833-f8ce8e108a31": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "Data Quality (Contract)",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -538,9 +542,10 @@
    "first_seen": "2026-11-14T10:56:25+00:00",
    "fp": "senior accountant @ san francisco",
    "location": "San Francisco",
-   "posted_at": "2026-11-13T17:57:05+00:00",
+   "posted_at": "2026-11-18T21:54:21+00:00",
    "posted_history": [
-    "2026-11-13T17:57:05+00:00"
+    "2026-11-13T17:57:05+00:00",
+    "2026-11-18T21:54:21+00:00"
    ],
    "reopened": 0,
    "title": "Senior Accountant",
@@ -1391,7 +1396,7 @@
    "url": "https://jobs.ashbyhq.com/cohere/7e0e08ed-4b12-4aaa-8dda-ad6292992061"
   },
   "81450c5f-8495-439b-a1b3-ce7ef9739437": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "Corporate Affairs",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1710,14 +1715,15 @@
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "business development representative french speaking @ united kingdom",
+   "fp": "business development representative @ united kingdom",
    "location": "United Kingdom",
-   "posted_at": "2026-08-04T13:10:21+00:00",
+   "posted_at": "2026-11-19T11:26:11+00:00",
    "posted_history": [
-    "2026-08-04T13:10:21+00:00"
+    "2026-08-04T13:10:21+00:00",
+    "2026-11-19T11:26:11+00:00"
    ],
    "reopened": 0,
-   "title": "Business Development Representative - French Speaking",
+   "title": "Business Development Representative",
    "url": "https://jobs.ashbyhq.com/cohere/9f8d2b51-7fe9-470d-8108-fe5fb48c8a89"
   },
   "a0f174cf-4407-4334-b812-45a767092fca": {
@@ -2100,7 +2106,7 @@
    "department": "Security",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior security engineer @ toronto",
+   "fp": "member of technical staff security @ toronto",
    "location": "Toronto",
    "posted_at": "2026-10-31T15:33:10+00:00",
    "posted_history": [
@@ -2108,7 +2114,7 @@
     "2026-10-31T15:33:10+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Security Engineer",
+   "title": "Member of Technical Staff, Security",
    "url": "https://jobs.ashbyhq.com/cohere/cb981ecd-a161-482c-8d8e-5f19bb6e7fdd"
   },
   "cd7de8ed-1b3d-4977-a909-5c0d04ddfcb3": {

@@ -123,6 +123,10 @@
   {
    "date": "2026-11-18",
    "open": 144
+  },
+  {
+   "date": "2026-11-19",
+   "open": 143
   }
  ],
  "jobs": {
@@ -277,7 +281,7 @@
    "url": "https://boards.greenhouse.io/figma/jobs/5552549004?gh_jid=5552549004"
   },
   "5552560004": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1477,7 +1481,7 @@
    "url": "https://boards.greenhouse.io/figma/jobs/6144873004?gh_jid=6144873004"
   },
   "6147761004": {
-   "closed_at": "2026-10-29T10:25:29+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1487,7 +1491,7 @@
    "posted_history": [
     "2026-09-10T16:19:03+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Executive Assistant, Sales (São Paulo, Brazil)",
    "url": "https://boards.greenhouse.io/figma/jobs/6147761004?gh_jid=6147761004"
   },
@@ -1912,7 +1916,7 @@
    "url": "https://boards.greenhouse.io/figma/jobs/6201114004?gh_jid=6201114004"
   },
   "6201385004": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2291,14 +2295,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "customer support specialist @ bengaluru, india",
+   "fp": "product support specialist @ bengaluru, india",
    "location": "Bengaluru, India",
    "posted_at": "2026-10-19T10:00:36+00:00",
    "posted_history": [
     "2026-10-19T10:00:36+00:00"
    ],
    "reopened": 0,
-   "title": "Customer Support Specialist (Bengaluru, India)",
+   "title": "Product Support Specialist (Bengaluru, India)",
    "url": "https://boards.greenhouse.io/figma/jobs/6223879004?gh_jid=6223879004"
   },
   "6224085004": {
@@ -3086,8 +3090,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-18T12:16:07+00:00",
-   "fp": "senior inside sales representative @ london, england",
-   "location": "London, England",
+   "fp": "senior inside sales representative @ berlin, germany",
+   "location": "Berlin, Germany",
    "posted_at": "2026-11-18T09:36:18+00:00",
    "posted_history": [
     "2026-11-18T09:36:18+00:00"

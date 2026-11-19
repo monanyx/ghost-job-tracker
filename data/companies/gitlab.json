@@ -123,6 +123,10 @@
   {
    "date": "2026-11-18",
    "open": 250
+  },
+  {
+   "date": "2026-11-19",
+   "open": 249
   }
  ],
  "jobs": {
@@ -142,17 +146,17 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8396674002"
   },
   "8478405002": {
-   "closed_at": "2026-11-02T11:41:30+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "engineering manager sscs supply chain @ bangalore, india; remote ireland; remote, canada; remote, israel; remote, poland; remote, united kingdom; remote, united states",
-   "location": "Bangalore, India; Remote Ireland; Remote, Canada; Remote, Israel; Remote, Poland; Remote, United Kingdom; Remote, United States",
+   "fp": "engineering manager sscs supply chain @ bangalore, india; remote ireland; remote, canada; remote, israel; remote, united kingdom; remote, united states",
+   "location": "Bangalore, India; Remote Ireland; Remote, Canada; Remote, Israel; Remote, United Kingdom; Remote, United States",
    "posted_at": "2026-03-27T20:29:49+00:00",
    "posted_history": [
     "2026-03-27T20:29:49+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Engineering Manager, SSCS: Supply Chain",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8478405002"
   },
@@ -862,7 +866,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8654230002"
   },
   "8658878002": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -971,14 +975,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior backend engineer core devops artifact central pst @ remote, united states",
+   "fp": "senior backend engineer core devops artifact central @ remote, united states",
    "location": "Remote, United States",
    "posted_at": "2026-10-08T02:34:12+00:00",
    "posted_history": [
     "2026-10-08T02:34:12+00:00"
    ],
    "reopened": 1,
-   "title": "Senior Backend Engineer, Core DevOps: Artifact Central - PST",
+   "title": "Senior Backend Engineer, Core DevOps: Artifact Central",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8687958002"
   },
   "8688078002": {
@@ -1867,7 +1871,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8784056002"
   },
   "8784185002": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2617,7 +2621,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8856724002"
   },
   "8857185002": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3292,7 +3296,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8871798002"
   },
   "8871820002": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4191,6 +4195,21 @@
    "title": "Strategic Account Executive, Financial Services - US East",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8897529002"
   },
+  "8897543002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "strategic account executive financial services us central @ remote, united states",
+   "location": "Remote, United States",
+   "posted_at": "2026-11-18T21:10:44+00:00",
+   "posted_history": [
+    "2026-11-18T21:10:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Account Executive, Financial Services - US Central",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8897543002"
+  },
   "8899972002": {
    "closed_at": null,
    "department": "",
@@ -4282,7 +4301,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8907028002"
   },
   "8907111002": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
@@ -4522,7 +4541,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8919537002"
   },
   "8919962002": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -5411,14 +5430,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-17T12:29:08+00:00",
-   "fp": "senior executive assistant marketing @ remote, canada; remote, united states",
+   "fp": "executive assistant marketing @ remote, canada; remote, united states",
    "location": "Remote, Canada; Remote, United States",
    "posted_at": "2026-11-16T14:52:29+00:00",
    "posted_history": [
     "2026-11-16T14:52:29+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Executive Assistant, Marketing",
+   "title": "Executive Assistant, Marketing",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8937764002"
   },
   "8937797002": {
@@ -5556,6 +5575,21 @@
    "title": "Manager, Corporate Security - Platform Security",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8940626002"
   },
+  "8940703002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "executive assistant office of the cto @ remote, canada; remote, united states",
+   "location": "Remote, Canada; Remote, United States",
+   "posted_at": "2026-11-19T00:55:09+00:00",
+   "posted_history": [
+    "2026-11-19T00:55:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Executive Assistant, Office of the CTO",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8940703002"
+  },
   "8940804002": {
    "closed_at": null,
    "department": "",
@@ -5585,6 +5619,36 @@
    "reopened": 0,
    "title": "Backend Engineer (Ruby), AI Engineering: AI Catalog",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8940898002"
+  },
+  "8940964002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "senior manager enterprise application development engineering @ remote, united states",
+   "location": "Remote, United States",
+   "posted_at": "2026-11-18T18:15:26+00:00",
+   "posted_history": [
+    "2026-11-18T18:15:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Enterprise Application Development Engineering",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8940964002"
+  },
+  "8941364002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "solutions architect sled @ remote, united states",
+   "location": "Remote, United States",
+   "posted_at": "2026-11-18T16:06:02+00:00",
+   "posted_history": [
+    "2026-11-18T16:06:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Solutions Architect - SLED (East)",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8941364002"
   },
   "8943456002": {
    "closed_at": null,
@@ -5647,7 +5711,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8945026002"
   },
   "8945143002": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-18T12:16:07+00:00",
@@ -5660,6 +5724,21 @@
    "reopened": 0,
    "title": "Renewals Manager, Commercial",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8945143002"
+  },
+  "8945990002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "senior recruiter public sector gtm @ remote, united states",
+   "location": "Remote, United States",
+   "posted_at": "2026-11-19T01:54:18+00:00",
+   "posted_history": [
+    "2026-11-19T01:54:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Recruiter, Public Sector GTM",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8945990002"
   }
  }
 }

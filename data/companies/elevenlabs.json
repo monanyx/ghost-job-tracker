@@ -123,21 +123,26 @@
   {
    "date": "2026-11-18",
    "open": 128
+  },
+  {
+   "date": "2026-11-19",
+   "open": 128
   }
  ],
  "jobs": {
   "00686b87-a6e2-4fbc-9dd5-b3b35ad02638": {
-   "closed_at": "2026-11-18T12:16:07+00:00",
+   "closed_at": null,
    "department": "Operations",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
    "fp": "people partner gtm @ remote",
    "location": "Remote",
-   "posted_at": "2026-11-03T15:07:36+00:00",
+   "posted_at": "2026-11-18T18:38:49+00:00",
    "posted_history": [
-    "2026-11-03T15:07:36+00:00"
+    "2026-11-03T15:07:36+00:00",
+    "2026-11-18T18:38:49+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "People Partner GTM",
    "url": "https://jobs.ashbyhq.com/ElevenLabs/00686b87-a6e2-4fbc-9dd5-b3b35ad02638"
   },
@@ -234,19 +239,20 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/084978b8-b63d-4c61-8a15-362da4348ef4"
   },
   "09936411-899b-466d-aae7-54f6873caea0": {
-   "closed_at": "2026-10-24T08:24:32+00:00",
+   "closed_at": null,
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "partner manager public sector partnerships @ remote",
    "location": "Remote",
-   "posted_at": "2026-10-12T07:46:40+00:00",
+   "posted_at": "2026-11-18T16:01:33+00:00",
    "posted_history": [
-    "2026-10-12T07:46:40+00:00"
+    "2026-10-12T07:46:40+00:00",
+    "2026-11-18T16:01:33+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Partner Manager - Public Sector Partnerships",
-   "url": "https://jobs.ashbyhq.com/elevenlabs/09936411-899b-466d-aae7-54f6873caea0"
+   "url": "https://jobs.ashbyhq.com/ElevenLabs/09936411-899b-466d-aae7-54f6873caea0"
   },
   "0b3a97d4-193c-4b47-9888-7ef5803ed945": {
    "closed_at": "2026-10-29T10:25:29+00:00",
@@ -1224,7 +1230,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/51858d8d-38ac-450b-a069-797509f465ef"
   },
   "592954c4-0c40-4198-9fa3-2ed82a84518f": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1359,7 +1365,7 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/65f83bd7-70da-4a31-a364-28fd0f361ea9"
   },
   "683872e5-6c3b-45b8-bece-b632bd94f69a": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-11-05T11:30:12+00:00",
@@ -1740,7 +1746,7 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/813f6b98-fa14-4d8f-902d-5d09029be20a"
   },
   "815547bf-0ade-482d-84b0-4163ab1161e5": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "Engineering & Product",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
@@ -3492,6 +3498,21 @@
    "reopened": 0,
    "title": "Adoption Strategist - Europe",
    "url": "https://jobs.ashbyhq.com/elevenlabs/f8b19a29-af85-4a5d-87ae-1ba0a1b6dd9b"
+  },
+  "fabef09e-b84d-44a8-a987-a3cdfd99a974": {
+   "closed_at": null,
+   "department": "Engineering & Product",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "sip expert @ united kingdom",
+   "location": "United Kingdom",
+   "posted_at": "2026-11-18T18:16:51+00:00",
+   "posted_history": [
+    "2026-11-18T18:16:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "SIP Expert",
+   "url": "https://jobs.ashbyhq.com/ElevenLabs/fabef09e-b84d-44a8-a987-a3cdfd99a974"
   },
   "fef4499d-6191-43ad-b4f4-e646544f510d": {
    "closed_at": "2026-11-13T11:35:01+00:00",

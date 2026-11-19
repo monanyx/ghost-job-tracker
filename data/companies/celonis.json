@@ -123,6 +123,10 @@
   {
    "date": "2026-11-18",
    "open": 263
+  },
+  {
+   "date": "2026-11-19",
+   "open": 264
   }
  ],
  "jobs": {
@@ -221,14 +225,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-05T11:30:12+00:00",
-   "fp": "lead value engineer cgpr @ new york, us, new york",
+   "fp": "lead value engineer consumer packaged goods @ new york, us, new york",
    "location": "New York, US, New York",
    "posted_at": "2026-11-04T21:31:26+00:00",
    "posted_history": [
     "2026-11-04T21:31:26+00:00"
    ],
    "reopened": 0,
-   "title": "Lead Value Engineer - CGPR",
+   "title": "Lead Value Engineer — Consumer Packaged Goods (CPG)",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7539041003?gh_jid=7539041003"
   },
   "7539051003": {
@@ -2752,7 +2756,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7989831003?gh_jid=7989831003"
   },
   "7989839003": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3097,7 +3101,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8002255003?gh_jid=8002255003"
   },
   "8002490003": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4526,8 +4530,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-11T11:27:30+00:00",
-   "fp": "software engineer @ remote, us, massachusetts",
-   "location": "Remote, US, Massachusetts",
+   "fp": "software engineer @ cambridge, us, massachusetts",
+   "location": "Cambridge, US, Massachusetts ",
    "posted_at": "2026-11-10T15:35:36+00:00",
    "posted_history": [
     "2026-11-10T15:35:36+00:00"
@@ -4541,8 +4545,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-11T11:27:30+00:00",
-   "fp": "software engineer infrastructure @ remote, us, massachusetts",
-   "location": "Remote, US, Massachusetts",
+   "fp": "software engineer infrastructure @ cambridge, us, massachusetts",
+   "location": "Cambridge, US, Massachusetts ",
    "posted_at": "2026-11-10T15:30:48+00:00",
    "posted_history": [
     "2026-11-10T15:30:48+00:00"
@@ -5435,6 +5439,51 @@
    "reopened": 0,
    "title": "Account Executive - Cross Industries",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8208041003?gh_jid=8208041003"
+  },
+  "8209080003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "associate technology consultant galaxy graduate program @ munich, germany",
+   "location": "Munich, Germany",
+   "posted_at": "2026-11-19T09:23:34+00:00",
+   "posted_history": [
+    "2026-11-19T09:23:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Associate Technology Consultant - Galaxy Graduate Program",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/8209080003?gh_jid=8209080003"
+  },
+  "8209081003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "associate ai and data consultant galaxy graduate program @ munich, germany",
+   "location": "Munich, Germany",
+   "posted_at": "2026-11-19T09:24:36+00:00",
+   "posted_history": [
+    "2026-11-19T09:24:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Associate AI and Data Consultant - Galaxy Graduate Program",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/8209081003?gh_jid=8209081003"
+  },
+  "8209085003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "associate technology consultant galaxy graduate program @ madrid, spain",
+   "location": "Madrid, Spain",
+   "posted_at": "2026-11-19T09:45:21+00:00",
+   "posted_history": [
+    "2026-11-19T09:45:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Associate Technology Consultant - Galaxy Graduate Program (German/French Speaking)",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/8209085003?gh_jid=8209085003"
   }
  }
 }

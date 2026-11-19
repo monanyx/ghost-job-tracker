@@ -123,6 +123,10 @@
   {
    "date": "2026-11-18",
    "open": 77
+  },
+  {
+   "date": "2026-11-19",
+   "open": 73
   }
  ],
  "jobs": {
@@ -217,7 +221,7 @@
    "url": "https://jobs.ashbyhq.com/vanta/0ccbb65f-f675-410a-ae54-1d34575f228a"
   },
   "0e154a57-fc33-4cf7-95cc-0aa30e0bde90": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "Product Design",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -457,7 +461,7 @@
    "url": "https://jobs.ashbyhq.com/vanta/1df5ae9f-4bd2-4f9c-a4e3-55c2970a6383"
   },
   "1fb75eb1-739a-4394-9f9b-ca684a61dfd3": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "Software Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -803,7 +807,7 @@
    "url": "https://jobs.ashbyhq.com/vanta/55f57c1b-7a4b-4fb3-80c7-75f296085de2"
   },
   "581791d7-c63d-45fe-b6a7-f2d8f6532af7": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "Software Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -833,7 +837,7 @@
    "url": "https://jobs.ashbyhq.com/vanta/62945aae-55b0-4598-977a-b2dd00ec9081"
   },
   "6d2a60a8-7daf-4482-ab9a-6b87516548d0": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "Software Engineering",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",

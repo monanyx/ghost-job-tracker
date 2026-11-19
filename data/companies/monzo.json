@@ -123,6 +123,10 @@
   {
    "date": "2026-11-18",
    "open": 62
+  },
+  {
+   "date": "2026-11-19",
+   "open": 60
   }
  ],
  "jobs": {
@@ -937,7 +941,7 @@
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8185670"
   },
   "8185694": {
-   "closed_at": "2026-10-24T08:24:32+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -947,7 +951,7 @@
    "posted_history": [
     "2026-09-09T09:05:09+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Lead Product Designer, Growth",
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8185694"
   },
@@ -1072,7 +1076,7 @@
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8223018"
   },
   "8223264": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-16T12:03:27+00:00",
@@ -1162,7 +1166,7 @@
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8236487"
   },
   "8245673": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1717,7 +1721,7 @@
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8355433"
   },
   "8355488": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
@@ -1732,7 +1736,7 @@
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8355488"
   },
   "8355625": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
@@ -1837,7 +1841,7 @@
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8365296"
   },
   "8365302": {
-   "closed_at": "2026-11-13T11:35:01+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
@@ -1847,7 +1851,7 @@
    "posted_history": [
     "2026-11-09T19:35:18+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Complaints Policy Manager",
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8365302"
   },
@@ -1957,7 +1961,7 @@
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8385203"
   },
   "8385296": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-14T10:56:25+00:00",
@@ -2017,7 +2021,7 @@
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8393062"
   },
   "8393065": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-17T12:29:08+00:00",
@@ -2030,6 +2034,36 @@
    "reopened": 0,
    "title": "Financial Operations Analyst, 12 Month Fixed Term Contract",
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8393065"
+  },
+  "8396136": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "staff brand designer @ london",
+   "location": "London",
+   "posted_at": "2026-11-18T13:08:57+00:00",
+   "posted_history": [
+    "2026-11-18T13:08:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Brand Designer",
+   "url": "https://job-boards.greenhouse.io/monzo/jobs/8396136"
+  },
+  "8398665": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "senior treasury product control analyst @ cardiff, london or remote (uk); london",
+   "location": "Cardiff, London or Remote (UK); London",
+   "posted_at": "2026-11-19T10:00:42+00:00",
+   "posted_history": [
+    "2026-11-19T10:00:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Treasury Product Control Analyst",
+   "url": "https://job-boards.greenhouse.io/monzo/jobs/8398665"
   }
  }
 }

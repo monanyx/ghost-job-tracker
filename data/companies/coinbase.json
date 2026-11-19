@@ -123,6 +123,10 @@
   {
    "date": "2026-11-18",
    "open": 256
+  },
+  {
+   "date": "2026-11-19",
+   "open": 255
   }
  ],
  "jobs": {
@@ -712,7 +716,7 @@
    "url": "https://www.coinbase.com/careers/positions/8013892?gh_jid=8013892"
   },
   "8013948": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1676,14 +1680,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "product manager ii workspace and multi user @ remote - usa",
+   "fp": "senior product manager workspace and multi user @ remote - usa",
    "location": "Remote - USA",
    "posted_at": "2026-08-21T22:04:19+00:00",
    "posted_history": [
     "2026-08-21T22:04:19+00:00"
    ],
    "reopened": 0,
-   "title": "Product Manager II, Workspace and Multi-User",
+   "title": "Senior Product Manager, Workspace and Multi-User",
    "url": "https://www.coinbase.com/careers/positions/8148171?gh_jid=8148171"
   },
   "8148248": {
@@ -3217,7 +3221,7 @@
    "url": "https://www.coinbase.com/careers/positions/8244259?gh_jid=8244259"
   },
   "8247401": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3831,6 +3835,21 @@
    "title": "Senior Data Scientist, Platform",
    "url": "https://www.coinbase.com/careers/positions/8304052?gh_jid=8304052"
   },
+  "8311332": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "institutional sales manager hedge funds @ remote - usa",
+   "location": "Remote - USA",
+   "posted_at": "2026-11-18T18:24:35+00:00",
+   "posted_history": [
+    "2026-11-18T18:24:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Institutional Sales Manager, Hedge Funds",
+   "url": "https://www.coinbase.com/careers/positions/8311332?gh_jid=8311332"
+  },
   "8311335": {
    "closed_at": null,
    "department": "",
@@ -4177,7 +4196,7 @@
    "url": "https://www.coinbase.com/careers/positions/8334234?gh_jid=8334234"
   },
   "8334281": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
@@ -4866,6 +4885,21 @@
    "title": "Inbound Specialist II, Premium & Wealth",
    "url": "https://www.coinbase.com/careers/positions/8348533?gh_jid=8348533"
   },
+  "8349028": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "senior software engineer native mobile international @ remote - singapore",
+   "location": "Remote - Singapore",
+   "posted_at": "2026-11-19T07:45:42+00:00",
+   "posted_history": [
+    "2026-11-19T07:45:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Native Mobile - International",
+   "url": "https://www.coinbase.com/careers/positions/8349028?gh_jid=8349028"
+  },
   "8350017": {
    "closed_at": null,
    "department": "",
@@ -5332,7 +5366,7 @@
    "url": "https://www.coinbase.com/careers/positions/8376084?gh_jid=8376084"
   },
   "8382331": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-13T11:35:01+00:00",
@@ -5510,6 +5544,21 @@
    "reopened": 0,
    "title": "Senior Software Engineer, Financial Integrity",
    "url": "https://www.coinbase.com/careers/positions/8395582?gh_jid=8395582"
+  },
+  "8397873": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "staff product designer onchain yield investments @ remote - usa",
+   "location": "Remote - USA",
+   "posted_at": "2026-11-18T18:07:40+00:00",
+   "posted_history": [
+    "2026-11-18T18:07:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Product Designer, Onchain Yield & Investments",
+   "url": "https://www.coinbase.com/careers/positions/8397873?gh_jid=8397873"
   }
  }
 }

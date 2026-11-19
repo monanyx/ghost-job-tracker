@@ -123,6 +123,10 @@
   {
    "date": "2026-11-18",
    "open": 224
+  },
+  {
+   "date": "2026-11-19",
+   "open": 225
   }
  ],
  "jobs": {
@@ -487,7 +491,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7780490003"
   },
   "7785812003": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -502,7 +506,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7785812003"
   },
   "7785814003": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -547,7 +551,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7798815003"
   },
   "7799164003": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -712,7 +716,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7801336003"
   },
   "7801371003": {
-   "closed_at": "2026-11-07T10:41:11+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -722,12 +726,12 @@
    "posted_history": [
     "2026-07-15T08:06:24+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Software Engineer, Backend (Identity International)",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7801371003"
   },
   "7801373003": {
-   "closed_at": "2026-11-07T10:41:11+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -737,7 +741,7 @@
    "posted_history": [
     "2026-07-15T08:06:26+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Software Engineer, Backend (Identity International)",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7801373003"
   },
@@ -772,7 +776,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7804955003"
   },
   "7806679003": {
-   "closed_at": "2026-11-07T10:41:11+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -782,12 +786,12 @@
    "posted_history": [
     "2026-07-20T12:23:11+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Software Engineer, Back-end (Fraud)",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7806679003"
   },
   "7806681003": {
-   "closed_at": "2026-11-07T10:41:11+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -797,7 +801,7 @@
    "posted_history": [
     "2026-07-20T12:23:12+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Software Engineer, Back-end (Fraud)",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7806681003"
   },
@@ -2632,7 +2636,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8005077003"
   },
   "8005402003": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2782,7 +2786,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8008645003"
   },
   "8008649003": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2992,7 +2996,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8010615003"
   },
   "8010617003": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3502,7 +3506,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8020318003"
   },
   "8030973003": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4881,6 +4885,21 @@
    "title": "Senior Technical Program Manager",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8199159003"
   },
+  "8199288003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "manager software engineering @ remote uk",
+   "location": "Remote UK",
+   "posted_at": "2026-11-18T13:46:04+00:00",
+   "posted_history": [
+    "2026-11-18T13:46:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Software Engineering",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8199288003"
+  },
   "8199419003": {
    "closed_at": null,
    "department": "",
@@ -5061,6 +5080,21 @@
    "title": "Affirm Bank Treasury Manager",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8202705003"
   },
+  "8202709003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "affirm bank strategic finance lead @ remote us",
+   "location": "Remote US",
+   "posted_at": "2026-11-18T22:26:27+00:00",
+   "posted_history": [
+    "2026-11-18T22:26:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Affirm Bank Strategic Finance Lead",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8202709003"
+  },
   "8203803003": {
    "closed_at": null,
    "department": "",
@@ -5090,6 +5124,36 @@
    "reopened": 0,
    "title": "Staff Partner Engineer",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8203805003"
+  },
+  "8205742003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "manager machine learning engineering @ remote us",
+   "location": "Remote US",
+   "posted_at": "2026-11-18T16:11:41+00:00",
+   "posted_history": [
+    "2026-11-18T16:11:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Machine Learning Engineering",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8205742003"
+  },
+  "8205744003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "manager machine learning engineering @ remote canada",
+   "location": "Remote Canada",
+   "posted_at": "2026-11-18T16:11:43+00:00",
+   "posted_history": [
+    "2026-11-18T16:11:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Machine Learning Engineering",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8205744003"
   },
   "8207671003": {
    "closed_at": null,

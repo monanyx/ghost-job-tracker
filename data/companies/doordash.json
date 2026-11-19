@@ -123,6 +123,10 @@
   {
    "date": "2026-11-18",
    "open": 416
+  },
+  {
+   "date": "2026-11-19",
+   "open": 418
   }
  ],
  "jobs": {
@@ -830,6 +834,21 @@
    "reopened": 0,
    "title": "Shift Lead - West Jordan",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/6679810"
+  },
+  "6681604": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "shift lead jacksonville @ jacksonville, fl",
+   "location": "Jacksonville, FL",
+   "posted_at": "2025-03-04T18:45:09+00:00",
+   "posted_history": [
+    "2025-03-04T18:45:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Shift Lead - Jacksonville",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/6681604"
   },
   "6682078": {
    "closed_at": null,
@@ -1746,6 +1765,21 @@
    "title": "Account Manager, CPG",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7612643"
   },
+  "7616066": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "dashmart variable schedule team member @ morrow, ga",
+   "location": "Morrow, GA",
+   "posted_at": "2026-02-18T20:05:12+00:00",
+   "posted_history": [
+    "2026-02-18T20:05:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "DashMart Variable Schedule Team Member",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7616066"
+  },
   "7616101": {
    "closed_at": null,
    "department": "",
@@ -1940,6 +1974,21 @@
    "reopened": 0,
    "title": "Principal Machine Learning Engineer, Ads & Promos Delivery",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7760003"
+  },
+  "7763162": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "senior software engineer motion planning doordash labs doordash air @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-03-30T12:53:59+00:00",
+   "posted_history": [
+    "2026-03-30T12:53:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Motion Planning – DoorDash Labs, DoorDash Air",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7763162"
   },
   "7767373": {
    "closed_at": "2026-11-03T11:21:29+00:00",
@@ -3716,8 +3765,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "associate marketplace dashpass s o @ new york, ny",
-   "location": "New York, NY",
+   "fp": "associate marketplace dashpass s o @ new york, ny; san francisco, ca; los angeles, ca; chicago, il; seattle, wa; denver, co",
+   "location": "New York, NY; San Francisco, CA; Los Angeles, CA; Chicago, IL; Seattle, WA; Denver, CO",
    "posted_at": "2026-07-31T13:00:48+00:00",
    "posted_history": [
     "2026-07-31T13:00:48+00:00"
@@ -5482,7 +5531,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8205677"
   },
   "8207740": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6532,7 +6581,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8256994"
   },
   "8257063": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6712,7 +6761,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8261297"
   },
   "8261345": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7327,7 +7376,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8286890"
   },
   "8287013": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7541,14 +7590,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
-   "fp": "dashos product strategy operations @ los angeles, ca; san francisco, ca; new york, ny",
+   "fp": "associate manager product strategy and operations @ los angeles, ca; san francisco, ca; new york, ny",
    "location": "Los Angeles, CA; San Francisco, CA; New York, NY",
    "posted_at": "2026-10-20T16:48:44+00:00",
    "posted_history": [
     "2026-10-20T16:48:44+00:00"
    ],
    "reopened": 0,
-   "title": "DashOS, Product Strategy & Operations",
+   "title": "Associate Manager, Product Strategy and Operations",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8301438"
   },
   "8301776": {
@@ -9276,8 +9325,23 @@
    "title": "Hardware Systems Engineer",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8396696"
   },
-  "8397297": {
+  "8397292": {
    "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "kitchen manager dashmart @ morrow, ga",
+   "location": "Morrow, GA",
+   "posted_at": "2026-11-18T19:18:23+00:00",
+   "posted_history": [
+    "2026-11-18T19:18:23+00:00"
+   ],
+   "reopened": 0,
+   "title": "Kitchen Manager, DashMart",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8397292"
+  },
+  "8397297": {
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-18T12:16:07+00:00",
@@ -9290,6 +9354,51 @@
    "reopened": 0,
    "title": "DashMart Team Member - Midtown",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8397297"
+  },
+  "8399363": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "senior machine learning scientist applied causal inference @ san francisco, ca; sunnyvale, ca; seattle, wa",
+   "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA",
+   "posted_at": "2026-11-18T16:05:04+00:00",
+   "posted_history": [
+    "2026-11-18T16:05:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Machine Learning Scientist, Applied Causal Inference",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8399363"
+  },
+  "8400022": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "manager strategic sourcing corporate professional services @ tempe, az; chicago, il; philadelphia, pa; denver, co; austin, tx; miami, fl; baltimore, md; portland, or",
+   "location": "Tempe, AZ; Chicago, IL; Philadelphia, PA; Denver, CO; Austin, TX; Miami, FL; Baltimore, MD; Portland, OR",
+   "posted_at": "2026-11-18T19:05:51+00:00",
+   "posted_history": [
+    "2026-11-18T19:05:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Strategic Sourcing - Corporate & Professional Services",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8400022"
+  },
+  "8400132": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "senior associate corporate development @ united states - remote",
+   "location": "United States - Remote",
+   "posted_at": "2026-11-19T04:58:10+00:00",
+   "posted_history": [
+    "2026-11-19T04:58:10+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Associate, Corporate Development",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8400132"
   }
  }
 }

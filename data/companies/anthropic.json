@@ -123,6 +123,10 @@
   {
    "date": "2026-11-18",
    "open": 658
+  },
+  {
+   "date": "2026-11-19",
+   "open": 638
   }
  ],
  "jobs": {
@@ -382,7 +386,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4669581008"
   },
   "4720576008": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -397,7 +401,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4720576008"
   },
   "4741104008": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2092,7 +2096,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5176036008"
   },
   "5179891008": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2317,7 +2321,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5196852008"
   },
   "5197211008": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-28T10:01:46+00:00",
@@ -2872,7 +2876,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5237973008"
   },
   "5238460008": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2887,7 +2891,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5238460008"
   },
   "5238637008": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3202,7 +3206,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5283063008"
   },
   "5285246008": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4417,7 +4421,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5368166008"
   },
   "5369181008": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4837,7 +4841,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385217008"
   },
   "5385256008": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5077,7 +5081,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5386971008"
   },
   "5387009008": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6003,7 +6007,7 @@
     "2026-08-19T17:26:24+00:00"
    ],
    "reopened": 0,
-   "title": "Community Engagement Manager, Data Centers (Texas)",
+   "title": "Community Engagement Manager, Data Centers (West Texas)",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391983008"
   },
   "5391999008": {
@@ -6217,7 +6221,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5394948008"
   },
   "5394993008": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7132,7 +7136,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5413576008"
   },
   "5414608008": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7241,14 +7245,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "lead security controls assurance sox @ san francisco, ca | seattle, wa | new york city, ny | washington, dc",
+   "fp": "head of security controls assurance sox @ san francisco, ca | seattle, wa | new york city, ny | washington, dc",
    "location": "San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC",
    "posted_at": "2026-09-08T23:45:03+00:00",
    "posted_history": [
     "2026-09-08T23:45:03+00:00"
    ],
    "reopened": 0,
-   "title": "Lead - Security Controls Assurance - SOX",
+   "title": "Head of Security Controls Assurance - SOX",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5415864008"
   },
   "5415930008": {
@@ -7372,7 +7376,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5416979008"
   },
   "5416985008": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7522,7 +7526,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5418748008"
   },
   "5418858008": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7732,7 +7736,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5422436008"
   },
   "5422560008": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -8032,7 +8036,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5426602008"
   },
   "5426613008": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -8737,7 +8741,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5433952008"
   },
   "5434116008": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -9337,7 +9341,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5440821008"
   },
   "5440855008": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -10327,7 +10331,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5451081008"
   },
   "5451134008": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -10447,7 +10451,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5452691008"
   },
   "5452699008": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -10477,7 +10481,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5452859008"
   },
   "5452909008": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -10957,7 +10961,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5456453008"
   },
   "5456481008": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -12726,6 +12730,21 @@
    "title": "Partner Marketing Manager, Cloud Partners EMEA",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5473999008"
   },
+  "5474013008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "sales director @ seoul, south korea",
+   "location": "Seoul, South Korea",
+   "posted_at": "2026-11-19T05:55:15+00:00",
+   "posted_history": [
+    "2026-11-19T05:55:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales Director",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5474013008"
+  },
   "5474544008": {
    "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "",
@@ -13280,6 +13299,21 @@
    "reopened": 0,
    "title": "GTM Activations Strategy Lead",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5483359008"
+  },
+  "5483945008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "applied ai engineer commercial @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-18T16:26:55+00:00",
+   "posted_history": [
+    "2026-11-18T16:26:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Applied AI Engineer, Commercial",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5483945008"
   },
   "5484035008": {
    "closed_at": null,

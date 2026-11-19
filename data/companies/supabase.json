@@ -123,6 +123,10 @@
   {
    "date": "2026-11-18",
    "open": 77
+  },
+  {
+   "date": "2026-11-19",
+   "open": 76
   }
  ],
  "jobs": {
@@ -157,7 +161,7 @@
    "url": "https://jobs.ashbyhq.com/supabase/05226c15-0501-4559-833d-3815fdf01f56"
   },
   "06752423-eebb-472c-95b5-c7ff2559fd60": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

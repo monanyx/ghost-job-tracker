@@ -123,6 +123,10 @@
   {
    "date": "2026-11-18",
    "open": 167
+  },
+  {
+   "date": "2026-11-19",
+   "open": 168
   }
  ],
  "jobs": {
@@ -352,18 +356,19 @@
    "url": "https://jobs.ashbyhq.com/notion/133463c5-400b-4ba9-8563-42296c9b37a6"
   },
   "14879c7f-ded7-4e7f-932c-fb4a294afd68": {
-   "closed_at": "2026-11-13T11:35:01+00:00",
+   "closed_at": null,
    "department": "Marketing",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
-   "fp": "campaign manager brand @ san francisco, california",
+   "fp": "campaign lead brand @ san francisco, california",
    "location": "San Francisco, California",
-   "posted_at": "2026-10-22T20:52:06+00:00",
+   "posted_at": "2026-11-18T21:36:09+00:00",
    "posted_history": [
-    "2026-10-22T20:52:06+00:00"
+    "2026-10-22T20:52:06+00:00",
+    "2026-11-18T21:36:09+00:00"
    ],
-   "reopened": 0,
-   "title": "Campaign Manager, Brand",
+   "reopened": 1,
+   "title": "Campaign Lead, Brand",
    "url": "https://jobs.ashbyhq.com/notion/14879c7f-ded7-4e7f-932c-fb4a294afd68"
   },
   "14c52e6b-b00b-42b5-96fb-195919ef6bab": {
@@ -1961,19 +1966,34 @@
    "title": "Business Development Representative",
    "url": "https://jobs.ashbyhq.com/notion/a59ae31e-059e-4f6b-84a7-0fa9db88c72b"
   },
+  "a8143379-6693-4046-b8cf-1528178d0f0f": {
+   "closed_at": null,
+   "department": "Customer Experience",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "cx systems automation lead @ san francisco, california",
+   "location": "San Francisco, California",
+   "posted_at": "2026-11-18T21:57:45+00:00",
+   "posted_history": [
+    "2026-11-18T21:57:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "CX Systems & Automation Lead",
+   "url": "https://jobs.ashbyhq.com/notion/a8143379-6693-4046-b8cf-1528178d0f0f"
+  },
   "a92eb06e-8ef3-4118-b496-94f3cdf8005d": {
    "closed_at": null,
    "department": "Legal",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "commercial counsel enterprise @ san francisco, california",
+   "fp": "commercial counsel @ san francisco, california",
    "location": "San Francisco, California",
    "posted_at": "2026-09-01T20:42:55+00:00",
    "posted_history": [
     "2026-09-01T20:42:55+00:00"
    ],
    "reopened": 0,
-   "title": "Commercial Counsel, Enterprise",
+   "title": "Commercial Counsel",
    "url": "https://jobs.ashbyhq.com/notion/a92eb06e-8ef3-4118-b496-94f3cdf8005d"
   },
   "a9b33d2b-cfef-435f-8fff-5b79aad19d3b": {
@@ -2082,7 +2102,7 @@
    "url": "https://jobs.ashbyhq.com/notion/b3d0eabd-b860-4944-a90f-15519385cb3e"
   },
   "b49d4c15-d716-4a52-8858-1a89319f3191": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "Finance",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

@@ -123,6 +123,10 @@
   {
    "date": "2026-11-18",
    "open": 184
+  },
+  {
+   "date": "2026-11-19",
+   "open": 179
   }
  ],
  "jobs": {
@@ -230,7 +234,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/6693501"
   },
   "6693504": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -470,7 +474,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/6693874"
   },
   "6694005": {
-   "closed_at": "2026-10-27T09:20:56+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -480,7 +484,7 @@
    "posted_history": [
     "2025-06-18T16:36:21+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Support Associate Full-time/Part-time",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/6694005"
   },
@@ -1038,7 +1042,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/7538295"
   },
   "7547095": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1983,7 +1987,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8098398"
   },
   "8101711": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2133,7 +2137,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8127969"
   },
   "8128034": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2898,7 +2902,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8220475"
   },
   "8221269": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3288,7 +3292,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8249071"
   },
   "8255970": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3723,7 +3727,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8303885"
   },
   "8305699": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
@@ -3753,7 +3757,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8306176"
   },
   "8306531": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -3903,7 +3907,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8324658"
   },
   "8324810": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
@@ -3933,7 +3937,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8324867"
   },
   "8324981": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
@@ -4188,7 +4192,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8334723"
   },
   "8336365": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -4772,6 +4776,21 @@
    "title": "Customer Support Associate",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8395399"
   },
+  "8395841": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "people associate working student @ berlin, germany",
+   "location": "Berlin, Germany",
+   "posted_at": "2026-11-18T12:44:12+00:00",
+   "posted_history": [
+    "2026-11-18T12:44:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "People Associate - Working Student",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8395841"
+  },
   "8395847": {
    "closed_at": null,
    "department": "",
@@ -4792,15 +4811,75 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-18T12:16:07+00:00",
-   "fp": "sales team lead @ cluj napoca, romania; sibiu, romania; timisoara, romania",
+   "fp": "regional sales team lead @ cluj napoca, romania; sibiu, romania; timisoara, romania",
    "location": "Cluj Napoca, Romania; Sibiu, Romania; Timisoara, Romania",
    "posted_at": "2026-11-17T17:27:59+00:00",
    "posted_history": [
     "2026-11-17T17:27:59+00:00"
    ],
    "reopened": 0,
-   "title": "Sales Team Lead",
+   "title": "Regional Sales Team Lead",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8395940"
+  },
+  "8398895": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "retail sales manager @ berlin, germany",
+   "location": "Berlin, Germany",
+   "posted_at": "2026-11-18T15:05:37+00:00",
+   "posted_history": [
+    "2026-11-18T15:05:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Retail Sales Manager",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8398895"
+  },
+  "8398912": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "senior data scientist @ berlin, germany",
+   "location": "Berlin, Germany",
+   "posted_at": "2026-11-18T12:50:37+00:00",
+   "posted_history": [
+    "2026-11-18T12:50:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Data Scientist",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8398912"
+  },
+  "8400441": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "brand creative specialist @ ramat gan, israel",
+   "location": "Ramat Gan, Israel",
+   "posted_at": "2026-11-19T07:00:14+00:00",
+   "posted_history": [
+    "2026-11-19T07:00:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Brand Creative Specialist",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8400441"
+  },
+  "8400446": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "partner operations associate @ berlin, germany",
+   "location": "Berlin, Germany",
+   "posted_at": "2026-11-19T11:23:35+00:00",
+   "posted_history": [
+    "2026-11-19T11:23:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Partner Operations Associate",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8400446"
   }
  }
 }

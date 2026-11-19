@@ -123,6 +123,10 @@
   {
    "date": "2026-11-18",
    "open": 11
+  },
+  {
+   "date": "2026-11-19",
+   "open": 10
   }
  ],
  "jobs": {
@@ -218,7 +222,7 @@
    "url": "https://jobs.ashbyhq.com/zapier/7683bf9a-cb86-47de-a15b-4bcc0b70e2e2"
   },
   "79f0aa77-7a24-4246-a623-a37fb2149de6": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "Customer Operations",
    "evergreen": false,
    "first_seen": "2026-11-14T10:56:25+00:00",

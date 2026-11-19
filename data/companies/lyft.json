@@ -123,6 +123,10 @@
   {
    "date": "2026-11-18",
    "open": 148
+  },
+  {
+   "date": "2026-11-19",
+   "open": 147
   }
  ],
  "jobs": {
@@ -1462,7 +1466,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8780012002?gh_jid=8780012002"
   },
   "8780046002": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1507,7 +1511,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8780095002?gh_jid=8780095002"
   },
   "8782314002": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1897,7 +1901,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8806560002?gh_jid=8806560002"
   },
   "8806570002": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2782,7 +2786,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8888978002?gh_jid=8888978002"
   },
   "8889185002": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2977,7 +2981,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8900349002?gh_jid=8900349002"
   },
   "8900844002": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3386,14 +3390,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-12T11:51:19+00:00",
-   "fp": "engineering manager quality developer experience lus @ montreal, canada",
+   "fp": "engineering manager developer experience lus @ montreal, canada",
    "location": "Montreal, Canada",
    "posted_at": "2026-11-12T01:29:07+00:00",
    "posted_history": [
     "2026-11-12T01:29:07+00:00"
    ],
    "reopened": 0,
-   "title": "Engineering Manager, Quality & Developer Experience - LUS",
+   "title": "Engineering Manager, Developer Experience - LUS",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8917641002?gh_jid=8917641002"
   },
   "8917801002": {
@@ -3401,14 +3405,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-12T11:51:19+00:00",
-   "fp": "gestionnaire en ing nierie qualit et exp rience d veloppeur lus @ montreal, canada",
+   "fp": "gestionnaire en ing nierie exp rience d veloppeur lus @ montreal, canada",
    "location": "Montreal, Canada",
    "posted_at": "2026-11-12T01:29:09+00:00",
    "posted_history": [
     "2026-11-12T01:29:09+00:00"
    ],
    "reopened": 0,
-   "title": "Gestionnaire en ingénierie, Qualité et expérience développeur - LUS",
+   "title": "Gestionnaire en ingénierie, Expérience Développeur - LUS",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8917801002?gh_jid=8917801002"
   },
   "8919442002": {
@@ -3427,7 +3431,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8919442002?gh_jid=8919442002"
   },
   "8921735002": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
@@ -3682,7 +3686,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8927263002?gh_jid=8927263002"
   },
   "8927265002": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
@@ -3922,18 +3926,18 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8938484002?gh_jid=8938484002"
   },
   "8938558002": {
-   "closed_at": "2026-11-18T12:16:07+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-13T11:35:01+00:00",
-   "fp": "senior account executive transit healthcare @ san francisco, ca",
+   "fp": "senior business development manager transit healthcare @ san francisco, ca",
    "location": "San Francisco, CA",
    "posted_at": "2026-11-12T19:26:50+00:00",
    "posted_history": [
     "2026-11-12T19:26:50+00:00"
    ],
-   "reopened": 0,
-   "title": "Senior Account Executive, Transit & Healthcare",
+   "reopened": 1,
+   "title": "Senior Business Development Manager, Transit & Healthcare",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8938558002?gh_jid=8938558002"
   },
   "8938561002": {
@@ -3952,18 +3956,18 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8938561002?gh_jid=8938561002"
   },
   "8938627002": {
-   "closed_at": "2026-11-18T12:16:07+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-13T11:35:01+00:00",
-   "fp": "senior account executive transit healthcare @ new york, ny",
+   "fp": "senior business development manager transit healthcare @ new york, ny",
    "location": "New York, NY",
    "posted_at": "2026-11-12T19:26:52+00:00",
    "posted_history": [
     "2026-11-12T19:26:52+00:00"
    ],
-   "reopened": 0,
-   "title": "Senior Account Executive, Transit & Healthcare",
+   "reopened": 1,
+   "title": "Senior Business Development Manager, Transit & Healthcare",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8938627002?gh_jid=8938627002"
   },
   "8940409002": {
@@ -4076,14 +4080,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-18T12:16:07+00:00",
-   "fp": "people project manager @ nashville, tn",
+   "fp": "senior people project manager @ nashville, tn",
    "location": "Nashville, TN",
    "posted_at": "2026-11-18T01:02:18+00:00",
    "posted_history": [
     "2026-11-18T01:02:18+00:00"
    ],
    "reopened": 0,
-   "title": "People Project Manager",
+   "title": "Senior People Project Manager",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8948517002?gh_jid=8948517002"
   },
   "8948519002": {
@@ -4091,14 +4095,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-18T12:16:07+00:00",
-   "fp": "people project coordinator @ nashville, tn",
+   "fp": "people project manager @ nashville, tn",
    "location": "Nashville, TN",
    "posted_at": "2026-11-18T01:01:37+00:00",
    "posted_history": [
     "2026-11-18T01:01:37+00:00"
    ],
    "reopened": 0,
-   "title": "People Project Coordinator",
+   "title": "People Project Manager",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8948519002?gh_jid=8948519002"
   },
   "8948757002": {
@@ -4130,6 +4134,66 @@
    "reopened": 0,
    "title": "Analytics Lead, Growth Strategy & Analytics",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8948773002?gh_jid=8948773002"
+  },
+  "8948820002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "hardware program manager lyft urban solutions @ longueuil, canada",
+   "location": "Longueuil, Canada",
+   "posted_at": "2026-11-18T19:23:20+00:00",
+   "posted_history": [
+    "2026-11-18T19:23:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Hardware Program Manager, Lyft Urban Solutions",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8948820002?gh_jid=8948820002"
+  },
+  "8948822002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "gestionnaire de programme mat riel lyft solutions urbaines @ longueuil, canada",
+   "location": "Longueuil, Canada",
+   "posted_at": "2026-11-18T19:23:18+00:00",
+   "posted_history": [
+    "2026-11-18T19:23:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Gestionnaire de Programme Matériel, Lyft Solutions Urbaines",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8948822002?gh_jid=8948822002"
+  },
+  "8950102002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "android software developer lyft urban solutions @ montreal, canada",
+   "location": "Montreal, Canada",
+   "posted_at": "2026-11-18T16:32:08+00:00",
+   "posted_history": [
+    "2026-11-18T16:32:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "Android Software Developer, Lyft Urban Solutions",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8950102002?gh_jid=8950102002"
+  },
+  "8950105002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "d veloppeur logiciel android lyft solutions urbaines @ montreal, canada",
+   "location": "Montreal, Canada",
+   "posted_at": "2026-11-18T16:32:09+00:00",
+   "posted_history": [
+    "2026-11-18T16:32:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Développeur(se) Logiciel Android, Lyft Solutions Urbaines",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8950105002?gh_jid=8950105002"
   }
  }
 }

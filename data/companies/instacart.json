@@ -123,6 +123,10 @@
   {
    "date": "2026-11-18",
    "open": 83
+  },
+  {
+   "date": "2026-11-19",
+   "open": 85
   }
  ],
  "jobs": {
@@ -1807,7 +1811,7 @@
    "url": "https://instacart.careers/job/?gh_jid=8250361"
   },
   "8257641": {
-   "closed_at": "2026-11-07T10:41:11+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1817,7 +1821,7 @@
    "posted_history": [
     "2026-10-05T22:35:23+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Bilingual CX Specialist (French)",
    "url": "https://instacart.careers/job/?gh_jid=8257641"
   },
@@ -2557,7 +2561,7 @@
    "url": "https://instacart.careers/job/?gh_jid=8374889"
   },
   "8379400": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-12T11:51:19+00:00",
@@ -2705,6 +2709,36 @@
    "reopened": 0,
    "title": "Sales Engineer",
    "url": "https://instacart.careers/job/?gh_jid=8394386"
+  },
+  "8400955": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "insights manager @ united states - remote",
+   "location": "United States - Remote",
+   "posted_at": "2026-11-18T23:04:43+00:00",
+   "posted_history": [
+    "2026-11-18T23:04:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Insights Manager",
+   "url": "https://instacart.careers/job/?gh_jid=8400955"
+  },
+  "8400957": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "insights manager @ canada - remote (on, ab, bc, or ns only)",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-11-18T23:04:45+00:00",
+   "posted_history": [
+    "2026-11-18T23:04:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Insights Manager",
+   "url": "https://instacart.careers/job/?gh_jid=8400957"
   }
  }
 }

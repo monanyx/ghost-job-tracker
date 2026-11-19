@@ -123,6 +123,10 @@
   {
    "date": "2026-11-18",
    "open": 51
+  },
+  {
+   "date": "2026-11-19",
+   "open": 50
   }
  ],
  "jobs": {
@@ -457,7 +461,7 @@
    "url": "https://job-boards.greenhouse.io/contentful/jobs/8278600"
   },
   "8284859": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -472,7 +476,7 @@
    "url": "https://job-boards.greenhouse.io/contentful/jobs/8284859"
   },
   "8284863": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -800,6 +804,21 @@
    "reopened": 0,
    "title": "Customer Success Manager, LATAM",
    "url": "https://job-boards.greenhouse.io/contentful/jobs/8385607"
+  },
+  "8385618": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "senior customer success manager @ new york, new york, united states",
+   "location": "New York, New York, United States",
+   "posted_at": "2026-11-18T18:56:19+00:00",
+   "posted_history": [
+    "2026-11-18T18:56:19+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Customer Success Manager",
+   "url": "https://job-boards.greenhouse.io/contentful/jobs/8385618"
   },
   "8386353": {
    "closed_at": null,

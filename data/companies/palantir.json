@@ -123,6 +123,10 @@
   {
    "date": "2026-11-18",
    "open": 301
+  },
+  {
+   "date": "2026-11-19",
+   "open": 306
   }
  ],
  "jobs": {
@@ -326,14 +330,14 @@
    "department": "Dev",
    "evergreen": false,
    "first_seen": "2026-11-11T11:27:30+00:00",
-   "fp": "software engineer intern connectivity platform and product @ new york, ny",
+   "fp": "software engineer internship connectivity platform and product @ new york, ny",
    "location": "New York, NY",
    "posted_at": "2026-11-04T20:41:30+00:00",
    "posted_history": [
     "2026-11-04T20:41:30+00:00"
    ],
    "reopened": 0,
-   "title": "Software Engineer, Intern - Connectivity Platform and Product",
+   "title": "Software Engineer, Internship - Connectivity Platform and Product",
    "url": "https://jobs.lever.co/palantir/130ee501-bd22-4d44-b651-39581ef97743"
   },
   "133e2f49-685b-4234-b118-8d8e6851fb2e": {
@@ -1161,6 +1165,21 @@
    "title": "Forward Deployed Software Engineer, New Grad - Commercial",
    "url": "https://jobs.lever.co/palantir/341d5cae-a473-4813-9a6c-0f67fcc1b253"
   },
+  "348befa6-dfc6-4838-8bbd-5bc93cb5bfdc": {
+   "closed_at": null,
+   "department": "Legal",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "intellectual property counsel @ denver, co",
+   "location": "Denver, CO",
+   "posted_at": "2026-11-04T15:50:52+00:00",
+   "posted_history": [
+    "2026-11-04T15:50:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "Intellectual Property Counsel",
+   "url": "https://jobs.lever.co/palantir/348befa6-dfc6-4838-8bbd-5bc93cb5bfdc"
+  },
   "34b3a697-6e22-4751-befd-0b7921abbd5f": {
    "closed_at": null,
    "department": "Delta",
@@ -1926,6 +1945,21 @@
    "title": "Site Reliability Operations Analyst - Commercial",
    "url": "https://jobs.lever.co/palantir/5174e95b-2e0a-46f8-8db7-e2c837a0ac94"
   },
+  "51bafe1f-2e8e-4ba7-9692-880fcb4cbabe": {
+   "closed_at": null,
+   "department": "Legal",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "intellectual property counsel @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2021-02-11T00:16:55+00:00",
+   "posted_history": [
+    "2021-02-11T00:16:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Intellectual Property Counsel",
+   "url": "https://jobs.lever.co/palantir/51bafe1f-2e8e-4ba7-9692-880fcb4cbabe"
+  },
   "51ea4a3b-7764-4c87-96e4-310e19c856d5": {
    "closed_at": "2026-11-18T12:16:07+00:00",
    "department": "Technical Operations",
@@ -2450,6 +2484,21 @@
    "reopened": 0,
    "title": "Software Engineer - Applied AI, Defense Applications",
    "url": "https://jobs.lever.co/palantir/6b4b087c-4fc6-476d-9e72-e1bc6ac6c62a"
+  },
+  "6bfbb28e-f61d-4385-be0f-64d7d78d53cb": {
+   "closed_at": null,
+   "department": "Legal",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "intellectual property counsel @ palo alto, ca",
+   "location": "Palo Alto, CA",
+   "posted_at": "2021-02-10T15:35:54+00:00",
+   "posted_history": [
+    "2021-02-10T15:35:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Intellectual Property Counsel",
+   "url": "https://jobs.lever.co/palantir/6bfbb28e-f61d-4385-be0f-64d7d78d53cb"
   },
   "6ed76ce8-4156-4b60-b120-403538bd66cd": {
    "closed_at": null,
@@ -3906,6 +3955,21 @@
    "title": "Technical Program Manager - Security",
    "url": "https://jobs.lever.co/palantir/b5362bc1-8a07-44e2-9ddc-cb4236aa0f20"
   },
+  "b53ba9c4-6549-4884-b456-7f8ba507d387": {
+   "closed_at": null,
+   "department": "Legal",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "intellectual property counsel @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2021-02-11T00:16:12+00:00",
+   "posted_history": [
+    "2021-02-11T00:16:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Intellectual Property Counsel",
+   "url": "https://jobs.lever.co/palantir/b53ba9c4-6549-4884-b456-7f8ba507d387"
+  },
   "b57f08e9-546c-4b9b-8d21-db0ebbc11363": {
    "closed_at": null,
    "department": "Delta",
@@ -4941,6 +5005,21 @@
    "title": "Forward Deployed Software Engineer - US Government",
    "url": "https://jobs.lever.co/palantir/e82b696e-a085-4bbf-8bcb-6d2c4f8cf2f7"
   },
+  "e8bfc01c-620c-4b6a-b3f8-cd275228db06": {
+   "closed_at": null,
+   "department": "Mission Operations",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "information systems security engineer @ palo alto, ca",
+   "location": "Palo Alto, CA",
+   "posted_at": "2026-11-18T15:26:15+00:00",
+   "posted_history": [
+    "2026-11-18T15:26:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Information Systems Security Engineer",
+   "url": "https://jobs.lever.co/palantir/e8bfc01c-620c-4b6a-b3f8-cd275228db06"
+  },
   "e9aecd15-c7e9-4803-9928-fc0b67e70f5b": {
    "closed_at": "2026-10-31T09:57:28+00:00",
    "department": "Dev",
@@ -4976,14 +5055,14 @@
    "department": "Dev",
    "evergreen": false,
    "first_seen": "2026-11-11T11:27:30+00:00",
-   "fp": "software engineer intern connectivity platform and product @ denver, co",
+   "fp": "software engineer internship connectivity platform and product @ denver, co",
    "location": "Denver, CO",
    "posted_at": "2026-11-10T16:40:40+00:00",
    "posted_history": [
     "2026-11-10T16:40:40+00:00"
    ],
    "reopened": 0,
-   "title": "Software Engineer, Intern - Connectivity Platform and Product",
+   "title": "Software Engineer, Internship - Connectivity Platform and Product",
    "url": "https://jobs.lever.co/palantir/eb496d6a-a960-43d3-a09b-e3843052f54e"
   },
   "ec006383-f48c-452c-a124-88657b5e3277": {

@@ -123,6 +123,10 @@
   {
    "date": "2026-11-18",
    "open": 357
+  },
+  {
+   "date": "2026-11-19",
+   "open": 366
   }
  ],
  "jobs": {
@@ -311,8 +315,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "sales development representative latin america @ washington, dc",
-   "location": "Washington, DC",
+   "fp": "sales development representative latin america @ washington d.c.",
+   "location": "Washington D.C.",
    "posted_at": "2025-10-22T21:12:32+00:00",
    "posted_history": [
     "2025-10-22T21:12:32+00:00"
@@ -671,14 +675,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior software engineer @ bengaluru, india",
-   "location": "Bengaluru, India",
+   "fp": "staff software engineer @ bengaluru",
+   "location": "Bengaluru",
    "posted_at": "2026-02-09T17:02:45+00:00",
    "posted_history": [
     "2026-02-09T17:02:45+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Software Engineer",
+   "title": "Staff Software Engineer",
    "url": "https://www.okta.com/company/careers/opportunity/7599312?gh_jid=7599312"
   },
   "7607491": {
@@ -1372,7 +1376,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/7988286?gh_jid=7988286"
   },
   "7992071": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2016,6 +2020,21 @@
    "title": "Technical Architect",
    "url": "https://www.okta.com/company/careers/opportunity/8070791?gh_jid=8070791"
   },
+  "8071442": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "staff site reliability engineer idaas @ toronto, on, canada",
+   "location": "Toronto, ON, Canada",
+   "posted_at": "2026-11-19T01:49:35+00:00",
+   "posted_history": [
+    "2026-11-19T01:49:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Site Reliability Engineer - IDaaS",
+   "url": "https://www.okta.com/company/careers/opportunity/8071442?gh_jid=8071442"
+  },
   "8071448": {
    "closed_at": null,
    "department": "",
@@ -2047,7 +2066,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8071502?gh_jid=8071502"
   },
   "8071508": {
-   "closed_at": "2026-11-14T10:56:25+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2057,7 +2076,7 @@
    "posted_history": [
     "2026-08-17T05:01:43+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Principal Software Engineer",
    "url": "https://www.okta.com/company/careers/opportunity/8071508?gh_jid=8071508"
   },
@@ -2992,17 +3011,17 @@
    "url": "https://www.okta.com/company/careers/opportunity/8139696?gh_jid=8139696"
   },
   "8139707": {
-   "closed_at": "2026-11-18T12:16:07+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "isv success manager @ bellevue, washington; chicago, illinois; new york, new york; san francisco, california; seattle, washington; washington, dc",
-   "location": "Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Seattle, Washington; Washington, DC",
+   "fp": "isv success manager @ bellevue, wa, united states; chicago, illinois, united states; new york, new york, united states; san francisco, ca, united states; washington, district of columbia, united states",
+   "location": "Bellevue, WA, United States; Chicago, Illinois, United States; New York, New York, United States; San Francisco, CA, United States; Washington, District of Columbia, United States",
    "posted_at": "2026-08-18T19:04:16+00:00",
    "posted_history": [
     "2026-08-18T19:04:16+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "ISV Success Manager",
    "url": "https://www.okta.com/company/careers/opportunity/8139707?gh_jid=8139707"
   },
@@ -3322,17 +3341,17 @@
    "url": "https://www.okta.com/company/careers/opportunity/8160475?gh_jid=8160475"
   },
   "8161278": {
-   "closed_at": "2026-11-12T11:51:19+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
-   "fp": "staff software engineer @ bengaluru, india",
-   "location": "Bengaluru, India",
+   "fp": "staff software engineer @ bengaluru",
+   "location": "Bengaluru",
    "posted_at": "2026-09-15T05:19:57+00:00",
    "posted_history": [
     "2026-09-15T05:19:57+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Staff Software Engineer",
    "url": "https://www.okta.com/company/careers/opportunity/8161278?gh_jid=8161278"
   },
@@ -3487,17 +3506,17 @@
    "url": "https://www.okta.com/company/careers/opportunity/8175690?gh_jid=8175690"
   },
   "8176095": {
-   "closed_at": "2026-11-18T12:16:07+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-14T10:56:25+00:00",
-   "fp": "director channel and alliances emerging markets @ dublin, ireland",
-   "location": "Dublin, Ireland",
+   "fp": "director channel and alliances emerging markets @ dublin",
+   "location": "Dublin",
    "posted_at": "2026-09-10T09:37:55+00:00",
    "posted_history": [
     "2026-09-10T09:37:55+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Director Channel and Alliances - Emerging Markets",
    "url": "https://www.okta.com/company/careers/opportunity/8176095?gh_jid=8176095"
   },
@@ -3682,7 +3701,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8189383?gh_jid=8189383"
   },
   "8190028": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4226,8 +4245,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior software engineer agent gateway @ toronto, ontario, canada",
-   "location": "Toronto, Ontario, Canada",
+   "fp": "senior software engineer agent gateway @ toronto, on, canada",
+   "location": "Toronto, ON, Canada",
    "posted_at": "2026-09-17T19:53:23+00:00",
    "posted_history": [
     "2026-09-17T19:53:23+00:00"
@@ -4912,17 +4931,17 @@
    "url": "https://www.okta.com/company/careers/opportunity/8239282?gh_jid=8239282"
   },
   "8239380": {
-   "closed_at": "2026-10-22T08:55:54+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior software engineer data platform @ bellevue, washington",
-   "location": "Bellevue, Washington",
+   "fp": "senior software engineer data platform @ washington d.c.; washington, district of columbia, united states",
+   "location": "Washington D.C.; Washington, District of Columbia, United States",
    "posted_at": "2026-09-29T19:47:34+00:00",
    "posted_history": [
     "2026-09-29T19:47:34+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Software Engineer, Data Platform",
    "url": "https://www.okta.com/company/careers/opportunity/8239380?gh_jid=8239380"
   },
@@ -6157,7 +6176,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8281124?gh_jid=8281124"
   },
   "8281409": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6176,8 +6195,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior smb new business account executive @ chicago, illinois; colorado; dallas, texas; texas",
-   "location": "Chicago, Illinois; Colorado; Dallas, Texas; Texas",
+   "fp": "senior smb new business account executive @ chicago, illinois, united states; texas remote",
+   "location": "Chicago, Illinois, United States; Texas Remote",
    "posted_at": "2026-10-14T17:30:48+00:00",
    "posted_history": [
     "2026-10-14T17:30:48+00:00"
@@ -6292,7 +6311,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8282705?gh_jid=8282705"
   },
   "8283646": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6532,7 +6551,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8288478?gh_jid=8288478"
   },
   "8288480": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7162,7 +7181,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8305245?gh_jid=8305245"
   },
   "8305257": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -7522,7 +7541,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8326116?gh_jid=8326116"
   },
   "8326941": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-28T10:01:46+00:00",
@@ -7586,8 +7605,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-14T10:56:25+00:00",
-   "fp": "strategic account executive auth0 @ new york, new york, united states",
-   "location": "New York, New York, United States",
+   "fp": "strategic account executive auth0 @ massachusetts remote; new york, new york, united states; north carolina remote; south carolina remote; tennessee remote",
+   "location": "Massachusetts Remote; New York, New York, United States; North Carolina Remote; South Carolina Remote; Tennessee Remote",
    "posted_at": "2026-11-13T18:34:14+00:00",
    "posted_history": [
     "2026-11-13T18:34:14+00:00"
@@ -7646,8 +7665,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
-   "fp": "security architect u s public sector @ washington, dc",
-   "location": "Washington, DC",
+   "fp": "security architect u s public sector @ washington, district of columbia, united states",
+   "location": "Washington, District of Columbia, United States",
    "posted_at": "2026-10-30T18:52:48+00:00",
    "posted_history": [
     "2026-10-30T18:52:48+00:00"
@@ -8196,6 +8215,21 @@
    "title": "Staff Software Engineer - Backend, Identity Threat Protection",
    "url": "https://www.okta.com/company/careers/opportunity/8358096?gh_jid=8358096"
   },
+  "8358102": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "principal software engineer backend identity threat protection @ bengaluru",
+   "location": "Bengaluru",
+   "posted_at": "2026-11-19T03:56:49+00:00",
+   "posted_history": [
+    "2026-11-19T03:56:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Software Engineer - Backend, Identity Threat Protection",
+   "url": "https://www.okta.com/company/careers/opportunity/8358102?gh_jid=8358102"
+  },
   "8358353": {
    "closed_at": null,
    "department": "",
@@ -8226,13 +8260,58 @@
    "title": "Senior Full-Stack Engineer, Builder Platform",
    "url": "https://www.okta.com/company/careers/opportunity/8359853?gh_jid=8359853"
   },
+  "8359871": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "staff software engineer @ washington, district of columbia, united states",
+   "location": "Washington, District of Columbia, United States",
+   "posted_at": "2026-11-18T19:56:51+00:00",
+   "posted_history": [
+    "2026-11-18T19:56:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer",
+   "url": "https://www.okta.com/company/careers/opportunity/8359871?gh_jid=8359871"
+  },
+  "8360154": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "senior fullstack software engineer agent gateway @ toronto, on, canada",
+   "location": "Toronto, ON, Canada",
+   "posted_at": "2026-11-18T22:50:07+00:00",
+   "posted_history": [
+    "2026-11-18T22:50:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior FullStack Software Engineer, Agent Gateway",
+   "url": "https://www.okta.com/company/careers/opportunity/8360154?gh_jid=8360154"
+  },
+  "8367424": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "senior corporate account executive @ toronto, ontario, canada",
+   "location": "Toronto, Ontario, Canada",
+   "posted_at": "2026-11-16T14:52:01+00:00",
+   "posted_history": [
+    "2026-11-16T14:52:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Corporate Account Executive",
+   "url": "https://www.okta.com/company/careers/opportunity/8367424?gh_jid=8367424"
+  },
   "8373834": {
    "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-14T10:56:25+00:00",
-   "fp": "staff software engineer okta identity governance @ san francisco, california",
-   "location": "San Francisco, California",
+   "fp": "staff software engineer okta identity governance @ san francisco, ca, united states",
+   "location": "San Francisco, CA, United States",
    "posted_at": "2026-11-13T22:17:09+00:00",
    "posted_history": [
     "2026-11-13T22:17:09+00:00"
@@ -8287,7 +8366,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8378013?gh_jid=8378013"
   },
   "8382952": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-16T12:03:27+00:00",
@@ -8330,6 +8409,21 @@
    "reopened": 0,
    "title": "Senior Software Engineer, Data Platform",
    "url": "https://www.okta.com/company/careers/opportunity/8384001?gh_jid=8384001"
+  },
+  "8384022": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "staff software engineer @ toronto, on, canada",
+   "location": "Toronto, ON, Canada",
+   "posted_at": "2026-11-18T19:34:51+00:00",
+   "posted_history": [
+    "2026-11-18T19:34:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer",
+   "url": "https://www.okta.com/company/careers/opportunity/8384022?gh_jid=8384022"
   },
   "8384032": {
    "closed_at": null,
@@ -8466,6 +8560,21 @@
    "title": "Senior Software Engineer, Identity Threat Protection",
    "url": "https://www.okta.com/company/careers/opportunity/8395735?gh_jid=8395735"
   },
+  "8396146": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "staff software engineer privileged access management @ toronto, on, canada",
+   "location": "Toronto, ON, Canada",
+   "posted_at": "2026-11-18T18:33:22+00:00",
+   "posted_history": [
+    "2026-11-18T18:33:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer - Privileged Access Management (PAM)",
+   "url": "https://www.okta.com/company/careers/opportunity/8396146?gh_jid=8396146"
+  },
   "8396676": {
    "closed_at": null,
    "department": "",
@@ -8510,6 +8619,81 @@
    "reopened": 0,
    "title": "Senior Software Engineer",
    "url": "https://www.okta.com/company/careers/opportunity/8396761?gh_jid=8396761"
+  },
+  "8397952": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "strategic account executive @ texas remote",
+   "location": "Texas Remote",
+   "posted_at": "2026-11-18T18:09:40+00:00",
+   "posted_history": [
+    "2026-11-18T18:09:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Account Executive",
+   "url": "https://www.okta.com/company/careers/opportunity/8397952?gh_jid=8397952"
+  },
+  "8397964": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "technical enablement business partner @ singapore office",
+   "location": "Singapore Office",
+   "posted_at": "2026-11-19T04:55:34+00:00",
+   "posted_history": [
+    "2026-11-19T04:55:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Enablement Business Partner",
+   "url": "https://www.okta.com/company/careers/opportunity/8397964?gh_jid=8397964"
+  },
+  "8398418": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "regional sales manager @ california remote",
+   "location": "California Remote",
+   "posted_at": "2026-11-18T16:11:27+00:00",
+   "posted_history": [
+    "2026-11-18T16:11:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Regional Sales Manager (Bay Area)",
+   "url": "https://www.okta.com/company/careers/opportunity/8398418?gh_jid=8398418"
+  },
+  "8401324": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "senior smb new business account executive @ chicago, illinois, united states; new york, new york, united states; washington, district of columbia, united states",
+   "location": "Chicago, Illinois, United States; New York, New York, United States; Washington, District of Columbia, United States",
+   "posted_at": "2026-11-19T03:42:50+00:00",
+   "posted_history": [
+    "2026-11-19T03:42:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior SMB New Business Account Executive (East/Central)",
+   "url": "https://www.okta.com/company/careers/opportunity/8401324?gh_jid=8401324"
+  },
+  "8401378": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "technical enablement business partner @ sydney, new south wales, australia",
+   "location": "Sydney, New South Wales, Australia",
+   "posted_at": "2026-11-19T04:55:36+00:00",
+   "posted_history": [
+    "2026-11-19T04:55:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Enablement Business Partner",
+   "url": "https://www.okta.com/company/careers/opportunity/8401378?gh_jid=8401378"
   }
  }
 }

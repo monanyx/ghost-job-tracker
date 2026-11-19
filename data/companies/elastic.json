@@ -123,6 +123,10 @@
   {
    "date": "2026-11-18",
    "open": 379
+  },
+  {
+   "date": "2026-11-19",
+   "open": 373
   }
  ],
  "jobs": {
@@ -251,14 +255,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-28T10:01:46+00:00",
-   "fp": "principal solutions architect @ delhi, india",
+   "fp": "senior solutions architect @ delhi, india",
    "location": "Delhi, India",
    "posted_at": "2026-02-20T07:45:46+00:00",
    "posted_history": [
     "2026-02-20T07:45:46+00:00"
    ],
    "reopened": 0,
-   "title": "Principal Solutions Architect",
+   "title": "Senior Solutions Architect",
    "url": "https://jobs.elastic.co/jobs?gh_jid=7621743&gh_jid=7621743"
   },
   "7673061": {
@@ -1308,7 +1312,7 @@
     "2026-08-26T04:26:17+00:00"
    ],
    "reopened": 1,
-   "title": "Sales Development Representative (Singapore Public Sector)",
+   "title": "Sales Development Representative (Public Sector)",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8067085&gh_jid=8067085"
   },
   "8067193": {
@@ -2047,7 +2051,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8113280&gh_jid=8113280"
   },
   "8114222": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2861,14 +2865,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior solutions architect siem @ the netherlands",
+   "fp": "senior security specialist solutions architect siem @ the netherlands",
    "location": "The Netherlands",
    "posted_at": "2026-09-01T08:50:44+00:00",
    "posted_history": [
     "2026-09-01T08:50:44+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Solutions Architect - SIEM",
+   "title": "Senior Security Specialist Solutions Architect- SIEM",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8156268&gh_jid=8156268"
   },
   "8156295": {
@@ -3082,7 +3086,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8161437&gh_jid=8161437"
   },
   "8161462": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5017,7 +5021,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8237461&gh_jid=8237461"
   },
   "8237463": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5362,7 +5366,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8245815&gh_jid=8245815"
   },
   "8245817": {
-   "closed_at": "2026-11-12T11:51:19+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5372,7 +5376,7 @@
    "posted_history": [
     "2026-10-02T04:59:41+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Principal Software Engineer I - Platform Billing Core",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8245817&gh_jid=8245817"
   },
@@ -6097,7 +6101,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8274383&gh_jid=8274383"
   },
   "8274391": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -6607,7 +6611,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8302154&gh_jid=8302154"
   },
   "8302518": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
@@ -6877,7 +6881,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8306249&gh_jid=8306249"
   },
   "8306617": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -6892,7 +6896,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8306617&gh_jid=8306617"
   },
   "8306618": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -6907,7 +6911,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8306618&gh_jid=8306618"
   },
   "8306619": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -6922,7 +6926,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8306619&gh_jid=8306619"
   },
   "8306622": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -7882,7 +7886,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8350342&gh_jid=8350342"
   },
   "8350647": {
-   "closed_at": null,
+   "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
@@ -8676,6 +8680,21 @@
    "title": "Sales Development Representative MENA (Arabic speaking)",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8382582&gh_jid=8382582"
   },
+  "8382870": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "renewals manager @ barcelona, spain",
+   "location": "Barcelona, Spain",
+   "posted_at": "2026-11-18T17:09:32+00:00",
+   "posted_history": [
+    "2026-11-18T17:09:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Renewals Manager (Individual Contributor)",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8382870&gh_jid=8382870"
+  },
   "8386050": {
    "closed_at": "2026-11-17T12:29:08+00:00",
    "department": "",
@@ -8735,6 +8754,36 @@
    "reopened": 0,
    "title": "Inside Account Executive (Hunter AE) - West",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8397002&gh_jid=8397002"
+  },
+  "8398678": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "sales specialist security @ switzerland",
+   "location": "Switzerland",
+   "posted_at": "2026-11-18T17:52:24+00:00",
+   "posted_history": [
+    "2026-11-18T17:52:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales Specialist - Security",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8398678&gh_jid=8398678"
+  },
+  "8400556": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-19T12:10:18+00:00",
+   "fp": "partner marketing program specialist @ canada",
+   "location": "Canada",
+   "posted_at": "2026-11-18T20:29:26+00:00",
+   "posted_history": [
+    "2026-11-18T20:29:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Partner Marketing Program Specialist",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8400556&gh_jid=8400556"
   }
  }
 }
