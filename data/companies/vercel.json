@@ -127,6 +127,10 @@
   {
    "date": "2026-11-19",
    "open": 86
+  },
+  {
+   "date": "2026-11-20",
+   "open": 86
   }
  ],
  "jobs": {
@@ -581,7 +585,7 @@
    "url": "https://job-boards.greenhouse.io/vercel/jobs/5979111004"
   },
   "5995789004": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -926,7 +930,7 @@
    "url": "https://job-boards.greenhouse.io/vercel/jobs/6122437004"
   },
   "6122619004": {
-   "closed_at": "2026-11-14T10:56:25+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -936,7 +940,7 @@
    "posted_history": [
     "2026-07-22T17:34:33+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Integrated Campaigns Manager",
    "url": "https://job-boards.greenhouse.io/vercel/jobs/6122619004"
   },
@@ -1061,7 +1065,7 @@
    "url": "https://job-boards.greenhouse.io/vercel/jobs/6137983004"
   },
   "6140055004": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1134,6 +1138,21 @@
    "reopened": 0,
    "title": "Senior Finance Manager, Sales",
    "url": "https://job-boards.greenhouse.io/vercel/jobs/6148624004"
+  },
+  "6150691004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "software engineer runtimes @ hybrid - san francisco",
+   "location": "Hybrid - San Francisco",
+   "posted_at": "2026-11-19T20:59:20+00:00",
+   "posted_history": [
+    "2026-11-19T20:59:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Runtimes",
+   "url": "https://job-boards.greenhouse.io/vercel/jobs/6150691004"
   },
   "6160974004": {
    "closed_at": "2026-11-04T11:35:04+00:00",

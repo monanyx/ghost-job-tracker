@@ -127,6 +127,10 @@
   {
    "date": "2026-11-19",
    "open": 147
+  },
+  {
+   "date": "2026-11-20",
+   "open": 148
   }
  ],
  "jobs": {
@@ -159,6 +163,21 @@
    "reopened": 0,
    "title": "Member of Technical Staff (Machine Learning Engineer, Search)",
    "url": "https://jobs.ashbyhq.com/Perplexity/0190699f-010b-44f2-8399-278899fef018"
+  },
+  "01f7cf03-44dd-47a8-a9b9-bdd7050fcac0": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "founding account executive emea @ london",
+   "location": "London",
+   "posted_at": "2026-11-19T19:15:13+00:00",
+   "posted_history": [
+    "2026-11-19T19:15:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Founding Account Executive, EMEA",
+   "url": "https://jobs.ashbyhq.com/Perplexity/01f7cf03-44dd-47a8-a9b9-bdd7050fcac0"
   },
   "03f8f956-1cb3-4945-81d1-73b7ff048d4e": {
    "closed_at": "2026-10-22T08:55:54+00:00",
@@ -1655,6 +1674,21 @@
    "title": "Engineering Manager (Security)",
    "url": "https://jobs.ashbyhq.com/Perplexity/859604e1-9ada-4833-97b3-51fe185b6ff7"
   },
+  "87344412-2db9-42e9-919b-cf18872be670": {
+   "closed_at": null,
+   "department": "AI Research & Systems",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "research development site lead @ london",
+   "location": "London",
+   "posted_at": "2026-11-19T23:32:26+00:00",
+   "posted_history": [
+    "2026-11-19T23:32:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Research & Development Site Lead (London)",
+   "url": "https://jobs.ashbyhq.com/Perplexity/87344412-2db9-42e9-919b-cf18872be670"
+  },
   "883bd78f-c9cd-4ae5-afbf-b21f16f06a6f": {
    "closed_at": null,
    "department": "Platform & Infrastructure",
@@ -2242,7 +2276,7 @@
    "url": "https://jobs.ashbyhq.com/Perplexity/c5dcc0db-7fdc-4e09-86c7-b6618400df16"
   },
   "c6c857f3-c0db-4d93-aeed-638b9f9d4eb6": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "AI Research & Systems",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

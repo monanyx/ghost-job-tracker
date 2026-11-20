@@ -127,6 +127,10 @@
   {
    "date": "2026-11-19",
    "open": 82
+  },
+  {
+   "date": "2026-11-20",
+   "open": 82
   }
  ],
  "jobs": {
@@ -1271,7 +1275,7 @@
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8180461"
   },
   "8189814": {
-   "closed_at": "2026-11-18T12:16:07+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1281,7 +1285,7 @@
    "posted_history": [
     "2026-09-09T22:01:06+00:00"
    ],
-   "reopened": 1,
+   "reopened": 2,
    "title": "Partner Manager, Gusto Pro",
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8189814"
   },
@@ -1780,6 +1784,21 @@
    "title": "Senior Commercial Lines Account Manager",
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8257877"
   },
+  "8257983": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "staff software engineer ml platform @ denver, co - hybrid; new york, ny - hybrid; san francisco, ca - hybrid",
+   "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+   "posted_at": "2026-11-19T21:14:51+00:00",
+   "posted_history": [
+    "2026-11-19T21:14:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer, ML Platform",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8257983"
+  },
   "8260099": {
    "closed_at": null,
    "department": "",
@@ -1826,7 +1845,7 @@
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8263050"
   },
   "8268021": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1860,8 +1879,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "enhanced due diligence investigations analyst @ denver, co - hybrid; new york, ny - hybrid; san francisco, ca - hybrid",
-   "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+   "fp": "enhanced due diligence investigations analyst @ denver, co - hybrid",
+   "location": "Denver, CO - Hybrid",
    "posted_at": "2026-10-13T23:17:28+00:00",
    "posted_history": [
     "2026-10-13T23:17:28+00:00"
@@ -2111,7 +2130,7 @@
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8353774"
   },
   "8353775": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-11T11:27:30+00:00",

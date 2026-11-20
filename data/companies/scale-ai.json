@@ -127,6 +127,10 @@
   {
    "date": "2026-11-19",
    "open": 167
+  },
+  {
+   "date": "2026-11-20",
+   "open": 167
   }
  ],
  "jobs": {
@@ -2595,14 +2599,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "us payroll analyst @ mexico city, mx",
+   "fp": "us payroll manager @ mexico city, mx",
    "location": "Mexico City, MX",
    "posted_at": "2026-09-18T19:00:20+00:00",
    "posted_history": [
     "2026-09-18T19:00:20+00:00"
    ],
    "reopened": 0,
-   "title": "US Payroll Analyst",
+   "title": "US Payroll Manager",
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4734728005"
   },
   "4735208005": {
@@ -3056,7 +3060,7 @@
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4748330005"
   },
   "4748372005": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
@@ -3399,6 +3403,21 @@
    "reopened": 0,
    "title": "Head of EMEA Policy",
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4755784005"
+  },
+  "4756303005": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "account executive defense intelligence agency @ washington, dc",
+   "location": "Washington, DC",
+   "posted_at": "2026-11-19T18:45:00+00:00",
+   "posted_history": [
+    "2026-11-19T18:45:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, Defense Intelligence Agency (DIA)",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4756303005"
   }
  }
 }

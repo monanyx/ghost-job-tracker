@@ -127,6 +127,10 @@
   {
    "date": "2026-11-19",
    "open": 164
+  },
+  {
+   "date": "2026-11-20",
+   "open": 166
   }
  ],
  "jobs": {
@@ -1181,7 +1185,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8114730?t=gh_src=&gh_jid=8114730"
   },
   "8120094": {
-   "closed_at": "2026-11-19T12:10:18+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
@@ -1191,7 +1195,7 @@
    "posted_history": [
     "2026-08-18T18:25:23+00:00"
    ],
-   "reopened": 1,
+   "reopened": 2,
    "title": "Software Engineer, Enterprise Build",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8120094?t=gh_src=&gh_jid=8120094"
   },
@@ -2216,7 +2220,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8230730?t=gh_src=&gh_jid=8230730"
   },
   "8231449": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -2561,7 +2565,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8258307?t=gh_src=&gh_jid=8258307"
   },
   "8259035": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3610,6 +3614,21 @@
    "title": "Accounts Receivable Operations Analyst",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8379685?t=gh_src=&gh_jid=8379685"
   },
+  "8383140": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "software engineer prime @ london, uk",
+   "location": "London, UK",
+   "posted_at": "2026-11-19T12:21:02+00:00",
+   "posted_history": [
+    "2026-11-19T12:21:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Prime",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8383140?t=gh_src=&gh_jid=8383140"
+  },
   "8384079": {
    "closed_at": null,
    "department": "",
@@ -3655,6 +3674,21 @@
    "title": "Software Engineer, Backend - Government Products",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8385931?t=gh_src=&gh_jid=8385931"
   },
+  "8394397": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "executive sourcer @ chicago, il; menlo park, ca; new york, ny",
+   "location": "Chicago, IL; Menlo Park, CA; New York, NY",
+   "posted_at": "2026-11-19T23:04:10+00:00",
+   "posted_history": [
+    "2026-11-19T23:04:10+00:00"
+   ],
+   "reopened": 0,
+   "title": "Executive Sourcer",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8394397?t=gh_src=&gh_jid=8394397"
+  },
   "8399778": {
    "closed_at": null,
    "department": "",
@@ -3669,6 +3703,21 @@
    "reopened": 0,
    "title": "Crypto Compliance Senior Lead",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8399778?t=gh_src=&gh_jid=8399778"
+  },
+  "8402939": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "senior technical recruiter geneng @ chicago, il",
+   "location": "Chicago, IL",
+   "posted_at": "2026-11-19T19:58:14+00:00",
+   "posted_history": [
+    "2026-11-19T19:58:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Technical Recruiter, GenEng",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8402939?t=gh_src=&gh_jid=8402939"
   }
  }
 }

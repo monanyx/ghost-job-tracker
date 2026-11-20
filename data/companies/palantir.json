@@ -127,6 +127,10 @@
   {
    "date": "2026-11-19",
    "open": 306
+  },
+  {
+   "date": "2026-11-20",
+   "open": 307
   }
  ],
  "jobs": {
@@ -1720,6 +1724,21 @@
    "title": "People Relations Specialist",
    "url": "https://jobs.lever.co/palantir/4a245bf7-0467-4436-ac22-7bad194c1a12"
   },
+  "4a9e0649-a925-4b25-914d-1eea058a3e01": {
+   "closed_at": null,
+   "department": "Legal",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "site reliability operations analyst legal @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2026-11-19T14:23:21+00:00",
+   "posted_history": [
+    "2026-11-19T14:23:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Site Reliability Operations Analyst - Legal",
+   "url": "https://jobs.lever.co/palantir/4a9e0649-a925-4b25-914d-1eea058a3e01"
+  },
   "4abf26b4-795c-420a-bf22-1ab98db268b4": {
    "closed_at": null,
    "department": "Dev",
@@ -2725,6 +2744,21 @@
    "title": "Software Engineer, Internship",
    "url": "https://jobs.lever.co/palantir/76a60923-bb49-40f5-b061-7c7eb1299602"
   },
+  "773bb739-f011-4202-88d7-362a562df0d3": {
+   "closed_at": null,
+   "department": "Legal",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "site reliability operations analyst legal @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-11-19T14:22:27+00:00",
+   "posted_history": [
+    "2026-11-19T14:22:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Site Reliability Operations Analyst - Legal",
+   "url": "https://jobs.lever.co/palantir/773bb739-f011-4202-88d7-362a562df0d3"
+  },
   "774cf5c9-bf6a-4d77-bf60-d50ef1beb1a0": {
    "closed_at": null,
    "department": "Echo",
@@ -3341,7 +3375,7 @@
    "url": "https://jobs.lever.co/palantir/98b81271-9e15-40b7-8dce-0c62f24702f9"
   },
   "98bbe55b-f591-4272-a486-d82404d2c576": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "Business Development",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

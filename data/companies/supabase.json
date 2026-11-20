@@ -127,6 +127,10 @@
   {
    "date": "2026-11-19",
    "open": 76
+  },
+  {
+   "date": "2026-11-20",
+   "open": 79
   }
  ],
  "jobs": {
@@ -280,6 +284,21 @@
    "title": "GTM, Strategic Planning",
    "url": "https://jobs.ashbyhq.com/supabase/1dfafad5-e177-4d31-bc94-e8b6d0a7a046"
   },
+  "2184cfbd-927e-4d3c-b34a-f2301d3e8281": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "software engineer postgres tooling @ remote, global",
+   "location": "Remote, Global",
+   "posted_at": "2026-11-19T17:48:28+00:00",
+   "posted_history": [
+    "2026-11-19T17:48:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer - Postgres Tooling",
+   "url": "https://jobs.ashbyhq.com/supabase/2184cfbd-927e-4d3c-b34a-f2301d3e8281"
+  },
   "26f7817d-ca92-4094-a2b5-f22e07a218c4": {
    "closed_at": null,
    "department": "Marketing",
@@ -399,6 +418,21 @@
    "reopened": 0,
    "title": "AI Platform Engineer",
    "url": "https://jobs.ashbyhq.com/supabase/3b5d54ca-741b-45ac-bd3f-31605a0d3541"
+  },
+  "463d8cd7-3092-44eb-b80e-8d21008e569e": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "storage platform engineer @ remote, global",
+   "location": "Remote, Global",
+   "posted_at": "2026-11-19T12:56:25+00:00",
+   "posted_history": [
+    "2026-11-19T12:56:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Storage Platform Engineer",
+   "url": "https://jobs.ashbyhq.com/supabase/463d8cd7-3092-44eb-b80e-8d21008e569e"
   },
   "47bcfdb8-b954-423e-8a9e-85256434575c": {
    "closed_at": null,
@@ -1318,17 +1352,18 @@
    "url": "https://jobs.ashbyhq.com/supabase/ed6cedb1-b9bf-4609-ac5c-c75c33b31bf3"
   },
   "f035bda1-b5d3-4c5b-8736-b9c335fe1c3b": {
-   "closed_at": "2026-11-07T10:41:11+00:00",
+   "closed_at": null,
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "multigres deployment engineer @ remote, global",
    "location": "Remote, Global",
-   "posted_at": "2026-04-15T20:52:02+00:00",
+   "posted_at": "2026-11-19T21:07:22+00:00",
    "posted_history": [
-    "2026-04-15T20:52:02+00:00"
+    "2026-04-15T20:52:02+00:00",
+    "2026-11-19T21:07:22+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Multigres Deployment Engineer",
    "url": "https://jobs.ashbyhq.com/supabase/f035bda1-b5d3-4c5b-8736-b9c335fe1c3b"
   },

@@ -127,6 +127,10 @@
   {
    "date": "2026-11-19",
    "open": 205
+  },
+  {
+   "date": "2026-11-20",
+   "open": 203
   }
  ],
  "jobs": {
@@ -236,7 +240,7 @@
    "url": "https://www.riotgames.com/en/work-with-us/job/7118616?gh_jid=7118616"
   },
   "7181933": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1226,7 +1230,7 @@
    "url": "https://www.riotgames.com/en/work-with-us/job/8073587?gh_jid=8073587"
   },
   "8076086": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1675,6 +1679,21 @@
    "title": "Senior Brand Manager – VALORANT Eastern Europe",
    "url": "https://www.riotgames.com/en/work-with-us/job/8156010?gh_jid=8156010"
   },
+  "8157992": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "sr manager game production unpublished r d product @ los angeles, usa; mercer island, usa",
+   "location": "Los Angeles, USA; Mercer Island, USA",
+   "posted_at": "2026-08-27T23:02:54+00:00",
+   "posted_history": [
+    "2026-08-27T23:02:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Manager, Game Production - Unpublished R&D Product",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8157992?gh_jid=8157992"
+  },
   "8160864": {
    "closed_at": null,
    "department": "",
@@ -1736,7 +1755,7 @@
    "url": "https://www.riotgames.com/en/work-with-us/job/8163299?gh_jid=8163299"
   },
   "8163433": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2036,7 +2055,7 @@
    "url": "https://www.riotgames.com/en/work-with-us/job/8207202?gh_jid=8207202"
   },
   "8210299": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2355,14 +2374,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "systems engineer ii wild rift @ sydney, australia",
+   "fp": "systems engineer wild rift @ sydney, australia",
    "location": "Sydney, Australia",
    "posted_at": "2026-10-14T02:44:42+00:00",
    "posted_history": [
     "2026-10-14T02:44:42+00:00"
    ],
    "reopened": 0,
-   "title": "Systems Engineer II, Wild Rift",
+   "title": "Systems Engineer, Wild Rift",
    "url": "https://www.riotgames.com/en/work-with-us/job/8240678?gh_jid=8240678"
   },
   "8244020": {
@@ -3924,6 +3943,21 @@
    "reopened": 0,
    "title": "Manager, Software Engineering - SRE Site Lead: Dublin ROC",
    "url": "https://www.riotgames.com/en/work-with-us/job/8385235?gh_jid=8385235"
+  },
+  "8393530": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "senior asset portfolio manager @ los angeles, usa",
+   "location": "Los Angeles, USA",
+   "posted_at": "2026-11-19T21:36:12+00:00",
+   "posted_history": [
+    "2026-11-19T21:36:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Asset & Portfolio Manager",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8393530?gh_jid=8393530"
   },
   "8393589": {
    "closed_at": null,

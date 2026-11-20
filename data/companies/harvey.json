@@ -127,11 +127,15 @@
   {
    "date": "2026-11-19",
    "open": 393
+  },
+  {
+   "date": "2026-11-20",
+   "open": 388
   }
  ],
  "jobs": {
   "0078cf37-4076-47ac-acaa-37a83334b43c": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "Customer Success",
    "evergreen": false,
    "first_seen": "2026-11-16T12:03:27+00:00",
@@ -647,14 +651,14 @@
    "department": "Customer Success",
    "evergreen": false,
    "first_seen": "2026-11-19T12:10:18+00:00",
-   "fp": "customer success manager enterprise @ seoul",
+   "fp": "enterprise customer success manager korea @ seoul",
    "location": "Seoul",
    "posted_at": "2026-11-19T09:44:42+00:00",
    "posted_history": [
     "2026-11-19T09:44:42+00:00"
    ],
    "reopened": 0,
-   "title": "Customer Success Manager, Enterprise",
+   "title": "Enterprise Customer Success Manager, Korea",
    "url": "https://jobs.ashbyhq.com/harvey/1040ff3a-6802-4c0d-bd58-2ddff482d8f8"
   },
   "10900071-f75f-49da-bff7-7e9db5e9b1f9": {
@@ -915,7 +919,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/1b080efc-47dd-4b15-b833-89299b2212cb"
   },
   "1b2c2891-8152-4cc5-8bd1-f2cf0a552532": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "Go to Market",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1371,6 +1375,21 @@
    "reopened": 0,
    "title": "Associate Legal Engineer",
    "url": "https://jobs.ashbyhq.com/harvey/28b62bdc-3d36-47eb-980d-4f52455cc3f2"
+  },
+  "29d8945b-dbc8-48d1-b7fe-5a9f0b7517ed": {
+   "closed_at": null,
+   "department": "Customer Success",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "customer success manager enterprise law firms emea @ london",
+   "location": "London",
+   "posted_at": "2026-11-19T16:53:12+00:00",
+   "posted_history": [
+    "2026-11-19T16:53:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Success Manager, Enterprise, Law Firms, EMEA",
+   "url": "https://jobs.ashbyhq.com/harvey/29d8945b-dbc8-48d1-b7fe-5a9f0b7517ed"
   },
   "2a05532b-4746-45ee-965a-ba423efb62fb": {
    "closed_at": null,
@@ -3020,7 +3039,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/60701fe8-5640-40fc-b2ce-161eb6a8542b"
   },
   "60819548-3220-4144-875f-6677693a45c7": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "Go to Market",
    "evergreen": false,
    "first_seen": "2026-11-19T12:10:18+00:00",
@@ -3310,14 +3329,14 @@
    "department": "IT",
    "evergreen": false,
    "first_seen": "2026-10-28T10:01:46+00:00",
-   "fp": "senior people systems analyst @ remote",
+   "fp": "senior people systems analyst hcm benefits @ remote",
    "location": "Remote",
    "posted_at": "2026-10-27T19:15:15+00:00",
    "posted_history": [
     "2026-10-27T19:15:15+00:00"
    ],
    "reopened": 0,
-   "title": "Senior People Systems Analyst",
+   "title": "Senior People Systems Analyst - HCM & Benefits",
    "url": "https://jobs.ashbyhq.com/harvey/6a0e78a0-e797-449d-8d6c-c20c9bfa214d"
   },
   "6a840e0d-6af8-4ad6-a182-7534ce64e7e2": {
@@ -4108,7 +4127,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/8407b840-8645-471b-8bbf-f4c6c8861a2d"
   },
   "851b416f-9869-4b9c-9c10-5105bded4330": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "Marketing",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4709,7 +4728,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/963db922-ea97-47f1-9731-ed0ec1dc026a"
   },
   "977e6184-2dc4-422b-8ab3-bc26bb73f778": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "Go to Market",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5828,14 +5847,14 @@
    "department": "IT",
    "evergreen": false,
    "first_seen": "2026-10-28T10:01:46+00:00",
-   "fp": "senior people systems analyst @ new york",
+   "fp": "senior people systems analyst hcm benefits @ new york",
    "location": "New York",
    "posted_at": "2026-10-27T19:15:08+00:00",
    "posted_history": [
     "2026-10-27T19:15:08+00:00"
    ],
    "reopened": 0,
-   "title": "Senior People Systems Analyst",
+   "title": "Senior People Systems Analyst - HCM & Benefits",
    "url": "https://jobs.ashbyhq.com/harvey/bbf25f2b-0652-4a14-aab2-5205aba53d30"
   },
   "bc2cf43d-c37d-4496-b64e-277ba79ad415": {
@@ -6203,7 +6222,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/c7ee8a85-2483-4325-842e-137a9d6f2011"
   },
   "c84964b6-9e60-4005-8580-b865f3e47b4f": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "Marketing",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6657,7 +6676,7 @@
     "2026-01-14T00:27:03+00:00"
    ],
    "reopened": 0,
-   "title": "Enterprise Customer Success Manager -EMEA (Arabic Speaking)",
+   "title": "Enterprise Customer Success Manager, EMEA (Arabic Speaking)",
    "url": "https://jobs.ashbyhq.com/harvey/d911b15e-29e4-453e-b192-4201c7937e1f"
   },
   "d926b184-364b-49f5-a269-bef158c1c408": {

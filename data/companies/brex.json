@@ -127,6 +127,10 @@
   {
    "date": "2026-11-19",
    "open": 260
+  },
+  {
+   "date": "2026-11-20",
+   "open": 249
   }
  ],
  "jobs": {
@@ -1916,7 +1920,7 @@
    "url": "https://www.brex.com/careers/8659211002?gh_jid=8659211002"
   },
   "8659220002": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1931,7 +1935,7 @@
    "url": "https://www.brex.com/careers/8659220002?gh_jid=8659220002"
   },
   "8659221002": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1946,7 +1950,7 @@
    "url": "https://www.brex.com/careers/8659221002?gh_jid=8659221002"
   },
   "8659237002": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1961,7 +1965,7 @@
    "url": "https://www.brex.com/careers/8659237002?gh_jid=8659237002"
   },
   "8659239002": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1976,7 +1980,7 @@
    "url": "https://www.brex.com/careers/8659239002?gh_jid=8659239002"
   },
   "8659241002": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1991,7 +1995,7 @@
    "url": "https://www.brex.com/careers/8659241002?gh_jid=8659241002"
   },
   "8659242002": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4151,7 +4155,7 @@
    "url": "https://www.brex.com/careers/8879575002?gh_jid=8879575002"
   },
   "8879762002": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4166,7 +4170,7 @@
    "url": "https://www.brex.com/careers/8879762002?gh_jid=8879762002"
   },
   "8879793002": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4286,7 +4290,7 @@
    "url": "https://www.brex.com/careers/8895350002?gh_jid=8895350002"
   },
   "8895839002": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -4646,7 +4650,7 @@
    "url": "https://www.brex.com/careers/8917751002?gh_jid=8917751002"
   },
   "8918205002": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
@@ -4661,7 +4665,7 @@
    "url": "https://www.brex.com/careers/8918205002?gh_jid=8918205002"
   },
   "8918206002": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
@@ -4676,7 +4680,7 @@
    "url": "https://www.brex.com/careers/8918206002?gh_jid=8918206002"
   },
   "8918207002": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
@@ -5619,6 +5623,21 @@
    "reopened": 0,
    "title": "Accounting Partnerships Manager",
    "url": "https://www.brex.com/careers/8950781002?gh_jid=8950781002"
+  },
+  "8952012002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "screening transaction monitoring associate @ vancouver, british columbia, canada",
+   "location": "Vancouver, British Columbia, Canada",
+   "posted_at": "2026-11-19T16:29:56+00:00",
+   "posted_history": [
+    "2026-11-19T16:29:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Screening & Transaction Monitoring Associate",
+   "url": "https://www.brex.com/careers/8952012002?gh_jid=8952012002"
   }
  }
 }

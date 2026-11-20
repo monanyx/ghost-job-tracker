@@ -127,6 +127,10 @@
   {
    "date": "2026-11-19",
    "open": 255
+  },
+  {
+   "date": "2026-11-20",
+   "open": 253
   }
  ],
  "jobs": {
@@ -746,7 +750,7 @@
    "url": "https://www.coinbase.com/careers/positions/8013951?gh_jid=8013951"
   },
   "8017607": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3187,11 +3191,11 @@
     "2026-09-30T16:46:01+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Software Engineer, Backend (Retail DEX)",
+   "title": "Senior Software Engineer, Backend (Retail Spot)",
    "url": "https://www.coinbase.com/careers/positions/8243517?gh_jid=8243517"
   },
   "8243520": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3915,14 +3919,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
-   "fp": "staff user researcher @ remote - usa",
+   "fp": "staff design researcher @ remote - usa",
    "location": "Remote - USA",
    "posted_at": "2026-10-23T18:27:08+00:00",
    "posted_history": [
     "2026-10-23T18:27:08+00:00"
    ],
    "reopened": 0,
-   "title": "Staff User Researcher",
+   "title": "Staff Design Researcher",
    "url": "https://www.coinbase.com/careers/positions/8318555?gh_jid=8318555"
   },
   "8318557": {
@@ -4736,7 +4740,7 @@
    "url": "https://www.coinbase.com/careers/positions/8337715?gh_jid=8337715"
   },
   "8337782": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
@@ -4916,7 +4920,7 @@
    "url": "https://www.coinbase.com/careers/positions/8350017?gh_jid=8350017"
   },
   "8350050": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
@@ -5171,7 +5175,7 @@
    "url": "https://www.coinbase.com/careers/positions/8356850?gh_jid=8356850"
   },
   "8357227": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-14T10:56:25+00:00",
@@ -5244,6 +5248,21 @@
    "reopened": 0,
    "title": "Senior Product Manager, Payments & TRUST Network",
    "url": "https://www.coinbase.com/careers/positions/8360386?gh_jid=8360386"
+  },
+  "8360760": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "director credit risk @ remote - usa",
+   "location": "Remote - USA",
+   "posted_at": "2026-11-19T21:26:24+00:00",
+   "posted_history": [
+    "2026-11-19T21:26:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Director, Credit Risk",
+   "url": "https://www.coinbase.com/careers/positions/8360760?gh_jid=8360760"
   },
   "8366842": {
    "closed_at": null,
@@ -5559,6 +5578,36 @@
    "reopened": 0,
    "title": "Staff Product Designer, Onchain Yield & Investments",
    "url": "https://www.coinbase.com/careers/positions/8397873?gh_jid=8397873"
+  },
+  "8402367": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "international expansion operations associate @ remote - uk",
+   "location": "Remote - UK",
+   "posted_at": "2026-11-19T16:21:12+00:00",
+   "posted_history": [
+    "2026-11-19T16:21:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "International Expansion Operations Associate",
+   "url": "https://www.coinbase.com/careers/positions/8402367?gh_jid=8402367"
+  },
+  "8402798": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "senior product creative designer @ remote - usa",
+   "location": "Remote - USA",
+   "posted_at": "2026-11-19T17:14:03+00:00",
+   "posted_history": [
+    "2026-11-19T17:14:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Creative Designer",
+   "url": "https://www.coinbase.com/careers/positions/8402798?gh_jid=8402798"
   }
  }
 }

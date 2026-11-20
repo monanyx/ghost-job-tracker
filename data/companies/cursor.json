@@ -127,6 +127,10 @@
   {
    "date": "2026-11-19",
    "open": 92
+  },
+  {
+   "date": "2026-11-20",
+   "open": 88
   }
  ],
  "jobs": {
@@ -1707,7 +1711,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/5aff7957-9655-4cc1-98d8-813e33aeb380"
   },
   "5b744208-cb2c-4c31-9217-e0cbbf8ad7af": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
@@ -2248,7 +2252,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/79b07509-13dc-49d3-b133-2bc10d161f6f"
   },
   "7a3714ab-8566-44c7-90e5-46a5c9f20e5f": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "Customer Success",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
@@ -2293,7 +2297,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/7b7362e4-d422-4c82-b536-6c0b40da177c"
   },
   "7bd4ecc4-e5b6-4a95-870a-2ae41a9b40cf": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
@@ -3179,7 +3183,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/bff67718-1dbf-4d66-bcef-8b68d93d716f"
   },
   "c1910b91-6b48-4faa-83ac-fd8025dd46e7": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",

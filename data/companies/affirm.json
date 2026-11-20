@@ -127,6 +127,10 @@
   {
    "date": "2026-11-19",
    "open": 225
+  },
+  {
+   "date": "2026-11-20",
+   "open": 224
   }
  ],
  "jobs": {
@@ -1451,7 +1455,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7829429003"
   },
   "7832310003": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1466,7 +1470,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7832310003"
   },
   "7832312003": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1811,7 +1815,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7906337003"
   },
   "7906836003": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2201,7 +2205,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7989061003"
   },
   "7990774003": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4825,6 +4829,21 @@
    "title": "Senior Software Engineer, Backend (Trust & Safety)",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8197336003"
   },
+  "8197543003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "software engineer ii full stack @ remote uk",
+   "location": "Remote UK",
+   "posted_at": "2026-11-19T15:10:50+00:00",
+   "posted_history": [
+    "2026-11-19T15:10:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer II, Full stack (Open Banking)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8197543003"
+  },
   "8197742003": {
    "closed_at": null,
    "department": "",
@@ -5154,6 +5173,36 @@
    "reopened": 0,
    "title": "Manager, Machine Learning Engineering",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8205744003"
+  },
+  "8205833003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "capital markets specialist i @ new york, new york, united states",
+   "location": "New York, New York, United States",
+   "posted_at": "2026-11-19T19:47:37+00:00",
+   "posted_history": [
+    "2026-11-19T19:47:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Capital Markets Specialist I (2027 Early Career Program)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8205833003"
+  },
+  "8206173003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "internal auditor i @ new york, new york, united states",
+   "location": "New York, New York, United States",
+   "posted_at": "2026-11-19T19:48:40+00:00",
+   "posted_history": [
+    "2026-11-19T19:48:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Internal Auditor I (2027 Early Career Program)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8206173003"
   },
   "8207671003": {
    "closed_at": null,

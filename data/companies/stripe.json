@@ -127,6 +127,10 @@
   {
    "date": "2026-11-19",
    "open": 780
+  },
+  {
+   "date": "2026-11-20",
+   "open": 773
   }
  ],
  "jobs": {
@@ -1945,6 +1949,21 @@
    "title": "Manager, Global Sanctions",
    "url": "https://stripe.com/jobs/search?gh_jid=7896802"
   },
+  "7901987": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "product manager startup products @ nyc, chicago, seattle, san francisco",
+   "location": "NYC, Chicago, Seattle, San Francisco",
+   "posted_at": "2026-05-07T21:37:16+00:00",
+   "posted_history": [
+    "2026-05-07T21:37:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Manager, Startup Products",
+   "url": "https://stripe.com/jobs/search?gh_jid=7901987"
+  },
   "7913698": {
    "closed_at": null,
    "department": "",
@@ -2486,7 +2505,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=7983076"
   },
   "7983456": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -2606,7 +2625,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=7991528"
   },
   "7993151": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3266,7 +3285,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8044924"
   },
   "8045862": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4359,6 +4378,21 @@
    "reopened": 0,
    "title": "Account Executive, Enterprise (Grower)",
    "url": "https://stripe.com/jobs/search?gh_jid=8107136"
+  },
+  "8108391": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "marketing operations associate @ (bengaluru, india)",
+   "location": "(Bengaluru, India)",
+   "posted_at": "2026-08-10T10:49:20+00:00",
+   "posted_history": [
+    "2026-08-10T10:49:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Marketing Operations Associate (Automation)",
+   "url": "https://stripe.com/jobs/search?gh_jid=8108391"
   },
   "8108891": {
    "closed_at": "2026-10-29T10:25:29+00:00",
@@ -6325,6 +6359,21 @@
    "title": "UX Research Manager, Payments",
    "url": "https://stripe.com/jobs/search?gh_jid=8165259"
   },
+  "8165265": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "staff product manager infrastructure @ n/a",
+   "location": "N/A",
+   "posted_at": "2026-11-19T20:03:38+00:00",
+   "posted_history": [
+    "2026-11-19T20:03:38+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Product Manager, Infrastructure",
+   "url": "https://stripe.com/jobs/search?gh_jid=8165265"
+  },
   "8165267": {
    "closed_at": null,
    "department": "",
@@ -6416,7 +6465,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8165855"
   },
   "8167556": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -7466,7 +7515,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8179349"
   },
   "8179419": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7676,7 +7725,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8186367"
   },
   "8186442": {
-   "closed_at": "2026-11-19T12:10:18+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7686,7 +7735,7 @@
    "posted_history": [
     "2026-09-24T21:24:36+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Financial Data Analyst Intern, Technical Operations",
    "url": "https://stripe.com/jobs/search?gh_jid=8186442"
   },
@@ -8291,7 +8340,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8194287"
   },
   "8194289": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -8505,14 +8554,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "people operations team lead centralized operations @ mexico city",
+   "fp": "hr operations team lead @ mexico city",
    "location": "Mexico City",
    "posted_at": "2026-09-22T18:52:58+00:00",
    "posted_history": [
     "2026-09-22T18:52:58+00:00"
    ],
    "reopened": 0,
-   "title": "People Operations Team Lead, Centralized Operations",
+   "title": "HR Operations Team Lead (Centralized Operations)",
    "url": "https://stripe.com/jobs/search?gh_jid=8196283"
   },
   "8196288": {
@@ -8561,7 +8610,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8197886"
   },
   "8197891": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -8576,7 +8625,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8197891"
   },
   "8198207": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -8591,7 +8640,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8198207"
   },
   "8198280": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -8606,7 +8655,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8198280"
   },
   "8198323": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -9641,7 +9690,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8222009"
   },
   "8222149": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -10380,14 +10429,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "product manager ecosystem @ us",
+   "fp": "staff product manager ecosystem @ us",
    "location": "US",
    "posted_at": "2026-10-06T20:43:43+00:00",
    "posted_history": [
     "2026-10-06T20:43:43+00:00"
    ],
    "reopened": 0,
-   "title": "Product Manager, Ecosystem",
+   "title": "Staff Product Manager, Ecosystem",
    "url": "https://stripe.com/jobs/search?gh_jid=8234705"
   },
   "8234710": {
@@ -10419,6 +10468,21 @@
    "reopened": 0,
    "title": "Specialist Solutions Architect, Crypto",
    "url": "https://stripe.com/jobs/search?gh_jid=8236491"
+  },
+  "8236540": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "upo team lead @ bengaluru, india",
+   "location": "Bengaluru, India",
+   "posted_at": "2026-11-20T04:49:48+00:00",
+   "posted_history": [
+    "2026-11-20T04:49:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "UPO Team Lead (Operations)",
+   "url": "https://stripe.com/jobs/search?gh_jid=8236540"
   },
   "8237242": {
    "closed_at": "2026-10-23T08:50:35+00:00",
@@ -10721,7 +10785,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8241292"
   },
   "8241294": {
-   "closed_at": "2026-11-18T12:16:07+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
@@ -10731,7 +10795,7 @@
    "posted_history": [
     "2026-10-23T16:25:41+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Account Executive, SaaS Platforms Grower",
    "url": "https://stripe.com/jobs/search?gh_jid=8241294"
   },
@@ -11171,7 +11235,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8249652"
   },
   "8249865": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -11396,7 +11460,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8258364"
   },
   "8258697": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -11745,14 +11809,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "partner development manager system integrators @ london",
+   "fp": "partner development manager alliances channels @ london",
    "location": "London",
    "posted_at": "2026-10-16T09:52:11+00:00",
    "posted_history": [
     "2026-10-16T09:52:11+00:00"
    ],
    "reopened": 0,
-   "title": "Partner Development Manager- System Integrators",
+   "title": "Partner Development Manager- Alliances & Channels",
    "url": "https://stripe.com/jobs/search?gh_jid=8267519"
   },
   "8267684": {
@@ -11771,7 +11835,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8267684"
   },
   "8267736": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -12084,6 +12148,21 @@
    "reopened": 0,
    "title": "Account Executive, Platforms (Grower)",
    "url": "https://stripe.com/jobs/search?gh_jid=8274920"
+  },
+  "8274927": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "account executive amer platform @ chicago, san francisco, new york",
+   "location": "Chicago, San Francisco, New York ",
+   "posted_at": "2026-11-19T18:15:43+00:00",
+   "posted_history": [
+    "2026-11-19T18:15:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, Amer Platform (Growth Velocity)",
+   "url": "https://stripe.com/jobs/search?gh_jid=8274927"
   },
   "8275259": {
    "closed_at": null,
@@ -13166,7 +13245,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8311735"
   },
   "8314235": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
@@ -13181,7 +13260,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8314235"
   },
   "8314283": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
@@ -13329,6 +13408,21 @@
    "reopened": 0,
    "title": "Senior Staff Engineer, Big Data Infrastructure",
    "url": "https://stripe.com/jobs/search?gh_jid=8317306"
+  },
+  "8317310": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "engineering manager stream analytics @ us-remote",
+   "location": "US-Remote",
+   "posted_at": "2026-11-19T14:23:56+00:00",
+   "posted_history": [
+    "2026-11-19T14:23:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager, Stream Analytics",
+   "url": "https://stripe.com/jobs/search?gh_jid=8317310"
   },
   "8318509": {
    "closed_at": null,
@@ -13916,7 +14010,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8329719"
   },
   "8329743": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -14111,7 +14205,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8332467"
   },
   "8332676": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
@@ -14156,7 +14250,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8332683"
   },
   "8332718": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
@@ -14651,7 +14745,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8346417"
   },
   "8346778": {
-   "closed_at": "2026-11-10T11:47:05+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -14661,12 +14755,12 @@
    "posted_history": [
     "2026-11-02T18:49:07+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Data Scientist, FX Quantitative Research",
    "url": "https://stripe.com/jobs/search?gh_jid=8346778"
   },
   "8346831": {
-   "closed_at": "2026-11-10T11:47:05+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -14676,7 +14770,7 @@
    "posted_history": [
     "2026-11-02T18:54:08+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Data Scientist, FX Quantitative Research",
    "url": "https://stripe.com/jobs/search?gh_jid=8346831"
   },
@@ -14844,6 +14938,21 @@
    "reopened": 0,
    "title": "Engineering Manager, Adaptive Pricing",
    "url": "https://stripe.com/jobs/search?gh_jid=8350430"
+  },
+  "8350917": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "activations specialist bridge @ mexico",
+   "location": "Mexico ",
+   "posted_at": "2026-11-19T17:50:34+00:00",
+   "posted_history": [
+    "2026-11-19T17:50:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Activations Specialist, Bridge",
+   "url": "https://stripe.com/jobs/search?gh_jid=8350917"
   },
   "8350920": {
    "closed_at": null,
@@ -15806,7 +15915,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8383655"
   },
   "8384287": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-13T11:35:01+00:00",
@@ -15821,7 +15930,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8384287"
   },
   "8384325": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-13T11:35:01+00:00",
@@ -15879,6 +15988,21 @@
    "reopened": 0,
    "title": "Software Engineer, Vulnerability Management",
    "url": "https://stripe.com/jobs/search?gh_jid=8384567"
+  },
+  "8384782": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "marketing strategy operations lead global demand campaigns field marketing @ san francisco, new york, seattle, chicago, atlanta, remote in the us",
+   "location": "San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US",
+   "posted_at": "2026-11-19T17:27:28+00:00",
+   "posted_history": [
+    "2026-11-19T17:27:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Marketing Strategy & Operations Lead, Global Demand, Campaigns, Field Marketing",
+   "url": "https://stripe.com/jobs/search?gh_jid=8384782"
   },
   "8386610": {
    "closed_at": null,
@@ -15986,7 +16110,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8393544"
   },
   "8393708": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-17T12:29:08+00:00",
@@ -16045,6 +16169,21 @@
    "title": "Forward Deployed AI Accelerator, Marketing",
    "url": "https://stripe.com/jobs/search?gh_jid=8395851"
   },
+  "8396168": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "deal strategist @ dublin",
+   "location": "Dublin",
+   "posted_at": "2026-11-20T00:09:17+00:00",
+   "posted_history": [
+    "2026-11-20T00:09:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Deal Strategist",
+   "url": "https://stripe.com/jobs/search?gh_jid=8396168"
+  },
   "8397260": {
    "closed_at": null,
    "department": "",
@@ -16059,6 +16198,36 @@
    "reopened": 0,
    "title": "Administrative Business Partner, Office of the CEO",
    "url": "https://stripe.com/jobs/search?gh_jid=8397260"
+  },
+  "8403659": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "senior treasury specialist bridge capital liquidity risk digital assets @ nyc",
+   "location": "NYC",
+   "posted_at": "2026-11-19T21:02:21+00:00",
+   "posted_history": [
+    "2026-11-19T21:02:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Treasury Specialist, Bridge Capital & Liquidity Risk – Digital Assets",
+   "url": "https://stripe.com/jobs/search?gh_jid=8403659"
+  },
+  "8404115": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "staff software engineer mobile development productivity @ na",
+   "location": "na",
+   "posted_at": "2026-11-20T00:45:58+00:00",
+   "posted_history": [
+    "2026-11-20T00:45:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer, Mobile Development Productivity",
+   "url": "https://stripe.com/jobs/search?gh_jid=8404115"
   }
  }
 }

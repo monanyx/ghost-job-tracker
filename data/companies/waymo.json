@@ -127,6 +127,10 @@
   {
    "date": "2026-11-19",
    "open": 374
+  },
+  {
+   "date": "2026-11-20",
+   "open": 368
   }
  ],
  "jobs": {
@@ -1406,7 +1410,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=7819951"
   },
   "7822756": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3041,7 +3045,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8101187"
   },
   "8102997": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3701,7 +3705,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8163421"
   },
   "8163689": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4181,7 +4185,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8201252"
   },
   "8202025": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4316,7 +4320,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8205680"
   },
   "8208465": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7061,7 +7065,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8360024"
   },
   "8360028": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
@@ -7076,7 +7080,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8360028"
   },
   "8360033": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
@@ -7374,6 +7378,21 @@
    "reopened": 0,
    "title": "Staff Software Engineer, Field Response",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8396989"
+  },
+  "8401116": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "2027 summer intern phd agentic ai @ mountain view, california, united states",
+   "location": "Mountain View, California, United States",
+   "posted_at": "2026-11-19T23:05:23+00:00",
+   "posted_history": [
+    "2026-11-19T23:05:23+00:00"
+   ],
+   "reopened": 0,
+   "title": "2027 Summer Intern, PhD, Agentic AI",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8401116"
   }
  }
 }

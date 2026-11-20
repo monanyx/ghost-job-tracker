@@ -127,6 +127,10 @@
   {
    "date": "2026-11-19",
    "open": 147
+  },
+  {
+   "date": "2026-11-20",
+   "open": 144
   }
  ],
  "jobs": {
@@ -176,7 +180,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8430552002?gh_jid=8430552002"
   },
   "8445493002": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -281,7 +285,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8578280002?gh_jid=8578280002"
   },
   "8584593002": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2246,7 +2250,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8843341002?gh_jid=8843341002"
   },
   "8843527002": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2351,7 +2355,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8856440002?gh_jid=8856440002"
   },
   "8856442002": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2726,7 +2730,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8885206002?gh_jid=8885206002"
   },
   "8888403002": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3086,7 +3090,7 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8905089002?gh_jid=8905089002"
   },
   "8905092002": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -4194,6 +4198,51 @@
    "reopened": 0,
    "title": "Développeur(se) Logiciel Android, Lyft Solutions Urbaines",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8950105002?gh_jid=8950105002"
+  },
+  "8952091002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "engineering manager business travel @ mexico city, mexico",
+   "location": "Mexico City, Mexico",
+   "posted_at": "2026-11-19T22:17:26+00:00",
+   "posted_history": [
+    "2026-11-19T22:17:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager, Business Travel",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8952091002?gh_jid=8952091002"
+  },
+  "8952093002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "senior technical program manager finance @ toronto, canada",
+   "location": "Toronto, Canada",
+   "posted_at": "2026-11-19T20:23:28+00:00",
+   "posted_history": [
+    "2026-11-19T20:23:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Technical Program Manager, Finance (Quote to Cash)",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8952093002?gh_jid=8952093002"
+  },
+  "8952244002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "people business partner @ nashville, tn",
+   "location": "Nashville, TN",
+   "posted_at": "2026-11-19T22:19:48+00:00",
+   "posted_history": [
+    "2026-11-19T22:19:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "People Business Partner",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8952244002?gh_jid=8952244002"
   }
  }
 }

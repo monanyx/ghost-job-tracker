@@ -127,6 +127,10 @@
   {
    "date": "2026-11-19",
    "open": 311
+  },
+  {
+   "date": "2026-11-20",
+   "open": 306
   }
  ],
  "jobs": {
@@ -180,8 +184,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior manager revenue accounting @ remote - us",
-   "location": "Remote - US",
+   "fp": "senior manager revenue accounting @ remote - dc; remote - nyc; remote - sf bay area; remote - us",
+   "location": "Remote - DC; Remote - NYC; Remote - SF Bay Area; Remote - US",
    "posted_at": "2026-09-24T19:08:23+00:00",
    "posted_history": [
     "2026-09-24T19:08:23+00:00"
@@ -311,18 +315,18 @@
    "url": "https://www.samsara.com/company/careers/roles/7516554?gh_jid=7516554"
   },
   "7520397": {
-   "closed_at": "2026-11-04T11:35:04+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior software engineer ii route planning @ remote - us",
+   "fp": "staff software engineer @ remote - us",
    "location": "Remote - US",
    "posted_at": "2026-09-30T11:37:14+00:00",
    "posted_history": [
     "2026-09-30T11:37:14+00:00"
    ],
-   "reopened": 0,
-   "title": "Senior Software Engineer II, Route Planning",
+   "reopened": 1,
+   "title": "Staff Software Engineer",
    "url": "https://www.samsara.com/company/careers/roles/7520397?gh_jid=7520397"
   },
   "7525300": {
@@ -330,8 +334,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "staff product design engineer @ san francisco - sf9",
-   "location": "San Francisco - SF9",
+   "fp": "staff product design engineer @ remote - sf bay area; san francisco, ca, united states",
+   "location": "Remote - SF Bay Area; San Francisco, CA, United States",
    "posted_at": "2026-01-27T13:46:30+00:00",
    "posted_history": [
     "2026-01-27T13:46:30+00:00"
@@ -971,7 +975,7 @@
    "url": "https://www.samsara.com/company/careers/roles/7848363?gh_jid=7848363"
   },
   "7848428": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1080,8 +1084,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "staff application security engineer @ san francisco, ca, united states",
-   "location": "San Francisco, CA, United States",
+   "fp": "staff application security engineer @ atlanta, georgia, united states; remote - fl; remote - pa",
+   "location": "Atlanta, Georgia, United States; Remote - FL; Remote - PA",
    "posted_at": "2026-09-04T19:10:42+00:00",
    "posted_history": [
     "2026-09-04T19:10:42+00:00"
@@ -1796,7 +1800,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8036387?gh_jid=8036387"
   },
   "8036863": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2756,7 +2760,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8148044?gh_jid=8148044"
   },
   "8148274": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2786,7 +2790,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8148303?gh_jid=8148303"
   },
   "8148328": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5111,7 +5115,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8304710?gh_jid=8304710"
   },
   "8305824": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -6195,8 +6199,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
-   "fp": "sr manager procure to pay @ remote - us",
-   "location": "Remote - US",
+   "fp": "sr manager procure to pay @ remote - ca; remote - chicago; remote - fl; remote - houston; remote - ne; remote - ok; remote - pa",
+   "location": "Remote - CA; Remote - Chicago; Remote - FL; Remote - Houston; Remote - NE; Remote - OK; Remote - PA",
    "posted_at": "2026-11-03T22:01:35+00:00",
    "posted_history": [
     "2026-11-03T22:01:35+00:00"
@@ -6795,8 +6799,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",
-   "fp": "enterprise core account executive uk @ remote - uk",
-   "location": "Remote - UK",
+   "fp": "enterprise core account executive uk @ london - uk2; london, england, united kingdom",
+   "location": "London - UK2; London, England, United Kingdom",
    "posted_at": "2026-11-06T14:47:38+00:00",
    "posted_history": [
     "2026-11-06T14:47:38+00:00"
@@ -7466,7 +7470,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8386261?gh_jid=8386261"
   },
   "8386368": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-18T12:16:07+00:00",

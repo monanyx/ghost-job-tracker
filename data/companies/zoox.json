@@ -127,6 +127,10 @@
   {
    "date": "2026-11-19",
    "open": 249
+  },
+  {
+   "date": "2026-11-20",
+   "open": 246
   }
  ],
  "jobs": {
@@ -326,7 +330,7 @@
    "url": "https://jobs.lever.co/zoox/06f146c2-25f6-40fd-8393-4f92ce518929"
   },
   "07f0834f-06ec-44c7-a24b-3efa08589d38": {
-   "closed_at": "2026-11-17T12:29:08+00:00",
+   "closed_at": null,
    "department": "Software Platforms and Product",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -336,7 +340,7 @@
    "posted_history": [
     "2026-04-15T20:18:14+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Contract Student Worker  – Firmware Engineer (FW Thermal/Body)",
    "url": "https://jobs.lever.co/zoox/07f0834f-06ec-44c7-a24b-3efa08589d38"
   },
@@ -1091,7 +1095,7 @@
    "url": "https://jobs.lever.co/zoox/2ae1f38f-1b7e-4ec1-8a20-cc3816f96878"
   },
   "2b4b5430-927c-429b-9ac3-b06bf33b7302": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "Places and Build",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2411,7 +2415,7 @@
    "url": "https://jobs.lever.co/zoox/7339161e-38c3-4102-b76f-afe2f917dc5f"
   },
   "737259b5-4258-4557-b7e0-0627b3d870a5": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "Software",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2486,7 +2490,7 @@
    "url": "https://jobs.lever.co/zoox/7980e9a3-99f3-4988-ae6d-355c9199d8fb"
   },
   "79cd1de5-c540-4917-8820-960f65fb8f9e": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "Autonomy Software",
    "evergreen": false,
    "first_seen": "2026-11-13T11:35:01+00:00",
@@ -2574,6 +2578,21 @@
    "reopened": 0,
    "title": "Calibration, Localization and Mapping System Safety Engineer",
    "url": "https://jobs.lever.co/zoox/7e395094-feb1-49c1-bc74-009a2074d686"
+  },
+  "7ff6f68a-52bd-48ab-87d4-029bcc43fa9f": {
+   "closed_at": null,
+   "department": "Fleet Operations",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "process improvement intern @ foster city, ca",
+   "location": "Foster City, CA",
+   "posted_at": "2026-11-18T22:27:14+00:00",
+   "posted_history": [
+    "2026-11-18T22:27:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Process Improvement Intern [Summer 2027]",
+   "url": "https://jobs.lever.co/zoox/7ff6f68a-52bd-48ab-87d4-029bcc43fa9f"
   },
   "80d07c0a-731c-45df-bb69-4ee5e18ea1b0": {
    "closed_at": null,
@@ -4005,14 +4024,14 @@
    "department": "Vehicle Integration, Testing & Validation",
    "evergreen": false,
    "first_seen": "2026-11-19T12:10:18+00:00",
-   "fp": "test automation engineer robot platform @ foster city, ca",
+   "fp": "senior staff test automation engineer robot platform @ foster city, ca",
    "location": "Foster City, CA",
    "posted_at": "2026-11-18T16:07:00+00:00",
    "posted_history": [
     "2026-11-18T16:07:00+00:00"
    ],
    "reopened": 0,
-   "title": "Test Automation Engineer, Robot Platform",
+   "title": "Senior / Staff Test Automation Engineer, Robot Platform",
    "url": "https://jobs.lever.co/zoox/c84c90b4-22f2-4d2e-9034-afee385dd0d2"
   },
   "c8894e25-83b0-4200-a2ab-9f5764bab7ae": {
@@ -4241,7 +4260,7 @@
    "url": "https://jobs.lever.co/zoox/d53c9355-98ca-4d28-a769-cd54e85ff025"
   },
   "d5d0608a-aa33-43c3-abe2-5ff8b40028d5": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "Autonomy Software",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4661,7 +4680,7 @@
    "url": "https://jobs.lever.co/zoox/f10acec0-4887-4e3b-b6dc-2fd351ae2ca5"
   },
   "f1f1e6ec-6167-4369-a788-89f5d009368a": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "Autonomy Software",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

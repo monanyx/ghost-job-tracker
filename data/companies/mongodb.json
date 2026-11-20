@@ -127,6 +127,10 @@
   {
    "date": "2026-11-19",
    "open": 403
+  },
+  {
+   "date": "2026-11-20",
+   "open": 412
   }
  ],
  "jobs": {
@@ -670,6 +674,21 @@
    "title": "Enterprise Account Executive",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=7269518"
   },
+  "7310506": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "account development representative @ new york city",
+   "location": "New York City",
+   "posted_at": "2025-10-15T16:10:53+00:00",
+   "posted_history": [
+    "2025-10-15T16:10:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Development Representative",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=7310506"
+  },
   "7310552": {
    "closed_at": null,
    "department": "",
@@ -701,7 +720,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=7311204"
   },
   "7311234": {
-   "closed_at": "2026-11-18T12:16:07+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
@@ -711,9 +730,24 @@
    "posted_history": [
     "2025-10-13T14:51:11+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Account Development Representative",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=7311234"
+  },
+  "7318028": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "account development representative @ são paulo",
+   "location": "São Paulo",
+   "posted_at": "2025-11-13T14:12:21+00:00",
+   "posted_history": [
+    "2025-11-13T14:12:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Development Representative",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=7318028"
   },
   "7318049": {
    "closed_at": null,
@@ -2096,7 +2130,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8018423"
   },
   "8020377": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4886,7 +4920,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8205442"
   },
   "8205445": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5441,7 +5475,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8230043"
   },
   "8230143": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6775,6 +6809,21 @@
    "title": "Director of Customer Marketing & Advocacy",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8301805"
   },
+  "8301842": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "2027 tax intern new york city @ new york city",
+   "location": "New York City",
+   "posted_at": "2026-11-19T15:41:55+00:00",
+   "posted_history": [
+    "2026-11-19T15:41:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "2027 - Tax Intern, New York City",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8301842"
+  },
   "8304146": {
    "closed_at": null,
    "department": "",
@@ -6870,14 +6919,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
-   "fp": "senior manager creative director @ united states",
+   "fp": "senior manager creative @ united states",
    "location": "United States",
    "posted_at": "2026-10-28T21:17:43+00:00",
    "posted_history": [
     "2026-10-28T21:17:43+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Manager, Creative Director",
+   "title": "Senior Manager, Creative",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8309811"
   },
   "8311246": {
@@ -7450,6 +7499,21 @@
    "title": "Senior Solutions Architect",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8345848"
   },
+  "8346138": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "2027 ai and people transformation intern nyc @ new york city",
+   "location": "New York City",
+   "posted_at": "2026-11-19T14:05:15+00:00",
+   "posted_history": [
+    "2026-11-19T14:05:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "2027 - AI and People Transformation Intern, NYC",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8346138"
+  },
   "8346181": {
    "closed_at": null,
    "department": "",
@@ -7500,14 +7564,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",
-   "fp": "consulting engineer @ paris",
+   "fp": "senior consulting engineer @ paris",
    "location": "Paris",
    "posted_at": "2026-11-06T11:54:42+00:00",
    "posted_history": [
     "2026-11-06T11:54:42+00:00"
    ],
    "reopened": 0,
-   "title": "Consulting Engineer",
+   "title": "Senior Consulting Engineer",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8349115"
   },
   "8349239": {
@@ -7674,6 +7738,21 @@
    "reopened": 0,
    "title": "Lead, Engineering Backup",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8353315"
+  },
+  "8354295": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "manager engineering @ dublin, ireland",
+   "location": "Dublin, Ireland",
+   "posted_at": "2026-11-19T14:18:37+00:00",
+   "posted_history": [
+    "2026-11-19T14:18:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Engineering",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8354295"
   },
   "8354988": {
    "closed_at": null,
@@ -7935,8 +8014,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-13T11:35:01+00:00",
-   "fp": "startup acquisition marketing lead @ austin; boston; new york city; san francisco",
-   "location": "Austin; Boston; New York City; San Francisco",
+   "fp": "startup acquisition marketing lead @ united states",
+   "location": "United States",
    "posted_at": "2026-11-12T21:33:34+00:00",
    "posted_history": [
     "2026-11-12T21:33:34+00:00"
@@ -7950,8 +8029,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-13T11:35:01+00:00",
-   "fp": "startup lifecycle marketing lead @ austin; boston; new york city; san francisco",
-   "location": "Austin; Boston; New York City; San Francisco",
+   "fp": "startup lifecycle marketing lead @ atlanta; austin; boston; chicago; denver; miami; new york city; philadelphia; raleigh; san francisco; tampa; washington dc",
+   "location": "Atlanta; Austin; Boston; Chicago; Denver; Miami; New York City; Philadelphia; Raleigh; San Francisco; Tampa; Washington DC",
    "posted_at": "2026-11-12T21:28:19+00:00",
    "posted_history": [
     "2026-11-12T21:28:19+00:00"
@@ -8095,19 +8174,34 @@
    "title": "Pricing & Monetization Associate",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8372137"
   },
+  "8375342": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "growth marketing lead @ dublin, ireland",
+   "location": "Dublin, Ireland",
+   "posted_at": "2026-11-19T21:33:08+00:00",
+   "posted_history": [
+    "2026-11-19T21:33:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "Growth Marketing Lead",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8375342"
+  },
   "8378846": {
    "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-12T11:51:19+00:00",
-   "fp": "contract recruiter corporate @ new york city",
+   "fp": "corporate recruiter contract @ new york city",
    "location": "New York City",
    "posted_at": "2026-11-11T18:04:47+00:00",
    "posted_history": [
     "2026-11-11T18:04:47+00:00"
    ],
    "reopened": 0,
-   "title": "Contract Recruiter, Corporate (6 months)",
+   "title": "Corporate Recruiter, Contract",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8378846"
   },
   "8379386": {
@@ -8169,6 +8263,21 @@
    "reopened": 0,
    "title": "Associate Technical Services Engineer",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8381861"
+  },
+  "8381864": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "senior financial analyst @ austin",
+   "location": "Austin",
+   "posted_at": "2026-11-19T18:42:34+00:00",
+   "posted_history": [
+    "2026-11-19T18:42:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Financial Analyst",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8381864"
   },
   "8381869": {
    "closed_at": null,
@@ -8515,6 +8624,21 @@
    "title": "Associate Account Executive",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8393203"
   },
+  "8393584": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "recruiting operations manager @ austin; new york city; palo alto; san francisco",
+   "location": "Austin; New York City; Palo Alto; San Francisco",
+   "posted_at": "2026-11-19T20:58:11+00:00",
+   "posted_history": [
+    "2026-11-19T20:58:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Recruiting Operations Manager",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8393584"
+  },
   "8395479": {
    "closed_at": null,
    "department": "",
@@ -8535,15 +8659,30 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-18T12:16:07+00:00",
-   "fp": "manager emea demand generation @ dublin, ireland",
+   "fp": "lead emea demand generation @ dublin, ireland",
    "location": "Dublin, Ireland",
    "posted_at": "2026-11-18T10:50:44+00:00",
    "posted_history": [
     "2026-11-18T10:50:44+00:00"
    ],
    "reopened": 0,
-   "title": "Manager, EMEA Demand Generation",
+   "title": "Lead, EMEA Demand Generation",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8395592"
+  },
+  "8395822": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "senior program manager governance risk and compliance @ united states",
+   "location": "United States",
+   "posted_at": "2026-11-19T15:46:51+00:00",
+   "posted_history": [
+    "2026-11-19T15:46:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Program Manager, Governance, Risk and Compliance",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8395822"
   },
   "8396867": {
    "closed_at": null,
@@ -8559,6 +8698,21 @@
    "reopened": 0,
    "title": "Senior Network Engineer",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8396867"
+  },
+  "8397251": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "program manager public sector compliance @ united states",
+   "location": "United States",
+   "posted_at": "2026-11-19T15:45:59+00:00",
+   "posted_history": [
+    "2026-11-19T15:45:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Program Manager, Public Sector Compliance",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8397251"
   },
   "8397699": {
    "closed_at": null,
@@ -8649,6 +8803,21 @@
    "reopened": 0,
    "title": "Senior Solutions Architect",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8399277"
+  },
+  "8403104": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "senior financial analyst @ dublin",
+   "location": "Dublin",
+   "posted_at": "2026-11-19T18:42:36+00:00",
+   "posted_history": [
+    "2026-11-19T18:42:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Financial Analyst",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8403104"
   }
  }
 }

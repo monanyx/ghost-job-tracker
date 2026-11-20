@@ -127,6 +127,10 @@
   {
    "date": "2026-11-19",
    "open": 638
+  },
+  {
+   "date": "2026-11-20",
+   "open": 637
   }
  ],
  "jobs": {
@@ -776,7 +780,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4986288008"
   },
   "4989155008": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -825,8 +829,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "engineering manager safeguards review tooling @ san francisco, ca",
-   "location": "San Francisco, CA",
+   "fp": "engineering manager safeguards review tooling @ new york city, ny; san francisco, ca",
+   "location": "New York City, NY; San Francisco, CA",
    "posted_at": "2026-06-10T21:27:09+00:00",
    "posted_history": [
     "2026-06-10T21:27:09+00:00"
@@ -1080,14 +1084,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "customer success manager industries @ new york city, ny",
+   "fp": "ai outcomes manager industries @ new york city, ny",
    "location": "New York City, NY",
    "posted_at": "2026-04-03T16:12:57+00:00",
    "posted_history": [
     "2026-04-03T16:12:57+00:00"
    ],
    "reopened": 0,
-   "title": "Customer Success Manager, Industries",
+   "title": "AI Outcomes Manager, Industries",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5068570008"
   },
   "5073998008": {
@@ -1481,7 +1485,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5107890008"
   },
   "5108111008": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1824,6 +1828,21 @@
    "reopened": 0,
    "title": "Manager, Enterprise Sales - MedTech",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5138289008"
+  },
+  "5138549008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "strategic account executive tech @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-19T17:22:29+00:00",
+   "posted_history": [
+    "2026-11-19T17:22:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Account Executive, Tech",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5138549008"
   },
   "5139038008": {
    "closed_at": "2026-11-03T11:21:29+00:00",
@@ -2966,7 +2985,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5250052008"
   },
   "5250091008": {
-   "closed_at": "2026-11-03T11:21:29+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2976,7 +2995,7 @@
    "posted_history": [
     "2026-06-08T17:16:56+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Staff+ Software Engineer, GRC Platform",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5250091008"
   },
@@ -6956,7 +6975,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5410004008"
   },
   "5410006008": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -8055,14 +8074,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
-   "fp": "public sector sales lead @ paris, france",
+   "fp": "enterprise account executive public sector @ paris, france",
    "location": "Paris, France",
    "posted_at": "2026-09-21T12:15:29+00:00",
    "posted_history": [
     "2026-09-21T12:15:29+00:00"
    ],
    "reopened": 0,
-   "title": "Public Sector Sales Lead",
+   "title": "[Paris] Enterprise Account Executive, Public Sector",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5426617008"
   },
   "5426621008": {
@@ -8139,6 +8158,21 @@
    "reopened": 0,
    "title": "Applied AI Architect, Partnerships",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5426933008"
+  },
+  "5427025008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "partner success lead @ london, uk",
+   "location": "London, UK",
+   "posted_at": "2026-09-22T13:08:03+00:00",
+   "posted_history": [
+    "2026-09-22T13:08:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Partner Success Lead",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5427025008"
   },
   "5427236008": {
    "closed_at": "2026-11-07T10:41:11+00:00",
@@ -8396,7 +8430,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5430695008"
   },
   "5430743008": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -8936,7 +8970,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5436293008"
   },
   "5436615008": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -9161,7 +9195,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5439524008"
   },
   "5439526008": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -9446,7 +9480,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5441896008"
   },
   "5441936008": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -9611,7 +9645,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5443882008"
   },
   "5443900008": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -10601,7 +10635,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5453569008"
   },
   "5453573008": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -10845,8 +10879,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
-   "fp": "applied ai architect public sector @ san francisco, ca | new york city, ny",
-   "location": "San Francisco, CA | New York City, NY",
+   "fp": "applied ai architect public sector @ washington, dc",
+   "location": "Washington, DC",
    "posted_at": "2026-10-23T01:53:49+00:00",
    "posted_history": [
     "2026-10-23T01:53:49+00:00"
@@ -10914,6 +10948,21 @@
    "reopened": 0,
    "title": "Principal Engineer Capacity/Compute",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5456039008"
+  },
+  "5456315008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "head of community relations compute @ san francisco, ca | new york city, ny",
+   "location": "San Francisco, CA | New York City, NY",
+   "posted_at": "2026-11-19T17:30:20+00:00",
+   "posted_history": [
+    "2026-11-19T17:30:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Head of Community Relations, Compute",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5456315008"
   },
   "5456405008": {
    "closed_at": null,
@@ -12161,7 +12210,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468374008"
   },
   "5468380008": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
@@ -13196,7 +13245,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5481396008"
   },
   "5481671008": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-14T10:56:25+00:00",
@@ -13299,6 +13348,21 @@
    "reopened": 0,
    "title": "GTM Activations Strategy Lead",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5483359008"
+  },
+  "5483403008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "finance systems production support lead @ san francisco, ca | seattle, wa",
+   "location": "San Francisco, CA | Seattle, WA",
+   "posted_at": "2026-11-19T23:24:42+00:00",
+   "posted_history": [
+    "2026-11-19T23:24:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Finance Systems Production Support Lead",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5483403008"
   },
   "5483945008": {
    "closed_at": null,
@@ -13404,6 +13468,81 @@
    "reopened": 0,
    "title": "Strategic Pursuits Lead, DACH",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5486380008"
+  },
+  "5486656008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "aws partnerships lead @ london, uk",
+   "location": "London, UK",
+   "posted_at": "2026-11-19T16:04:53+00:00",
+   "posted_history": [
+    "2026-11-19T16:04:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "AWS Partnerships Lead",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5486656008"
+  },
+  "5486780008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "applied ai architect beneficial deployment @ sydney, australia",
+   "location": "Sydney, Australia",
+   "posted_at": "2026-11-20T02:35:45+00:00",
+   "posted_history": [
+    "2026-11-20T02:35:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Applied AI Architect, Beneficial Deployment",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5486780008"
+  },
+  "5486907008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "community engagement manager data centres @ alberta, can | remote-friendly, canada",
+   "location": "Alberta, CAN | Remote-Friendly, Canada",
+   "posted_at": "2026-11-19T14:43:03+00:00",
+   "posted_history": [
+    "2026-11-19T14:43:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Community Engagement Manager, Data Centres (Canada)",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5486907008"
+  },
+  "5489564008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "corporate network engineer @ remote-friendly (travel required) | san francisco, ca",
+   "location": "Remote-Friendly (Travel Required) | San Francisco, CA",
+   "posted_at": "2026-11-20T01:57:48+00:00",
+   "posted_history": [
+    "2026-11-20T01:57:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "Corporate Network Engineer",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5489564008"
+  },
+  "5490122008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "engineering manager privacy infrastructure @ san francisco, ca | new york city, ny",
+   "location": "San Francisco, CA | New York City, NY",
+   "posted_at": "2026-11-20T03:04:34+00:00",
+   "posted_history": [
+    "2026-11-20T03:04:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "[P] Engineering Manager, Privacy Infrastructure",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5490122008"
   }
  }
 }

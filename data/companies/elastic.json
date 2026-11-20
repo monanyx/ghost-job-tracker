@@ -127,6 +127,10 @@
   {
    "date": "2026-11-19",
    "open": 373
+  },
+  {
+   "date": "2026-11-20",
+   "open": 373
   }
  ],
  "jobs": {
@@ -836,7 +840,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8002562&gh_jid=8002562"
   },
   "8007202": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -896,7 +900,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8018328&gh_jid=8018328"
   },
   "8021466": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1331,7 +1335,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8067193&gh_jid=8067193"
   },
   "8067195": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1965,14 +1969,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior solutions architect mumbai india @ mumbai, india",
+   "fp": "senior solutions architect @ mumbai, india",
    "location": "Mumbai, India",
    "posted_at": "2026-10-05T04:10:17+00:00",
    "posted_history": [
     "2026-10-05T04:10:17+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Solutions Architect- Mumbai, India",
+   "title": "Senior Solutions Architect",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8111756&gh_jid=8111756"
   },
   "8111792": {
@@ -2441,7 +2445,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8131025&gh_jid=8131025"
   },
   "8138062": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5036,7 +5040,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8237463&gh_jid=8237463"
   },
   "8237466": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5501,7 +5505,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8249252&gh_jid=8249252"
   },
   "8249255": {
-   "closed_at": "2026-11-12T11:51:19+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -5511,7 +5515,7 @@
    "posted_history": [
     "2026-10-21T21:44:39+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Software Engineer - Platform Billing Core",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8249255&gh_jid=8249255"
   },
@@ -5921,7 +5925,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8263255&gh_jid=8263255"
   },
   "8265123": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5936,7 +5940,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8265123&gh_jid=8265123"
   },
   "8266933": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
@@ -8126,7 +8130,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8355159&gh_jid=8355159"
   },
   "8355511": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-12T11:51:19+00:00",
@@ -8305,6 +8309,21 @@
    "title": "RVP Enterprise",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8371794&gh_jid=8371794"
   },
+  "8372378": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "senior software engineer marketplaces ssc @ spain",
+   "location": "Spain",
+   "posted_at": "2026-11-20T11:41:16+00:00",
+   "posted_history": [
+    "2026-11-20T11:41:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer (TypeScript) - Marketplaces, SSC",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8372378&gh_jid=8372378"
+  },
   "8372380": {
    "closed_at": null,
    "department": "",
@@ -8351,7 +8370,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8374090&gh_jid=8374090"
   },
   "8377579": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-14T10:56:25+00:00",
@@ -8665,6 +8684,36 @@
    "title": "Senior Solutions Architect",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8382571&gh_jid=8382571"
   },
+  "8382575": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "principal solution architect @ indonesia",
+   "location": "Indonesia",
+   "posted_at": "2026-11-20T10:51:40+00:00",
+   "posted_history": [
+    "2026-11-20T10:51:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Solution Architect",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8382575&gh_jid=8382575"
+  },
+  "8382577": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "principal solution architect @ seoul, south korea",
+   "location": "Seoul, South Korea",
+   "posted_at": "2026-11-20T10:53:58+00:00",
+   "posted_history": [
+    "2026-11-20T10:53:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Solution Architect",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8382577&gh_jid=8382577"
+  },
   "8382582": {
    "closed_at": null,
    "department": "",
@@ -8740,6 +8789,21 @@
    "title": "Inside Account Executive (Hunter AE) - Central",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8393700&gh_jid=8393700"
   },
+  "8395756": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "lead it systems engineer @ united states",
+   "location": "United States",
+   "posted_at": "2026-11-19T15:39:54+00:00",
+   "posted_history": [
+    "2026-11-19T15:39:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Lead IT Systems Engineer",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8395756&gh_jid=8395756"
+  },
   "8397002": {
    "closed_at": null,
    "department": "",
@@ -8784,6 +8848,66 @@
    "reopened": 0,
    "title": "Partner Marketing Program Specialist",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8400556&gh_jid=8400556"
+  },
+  "8400853": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "field marketing coordinator @ canada",
+   "location": "Canada",
+   "posted_at": "2026-11-19T15:26:50+00:00",
+   "posted_history": [
+    "2026-11-19T15:26:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Field Marketing Coordinator",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8400853&gh_jid=8400853"
+  },
+  "8402308": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "lead it systems engineer @ canada",
+   "location": "Canada",
+   "posted_at": "2026-11-19T15:39:52+00:00",
+   "posted_history": [
+    "2026-11-19T15:39:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "Lead IT Systems Engineer",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8402308&gh_jid=8402308"
+  },
+  "8405578": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "senior software engineer marketplaces ssc @ greece",
+   "location": "Greece",
+   "posted_at": "2026-11-20T11:41:18+00:00",
+   "posted_history": [
+    "2026-11-20T11:41:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer (TypeScript) - Marketplaces, SSC",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8405578&gh_jid=8405578"
+  },
+  "8405579": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "senior software engineer marketplaces ssc @ portugal",
+   "location": "Portugal",
+   "posted_at": "2026-11-20T11:41:59+00:00",
+   "posted_history": [
+    "2026-11-20T11:41:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer (TypeScript) - Marketplaces, SSC",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8405579&gh_jid=8405579"
   }
  }
 }

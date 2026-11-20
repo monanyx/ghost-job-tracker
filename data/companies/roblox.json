@@ -127,6 +127,10 @@
   {
    "date": "2026-11-19",
    "open": 265
+  },
+  {
+   "date": "2026-11-20",
+   "open": 264
   }
  ],
  "jobs": {
@@ -1601,7 +1605,7 @@
    "url": "https://careers.roblox.com/jobs/8047859?gh_jid=8047859"
   },
   "8047871": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2891,7 +2895,7 @@
    "url": "https://careers.roblox.com/jobs/8174172?gh_jid=8174172"
   },
   "8174264": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3611,7 +3615,7 @@
    "url": "https://careers.roblox.com/jobs/8221568?gh_jid=8221568"
   },
   "8221890": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4660,6 +4664,21 @@
    "title": "Manager, Product Support Incident Management",
    "url": "https://careers.roblox.com/jobs/8286666?gh_jid=8286666"
   },
+  "8287516": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "senior software engineer data infrastructure safety @ san mateo, ca, united states",
+   "location": "San Mateo, CA, United States",
+   "posted_at": "2026-11-19T18:56:17+00:00",
+   "posted_history": [
+    "2026-11-19T18:56:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer - Data Infrastructure Safety",
+   "url": "https://careers.roblox.com/jobs/8287516?gh_jid=8287516"
+  },
   "8287614": {
    "closed_at": null,
    "department": "",
@@ -5679,6 +5698,21 @@
    "reopened": 0,
    "title": "Software Engineering Manager - 2D Engine",
    "url": "https://careers.roblox.com/jobs/8394163?gh_jid=8394163"
+  },
+  "8397795": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "senior software engineer ugc marketplace @ san mateo, ca, united states",
+   "location": "San Mateo, CA, United States",
+   "posted_at": "2026-11-19T23:55:30+00:00",
+   "posted_history": [
+    "2026-11-19T23:55:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer - UGC Marketplace",
+   "url": "https://careers.roblox.com/jobs/8397795?gh_jid=8397795"
   }
  }
 }

@@ -127,6 +127,10 @@
   {
    "date": "2026-11-19",
    "open": 47
+  },
+  {
+   "date": "2026-11-20",
+   "open": 44
   }
  ],
  "jobs": {
@@ -161,7 +165,7 @@
    "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4643990101"
   },
   "4647006101": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-06T11:30:42+00:00",
@@ -457,7 +461,7 @@
     "2026-11-16T19:41:41+00:00"
    ],
    "reopened": 0,
-   "title": "Software Engineer, Java (Prime Services)",
+   "title": "Software Engineer, Java",
    "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4963196101"
   },
   "4966607101": {
@@ -615,8 +619,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "specialist information security @ barcelona, spain; berlin, berlin, germany; bucurești, bucharest, romania; vienna, vienna, austria",
-   "location": "Barcelona, Spain; Berlin, Berlin, Germany; București, Bucharest, Romania; Vienna, Vienna, Austria",
+   "fp": "specialist information security @ barcelona, spain; bucurești, bucharest, romania; vienna, vienna, austria",
+   "location": "Barcelona, Spain; București, Bucharest, Romania; Vienna, Vienna, Austria",
    "posted_at": "2026-10-09T09:41:28+00:00",
    "posted_history": [
     "2026-10-09T09:41:28+00:00"
@@ -731,7 +735,7 @@
    "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5001505101"
   },
   "5001723101": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -956,7 +960,7 @@
    "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5025155101"
   },
   "5025183101": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
@@ -1121,7 +1125,7 @@
    "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5031818101"
   },
   "5034977101": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-13T11:35:01+00:00",
@@ -1209,6 +1213,21 @@
    "reopened": 0,
    "title": "Senior Software Engineer, Java",
    "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5039100101"
+  },
+  "5041007101": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "senior associate information security @ vienna, vienna, austria",
+   "location": "Vienna, Vienna, Austria",
+   "posted_at": "2026-11-19T12:55:58+00:00",
+   "posted_history": [
+    "2026-11-19T12:55:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Associate, Information Security",
+   "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5041007101"
   }
  }
 }

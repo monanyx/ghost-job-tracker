@@ -127,6 +127,10 @@
   {
    "date": "2026-11-19",
    "open": 264
+  },
+  {
+   "date": "2026-11-20",
+   "open": 264
   }
  ],
  "jobs": {
@@ -641,7 +645,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7635358003?gh_jid=7635358003"
   },
   "7635374003": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1410,18 +1414,18 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "principal enterprise architect ai sap integrations @ munich, germany",
+   "fp": "principal enterprise architect ai cloud integrations @ munich, germany",
    "location": "Munich, Germany",
    "posted_at": "2026-09-29T07:33:49+00:00",
    "posted_history": [
     "2026-09-29T07:33:49+00:00"
    ],
    "reopened": 0,
-   "title": "Principal Enterprise Architect - AI & SAP Integrations",
+   "title": "Principal Enterprise Architect - AI & Cloud Integrations",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7800468003?gh_jid=7800468003"
   },
   "7800476003": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1481,7 +1485,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7802378003?gh_jid=7802378003"
   },
   "7802389003": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2051,7 +2055,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7828623003?gh_jid=7828623003"
   },
   "7830985003": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3581,7 +3585,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8016429003?gh_jid=8016429003"
   },
   "8016485003": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4166,7 +4170,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8044261003?gh_jid=8044261003"
   },
   "8046331003": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
@@ -4599,6 +4603,21 @@
    "reopened": 0,
    "title": "Enterprise Account Executive MEA Oil & Energy",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8197525003?gh_jid=8197525003"
+  },
+  "8198150003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "senior counsel dach public sector @ munich, germany",
+   "location": "Munich, Germany",
+   "posted_at": "2026-11-20T10:58:45+00:00",
+   "posted_history": [
+    "2026-11-20T10:58:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Counsel, DACH Public Sector",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/8198150003?gh_jid=8198150003"
   },
   "8198760003": {
    "closed_at": null,
@@ -5036,18 +5055,18 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8201666003?gh_jid=8201666003"
   },
   "8201885003": {
-   "closed_at": "2026-11-14T10:56:25+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-12T11:51:19+00:00",
-   "fp": "principal enterprise architect german speaking @ remote, austria",
+   "fp": "principal enterprise architect ai cloud integration @ remote, austria",
    "location": "Remote, Austria",
    "posted_at": "2026-11-12T08:38:37+00:00",
    "posted_history": [
     "2026-11-12T08:38:37+00:00"
    ],
-   "reopened": 0,
-   "title": "Principal Enterprise Architect (Germany), German speaking",
+   "reopened": 1,
+   "title": "Principal Enterprise Architect - AI & Cloud Integration",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8201885003?gh_jid=8201885003"
   },
   "8201886003": {
@@ -5081,33 +5100,33 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8201887003?gh_jid=8201887003"
   },
   "8201888003": {
-   "closed_at": "2026-11-14T10:56:25+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-12T11:51:19+00:00",
-   "fp": "principal enterprise architect german speaking @ remote, netherlands",
+   "fp": "principal enterprise architect ai cloud integrations @ remote, netherlands",
    "location": "Remote, Netherlands",
    "posted_at": "2026-11-12T08:40:09+00:00",
    "posted_history": [
     "2026-11-12T08:40:09+00:00"
    ],
-   "reopened": 0,
-   "title": "Principal Enterprise Architect (Germany), German speaking",
+   "reopened": 1,
+   "title": "Principal Enterprise Architect - AI & Cloud Integrations",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8201888003?gh_jid=8201888003"
   },
   "8201889003": {
-   "closed_at": "2026-11-14T10:56:25+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-12T11:51:19+00:00",
-   "fp": "principal enterprise architect german speaking @ remote, belgium",
+   "fp": "principal enterprise architect ai cloud integrations @ remote, belgium",
    "location": "Remote, Belgium",
    "posted_at": "2026-11-12T08:40:32+00:00",
    "posted_history": [
     "2026-11-12T08:40:32+00:00"
    ],
-   "reopened": 0,
-   "title": "Principal Enterprise Architect (Germany), German speaking",
+   "reopened": 1,
+   "title": "Principal Enterprise Architect - AI & Cloud Integrations",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8201889003?gh_jid=8201889003"
   },
   "8201989003": {
@@ -5484,6 +5503,36 @@
    "reopened": 0,
    "title": "Associate Technology Consultant - Galaxy Graduate Program (German/French Speaking)",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8209085003?gh_jid=8209085003"
+  },
+  "8209122003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "lead project manager supply chain @ raleigh, us, north carolina",
+   "location": "Raleigh, US, North Carolina",
+   "posted_at": "2026-11-19T15:01:56+00:00",
+   "posted_history": [
+    "2026-11-19T15:01:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Lead Project Manager - Supply Chain",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/8209122003?gh_jid=8209122003"
+  },
+  "8210402003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "principal enterprise architect ai cloud integrations @ madrid, spain",
+   "location": "Madrid, Spain",
+   "posted_at": "2026-11-20T08:47:18+00:00",
+   "posted_history": [
+    "2026-11-20T08:47:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Enterprise Architect - AI & Cloud Integrations",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/8210402003?gh_jid=8210402003"
   }
  }
 }

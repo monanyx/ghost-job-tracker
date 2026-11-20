@@ -127,6 +127,10 @@
   {
    "date": "2026-11-19",
    "open": 122
+  },
+  {
+   "date": "2026-11-20",
+   "open": 125
   }
  ],
  "jobs": {
@@ -210,14 +214,14 @@
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior sre @ toronto",
+   "fp": "senior platform engineer @ toronto",
    "location": "Toronto",
    "posted_at": "2026-09-08T10:06:27+00:00",
    "posted_history": [
     "2026-09-08T10:06:27+00:00"
    ],
    "reopened": 0,
-   "title": "Senior SRE",
+   "title": "Senior Platform Engineer",
    "url": "https://jobs.lever.co/pigment/0c94c748-1f6e-46f5-81bd-b9286a0706f3"
   },
   "104912fb-cc2b-4199-8d04-504d06ba4f5c": {
@@ -520,6 +524,21 @@
    "title": "Engagement Manager",
    "url": "https://jobs.lever.co/pigment/2896686d-5da0-4c9f-a1b9-99b6bcb907c9"
   },
+  "29af203a-1658-425b-b510-036ef32af354": {
+   "closed_at": null,
+   "department": "Design",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "senior product designer @ paris",
+   "location": "Paris",
+   "posted_at": "2021-10-15T13:08:51+00:00",
+   "posted_history": [
+    "2021-10-15T13:08:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Designer",
+   "url": "https://jobs.lever.co/pigment/29af203a-1658-425b-b510-036ef32af354"
+  },
   "3124ad58-dcc6-49a3-88f2-8e43d84c1ce7": {
    "closed_at": null,
    "department": "Sales",
@@ -729,6 +748,21 @@
    "reopened": 0,
    "title": "Business Development Manager",
    "url": "https://jobs.lever.co/pigment/4337e854-c67f-4000-bbd7-d14276be37d6"
+  },
+  "43f51046-ae33-4a82-a363-f34917c89228": {
+   "closed_at": null,
+   "department": "Operations",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "senior gtm analyst @ new york",
+   "location": "New York",
+   "posted_at": "2026-11-19T15:05:19+00:00",
+   "posted_history": [
+    "2026-11-19T15:05:19+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior GTM Analyst",
+   "url": "https://jobs.lever.co/pigment/43f51046-ae33-4a82-a363-f34917c89228"
   },
   "449c4cd0-719e-48b7-80c6-8cea349b6993": {
    "closed_at": null,
@@ -1170,8 +1204,8 @@
    "department": "Operations",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "marketing operations manager @ new york",
-   "location": "New York",
+   "fp": "marketing operations manager @ paris",
+   "location": "Paris",
    "posted_at": "2026-10-09T12:55:57+00:00",
    "posted_history": [
     "2026-10-09T12:55:57+00:00"
@@ -2006,7 +2040,7 @@
    "url": "https://jobs.lever.co/pigment/c2cc2ae1-e321-41ff-838a-568a2312836d"
   },
   "c52b57cb-aec0-44c9-ad32-eee814affcb0": {
-   "closed_at": "2026-11-18T12:16:07+00:00",
+   "closed_at": null,
    "department": "Customer Experience",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2016,7 +2050,7 @@
    "posted_history": [
     "2026-07-14T13:46:18+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Technical Account Manager, Success Advisory - San Francisco",
    "url": "https://jobs.lever.co/pigment/c52b57cb-aec0-44c9-ad32-eee814affcb0"
   },

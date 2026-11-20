@@ -127,6 +127,10 @@
   {
    "date": "2026-11-19",
    "open": 64
+  },
+  {
+   "date": "2026-11-20",
+   "open": 68
   }
  ],
  "jobs": {
@@ -165,8 +169,8 @@
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
-   "fp": "enterprise sales leader @ london office",
-   "location": "London Office",
+   "fp": "enterprise sales leader @ london, united kingdom",
+   "location": "London, United Kingdom",
    "posted_at": "2026-11-18T09:32:18+00:00",
    "posted_history": [
     "2026-10-21T17:06:27+00:00",
@@ -182,8 +186,8 @@
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "technical account manager @ berlin office",
-   "location": "Berlin Office",
+   "fp": "technical account manager @ berlin, germany",
+   "location": "Berlin, Germany",
    "posted_at": "2026-10-09T12:12:26+00:00",
    "posted_history": [
     "2026-10-09T12:12:26+00:00"
@@ -197,8 +201,8 @@
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior customer success manager german speaking @ berlin office",
-   "location": "Berlin Office",
+   "fp": "senior customer success manager german speaking @ berlin, germany",
+   "location": "Berlin, Germany",
    "posted_at": "2026-10-07T15:13:08+00:00",
    "posted_history": [
     "2026-10-07T15:13:08+00:00"
@@ -207,13 +211,28 @@
    "title": "Senior Customer Success Manager - German Speaking (Remote)",
    "url": "https://jobs.ashbyhq.com/n8n/0b21fdb3-006f-4cd3-98b1-68c33f5286fa"
   },
+  "10ad6075-8917-4812-af67-d83e25ac1031": {
+   "closed_at": null,
+   "department": "Product",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "product design manager @ germany",
+   "location": "Germany",
+   "posted_at": "2026-11-19T19:57:25+00:00",
+   "posted_history": [
+    "2026-11-19T19:57:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Design Manager",
+   "url": "https://jobs.ashbyhq.com/n8n/10ad6075-8917-4812-af67-d83e25ac1031"
+  },
   "10fa4cac-9045-4f26-a945-9a690616e9b8": {
    "closed_at": null,
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-11-02T11:41:30+00:00",
-   "fp": "sales development representative north emea @ london office",
-   "location": "London Office",
+   "fp": "sales development representative north emea @ london, united kingdom",
+   "location": "London, United Kingdom",
    "posted_at": "2026-11-02T09:31:31+00:00",
    "posted_history": [
     "2026-11-02T09:31:31+00:00"
@@ -243,8 +262,8 @@
    "department": "Product",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior product manager @ berlin office",
-   "location": "Berlin Office",
+   "fp": "senior product manager @ berlin, germany",
+   "location": "Berlin, Germany",
    "posted_at": "2026-10-22T14:43:17+00:00",
    "posted_history": [
     "2026-10-09T14:39:43+00:00",
@@ -290,8 +309,8 @@
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "mid market account executive @ boston",
-   "location": "Boston",
+   "fp": "mid market account executive @ boston, massachusetts, united states",
+   "location": "Boston, Massachusetts, United States",
    "posted_at": "2026-09-23T15:40:08+00:00",
    "posted_history": [
     "2026-09-23T15:40:08+00:00"
@@ -305,8 +324,8 @@
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
-   "fp": "manager customer success @ berlin office",
-   "location": "Berlin Office",
+   "fp": "manager customer success @ berlin, germany",
+   "location": "Berlin, Germany",
    "posted_at": "2026-11-16T15:31:29+00:00",
    "posted_history": [
     "2026-10-28T15:13:33+00:00",
@@ -322,8 +341,8 @@
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
-   "fp": "staff platform engineer agentic engineering @ berlin office",
-   "location": "Berlin Office",
+   "fp": "staff platform engineer agentic engineering @ berlin, germany",
+   "location": "Berlin, Germany",
    "posted_at": "2026-11-10T09:57:41+00:00",
    "posted_history": [
     "2026-11-10T09:57:41+00:00"
@@ -332,13 +351,28 @@
    "title": "Staff Platform Engineer, Agentic Engineering",
    "url": "https://jobs.ashbyhq.com/n8n/24ad7d68-fac9-476c-b9fa-3410d73a6d7d"
   },
+  "276727f2-5555-4a59-90b7-5423af3dfc48": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "mid market sales manager us @ boston, massachusetts, united states",
+   "location": "Boston, Massachusetts, United States",
+   "posted_at": "2026-11-19T15:07:41+00:00",
+   "posted_history": [
+    "2026-11-19T15:07:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Mid-Market Sales Manager US",
+   "url": "https://jobs.ashbyhq.com/n8n/276727f2-5555-4a59-90b7-5423af3dfc48"
+  },
   "2ac306a9-1d24-4b19-8261-32902b7dd423": {
    "closed_at": null,
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
-   "fp": "engineering manager remote europe @ berlin office",
-   "location": "Berlin Office",
+   "fp": "engineering manager remote europe @ berlin, germany",
+   "location": "Berlin, Germany",
    "posted_at": "2026-10-20T16:37:33+00:00",
    "posted_history": [
     "2026-10-20T16:37:33+00:00"
@@ -367,8 +401,8 @@
    "department": "Product",
    "evergreen": true,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "design talent pool @ berlin office",
-   "location": "Berlin Office",
+   "fp": "design talent pool @ berlin, germany",
+   "location": "Berlin, Germany",
    "posted_at": "2025-10-08T20:30:10+00:00",
    "posted_history": [
     "2025-10-08T20:30:10+00:00"
@@ -397,8 +431,8 @@
    "department": "Marketing",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
-   "fp": "senior partner marketing manager agency @ berlin office",
-   "location": "Berlin Office",
+   "fp": "senior partner marketing manager agency @ berlin, germany",
+   "location": "Berlin, Germany",
    "posted_at": "2026-10-28T15:17:19+00:00",
    "posted_history": [
     "2026-10-28T15:17:19+00:00"
@@ -442,8 +476,8 @@
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-11-13T11:35:01+00:00",
-   "fp": "support systems programs lead europe remote @ berlin office",
-   "location": "Berlin Office",
+   "fp": "support systems programs lead europe remote @ berlin, germany",
+   "location": "Berlin, Germany",
    "posted_at": "2026-11-13T10:04:31+00:00",
    "posted_history": [
     "2026-11-13T10:04:31+00:00"
@@ -457,8 +491,8 @@
    "department": "Other",
    "evergreen": true,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "leadership roles @ berlin office",
-   "location": "Berlin Office",
+   "fp": "leadership roles @ berlin, germany",
+   "location": "Berlin, Germany",
    "posted_at": "2025-10-08T16:43:21+00:00",
    "posted_history": [
     "2025-10-08T16:43:21+00:00"
@@ -467,13 +501,28 @@
    "title": "Leadership roles (Talent Pool)",
    "url": "https://jobs.ashbyhq.com/n8n/3a9dfa61-fc8d-485f-afb2-1afedda5bf8f"
   },
+  "3d7b16dc-f9c2-4d3e-bac5-83abc21d8b48": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "head of global enterprise renewals @ berlin, germany",
+   "location": "Berlin, Germany",
+   "posted_at": "2026-11-19T17:08:44+00:00",
+   "posted_history": [
+    "2026-11-19T17:08:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Head of Global Enterprise Renewals (Remote)",
+   "url": "https://jobs.ashbyhq.com/n8n/3d7b16dc-f9c2-4d3e-bac5-83abc21d8b48"
+  },
   "40332dfe-2da2-4655-b343-87d847134b8e": {
    "closed_at": null,
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
-   "fp": "large enterprise account executive us west @ california",
-   "location": "California",
+   "fp": "large enterprise account executive us west @ california, united states",
+   "location": "California, United States",
    "posted_at": "2026-10-31T00:03:05+00:00",
    "posted_history": [
     "2026-10-31T00:03:05+00:00"
@@ -502,8 +551,8 @@
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "sr security engineer remote europe @ berlin office",
-   "location": "Berlin Office",
+   "fp": "sr security engineer remote europe @ berlin, germany",
+   "location": "Berlin, Germany",
    "posted_at": "2026-10-13T13:48:21+00:00",
    "posted_history": [
     "2026-10-13T13:48:21+00:00"
@@ -532,8 +581,8 @@
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "customer success manager guided west coast @ washington state",
-   "location": "Washington State",
+   "fp": "customer success manager guided west coast @ washington, united states",
+   "location": "Washington, United States",
    "posted_at": "2026-11-19T09:15:01+00:00",
    "posted_history": [
     "2026-10-06T08:18:06+00:00",
@@ -563,8 +612,8 @@
    "department": "Marketing",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "field marketing manager us @ boston",
-   "location": "Boston",
+   "fp": "field marketing manager us @ boston, massachusetts, united states",
+   "location": "Boston, Massachusetts, United States",
    "posted_at": "2026-09-28T09:19:30+00:00",
    "posted_history": [
     "2026-09-28T09:19:30+00:00"
@@ -578,8 +627,8 @@
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
-   "fp": "large enterprise account executive us east @ new york",
-   "location": "New York",
+   "fp": "large enterprise account executive us east @ new york, united states",
+   "location": "New York, United States",
    "posted_at": "2026-10-31T00:14:16+00:00",
    "posted_history": [
     "2026-10-31T00:14:16+00:00"
@@ -593,8 +642,8 @@
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
-   "fp": "low touch customer success manager @ berlin office",
-   "location": "Berlin Office",
+   "fp": "low touch customer success manager @ berlin, germany",
+   "location": "Berlin, Germany",
    "posted_at": "2026-11-09T11:12:40+00:00",
    "posted_history": [
     "2026-10-30T17:03:57+00:00",
@@ -609,8 +658,8 @@
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
-   "fp": "deployment strategist remote us east coast @ boston",
-   "location": "Boston",
+   "fp": "deployment strategist remote us east coast @ boston, massachusetts, united states",
+   "location": "Boston, Massachusetts, United States",
    "posted_at": "2026-10-28T13:26:46+00:00",
    "posted_history": [
     "2026-10-21T09:30:25+00:00",
@@ -625,8 +674,8 @@
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
-   "fp": "enterprise account executive us central @ texas",
-   "location": "Texas",
+   "fp": "enterprise account executive us central @ texas, united states",
+   "location": "Texas, United States",
    "posted_at": "2026-10-31T00:18:55+00:00",
    "posted_history": [
     "2026-10-31T00:18:55+00:00"
@@ -640,8 +689,8 @@
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "renewals specialist remote @ new york",
-   "location": "New York",
+   "fp": "renewals specialist remote @ new york, united states",
+   "location": "New York, United States",
    "posted_at": "2026-11-16T15:42:36+00:00",
    "posted_history": [
     "2026-10-08T10:44:30+00:00",
@@ -716,8 +765,8 @@
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-11-19T12:10:18+00:00",
-   "fp": "soultions engineering manager @ berlin office",
-   "location": "Berlin Office",
+   "fp": "soultions engineering manager @ berlin, germany",
+   "location": "Berlin, Germany",
    "posted_at": "2026-11-18T19:27:11+00:00",
    "posted_history": [
     "2026-11-18T19:27:11+00:00"
@@ -776,8 +825,8 @@
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior product engineer @ berlin office",
-   "location": "Berlin Office",
+   "fp": "senior product engineer @ berlin, germany",
+   "location": "Berlin, Germany",
    "posted_at": "2026-03-04T11:31:38+00:00",
    "posted_history": [
     "2026-03-04T11:31:38+00:00"
@@ -821,8 +870,8 @@
    "department": "Product",
    "evergreen": false,
    "first_seen": "2026-11-19T12:10:18+00:00",
-   "fp": "senior product manager core experience @ berlin office",
-   "location": "Berlin Office",
+   "fp": "senior product manager core experience @ berlin, germany",
+   "location": "Berlin, Germany",
    "posted_at": "2026-11-19T10:41:55+00:00",
    "posted_history": [
     "2026-11-19T10:41:55+00:00"
@@ -836,8 +885,8 @@
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "forward deployed engineer us east coast @ boston",
-   "location": "Boston",
+   "fp": "forward deployed engineer us east coast @ boston, massachusetts, united states",
+   "location": "Boston, Massachusetts, United States",
    "posted_at": "2026-09-15T15:21:50+00:00",
    "posted_history": [
     "2026-09-15T15:21:50+00:00"
@@ -881,8 +930,8 @@
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-11-02T11:41:30+00:00",
-   "fp": "sales development representative nordics benelux @ london office",
-   "location": "London Office",
+   "fp": "sales development representative nordics benelux @ london, united kingdom",
+   "location": "London, United Kingdom",
    "posted_at": "2026-11-02T09:23:13+00:00",
    "posted_history": [
     "2026-11-02T09:23:13+00:00"
@@ -911,8 +960,8 @@
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-11-02T11:41:30+00:00",
-   "fp": "sales development representative south emea @ london office",
-   "location": "London Office",
+   "fp": "sales development representative south emea @ london, united kingdom",
+   "location": "London, United Kingdom",
    "posted_at": "2026-11-02T09:22:46+00:00",
    "posted_history": [
     "2026-11-02T09:22:46+00:00"
@@ -926,8 +975,8 @@
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-11-12T11:51:19+00:00",
-   "fp": "lead deployment strategist emea @ berlin office",
-   "location": "Berlin Office",
+   "fp": "lead deployment strategist emea @ berlin, germany",
+   "location": "Berlin, Germany",
    "posted_at": "2026-11-11T16:23:18+00:00",
    "posted_history": [
     "2026-11-11T16:23:18+00:00"
@@ -941,8 +990,8 @@
    "department": "Operations",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "sales enablement manager @ berlin office",
-   "location": "Berlin Office",
+   "fp": "sales enablement manager @ berlin, germany",
+   "location": "Berlin, Germany",
    "posted_at": "2026-08-19T13:25:18+00:00",
    "posted_history": [
     "2026-08-19T13:25:18+00:00"
@@ -971,8 +1020,8 @@
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
-   "fp": "enterprise account executive us west @ california",
-   "location": "California",
+   "fp": "enterprise account executive us west @ california, united states",
+   "location": "California, United States",
    "posted_at": "2026-10-31T00:22:41+00:00",
    "posted_history": [
     "2026-10-31T00:22:41+00:00"
@@ -986,8 +1035,8 @@
    "department": "Product",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior product manager @ berlin office",
-   "location": "Berlin Office",
+   "fp": "senior product manager @ berlin, germany",
+   "location": "Berlin, Germany",
    "posted_at": "2026-10-22T14:43:41+00:00",
    "posted_history": [
     "2026-10-05T06:27:53+00:00",
@@ -1002,8 +1051,8 @@
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "sales development representative us @ boston",
-   "location": "Boston",
+   "fp": "sales development representative us @ boston, massachusetts, united states",
+   "location": "Boston, Massachusetts, United States",
    "posted_at": "2026-09-23T15:30:45+00:00",
    "posted_history": [
     "2026-09-23T15:30:45+00:00"
@@ -1017,8 +1066,8 @@
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-11-19T12:10:18+00:00",
-   "fp": "solutions engineer manager @ boston",
-   "location": "Boston",
+   "fp": "solutions engineer manager @ boston, massachusetts, united states",
+   "location": "Boston, Massachusetts, United States",
    "posted_at": "2026-11-18T19:33:23+00:00",
    "posted_history": [
     "2026-11-18T19:33:23+00:00"
@@ -1032,8 +1081,8 @@
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "forward deployed engineer emea @ berlin office",
-   "location": "Berlin Office",
+   "fp": "forward deployed engineer emea @ berlin, germany",
+   "location": "Berlin, Germany",
    "posted_at": "2026-11-16T10:49:30+00:00",
    "posted_history": [
     "2026-09-15T15:22:26+00:00",
@@ -1049,8 +1098,8 @@
    "department": "Product",
    "evergreen": false,
    "first_seen": "2026-11-12T11:51:19+00:00",
-   "fp": "head of enterprise product @ berlin office",
-   "location": "Berlin Office",
+   "fp": "head of enterprise product @ berlin, germany",
+   "location": "Berlin, Germany",
    "posted_at": "2026-11-11T15:16:22+00:00",
    "posted_history": [
     "2026-11-11T15:16:22+00:00"
@@ -1064,8 +1113,8 @@
    "department": "Finance & Legal",
    "evergreen": false,
    "first_seen": "2026-11-09T12:08:42+00:00",
-   "fp": "senior legal counsel product @ berlin office",
-   "location": "Berlin Office",
+   "fp": "senior legal counsel product @ berlin, germany",
+   "location": "Berlin, Germany",
    "posted_at": "2026-11-08T14:50:44+00:00",
    "posted_history": [
     "2026-11-08T14:50:44+00:00"
@@ -1079,8 +1128,8 @@
    "department": "Sales",
    "evergreen": true,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "account executive talent pool us @ new york",
-   "location": "New York",
+   "fp": "account executive talent pool us @ new york, united states",
+   "location": "New York, United States",
    "posted_at": "2026-02-06T14:21:44+00:00",
    "posted_history": [
     "2026-02-06T14:21:44+00:00"
@@ -1094,8 +1143,8 @@
    "department": "Operations",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "internal context engineer @ berlin office",
-   "location": "Berlin Office",
+   "fp": "internal context engineer @ berlin, germany",
+   "location": "Berlin, Germany",
    "posted_at": "2026-10-13T13:16:50+00:00",
    "posted_history": [
     "2026-10-13T13:16:50+00:00"
@@ -1109,8 +1158,8 @@
    "department": "Marketing",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
-   "fp": "head of demand generation @ berlin office",
-   "location": "Berlin Office",
+   "fp": "head of demand generation @ berlin, germany",
+   "location": "Berlin, Germany",
    "posted_at": "2026-11-11T09:44:40+00:00",
    "posted_history": [
     "2026-10-22T04:31:42+00:00",
@@ -1125,8 +1174,8 @@
    "department": "Marketing",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior partner marketing manager gsis @ berlin office",
-   "location": "Berlin Office",
+   "fp": "senior partner marketing manager gsis @ berlin, germany",
+   "location": "Berlin, Germany",
    "posted_at": "2026-09-28T12:56:42+00:00",
    "posted_history": [
     "2026-09-28T12:56:42+00:00"
@@ -1140,8 +1189,8 @@
    "department": "Product",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior product manager core platform @ berlin office",
-   "location": "Berlin Office",
+   "fp": "senior product manager core platform @ berlin, germany",
+   "location": "Berlin, Germany",
    "posted_at": "2026-10-22T14:42:27+00:00",
    "posted_history": [
     "2026-08-03T16:55:20+00:00",
@@ -1202,8 +1251,8 @@
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "enterprise sales leader dach @ berlin office",
-   "location": "Berlin Office",
+   "fp": "enterprise sales leader dach @ berlin, germany",
+   "location": "Berlin, Germany",
    "posted_at": "2026-10-12T09:58:48+00:00",
    "posted_history": [
     "2026-10-12T09:58:48+00:00"
@@ -1217,8 +1266,8 @@
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "sales development representative dach @ berlin office",
-   "location": "Berlin Office",
+   "fp": "sales development representative dach @ berlin, germany",
+   "location": "Berlin, Germany",
    "posted_at": "2026-09-23T13:17:56+00:00",
    "posted_history": [
     "2026-09-23T13:17:56+00:00"
@@ -1247,8 +1296,8 @@
    "department": "Finance & Legal",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "deal desk manager @ berlin office",
-   "location": "Berlin Office",
+   "fp": "deal desk manager @ berlin, germany",
+   "location": "Berlin, Germany",
    "posted_at": "2026-07-17T12:07:29+00:00",
    "posted_history": [
     "2026-07-17T12:07:29+00:00"
@@ -1272,6 +1321,21 @@
    "title": "Staff Core Platform Engineer",
    "url": "https://jobs.ashbyhq.com/n8n/ea8efc33-c7b8-4b88-826c-3dca17c3aa47"
   },
+  "eee6e2dc-c565-4cef-adee-a054b59b1c28": {
+   "closed_at": null,
+   "department": "Product",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "head of product design @ berlin, germany",
+   "location": "Berlin, Germany",
+   "posted_at": "2026-11-19T19:57:37+00:00",
+   "posted_history": [
+    "2026-11-19T19:57:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Head of Product Design",
+   "url": "https://jobs.ashbyhq.com/n8n/eee6e2dc-c565-4cef-adee-a054b59b1c28"
+  },
   "f16af9d9-2c3e-4eed-98cc-4b25277e44e8": {
    "closed_at": null,
    "department": "Sales",
@@ -1292,8 +1356,8 @@
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-11-12T11:51:19+00:00",
-   "fp": "lead forward deployed engineer emea @ berlin office",
-   "location": "Berlin Office",
+   "fp": "lead forward deployed engineer emea @ berlin, germany",
+   "location": "Berlin, Germany",
    "posted_at": "2026-11-11T16:05:26+00:00",
    "posted_history": [
     "2026-11-11T16:05:26+00:00"
@@ -1309,10 +1373,11 @@
    "first_seen": "2026-11-03T11:21:29+00:00",
    "fp": "senior staff product designer @ germany",
    "location": "Germany",
-   "posted_at": "2026-11-09T10:40:44+00:00",
+   "posted_at": "2026-11-19T17:01:25+00:00",
    "posted_history": [
     "2026-11-02T12:54:25+00:00",
-    "2026-11-09T10:40:44+00:00"
+    "2026-11-09T10:40:44+00:00",
+    "2026-11-19T17:01:25+00:00"
    ],
    "reopened": 1,
    "title": "Senior/Staff Product Designer",
@@ -1323,8 +1388,8 @@
    "department": "Operations",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "sales enablement manager @ new york",
-   "location": "New York",
+   "fp": "sales enablement manager @ new york, united states",
+   "location": "New York, United States",
    "posted_at": "2026-09-25T11:12:49+00:00",
    "posted_history": [
     "2026-09-25T11:12:49+00:00"
@@ -1338,8 +1403,8 @@
    "department": "Operations",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "internal ai enablement lead @ berlin office",
-   "location": "Berlin Office",
+   "fp": "internal ai enablement lead @ berlin, germany",
+   "location": "Berlin, Germany",
    "posted_at": "2026-10-13T13:16:43+00:00",
    "posted_history": [
     "2026-10-13T13:16:43+00:00"

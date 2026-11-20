@@ -127,6 +127,10 @@
   {
    "date": "2026-11-19",
    "open": 77
+  },
+  {
+   "date": "2026-11-20",
+   "open": 77
   }
  ],
  "jobs": {
@@ -266,7 +270,7 @@
    "url": "https://boards.greenhouse.io/chime/jobs/8535340002?gh_jid=8535340002"
   },
   "8564916002": {
-   "closed_at": "2026-10-28T10:01:46+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -276,7 +280,7 @@
    "posted_history": [
     "2026-05-29T17:09:31+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Partner Manager",
    "url": "https://boards.greenhouse.io/chime/jobs/8564916002?gh_jid=8564916002"
   },
@@ -315,8 +319,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior application security engineer @ san francisco, ca, usa",
-   "location": "San Francisco, CA, USA",
+   "fp": "senior application security engineer @ chicago, il, usa; new york, ny, usa; san francisco, ca, usa",
+   "location": "Chicago, IL, USA; New York, NY, USA; San Francisco, CA, USA",
    "posted_at": "2026-10-02T20:02:28+00:00",
    "posted_history": [
     "2026-10-02T20:02:28+00:00"
@@ -401,7 +405,7 @@
    "url": "https://boards.greenhouse.io/chime/jobs/8607191002?gh_jid=8607191002"
   },
   "8609159002": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1451,7 +1455,7 @@
    "url": "https://boards.greenhouse.io/chime/jobs/8917560002?gh_jid=8917560002"
   },
   "8918533002": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
@@ -1704,6 +1708,21 @@
    "reopened": 0,
    "title": "Sr. CRM Operations Manager",
    "url": "https://boards.greenhouse.io/chime/jobs/8945757002?gh_jid=8945757002"
+  },
+  "8948694002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "program manager omx soto @ chicago, il, usa; new york, ny, usa; san francisco, ca, usa",
+   "location": "Chicago, IL, USA; New York, NY, USA; San Francisco, CA, USA",
+   "posted_at": "2026-11-19T16:33:38+00:00",
+   "posted_history": [
+    "2026-11-19T16:33:38+00:00"
+   ],
+   "reopened": 0,
+   "title": "Program Manager, OMX SOTO",
+   "url": "https://boards.greenhouse.io/chime/jobs/8948694002?gh_jid=8948694002"
   }
  }
 }

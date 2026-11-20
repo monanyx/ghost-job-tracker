@@ -127,6 +127,10 @@
   {
    "date": "2026-11-19",
    "open": 179
+  },
+  {
+   "date": "2026-11-20",
+   "open": 184
   }
  ],
  "jobs": {
@@ -1747,7 +1751,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8045935"
   },
   "8050398": {
-   "closed_at": "2026-11-13T11:35:01+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1757,12 +1761,12 @@
    "posted_history": [
     "2026-07-10T09:41:00+00:00"
    ],
-   "reopened": 0,
-   "title": "Support Associate (Hungarian speaking student)",
+   "reopened": 1,
+   "title": "Support Associate (Hungarian speaking)",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8050398"
   },
   "8053035": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2246,14 +2250,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "partner success specialist @ belgrade - savski venac, serbia",
+   "fp": "account executive @ belgrade - savski venac, serbia",
    "location": "Belgrade - Savski Venac, Serbia",
    "posted_at": "2026-08-25T08:00:30+00:00",
    "posted_history": [
     "2026-08-25T08:00:30+00:00"
    ],
    "reopened": 0,
-   "title": "Partner Success Specialist",
+   "title": "Account Executive",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8155294"
   },
   "8156073": {
@@ -2621,14 +2625,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "sub region head of account management @ warsaw, poland",
+   "fp": "head of account management @ warsaw, poland",
    "location": "Warsaw, Poland",
    "posted_at": "2026-10-06T10:15:01+00:00",
    "posted_history": [
     "2026-10-06T10:15:01+00:00"
    ],
    "reopened": 0,
-   "title": "Sub-Region Head of Account Management",
+   "title": "Head of Account Management",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8188448"
   },
   "8190750": {
@@ -4012,7 +4016,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8328694"
   },
   "8330826": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
@@ -4761,6 +4765,21 @@
    "title": "Store Manager (Wolt Market Gorny Gigant)",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8392647"
   },
+  "8392867": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "operations associate courier onboarding @ zagreb, croatia",
+   "location": "Zagreb, Croatia",
+   "posted_at": "2026-11-16T14:35:59+00:00",
+   "posted_history": [
+    "2026-11-16T14:35:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Operations Associate, Courier Onboarding",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8392867"
+  },
   "8395399": {
    "closed_at": null,
    "department": "",
@@ -4821,8 +4840,38 @@
    "title": "Regional Sales Team Lead",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8395940"
   },
-  "8398895": {
+  "8396934": {
    "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "account manager smb restaurants @ munich, germany",
+   "location": "Munich, Germany",
+   "posted_at": "2026-11-20T09:32:15+00:00",
+   "posted_history": [
+    "2026-11-20T09:32:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Manager, SMB Restaurants (Food Delivery) (m/w/d)",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8396934"
+  },
+  "8398891": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "junior account manager smb restaurants @ münchen, germany",
+   "location": "München, Germany",
+   "posted_at": "2026-11-20T09:51:04+00:00",
+   "posted_history": [
+    "2026-11-20T09:51:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "Junior Account Manager, SMB Restaurants (Food Delivery) (m/w/d)",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8398891"
+  },
+  "8398895": {
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-19T12:10:18+00:00",
@@ -4837,7 +4886,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8398895"
   },
   "8398912": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-19T12:10:18+00:00",
@@ -4880,6 +4929,81 @@
    "reopened": 0,
    "title": "Partner Operations Associate",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8400446"
+  },
+  "8405396": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "account manager smb restaurants @ munich, germany",
+   "location": "Munich, Germany",
+   "posted_at": "2026-11-20T09:37:01+00:00",
+   "posted_history": [
+    "2026-11-20T09:37:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Manager, SMB Restaurants (Food Delivery) (m/w/d)",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8405396"
+  },
+  "8405401": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "account manager smb restaurants @ nuremberg, germany; regensburg, germany",
+   "location": "Nuremberg, Germany; Regensburg, Germany",
+   "posted_at": "2026-11-20T09:39:13+00:00",
+   "posted_history": [
+    "2026-11-20T09:39:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Manager, SMB Restaurants (Food Delivery) (m/w/d)",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8405401"
+  },
+  "8405402": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "account manager smb restaurants @ nuremberg, germany; regensburg, germany",
+   "location": "Nuremberg, Germany; Regensburg, Germany",
+   "posted_at": "2026-11-20T09:40:38+00:00",
+   "posted_history": [
+    "2026-11-20T09:40:38+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Manager, SMB Restaurants (Food Delivery) (m/w/d)",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8405402"
+  },
+  "8405414": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "junior account manager smb restaurants @ münchen, germany",
+   "location": "München, Germany",
+   "posted_at": "2026-11-20T09:52:54+00:00",
+   "posted_history": [
+    "2026-11-20T09:52:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Junior Account Manager, SMB Restaurants (Food Delivery) (m/w/d)",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8405414"
+  },
+  "8405418": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "junior account manager smb restaurants @ nuremberg, germany",
+   "location": "Nuremberg, Germany",
+   "posted_at": "2026-11-20T09:55:00+00:00",
+   "posted_history": [
+    "2026-11-20T09:55:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Junior Account Manager, SMB Restaurants (Food Delivery) (m/w/d)",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8405418"
   }
  }
 }

@@ -127,6 +127,10 @@
   {
    "date": "2026-11-19",
    "open": 418
+  },
+  {
+   "date": "2026-11-20",
+   "open": 414
   }
  ],
  "jobs": {
@@ -281,7 +285,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/4522583"
   },
   "4602525": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -671,7 +675,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/6249056"
   },
   "6277386": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -1980,14 +1984,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-19T12:10:18+00:00",
-   "fp": "senior software engineer motion planning doordash labs doordash air @ san francisco, ca",
+   "fp": "senior software engineer motion planning dot @ san francisco, ca",
    "location": "San Francisco, CA",
    "posted_at": "2026-03-30T12:53:59+00:00",
    "posted_history": [
     "2026-03-30T12:53:59+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Software Engineer, Motion Planning – DoorDash Labs, DoorDash Air",
+   "title": "Senior Software Engineer, Motion Planning – DOT",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7763162"
   },
   "7767373": {
@@ -4391,7 +4395,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8154315"
   },
   "8154443": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4931,7 +4935,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8176875"
   },
   "8177106": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5831,7 +5835,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8220560"
   },
   "8221544": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6206,7 +6210,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8237701"
   },
   "8237721": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6429,6 +6433,21 @@
    "reopened": 0,
    "title": "UAS Operations Specialist, Labs",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8243739"
+  },
+  "8244193": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "senior insurance claims specialist @ united states - remote",
+   "location": "United States - Remote",
+   "posted_at": "2026-09-30T19:42:04+00:00",
+   "posted_history": [
+    "2026-09-30T19:42:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Insurance Claims Specialist",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8244193"
   },
   "8244483": {
    "closed_at": null,
@@ -8141,7 +8160,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8331835"
   },
   "8331916": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
@@ -8216,7 +8235,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8334860"
   },
   "8334941": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -9131,7 +9150,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8383988"
   },
   "8384030": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-13T11:35:01+00:00",
@@ -9399,6 +9418,66 @@
    "reopened": 0,
    "title": "Senior Associate, Corporate Development",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8400132"
+  },
+  "8402171": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "senior manager dasher logistics strategy operations @ new york city, ny; san francisco, ca; los angeles, ca; chicago, il; seattle, wa",
+   "location": "New York City, NY; San Francisco, CA; Los Angeles, CA; Chicago, IL; Seattle, WA",
+   "posted_at": "2026-11-19T15:13:42+00:00",
+   "posted_history": [
+    "2026-11-19T15:13:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Dasher & Logistics Strategy & Operations",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8402171"
+  },
+  "8402404": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "shift lead dashmart reno @ reno, nv",
+   "location": "Reno, NV",
+   "posted_at": "2026-11-19T15:53:01+00:00",
+   "posted_history": [
+    "2026-11-19T15:53:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "Shift Lead, DashMart - Reno",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8402404"
+  },
+  "8403160": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "site manager dashmart las vegas nv @ las vegas, nv",
+   "location": "Las Vegas, NV",
+   "posted_at": "2026-11-19T19:45:41+00:00",
+   "posted_history": [
+    "2026-11-19T19:45:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Site Manager, DashMart - Las Vegas, NV",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8403160"
+  },
+  "8403286": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "senior manager robot operations @ phoenix, az",
+   "location": "Phoenix, AZ",
+   "posted_at": "2026-11-19T19:40:28+00:00",
+   "posted_history": [
+    "2026-11-19T19:40:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Robot Operations",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8403286"
   }
  }
 }

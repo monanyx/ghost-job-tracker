@@ -127,6 +127,10 @@
   {
    "date": "2026-11-19",
    "open": 379
+  },
+  {
+   "date": "2026-11-20",
+   "open": 382
   }
  ],
  "jobs": {
@@ -607,7 +611,7 @@
     "2025-01-24T14:48:23+00:00"
    ],
    "reopened": 0,
-   "title": "AI Research Scientist - Datadog AI Research (DAIR)",
+   "title": "AI Research Scientist – Datadog AI Research",
    "url": "https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669"
   },
   "6652564": {
@@ -622,7 +626,7 @@
     "2025-04-18T13:35:13+00:00"
    ],
    "reopened": 0,
-   "title": "AI Research Scientist - Datadog AI Research (DAIR)",
+   "title": "AI Research Scientist - Datadog AI Research",
    "url": "https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564"
   },
   "6665385": {
@@ -1147,7 +1151,7 @@
     "2025-08-27T14:34:20+00:00"
    ],
    "reopened": 0,
-   "title": "AI Research Engineer - Datadog AI Research (DAIR)",
+   "title": "AI Research Engineer - Datadog AI Research",
    "url": "https://careers.datadoghq.com/detail/7194969/?gh_jid=7194969"
   },
   "7214964": {
@@ -1286,7 +1290,7 @@
    "url": "https://careers.datadoghq.com/detail/7405831/?gh_jid=7405831"
   },
   "7405834": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-12T11:51:19+00:00",
@@ -2126,7 +2130,7 @@
    "url": "https://careers.datadoghq.com/detail/7658810/?gh_jid=7658810"
   },
   "7683226": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3116,7 +3120,7 @@
    "url": "https://careers.datadoghq.com/detail/8041622/?gh_jid=8041622"
   },
   "8042600": {
-   "closed_at": "2026-10-30T10:28:19+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3126,7 +3130,7 @@
    "posted_history": [
     "2026-07-02T05:35:32+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Sales Development Representative",
    "url": "https://careers.datadoghq.com/detail/8042600/?gh_jid=8042600"
   },
@@ -3176,7 +3180,7 @@
    "url": "https://careers.datadoghq.com/detail/8047666/?gh_jid=8047666"
   },
   "8048106": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6491,7 +6495,7 @@
    "url": "https://careers.datadoghq.com/detail/8257217/?gh_jid=8257217"
   },
   "8257306": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6615,14 +6619,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "staff research scientist post training for agents @ new york, new york, usa; pittsburgh, pennsylvania, usa",
+   "fp": "staff research scientist post training for observability native models @ new york, new york, usa; pittsburgh, pennsylvania, usa",
    "location": "New York, New York, USA; Pittsburgh, Pennsylvania, USA",
    "posted_at": "2026-10-07T16:34:22+00:00",
    "posted_history": [
     "2026-10-07T16:34:22+00:00"
    ],
    "reopened": 0,
-   "title": "Staff Research Scientist - Post-Training for Agents",
+   "title": "Staff Research Scientist - Post-Training for Observability Native Models",
    "url": "https://careers.datadoghq.com/detail/8261934/?gh_jid=8261934"
   },
   "8261937": {
@@ -6656,7 +6660,7 @@
    "url": "https://careers.datadoghq.com/detail/8262004/?gh_jid=8262004"
   },
   "8263060": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -8006,7 +8010,7 @@
    "url": "https://careers.datadoghq.com/detail/8354556/?gh_jid=8354556"
   },
   "8355189": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-06T11:30:42+00:00",
@@ -8021,7 +8025,7 @@
    "url": "https://careers.datadoghq.com/detail/8355189/?gh_jid=8355189"
   },
   "8356637": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-12T11:51:19+00:00",
@@ -8190,8 +8194,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-14T10:56:25+00:00",
-   "fp": "senior commercial account executive @ amsterdam, the netherlands",
-   "location": "Amsterdam, The Netherlands",
+   "fp": "senior commercial account executive @ amsterdam, the netherlands; dublin, ireland",
+   "location": "Amsterdam, The Netherlands; Dublin, Ireland",
    "posted_at": "2026-11-13T12:43:03+00:00",
    "posted_history": [
     "2026-11-13T12:43:03+00:00"
@@ -8214,6 +8218,36 @@
    "reopened": 0,
    "title": "Manager I, Engineering - Observability Pipelines",
    "url": "https://careers.datadoghq.com/detail/8378768/?gh_jid=8378768"
+  },
+  "8383542": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "mid market sales engineer dubai @ dubai, united arab emirates",
+   "location": "Dubai, United Arab Emirates",
+   "posted_at": "2026-11-19T14:56:13+00:00",
+   "posted_history": [
+    "2026-11-19T14:56:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Mid-Market Sales Engineer (Arabic Speaking) - Dubai",
+   "url": "https://careers.datadoghq.com/detail/8383542/?gh_jid=8383542"
+  },
+  "8384194": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "national partner manager @ atlanta, georgia, usa; boston, massachusetts, usa; chicago, illinois, usa; denver, colorado, usa; new york, new york, usa; san francisco, california, usa",
+   "location": "Atlanta, Georgia, USA; Boston, Massachusetts, USA; Chicago, Illinois, USA; Denver, Colorado, USA; New York, New York, USA; San Francisco, California, USA",
+   "posted_at": "2026-11-19T19:01:21+00:00",
+   "posted_history": [
+    "2026-11-19T19:01:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "National Partner Manager",
+   "url": "https://careers.datadoghq.com/detail/8384194/?gh_jid=8384194"
   },
   "8385200": {
    "closed_at": null,
@@ -8245,6 +8279,36 @@
    "title": "Staff Research Scientist - Foundation & World Models",
    "url": "https://careers.datadoghq.com/detail/8385205/?gh_jid=8385205"
   },
+  "8386199": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "sales development representative summer 2027 graduates latam spanish speaking @ boston, massachusetts, usa",
+   "location": "Boston, Massachusetts, USA",
+   "posted_at": "2026-11-20T02:14:00+00:00",
+   "posted_history": [
+    "2026-11-20T02:14:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales Development Representative - Summer 2027 Graduates - LATAM Spanish Speaking",
+   "url": "https://careers.datadoghq.com/detail/8386199/?gh_jid=8386199"
+  },
+  "8386590": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "sales development representative summer 2027 graduates latam portuguese speaking @ boston, massachusetts, usa",
+   "location": "Boston, Massachusetts, USA",
+   "posted_at": "2026-11-20T02:14:21+00:00",
+   "posted_history": [
+    "2026-11-20T02:14:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales Development Representative - Summer 2027 Graduates - LATAM Portuguese Speaking",
+   "url": "https://careers.datadoghq.com/detail/8386590/?gh_jid=8386590"
+  },
   "8393631": {
    "closed_at": null,
    "department": "",
@@ -8259,6 +8323,81 @@
    "reopened": 0,
    "title": "Director, Technical Support Engineering, Premier - EMEA",
    "url": "https://careers.datadoghq.com/detail/8393631/?gh_jid=8393631"
+  },
+  "8398016": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "senior commercial counsel @ melbourne, australia",
+   "location": "Melbourne, Australia",
+   "posted_at": "2026-11-20T01:05:37+00:00",
+   "posted_history": [
+    "2026-11-20T01:05:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Commercial Counsel",
+   "url": "https://careers.datadoghq.com/detail/8398016/?gh_jid=8398016"
+  },
+  "8398963": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "commercial sales engineer @ amsterdam, the netherlands; dublin, ireland",
+   "location": "Amsterdam, The Netherlands; Dublin, Ireland",
+   "posted_at": "2026-11-20T08:53:29+00:00",
+   "posted_history": [
+    "2026-11-20T08:53:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Commercial Sales Engineer (Italian Speaking)",
+   "url": "https://careers.datadoghq.com/detail/8398963/?gh_jid=8398963"
+  },
+  "8400585": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "art director brand @ new york, new york, usa",
+   "location": "New York, New York, USA",
+   "posted_at": "2026-11-19T18:31:40+00:00",
+   "posted_history": [
+    "2026-11-19T18:31:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Art Director - Brand",
+   "url": "https://careers.datadoghq.com/detail/8400585/?gh_jid=8400585"
+  },
+  "8402937": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "national partner manager @ texas, usa, remote",
+   "location": "Texas, USA, Remote",
+   "posted_at": "2026-11-19T19:01:24+00:00",
+   "posted_history": [
+    "2026-11-19T19:01:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "National Partner Manager",
+   "url": "https://careers.datadoghq.com/detail/8402937/?gh_jid=8402937"
+  },
+  "8404061": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "enterprise automation engineer @ new york, new york, usa",
+   "location": "New York, New York, USA",
+   "posted_at": "2026-11-19T21:37:53+00:00",
+   "posted_history": [
+    "2026-11-19T21:37:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Automation Engineer",
+   "url": "https://careers.datadoghq.com/detail/8404061/?gh_jid=8404061"
   }
  }
 }

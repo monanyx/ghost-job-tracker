@@ -127,6 +127,10 @@
   {
    "date": "2026-11-19",
    "open": 135
+  },
+  {
+   "date": "2026-11-20",
+   "open": 140
   }
  ],
  "jobs": {
@@ -2276,7 +2280,7 @@
    "url": "https://epicgames.com/careers/jobs/6222447004?gh_jid=6222447004"
   },
   "6223282004": {
-   "closed_at": "2026-11-17T12:29:08+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2286,7 +2290,7 @@
    "posted_history": [
     "2026-10-15T16:05:25+00:00"
    ],
-   "reopened": 1,
+   "reopened": 2,
    "title": "Executive Assistant",
    "url": "https://epicgames.com/careers/jobs/6223282004?gh_jid=6223282004"
   },
@@ -2321,7 +2325,7 @@
    "url": "https://epicgames.com/careers/jobs/6224464004?gh_jid=6224464004"
   },
   "6225503004": {
-   "closed_at": "2026-11-17T12:29:08+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2331,7 +2335,7 @@
    "posted_history": [
     "2026-10-15T16:05:27+00:00"
    ],
-   "reopened": 1,
+   "reopened": 2,
    "title": "Executive Assistant",
    "url": "https://epicgames.com/careers/jobs/6225503004?gh_jid=6225503004"
   },
@@ -2501,7 +2505,7 @@
    "url": "https://epicgames.com/careers/jobs/6232770004?gh_jid=6232770004"
   },
   "6233504004": {
-   "closed_at": "2026-11-17T12:29:08+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
@@ -2511,7 +2515,7 @@
    "posted_history": [
     "2026-10-23T17:25:52+00:00"
    ],
-   "reopened": 1,
+   "reopened": 2,
    "title": "Executive Assistant",
    "url": "https://epicgames.com/careers/jobs/6233504004?gh_jid=6233504004"
   },
@@ -2664,6 +2668,21 @@
    "reopened": 0,
    "title": "Environment Art Outsource Lead",
    "url": "https://epicgames.com/careers/jobs/6239492004?gh_jid=6239492004"
+  },
+  "6242257004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "principal animator @ cary,north carolina,united states",
+   "location": "Cary,North Carolina,United States",
+   "posted_at": "2026-11-19T18:53:44+00:00",
+   "posted_history": [
+    "2026-11-19T18:53:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Animator",
+   "url": "https://epicgames.com/careers/jobs/6242257004?gh_jid=6242257004"
   },
   "6242337004": {
    "closed_at": null,
@@ -2964,6 +2983,21 @@
    "reopened": 0,
    "title": "Senior AI Programmer",
    "url": "https://epicgames.com/careers/jobs/6261103004?gh_jid=6261103004"
+  },
+  "6266520004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "principal animator @ blank,blank,multiple locations",
+   "location": "BLANK,BLANK,Multiple Locations",
+   "posted_at": "2026-11-19T18:53:46+00:00",
+   "posted_history": [
+    "2026-11-19T18:53:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Animator",
+   "url": "https://epicgames.com/careers/jobs/6266520004?gh_jid=6266520004"
   }
  }
 }

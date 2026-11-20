@@ -127,6 +127,10 @@
   {
    "date": "2026-11-19",
    "open": 37
+  },
+  {
+   "date": "2026-11-20",
+   "open": 37
   }
  ],
  "jobs": {
@@ -476,7 +480,7 @@
    "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8139316"
   },
   "8141541": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1136,7 +1140,7 @@
    "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8301421"
   },
   "8301429": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -1286,7 +1290,7 @@
    "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8337677"
   },
   "8338265": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-05T11:30:12+00:00",
@@ -1374,6 +1378,51 @@
    "reopened": 0,
    "title": "Lead Expert - International Plaza and Bay Street",
    "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8393491"
+  },
+  "8393496": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "lead expert tysons corner @ tysons, virginia",
+   "location": "Tysons, Virginia",
+   "posted_at": "2026-11-20T00:21:06+00:00",
+   "posted_history": [
+    "2026-11-20T00:21:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "Lead Expert - Tysons Corner",
+   "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8393496"
+  },
+  "8399956": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "product manager @ new york, new york",
+   "location": "New York, New York",
+   "posted_at": "2026-11-19T21:30:28+00:00",
+   "posted_history": [
+    "2026-11-19T21:30:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Manager",
+   "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8399956"
+  },
+  "8401009": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "sr engineering program manager @ new york, new york",
+   "location": "New York, New York",
+   "posted_at": "2026-11-19T17:48:14+00:00",
+   "posted_history": [
+    "2026-11-19T17:48:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Engineering Program Manager",
+   "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8401009"
   }
  }
 }

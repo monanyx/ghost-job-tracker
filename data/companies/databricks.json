@@ -127,6 +127,10 @@
   {
    "date": "2026-11-19",
    "open": 906
+  },
+  {
+   "date": "2026-11-20",
+   "open": 897
   }
  ],
  "jobs": {
@@ -266,7 +270,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=5646866002"
   },
   "5898477002": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -806,7 +810,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6937001002"
   },
   "7006090002": {
-   "closed_at": "2026-11-18T12:16:07+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -816,12 +820,12 @@
    "posted_history": [
     "2023-12-16T15:42:04+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Engineering Manager - Core Experiences",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7006090002"
   },
   "7011263002": {
-   "closed_at": "2026-11-09T12:08:42+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -831,7 +835,7 @@
    "posted_history": [
     "2023-11-07T21:36:32+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "PhD GenAI Research Scientist Intern",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002"
   },
@@ -2561,7 +2565,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8103500002"
   },
   "8109902002": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2786,7 +2790,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8190108002"
   },
   "8193165002": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3506,7 +3510,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8353246002"
   },
   "8357216002": {
-   "closed_at": "2026-11-18T12:16:07+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3516,7 +3520,7 @@
    "posted_history": [
     "2026-01-01T09:08:19+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Engineering Manager (Ingestion)",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8357216002"
   },
@@ -3699,6 +3703,21 @@
    "reopened": 0,
    "title": "Director, Field Engineering",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8397552002"
+  },
+  "8397554002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "sr manager field engineering enterprise @ sydney, australia",
+   "location": "Sydney, Australia",
+   "posted_at": "2026-11-20T03:28:24+00:00",
+   "posted_history": [
+    "2026-11-20T03:28:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Manager, Field Engineering - Enterprise",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8397554002"
   },
   "8397558002": {
    "closed_at": null,
@@ -4001,7 +4020,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8423167002"
   },
   "8423291002": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4211,7 +4230,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8438767002"
   },
   "8438777002": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4376,7 +4395,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8440940002"
   },
   "8441865002": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5441,18 +5460,18 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8501186002"
   },
   "8502991002": {
-   "closed_at": "2026-11-08T10:46:34+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "solutions architect financial services @ illinois; massachusetts; new jersey; new york; washington, d.c.",
-   "location": "Illinois; Massachusetts; New Jersey; New York; Washington, D.C.",
+   "fp": "solutions architect games @ west coast - united states",
+   "location": "West Coast - United States",
    "posted_at": "2026-05-07T16:16:16+00:00",
    "posted_history": [
     "2026-05-07T16:16:16+00:00"
    ],
-   "reopened": 0,
-   "title": "Solutions Architect - Financial Services (Professional Services)",
+   "reopened": 1,
+   "title": "Solutions Architect - Games",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8502991002"
   },
   "8503068002": {
@@ -5666,7 +5685,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8521198002"
   },
   "8522046002": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
@@ -5726,7 +5745,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8524422002"
   },
   "8530605002": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5861,7 +5880,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8537058002"
   },
   "8538884002": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6476,7 +6495,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569410002"
   },
   "8569436002": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7856,7 +7875,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8608603002"
   },
   "8609866002": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -9251,7 +9270,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8657549002"
   },
   "8657553002": {
-   "closed_at": "2026-11-17T12:29:08+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -9261,7 +9280,7 @@
    "posted_history": [
     "2026-09-03T14:44:42+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Specialist Solutions Engineer (Infrastructure & Platform)",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8657553002"
   },
@@ -9570,14 +9589,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "sr manager field engineering @ sydney, australia",
+   "fp": "sr manager field engineering emerging enterprise @ sydney, australia",
    "location": "Sydney, Australia",
    "posted_at": "2026-08-14T11:57:13+00:00",
    "posted_history": [
     "2026-08-14T11:57:13+00:00"
    ],
    "reopened": 0,
-   "title": "Sr. Manager, Field Engineering",
+   "title": "Sr. Manager, Field Engineering - Emerging Enterprise",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8682223002"
   },
   "8682362002": {
@@ -9596,7 +9615,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8682362002"
   },
   "8684079002": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
@@ -10766,7 +10785,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739506002"
   },
   "8739507002": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -11171,7 +11190,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8756154002"
   },
   "8756686002": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -11550,14 +11569,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior scale solution engineer @ heredia, costa rica",
+   "fp": "scale solution engineer @ heredia, costa rica",
    "location": "Heredia, Costa Rica",
    "posted_at": "2026-09-12T00:04:12+00:00",
    "posted_history": [
     "2026-09-12T00:04:12+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Scale Solution Engineer",
+   "title": "Scale Solution Engineer",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8779018002"
   },
   "8779023002": {
@@ -11786,7 +11805,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8785045002"
   },
   "8785049002": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -11891,7 +11910,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8785221002"
   },
   "8785294002": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-18T12:16:07+00:00",
@@ -12866,7 +12885,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8826872002"
   },
   "8829029002": {
-   "closed_at": "2026-11-17T12:29:08+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -12876,7 +12895,7 @@
    "posted_history": [
     "2026-09-30T05:02:39+00:00"
    ],
-   "reopened": 2,
+   "reopened": 3,
    "title": "Software Engineer, Infrastructure",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8829029002"
   },
@@ -13961,7 +13980,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8870726002"
   },
   "8870938002": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -14126,7 +14145,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8876388002"
   },
   "8876599002": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -14261,7 +14280,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8878722002"
   },
   "8878946002": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": true,
    "first_seen": "2026-11-02T11:41:30+00:00",
@@ -14396,7 +14415,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8882379002"
   },
   "8882485002": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-20T08:53:12+00:00",
@@ -14905,6 +14924,21 @@
    "title": "Solutions Architect - Retail",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8893728002"
   },
+  "8893767002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "solutions architect public sector @ united states",
+   "location": "United States",
+   "posted_at": "2026-11-19T22:26:57+00:00",
+   "posted_history": [
+    "2026-11-19T22:26:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "Solutions Architect - Public Sector (Manufacturing / Supply Chain)",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8893767002"
+  },
   "8893772002": {
    "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
@@ -15161,7 +15195,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8899465002"
   },
   "8899597002": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
@@ -15476,7 +15510,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8905967002"
   },
   "8906055002": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
@@ -16751,7 +16785,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8931264002"
   },
   "8931267002": {
-   "closed_at": null,
+   "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
@@ -17140,6 +17174,21 @@
    "title": "Director, Enterprise (NSW)",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8939231002"
   },
+  "8939557002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "senior solutions architect x 2 new roles @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2026-11-19T18:50:57+00:00",
+   "posted_history": [
+    "2026-11-19T18:50:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Solutions Architect (Growth Accounts - All sectors) x 2 New Roles",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8939557002"
+  },
   "8940421002": {
    "closed_at": null,
    "department": "",
@@ -17334,6 +17383,81 @@
    "reopened": 0,
    "title": "Staff Software Engineer - Threat and Abuse Defense",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8950673002"
+  },
+  "8951414002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "solutions architect games @ arizona",
+   "location": "Arizona",
+   "posted_at": "2026-11-19T14:16:35+00:00",
+   "posted_history": [
+    "2026-11-19T14:16:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Solutions Architect - Games",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8951414002"
+  },
+  "8951419002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "solutions architect games @ washington",
+   "location": "Washington",
+   "posted_at": "2026-11-19T14:16:38+00:00",
+   "posted_history": [
+    "2026-11-19T14:16:38+00:00"
+   ],
+   "reopened": 0,
+   "title": "Solutions Architect - Games",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8951419002"
+  },
+  "8951434002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "solutions architect games @ california",
+   "location": "California",
+   "posted_at": "2026-11-19T14:16:40+00:00",
+   "posted_history": [
+    "2026-11-19T14:16:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Solutions Architect - Games",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8951434002"
+  },
+  "8952028002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "specialist solutions architect azure infrastructure ai platform @ united states",
+   "location": "United States",
+   "posted_at": "2026-11-19T16:33:50+00:00",
+   "posted_history": [
+    "2026-11-19T16:33:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Specialist Solutions Architect - Azure Infrastructure & AI Platform",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8952028002"
+  },
+  "8952359002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-20T12:11:54+00:00",
+   "fp": "solutions architect x 2 new roles @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2026-11-19T18:50:59+00:00",
+   "posted_history": [
+    "2026-11-19T18:50:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Solutions Architect (Growth Accounts - All sectors) x 2 New Roles",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8952359002"
   }
  }
 }
