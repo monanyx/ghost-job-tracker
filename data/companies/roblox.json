@@ -131,6 +131,10 @@
   {
    "date": "2026-11-20",
    "open": 264
+  },
+  {
+   "date": "2026-11-21",
+   "open": 260
   }
  ],
  "jobs": {
@@ -975,7 +979,7 @@
    "url": "https://careers.roblox.com/jobs/7940279?gh_jid=7940279"
   },
   "7944233": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1275,7 +1279,7 @@
    "url": "https://careers.roblox.com/jobs/8020695?gh_jid=8020695"
   },
   "8024627": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2235,18 +2239,18 @@
    "url": "https://careers.roblox.com/jobs/8115917?gh_jid=8115917"
   },
   "8120054": {
-   "closed_at": "2026-10-22T08:55:54+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior software engineer creator experience @ san mateo, ca, united states",
+   "fp": "senior software engineer build @ san mateo, ca, united states",
    "location": "San Mateo, CA, United States",
    "posted_at": "2026-08-21T16:26:27+00:00",
    "posted_history": [
     "2026-08-21T16:26:27+00:00"
    ],
-   "reopened": 0,
-   "title": "Senior Software Engineer, Creator Experience",
+   "reopened": 1,
+   "title": "Senior Software Engineer, Build",
    "url": "https://careers.roblox.com/jobs/8120054?gh_jid=8120054"
   },
   "8120368": {
@@ -2415,7 +2419,7 @@
    "url": "https://careers.roblox.com/jobs/8131354?gh_jid=8131354"
   },
   "8131695": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2460,7 +2464,7 @@
    "url": "https://careers.roblox.com/jobs/8142712?gh_jid=8142712"
   },
   "8143976": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2490,7 +2494,7 @@
    "url": "https://careers.roblox.com/jobs/8143981?gh_jid=8143981"
   },
   "8143982": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3555,7 +3559,7 @@
    "url": "https://careers.roblox.com/jobs/8214965?gh_jid=8214965"
   },
   "8219433": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5713,6 +5717,21 @@
    "reopened": 0,
    "title": "Senior Software Engineer - UGC Marketplace",
    "url": "https://careers.roblox.com/jobs/8397795?gh_jid=8397795"
+  },
+  "8397868": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "senior enterprise security engineer @ san mateo, ca, united states",
+   "location": "San Mateo, CA, United States",
+   "posted_at": "2026-11-20T18:59:34+00:00",
+   "posted_history": [
+    "2026-11-20T18:59:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Enterprise Security Engineer",
+   "url": "https://careers.roblox.com/jobs/8397868?gh_jid=8397868"
   }
  }
 }

@@ -131,6 +131,10 @@
   {
    "date": "2026-11-20",
    "open": 86
+  },
+  {
+   "date": "2026-11-21",
+   "open": 86
   }
  ],
  "jobs": {
@@ -510,7 +514,7 @@
    "url": "https://job-boards.greenhouse.io/vercel/jobs/5841911004"
   },
   "5844601004": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1858,6 +1862,21 @@
    "reopened": 0,
    "title": "Software Engineer, Vercel Agent",
    "url": "https://job-boards.greenhouse.io/vercel/jobs/6264524004"
+  },
+  "6268187004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "director partner marketing @ hybrid - san francisco",
+   "location": "Hybrid - San Francisco",
+   "posted_at": "2026-11-21T01:34:17+00:00",
+   "posted_history": [
+    "2026-11-21T01:34:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Director, Partner Marketing",
+   "url": "https://job-boards.greenhouse.io/vercel/jobs/6268187004"
   }
  }
 }

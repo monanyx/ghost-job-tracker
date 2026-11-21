@@ -131,6 +131,10 @@
   {
    "date": "2026-11-20",
    "open": 773
+  },
+  {
+   "date": "2026-11-21",
+   "open": 778
   }
  ],
  "jobs": {
@@ -1470,7 +1474,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=7746721"
   },
   "7747640": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2126,7 +2130,7 @@
     "2026-05-14T21:02:31+00:00"
    ],
    "reopened": 0,
-   "title": "Partner Solutions Architect - Billing",
+   "title": "Partner Solutions Architect, Billing",
    "url": "https://stripe.com/jobs/search?gh_jid=7927330"
   },
   "7939868": {
@@ -4905,7 +4909,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8128552"
   },
   "8128634": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5130,7 +5134,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8130883"
   },
   "8130913": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -8700,7 +8704,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8199593"
   },
   "8199596": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -8850,17 +8854,17 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8203220"
   },
   "8203649": {
-   "closed_at": "2026-10-23T08:50:35+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "account executive product issuing treasury @ london or paris or germany",
-   "location": "London OR Paris OR Germany ",
+   "fp": "account executive product issuing treasury @ london",
+   "location": "London",
    "posted_at": "2026-09-21T08:36:03+00:00",
    "posted_history": [
     "2026-09-21T08:36:03+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Account Executive Product - Issuing & Treasury",
    "url": "https://stripe.com/jobs/search?gh_jid=8203649"
   },
@@ -9930,7 +9934,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8225841"
   },
   "8226211": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -11579,6 +11583,21 @@
    "title": "Staff Backend Engineer, Supportability Decisions",
    "url": "https://stripe.com/jobs/search?gh_jid=8261010"
   },
+  "8261012": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "software engineer payments and risk @ dublin",
+   "location": "Dublin",
+   "posted_at": "2026-10-08T14:04:57+00:00",
+   "posted_history": [
+    "2026-10-08T14:04:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Payments and Risk",
+   "url": "https://stripe.com/jobs/search?gh_jid=8261012"
+  },
   "8261213": {
    "closed_at": null,
    "department": "",
@@ -12644,6 +12663,21 @@
    "title": "Managing Editor, Stripe Press",
    "url": "https://stripe.com/jobs/search?gh_jid=8287486"
   },
+  "8287910": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "ai transformation lead marketing @ san francisco, new york, seattle, chicago, atlanta, remote in the us",
+   "location": "San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US",
+   "posted_at": "2026-11-20T15:05:26+00:00",
+   "posted_history": [
+    "2026-11-20T15:05:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "AI Transformation Lead, Marketing",
+   "url": "https://stripe.com/jobs/search?gh_jid=8287910"
+  },
   "8287912": {
    "closed_at": null,
    "department": "",
@@ -13170,7 +13204,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8306475"
   },
   "8311067": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
@@ -13679,6 +13713,21 @@
    "title": "Account Executive, Money Management- Issuing and Treasury",
    "url": "https://stripe.com/jobs/search?gh_jid=8323732"
   },
+  "8323907": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "staff data scientist fraud @ n/a",
+   "location": "N/A",
+   "posted_at": "2026-11-20T20:40:04+00:00",
+   "posted_history": [
+    "2026-11-20T20:40:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Data Scientist, Fraud",
+   "url": "https://stripe.com/jobs/search?gh_jid=8323907"
+  },
   "8324207": {
    "closed_at": null,
    "department": "",
@@ -13860,7 +13909,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8326579"
   },
   "8327254": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
@@ -13995,7 +14044,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8329718"
   },
   "8329719": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
@@ -14415,7 +14464,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8335413"
   },
   "8335426": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-02T11:41:30+00:00",
@@ -15600,17 +15649,17 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8366828"
   },
   "8368260": {
-   "closed_at": "2026-11-18T12:16:07+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
-   "fp": "solutions architect metronome @ san francisco, seattle, us-remote",
-   "location": "San Francisco, Seattle, US-Remote",
+   "fp": "solutions architect metronome @ san francisco",
+   "location": "San Francisco",
    "posted_at": "2026-11-09T22:53:24+00:00",
    "posted_history": [
     "2026-11-09T22:53:24+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Solutions Architect, Metronome (AI Native)",
    "url": "https://stripe.com/jobs/search?gh_jid=8368260"
   },
@@ -15989,6 +16038,21 @@
    "title": "Software Engineer, Vulnerability Management",
    "url": "https://stripe.com/jobs/search?gh_jid=8384567"
   },
+  "8384780": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "product manager payment methods emea @ london",
+   "location": "London",
+   "posted_at": "2026-11-20T19:52:23+00:00",
+   "posted_history": [
+    "2026-11-20T19:52:23+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Manager, Payment Methods, EMEA",
+   "url": "https://stripe.com/jobs/search?gh_jid=8384780"
+  },
   "8384782": {
    "closed_at": null,
    "department": "",
@@ -16154,6 +16218,21 @@
    "title": "Product Manager, Finance Operations",
    "url": "https://stripe.com/jobs/search?gh_jid=8393939"
   },
+  "8394657": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "head of aml ctf ireland @ dublin",
+   "location": "Dublin",
+   "posted_at": "2026-11-20T15:33:02+00:00",
+   "posted_history": [
+    "2026-11-20T15:33:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Head of AML/CTF - Ireland",
+   "url": "https://stripe.com/jobs/search?gh_jid=8394657"
+  },
   "8395851": {
    "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
@@ -16199,6 +16278,21 @@
    "title": "Administrative Business Partner, Office of the CEO",
    "url": "https://stripe.com/jobs/search?gh_jid=8397260"
   },
+  "8399738": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "solutions architect platforms @ paris",
+   "location": "Paris",
+   "posted_at": "2026-11-20T17:13:07+00:00",
+   "posted_history": [
+    "2026-11-20T17:13:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Solutions Architect, Platforms (French Speaking)",
+   "url": "https://stripe.com/jobs/search?gh_jid=8399738"
+  },
   "8403659": {
    "closed_at": null,
    "department": "",
@@ -16228,6 +16322,96 @@
    "reopened": 0,
    "title": "Staff Software Engineer, Mobile Development Productivity",
    "url": "https://stripe.com/jobs/search?gh_jid=8404115"
+  },
+  "8404131": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "gtm recruiter openrouter @ sf, nyc, chi, us-remote",
+   "location": "SF, NYC, CHI, US-Remote",
+   "posted_at": "2026-11-20T16:38:55+00:00",
+   "posted_history": [
+    "2026-11-20T16:38:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "GTM Recruiter, OpenRouter (Fixed Term)",
+   "url": "https://stripe.com/jobs/search?gh_jid=8404131"
+  },
+  "8404144": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "technical recruiter openrouter @ sf, nyc, chi, us-remote",
+   "location": "SF, NYC, CHI, US-Remote",
+   "posted_at": "2026-11-20T16:36:48+00:00",
+   "posted_history": [
+    "2026-11-20T16:36:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Recruiter, OpenRouter (Fixed Term)",
+   "url": "https://stripe.com/jobs/search?gh_jid=8404144"
+  },
+  "8405596": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "integration engineer @ amsterdam",
+   "location": "Amsterdam",
+   "posted_at": "2026-11-20T16:02:37+00:00",
+   "posted_history": [
+    "2026-11-20T16:02:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Integration Engineer",
+   "url": "https://stripe.com/jobs/search?gh_jid=8405596"
+  },
+  "8406140": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "forward deployed ai accelerator marketing @ seattle, san francisco, new york, chicago, atlanta, remote in the us, canada",
+   "location": "Seattle, San Francisco, New York, Chicago, Atlanta, Remote in the US, Canada",
+   "posted_at": "2026-11-20T15:05:21+00:00",
+   "posted_history": [
+    "2026-11-20T15:05:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Forward Deployed AI Accelerator, Marketing",
+   "url": "https://stripe.com/jobs/search?gh_jid=8406140"
+  },
+  "8406660": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "integration reliability engineer payments @ toronto",
+   "location": "Toronto",
+   "posted_at": "2026-11-20T17:51:32+00:00",
+   "posted_history": [
+    "2026-11-20T17:51:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Integration Reliability Engineer, Payments",
+   "url": "https://stripe.com/jobs/search?gh_jid=8406660"
+  },
+  "8406995": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "product manager payment methods emea @ dublin",
+   "location": "Dublin",
+   "posted_at": "2026-11-20T19:53:56+00:00",
+   "posted_history": [
+    "2026-11-20T19:53:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Manager, Payment Methods, EMEA",
+   "url": "https://stripe.com/jobs/search?gh_jid=8406995"
   }
  }
 }

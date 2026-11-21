@@ -131,6 +131,10 @@
   {
    "date": "2026-11-20",
    "open": 125
+  },
+  {
+   "date": "2026-11-21",
+   "open": 124
   }
  ],
  "jobs": {
@@ -601,7 +605,7 @@
    "url": "https://jobs.ashbyhq.com/cohere/3136a5a5-06fd-4c82-8b72-a43467e6b128"
   },
   "31bfc2b4-472f-4921-86b1-010daa2da1e8": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "Marketing",
    "evergreen": false,
    "first_seen": "2026-11-11T11:27:30+00:00",

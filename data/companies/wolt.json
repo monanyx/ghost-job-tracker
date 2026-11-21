@@ -131,6 +131,10 @@
   {
    "date": "2026-11-20",
    "open": 184
+  },
+  {
+   "date": "2026-11-21",
+   "open": 186
   }
  ],
  "jobs": {
@@ -656,7 +660,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/6694889"
   },
   "6694964": {
-   "closed_at": "2026-11-11T11:27:30+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
@@ -666,7 +670,7 @@
    "posted_history": [
     "2025-04-16T12:20:22+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Grocery Associate - Youth Workers",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/6694964"
   },
@@ -1135,6 +1139,21 @@
    "title": "Support Team Lead-Remote",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/7618157"
   },
+  "7636215": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "grocery associate @ nuremberg, germany",
+   "location": "Nuremberg, Germany",
+   "posted_at": "2026-02-27T10:33:37+00:00",
+   "posted_history": [
+    "2026-02-27T10:33:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Grocery Associate",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/7636215"
+  },
   "7636484": {
    "closed_at": "2026-10-24T08:24:32+00:00",
    "department": "",
@@ -1151,7 +1170,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/7636484"
   },
   "7649595": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-06T11:30:42+00:00",
@@ -1541,7 +1560,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/7983009"
   },
   "7984718": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2471,17 +2490,17 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8174309"
   },
   "8176407": {
-   "closed_at": "2026-10-27T09:20:56+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "fullstack engineer @ tallinn, estonia",
-   "location": "Tallinn, Estonia",
+   "fp": "fullstack engineer @ helsinki, finland; tallinn, estonia",
+   "location": "Helsinki, Finland; Tallinn, Estonia",
    "posted_at": "2026-09-04T08:15:12+00:00",
    "posted_history": [
     "2026-09-04T08:15:12+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "FullStack Engineer",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8176407"
   },
@@ -3521,7 +3540,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8266656"
   },
   "8266773": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5004,6 +5023,36 @@
    "reopened": 0,
    "title": "Junior Account Manager, SMB Restaurants (Food Delivery) (m/w/d)",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8405418"
+  },
+  "8405424": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "intern merchant account management ent @ berlin, germany",
+   "location": "Berlin, Germany",
+   "posted_at": "2026-11-20T13:07:57+00:00",
+   "posted_history": [
+    "2026-11-20T13:07:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "Intern Merchant Account Management ENT",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8405424"
+  },
+  "8406208": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "senior manager revenue operations dashos emea @ berlin, germany; helsinki, finland; london, england",
+   "location": "Berlin, Germany; Helsinki, Finland; London, England",
+   "posted_at": "2026-11-20T16:20:51+00:00",
+   "posted_history": [
+    "2026-11-20T16:20:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Revenue Operations, DashOS EMEA",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8406208"
   }
  }
 }

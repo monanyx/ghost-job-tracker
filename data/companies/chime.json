@@ -131,6 +131,10 @@
   {
    "date": "2026-11-20",
    "open": 77
+  },
+  {
+   "date": "2026-11-21",
+   "open": 80
   }
  ],
  "jobs": {
@@ -154,14 +158,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "principal product designer growth @ new york, ny, usa; san francisco, ca, usa",
+   "fp": "product designer growth @ new york, ny, usa; san francisco, ca, usa",
    "location": "New York, NY, USA; San Francisco, CA, USA",
    "posted_at": "2025-12-17T21:18:49+00:00",
    "posted_history": [
     "2025-12-17T21:18:49+00:00"
    ],
    "reopened": 0,
-   "title": "Principal Product Designer, Growth",
+   "title": "Product Designer, Growth",
    "url": "https://boards.greenhouse.io/chime/jobs/8342899002?gh_jid=8342899002"
   },
   "8397325002": {
@@ -405,7 +409,7 @@
    "url": "https://boards.greenhouse.io/chime/jobs/8607191002?gh_jid=8607191002"
   },
   "8609159002": {
-   "closed_at": "2026-11-20T12:11:54+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -415,7 +419,7 @@
    "posted_history": [
     "2026-07-30T18:12:14+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Tech Lead Manager, Cards",
    "url": "https://boards.greenhouse.io/chime/jobs/8609159002?gh_jid=8609159002"
   },
@@ -433,6 +437,21 @@
    "reopened": 0,
    "title": "Senior Data Scientist, Lending",
    "url": "https://boards.greenhouse.io/chime/jobs/8612037002?gh_jid=8612037002"
+  },
+  "8612045002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "senior data scientist membership @ san francisco, ca, usa",
+   "location": "San Francisco, CA, USA",
+   "posted_at": "2026-08-11T21:23:38+00:00",
+   "posted_history": [
+    "2026-08-11T21:23:38+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Data Scientist, Membership",
+   "url": "https://boards.greenhouse.io/chime/jobs/8612045002?gh_jid=8612045002"
   },
   "8614188002": {
    "closed_at": null,
@@ -1185,7 +1204,7 @@
    "url": "https://boards.greenhouse.io/chime/jobs/8875914002?gh_jid=8875914002"
   },
   "8877396002": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1470,7 +1489,7 @@
    "url": "https://boards.greenhouse.io/chime/jobs/8918533002?gh_jid=8918533002"
   },
   "8920142002": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
@@ -1723,6 +1742,51 @@
    "reopened": 0,
    "title": "Program Manager, OMX SOTO",
    "url": "https://boards.greenhouse.io/chime/jobs/8948694002?gh_jid=8948694002"
+  },
+  "8950849002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "principal product designer @ san francisco, ca, usa",
+   "location": "San Francisco, CA, USA",
+   "posted_at": "2026-11-21T02:01:01+00:00",
+   "posted_history": [
+    "2026-11-21T02:01:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Product Designer",
+   "url": "https://boards.greenhouse.io/chime/jobs/8950849002?gh_jid=8950849002"
+  },
+  "8950917002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "senior infrastructure security engineer @ chicago, il, usa; new york, ny, usa; san francisco, ca, usa",
+   "location": "Chicago, IL, USA; New York, NY, USA; San Francisco, CA, USA",
+   "posted_at": "2026-11-20T16:56:47+00:00",
+   "posted_history": [
+    "2026-11-20T16:56:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Infrastructure Security Engineer",
+   "url": "https://boards.greenhouse.io/chime/jobs/8950917002?gh_jid=8950917002"
+  },
+  "8952336002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "lead technical recruiter @ chicago, il, usa; new york, ny, usa; san francisco, ca, usa",
+   "location": "Chicago, IL, USA; New York, NY, USA; San Francisco, CA, USA",
+   "posted_at": "2026-11-20T18:13:24+00:00",
+   "posted_history": [
+    "2026-11-20T18:13:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Lead Technical Recruiter",
+   "url": "https://boards.greenhouse.io/chime/jobs/8952336002?gh_jid=8952336002"
   }
  }
 }

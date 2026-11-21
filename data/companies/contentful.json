@@ -131,6 +131,10 @@
   {
    "date": "2026-11-20",
    "open": 50
+  },
+  {
+   "date": "2026-11-21",
+   "open": 50
   }
  ],
  "jobs": {
@@ -165,7 +169,7 @@
    "url": "https://job-boards.greenhouse.io/contentful/jobs/8193736"
   },
   "8196927": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -390,7 +394,7 @@
    "url": "https://job-boards.greenhouse.io/contentful/jobs/8259343"
   },
   "8259346": {
-   "closed_at": "2026-11-17T12:29:08+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -400,7 +404,7 @@
    "posted_history": [
     "2026-10-06T17:45:22+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Mid Market Account Executive",
    "url": "https://job-boards.greenhouse.io/contentful/jobs/8259346"
   },

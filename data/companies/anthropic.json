@@ -131,6 +131,10 @@
   {
    "date": "2026-11-20",
    "open": 637
+  },
+  {
+   "date": "2026-11-21",
+   "open": 633
   }
  ],
  "jobs": {
@@ -1365,7 +1369,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5098025008"
   },
   "5098092008": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2205,7 +2209,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5183053008"
   },
   "5184585008": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3480,7 +3484,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5301958008"
   },
   "5305476008": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3540,7 +3544,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5309917008"
   },
   "5310731008": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3630,7 +3634,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5311237008"
   },
   "5311463008": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4065,7 +4069,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358090008"
   },
   "5358096008": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-06T11:30:42+00:00",
@@ -4200,7 +4204,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358120008"
   },
   "5358122008": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4744,8 +4748,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "staff software engineer privacy @ remote-friendly (travel-required) | san francisco, ca | seattle, wa | new york city, ny",
-   "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
+   "fp": "staff software engineer privacy @ london, uk; remote-friendly (travel-required) | san francisco, ca | seattle, wa | new york city, ny",
+   "location": "London, UK; Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
    "posted_at": "2026-08-07T21:36:48+00:00",
    "posted_history": [
     "2026-08-07T21:36:48+00:00"
@@ -5179,14 +5183,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "software engineer education @ san francisco, ca",
+   "fp": "senior product engineer education @ san francisco, ca",
    "location": "San Francisco, CA",
    "posted_at": "2026-08-13T17:54:58+00:00",
    "posted_history": [
     "2026-08-13T17:54:58+00:00"
    ],
    "reopened": 1,
-   "title": "Software Engineer, Education",
+   "title": "Senior Product Engineer, Education",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5389305008"
   },
   "5389773008": {
@@ -5430,7 +5434,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390952008"
   },
   "5390956008": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7260,7 +7264,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5415822008"
   },
   "5415864008": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -8250,7 +8254,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5427893008"
   },
   "5427938008": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -8714,6 +8718,21 @@
    "title": "Staff+ Software Engineer, Access Programs",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5433814008"
   },
+  "5433843008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "finance strategy deal strategy @ london, uk",
+   "location": "London, UK",
+   "posted_at": "2026-09-25T13:01:07+00:00",
+   "posted_history": [
+    "2026-09-25T13:01:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Finance & Strategy, Deal Strategy",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5433843008"
+  },
   "5433869008": {
    "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
@@ -9059,6 +9078,21 @@
    "title": "Applied AI Engineer, Beneficial Deployments, Life Sciences (Molecular Design)",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5437172008"
   },
+  "5437933008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "finance strategy deal strategy @ dublin, ie",
+   "location": "Dublin, IE",
+   "posted_at": "2026-09-29T16:23:31+00:00",
+   "posted_history": [
+    "2026-09-29T16:23:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Finance & Strategy, Deal Strategy",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5437933008"
+  },
   "5438030008": {
    "closed_at": null,
    "department": "",
@@ -9285,7 +9319,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5440477008"
   },
   "5440535008": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -10935,7 +10969,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5456018008"
   },
   "5456039008": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -10965,7 +10999,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5456315008"
   },
   "5456405008": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -10980,7 +11014,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5456405008"
   },
   "5456406008": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -11505,7 +11539,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5460956008"
   },
   "5461024008": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -12900,7 +12934,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5475240008"
   },
   "5475321008": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",
@@ -13099,8 +13133,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-11T11:27:30+00:00",
-   "fp": "principal engineer privacy @ remote-friendly (travel-required) | san francisco, ca | seattle, wa | new york city, ny",
-   "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
+   "fp": "principal engineer privacy @ london, uk; remote-friendly (travel-required) | san francisco, ca | seattle, wa | new york city, ny",
+   "location": "London, UK; Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
    "posted_at": "2026-11-10T16:32:56+00:00",
    "posted_history": [
     "2026-11-10T16:32:56+00:00"
@@ -13213,6 +13247,36 @@
    "reopened": 0,
    "title": "External Affairs, Southeast Asia",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5479890008"
+  },
+  "5480875008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "strategic account executive financial services @ san francisco, ca | new york city, ny",
+   "location": "San Francisco, CA | New York City, NY",
+   "posted_at": "2026-11-20T14:48:35+00:00",
+   "posted_history": [
+    "2026-11-20T14:48:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Account Executive, Financial Services",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5480875008"
+  },
+  "5480893008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "strategic account executive hcls @ san francisco, ca | new york city, ny",
+   "location": "San Francisco, CA | New York City, NY",
+   "posted_at": "2026-11-20T14:48:51+00:00",
+   "posted_history": [
+    "2026-11-20T14:48:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Account Executive, HCLS",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5480893008"
   },
   "5481096008": {
    "closed_at": null,
@@ -13335,7 +13399,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5482967008"
   },
   "5483359008": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-18T12:16:07+00:00",
@@ -13429,15 +13493,30 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-18T12:16:07+00:00",
-   "fp": "account executive quantitative trading investing @ london, uk",
+   "fp": "enterprise account executive enterprise account executive hedge funds quantitative trading @ london, uk",
    "location": "London, UK",
    "posted_at": "2026-11-18T12:14:25+00:00",
    "posted_history": [
     "2026-11-18T12:14:25+00:00"
    ],
    "reopened": 0,
-   "title": "Account Executive, Quantitative Trading & Investing",
+   "title": "Enterprise Account Executive, Enterprise Account Executive, Hedge Funds & Quantitative Trading",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5484875008"
+  },
+  "5485188008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "research engineer beneficial deployments @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-20T16:38:57+00:00",
+   "posted_history": [
+    "2026-11-20T16:38:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "Research Engineer, Beneficial Deployments",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5485188008"
   },
   "5485582008": {
    "closed_at": null,
@@ -13453,6 +13532,21 @@
    "reopened": 0,
    "title": "Compute Capacity Strategy & Operations",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5485582008"
+  },
+  "5485591008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "gtm strategy operations business partner @ san francisco, ca | new york city, ny | washington, dc",
+   "location": "San Francisco, CA | New York City, NY | Washington, DC",
+   "posted_at": "2026-11-20T17:48:34+00:00",
+   "posted_history": [
+    "2026-11-20T17:48:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "GTM Strategy & Operations Business Partner",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5485591008"
   },
   "5486380008": {
    "closed_at": null,
@@ -13541,8 +13635,113 @@
     "2026-11-20T03:04:34+00:00"
    ],
    "reopened": 0,
-   "title": "[P] Engineering Manager, Privacy Infrastructure",
+   "title": "Engineering Manager, Privacy Infrastructure",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5490122008"
+  },
+  "5490492008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "research operations external artifacts @ remote-friendly, united states",
+   "location": "Remote-Friendly, United States",
+   "posted_at": "2026-11-21T00:47:30+00:00",
+   "posted_history": [
+    "2026-11-21T00:47:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Research Operations, External Artifacts",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5490492008"
+  },
+  "5490572008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "strategic account executive hedge funds @ new york city, ny",
+   "location": "New York City, NY",
+   "posted_at": "2026-11-20T15:42:00+00:00",
+   "posted_history": [
+    "2026-11-20T15:42:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Account Executive, Hedge Funds",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5490572008"
+  },
+  "5490950008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "commercial counsel gtm strategic alliances @ san francisco, ca | new york city, ny | seattle, wa",
+   "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+   "posted_at": "2026-11-20T19:48:38+00:00",
+   "posted_history": [
+    "2026-11-20T19:48:38+00:00"
+   ],
+   "reopened": 0,
+   "title": "Commercial Counsel, GTM Strategic Alliances",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5490950008"
+  },
+  "5490974008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "principal engineer capacity compute @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-20T18:04:58+00:00",
+   "posted_history": [
+    "2026-11-20T18:04:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Engineer Capacity/Compute",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5490974008"
+  },
+  "5490976008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "principal engineer capacity compute @ new york city, ny",
+   "location": "New York City, NY",
+   "posted_at": "2026-11-20T18:05:11+00:00",
+   "posted_history": [
+    "2026-11-20T18:05:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Engineer Capacity/Compute",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5490976008"
+  },
+  "5490978008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "principal engineer capacity compute @ seattle, wa",
+   "location": "Seattle, WA",
+   "posted_at": "2026-11-20T18:05:21+00:00",
+   "posted_history": [
+    "2026-11-20T18:05:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Engineer Capacity/Compute",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5490978008"
+  },
+  "5490979008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "staff software engineer capacity engineering @ san francisco, ca | new york city, ny | seattle, wa",
+   "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+   "posted_at": "2026-11-20T18:05:27+00:00",
+   "posted_history": [
+    "2026-11-20T18:05:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff+ Software Engineer, Capacity Engineering",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5490979008"
   }
  }
 }

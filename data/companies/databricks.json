@@ -131,6 +131,10 @@
   {
    "date": "2026-11-20",
    "open": 897
+  },
+  {
+   "date": "2026-11-21",
+   "open": 897
   }
  ],
  "jobs": {
@@ -720,7 +724,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002"
   },
   "6866549002": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -750,7 +754,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002"
   },
   "6886281002": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -6255,7 +6259,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8564394002"
   },
   "8567602002": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6540,7 +6544,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569457002"
   },
   "8569461002": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -10560,7 +10564,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8735828002"
   },
   "8736179002": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -13949,6 +13953,21 @@
    "title": "Strategic Enterprise Account Executive, Life Sciences",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8870720002"
   },
+  "8870722002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "strategic account executive fsi dib @ united states",
+   "location": "United States",
+   "posted_at": "2026-11-20T15:36:17+00:00",
+   "posted_history": [
+    "2026-11-20T15:36:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Account Executive, FSI/DIB",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8870722002"
+  },
   "8870724002": {
    "closed_at": null,
    "department": "",
@@ -15539,6 +15558,21 @@
    "title": "Emerging Enterprise Core Account Executive",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8906591002"
   },
+  "8906869002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "sr solutions engineer @ toronto, canada",
+   "location": "Toronto, Canada",
+   "posted_at": "2026-11-20T16:39:58+00:00",
+   "posted_history": [
+    "2026-11-20T16:39:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Solutions Engineer",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8906869002"
+  },
   "8906872002": {
    "closed_at": null,
    "department": "",
@@ -16414,14 +16448,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-14T10:56:25+00:00",
-   "fp": "manager delivery solutions architects @ central - united states; northeast - united states; southeast - united states",
+   "fp": "manager delivery solutions architects public sector @ central - united states; northeast - united states; southeast - united states",
    "location": "Central - United States; Northeast - United States; Southeast - United States",
    "posted_at": "2026-11-13T20:24:25+00:00",
    "posted_history": [
     "2026-11-13T20:24:25+00:00"
    ],
    "reopened": 0,
-   "title": "Manager, Delivery Solutions Architects",
+   "title": "Manager, Delivery Solutions Architects - Public Sector",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8926037002"
   },
   "8926307002": {
@@ -16804,14 +16838,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-06T11:30:42+00:00",
-   "fp": "revenue enablement manager @ seoul, south korea",
+   "fp": "field capability manager @ seoul, south korea",
    "location": "Seoul, South Korea",
    "posted_at": "2026-11-06T03:49:33+00:00",
    "posted_history": [
     "2026-11-06T03:49:33+00:00"
    ],
    "reopened": 0,
-   "title": "Revenue Enablement Manager",
+   "title": "Field Capability Manager",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8931269002"
   },
   "8931581002": {
@@ -17339,6 +17373,21 @@
    "title": "Senior Manager, AI Forward Deployed Engineering",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8948900002"
   },
+  "8948986002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "industry executive intel community @ remote - washington d.c.",
+   "location": "Remote - Washington D.C.",
+   "posted_at": "2026-11-20T19:27:07+00:00",
+   "posted_history": [
+    "2026-11-20T19:27:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Industry Executive, Intel Community (AI Transformation)",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8948986002"
+  },
   "8948988002": {
    "closed_at": null,
    "department": "",
@@ -17383,6 +17432,21 @@
    "reopened": 0,
    "title": "Staff Software Engineer - Threat and Abuse Defense",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8950673002"
+  },
+  "8951023002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "sr staff forward deployed engineer @ remote - washington d.c.; washington, d.c.",
+   "location": "Remote - Washington D.C.; Washington, D.C.",
+   "posted_at": "2026-11-21T01:40:04+00:00",
+   "posted_history": [
+    "2026-11-21T01:40:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Staff Forward Deployed Engineer",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8951023002"
   },
   "8951414002": {
    "closed_at": null,
@@ -17458,6 +17522,21 @@
    "reopened": 0,
    "title": "Solutions Architect (Growth Accounts - All sectors) x 2 New Roles",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8952359002"
+  },
+  "8957103002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "specialist solutions architect aws infrastructure ai platform @ united states",
+   "location": "United States",
+   "posted_at": "2026-11-20T19:09:44+00:00",
+   "posted_history": [
+    "2026-11-20T19:09:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Specialist Solutions Architect - AWS Infrastructure & AI Platform",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8957103002"
   }
  }
 }

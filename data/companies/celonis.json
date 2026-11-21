@@ -131,6 +131,10 @@
   {
    "date": "2026-11-20",
    "open": 264
+  },
+  {
+   "date": "2026-11-21",
+   "open": 262
   }
  ],
  "jobs": {
@@ -3000,7 +3004,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7997059003?gh_jid=7997059003"
   },
   "7997659003": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3015,7 +3019,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7997659003?gh_jid=7997659003"
   },
   "7997660003": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3030,7 +3034,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7997660003?gh_jid=7997660003"
   },
   "7997661003": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4168,6 +4172,21 @@
    "reopened": 0,
    "title": "Global Benefits Specialist",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8044261003?gh_jid=8044261003"
+  },
+  "8046316003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "strategy operations working student @ munich, germany",
+   "location": "Munich, Germany",
+   "posted_at": "2026-11-20T12:34:49+00:00",
+   "posted_history": [
+    "2026-11-20T12:34:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategy & Operations Working Student",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/8046316003?gh_jid=8046316003"
   },
   "8046331003": {
    "closed_at": "2026-11-20T12:11:54+00:00",

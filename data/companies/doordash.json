@@ -131,6 +131,10 @@
   {
    "date": "2026-11-20",
    "open": 414
+  },
+  {
+   "date": "2026-11-21",
+   "open": 409
   }
  ],
  "jobs": {
@@ -1650,7 +1654,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7545753"
   },
   "7554210": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2359,8 +2363,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
-   "fp": "director enterprise sales strategic partnerships doordash for business @ new york, ny; los angeles, ca; san francisco, ca; united states - remote",
-   "location": "New York, NY; Los Angeles, CA; San Francisco, CA; United States - Remote",
+   "fp": "director enterprise sales strategic partnerships doordash for business @ united states - remote",
+   "location": "United States - Remote",
    "posted_at": "2026-05-05T19:43:16+00:00",
    "posted_history": [
     "2026-05-05T19:43:16+00:00"
@@ -2683,6 +2687,21 @@
    "reopened": 0,
    "title": "Enterprise Security Engineer",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7983583"
+  },
+  "7984131": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "technical support representative in store @ phoenix, az; boston, ma; philadelphia, pa",
+   "location": "Phoenix, AZ; Boston, MA; Philadelphia, PA",
+   "posted_at": "2026-06-11T13:09:04+00:00",
+   "posted_history": [
+    "2026-06-11T13:09:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Support Representative, In-Store",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7984131"
   },
   "7984775": {
    "closed_at": "2026-11-04T11:35:04+00:00",
@@ -3150,7 +3169,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8068444"
   },
   "8068583": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3960,7 +3979,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8122187"
   },
   "8122209": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6120,7 +6139,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8233953"
   },
   "8236029": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6555,7 +6574,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8255962"
   },
   "8255974": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6630,7 +6649,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8257295"
   },
   "8257415": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7170,7 +7189,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8273992"
   },
   "8274081": {
-   "closed_at": "2026-10-29T10:25:29+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7180,7 +7199,7 @@
    "posted_history": [
     "2026-10-12T16:16:36+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Live Operations Lead, DDfB",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8274081"
   },
@@ -7950,7 +7969,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8315816"
   },
   "8318219": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
@@ -8730,7 +8749,7 @@
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8356727"
   },
   "8358082": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
@@ -9478,6 +9497,21 @@
    "reopened": 0,
    "title": "Senior Manager, Robot Operations",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8403286"
+  },
+  "8403631": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "account manager retailer success symbiosys @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-11-20T18:54:26+00:00",
+   "posted_history": [
+    "2026-11-20T18:54:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Manager, Retailer Success, Symbiosys",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8403631"
   }
  }
 }

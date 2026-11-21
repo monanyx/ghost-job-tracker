@@ -131,6 +131,10 @@
   {
    "date": "2026-11-20",
    "open": 85
+  },
+  {
+   "date": "2026-11-21",
+   "open": 92
   }
  ],
  "jobs": {
@@ -450,7 +454,7 @@
    "url": "https://instacart.careers/job/?gh_jid=7991566"
   },
   "8029661": {
-   "closed_at": "2026-10-27T09:20:56+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -460,9 +464,24 @@
    "posted_history": [
     "2026-06-25T23:32:06+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Sales Development Representative II, Local Independent Grocery - New York",
    "url": "https://instacart.careers/job/?gh_jid=8029661"
+  },
+  "8029663": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "sales development representative ii local independent grocery toronto @ canada - remote (on, ab, bc, or ns only)",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-06-25T23:32:07+00:00",
+   "posted_history": [
+    "2026-06-25T23:32:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales Development Representative II, Local Independent Grocery - Toronto",
+   "url": "https://instacart.careers/job/?gh_jid=8029663"
   },
   "8053797": {
    "closed_at": "2026-10-22T08:55:54+00:00",
@@ -480,7 +499,7 @@
    "url": "https://instacart.careers/job/?gh_jid=8053797"
   },
   "8069980": {
-   "closed_at": "2026-10-27T09:20:56+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -490,12 +509,12 @@
    "posted_history": [
     "2026-07-16T18:11:01+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Sales Development Representative II, Local Independent Grocery - Chicago",
    "url": "https://instacart.careers/job/?gh_jid=8069980"
   },
   "8069983": {
-   "closed_at": "2026-10-27T09:20:56+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -505,7 +524,7 @@
    "posted_history": [
     "2026-07-16T18:13:32+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Sales Development Representative II, Local Independent Grocery - Boston",
    "url": "https://instacart.careers/job/?gh_jid=8069983"
   },
@@ -2758,6 +2777,51 @@
    "reopened": 0,
    "title": "Applied Scientist II - Advertiser Optimization",
    "url": "https://instacart.careers/job/?gh_jid=8403432"
+  },
+  "8407307": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "account manager @ canada - remote (on, ab, bc, or ns only)",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-11-20T22:26:55+00:00",
+   "posted_history": [
+    "2026-11-20T22:26:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Manager",
+   "url": "https://instacart.careers/job/?gh_jid=8407307"
+  },
+  "8407367": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "business intelligence manager ii @ united states - remote",
+   "location": "United States - Remote",
+   "posted_at": "2026-11-20T22:24:20+00:00",
+   "posted_history": [
+    "2026-11-20T22:24:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Business Intelligence Manager II",
+   "url": "https://instacart.careers/job/?gh_jid=8407367"
+  },
+  "8407369": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "business intelligence manager ii @ canada - remote (on, ab, bc, or ns only)",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-11-20T22:24:24+00:00",
+   "posted_history": [
+    "2026-11-20T22:24:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Business Intelligence Manager II",
+   "url": "https://instacart.careers/job/?gh_jid=8407369"
   }
  }
 }

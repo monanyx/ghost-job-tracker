@@ -131,6 +131,10 @@
   {
    "date": "2026-11-20",
    "open": 19
+  },
+  {
+   "date": "2026-11-21",
+   "open": 20
   }
  ],
  "jobs": {
@@ -225,18 +229,18 @@
    "url": "http://www.squarespace.com/about/careers?gh_jid=8013777"
   },
   "8013780": {
-   "closed_at": "2026-11-03T11:21:29+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "head of domains email @ new york city",
+   "fp": "head of domains email vp @ new york city",
    "location": "New York City",
    "posted_at": "2026-07-01T18:31:03+00:00",
    "posted_history": [
     "2026-07-01T18:31:03+00:00"
    ],
-   "reopened": 0,
-   "title": "Head of Domains & Email",
+   "reopened": 1,
+   "title": "Head of Domains & Email, VP",
    "url": "http://www.squarespace.com/about/careers?gh_jid=8013780"
   },
   "8019365": {
@@ -615,7 +619,7 @@
    "url": "http://www.squarespace.com/about/careers?gh_jid=8286760"
   },
   "8349561": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",
@@ -688,6 +692,21 @@
    "reopened": 0,
    "title": "Staff Software Engineer, Revenue Systems",
    "url": "http://www.squarespace.com/about/careers?gh_jid=8392753"
+  },
+  "8406769": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "executive assistant r d @ new york city",
+   "location": "New York City",
+   "posted_at": "2026-11-20T18:18:18+00:00",
+   "posted_history": [
+    "2026-11-20T18:18:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Executive Assistant, R&D",
+   "url": "http://www.squarespace.com/about/careers?gh_jid=8406769"
   }
  }
 }

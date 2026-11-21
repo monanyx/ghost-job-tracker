@@ -131,6 +131,10 @@
   {
    "date": "2026-11-20",
    "open": 388
+  },
+  {
+   "date": "2026-11-21",
+   "open": 388
   }
  ],
  "jobs": {
@@ -707,7 +711,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/118f1c4c-5e46-416a-8caa-d6f026fcbcfe"
   },
   "11db9001-3c62-4058-8822-ab384213a806": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "Customer Experience",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -1023,6 +1027,21 @@
    "title": "Legal Engineer, Custom Solutions",
    "url": "https://jobs.ashbyhq.com/harvey/1d279004-4491-4baa-b95c-1a3b374dc4db"
   },
+  "1d43719f-da4a-4cb8-8865-d971107bd1f2": {
+   "closed_at": null,
+   "department": "Marketing",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "staff product brand designer @ new york",
+   "location": "New York",
+   "posted_at": "2026-11-21T00:23:19+00:00",
+   "posted_history": [
+    "2026-11-21T00:23:19+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Product Brand Designer",
+   "url": "https://jobs.ashbyhq.com/harvey/1d43719f-da4a-4cb8-8865-d971107bd1f2"
+  },
   "1e198178-a4db-4587-a024-f8171ce0e8fd": {
    "closed_at": null,
    "department": "Design",
@@ -1300,19 +1319,34 @@
    "title": "Workplace Specialist",
    "url": "https://jobs.ashbyhq.com/harvey/26b1c092-b466-47b6-9493-402eed406b7a"
   },
+  "2704ed71-6584-4af5-94e5-f16564c8379b": {
+   "closed_at": null,
+   "department": "IT",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "sr people systems analyst advanced comp @ dallas",
+   "location": "Dallas",
+   "posted_at": "2026-11-21T00:38:00+00:00",
+   "posted_history": [
+    "2026-11-21T00:38:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. People Systems Analyst, Advanced Comp",
+   "url": "https://jobs.ashbyhq.com/harvey/2704ed71-6584-4af5-94e5-f16564c8379b"
+  },
   "27c345f8-e664-40be-a50c-e494cd158fbd": {
    "closed_at": null,
    "department": "Marketing",
    "evergreen": false,
    "first_seen": "2026-11-06T11:30:42+00:00",
-   "fp": "head of video @ san francisco",
+   "fp": "creative director social video @ san francisco",
    "location": "San Francisco",
    "posted_at": "2026-11-05T15:01:18+00:00",
    "posted_history": [
     "2026-11-05T15:01:18+00:00"
    ],
    "reopened": 0,
-   "title": "Head of Video",
+   "title": "Creative Director, Social Video",
    "url": "https://jobs.ashbyhq.com/harvey/27c345f8-e664-40be-a50c-e494cd158fbd"
   },
   "27e13512-0e66-4e1a-8048-c3786926c830": {
@@ -1466,6 +1500,21 @@
    "reopened": 0,
    "title": "Enterprise Customer Success Manager",
    "url": "https://jobs.ashbyhq.com/harvey/2aaa1dab-b27a-4f4d-b4ac-ca8886d37411"
+  },
+  "2adc1183-4d71-4277-871e-314b7669a241": {
+   "closed_at": null,
+   "department": "IT",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "sr people systems analyst advanced comp @ remote",
+   "location": "Remote",
+   "posted_at": "2026-11-21T00:37:36+00:00",
+   "posted_history": [
+    "2026-11-21T00:37:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. People Systems Analyst, Advanced Comp",
+   "url": "https://jobs.ashbyhq.com/harvey/2adc1183-4d71-4277-871e-314b7669a241"
   },
   "2afeecc1-d272-4562-a8df-50f720f5991d": {
    "closed_at": null,
@@ -1889,6 +1938,21 @@
    "reopened": 0,
    "title": "Senior Deal Desk Analyst, APAC",
    "url": "https://jobs.ashbyhq.com/harvey/39d6ae01-e28c-441c-9593-5b1d2923b075"
+  },
+  "3a17d706-b023-4f83-8250-d6da3151f1c0": {
+   "closed_at": null,
+   "department": "Customer Success",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "customer success manager mid market @ germany",
+   "location": "Germany",
+   "posted_at": "2026-11-20T19:49:26+00:00",
+   "posted_history": [
+    "2026-11-20T19:49:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Success Manager, Mid Market",
+   "url": "https://jobs.ashbyhq.com/harvey/3a17d706-b023-4f83-8250-d6da3151f1c0"
   },
   "3a34578d-d42e-45bb-ac5c-0c3357e8cbb7": {
    "closed_at": "2026-10-27T09:20:56+00:00",
@@ -2692,7 +2756,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/56357288-3ba6-4808-8121-becc6c1efe38"
   },
   "56483928-e6b1-4e30-b5fa-2539494fe620": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "Security",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3039,17 +3103,18 @@
    "url": "https://jobs.ashbyhq.com/harvey/60701fe8-5640-40fc-b2ce-161eb6a8542b"
   },
   "60819548-3220-4144-875f-6677693a45c7": {
-   "closed_at": "2026-11-20T12:11:54+00:00",
+   "closed_at": null,
    "department": "Go to Market",
    "evergreen": false,
    "first_seen": "2026-11-19T12:10:18+00:00",
    "fp": "smb sales manager @ boston",
    "location": "Boston",
-   "posted_at": "2026-11-19T08:52:15+00:00",
+   "posted_at": "2026-11-20T22:41:03+00:00",
    "posted_history": [
-    "2026-11-19T08:52:15+00:00"
+    "2026-11-19T08:52:15+00:00",
+    "2026-11-20T22:41:03+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "SMB Sales Manager",
    "url": "https://jobs.ashbyhq.com/harvey/60819548-3220-4144-875f-6677693a45c7"
   },
@@ -3178,14 +3243,14 @@
    "department": "Customer Success",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "customer success manager enterprise emea @ munich",
+   "fp": "customer success manager enterprise @ munich",
    "location": "Munich",
    "posted_at": "2026-07-02T12:28:56+00:00",
    "posted_history": [
     "2026-07-02T12:28:56+00:00"
    ],
    "reopened": 0,
-   "title": "Customer Success Manager, Enterprise, EMEA",
+   "title": "Customer Success Manager, Enterprise",
    "url": "https://jobs.ashbyhq.com/harvey/667ee044-f6ae-4714-8339-ff949f8faef1"
   },
   "669bf81e-3f34-406a-bfe5-07f45dc66839": {
@@ -3493,7 +3558,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/6cb88307-4fa1-42d8-8c9e-e331e4364e4f"
   },
   "6e677803-46da-4354-b5af-93d5de97637a": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "Human Resources",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4116,14 +4181,14 @@
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
-   "fp": "forward deployed finance engineer private credit @ london",
+   "fp": "forward deployed investment professional private credit @ london",
    "location": "London",
    "posted_at": "2026-10-28T16:30:21+00:00",
    "posted_history": [
     "2026-10-28T16:30:21+00:00"
    ],
    "reopened": 0,
-   "title": "Forward Deployed Finance Engineer, Private Credit",
+   "title": "Forward Deployed Investment Professional, Private Credit",
    "url": "https://jobs.ashbyhq.com/harvey/8407b840-8645-471b-8bbf-f4c6c8861a2d"
   },
   "851b416f-9869-4b9c-9c10-5105bded4330": {
@@ -4201,6 +4266,21 @@
    "title": "Account Executive, Enterprise, Asset Management",
    "url": "https://jobs.ashbyhq.com/harvey/864392c2-9ff4-4b95-9e06-46bf46bf6522"
   },
+  "8680cdfe-c725-485d-9309-c96d5d64a82f": {
+   "closed_at": null,
+   "department": "IT",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "sr people systems analyst advanced comp @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-11-21T00:37:44+00:00",
+   "posted_history": [
+    "2026-11-21T00:37:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. People Systems Analyst, Advanced Comp",
+   "url": "https://jobs.ashbyhq.com/harvey/8680cdfe-c725-485d-9309-c96d5d64a82f"
+  },
   "86e675fd-51af-42f9-9e1f-e61f1dcdbe2d": {
    "closed_at": null,
    "department": "Customer Success",
@@ -4262,7 +4342,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/8818f7ee-d58d-48b4-bf81-d9e0ba372130"
   },
   "891889e0-0a4b-4496-85a6-3d42fb05304d": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "Customer Success",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4500,6 +4580,21 @@
    "reopened": 0,
    "title": "Customer Success Manager, Mid-Market",
    "url": "https://jobs.ashbyhq.com/harvey/8e7419d0-216b-4cfe-b60c-90eaafd6c03d"
+  },
+  "8eae5589-ecad-496e-9163-ef8611320afa": {
+   "closed_at": null,
+   "department": "Customer Success",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "mid market customer success manager @ mexico",
+   "location": "Mexico",
+   "posted_at": "2026-11-20T18:54:33+00:00",
+   "posted_history": [
+    "2026-11-20T18:54:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Mid-Market Customer Success Manager (LATAM - Spanish Speaking)",
+   "url": "https://jobs.ashbyhq.com/harvey/8eae5589-ecad-496e-9163-ef8611320afa"
   },
   "8eb10df5-5af8-4538-921a-da5299df21db": {
    "closed_at": null,
@@ -4816,6 +4911,21 @@
    "reopened": 0,
    "title": "Majors Customer Success Manager (Asset Management)",
    "url": "https://jobs.ashbyhq.com/harvey/993e43fa-a9a1-45be-9d74-3a96c7c303ef"
+  },
+  "994d18db-236e-4516-a949-ab6af1df3499": {
+   "closed_at": null,
+   "department": "IT",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "sr people systems analyst advanced comp @ new york",
+   "location": "New York",
+   "posted_at": "2026-11-21T00:37:25+00:00",
+   "posted_history": [
+    "2026-11-21T00:37:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. People Systems Analyst, Advanced Comp",
+   "url": "https://jobs.ashbyhq.com/harvey/994d18db-236e-4516-a949-ab6af1df3499"
   },
   "99aceabe-916e-4491-97e9-42f2471bf087": {
    "closed_at": "2026-11-10T11:47:05+00:00",
@@ -5150,7 +5260,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/a6bfcd6d-a899-4e11-bb61-57f2d9f35dec"
   },
   "a840849a-c8bd-49f1-b96c-230b03d953d5": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "Customer Experience",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
@@ -5363,7 +5473,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/acd2604b-426a-4d2f-bcd3-e57f66f8d470"
   },
   "ad1fb947-0858-4e81-a8e0-a7d4a2822201": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "Human Resources",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5978,7 +6088,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/c011f3f0-205e-4e65-8ae1-c01ac885e25f"
   },
   "c0449af2-3742-4ece-88d7-75fd076f80e9": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "Human Resources",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6453,6 +6563,21 @@
    "title": "Head of SMB Sales, AMER",
    "url": "https://jobs.ashbyhq.com/harvey/d0df031e-23f4-439e-9255-b72e01c04563"
   },
+  "d1132fc6-8da7-48df-93f9-fef31c68dc7f": {
+   "closed_at": null,
+   "department": "Go to Market",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "account executive enterprise @ new york",
+   "location": "New York",
+   "posted_at": "2026-11-20T16:05:42+00:00",
+   "posted_history": [
+    "2026-11-20T16:05:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive - Enterprise",
+   "url": "https://jobs.ashbyhq.com/harvey/d1132fc6-8da7-48df-93f9-fef31c68dc7f"
+  },
   "d1669780-6956-4e5b-bc84-590267c565ea": {
    "closed_at": null,
    "department": "Product",
@@ -6710,7 +6835,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/da103b63-c5ed-4544-b2b2-136511c1bd4e"
   },
   "da36fca6-0d0b-492e-b8d2-7a7f971f3e8e": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "Customer Success",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7131,7 +7256,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/e59f9b06-f863-446e-9022-61034004b69a"
   },
   "e5be83a1-5546-4ee9-a79b-be91df8a4548": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "Customer Experience",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
@@ -7266,7 +7391,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/eaf0f789-5d7f-400b-bd48-e398a32f307a"
   },
   "eb11a622-d435-4c24-946f-c3fdb6fcbbdf": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "Human Resources",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7522,6 +7647,21 @@
    "reopened": 0,
    "title": "Staff Corporate Security Engineer",
    "url": "https://jobs.ashbyhq.com/harvey/f30a1b59-279c-43cb-bf56-1745a84dfd82"
+  },
+  "f35bede4-366e-4da6-832f-616917c95605": {
+   "closed_at": null,
+   "department": "IT",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "sr people systems analyst advanced comp @ chicago",
+   "location": "Chicago",
+   "posted_at": "2026-11-21T00:37:52+00:00",
+   "posted_history": [
+    "2026-11-21T00:37:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. People Systems Analyst, Advanced Comp",
+   "url": "https://jobs.ashbyhq.com/harvey/f35bede4-366e-4da6-832f-616917c95605"
   },
   "f361b7ea-82c6-4061-ad24-1419b4ca3c7b": {
    "closed_at": null,

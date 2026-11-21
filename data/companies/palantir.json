@@ -131,6 +131,10 @@
   {
    "date": "2026-11-20",
    "open": 307
+  },
+  {
+   "date": "2026-11-21",
+   "open": 308
   }
  ],
  "jobs": {
@@ -823,6 +827,21 @@
    "reopened": 0,
    "title": "Senior Software Engineer, Substrate",
    "url": "https://jobs.lever.co/palantir/26176860-7b27-412a-9959-d8b8705acf53"
+  },
+  "26c63e91-64bb-4a9d-8b24-f51754bffb83": {
+   "closed_at": null,
+   "department": "Information Security",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "supply chain security analyst @ washington, d.c.",
+   "location": "Washington, D.C.",
+   "posted_at": "2021-10-20T08:05:43+00:00",
+   "posted_history": [
+    "2021-10-20T08:05:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Supply Chain Security Analyst",
+   "url": "https://jobs.lever.co/palantir/26c63e91-64bb-4a9d-8b24-f51754bffb83"
   },
   "26e23f5d-083b-45aa-b223-1a6e43d960bf": {
    "closed_at": null,
@@ -2714,6 +2733,21 @@
    "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial",
    "url": "https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3"
   },
+  "7600fb76-e25e-418c-bf83-d2b1444f2dc6": {
+   "closed_at": null,
+   "department": "Information Security",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "supply chain security analyst @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2021-10-20T08:05:23+00:00",
+   "posted_history": [
+    "2021-10-20T08:05:23+00:00"
+   ],
+   "reopened": 0,
+   "title": "Supply Chain Security Analyst",
+   "url": "https://jobs.lever.co/palantir/7600fb76-e25e-418c-bf83-d2b1444f2dc6"
+  },
   "76161763-bafa-4ebb-a2ce-2a25e315b7d7": {
    "closed_at": null,
    "department": "Design",
@@ -4065,7 +4099,7 @@
    "url": "https://jobs.lever.co/palantir/b80d45be-7fe8-4a11-b159-65551320c61f"
   },
   "b81be534-e1d6-4946-8121-1e1360d4d030": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "Echo",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

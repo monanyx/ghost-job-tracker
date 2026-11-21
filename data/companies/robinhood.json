@@ -131,6 +131,10 @@
   {
    "date": "2026-11-20",
    "open": 166
+  },
+  {
+   "date": "2026-11-21",
+   "open": 163
   }
  ],
  "jobs": {
@@ -1185,7 +1189,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8114730?t=gh_src=&gh_jid=8114730"
   },
   "8120094": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
@@ -1350,7 +1354,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8160668?t=gh_src=&gh_jid=8160668"
   },
   "8162169": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-06T11:30:42+00:00",
@@ -2160,7 +2164,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8224813?t=gh_src=&gh_jid=8224813"
   },
   "8226687": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2460,7 +2464,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8250300?t=gh_src=&gh_jid=8250300"
   },
   "8250341": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2625,7 +2629,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8259652?t=gh_src=&gh_jid=8259652"
   },
   "8259694": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2640,7 +2644,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8259694?t=gh_src=&gh_jid=8259694"
   },
   "8259696": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3704,6 +3708,36 @@
    "title": "Crypto Compliance Senior Lead",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8399778?t=gh_src=&gh_jid=8399778"
   },
+  "8400286": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "events marketing manager @ menlo park, ca; new york, ny",
+   "location": "Menlo Park, CA; New York, NY",
+   "posted_at": "2026-11-20T15:46:07+00:00",
+   "posted_history": [
+    "2026-11-20T15:46:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Events Marketing Manager",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8400286?t=gh_src=&gh_jid=8400286"
+  },
+  "8402673": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "internal audit manager @ luxembourg, luxembourg (bitstamp)",
+   "location": "Luxembourg, Luxembourg (Bitstamp)",
+   "posted_at": "2026-11-20T18:48:19+00:00",
+   "posted_history": [
+    "2026-11-20T18:48:19+00:00"
+   ],
+   "reopened": 0,
+   "title": "Internal Audit Manager",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8402673?t=gh_src=&gh_jid=8402673"
+  },
   "8402939": {
    "closed_at": null,
    "department": "",
@@ -3718,6 +3752,21 @@
    "reopened": 0,
    "title": "Senior Technical Recruiter, GenEng",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8402939?t=gh_src=&gh_jid=8402939"
+  },
+  "8404475": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "education lead @ menlo park, ca; new york, ny",
+   "location": "Menlo Park, CA; New York, NY",
+   "posted_at": "2026-11-20T17:39:11+00:00",
+   "posted_history": [
+    "2026-11-20T17:39:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Education Lead",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8404475?t=gh_src=&gh_jid=8404475"
   }
  }
 }

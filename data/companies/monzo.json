@@ -131,6 +131,10 @@
   {
    "date": "2026-11-20",
    "open": 59
+  },
+  {
+   "date": "2026-11-21",
+   "open": 59
   }
  ],
  "jobs": {
@@ -974,6 +978,21 @@
    "title": "Global Director of Sales",
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8188282"
   },
+  "8195253": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "senior third party risk manager @ london; remote (uk)",
+   "location": "London; Remote (UK)",
+   "posted_at": "2026-11-20T18:01:26+00:00",
+   "posted_history": [
+    "2026-11-20T18:01:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Third Party Risk Manager",
+   "url": "https://job-boards.greenhouse.io/monzo/jobs/8195253"
+  },
   "8195436": {
    "closed_at": "2026-11-03T11:21:29+00:00",
    "department": "",
@@ -1785,7 +1804,7 @@
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8356553"
   },
   "8358652": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",

@@ -131,6 +131,10 @@
   {
    "date": "2026-11-20",
    "open": 82
+  },
+  {
+   "date": "2026-11-21",
+   "open": 82
   }
  ],
  "jobs": {
@@ -289,14 +293,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "data scientist risk @ san francisco, ca - hybrid",
+   "fp": "staff data scientist risk @ san francisco, ca - hybrid",
    "location": "San Francisco, CA - Hybrid",
    "posted_at": "2026-03-26T15:14:53+00:00",
    "posted_history": [
     "2026-03-26T15:14:53+00:00"
    ],
    "reopened": 0,
-   "title": "Data Scientist, Risk",
+   "title": "Staff Data Scientist, Risk",
    "url": "https://job-boards.greenhouse.io/gusto/jobs/7656216"
   },
   "7673999": {
@@ -2235,7 +2239,7 @@
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8374008"
   },
   "8394531": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-19T12:10:18+00:00",
@@ -2248,6 +2252,21 @@
    "reopened": 0,
    "title": "IT Geek",
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8394531"
+  },
+  "8400148": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "gusto insights intern @ san francisco, ca - hybrid",
+   "location": "San Francisco, CA - Hybrid",
+   "posted_at": "2026-11-20T18:19:30+00:00",
+   "posted_history": [
+    "2026-11-20T18:19:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Gusto Insights Intern",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8400148"
   }
  }
 }

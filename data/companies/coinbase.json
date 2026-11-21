@@ -131,6 +131,10 @@
   {
    "date": "2026-11-20",
    "open": 253
+  },
+  {
+   "date": "2026-11-21",
+   "open": 252
   }
  ],
  "jobs": {
@@ -439,14 +443,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "accounting manager gl operations intercompany @ remote - canada",
+   "fp": "corporate accounting manager @ remote - canada",
    "location": "Remote - Canada",
    "posted_at": "2026-04-17T14:23:30+00:00",
    "posted_history": [
     "2026-04-17T14:23:30+00:00"
    ],
    "reopened": 0,
-   "title": "Accounting Manager, GL Operations & Intercompany",
+   "title": "Corporate Accounting Manager",
    "url": "https://www.coinbase.com/careers/positions/7822885?gh_jid=7822885"
   },
   "7847431": {
@@ -3600,7 +3604,7 @@
    "url": "https://www.coinbase.com/careers/positions/8278991?gh_jid=8278991"
   },
   "8279479": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3780,7 +3784,7 @@
    "url": "https://www.coinbase.com/careers/positions/8301285?gh_jid=8301285"
   },
   "8302189": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-20T08:53:12+00:00",
@@ -5608,6 +5612,21 @@
    "reopened": 0,
    "title": "Senior Product Creative Designer",
    "url": "https://www.coinbase.com/careers/positions/8402798?gh_jid=8402798"
+  },
+  "8406680": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "senior sec reporting accountant @ remote - usa",
+   "location": "Remote - USA",
+   "posted_at": "2026-11-20T19:42:17+00:00",
+   "posted_history": [
+    "2026-11-20T19:42:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior SEC Reporting Accountant",
+   "url": "https://www.coinbase.com/careers/positions/8406680?gh_jid=8406680"
   }
  }
 }

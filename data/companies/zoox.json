@@ -131,6 +131,10 @@
   {
    "date": "2026-11-20",
    "open": 246
+  },
+  {
+   "date": "2026-11-21",
+   "open": 244
   }
  ],
  "jobs": {
@@ -1725,7 +1729,7 @@
    "url": "https://jobs.lever.co/zoox/4e861d9a-5ebc-4bc1-96df-b7ae1f41780e"
   },
   "4f5492ab-a8d0-4d28-9d77-67a1d033ea81": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "Vehicle Development",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4755,7 +4759,7 @@
    "url": "https://jobs.lever.co/zoox/f42608dc-b331-4bd1-86bc-371ac3285d75"
   },
   "f478258f-0027-43e1-b009-e96aa9b20c0e": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "Communications",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

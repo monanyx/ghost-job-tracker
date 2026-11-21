@@ -131,6 +131,10 @@
   {
    "date": "2026-11-20",
    "open": 368
+  },
+  {
+   "date": "2026-11-21",
+   "open": 363
   }
  ],
  "jobs": {
@@ -1789,14 +1793,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "technical lead manager query storage swe @ mountain view, california, usa",
+   "fp": "technical lead manager data infrastructure @ mountain view, california, usa",
    "location": "Mountain View, California, USA",
    "posted_at": "2026-05-22T18:22:25+00:00",
    "posted_history": [
     "2026-05-22T18:22:25+00:00"
    ],
    "reopened": 0,
-   "title": "Technical Lead Manager, Query & Storage SWE",
+   "title": "Technical Lead Manager, Data Infrastructure (Query)",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=7917933"
   },
   "7922569": {
@@ -1935,7 +1939,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=7947243"
   },
   "7947334": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2580,7 +2584,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8049302"
   },
   "8049315": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2955,7 +2959,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8080909"
   },
   "8083286": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3975,7 +3979,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8188973"
   },
   "8189848": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4380,7 +4384,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8210138"
   },
   "8210170": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4725,7 +4729,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8224729"
   },
   "8224746": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4995,7 +4999,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8234553"
   },
   "8234670": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5445,7 +5449,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8248456"
   },
   "8248894": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5520,7 +5524,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8250220"
   },
   "8255567": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7393,6 +7397,66 @@
    "reopened": 0,
    "title": "2027 Summer Intern, PhD, Agentic AI",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8401116"
+  },
+  "8407626": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "software engineer @ perm - n/a",
+   "location": "PERM - N/A",
+   "posted_at": "2026-11-21T00:38:31+00:00",
+   "posted_history": [
+    "2026-11-21T00:38:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8407626"
+  },
+  "8407638": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "product manager perception @ perm - n/a",
+   "location": "PERM - N/A",
+   "posted_at": "2026-11-21T00:44:09+00:00",
+   "posted_history": [
+    "2026-11-21T00:44:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Manager, Perception",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8407638"
+  },
+  "8407640": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "software engineer @ perm - n/a",
+   "location": "PERM - N/A",
+   "posted_at": "2026-11-21T00:51:18+00:00",
+   "posted_history": [
+    "2026-11-21T00:51:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8407640"
+  },
+  "8407651": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "systems engineer @ perm - n/a",
+   "location": "PERM - N/A",
+   "posted_at": "2026-11-21T00:56:19+00:00",
+   "posted_history": [
+    "2026-11-21T00:56:19+00:00"
+   ],
+   "reopened": 0,
+   "title": "Systems Engineer",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8407651"
   }
  }
 }

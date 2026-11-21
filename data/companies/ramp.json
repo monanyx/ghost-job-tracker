@@ -131,6 +131,10 @@
   {
    "date": "2026-11-20",
    "open": 185
+  },
+  {
+   "date": "2026-11-21",
+   "open": 187
   }
  ],
  "jobs": {
@@ -1311,14 +1315,14 @@
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior manager account executive mid market @ new york, ny (hq)",
+   "fp": "manager account executive mid market @ new york, ny (hq)",
    "location": "New York, NY (HQ)",
    "posted_at": "2026-09-10T00:03:38+00:00",
    "posted_history": [
     "2026-09-10T00:03:38+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Manager, Account Executive | Mid-Market",
+   "title": "Manager, Account Executive | Mid-Market",
    "url": "https://jobs.ashbyhq.com/ramp/60ed4fac-3833-4495-9b0f-75e6dfe4b36c"
   },
   "623abf6f-84c6-49d2-8276-385c1ffec097": {
@@ -2567,6 +2571,21 @@
    "title": "Senior Recruiter, Emerging Talent",
    "url": "https://jobs.ashbyhq.com/ramp/b0433f82-e0c0-4dd8-9d41-c6bf2371c2ea"
   },
+  "b18f851e-8784-452f-9eb1-43b57e8c2871": {
+   "closed_at": null,
+   "department": "Finance",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "associate gtm operations @ new york, ny (hq)",
+   "location": "New York, NY (HQ)",
+   "posted_at": "2026-11-20T21:25:08+00:00",
+   "posted_history": [
+    "2026-11-20T21:25:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "Associate, GTM Operations",
+   "url": "https://jobs.ashbyhq.com/ramp/b18f851e-8784-452f-9eb1-43b57e8c2871"
+  },
   "b39ceb08-a0a7-4f8b-a760-2fb88e209956": {
    "closed_at": null,
    "department": "Data",
@@ -3382,6 +3401,21 @@
    "reopened": 0,
    "title": "Manager, Sales Development | SMB",
    "url": "https://jobs.ashbyhq.com/ramp/f1ebd439-56ed-4d12-a8fd-979c74604eca"
+  },
+  "f2495eb1-ca1c-48ee-bdac-d50b0c8c0d16": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "partner development representative franchise @ new york, ny (hq)",
+   "location": "New York, NY (HQ)",
+   "posted_at": "2026-11-20T22:22:48+00:00",
+   "posted_history": [
+    "2026-11-20T22:22:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "Partner Development Representative | Franchise",
+   "url": "https://jobs.ashbyhq.com/ramp/f2495eb1-ca1c-48ee-bdac-d50b0c8c0d16"
   },
   "f330ccd7-59f5-4032-82b0-4448482769e4": {
    "closed_at": null,

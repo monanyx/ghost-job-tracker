@@ -131,6 +131,10 @@
   {
    "date": "2026-11-20",
    "open": 496
+  },
+  {
+   "date": "2026-11-21",
+   "open": 503
   }
  ],
  "jobs": {
@@ -675,7 +679,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/7535803?gh_jid=7535803"
   },
   "7540853": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-19T12:10:18+00:00",
@@ -1620,7 +1624,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8018536?gh_jid=8018536"
   },
   "8020472": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2235,7 +2239,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8075795?gh_jid=8075795"
   },
   "8076815": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2745,7 +2749,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8109271?gh_jid=8109271"
   },
   "8109303": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2985,7 +2989,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8128468?gh_jid=8128468"
   },
   "8130735": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3825,7 +3829,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8164694?gh_jid=8164694"
   },
   "8164724": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3990,7 +3994,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8172023?gh_jid=8172023"
   },
   "8172117": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4425,7 +4429,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8184169?gh_jid=8184169"
   },
   "8184838": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6375,7 +6379,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8248907?gh_jid=8248907"
   },
   "8250114": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -8715,18 +8719,18 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8354678?gh_jid=8354678"
   },
   "8354680": {
-   "closed_at": "2026-11-20T12:11:54+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-05T11:30:12+00:00",
-   "fp": "people operations specialist singapore @ hybrid",
+   "fp": "people operations specialist tokyo @ hybrid",
    "location": "Hybrid",
    "posted_at": "2026-11-05T03:34:20+00:00",
    "posted_history": [
     "2026-11-05T03:34:20+00:00"
    ],
-   "reopened": 0,
-   "title": "People Operations Specialist, Singapore (12-months contract)",
+   "reopened": 1,
+   "title": "People Operations Specialist, Tokyo (12-months contract)",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8354680?gh_jid=8354680"
   },
   "8354692": {
@@ -9570,7 +9574,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8393924?gh_jid=8393924"
   },
   "8394342": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-18T12:16:07+00:00",
@@ -9704,6 +9708,186 @@
    "title": "Software Engineer, Data Primitives",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8398779?gh_jid=8398779"
   },
+  "8399197": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "incident response engineer sirt @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-20T19:03:08+00:00",
+   "posted_history": [
+    "2026-11-20T19:03:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "Incident Response Engineer, SIRT",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8399197?gh_jid=8399197"
+  },
+  "8400599": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "head of startups developer gtm @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-21T00:58:25+00:00",
+   "posted_history": [
+    "2026-11-21T00:58:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Head of Startups, Developer GTM",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8400599?gh_jid=8400599"
+  },
+  "8400651": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "head of scale ups developer gtm @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-21T00:44:45+00:00",
+   "posted_history": [
+    "2026-11-21T00:44:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Head of Scale-ups, Developer GTM",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8400651?gh_jid=8400651"
+  },
+  "8400689": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "head of majors developer gtm @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-21T00:44:54+00:00",
+   "posted_history": [
+    "2026-11-21T00:44:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Head of Majors, Developer GTM",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8400689?gh_jid=8400689"
+  },
+  "8401108": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "senior systems engineer network services @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-21T01:54:35+00:00",
+   "posted_history": [
+    "2026-11-21T01:54:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Systems Engineer, Network Services",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8401108?gh_jid=8401108"
+  },
+  "8401112": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "distributed systems engineer network services @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-21T01:53:19+00:00",
+   "posted_history": [
+    "2026-11-21T01:53:19+00:00"
+   ],
+   "reopened": 0,
+   "title": "Distributed Systems Engineer - Network Services",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8401112?gh_jid=8401112"
+  },
+  "8401119": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "systems engineer network data plane software @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-21T01:56:07+00:00",
+   "posted_history": [
+    "2026-11-21T01:56:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Systems Engineer - Network Data Plane Software",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8401119?gh_jid=8401119"
+  },
+  "8401122": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "systems engineer network software performance @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-21T01:57:14+00:00",
+   "posted_history": [
+    "2026-11-21T01:57:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Systems Engineer - Network Software Performance",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8401122?gh_jid=8401122"
+  },
+  "8402154": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "engineering manager @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-20T15:48:55+00:00",
+   "posted_history": [
+    "2026-11-20T15:48:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8402154?gh_jid=8402154"
+  },
+  "8402761": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "senior majors account executive atlanta @ distributed",
+   "location": "Distributed",
+   "posted_at": "2026-11-21T00:04:47+00:00",
+   "posted_history": [
+    "2026-11-21T00:04:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Majors Account Executive - Atlanta",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8402761?gh_jid=8402761"
+  },
+  "8402822": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "senior strategic account executive financials new york @ distributed",
+   "location": "Distributed",
+   "posted_at": "2026-11-21T00:22:05+00:00",
+   "posted_history": [
+    "2026-11-21T00:22:05+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Strategic Account Executive, Financials - New York",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8402822?gh_jid=8402822"
+  },
+  "8402860": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "senior strategic account executive financials north carolina @ distributed",
+   "location": "Distributed",
+   "posted_at": "2026-11-21T00:26:15+00:00",
+   "posted_history": [
+    "2026-11-21T00:26:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Strategic Account Executive, Financials - North Carolina",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8402860?gh_jid=8402860"
+  },
   "8403466": {
    "closed_at": null,
    "department": "",
@@ -9716,8 +9900,38 @@
     "2026-11-19T19:52:26+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Commercial Account Executive (Austin)",
+   "title": "Senior Commercial Account Executive (Salt Lake City, Denver or Phoenix)",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8403466?gh_jid=8403466"
+  },
+  "8404184": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "sr procurement operations lead infrastructure @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-20T19:45:11+00:00",
+   "posted_history": [
+    "2026-11-20T19:45:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Procurement Operations Lead, Infrastructure",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8404184?gh_jid=8404184"
+  },
+  "8404438": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "senior majors account executive michigan @ distributed",
+   "location": "Distributed",
+   "posted_at": "2026-11-21T00:17:14+00:00",
+   "posted_history": [
+    "2026-11-21T00:17:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Majors Account Executive - Michigan",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8404438?gh_jid=8404438"
   },
   "8404716": {
    "closed_at": null,
@@ -9748,6 +9962,36 @@
    "reopened": 0,
    "title": "HR Operations Specialist, APAC (Full-time)",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8404717?gh_jid=8404717"
+  },
+  "8406156": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "senior commercial account executive @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-20T15:15:01+00:00",
+   "posted_history": [
+    "2026-11-20T15:15:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Commercial Account Executive (New York City)",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8406156?gh_jid=8406156"
+  },
+  "8406159": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "senior commercial account executive @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-20T15:14:58+00:00",
+   "posted_history": [
+    "2026-11-20T15:14:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Commercial Account Executive (Los Angeles)",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8406159?gh_jid=8406159"
   }
  }
 }

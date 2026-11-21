@@ -131,6 +131,10 @@
   {
    "date": "2026-11-20",
    "open": 106
+  },
+  {
+   "date": "2026-11-21",
+   "open": 109
   }
  ],
  "jobs": {
@@ -810,7 +814,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8081530"
   },
   "8093320": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-26T09:22:13+00:00",
@@ -1065,7 +1069,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8143768"
   },
   "8145984": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1680,7 +1684,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8236865"
   },
   "8237699": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2280,7 +2284,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8262955"
   },
   "8263280": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2700,7 +2704,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8319442"
   },
   "8324443": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
@@ -2715,7 +2719,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8324443"
   },
   "8324446": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
@@ -2790,7 +2794,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8327527"
   },
   "8327839": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
@@ -3149,6 +3153,21 @@
    "title": "New Business Account Executive",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8383015"
   },
+  "8383319": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "technical support engineer 2 @ remote - colombia",
+   "location": "Remote - Colombia",
+   "posted_at": "2026-11-21T01:42:40+00:00",
+   "posted_history": [
+    "2026-11-21T01:42:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Support Engineer 2",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8383319"
+  },
   "8383479": {
    "closed_at": null,
    "department": "",
@@ -3326,8 +3345,38 @@
     "2026-11-19T18:11:41+00:00"
    ],
    "reopened": 0,
-   "title": "New Business Account Executive",
+   "title": "New Business Account Executive (French speaker)",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8394774"
+  },
+  "8394776": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "new business account executive @ remote - united kingdom",
+   "location": "Remote - United Kingdom",
+   "posted_at": "2026-11-20T14:36:09+00:00",
+   "posted_history": [
+    "2026-11-20T14:36:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "New Business Account Executive (Hebrew speaker)",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8394776"
+  },
+  "8396113": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "executive business partner @ remote - us",
+   "location": "Remote - US",
+   "posted_at": "2026-11-20T19:15:14+00:00",
+   "posted_history": [
+    "2026-11-20T19:15:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Executive Business Partner",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8396113"
   },
   "8396809": {
    "closed_at": null,
@@ -3358,6 +3407,111 @@
    "reopened": 0,
    "title": "Senior Manager, Strategic Accounts - Asia",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8399190"
+  },
+  "8405805": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "senior engineer security automation @ remote - us",
+   "location": "Remote - US",
+   "posted_at": "2026-11-20T19:23:22+00:00",
+   "posted_history": [
+    "2026-11-20T19:23:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Engineer, Security Automation",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8405805"
+  },
+  "8405807": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "software engineer supernetwork @ remote - estonia",
+   "location": "Remote - Estonia",
+   "posted_at": "2026-11-20T20:01:40+00:00",
+   "posted_history": [
+    "2026-11-20T20:01:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer (L2) SuperNetwork",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8405807"
+  },
+  "8405809": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "software engineer supernetwork @ remote - ireland",
+   "location": "Remote - Ireland",
+   "posted_at": "2026-11-20T20:05:22+00:00",
+   "posted_history": [
+    "2026-11-20T20:05:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer (L2) Supernetwork",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8405809"
+  },
+  "8405813": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "principal engineer cloud security @ remote - us",
+   "location": "Remote - US",
+   "posted_at": "2026-11-20T19:22:00+00:00",
+   "posted_history": [
+    "2026-11-20T19:22:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Engineer, Cloud Security",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8405813"
+  },
+  "8405824": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "strategic account executive @ remote - us",
+   "location": "Remote - US",
+   "posted_at": "2026-11-20T16:34:15+00:00",
+   "posted_history": [
+    "2026-11-20T16:34:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Account Executive",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8405824"
+  },
+  "8406753": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "technical account manager 3 @ remote - colombia",
+   "location": "Remote - Colombia",
+   "posted_at": "2026-11-20T18:38:24+00:00",
+   "posted_history": [
+    "2026-11-20T18:38:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Account Manager 3",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8406753"
+  },
+  "8406763": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "personalized support engineer 2 @ remote - colombia",
+   "location": "Remote - Colombia",
+   "posted_at": "2026-11-20T20:32:22+00:00",
+   "posted_history": [
+    "2026-11-20T20:32:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Personalized Support Engineer 2",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8406763"
   }
  }
 }

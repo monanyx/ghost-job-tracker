@@ -131,6 +131,10 @@
   {
    "date": "2026-11-20",
    "open": 412
+  },
+  {
+   "date": "2026-11-21",
+   "open": 417
   }
  ],
  "jobs": {
@@ -5850,7 +5854,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8246377"
   },
   "8248829": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6795,7 +6799,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8300961"
   },
   "8301805": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
@@ -6915,7 +6919,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8306274"
   },
   "8309811": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
@@ -7514,13 +7518,28 @@
    "title": "2027 - AI and People Transformation Intern, NYC",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8346138"
   },
+  "8346144": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "2027 finance intern san francisco @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-11-20T15:36:53+00:00",
+   "posted_history": [
+    "2026-11-20T15:36:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "2027 - Finance Intern, San Francisco",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8346144"
+  },
   "8346181": {
    "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",
-   "fp": "staff technical program manager it audit governance @ new york city; palo alto",
-   "location": "New York City; Palo Alto",
+   "fp": "staff technical program manager it audit governance @ atlanta; austin; chicago; dallas; denver; miami; new york city; philadelphia",
+   "location": "Atlanta; Austin; Chicago; Dallas; Denver; Miami; New York City; Philadelphia",
    "posted_at": "2026-11-06T19:34:55+00:00",
    "posted_history": [
     "2026-11-06T19:34:55+00:00"
@@ -8044,8 +8063,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-12T11:51:19+00:00",
-   "fp": "startup and venture marketing lead @ london",
-   "location": "London",
+   "fp": "startup and venture marketing lead @ dublin, ireland; great britain; ireland; london",
+   "location": "Dublin, Ireland; Great Britain; Ireland; London",
    "posted_at": "2026-11-11T14:25:44+00:00",
    "posted_history": [
     "2026-11-11T14:25:44+00:00"
@@ -8804,6 +8823,36 @@
    "title": "Senior Solutions Architect",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8399277"
   },
+  "8401912": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "senior solutions architect application modernisation @ dublin",
+   "location": "Dublin",
+   "posted_at": "2026-11-20T12:42:14+00:00",
+   "posted_history": [
+    "2026-11-20T12:42:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Solutions Architect - Application Modernisation",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8401912"
+  },
+  "8402068": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "workplace coordinator @ palo alto",
+   "location": "Palo Alto",
+   "posted_at": "2026-11-20T20:08:12+00:00",
+   "posted_history": [
+    "2026-11-20T20:08:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Workplace Coordinator",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8402068"
+  },
   "8403104": {
    "closed_at": null,
    "department": "",
@@ -8818,6 +8867,81 @@
    "reopened": 0,
    "title": "Senior Financial Analyst",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8403104"
+  },
+  "8403318": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "senior software engineer cloud payments @ dublin",
+   "location": "Dublin",
+   "posted_at": "2026-11-20T14:31:11+00:00",
+   "posted_history": [
+    "2026-11-20T14:31:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Cloud Payments",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8403318"
+  },
+  "8404811": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "senior solutions architect application modernisation @ brazil; mexico; mexico city",
+   "location": "Brazil; Mexico; Mexico City",
+   "posted_at": "2026-11-20T20:30:38+00:00",
+   "posted_history": [
+    "2026-11-20T20:30:38+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Solutions Architect - Application Modernisation",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8404811"
+  },
+  "8406130": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "senior solutions architect application modernization @ california; los angeles; san diego; san francisco",
+   "location": "California; Los Angeles; San Diego; San Francisco",
+   "posted_at": "2026-11-20T16:07:36+00:00",
+   "posted_history": [
+    "2026-11-20T16:07:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Solutions Architect - Application Modernization",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8406130"
+  },
+  "8406812": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "software engineer 3 @ united states",
+   "location": "United States",
+   "posted_at": "2026-11-20T19:03:01+00:00",
+   "posted_history": [
+    "2026-11-20T19:03:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer 3",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8406812"
+  },
+  "8406857": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "software engineer 3 @ ontario",
+   "location": "Ontario",
+   "posted_at": "2026-11-20T19:03:03+00:00",
+   "posted_history": [
+    "2026-11-20T19:03:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer 3",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8406857"
   }
  }
 }

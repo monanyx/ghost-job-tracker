@@ -131,6 +131,10 @@
   {
    "date": "2026-11-20",
    "open": 246
+  },
+  {
+   "date": "2026-11-21",
+   "open": 246
   }
  ],
  "jobs": {
@@ -165,7 +169,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8478405002"
   },
   "8490477002": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -345,7 +349,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8592555002"
   },
   "8597805002": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -375,7 +379,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8604996002"
   },
   "8612937002": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1654,8 +1658,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior solutions architect operations manager @ remote, canada; remote, united states",
-   "location": "Remote, Canada; Remote, United States",
+   "fp": "senior solutions architect operations manager @ remote, united states",
+   "location": "Remote, United States",
    "posted_at": "2026-10-09T16:58:49+00:00",
    "posted_history": [
     "2026-10-09T16:58:49+00:00"
@@ -2599,14 +2603,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior product manager crm gtm systems @ remote, united states",
+   "fp": "senior product manager salesforce crm @ remote, united states",
    "location": "Remote, United States",
    "posted_at": "2026-10-02T17:56:31+00:00",
    "posted_history": [
     "2026-10-02T17:56:31+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Product Manager, CRM & GTM Systems",
+   "title": "Senior Product Manager, Salesforce CRM",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8855883002"
   },
   "8856724002": {
@@ -2644,8 +2648,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "professional services technical architect west @ remote, canada; remote, united states",
-   "location": "Remote, Canada; Remote, United States",
+   "fp": "professional services technical architect west @ remote, united states",
+   "location": "Remote, United States",
    "posted_at": "2026-09-30T18:29:11+00:00",
    "posted_history": [
     "2026-09-30T18:29:11+00:00"
@@ -3120,7 +3124,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8863314002"
   },
   "8864819002": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3135,7 +3139,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8864819002"
   },
   "8864903002": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3251,7 +3255,7 @@
     "2026-10-08T14:40:23+00:00"
    ],
    "reopened": 0,
-   "title": "Recruiter, R&D",
+   "title": "Recruiter, R&D (EMEA)",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8869167002"
   },
   "8871274002": {
@@ -3274,8 +3278,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior cx platform engineer @ remote, canada; remote, united states",
-   "location": "Remote, Canada; Remote, United States",
+   "fp": "senior cx platform engineer @ remote, united states",
+   "location": "Remote, United States",
    "posted_at": "2026-10-07T16:49:26+00:00",
    "posted_history": [
     "2026-10-07T16:49:26+00:00"
@@ -4080,7 +4084,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8894806002"
   },
   "8895451002": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
@@ -4453,6 +4457,21 @@
    "reopened": 0,
    "title": "Fullstack Engineer, Source Code: Repository Services (Ruby)",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8912709002"
+  },
+  "8912848002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "recruiter r d @ remote, canada; remote, united states",
+   "location": "Remote, Canada; Remote, United States",
+   "posted_at": "2026-11-03T20:47:43+00:00",
+   "posted_history": [
+    "2026-11-03T20:47:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Recruiter, R&D (AMER)",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8912848002"
   },
   "8912969002": {
    "closed_at": null,
@@ -4924,8 +4943,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-14T10:56:25+00:00",
-   "fp": "renewals manager italy spain @ remote ireland",
-   "location": "Remote Ireland",
+   "fp": "renewals manager italy spain @ remote ireland; remote, france; remote, germany; remote, italy; remote, spain; remote, united kingdom",
+   "location": "Remote Ireland; Remote, France; Remote, Germany; Remote, Italy; Remote, Spain; Remote, United Kingdom",
    "posted_at": "2026-11-13T13:11:49+00:00",
    "posted_history": [
     "2026-11-13T13:11:49+00:00"
@@ -5104,8 +5123,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",
-   "fp": "professional services program manager @ remote, canada; remote, united states",
-   "location": "Remote, Canada; Remote, United States",
+   "fp": "professional services program manager @ remote, united states",
+   "location": "Remote, United States",
    "posted_at": "2026-11-06T21:28:11+00:00",
    "posted_history": [
     "2026-11-06T21:28:11+00:00"
@@ -5134,14 +5153,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-05T11:30:12+00:00",
-   "fp": "senior renewals manager public sector @ remote, united states",
+   "fp": "renewals manager public sector @ remote, united states",
    "location": "Remote, United States",
    "posted_at": "2026-11-04T16:24:53+00:00",
    "posted_history": [
     "2026-11-04T16:24:53+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Renewals Manager, Public Sector",
+   "title": "Renewals Manager, Public Sector",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8929514002"
   },
   "8929723002": {
@@ -5224,8 +5243,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",
-   "fp": "customer success latam @ remote, united states",
-   "location": "Remote, United States",
+   "fp": "customer success latam @ remote, brazil; remote, mexico",
+   "location": "Remote, Brazil; Remote, Mexico",
    "posted_at": "2026-11-06T22:55:25+00:00",
    "posted_history": [
     "2026-11-06T22:55:25+00:00"
@@ -5344,8 +5363,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-11T11:27:30+00:00",
-   "fp": "principal revenue strategist @ remote, canada; remote, united states",
-   "location": "Remote, Canada; Remote, United States",
+   "fp": "principal revenue strategist @ remote, united states",
+   "location": "Remote, United States",
    "posted_at": "2026-11-10T20:29:27+00:00",
    "posted_history": [
     "2026-11-10T20:29:27+00:00"
@@ -5764,14 +5783,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-20T12:11:54+00:00",
-   "fp": "revenue operations manager @ remote, united states",
+   "fp": "revenue technology manager @ remote, united states",
    "location": "Remote, United States",
    "posted_at": "2026-11-19T22:56:45+00:00",
    "posted_history": [
     "2026-11-19T22:56:45+00:00"
    ],
    "reopened": 0,
-   "title": "Revenue Operations Manager",
+   "title": "Revenue Technology Manager",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8945942002"
   },
   "8945990002": {
@@ -5848,6 +5867,81 @@
    "reopened": 0,
    "title": "New Business Account Executive - Nordics",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8949667002"
+  },
+  "8957054002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "professional services technical architect west @ remote, canada",
+   "location": "Remote, Canada",
+   "posted_at": "2026-11-20T18:54:40+00:00",
+   "posted_history": [
+    "2026-11-20T18:54:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Professional Services Technical Architect - West",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8957054002"
+  },
+  "8957066002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "senior cx platform engineer @ remote, canada",
+   "location": "Remote, Canada",
+   "posted_at": "2026-11-20T18:57:40+00:00",
+   "posted_history": [
+    "2026-11-20T18:57:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior CX Platform Engineer",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8957066002"
+  },
+  "8957093002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "professional services program manager @ remote, canada",
+   "location": "Remote, Canada",
+   "posted_at": "2026-11-20T19:05:59+00:00",
+   "posted_history": [
+    "2026-11-20T19:05:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Professional Services, Program Manager",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8957093002"
+  },
+  "8957097002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "senior solutions architect operations manager @ remote, canada",
+   "location": "Remote, Canada",
+   "posted_at": "2026-11-20T19:07:49+00:00",
+   "posted_history": [
+    "2026-11-20T19:07:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Solutions Architect Operations Manager",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8957097002"
+  },
+  "8957104002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "principal revenue strategist @ remote, canada",
+   "location": "Remote, Canada",
+   "posted_at": "2026-11-20T19:10:21+00:00",
+   "posted_history": [
+    "2026-11-20T19:10:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Revenue Strategist",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8957104002"
   }
  }
 }

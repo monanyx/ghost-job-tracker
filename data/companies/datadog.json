@@ -131,6 +131,10 @@
   {
    "date": "2026-11-20",
    "open": 382
+  },
+  {
+   "date": "2026-11-21",
+   "open": 382
   }
  ],
  "jobs": {
@@ -885,7 +889,7 @@
    "url": "https://careers.datadoghq.com/detail/7117086/?gh_jid=7117086"
   },
   "7128703": {
-   "closed_at": "2026-11-10T11:47:05+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -895,7 +899,7 @@
    "posted_history": [
     "2025-08-04T15:42:34+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Commercial Customer Success Manager (Key Accounts)",
    "url": "https://careers.datadoghq.com/detail/7128703/?gh_jid=7128703"
   },
@@ -5415,7 +5419,7 @@
    "url": "https://careers.datadoghq.com/detail/8204554/?gh_jid=8204554"
   },
   "8204629": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7875,7 +7879,7 @@
    "url": "https://careers.datadoghq.com/detail/8346056/?gh_jid=8346056"
   },
   "8346224": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-17T12:29:08+00:00",
@@ -8383,6 +8387,21 @@
    "reopened": 0,
    "title": "National Partner Manager",
    "url": "https://careers.datadoghq.com/detail/8402937/?gh_jid=8402937"
+  },
+  "8403219": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "manager commercial sales engineering @ boston, massachusetts, usa",
+   "location": "Boston, Massachusetts, USA",
+   "posted_at": "2026-11-20T16:36:41+00:00",
+   "posted_history": [
+    "2026-11-20T16:36:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager,  Commercial Sales Engineering",
+   "url": "https://careers.datadoghq.com/detail/8403219/?gh_jid=8403219"
   },
   "8404061": {
    "closed_at": null,

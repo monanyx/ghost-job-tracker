@@ -131,6 +131,10 @@
   {
    "date": "2026-11-20",
    "open": 201
+  },
+  {
+   "date": "2026-11-21",
+   "open": 202
   }
  ],
  "jobs": {
@@ -795,7 +799,7 @@
    "url": "https://careers.airbnb.com/positions/8000413?gh_jid=8000413"
   },
   "8014904": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-19T12:10:18+00:00",
@@ -885,7 +889,7 @@
    "url": "https://careers.airbnb.com/positions/8029984?gh_jid=8029984"
   },
   "8038161": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -949,8 +953,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior principal competitive intelligence @ united states",
-   "location": "United States ",
+   "fp": "senior principal competitive intelligence @ san francisco, united states",
+   "location": "San Francisco, United States ",
    "posted_at": "2026-07-09T16:51:34+00:00",
    "posted_history": [
     "2026-07-09T16:51:34+00:00"
@@ -960,7 +964,7 @@
    "url": "https://careers.airbnb.com/positions/8053756?gh_jid=8053756"
   },
   "8065789": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1590,7 +1594,7 @@
    "url": "https://careers.airbnb.com/positions/8163221?gh_jid=8163221"
   },
   "8165656": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-20T08:53:12+00:00",
@@ -2504,6 +2508,21 @@
    "title": "Senior Market Manager",
    "url": "https://careers.airbnb.com/positions/8259185?gh_jid=8259185"
   },
+  "8259224": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "quality assurance standards manager @ united states",
+   "location": "United States ",
+   "posted_at": "2026-10-06T19:33:56+00:00",
+   "posted_history": [
+    "2026-10-06T19:33:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Quality Assurance & Standards Manager",
+   "url": "https://careers.airbnb.com/positions/8259224?gh_jid=8259224"
+  },
   "8259504": {
    "closed_at": null,
    "department": "",
@@ -3244,8 +3263,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior manager content knowledge architecture @ california, united states, oregon, united states, washington, united states",
-   "location": "California, United States, Oregon, United States, Washington, United States",
+   "fp": "senior manager content knowledge architecture @ california, united states",
+   "location": "California, United States",
    "posted_at": "2026-10-19T15:40:20+00:00",
    "posted_history": [
     "2026-10-19T15:40:20+00:00"
@@ -3315,18 +3334,18 @@
    "url": "https://careers.airbnb.com/positions/8300839?gh_jid=8300839"
   },
   "8300926": {
-   "closed_at": "2026-10-23T08:50:35+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
-   "fp": "senior data engineer payments @ united states",
+   "fp": "senior data software engineer @ united states",
    "location": "United States",
    "posted_at": "2026-10-21T20:37:35+00:00",
    "posted_history": [
     "2026-10-21T20:37:35+00:00"
    ],
-   "reopened": 0,
-   "title": "Senior Data Engineer, Payments",
+   "reopened": 1,
+   "title": "Senior Data Software Engineer",
    "url": "https://careers.airbnb.com/positions/8300926?gh_jid=8300926"
   },
   "8301515": {
@@ -4394,6 +4413,21 @@
    "title": "Market Manager, Spain & Portugal",
    "url": "https://careers.airbnb.com/positions/8350117?gh_jid=8350117"
   },
+  "8350696": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "staff data scientist martech platform @ remote - usa",
+   "location": "Remote - USA",
+   "posted_at": "2026-11-20T17:32:18+00:00",
+   "posted_history": [
+    "2026-11-20T17:32:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Data Scientist - Martech Platform (ML/Algos)",
+   "url": "https://careers.airbnb.com/positions/8350696?gh_jid=8350696"
+  },
   "8351393": {
    "closed_at": "2026-11-16T12:03:27+00:00",
    "department": "",
@@ -4894,8 +4928,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-20T12:11:54+00:00",
-   "fp": "recruiter sales g a @ united states",
-   "location": "United States ",
+   "fp": "recruiter sales g a @ san francisco, united states",
+   "location": "San Francisco, United States ",
    "posted_at": "2026-11-19T17:11:12+00:00",
    "posted_history": [
     "2026-11-19T17:11:12+00:00"
@@ -5209,14 +5243,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-18T12:16:07+00:00",
-   "fp": "senior data engineer tech foundations @ us - remote",
+   "fp": "data engineer tech foundations @ us - remote",
    "location": "US - Remote",
    "posted_at": "2026-11-17T19:22:59+00:00",
    "posted_history": [
     "2026-11-17T19:22:59+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Data Engineer Tech Foundations",
+   "title": "Data Engineer Tech Foundations",
    "url": "https://careers.airbnb.com/positions/8396777?gh_jid=8396777"
   },
   "8397762": {
@@ -5235,7 +5269,7 @@
    "url": "https://careers.airbnb.com/positions/8397762?gh_jid=8397762"
   },
   "8400808": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-20T12:11:54+00:00",
@@ -5293,6 +5327,51 @@
    "reopened": 0,
    "title": "Senior Vendor Operations Manager",
    "url": "https://careers.airbnb.com/positions/8403001?gh_jid=8403001"
+  },
+  "8406316": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "lead counsel litigation @ san francisco, united states",
+   "location": "San Francisco, United States ",
+   "posted_at": "2026-11-20T16:50:11+00:00",
+   "posted_history": [
+    "2026-11-20T16:50:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Lead Counsel, Litigation",
+   "url": "https://careers.airbnb.com/positions/8406316?gh_jid=8406316"
+  },
+  "8406333": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "partnerships enablement intern @ paris, france",
+   "location": "Paris, France",
+   "posted_at": "2026-11-20T16:38:15+00:00",
+   "posted_history": [
+    "2026-11-20T16:38:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Partnerships Enablement Intern",
+   "url": "https://careers.airbnb.com/positions/8406333?gh_jid=8406333"
+  },
+  "8406371": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "senior software engineer partner integrations @ remote, usa",
+   "location": "Remote, USA ",
+   "posted_at": "2026-11-20T22:09:11+00:00",
+   "posted_history": [
+    "2026-11-20T22:09:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Partner Integrations",
+   "url": "https://careers.airbnb.com/positions/8406371?gh_jid=8406371"
   }
  }
 }

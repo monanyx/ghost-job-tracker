@@ -131,6 +131,10 @@
   {
    "date": "2026-11-20",
    "open": 249
+  },
+  {
+   "date": "2026-11-21",
+   "open": 249
   }
  ],
  "jobs": {
@@ -1230,7 +1234,7 @@
    "url": "https://www.brex.com/careers/8536760002?gh_jid=8536760002"
   },
   "8536968002": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1245,7 +1249,7 @@
    "url": "https://www.brex.com/careers/8536968002?gh_jid=8536968002"
   },
   "8536983002": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1260,7 +1264,7 @@
    "url": "https://www.brex.com/careers/8536983002?gh_jid=8536983002"
   },
   "8536985002": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1275,7 +1279,7 @@
    "url": "https://www.brex.com/careers/8536985002?gh_jid=8536985002"
   },
   "8536986002": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1290,7 +1294,7 @@
    "url": "https://www.brex.com/careers/8536986002?gh_jid=8536986002"
   },
   "8536988002": {
-   "closed_at": null,
+   "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5638,6 +5642,81 @@
    "reopened": 0,
    "title": "Screening & Transaction Monitoring Associate",
    "url": "https://www.brex.com/careers/8952012002?gh_jid=8952012002"
+  },
+  "8953051002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "risk counsel @ san francisco, california, united states",
+   "location": "San Francisco, California, United States",
+   "posted_at": "2026-11-20T20:20:48+00:00",
+   "posted_history": [
+    "2026-11-20T20:20:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "Risk Counsel",
+   "url": "https://www.brex.com/careers/8953051002?gh_jid=8953051002"
+  },
+  "8956699002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "account manager i @ new york, new york, united states",
+   "location": "New York, New York, United States",
+   "posted_at": "2026-11-20T16:40:52+00:00",
+   "posted_history": [
+    "2026-11-20T16:40:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Manager I",
+   "url": "https://www.brex.com/careers/8956699002?gh_jid=8956699002"
+  },
+  "8957150002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "corporate paralegal @ san francisco, california, united states",
+   "location": "San Francisco, California, United States",
+   "posted_at": "2026-11-20T20:00:33+00:00",
+   "posted_history": [
+    "2026-11-20T20:00:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Corporate Paralegal",
+   "url": "https://www.brex.com/careers/8957150002?gh_jid=8957150002"
+  },
+  "8957206002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "corporate paralegal @ new york, new york, united states",
+   "location": "New York, New York, United States",
+   "posted_at": "2026-11-20T20:00:35+00:00",
+   "posted_history": [
+    "2026-11-20T20:00:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Corporate Paralegal",
+   "url": "https://www.brex.com/careers/8957206002?gh_jid=8957206002"
+  },
+  "8957249002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-21T11:47:59+00:00",
+   "fp": "risk counsel @ new york, new york, united states",
+   "location": "New York, New York, United States",
+   "posted_at": "2026-11-20T20:20:49+00:00",
+   "posted_history": [
+    "2026-11-20T20:20:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Risk Counsel",
+   "url": "https://www.brex.com/careers/8957249002?gh_jid=8957249002"
   }
  }
 }
