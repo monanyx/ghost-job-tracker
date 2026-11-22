@@ -135,6 +135,10 @@
   {
    "date": "2026-11-21",
    "open": 503
+  },
+  {
+   "date": "2026-11-22",
+   "open": 504
   }
  ],
  "jobs": {
@@ -9992,6 +9996,21 @@
    "reopened": 0,
    "title": "Senior Commercial Account Executive (Los Angeles)",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8406159?gh_jid=8406159"
+  },
+  "8406944": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-22T11:59:27+00:00",
+   "fp": "senior platform engineer replicate @ in-office",
+   "location": "In-Office",
+   "posted_at": "2026-11-21T17:47:15+00:00",
+   "posted_history": [
+    "2026-11-21T17:47:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Platform Engineer, Replicate",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8406944?gh_jid=8406944"
   }
  }
 }

@@ -135,6 +135,10 @@
   {
    "date": "2026-11-21",
    "open": 122
+  },
+  {
+   "date": "2026-11-22",
+   "open": 122
   }
  ],
  "jobs": {
@@ -737,7 +741,7 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/2d0016e0-3cc2-4ec7-b164-bc2b83990fb6"
   },
   "2d7f9a7c-a9e6-4877-bb38-34e4d989054c": {
-   "closed_at": null,
+   "closed_at": "2026-11-22T11:59:27+00:00",
    "department": "Research & Research Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3479,17 +3483,18 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/f1427164-3037-47d1-a768-11cfb87953ae"
   },
   "f2bf078d-d104-4a7b-96fd-5187a550f4a0": {
-   "closed_at": "2026-11-13T11:35:01+00:00",
+   "closed_at": null,
    "department": "Operations",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
    "fp": "technical customer support specialist @ australia",
    "location": "Australia",
-   "posted_at": "2026-11-10T05:14:02+00:00",
+   "posted_at": "2026-11-22T08:33:38+00:00",
    "posted_history": [
-    "2026-11-10T05:14:02+00:00"
+    "2026-11-10T05:14:02+00:00",
+    "2026-11-22T08:33:38+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Technical Customer Support Specialist",
    "url": "https://jobs.ashbyhq.com/ElevenLabs/f2bf078d-d104-4a7b-96fd-5187a550f4a0"
   },

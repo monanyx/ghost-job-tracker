@@ -135,6 +135,10 @@
   {
    "date": "2026-11-21",
    "open": 3000
+  },
+  {
+   "date": "2026-11-22",
+   "open": 3000
   }
  ],
  "jobs": {
@@ -16594,7 +16598,7 @@
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000150288679"
   },
   "744000150292104": {
-   "closed_at": null,
+   "closed_at": "2026-11-22T11:59:27+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -77329,7 +77333,7 @@
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161290440"
   },
   "744000161291189": {
-   "closed_at": null,
+   "closed_at": "2026-11-22T11:59:27+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-13T11:35:01+00:00",
@@ -89582,6 +89586,36 @@
    "reopened": 0,
    "title": "Purchasing Quality Manager",
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162835320"
+  },
+  "744000163089999": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-22T11:59:27+00:00",
+   "fp": "dccc @ changzhou, jiangsu, china",
+   "location": "Changzhou, Jiangsu, China",
+   "posted_at": "2026-11-22T07:07:39+00:00",
+   "posted_history": [
+    "2026-11-22T07:07:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "液压系统工程师_DCCC",
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000163089999"
+  },
+  "744000163090169": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-22T11:59:27+00:00",
+   "fp": "in rbai software automation expert in @ bengaluru, ka, india",
+   "location": "Bengaluru, KA, India",
+   "posted_at": "2026-11-22T07:33:06+00:00",
+   "posted_history": [
+    "2026-11-22T07:33:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "IN_RBAI_Software Automation expert_IN",
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000163090169"
   }
  }
 }

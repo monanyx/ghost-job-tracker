@@ -135,6 +135,10 @@
   {
    "date": "2026-11-21",
    "open": 2821
+  },
+  {
+   "date": "2026-11-22",
+   "open": 2845
   }
  ],
  "jobs": {
@@ -54708,6 +54712,21 @@
    "title": "Superintelligence (SI) Engineer, Supercomputing, Special Programs - Top Secret Clearance",
    "url": "https://boards.greenhouse.io/spacex/jobs/8947472002?gh_jid=8947472002"
   },
+  "8947625002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-22T11:59:27+00:00",
+   "fp": "gnc engineer @ starbase, tx",
+   "location": "Starbase, TX",
+   "posted_at": "2026-11-21T21:51:52+00:00",
+   "posted_history": [
+    "2026-11-21T21:51:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "GNC Engineer (Starship)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8947625002?gh_jid=8947625002"
+  },
   "8947654002": {
    "closed_at": null,
    "department": "",
@@ -55323,6 +55342,36 @@
    "title": "Sourcing Specialist (Network Infrastructure)",
    "url": "https://boards.greenhouse.io/spacex/jobs/8949135002?gh_jid=8949135002"
   },
+  "8949186002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-22T11:59:27+00:00",
+   "fp": "sourcing manager @ austin, tx",
+   "location": "Austin, TX",
+   "posted_at": "2026-11-21T18:32:49+00:00",
+   "posted_history": [
+    "2026-11-21T18:32:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sourcing Manager (Compute Infrastructure)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8949186002?gh_jid=8949186002"
+  },
+  "8949190002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-22T11:59:27+00:00",
+   "fp": "sourcing manager @ bastrop, tx",
+   "location": "Bastrop, TX",
+   "posted_at": "2026-11-21T18:32:51+00:00",
+   "posted_history": [
+    "2026-11-21T18:32:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sourcing Manager (Compute Infrastructure)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8949190002?gh_jid=8949190002"
+  },
   "8949196002": {
    "closed_at": null,
    "department": "",
@@ -55337,6 +55386,21 @@
    "reopened": 0,
    "title": "Technical Trainer, Starlink Satellite Production",
    "url": "https://boards.greenhouse.io/spacex/jobs/8949196002?gh_jid=8949196002"
+  },
+  "8949272002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-22T11:59:27+00:00",
+   "fp": "sourcing manager @ bastrop, tx",
+   "location": "Bastrop, TX",
+   "posted_at": "2026-11-21T18:24:03+00:00",
+   "posted_history": [
+    "2026-11-21T18:24:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sourcing Manager (Network Infrastructure)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8949272002?gh_jid=8949272002"
   },
   "8949311002": {
    "closed_at": null,
@@ -56238,6 +56302,51 @@
    "title": "Mechanical Design Engineer (Starship Components)",
    "url": "https://boards.greenhouse.io/spacex/jobs/8952403002?gh_jid=8952403002"
   },
+  "8952834002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-22T11:59:27+00:00",
+   "fp": "critical lift technician transport @ starbase, tx",
+   "location": "Starbase, TX",
+   "posted_at": "2026-11-21T20:21:40+00:00",
+   "posted_history": [
+    "2026-11-21T20:21:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Critical Lift Technician - Transport (Starship)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8952834002?gh_jid=8952834002"
+  },
+  "8952875002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-22T11:59:27+00:00",
+   "fp": "spmt operator transport @ starbase, tx",
+   "location": "Starbase, TX",
+   "posted_at": "2026-11-21T20:21:42+00:00",
+   "posted_history": [
+    "2026-11-21T20:21:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "SPMT Operator - Transport (Starship)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8952875002?gh_jid=8952875002"
+  },
+  "8952902002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-22T11:59:27+00:00",
+   "fp": "critical lift transport engineer @ starbase, tx",
+   "location": "Starbase, TX",
+   "posted_at": "2026-11-21T20:16:29+00:00",
+   "posted_history": [
+    "2026-11-21T20:16:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Critical Lift & Transport Engineer (Starship)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8952902002?gh_jid=8952902002"
+  },
   "8952904002": {
    "closed_at": null,
    "department": "",
@@ -56703,6 +56812,96 @@
    "title": "Lead, Fulfillment Purchasing",
    "url": "https://boards.greenhouse.io/spacex/jobs/8957044002?gh_jid=8957044002"
   },
+  "8957169002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-22T11:59:27+00:00",
+   "fp": "supplier quality specialist @ bastrop, tx",
+   "location": "Bastrop, TX",
+   "posted_at": "2026-11-21T21:50:21+00:00",
+   "posted_history": [
+    "2026-11-21T21:50:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Supplier Quality Specialist (SpaceXSI)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8957169002?gh_jid=8957169002"
+  },
+  "8957211002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-22T11:59:27+00:00",
+   "fp": "sr sourcing specialist @ bastrop, tx",
+   "location": "Bastrop, TX",
+   "posted_at": "2026-11-21T21:53:09+00:00",
+   "posted_history": [
+    "2026-11-21T21:53:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Sourcing Specialist (Network Infrastructure)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8957211002?gh_jid=8957211002"
+  },
+  "8957217002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-22T11:59:27+00:00",
+   "fp": "sr sourcing specialist @ bastrop, tx",
+   "location": "Bastrop, TX",
+   "posted_at": "2026-11-21T20:03:03+00:00",
+   "posted_history": [
+    "2026-11-21T20:03:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Sourcing Specialist (Compute Infrastructure)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8957217002?gh_jid=8957217002"
+  },
+  "8957226002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-22T11:59:27+00:00",
+   "fp": "sr sourcing specialist @ austin, tx",
+   "location": "Austin, TX",
+   "posted_at": "2026-11-21T21:53:11+00:00",
+   "posted_history": [
+    "2026-11-21T21:53:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Sourcing Specialist (Network Infrastructure)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8957226002?gh_jid=8957226002"
+  },
+  "8957229002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-22T11:59:27+00:00",
+   "fp": "sr sourcing specialist @ austin, tx",
+   "location": "Austin, TX",
+   "posted_at": "2026-11-21T20:03:05+00:00",
+   "posted_history": [
+    "2026-11-21T20:03:05+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Sourcing Specialist (Compute Infrastructure)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8957229002?gh_jid=8957229002"
+  },
+  "8957252002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-22T11:59:27+00:00",
+   "fp": "sourcing manager @ austin, tx",
+   "location": "Austin, TX",
+   "posted_at": "2026-11-21T18:24:05+00:00",
+   "posted_history": [
+    "2026-11-21T18:24:05+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sourcing Manager (Network Infrastructure)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8957252002?gh_jid=8957252002"
+  },
   "8957263002": {
    "closed_at": null,
    "department": "",
@@ -56717,6 +56916,51 @@
    "reopened": 0,
    "title": "Supplier Development Engineer, Mechanical (Starlink)",
    "url": "https://boards.greenhouse.io/spacex/jobs/8957263002?gh_jid=8957263002"
+  },
+  "8957350002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-22T11:59:27+00:00",
+   "fp": "sr manager supply chain @ bastrop, tx",
+   "location": "Bastrop, TX",
+   "posted_at": "2026-11-21T20:15:18+00:00",
+   "posted_history": [
+    "2026-11-21T20:15:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Manager, Supply Chain (Network Infrastructure)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8957350002?gh_jid=8957350002"
+  },
+  "8957359002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-22T11:59:27+00:00",
+   "fp": "sr manager supply chain @ austin, tx",
+   "location": "Austin, TX",
+   "posted_at": "2026-11-21T20:15:19+00:00",
+   "posted_history": [
+    "2026-11-21T20:15:19+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Manager, Supply Chain (Network Infrastructure)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8957359002?gh_jid=8957359002"
+  },
+  "8957360002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-22T11:59:27+00:00",
+   "fp": "sr manager supply chain @ palo alto, ca",
+   "location": "Palo Alto, CA",
+   "posted_at": "2026-11-21T20:15:22+00:00",
+   "posted_history": [
+    "2026-11-21T20:15:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Manager, Supply Chain (Network Infrastructure)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8957360002?gh_jid=8957360002"
   },
   "8957363002": {
    "closed_at": null,
@@ -56837,6 +57081,126 @@
    "reopened": 0,
    "title": "IT Support Technician (Help Desk)",
    "url": "https://boards.greenhouse.io/spacex/jobs/8957538002?gh_jid=8957538002"
+  },
+  "8957582002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-22T11:59:27+00:00",
+   "fp": "sr design reliability engineer @ hawthorne, ca",
+   "location": "Hawthorne, CA",
+   "posted_at": "2026-11-21T17:20:17+00:00",
+   "posted_history": [
+    "2026-11-21T17:20:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Design Reliability Engineer (Falcon & Dragon)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8957582002?gh_jid=8957582002"
+  },
+  "8957661002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-22T11:59:27+00:00",
+   "fp": "supplier development engineer electrical @ bastrop, tx",
+   "location": "Bastrop, TX",
+   "posted_at": "2026-11-21T19:09:41+00:00",
+   "posted_history": [
+    "2026-11-21T19:09:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Supplier Development Engineer, Electrical (SpaceXSI)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8957661002?gh_jid=8957661002"
+  },
+  "8957866002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-22T11:59:27+00:00",
+   "fp": "electrical systems engineer @ hawthorne, ca",
+   "location": "Hawthorne, CA",
+   "posted_at": "2026-11-21T17:23:25+00:00",
+   "posted_history": [
+    "2026-11-21T17:23:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Electrical Systems Engineer (Falcon & Dragon)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8957866002?gh_jid=8957866002"
+  },
+  "8957867002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-22T11:59:27+00:00",
+   "fp": "electrical systems engineer @ hawthorne, ca",
+   "location": "Hawthorne, CA",
+   "posted_at": "2026-11-21T17:25:41+00:00",
+   "posted_history": [
+    "2026-11-21T17:25:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Electrical Systems Engineer (Special Programs)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8957867002?gh_jid=8957867002"
+  },
+  "8957868002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-22T11:59:27+00:00",
+   "fp": "sr avionics systems engineer @ hawthorne, ca",
+   "location": "Hawthorne, CA",
+   "posted_at": "2026-11-21T18:09:30+00:00",
+   "posted_history": [
+    "2026-11-21T18:09:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Avionics Systems Engineer (Falcon & Dragon)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8957868002?gh_jid=8957868002"
+  },
+  "8957870002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-22T11:59:27+00:00",
+   "fp": "sr electrical systems engineer @ hawthorne, ca",
+   "location": "Hawthorne, CA",
+   "posted_at": "2026-11-21T18:09:32+00:00",
+   "posted_history": [
+    "2026-11-21T18:09:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Electrical Systems Engineer (Falcon & Dragon)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8957870002?gh_jid=8957870002"
+  },
+  "8957873002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-22T11:59:27+00:00",
+   "fp": "new graduate engineer electrical @ hawthorne, ca",
+   "location": "Hawthorne, CA",
+   "posted_at": "2026-11-21T18:20:10+00:00",
+   "posted_history": [
+    "2026-11-21T18:20:10+00:00"
+   ],
+   "reopened": 0,
+   "title": "New Graduate Engineer, Electrical (Starfall)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8957873002?gh_jid=8957873002"
+  },
+  "8957885002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-22T11:59:27+00:00",
+   "fp": "electrical design engineer @ hawthorne, ca",
+   "location": "Hawthorne, CA",
+   "posted_at": "2026-11-21T18:29:46+00:00",
+   "posted_history": [
+    "2026-11-21T18:29:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "Electrical Design Engineer (Starfall Avionics)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8957885002?gh_jid=8957885002"
   }
  }
 }

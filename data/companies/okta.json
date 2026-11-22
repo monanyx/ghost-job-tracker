@@ -135,6 +135,10 @@
   {
    "date": "2026-11-21",
    "open": 372
+  },
+  {
+   "date": "2026-11-22",
+   "open": 374
   }
  ],
  "jobs": {
@@ -2348,8 +2352,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "staff product security engineer psirt @ barcelona, spain",
-   "location": "Barcelona, Spain",
+   "fp": "staff product security engineer psirt @ dublin",
+   "location": "Dublin",
    "posted_at": "2026-07-29T19:02:16+00:00",
    "posted_history": [
     "2026-07-29T19:02:16+00:00"
@@ -8388,6 +8392,21 @@
    "title": "Staff Software Engineer",
    "url": "https://www.okta.com/company/careers/opportunity/8359871?gh_jid=8359871"
   },
+  "8360107": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-22T11:59:27+00:00",
+   "fp": "senior engineer core service interfaces @ dublin",
+   "location": "Dublin",
+   "posted_at": "2026-11-22T08:57:24+00:00",
+   "posted_history": [
+    "2026-11-22T08:57:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Engineer, Core Service Interfaces (Auth0)",
+   "url": "https://www.okta.com/company/careers/opportunity/8360107?gh_jid=8360107"
+  },
   "8360154": {
    "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
@@ -8479,17 +8498,17 @@
    "url": "https://www.okta.com/company/careers/opportunity/8378013?gh_jid=8378013"
   },
   "8382952": {
-   "closed_at": "2026-11-19T12:10:18+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-16T12:03:27+00:00",
-   "fp": "senior software engineer core identity @ dublin, ireland",
-   "location": "Dublin, Ireland",
+   "fp": "senior software engineer core identity @ dublin",
+   "location": "Dublin",
    "posted_at": "2026-11-16T10:53:18+00:00",
    "posted_history": [
     "2026-11-16T10:53:18+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Software Engineer - Core Identity (Auth0)",
    "url": "https://www.okta.com/company/careers/opportunity/8382952?gh_jid=8382952"
   },
