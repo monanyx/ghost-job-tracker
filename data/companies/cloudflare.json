@@ -139,6 +139,10 @@
   {
    "date": "2026-11-22",
    "open": 504
+  },
+  {
+   "date": "2026-11-23",
+   "open": 503
   }
  ],
  "jobs": {
@@ -291,6 +295,21 @@
    "reopened": 0,
    "title": "Staff/Principal Software Engineer - Security Platform",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/7053411?gh_jid=7053411"
+  },
+  "7058588": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-23T13:40:09+00:00",
+   "fp": "senior administrative assistant @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2025-07-11T13:08:56+00:00",
+   "posted_history": [
+    "2025-07-11T13:08:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Administrative Assistant",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/7058588?gh_jid=7058588"
   },
   "7093840": {
    "closed_at": null,
@@ -3578,7 +3597,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8158617?gh_jid=8158617"
   },
   "8158620": {
-   "closed_at": null,
+   "closed_at": "2026-11-23T13:40:09+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5318,7 +5337,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8220060?gh_jid=8220060"
   },
   "8220063": {
-   "closed_at": null,
+   "closed_at": "2026-11-23T13:40:09+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7178,7 +7197,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8280109?gh_jid=8280109"
   },
   "8281074": {
-   "closed_at": null,
+   "closed_at": "2026-11-23T13:40:09+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -8483,7 +8502,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8336559?gh_jid=8336559"
   },
   "8336674": {
-   "closed_at": null,
+   "closed_at": "2026-11-23T13:40:09+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-02T11:41:30+00:00",
@@ -8708,18 +8727,18 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8354632?gh_jid=8354632"
   },
   "8354678": {
-   "closed_at": "2026-11-20T12:11:54+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-05T11:30:12+00:00",
-   "fp": "hr operations specialist singapore @ hybrid",
+   "fp": "hr operations specialist tokyo @ hybrid",
    "location": "Hybrid",
    "posted_at": "2026-11-05T03:33:00+00:00",
    "posted_history": [
     "2026-11-05T03:33:00+00:00"
    ],
-   "reopened": 0,
-   "title": "HR Operations Specialist, Singapore (12-months contract)",
+   "reopened": 1,
+   "title": "HR Operations Specialist, Tokyo (12-months contract)",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8354678?gh_jid=8354678"
   },
   "8354680": {
@@ -9651,6 +9670,21 @@
    "reopened": 0,
    "title": "Senior Customer Engineer, Digital Native Start ups",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8395705?gh_jid=8395705"
+  },
+  "8397865": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-23T13:40:09+00:00",
+   "fp": "senior software engineer cloudforce one @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-23T13:11:36+00:00",
+   "posted_history": [
+    "2026-11-23T13:11:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer (Threat Intelligence), Cloudforce One",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8397865?gh_jid=8397865"
   },
   "8398448": {
    "closed_at": null,

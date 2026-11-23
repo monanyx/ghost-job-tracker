@@ -139,6 +139,10 @@
   {
    "date": "2026-11-22",
    "open": 390
+  },
+  {
+   "date": "2026-11-23",
+   "open": 392
   }
  ],
  "jobs": {
@@ -519,7 +523,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/0c5471bf-f296-4eaa-8f8b-700296387157"
   },
   "0cc0c934-ce13-483b-8a11-99583d7908a1": {
-   "closed_at": null,
+   "closed_at": "2026-11-23T13:40:09+00:00",
    "department": "Go to Market",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1307,6 +1311,21 @@
    "reopened": 0,
    "title": "Research Engineer, Infrastructure",
    "url": "https://jobs.ashbyhq.com/harvey/264aac9e-3f8d-402f-a33b-04d2fe1e16be"
+  },
+  "26505be6-e912-4f87-80a8-7f505ecf0593": {
+   "closed_at": null,
+   "department": "Go to Market",
+   "evergreen": false,
+   "first_seen": "2026-11-23T13:40:09+00:00",
+   "fp": "legal engineer @ são paulo",
+   "location": "São Paulo",
+   "posted_at": "2026-11-23T11:00:24+00:00",
+   "posted_history": [
+    "2026-11-23T11:00:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Legal Engineer",
+   "url": "https://jobs.ashbyhq.com/harvey/26505be6-e912-4f87-80a8-7f505ecf0593"
   },
   "26b1c092-b466-47b6-9493-402eed406b7a": {
    "closed_at": "2026-11-06T11:30:42+00:00",
@@ -2098,15 +2117,16 @@
    "department": "Go to Market",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "legal engineer @ london",
+   "fp": "legal engineer emea @ london",
    "location": "London",
-   "posted_at": "2026-10-27T15:38:00+00:00",
+   "posted_at": "2026-11-23T12:21:25+00:00",
    "posted_history": [
     "2026-10-07T15:00:03+00:00",
-    "2026-10-27T15:38:00+00:00"
+    "2026-10-27T15:38:00+00:00",
+    "2026-11-23T12:21:25+00:00"
    ],
    "reopened": 0,
-   "title": "Legal Engineer (Funds)",
+   "title": "Legal Engineer, (In-house or Funds), EMEA",
    "url": "https://jobs.ashbyhq.com/harvey/4154ddf4-99e3-4863-9509-826a6faddeea"
   },
   "4167f471-715b-413b-86c5-0596aae42eb8": {
@@ -5671,6 +5691,21 @@
    "title": "Lead Product Owner, Finance Applications",
    "url": "https://jobs.ashbyhq.com/harvey/b09bcd2f-cf92-49d7-a23b-c5051ae5f40d"
   },
+  "b0a2362b-7919-404b-8761-d76b2462ec55": {
+   "closed_at": null,
+   "department": "Go to Market",
+   "evergreen": false,
+   "first_seen": "2026-11-23T13:40:09+00:00",
+   "fp": "account executive enterprise @ são paulo",
+   "location": "São Paulo",
+   "posted_at": "2026-11-23T11:00:36+00:00",
+   "posted_history": [
+    "2026-11-23T11:00:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, Enterprise",
+   "url": "https://jobs.ashbyhq.com/harvey/b0a2362b-7919-404b-8761-d76b2462ec55"
+  },
   "b10f6bee-a93a-4dd9-9eca-ccef79c5d01b": {
    "closed_at": null,
    "department": "Marketing",
@@ -6672,6 +6707,21 @@
    "reopened": 0,
    "title": "Staff Product Security Engineer",
    "url": "https://jobs.ashbyhq.com/harvey/d2aaaa58-eb59-42ba-9a62-ca6ce4cdf206"
+  },
+  "d417b205-a4f2-40f7-bbb4-9e032ea912fd": {
+   "closed_at": null,
+   "department": "Customer Success",
+   "evergreen": false,
+   "first_seen": "2026-11-23T13:40:09+00:00",
+   "fp": "enterprise customer success manager @ são paulo",
+   "location": "São Paulo",
+   "posted_at": "2026-11-23T10:59:13+00:00",
+   "posted_history": [
+    "2026-11-23T10:59:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Customer Success Manager",
+   "url": "https://jobs.ashbyhq.com/harvey/d417b205-a4f2-40f7-bbb4-9e032ea912fd"
   },
   "d527a336-24e3-46ef-8d05-1da557c7bff4": {
    "closed_at": null,

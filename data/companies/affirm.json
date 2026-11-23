@@ -139,6 +139,10 @@
   {
    "date": "2026-11-22",
    "open": 222
+  },
+  {
+   "date": "2026-11-23",
+   "open": 219
   }
  ],
  "jobs": {
@@ -788,7 +792,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7804955003"
   },
   "7806679003": {
-   "closed_at": null,
+   "closed_at": "2026-11-23T13:40:09+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -803,7 +807,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7806679003"
   },
   "7806681003": {
-   "closed_at": null,
+   "closed_at": "2026-11-23T13:40:09+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1628,7 +1632,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7850550003"
   },
   "7854835003": {
-   "closed_at": null,
+   "closed_at": "2026-11-23T13:40:09+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5032,6 +5036,21 @@
    "title": "Senior Sales Engineer",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8201457003"
   },
+  "8201459003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-23T13:40:09+00:00",
+   "fp": "senior software engineer back end @ remote poland",
+   "location": "Remote Poland",
+   "posted_at": "2026-11-23T11:09:59+00:00",
+   "posted_history": [
+    "2026-11-23T11:09:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Back-end (Fraud)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8201459003"
+  },
   "8201463003": {
    "closed_at": null,
    "department": "",
@@ -5108,7 +5127,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8201566003"
   },
   "8202545003": {
-   "closed_at": null,
+   "closed_at": "2026-11-23T13:40:09+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-13T11:35:01+00:00",
@@ -5123,7 +5142,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8202545003"
   },
   "8202548003": {
-   "closed_at": null,
+   "closed_at": "2026-11-23T13:40:09+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-13T11:35:01+00:00",
@@ -5271,6 +5290,21 @@
    "reopened": 0,
    "title": "Software Engineer II, Backend",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8207671003"
+  },
+  "8213907003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-23T13:40:09+00:00",
+   "fp": "senior software engineer back end @ remote spain",
+   "location": "Remote Spain",
+   "posted_at": "2026-11-23T11:12:26+00:00",
+   "posted_history": [
+    "2026-11-23T11:12:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Back-end, (Fraud)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8213907003"
   }
  }
 }

@@ -139,6 +139,10 @@
   {
    "date": "2026-11-22",
    "open": 777
+  },
+  {
+   "date": "2026-11-23",
+   "open": 777
   }
  ],
  "jobs": {
@@ -3218,18 +3222,18 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8042913"
   },
   "8043052": {
-   "closed_at": "2026-11-19T12:10:18+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-16T12:03:27+00:00",
-   "fp": "data scientist global growth @ singapore",
+   "fp": "data scientist @ singapore",
    "location": "Singapore",
    "posted_at": "2026-07-09T03:44:22+00:00",
    "posted_history": [
     "2026-07-09T03:44:22+00:00"
    ],
-   "reopened": 0,
-   "title": "Data Scientist, Global Growth",
+   "reopened": 1,
+   "title": "Data Scientist",
    "url": "https://stripe.com/jobs/search?gh_jid=8043052"
   },
   "8043083": {
@@ -3353,7 +3357,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8048193"
   },
   "8048266": {
-   "closed_at": "2026-11-18T12:16:07+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
@@ -3363,7 +3367,7 @@
    "posted_history": [
     "2026-07-08T09:08:02+00:00"
    ],
-   "reopened": 1,
+   "reopened": 2,
    "title": "Sales Development Representative",
    "url": "https://stripe.com/jobs/search?gh_jid=8048266"
   },
@@ -4388,7 +4392,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8107136"
   },
   "8108391": {
-   "closed_at": null,
+   "closed_at": "2026-11-23T13:40:09+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-20T12:11:54+00:00",
@@ -5948,7 +5952,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8155386"
   },
   "8155390": {
-   "closed_at": null,
+   "closed_at": "2026-11-23T13:40:09+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -8738,7 +8742,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8201680"
   },
   "8201690": {
-   "closed_at": null,
+   "closed_at": "2026-11-23T13:40:09+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -8873,7 +8877,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8203649"
   },
   "8203653": {
-   "closed_at": "2026-10-28T10:01:46+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-26T09:22:13+00:00",
@@ -8883,7 +8887,7 @@
    "posted_history": [
     "2026-09-18T06:08:55+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Operations Program Manager",
    "url": "https://stripe.com/jobs/search?gh_jid=8203653"
   },
@@ -10092,18 +10096,18 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "legal operations team lead @ bengaluru",
+   "fp": "operations team lead @ bengaluru",
    "location": "Bengaluru",
    "posted_at": "2026-09-25T06:26:42+00:00",
    "posted_history": [
     "2026-09-25T06:26:42+00:00"
    ],
    "reopened": 1,
-   "title": "Legal Operations Team Lead",
+   "title": "Operations Team Lead (SDC)",
    "url": "https://stripe.com/jobs/search?gh_jid=8230294"
   },
   "8230296": {
-   "closed_at": null,
+   "closed_at": "2026-11-23T13:40:09+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -11948,7 +11952,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8267851"
   },
   "8267857": {
-   "closed_at": null,
+   "closed_at": "2026-11-23T13:40:09+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -16416,6 +16420,36 @@
    "reopened": 0,
    "title": "Product Manager, Payment Methods, EMEA",
    "url": "https://stripe.com/jobs/search?gh_jid=8406995"
+  },
+  "8407180": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-23T13:40:09+00:00",
+   "fp": "engineering manager developer tooling @ dublin",
+   "location": "Dublin ",
+   "posted_at": "2026-11-22T20:55:37+00:00",
+   "posted_history": [
+    "2026-11-22T20:55:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager - Developer Tooling",
+   "url": "https://stripe.com/jobs/search?gh_jid=8407180"
+  },
+  "8411021": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-23T13:40:09+00:00",
+   "fp": "account executive commercial scaled grower @ dublin",
+   "location": "Dublin",
+   "posted_at": "2026-11-23T10:29:30+00:00",
+   "posted_history": [
+    "2026-11-23T10:29:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, Commercial Scaled Grower",
+   "url": "https://stripe.com/jobs/search?gh_jid=8411021"
   }
  }
 }

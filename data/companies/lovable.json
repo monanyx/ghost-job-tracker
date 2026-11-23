@@ -139,6 +139,10 @@
   {
    "date": "2026-11-22",
    "open": 78
+  },
+  {
+   "date": "2026-11-23",
+   "open": 79
   }
  ],
  "jobs": {
@@ -267,14 +271,14 @@
    "department": "EPD",
    "evergreen": false,
    "first_seen": "2026-11-12T11:51:19+00:00",
-   "fp": "global payments partner lead @ london",
+   "fp": "head of payments @ london",
    "location": "London",
    "posted_at": "2026-11-12T10:26:46+00:00",
    "posted_history": [
     "2026-11-12T10:26:46+00:00"
    ],
    "reopened": 0,
-   "title": "Global Payments Partner Lead",
+   "title": "Head of Payments",
    "url": "https://jobs.ashbyhq.com/lovable/1340bc94-1c11-459b-9e0f-481d5f3a588d"
   },
   "13c2f37b-a60c-4601-993b-88baac9cbdfc": {
@@ -713,6 +717,21 @@
    "reopened": 0,
    "title": "Analytics Engineer",
    "url": "https://jobs.ashbyhq.com/lovable/69c3e92a-1bff-498b-9cda-a78e267030ad"
+  },
+  "6cda61dd-7c40-453e-9f75-7fd199c06f02": {
+   "closed_at": null,
+   "department": "EPD",
+   "evergreen": false,
+   "first_seen": "2026-11-23T13:40:09+00:00",
+   "fp": "senior security engineer cloud @ stockholm",
+   "location": "Stockholm",
+   "posted_at": "2026-11-23T10:10:10+00:00",
+   "posted_history": [
+    "2026-11-23T10:10:10+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Security Engineer, Cloud",
+   "url": "https://jobs.ashbyhq.com/lovable/6cda61dd-7c40-453e-9f75-7fd199c06f02"
   },
   "70a219dc-435d-435e-bc82-d38531b0513c": {
    "closed_at": null,

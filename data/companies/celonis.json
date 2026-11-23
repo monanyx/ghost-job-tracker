@@ -139,6 +139,10 @@
   {
    "date": "2026-11-22",
    "open": 265
+  },
+  {
+   "date": "2026-11-23",
+   "open": 264
   }
  ],
  "jobs": {
@@ -1178,7 +1182,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7775183003?gh_jid=7775183003"
   },
   "7777102003": {
-   "closed_at": null,
+   "closed_at": "2026-11-23T13:40:09+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -1342,8 +1346,23 @@
    "title": "Senior Software Engineer",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7791303003?gh_jid=7791303003"
   },
-  "7791347003": {
+  "7791343003": {
    "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-23T13:40:09+00:00",
+   "fp": "staff software engineer @ bangalore, india",
+   "location": "Bangalore, India",
+   "posted_at": "2026-11-23T04:21:03+00:00",
+   "posted_history": [
+    "2026-11-23T04:21:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/7791343003?gh_jid=7791343003"
+  },
+  "7791347003": {
+   "closed_at": "2026-11-23T13:40:09+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-22T11:59:27+00:00",

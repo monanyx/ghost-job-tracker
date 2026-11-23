@@ -139,6 +139,10 @@
   {
    "date": "2026-11-22",
    "open": 895
+  },
+  {
+   "date": "2026-11-23",
+   "open": 891
   }
  ],
  "jobs": {
@@ -3848,7 +3852,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8407875002"
   },
   "8407895002": {
-   "closed_at": null,
+   "closed_at": "2026-11-23T13:40:09+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4388,7 +4392,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8440922002"
   },
   "8440940002": {
-   "closed_at": null,
+   "closed_at": "2026-11-23T13:40:09+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7628,7 +7632,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8596447002"
   },
   "8598531002": {
-   "closed_at": null,
+   "closed_at": "2026-11-23T13:40:09+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -8633,7 +8637,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8638637002"
   },
   "8638642002": {
-   "closed_at": null,
+   "closed_at": "2026-11-23T13:40:09+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -14213,7 +14217,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8876675002"
   },
   "8876680002": {
-   "closed_at": null,
+   "closed_at": "2026-11-23T13:40:09+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -14333,7 +14337,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8879335002"
   },
   "8879338002": {
-   "closed_at": null,
+   "closed_at": "2026-11-23T13:40:09+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
@@ -15608,7 +15612,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8907735002"
   },
   "8907988002": {
-   "closed_at": "2026-11-17T12:29:08+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
@@ -15618,7 +15622,7 @@
    "posted_history": [
     "2026-10-22T13:31:19+00:00"
    ],
-   "reopened": 1,
+   "reopened": 2,
    "title": "Associate Forward Deployed Engineer",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8907988002"
   },
@@ -15728,7 +15732,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8910842002"
   },
   "8910846002": {
-   "closed_at": "2026-11-17T12:29:08+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
@@ -15738,7 +15742,7 @@
    "posted_history": [
     "2026-10-23T15:19:31+00:00"
    ],
-   "reopened": 1,
+   "reopened": 2,
    "title": "Associate Forward Deployed Engineer",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8910846002"
   },
@@ -15874,7 +15878,7 @@
     "2026-10-26T18:04:09+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Forward Deployed Engineer (Full Stack Engineers)",
+   "title": "Senior Forward Deployed Engineer (Full Stack Engineer)",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8916552002"
   },
   "8917482002": {

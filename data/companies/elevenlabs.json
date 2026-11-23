@@ -139,6 +139,10 @@
   {
    "date": "2026-11-22",
    "open": 122
+  },
+  {
+   "date": "2026-11-23",
+   "open": 123
   }
  ],
  "jobs": {
@@ -634,19 +638,20 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/275f43d0-b62d-401d-830c-7c1ac0e688aa"
   },
   "277de6ad-3db5-4b96-afb5-cec3d797e788": {
-   "closed_at": "2026-11-06T11:30:42+00:00",
+   "closed_at": null,
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
    "fp": "enterprise account executive india @ india",
    "location": "India",
-   "posted_at": "2026-10-21T09:15:02+00:00",
+   "posted_at": "2026-11-23T06:21:37+00:00",
    "posted_history": [
-    "2026-10-21T09:15:02+00:00"
+    "2026-10-21T09:15:02+00:00",
+    "2026-11-23T06:21:37+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Enterprise Account Executive - India",
-   "url": "https://jobs.ashbyhq.com/elevenlabs/277de6ad-3db5-4b96-afb5-cec3d797e788"
+   "url": "https://jobs.ashbyhq.com/ElevenLabs/277de6ad-3db5-4b96-afb5-cec3d797e788"
   },
   "27e92957-374f-409a-b787-166b10e0f042": {
    "closed_at": null,
@@ -1652,17 +1657,18 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/75f7890c-2d11-4c18-a95f-03ef85e6bd15"
   },
   "7758cdc5-b5c9-4a5c-8c80-11678f7cba9d": {
-   "closed_at": "2026-11-20T12:11:54+00:00",
+   "closed_at": null,
    "department": "Engineering & Product",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",
    "fp": "deployment strategist public sector north america @ united states",
    "location": "United States",
-   "posted_at": "2026-11-06T22:37:16+00:00",
+   "posted_at": "2026-11-22T20:50:48+00:00",
    "posted_history": [
-    "2026-11-06T22:37:16+00:00"
+    "2026-11-06T22:37:16+00:00",
+    "2026-11-22T20:50:48+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Deployment Strategist, Public Sector (Federal & SLED) - North America",
    "url": "https://jobs.ashbyhq.com/ElevenLabs/7758cdc5-b5c9-4a5c-8c80-11678f7cba9d"
   },
@@ -3269,7 +3275,7 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/e7b83599-1b70-4830-85da-7132b99a3b57"
   },
   "e815e2a8-e3bd-4e41-bbc3-ebe57277927b": {
-   "closed_at": null,
+   "closed_at": "2026-11-23T13:40:09+00:00",
    "department": "Growth",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

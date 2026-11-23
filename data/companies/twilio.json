@@ -139,6 +139,10 @@
   {
    "date": "2026-11-22",
    "open": 109
+  },
+  {
+   "date": "2026-11-23",
+   "open": 109
   }
  ],
  "jobs": {
@@ -712,6 +716,21 @@
    "title": "Senior Software Engineer",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8065028"
   },
+  "8065032": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-23T13:40:09+00:00",
+   "fp": "software engineer @ remote - india",
+   "location": "Remote - India",
+   "posted_at": "2026-07-16T11:41:18+00:00",
+   "posted_history": [
+    "2026-07-16T11:41:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer (L3)",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8065032"
+  },
   "8065040": {
    "closed_at": "2026-11-13T11:35:01+00:00",
    "department": "",
@@ -923,7 +942,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8108776"
   },
   "8112239": {
-   "closed_at": null,
+   "closed_at": "2026-11-23T13:40:09+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-28T10:01:46+00:00",

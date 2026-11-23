@@ -139,6 +139,10 @@
   {
    "date": "2026-11-22",
    "open": 178
+  },
+  {
+   "date": "2026-11-23",
+   "open": 180
   }
  ],
  "jobs": {
@@ -1054,7 +1058,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/7538295"
   },
   "7547095": {
-   "closed_at": "2026-11-19T12:10:18+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1064,7 +1068,7 @@
    "posted_history": [
     "2026-04-30T07:21:33+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Support Team Lead",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/7547095"
   },
@@ -1774,7 +1778,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8045935"
   },
   "8050398": {
-   "closed_at": null,
+   "closed_at": "2026-11-23T13:40:09+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2239,7 +2243,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8141574"
   },
   "8143154": {
-   "closed_at": "2026-11-17T12:29:08+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2249,7 +2253,7 @@
    "posted_history": [
     "2026-08-20T07:01:09+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Sales Manager, Regional Enterprise",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8143154"
   },
@@ -2389,7 +2393,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8166702"
   },
   "8166865": {
-   "closed_at": null,
+   "closed_at": "2026-11-23T13:40:09+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2798,14 +2802,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior retail development manager @ almaty, kazakhstan",
+   "fp": "senior key account manager @ almaty, kazakhstan",
    "location": "Almaty, Kazakhstan",
    "posted_at": "2026-09-15T14:36:18+00:00",
    "posted_history": [
     "2026-09-15T14:36:18+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Retail Development Manager",
+   "title": "Senior Key Account Manager",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8203814"
   },
   "8203915": {
@@ -3019,18 +3023,18 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8223321"
   },
   "8230146": {
-   "closed_at": "2026-10-27T09:20:56+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "specialist catalog operations emea @ stockholm, sweden",
+   "fp": "senior specialist catalog operations emea @ stockholm, sweden",
    "location": "Stockholm, Sweden",
    "posted_at": "2026-09-24T14:08:46+00:00",
    "posted_history": [
     "2026-09-24T14:08:46+00:00"
    ],
-   "reopened": 0,
-   "title": "Specialist, Catalog Operations EMEA",
+   "reopened": 1,
+   "title": "Senior Specialist, Catalog Operations EMEA",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8230146"
   },
   "8230253": {
@@ -3468,6 +3472,21 @@
    "title": "Onboarding Team Lead",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8261974"
   },
+  "8262212": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-23T13:40:09+00:00",
+   "fp": "senior software engineer backend global marts @ helsinki, finland",
+   "location": "Helsinki, Finland",
+   "posted_at": "2026-11-22T19:34:52+00:00",
+   "posted_history": [
+    "2026-11-22T19:34:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Backend - Global Marts",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8262212"
+  },
   "8264306": {
    "closed_at": "2026-10-27T09:20:56+00:00",
    "department": "",
@@ -3664,7 +3683,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8286884"
   },
   "8289288": {
-   "closed_at": null,
+   "closed_at": "2026-11-23T13:40:09+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5057,6 +5076,21 @@
    "reopened": 0,
    "title": "Senior Manager, Revenue Operations, DashOS EMEA",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8406208"
+  },
+  "8411197": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-23T13:40:09+00:00",
+   "fp": "merchant operations associate @ copenhagen, denmark",
+   "location": "Copenhagen, Denmark",
+   "posted_at": "2026-11-23T13:35:43+00:00",
+   "posted_history": [
+    "2026-11-23T13:35:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Merchant Operations Associate",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8411197"
   }
  }
 }

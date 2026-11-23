@@ -139,6 +139,10 @@
   {
    "date": "2026-11-22",
    "open": 230
+  },
+  {
+   "date": "2026-11-23",
+   "open": 224
   }
  ],
  "jobs": {
@@ -2198,7 +2202,7 @@
    "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000151663459"
   },
   "744000151667559": {
-   "closed_at": null,
+   "closed_at": "2026-11-23T13:40:09+00:00",
    "department": "Ubisoft",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4808,7 +4812,7 @@
    "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000155979201"
   },
   "744000155981104": {
-   "closed_at": null,
+   "closed_at": "2026-11-23T13:40:09+00:00",
    "department": "Ubisoft",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6068,7 +6072,7 @@
    "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000158052630"
   },
   "744000158052749": {
-   "closed_at": null,
+   "closed_at": "2026-11-23T13:40:09+00:00",
    "department": "Ubisoft",
    "evergreen": false,
    "first_seen": "2026-10-28T10:01:46+00:00",
@@ -6668,7 +6672,7 @@
    "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000158491309"
   },
   "744000158509579": {
-   "closed_at": null,
+   "closed_at": "2026-11-23T13:40:09+00:00",
    "department": "Ubisoft",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -6698,7 +6702,7 @@
    "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000158509866"
   },
   "744000158509899": {
-   "closed_at": null,
+   "closed_at": "2026-11-23T13:40:09+00:00",
    "department": "Ubisoft",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -8258,7 +8262,7 @@
    "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000158789335"
   },
   "744000158789496": {
-   "closed_at": null,
+   "closed_at": "2026-11-23T13:40:09+00:00",
    "department": "Ubisoft",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
@@ -8468,7 +8472,7 @@
    "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000158796789"
   },
   "744000158805717": {
-   "closed_at": null,
+   "closed_at": "2026-11-23T13:40:09+00:00",
    "department": "Ubisoft",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
@@ -10133,7 +10137,7 @@
    "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000162496479"
   },
   "744000162505597": {
-   "closed_at": null,
+   "closed_at": "2026-11-23T13:40:09+00:00",
    "department": "Ubisoft",
    "evergreen": false,
    "first_seen": "2026-11-20T12:11:54+00:00",
@@ -10223,7 +10227,7 @@
    "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000162751576"
   },
   "744000162752327": {
-   "closed_at": null,
+   "closed_at": "2026-11-23T13:40:09+00:00",
    "department": "Ubisoft",
    "evergreen": false,
    "first_seen": "2026-11-21T11:47:59+00:00",
@@ -10326,6 +10330,51 @@
    "reopened": 0,
    "title": "Software Tester [Ubisoft Connect]",
    "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000162767793"
+  },
+  "744000163140529": {
+   "closed_at": null,
+   "department": "Ubisoft",
+   "evergreen": false,
+   "first_seen": "2026-11-23T13:40:09+00:00",
+   "fp": "junior 2d artist @ da nang, , vietnam",
+   "location": "Da Nang, , Vietnam",
+   "posted_at": "2026-11-23T05:13:25+00:00",
+   "posted_history": [
+    "2026-11-23T05:13:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Junior 2D Artist",
+   "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000163140529"
+  },
+  "744000163166571": {
+   "closed_at": null,
+   "department": "Ubisoft",
+   "evergreen": false,
+   "first_seen": "2026-11-23T13:40:09+00:00",
+   "fp": "full stack developer @ bucharest, bucharest, romania",
+   "location": "Bucharest, Bucharest, Romania",
+   "posted_at": "2026-11-23T09:25:11+00:00",
+   "posted_history": [
+    "2026-11-23T09:25:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Full Stack Developer (WordPress & PHP)",
+   "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000163166571"
+  },
+  "744000163191265": {
+   "closed_at": null,
+   "department": "Ubisoft",
+   "evergreen": false,
+   "first_seen": "2026-11-23T13:40:09+00:00",
+   "fp": "senior hr business partner @ bucharest, bucharest, romania",
+   "location": "Bucharest, Bucharest, Romania",
+   "posted_at": "2026-11-23T10:45:47+00:00",
+   "posted_history": [
+    "2026-11-23T10:45:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior HR Business Partner",
+   "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000163191265"
   }
  }
 }

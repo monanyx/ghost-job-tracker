@@ -139,6 +139,10 @@
   {
    "date": "2026-11-22",
    "open": 202
+  },
+  {
+   "date": "2026-11-23",
+   "open": 204
   }
  ],
  "jobs": {
@@ -848,7 +852,7 @@
    "url": "https://www.riotgames.com/en/work-with-us/job/7981543?gh_jid=7981543"
   },
   "7981585": {
-   "closed_at": null,
+   "closed_at": "2026-11-23T13:40:09+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3852,14 +3856,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-12T11:51:19+00:00",
-   "fp": "game product manager ii summoner s rift modes wild rift @ shanghai, china",
+   "fp": "game product manager summoner s rift modes wild rift @ shanghai, china",
    "location": "Shanghai, China",
    "posted_at": "2026-11-11T11:34:13+00:00",
    "posted_history": [
     "2026-11-11T11:34:13+00:00"
    ],
    "reopened": 0,
-   "title": "Game Product Manager II, Summoner's Rift & Modes - Wild Rift",
+   "title": "Game Product Manager, Summoner's Rift & Modes - Wild Rift",
    "url": "https://www.riotgames.com/en/work-with-us/job/8376240?gh_jid=8376240"
   },
   "8376279": {
@@ -3878,7 +3882,7 @@
    "url": "https://www.riotgames.com/en/work-with-us/job/8376279?gh_jid=8376279"
   },
   "8381955": {
-   "closed_at": "2026-11-19T12:10:18+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-13T11:35:01+00:00",
@@ -3888,7 +3892,7 @@
    "posted_history": [
     "2026-11-12T17:42:32+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Security Engineer, Security Operations",
    "url": "https://www.riotgames.com/en/work-with-us/job/8381955?gh_jid=8381955"
   },
@@ -4026,6 +4030,36 @@
    "reopened": 0,
    "title": "Brand Manager - VALORANT Mobile",
    "url": "https://www.riotgames.com/en/work-with-us/job/8394988?gh_jid=8394988"
+  },
+  "8397811": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-23T13:40:09+00:00",
+   "fp": "software engineer riot operations center @ dublin, ireland",
+   "location": "Dublin, Ireland",
+   "posted_at": "2026-11-23T12:54:51+00:00",
+   "posted_history": [
+    "2026-11-23T12:54:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer - Riot Operations Center (SRE)",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8397811?gh_jid=8397811"
+  },
+  "8406825": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-23T13:40:09+00:00",
+   "fp": "software engineering manager commerce dublin @ dublin, ireland",
+   "location": "Dublin, Ireland",
+   "posted_at": "2026-11-23T12:57:39+00:00",
+   "posted_history": [
+    "2026-11-23T12:57:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineering Manager - Commerce Dublin",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8406825?gh_jid=8406825"
   }
  }
 }
