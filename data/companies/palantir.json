@@ -143,6 +143,10 @@
   {
    "date": "2026-11-23",
    "open": 308
+  },
+  {
+   "date": "2026-11-24",
+   "open": 305
   }
  ],
  "jobs": {
@@ -927,7 +931,7 @@
    "url": "https://jobs.lever.co/palantir/2a41a2e2-55a4-4641-a3bf-101b7616dd63"
   },
   "2aa14e4f-d406-486e-9aa8-6ff3358d70a0": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "Delta",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1347,7 +1351,7 @@
    "url": "https://jobs.lever.co/palantir/38758e88-5884-4a11-98ac-d23cab51bc7a"
   },
   "395a4483-fc3d-4b77-a500-501923fd0976": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "Delta",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1872,7 +1876,7 @@
    "url": "https://jobs.lever.co/palantir/4cba9c95-d16f-440d-83e7-2352480f689f"
   },
   "4d29249a-d7e8-4c39-880d-3b35d7b2f6f6": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "Delta",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2022,7 +2026,7 @@
    "url": "https://jobs.lever.co/palantir/51ea4a3b-7764-4c87-96e4-310e19c856d5"
   },
   "53fb4c05-f949-4146-a046-5c063c36a628": {
-   "closed_at": "2026-10-23T08:50:35+00:00",
+   "closed_at": null,
    "department": "Delta",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2032,7 +2036,7 @@
    "posted_history": [
     "2026-06-29T11:38:59+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Forward Deployed Software Engineer - Spain",
    "url": "https://jobs.lever.co/palantir/53fb4c05-f949-4146-a046-5c063c36a628"
   },
@@ -4677,7 +4681,7 @@
    "url": "https://jobs.lever.co/palantir/d505f854-d339-448b-bf7e-46e2f32cff78"
   },
   "d5486403-c050-4920-b2e0-91b69b61ebb2": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "Delta",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

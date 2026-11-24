@@ -143,6 +143,10 @@
   {
    "date": "2026-11-23",
    "open": 149
+  },
+  {
+   "date": "2026-11-24",
+   "open": 147
   }
  ],
  "jobs": {
@@ -537,7 +541,7 @@
    "url": "https://job-boards.greenhouse.io/reddit/jobs/7954598"
   },
   "7957771": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1347,7 +1351,7 @@
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8125507"
   },
   "8125836": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2262,7 +2266,7 @@
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8243010"
   },
   "8244067": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3430,6 +3434,21 @@
    "reopened": 0,
    "title": "Staff Product Manager, Agentic Ads Buying",
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8407162"
+  },
+  "8411613": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "senior software engineer ai science platform @ remote - united states",
+   "location": "Remote - United States",
+   "posted_at": "2026-11-23T16:12:09+00:00",
+   "posted_history": [
+    "2026-11-23T16:12:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, AI & Science Platform",
+   "url": "https://job-boards.greenhouse.io/reddit/jobs/8411613"
   }
  }
 }

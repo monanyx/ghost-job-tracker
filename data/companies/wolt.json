@@ -143,6 +143,10 @@
   {
    "date": "2026-11-23",
    "open": 180
+  },
+  {
+   "date": "2026-11-24",
+   "open": 188
   }
  ],
  "jobs": {
@@ -2333,7 +2337,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8156313"
   },
   "8159098": {
-   "closed_at": "2026-11-10T11:47:05+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2343,7 +2347,7 @@
    "posted_history": [
     "2026-09-04T08:17:47+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Software Engineer",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8159098"
   },
@@ -2873,7 +2877,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8208017"
   },
   "8213982": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2933,18 +2937,18 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8220475"
   },
   "8221269": {
-   "closed_at": "2026-11-19T12:10:18+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "content training quality manager vendor merchant operations @ budapest, hungary",
+   "fp": "content training quality specialist @ budapest, hungary",
    "location": "Budapest, Hungary",
    "posted_at": "2026-09-25T10:45:03+00:00",
    "posted_history": [
     "2026-09-25T10:45:03+00:00"
    ],
-   "reopened": 1,
-   "title": "Content, Training & Quality Manager – Vendor & Merchant Operations",
+   "reopened": 2,
+   "title": "Content, Training & Quality Specialist",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8221269"
   },
   "8222879": {
@@ -3472,6 +3476,21 @@
    "title": "Onboarding Team Lead",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8261974"
   },
+  "8262171": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "senior mobile engineer ios new verticals emea @ helsinki, finland",
+   "location": "Helsinki, Finland",
+   "posted_at": "2026-11-23T16:15:28+00:00",
+   "posted_history": [
+    "2026-11-23T16:15:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Mobile Engineer, iOS - New Verticals EMEA",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8262171"
+  },
   "8262212": {
    "closed_at": null,
    "department": "",
@@ -3983,7 +4002,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8324867"
   },
   "8324981": {
-   "closed_at": "2026-11-19T12:10:18+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
@@ -3993,7 +4012,7 @@
    "posted_history": [
     "2026-10-27T06:02:35+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Head of Retail Scandinavia",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8324981"
   },
@@ -4238,7 +4257,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8334723"
   },
   "8336365": {
-   "closed_at": "2026-11-19T12:10:18+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -4248,7 +4267,7 @@
    "posted_history": [
     "2026-11-02T19:41:41+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Strategy & Business Operations Manager, Wolt Drive & Deliveroo Express",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8336365"
   },
@@ -4872,14 +4891,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-18T12:16:07+00:00",
-   "fp": "regional sales team lead @ cluj napoca, romania; sibiu, romania; timisoara, romania",
+   "fp": "regional sales team lead northern region @ cluj napoca, romania; sibiu, romania; timisoara, romania",
    "location": "Cluj Napoca, Romania; Sibiu, Romania; Timisoara, Romania",
    "posted_at": "2026-11-17T17:27:59+00:00",
    "posted_history": [
     "2026-11-17T17:27:59+00:00"
    ],
    "reopened": 0,
-   "title": "Regional Sales Team Lead",
+   "title": "Regional Sales Team Lead | Northern Region",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8395940"
   },
   "8396934": {
@@ -4941,6 +4960,21 @@
    "reopened": 0,
    "title": "Senior Data Scientist",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8398912"
+  },
+  "8400342": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "store manager @ birkirkara, malta",
+   "location": "Birkirkara, Malta",
+   "posted_at": "2026-11-20T11:43:27+00:00",
+   "posted_history": [
+    "2026-11-20T11:43:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Store Manager (WM)",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8400342"
   },
   "8400441": {
    "closed_at": "2026-11-22T11:59:27+00:00",
@@ -5077,6 +5111,21 @@
    "title": "Senior Manager, Revenue Operations, DashOS EMEA",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8406208"
   },
+  "8411193": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "merchant onboarding associate @ helsinki, finland",
+   "location": "Helsinki, Finland",
+   "posted_at": "2026-11-23T13:47:25+00:00",
+   "posted_history": [
+    "2026-11-23T13:47:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Merchant Onboarding Associate",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8411193"
+  },
   "8411197": {
    "closed_at": null,
    "department": "",
@@ -5091,6 +5140,36 @@
    "reopened": 0,
    "title": "Merchant Operations Associate",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8411197"
+  },
+  "8412032": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "retail sales manager @ münchen, germany",
+   "location": "München, Germany",
+   "posted_at": "2026-11-24T06:11:01+00:00",
+   "posted_history": [
+    "2026-11-24T06:11:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "Retail Sales Manager",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8412032"
+  },
+  "8412137": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "catalog specialist @ stockholm, sweden",
+   "location": "Stockholm, Sweden",
+   "posted_at": "2026-11-23T19:45:44+00:00",
+   "posted_history": [
+    "2026-11-23T19:45:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Catalog Specialist",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8412137"
   }
  }
 }

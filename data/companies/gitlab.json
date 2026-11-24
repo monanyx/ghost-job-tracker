@@ -143,6 +143,10 @@
   {
    "date": "2026-11-23",
    "open": 246
+  },
+  {
+   "date": "2026-11-24",
+   "open": 252
   }
  ],
  "jobs": {
@@ -280,6 +284,21 @@
    "reopened": 0,
    "title": "Customer Success Manager - East",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8533016002"
+  },
+  "8556658002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "senior applied ai engineer enterprise ai @ remote, united states",
+   "location": "Remote, United States",
+   "posted_at": "2026-05-22T13:16:29+00:00",
+   "posted_history": [
+    "2026-05-22T13:16:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Applied AI Engineer, Enterprise AI",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8556658002"
   },
   "8565469002": {
    "closed_at": "2026-10-31T09:57:28+00:00",
@@ -2401,14 +2420,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior manager of success architects @ remote, singapore",
+   "fp": "director of success architects @ remote, singapore",
    "location": "Remote, Singapore",
    "posted_at": "2026-09-28T04:02:11+00:00",
    "posted_history": [
     "2026-09-28T04:02:11+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Manager of Success Architects",
+   "title": "Director of Success Architects",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8842171002"
   },
   "8842584002": {
@@ -2611,14 +2630,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior product manager salesforce crm @ remote, united states",
+   "fp": "senior it product manager salesforce crm @ remote, united states",
    "location": "Remote, United States",
    "posted_at": "2026-10-02T17:56:31+00:00",
    "posted_history": [
     "2026-10-02T17:56:31+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Product Manager, Salesforce CRM",
+   "title": "Senior IT Product Manager, Salesforce CRM",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8855883002"
   },
   "8856724002": {
@@ -4272,7 +4291,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8904961002"
   },
   "8905040002": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -4797,7 +4816,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8923092002"
   },
   "8923121002": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-02T11:41:30+00:00",
@@ -5037,7 +5056,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8928325002"
   },
   "8928552002": {
-   "closed_at": "2026-11-10T11:47:05+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",
@@ -5047,7 +5066,7 @@
    "posted_history": [
     "2026-11-07T00:43:56+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Executive Assistant, Office of the CFO",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8928552002"
   },
@@ -5292,7 +5311,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8931768002"
   },
   "8932246002": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
@@ -5307,7 +5326,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8932246002"
   },
   "8932248002": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
@@ -5470,6 +5489,21 @@
    "reopened": 0,
    "title": "People Safety & Resilience Manager",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8936715002"
+  },
+  "8937275002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "senior threat research engineer security factory threat research @ remote, israel; remote, poland; remote, united kingdom",
+   "location": "Remote, Israel; Remote, Poland; Remote, United Kingdom",
+   "posted_at": "2026-11-24T11:10:33+00:00",
+   "posted_history": [
+    "2026-11-24T11:10:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Threat Research Engineer, Security Factory: Threat Research",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8937275002"
   },
   "8937425002": {
    "closed_at": "2026-11-16T12:03:27+00:00",
@@ -5696,6 +5730,21 @@
    "title": "Senior Manager, Enterprise Application Development Engineering",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8940964002"
   },
+  "8940982002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "applied ai engineer enterprise ai @ bangalore, india",
+   "location": "Bangalore, India",
+   "posted_at": "2026-11-23T22:02:31+00:00",
+   "posted_history": [
+    "2026-11-23T22:02:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Applied AI Engineer, Enterprise AI",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8940982002"
+  },
   "8941364002": {
    "closed_at": null,
    "department": "",
@@ -5861,6 +5910,21 @@
    "title": "Executive Assistant, Product and Marketing",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8948559002"
   },
+  "8949468002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "senior ta operations specialist @ remote, united states",
+   "location": "Remote, United States",
+   "posted_at": "2026-11-23T23:25:08+00:00",
+   "posted_history": [
+    "2026-11-23T23:25:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior TA Operations Specialist",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8949468002"
+  },
   "8949667002": {
    "closed_at": null,
    "department": "",
@@ -5875,6 +5939,81 @@
    "reopened": 0,
    "title": "New Business Account Executive - Nordics",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8949667002"
+  },
+  "8950027002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "intermediate security engineer security incident response team @ remote, united states",
+   "location": "Remote, United States",
+   "posted_at": "2026-11-23T18:15:55+00:00",
+   "posted_history": [
+    "2026-11-23T18:15:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Intermediate Security Engineer, Security Incident Response Team (SIRT)",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8950027002"
+  },
+  "8950794002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "junior talent operations specialist @ remote, united states",
+   "location": "Remote, United States",
+   "posted_at": "2026-11-23T23:03:54+00:00",
+   "posted_history": [
+    "2026-11-23T23:03:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Junior Talent Operations Specialist",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8950794002"
+  },
+  "8950909002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "business development representative japan @ remote",
+   "location": "Remote",
+   "posted_at": "2026-11-24T02:05:22+00:00",
+   "posted_history": [
+    "2026-11-24T02:05:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Business Development Representative, Japan",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8950909002"
+  },
+  "8954207002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "senior executive assistant office of the cro @ remote, united states",
+   "location": "Remote, United States",
+   "posted_at": "2026-11-23T22:50:51+00:00",
+   "posted_history": [
+    "2026-11-23T22:50:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Executive Assistant, Office of the CRO (EST / CST)",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8954207002"
+  },
+  "8955887002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "principal executive recruiter r d @ remote, united states",
+   "location": "Remote, United States",
+   "posted_at": "2026-11-24T01:05:27+00:00",
+   "posted_history": [
+    "2026-11-24T01:05:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Executive Recruiter, R&D",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8955887002"
   },
   "8957054002": {
    "closed_at": null,

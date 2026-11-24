@@ -143,6 +143,10 @@
   {
    "date": "2026-11-23",
    "open": 173
+  },
+  {
+   "date": "2026-11-24",
+   "open": 169
   }
  ],
  "jobs": {
@@ -1452,7 +1456,7 @@
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8081002"
   },
   "8081452": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1497,7 +1501,7 @@
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8095343"
   },
   "8109770": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1902,7 +1906,7 @@
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140389"
   },
   "8145923": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2022,7 +2026,7 @@
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8202207"
   },
   "8203802": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2206,14 +2210,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "software engineer ii data analytics engineering @ san francisco, ca, us; remote, us",
+   "fp": "data analytics engineer ii @ san francisco, ca, us; remote, us",
    "location": "San Francisco, CA, US; Remote, US",
    "posted_at": "2026-09-19T00:32:32+00:00",
    "posted_history": [
     "2026-09-19T00:32:32+00:00"
    ],
    "reopened": 0,
-   "title": "Software Engineer II, Data Analytics & Engineering",
+   "title": "Data Analytics Engineer II",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8213988"
   },
   "8214745": {
@@ -2446,14 +2450,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "sr staff product manager data and signals connectivity @ new york, ny, us",
+   "fp": "sr staff product manager measurement @ new york, ny, us",
    "location": "New York, NY, US",
    "posted_at": "2026-10-07T20:05:16+00:00",
    "posted_history": [
     "2026-10-07T20:05:16+00:00"
    ],
    "reopened": 0,
-   "title": "Sr. Staff Product Manager, Data and Signals Connectivity",
+   "title": "Sr. Staff Product Manager, Measurement",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8234540"
   },
   "8234555": {
@@ -2620,6 +2624,21 @@
    "reopened": 0,
    "title": "Client Account Manager I (Fixed Term Contract)",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8242487"
+  },
+  "8244282": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "sr staff software engineer delivery retrieval infrastructure @ san francisco, ca, us; palo alto, ca, us",
+   "location": "San Francisco, CA, US; Palo Alto, CA, US",
+   "posted_at": "2026-11-24T00:10:28+00:00",
+   "posted_history": [
+    "2026-11-24T00:10:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Staff Software Engineer - Delivery Retrieval Infrastructure",
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8244282"
   },
   "8244922": {
    "closed_at": null,
@@ -2892,7 +2911,7 @@
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8263122"
   },
   "8265119": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3161,8 +3180,23 @@
    "title": "Integrated Marketing Lead, Global Programming & Industry",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268348"
   },
-  "8273738": {
+  "8269069": {
    "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "engineering manager ii database and indexer platform @ san francisco, ca, us; palo alto, ca, us",
+   "location": "San Francisco, CA, US; Palo Alto, CA, US",
+   "posted_at": "2026-11-24T00:08:58+00:00",
+   "posted_history": [
+    "2026-11-24T00:08:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager II, Database and Indexer Platform",
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8269069"
+  },
+  "8273738": {
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -3357,7 +3391,7 @@
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8290034"
   },
   "8300202": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3372,7 +3406,7 @@
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8300202"
   },
   "8300884": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
@@ -3731,6 +3765,21 @@
    "title": "Sr. Design Program Manager",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8347997"
   },
+  "8349975": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "compliance specialist ii @ são paulo, br",
+   "location": "São Paulo, BR",
+   "posted_at": "2026-11-23T23:42:27+00:00",
+   "posted_history": [
+    "2026-11-23T23:42:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Compliance Specialist II",
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8349975"
+  },
   "8350415": {
    "closed_at": "2026-11-16T12:03:27+00:00",
    "department": "",
@@ -3820,6 +3869,21 @@
    "reopened": 0,
    "title": "Sr. Counsel",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8356287"
+  },
+  "8368950": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "senior technical program manager infrastructure @ san francisco, ca, us; remote, us",
+   "location": "San Francisco, CA, US; Remote, US",
+   "posted_at": "2026-11-23T20:21:15+00:00",
+   "posted_history": [
+    "2026-11-23T20:21:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Technical Program Manager, Infrastructure",
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8368950"
   },
   "8369211": {
    "closed_at": null,

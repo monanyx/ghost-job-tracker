@@ -143,6 +143,10 @@
   {
    "date": "2026-11-23",
    "open": 251
+  },
+  {
+   "date": "2026-11-24",
+   "open": 249
   }
  ],
  "jobs": {
@@ -927,7 +931,7 @@
    "url": "https://www.coinbase.com/careers/positions/8031308?gh_jid=8031308"
   },
   "8047150": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
@@ -2892,7 +2896,7 @@
    "url": "https://www.coinbase.com/careers/positions/8227393?gh_jid=8227393"
   },
   "8230848": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4377,7 +4381,7 @@
    "url": "https://www.coinbase.com/careers/positions/8335621?gh_jid=8335621"
   },
   "8335796": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -5635,6 +5639,21 @@
    "reopened": 0,
    "title": "Senior SEC Reporting Accountant",
    "url": "https://www.coinbase.com/careers/positions/8406680?gh_jid=8406680"
+  },
+  "8412539": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "executive assistant @ remote - usa",
+   "location": "Remote - USA",
+   "posted_at": "2026-11-24T00:12:51+00:00",
+   "posted_history": [
+    "2026-11-24T00:12:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Executive Assistant",
+   "url": "https://www.coinbase.com/careers/positions/8412539?gh_jid=8412539"
   }
  }
 }

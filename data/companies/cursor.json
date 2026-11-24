@@ -143,6 +143,10 @@
   {
    "date": "2026-11-23",
    "open": 89
+  },
+  {
+   "date": "2026-11-24",
+   "open": 87
   }
  ],
  "jobs": {
@@ -1336,8 +1340,8 @@
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-11-13T11:35:01+00:00",
-   "fp": "senior strategic account executive global governments @ washington, d.c.",
-   "location": "Washington, D.C.",
+   "fp": "senior strategic account executive global governments @ remote",
+   "location": "Remote",
    "posted_at": "2026-11-12T17:19:40+00:00",
    "posted_history": [
     "2026-11-12T17:19:40+00:00"
@@ -2504,7 +2508,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/8acfb92a-eb71-4159-acef-a988eac40fcb"
   },
   "8b795459-4f93-45b2-a570-bed630cb09ee": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "People",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3105,7 +3109,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/b810bd30-f3b8-45b4-8afd-d2916ce5ee93"
   },
   "b958e1bd-9e49-48cd-a7f5-b42c63f527fa": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "Revenue Operations",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",

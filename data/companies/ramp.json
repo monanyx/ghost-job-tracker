@@ -143,6 +143,10 @@
   {
    "date": "2026-11-23",
    "open": 187
+  },
+  {
+   "date": "2026-11-24",
+   "open": 180
   }
  ],
  "jobs": {
@@ -1153,7 +1157,7 @@
    "url": "https://jobs.ashbyhq.com/ramp/50770187-f226-468a-823e-fe193287c59f"
   },
   "530d1596-c1bf-41aa-9915-548a692ed66e": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1243,7 +1247,7 @@
    "url": "https://jobs.ashbyhq.com/ramp/574f46a4-42b2-46be-ba5c-de07c5e173c5"
   },
   "5cc4e600-1b28-4083-8a70-90f790112f89": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "Finance",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1273,7 +1277,7 @@
    "url": "https://jobs.ashbyhq.com/ramp/5fe4c64e-9336-4384-9e6f-ff32eeb3fdae"
   },
   "606475af-b74f-42c4-978a-dde138a86ac7": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "Finance",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1288,7 +1292,7 @@
    "url": "https://jobs.ashbyhq.com/ramp/606475af-b74f-42c4-978a-dde138a86ac7"
   },
   "6075e1dc-c833-4e27-a789-61d3a596c66c": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "Security",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",
@@ -1949,7 +1953,7 @@
    "url": "https://jobs.ashbyhq.com/ramp/871d2fc8-def8-4837-a9b0-7cc4fe126c2b"
   },
   "883fbb33-65a9-4ace-97ad-2a1f588020c2": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
@@ -2060,9 +2064,10 @@
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "ai solutions engineer @ new york, ny (hq)",
    "location": "New York, NY (HQ)",
-   "posted_at": "2026-08-27T03:05:26+00:00",
+   "posted_at": "2026-11-23T16:55:06+00:00",
    "posted_history": [
-    "2026-08-27T03:05:26+00:00"
+    "2026-08-27T03:05:26+00:00",
+    "2026-11-23T16:55:06+00:00"
    ],
    "reopened": 0,
    "title": "AI Solutions Engineer",
@@ -2686,6 +2691,21 @@
    "title": "Partner Development Representative | Reseller",
    "url": "https://jobs.ashbyhq.com/ramp/b599c5a9-9c9d-4826-b67a-ca5e012faaad"
   },
+  "b5bd9c30-4bc3-435e-aec1-43405474d317": {
+   "closed_at": null,
+   "department": "Finance",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "associate gtm finance @ new york, ny (hq)",
+   "location": "New York, NY (HQ)",
+   "posted_at": "2026-11-23T18:02:43+00:00",
+   "posted_history": [
+    "2026-11-23T18:02:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Associate, GTM Finance",
+   "url": "https://jobs.ashbyhq.com/ramp/b5bd9c30-4bc3-435e-aec1-43405474d317"
+  },
   "b6132946-62e7-4ed4-9b93-f7cbe0e2c1fe": {
    "closed_at": null,
    "department": "Risk",
@@ -2987,7 +3007,7 @@
    "url": "https://jobs.ashbyhq.com/ramp/cc0af88a-2a19-493d-93cf-c5090f986f1f"
   },
   "cc861080-4e19-43a2-bbeb-5b4dc5c6f92a": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "Marketing",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3185,7 +3205,7 @@
    "url": "https://jobs.ashbyhq.com/ramp/da40ed6e-1c32-4284-89f5-2ad0813b8d49"
   },
   "dba53e68-4c96-449d-af4d-27dc475b814c": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "Product",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3231,7 +3251,7 @@
    "url": "https://jobs.ashbyhq.com/ramp/df5e48f0-f7a0-4cf3-a85b-9d4bb070b0d7"
   },
   "e0b64893-0459-4d84-ac4f-7b50966ef024": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "Product",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

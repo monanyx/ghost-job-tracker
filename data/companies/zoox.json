@@ -143,6 +143,10 @@
   {
    "date": "2026-11-23",
    "open": 244
+  },
+  {
+   "date": "2026-11-24",
+   "open": 243
   }
  ],
  "jobs": {
@@ -1182,7 +1186,7 @@
    "url": "https://jobs.lever.co/zoox/2ec7b1be-46f6-420d-b582-e565fe4f6b3e"
   },
   "2ed8a665-cee8-4d70-bcb1-e96b6214b371": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "Software Systems",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1375,6 +1379,21 @@
    "reopened": 0,
    "title": "Senior Manager, Software Tools Development",
    "url": "https://jobs.lever.co/zoox/35437364-ebbe-4fab-abcf-895771b6e697"
+  },
+  "3557050a-a45c-4cf4-8c9b-0e4156e72626": {
+   "closed_at": null,
+   "department": "System Safety Engineering and Analysis",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "senior staff systems engineer system safety engineering and analysis @ foster city, ca",
+   "location": "Foster City, CA",
+   "posted_at": "2026-11-23T19:58:08+00:00",
+   "posted_history": [
+    "2026-11-23T19:58:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior/Staff Systems Engineer - System Safety Engineering and Analysis",
+   "url": "https://jobs.lever.co/zoox/3557050a-a45c-4cf4-8c9b-0e4156e72626"
   },
   "36377a76-8c8d-495c-abe4-82ebae3d6581": {
    "closed_at": null,
@@ -1572,7 +1591,7 @@
    "url": "https://jobs.lever.co/zoox/44e0530a-6a48-417e-aa43-1f487ea3001e"
   },
   "45594791-0b7b-4310-9a6e-067f53e4a191": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "Autonomy Software",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -1786,14 +1805,14 @@
    "department": "Fleet Operations",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "contract student worker data scientist @ foster city, ca",
+   "fp": "contract student worker program manager @ foster city, ca",
    "location": "Foster City, CA",
    "posted_at": "2026-08-20T16:55:28+00:00",
    "posted_history": [
     "2026-08-20T16:55:28+00:00"
    ],
    "reopened": 0,
-   "title": "Contract Student Worker - Data Scientist",
+   "title": "Contract Student Worker - Program Manager",
    "url": "https://jobs.lever.co/zoox/51838a63-2dde-44dc-9c3e-757f35b9690f"
   },
   "51af47c0-7243-4f27-b13b-dbcde4c06781": {
@@ -2536,14 +2555,14 @@
    "department": "Software",
    "evergreen": false,
    "first_seen": "2026-11-06T11:30:42+00:00",
-   "fp": "software engineer intern autonomy software @ foster city, ca",
+   "fp": "phd software engineer intern autonomy software @ foster city, ca",
    "location": "Foster City, CA",
    "posted_at": "2026-10-30T22:36:55+00:00",
    "posted_history": [
     "2026-10-30T22:36:55+00:00"
    ],
    "reopened": 0,
-   "title": "Software Engineer Intern, Autonomy Software [Summer 2027]",
+   "title": "PhD Software Engineer Intern, Autonomy Software [Summer 2027]",
    "url": "https://jobs.lever.co/zoox/7b20b929-d9a4-4995-a472-16cd4925a877"
   },
   "7bf2a9b3-8aa5-4950-b8b8-14306ef1069f": {
@@ -2603,7 +2622,7 @@
     "2026-11-18T22:27:14+00:00"
    ],
    "reopened": 0,
-   "title": "Process Improvement Intern [Summer 2027]",
+   "title": "Process Improvement Intern (L) [Summer 2027]",
    "url": "https://jobs.lever.co/zoox/7ff6f68a-52bd-48ab-87d4-029bcc43fa9f"
   },
   "80d07c0a-731c-45df-bb69-4ee5e18ea1b0": {
@@ -3822,7 +3841,7 @@
    "url": "https://jobs.lever.co/zoox/ba1f2937-abf0-4bde-86e9-e302202a6b0e"
   },
   "bc11276c-8db7-426e-9d00-d41c2097723a": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "Software Systems",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4270,6 +4289,21 @@
    "reopened": 0,
    "title": "Mechanical Engineer - Sensor Cleaning",
    "url": "https://jobs.lever.co/zoox/d53c9355-98ca-4d28-a769-cd54e85ff025"
+  },
+  "d5926930-cbe2-4cfc-b0a1-d2e8ea54e398": {
+   "closed_at": null,
+   "department": "PMO",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "senior staff technical program manager city launch growth @ foster city, ca",
+   "location": "Foster City, CA",
+   "posted_at": "2026-11-23T17:13:40+00:00",
+   "posted_history": [
+    "2026-11-23T17:13:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior/Staff Technical Program Manager - City Launch & Growth",
+   "url": "https://jobs.lever.co/zoox/d5926930-cbe2-4cfc-b0a1-d2e8ea54e398"
   },
   "d5d0608a-aa33-43c3-abe2-5ff8b40028d5": {
    "closed_at": "2026-11-20T12:11:54+00:00",

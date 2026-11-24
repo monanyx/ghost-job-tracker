@@ -143,6 +143,10 @@
   {
    "date": "2026-11-23",
    "open": 109
+  },
+  {
+   "date": "2026-11-24",
+   "open": 114
   }
  ],
  "jobs": {
@@ -686,8 +690,23 @@
    "title": "Strategic Account Executive 4",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8056267"
   },
-  "8064090": {
+  "8056276": {
    "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "senior software engineer identity @ remote - us",
+   "location": "Remote - US",
+   "posted_at": "2026-07-17T19:17:32+00:00",
+   "posted_history": [
+    "2026-07-17T19:17:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Identity",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8056276"
+  },
+  "8064090": {
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -942,17 +961,17 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8108776"
   },
   "8112239": {
-   "closed_at": "2026-11-23T13:40:09+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-28T10:01:46+00:00",
-   "fp": "sales development representative 2 @ remote - united kingdom",
-   "location": "Remote - United Kingdom",
+   "fp": "sales development representative 2 @ remote - ireland",
+   "location": "Remote - Ireland",
    "posted_at": "2026-08-18T13:18:09+00:00",
    "posted_history": [
     "2026-08-18T13:18:09+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Sales Development Representative 2",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8112239"
   },
@@ -1797,7 +1816,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8241356"
   },
   "8243069": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2832,7 +2851,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8327839"
   },
   "8327942": {
-   "closed_at": "2026-11-14T10:56:25+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -2842,7 +2861,7 @@
    "posted_history": [
     "2026-11-03T01:43:06+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Digital Sales Representative - Expansion",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8327942"
   },
@@ -3042,7 +3061,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8356811"
   },
   "8358938": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-17T12:29:08+00:00",
@@ -3431,6 +3450,21 @@
    "title": "Senior Manager, Strategic Accounts - Asia",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8399190"
   },
+  "8405801": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "presales architect @ remote - singapore",
+   "location": "Remote - Singapore",
+   "posted_at": "2026-11-24T07:55:26+00:00",
+   "posted_history": [
+    "2026-11-24T07:55:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Presales Architect",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8405801"
+  },
   "8405805": {
    "closed_at": null,
    "department": "",
@@ -3506,6 +3540,21 @@
    "title": "Strategic Account Executive",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8405824"
   },
+  "8405829": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "presales architect @ remote - singapore",
+   "location": "Remote - Singapore",
+   "posted_at": "2026-11-24T07:45:38+00:00",
+   "posted_history": [
+    "2026-11-24T07:45:38+00:00"
+   ],
+   "reopened": 0,
+   "title": "Presales Architect",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8405829"
+  },
   "8406753": {
    "closed_at": null,
    "department": "",
@@ -3535,6 +3584,51 @@
    "reopened": 0,
    "title": "Personalized Support Engineer 2",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8406763"
+  },
+  "8407078": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "strategic account executive @ remote - us",
+   "location": "Remote - US",
+   "posted_at": "2026-11-23T21:08:12+00:00",
+   "posted_history": [
+    "2026-11-23T21:08:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Account Executive",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8407078"
+  },
+  "8410798": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "strategic account executive 4 @ remote - us",
+   "location": "Remote - US",
+   "posted_at": "2026-11-23T20:55:47+00:00",
+   "posted_history": [
+    "2026-11-23T20:55:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Account Executive 4",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8410798"
+  },
+  "8410800": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "strategic account executive @ remote - us",
+   "location": "Remote - US",
+   "posted_at": "2026-11-23T21:13:05+00:00",
+   "posted_history": [
+    "2026-11-23T21:13:05+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Account Executive",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8410800"
   }
  }
 }

@@ -143,6 +143,10 @@
   {
    "date": "2026-11-23",
    "open": 111
+  },
+  {
+   "date": "2026-11-24",
+   "open": 108
   }
  ],
  "jobs": {
@@ -852,7 +856,7 @@
    "url": "https://www.asana.com/jobs/apply/8044811?gh_jid=8044811"
   },
   "8044815": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -912,7 +916,7 @@
    "url": "https://www.asana.com/jobs/apply/8075573?gh_jid=8075573"
   },
   "8078142": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -987,7 +991,7 @@
    "url": "https://www.asana.com/jobs/apply/8098020?gh_jid=8098020"
   },
   "8100429": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1932,7 +1936,7 @@
    "url": "https://www.asana.com/jobs/apply/8279085?gh_jid=8279085"
   },
   "8279133": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2455,6 +2459,21 @@
    "reopened": 0,
    "title": "Lead Product Manager, APIs and MCP",
    "url": "https://www.asana.com/jobs/apply/8338202?gh_jid=8338202"
+  },
+  "8338204": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "staff product manager reporting @ new york city",
+   "location": "New York City",
+   "posted_at": "2026-11-23T17:39:16+00:00",
+   "posted_history": [
+    "2026-11-23T17:39:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Product Manager, Reporting",
+   "url": "https://www.asana.com/jobs/apply/8338204?gh_jid=8338204"
   },
   "8349347": {
    "closed_at": null,

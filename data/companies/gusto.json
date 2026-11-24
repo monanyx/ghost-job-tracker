@@ -143,6 +143,10 @@
   {
    "date": "2026-11-23",
    "open": 84
+  },
+  {
+   "date": "2026-11-24",
+   "open": 85
   }
  ],
  "jobs": {
@@ -192,7 +196,7 @@
    "url": "https://job-boards.greenhouse.io/gusto/jobs/7254336"
   },
   "7283301": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1291,8 +1295,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "partner manager gusto pro @ atlanta, ga - hybrid; denver, co - hybrid; new york, ny - hybrid; phoenix, az - hybrid; san francisco, ca - hybrid; toronto, ontario - remote",
-   "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; Phoenix, AZ - Hybrid; San Francisco, CA - Hybrid; Toronto, Ontario - Remote",
+   "fp": "partner manager gusto pro @ atlanta, ga - hybrid; denver, co - hybrid; new york, ny - hybrid; san francisco, ca - hybrid; toronto, ontario - remote",
+   "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Toronto, Ontario - Remote",
    "posted_at": "2026-09-09T22:01:06+00:00",
    "posted_history": [
     "2026-09-09T22:01:06+00:00"
@@ -2036,6 +2040,21 @@
    "title": "Senior Product Counsel, Payroll and Fintech",
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8304582"
   },
+  "8329271": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "ai control lead @ san francisco, ca - hybrid",
+   "location": "San Francisco, CA - Hybrid",
+   "posted_at": "2026-11-23T17:41:18+00:00",
+   "posted_history": [
+    "2026-11-23T17:41:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "AI Control Lead",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8329271"
+  },
   "8329666": {
    "closed_at": null,
    "department": "",
@@ -2260,6 +2279,21 @@
    "reopened": 0,
    "title": "Expansion AE, Gusto Pro",
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8374008"
+  },
+  "8394504": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "staff software engineer agent and partner experiences @ denver, co - hybrid; new york, ny - hybrid; san francisco, ca - hybrid",
+   "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+   "posted_at": "2026-11-24T01:27:31+00:00",
+   "posted_history": [
+    "2026-11-24T01:27:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer, Agent and Partner Experiences",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8394504"
   },
   "8394531": {
    "closed_at": "2026-11-21T11:47:59+00:00",

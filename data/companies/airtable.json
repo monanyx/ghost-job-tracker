@@ -143,6 +143,10 @@
   {
    "date": "2026-11-23",
    "open": 11
+  },
+  {
+   "date": "2026-11-24",
+   "open": 10
   }
  ],
  "jobs": {
@@ -207,7 +211,7 @@
    "url": "https://job-boards.greenhouse.io/airtable/jobs/8403127002"
   },
   "8425211002": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

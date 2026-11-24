@@ -143,6 +143,10 @@
   {
    "date": "2026-11-23",
    "open": 634
+  },
+  {
+   "date": "2026-11-24",
+   "open": 633
   }
  ],
  "jobs": {
@@ -2547,7 +2551,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5209196008"
   },
   "5209661008": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3400,6 +3404,21 @@
    "reopened": 0,
    "title": "Staff+ Software Engineer, Experimentation",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5290468008"
+  },
+  "5293104008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "industry principal insurance @ san francisco, ca | new york city, ny",
+   "location": "San Francisco, CA | New York City, NY",
+   "posted_at": "2026-11-23T15:43:32+00:00",
+   "posted_history": [
+    "2026-11-23T15:43:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Industry Principal, Insurance",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5293104008"
   },
   "5297059008": {
    "closed_at": null,
@@ -6192,7 +6211,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5394403008"
   },
   "5394611008": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-11T11:27:30+00:00",
@@ -6972,7 +6991,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5409934008"
   },
   "5410004008": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -9132,7 +9151,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438044008"
   },
   "5438311008": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
@@ -9147,7 +9166,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008"
   },
   "5439169008": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
@@ -10906,8 +10925,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
-   "fp": "applied ai architect public sector @ san francisco, ca",
-   "location": "San Francisco, CA",
+   "fp": "applied ai architect public sector @ new york city, ny; san francisco, ca; washington, dc",
+   "location": "New York City, NY; San Francisco, CA; Washington, DC",
    "posted_at": "2026-11-03T20:24:13+00:00",
    "posted_history": [
     "2026-11-03T20:24:13+00:00"
@@ -12041,6 +12060,21 @@
    "title": "Field Engineer, Data Center Design and Engineering",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5466517008"
   },
+  "5466640008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "applied ai architect industries @ zürich, ch",
+   "location": "Zürich, CH",
+   "posted_at": "2026-11-24T13:12:53+00:00",
+   "posted_history": [
+    "2026-11-24T13:12:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "Applied AI Architect, Industries",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5466640008"
+  },
   "5467083008": {
    "closed_at": null,
    "department": "",
@@ -12192,7 +12226,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5467690008"
   },
   "5467893008": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
@@ -12402,7 +12436,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5469291008"
   },
   "5469337008": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -13631,6 +13665,21 @@
    "title": "Community Engagement Manager, Data Centres (Canada)",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5486907008"
   },
+  "5487188008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "software engineer model to product behavior engineering @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-23T14:45:28+00:00",
+   "posted_history": [
+    "2026-11-23T14:45:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Model-to-Product Behavior Engineering",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5487188008"
+  },
   "5489564008": {
    "closed_at": null,
    "department": "",
@@ -13690,6 +13739,36 @@
    "reopened": 0,
    "title": "Research Operations, External Artifacts",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5490492008"
+  },
+  "5490494008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "head of laboratory facilities @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-24T12:51:05+00:00",
+   "posted_history": [
+    "2026-11-24T12:51:05+00:00"
+   ],
+   "reopened": 0,
+   "title": "Head of Laboratory Facilities",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5490494008"
+  },
+  "5490502008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "life sciences operator external research @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-24T12:55:45+00:00",
+   "posted_history": [
+    "2026-11-24T12:55:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Life Sciences Operator, External Research",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5490502008"
   },
   "5490572008": {
    "closed_at": null,
@@ -13780,6 +13859,21 @@
    "reopened": 0,
    "title": "Staff+ Software Engineer, Capacity Engineering",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5490979008"
+  },
+  "5491480008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "applied ai architect technology partnerships @ san francisco, ca | new york city, ny",
+   "location": "San Francisco, CA | New York City, NY",
+   "posted_at": "2026-11-23T20:50:45+00:00",
+   "posted_history": [
+    "2026-11-23T20:50:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Applied AI Architect, Technology Partnerships",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5491480008"
   },
   "5491573008": {
    "closed_at": null,

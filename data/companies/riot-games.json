@@ -143,6 +143,10 @@
   {
    "date": "2026-11-23",
    "open": 204
+  },
+  {
+   "date": "2026-11-24",
+   "open": 201
   }
  ],
  "jobs": {
@@ -2127,7 +2131,7 @@
    "url": "https://www.riotgames.com/en/work-with-us/job/8221963?gh_jid=8221963"
   },
   "8221969": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2472,7 +2476,7 @@
    "url": "https://www.riotgames.com/en/work-with-us/job/8250894?gh_jid=8250894"
   },
   "8257953": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3027,7 +3031,7 @@
    "url": "https://www.riotgames.com/en/work-with-us/job/8302320?gh_jid=8302320"
   },
   "8302340": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -3762,7 +3766,7 @@
    "url": "https://www.riotgames.com/en/work-with-us/job/8368323?gh_jid=8368323"
   },
   "8368570": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-18T12:16:07+00:00",
@@ -3777,7 +3781,7 @@
    "url": "https://www.riotgames.com/en/work-with-us/job/8368570?gh_jid=8368570"
   },
   "8368573": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-18T12:16:07+00:00",
@@ -3941,6 +3945,21 @@
    "title": "Staff Software Engineer, Tools - Central Technology, Unreal Ecosystem",
    "url": "https://www.riotgames.com/en/work-with-us/job/8384686?gh_jid=8384686"
   },
+  "8384688": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "staff security engineer @ shanghai, china",
+   "location": "Shanghai, China",
+   "posted_at": "2026-11-24T05:40:24+00:00",
+   "posted_history": [
+    "2026-11-24T05:40:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Security Engineer",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8384688?gh_jid=8384688"
+  },
   "8385235": {
    "closed_at": null,
    "department": "",
@@ -4060,6 +4079,21 @@
    "reopened": 0,
    "title": "Software Engineering Manager - Commerce Dublin",
    "url": "https://www.riotgames.com/en/work-with-us/job/8406825?gh_jid=8406825"
+  },
+  "8412221": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "marketing specialist @ singapore",
+   "location": "Singapore",
+   "posted_at": "2026-11-24T04:49:12+00:00",
+   "posted_history": [
+    "2026-11-24T04:49:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Marketing Specialist (Contract)",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8412221?gh_jid=8412221"
   }
  }
 }

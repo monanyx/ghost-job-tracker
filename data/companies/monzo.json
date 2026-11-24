@@ -143,6 +143,10 @@
   {
    "date": "2026-11-23",
    "open": 53
+  },
+  {
+   "date": "2026-11-24",
+   "open": 53
   }
  ],
  "jobs": {
@@ -1182,7 +1186,7 @@
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8232732"
   },
   "8236487": {
-   "closed_at": "2026-11-07T10:41:11+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1192,7 +1196,7 @@
    "posted_history": [
     "2026-09-28T09:25:36+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Credit Risk Oversight Manager",
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8236487"
   },
@@ -1872,7 +1876,7 @@
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8365296"
   },
   "8365302": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
@@ -2037,7 +2041,7 @@
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8392439"
   },
   "8393062": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-17T12:29:08+00:00",
@@ -2095,6 +2099,21 @@
    "reopened": 0,
    "title": "Senior Treasury Product Control Analyst",
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8398665"
+  },
+  "8411444": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "strategy operations manager @ dublin",
+   "location": "Dublin",
+   "posted_at": "2026-11-23T15:46:51+00:00",
+   "posted_history": [
+    "2026-11-23T15:46:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategy & Operations Manager",
+   "url": "https://job-boards.greenhouse.io/monzo/jobs/8411444"
   }
  }
 }

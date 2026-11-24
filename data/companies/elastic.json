@@ -143,6 +143,10 @@
   {
    "date": "2026-11-23",
    "open": 379
+  },
+  {
+   "date": "2026-11-24",
+   "open": 383
   }
  ],
  "jobs": {
@@ -2592,7 +2596,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8138584&gh_jid=8138584"
   },
   "8138599": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5742,7 +5746,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8258750&gh_jid=8258750"
   },
   "8259040": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6175,6 +6179,21 @@
    "reopened": 0,
    "title": "Senior Software Engineer - Control Plane (Hosted Foundations / Applications)",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8274400&gh_jid=8274400"
+  },
+  "8274546": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "senior software engineer platform billing core @ united kingdom",
+   "location": "United Kingdom",
+   "posted_at": "2026-11-23T13:51:53+00:00",
+   "posted_history": [
+    "2026-11-23T13:51:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer - Platform Billing Core",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8274546&gh_jid=8274546"
   },
   "8276131": {
    "closed_at": null,
@@ -7482,7 +7501,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8325182&gh_jid=8325182"
   },
   "8325389": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
@@ -8711,6 +8730,21 @@
    "title": "Principal Java Engineer - Distributed Systems, Serverless - Elasticsearch",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8378143&gh_jid=8378143"
   },
+  "8379881": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "marketplace deal operations specialist emea @ bangalore, india",
+   "location": "Bangalore, India",
+   "posted_at": "2026-11-24T04:57:43+00:00",
+   "posted_history": [
+    "2026-11-24T04:57:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Marketplace Deal Operations Specialist, EMEA",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8379881&gh_jid=8379881"
+  },
   "8382571": {
    "closed_at": null,
    "department": "",
@@ -9520,6 +9554,81 @@
    "reopened": 0,
    "title": "Principal Software Engineer - Search Infra - Elasticsearch",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8407578&gh_jid=8407578"
+  },
+  "8411234": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "senior software engineer platform billing core @ greece",
+   "location": "Greece",
+   "posted_at": "2026-11-23T13:51:56+00:00",
+   "posted_history": [
+    "2026-11-23T13:51:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer - Platform Billing Core",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8411234&gh_jid=8411234"
+  },
+  "8411235": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "senior software engineer platform billing core @ spain",
+   "location": "Spain",
+   "posted_at": "2026-11-23T13:51:58+00:00",
+   "posted_history": [
+    "2026-11-23T13:51:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer - Platform Billing Core",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8411235&gh_jid=8411235"
+  },
+  "8411238": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "senior software engineer platform billing core @ portugal",
+   "location": "Portugal",
+   "posted_at": "2026-11-23T13:52:01+00:00",
+   "posted_history": [
+    "2026-11-23T13:52:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer - Platform Billing Core",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8411238&gh_jid=8411238"
+  },
+  "8411239": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "senior software engineer platform billing core @ poland",
+   "location": "Poland",
+   "posted_at": "2026-11-23T13:52:03+00:00",
+   "posted_history": [
+    "2026-11-23T13:52:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer - Platform Billing Core",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8411239&gh_jid=8411239"
+  },
+  "8411240": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "senior software engineer platform billing core @ ireland",
+   "location": "Ireland",
+   "posted_at": "2026-11-23T13:52:06+00:00",
+   "posted_history": [
+    "2026-11-23T13:52:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer - Platform Billing Core",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8411240&gh_jid=8411240"
   }
  }
 }

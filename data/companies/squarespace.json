@@ -143,6 +143,10 @@
   {
    "date": "2026-11-23",
    "open": 20
+  },
+  {
+   "date": "2026-11-24",
+   "open": 20
   }
  ],
  "jobs": {
@@ -312,7 +316,7 @@
    "url": "http://www.squarespace.com/about/careers?gh_jid=8125420"
   },
   "8159488": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -700,6 +704,21 @@
    "reopened": 0,
    "title": "Staff Software Engineer, Revenue Systems",
    "url": "http://www.squarespace.com/about/careers?gh_jid=8392753"
+  },
+  "8402025": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "accountant @ new york city",
+   "location": "New York City",
+   "posted_at": "2026-11-23T16:25:18+00:00",
+   "posted_history": [
+    "2026-11-23T16:25:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Accountant",
+   "url": "http://www.squarespace.com/about/careers?gh_jid=8402025"
   },
   "8406769": {
    "closed_at": null,

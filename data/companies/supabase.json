@@ -143,6 +143,10 @@
   {
    "date": "2026-11-23",
    "open": 80
+  },
+  {
+   "date": "2026-11-24",
+   "open": 80
   }
  ],
  "jobs": {
@@ -355,6 +359,21 @@
    "reopened": 0,
    "title": "Multigres Engineer",
    "url": "https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228"
+  },
+  "30cc053e-33dc-4924-a870-2cf41c296b01": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "software engineer interfaces backend @ remote, global",
+   "location": "Remote, Global",
+   "posted_at": "2026-11-23T14:42:23+00:00",
+   "posted_history": [
+    "2026-11-23T14:42:23+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer - Interfaces Backend",
+   "url": "https://jobs.ashbyhq.com/supabase/30cc053e-33dc-4924-a870-2cf41c296b01"
   },
   "33caf92a-986f-4695-a84c-792720ff832d": {
    "closed_at": null,
@@ -1123,7 +1142,7 @@
    "url": "https://jobs.ashbyhq.com/supabase/b65287c7-2071-4bc6-8717-58c090e2a372"
   },
   "b75ba81e-54cc-4393-a575-bc41776b0113": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

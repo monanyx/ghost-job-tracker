@@ -143,6 +143,10 @@
   {
    "date": "2026-11-23",
    "open": 219
+  },
+  {
+   "date": "2026-11-24",
+   "open": 219
   }
  ],
  "jobs": {
@@ -2577,7 +2581,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8003801003"
   },
   "8004096003": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3192,7 +3196,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8012129003"
   },
   "8012584003": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3282,7 +3286,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8013444003"
   },
   "8013700003": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4302,7 +4306,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8043261003"
   },
   "8043921003": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
@@ -4317,7 +4321,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8043921003"
   },
   "8043923003": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
@@ -4677,18 +4681,18 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8194342003"
   },
   "8195963003": {
-   "closed_at": "2026-11-14T10:56:25+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-13T11:35:01+00:00",
-   "fp": "licensing manager @ remote us",
+   "fp": "licensing lead @ remote us",
    "location": "Remote US",
    "posted_at": "2026-11-12T18:40:16+00:00",
    "posted_history": [
     "2026-11-12T18:40:16+00:00"
    ],
-   "reopened": 0,
-   "title": "Licensing Manager",
+   "reopened": 1,
+   "title": "Licensing Lead",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8195963003"
   },
   "8196112003": {
@@ -5247,7 +5251,7 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8205744003"
   },
   "8205833003": {
-   "closed_at": "2026-11-21T11:47:59+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-20T12:11:54+00:00",
@@ -5257,12 +5261,12 @@
    "posted_history": [
     "2026-11-19T19:47:37+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Capital Markets Specialist I (2027 Early Career Program)",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8205833003"
   },
   "8206173003": {
-   "closed_at": "2026-11-21T11:47:59+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-20T12:11:54+00:00",
@@ -5272,9 +5276,39 @@
    "posted_history": [
     "2026-11-19T19:48:40+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Internal Auditor I (2027 Early Career Program)",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8206173003"
+  },
+  "8206243003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "technical account manager i @ remote canada",
+   "location": "Remote Canada",
+   "posted_at": "2026-11-23T14:56:16+00:00",
+   "posted_history": [
+    "2026-11-23T14:56:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Account Manager I",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8206243003"
+  },
+  "8207048003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "senior counsel marketing @ remote us",
+   "location": "Remote US",
+   "posted_at": "2026-11-24T01:40:46+00:00",
+   "posted_history": [
+    "2026-11-24T01:40:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Counsel Marketing",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8207048003"
   },
   "8207671003": {
    "closed_at": null,

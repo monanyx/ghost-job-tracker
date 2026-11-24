@@ -143,6 +143,10 @@
   {
    "date": "2026-11-23",
    "open": 86
+  },
+  {
+   "date": "2026-11-24",
+   "open": 85
   }
  ],
  "jobs": {
@@ -912,7 +916,7 @@
    "url": "https://job-boards.greenhouse.io/vercel/jobs/6121381004"
   },
   "6121468004": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1377,7 +1381,7 @@
    "url": "https://job-boards.greenhouse.io/vercel/jobs/6199608004"
   },
   "6200325004": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1885,6 +1889,21 @@
    "reopened": 0,
    "title": "Director, Partner Marketing",
    "url": "https://job-boards.greenhouse.io/vercel/jobs/6268187004"
+  },
+  "6269284004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "manager technical account management @ hybrid - san francisco, new york city, austin",
+   "location": "Hybrid - San Francisco, New York City, Austin",
+   "posted_at": "2026-11-24T00:09:55+00:00",
+   "posted_history": [
+    "2026-11-24T00:09:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Technical Account Management",
+   "url": "https://job-boards.greenhouse.io/vercel/jobs/6269284004"
   }
  }
 }

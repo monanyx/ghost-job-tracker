@@ -143,6 +143,10 @@
   {
    "date": "2026-11-23",
    "open": 891
+  },
+  {
+   "date": "2026-11-24",
+   "open": 889
   }
  ],
  "jobs": {
@@ -5082,7 +5086,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8487145002"
   },
   "8487325002": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5442,7 +5446,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8495067002"
   },
   "8501026002": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6421,14 +6425,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "solutions architect lakebase @ london, united kingdom",
+   "fp": "solutions architect lakebase oltp @ london, united kingdom",
    "location": "London, United Kingdom",
    "posted_at": "2026-06-10T13:20:54+00:00",
    "posted_history": [
     "2026-06-10T13:20:54+00:00"
    ],
    "reopened": 0,
-   "title": "Solutions Architect - Lakebase",
+   "title": "Solutions Architect - Lakebase, OLTP",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8568015002"
   },
   "8568023002": {
@@ -6522,7 +6526,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569436002"
   },
   "8569453002": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -8157,7 +8161,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8617901002"
   },
   "8619213002": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -9146,6 +9150,21 @@
    "title": "Staff Forward Deployed Engineer",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8653264002"
   },
+  "8653583002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "solutions architect madrid spain @ madrid",
+   "location": "Madrid",
+   "posted_at": "2026-07-28T14:49:50+00:00",
+   "posted_history": [
+    "2026-07-28T14:49:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Solutions Architect (Portuguese Speaking) Madrid Spain",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8653583002"
+  },
   "8654148002": {
    "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
@@ -9282,7 +9301,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8657549002"
   },
   "8657553002": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -10137,7 +10156,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8716192002"
   },
   "8716314002": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -12897,7 +12916,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8826872002"
   },
   "8829029002": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -15612,7 +15631,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8907735002"
   },
   "8907988002": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
@@ -15850,6 +15869,21 @@
    "reopened": 0,
    "title": "Strategic Core Account Executive (Telco)",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8912711002"
+  },
+  "8913000002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "strategy execution manager product lead @ new york city, new york; san francisco, california",
+   "location": "New York City, New York; San Francisco, California",
+   "posted_at": "2026-11-23T20:32:40+00:00",
+   "posted_history": [
+    "2026-11-23T20:32:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategy & Execution Manager, Product Lead",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8913000002"
   },
   "8916466002": {
    "closed_at": null,
@@ -16196,6 +16230,21 @@
    "title": "Revenue Operations Manager",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8922724002"
   },
+  "8922726002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "senior sales compensation manager @ mountain view, california; san francisco, california",
+   "location": "Mountain View, California; San Francisco, California",
+   "posted_at": "2026-11-24T06:13:57+00:00",
+   "posted_history": [
+    "2026-11-24T06:13:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Sales Compensation Manager",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8922726002"
+  },
   "8922728002": {
    "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "",
@@ -16471,8 +16520,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-01T10:48:55+00:00",
-   "fp": "sr solutions architect @ sydney, australia",
-   "location": "Sydney, Australia",
+   "fp": "sr solutions architect @ melbourne, australia; sydney, australia",
+   "location": "Melbourne, Australia; Sydney, Australia",
    "posted_at": "2026-10-31T14:14:54+00:00",
    "posted_history": [
     "2026-10-31T14:14:54+00:00"
@@ -16615,6 +16664,21 @@
    "reopened": 0,
    "title": "Sourcer, Tech",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8928358002"
+  },
+  "8928995002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "solutions architect financial services @ illinois; massachusetts; new jersey; new york",
+   "location": "Illinois; Massachusetts; New Jersey; New York",
+   "posted_at": "2026-11-23T16:29:02+00:00",
+   "posted_history": [
+    "2026-11-23T16:29:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Solutions Architect - Financial Services (Insurance)",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8928995002"
   },
   "8929038002": {
    "closed_at": null,
@@ -16855,6 +16919,21 @@
    "reopened": 0,
    "title": "Field Capability Manager",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8931269002"
+  },
+  "8931447002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "enterprise account executive fsi @ tokyo, japan",
+   "location": "Tokyo, Japan",
+   "posted_at": "2026-11-24T07:29:24+00:00",
+   "posted_history": [
+    "2026-11-24T07:29:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Account Executive - FSI",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8931447002"
   },
   "8931581002": {
    "closed_at": null,
@@ -17157,7 +17236,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8937360002"
   },
   "8937807002": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-13T11:35:01+00:00",
@@ -17262,7 +17341,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8940488002"
   },
   "8940907002": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-13T11:35:01+00:00",
@@ -17545,6 +17624,51 @@
    "reopened": 0,
    "title": "Specialist Solutions Architect - AWS Infrastructure & AI Platform",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8957103002"
+  },
+  "8958450002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "business development representative @ amsterdam, netherlands",
+   "location": "Amsterdam, Netherlands",
+   "posted_at": "2026-11-24T09:39:41+00:00",
+   "posted_history": [
+    "2026-11-24T09:39:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Business Development Representative (Dutch-speaking)",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8958450002"
+  },
+  "8959562002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "sr solutions architect @ melbourne, australia",
+   "location": "Melbourne, Australia",
+   "posted_at": "2026-11-24T03:24:21+00:00",
+   "posted_history": [
+    "2026-11-24T03:24:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Solutions Architect",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8959562002"
+  },
+  "8959902002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "sr legal counsel international public sector compliance @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2026-11-24T13:11:42+00:00",
+   "posted_history": [
+    "2026-11-24T13:11:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Legal Counsel, International Public Sector Compliance",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8959902002"
   }
  }
 }

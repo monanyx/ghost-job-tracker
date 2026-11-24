@@ -143,6 +143,10 @@
   {
    "date": "2026-11-23",
    "open": 362
+  },
+  {
+   "date": "2026-11-24",
+   "open": 357
   }
  ],
  "jobs": {
@@ -1377,7 +1381,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=7815237"
   },
   "7816014": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1572,7 +1576,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=7851972"
   },
   "7852964": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3702,7 +3706,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8157888"
   },
   "8163421": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3912,7 +3916,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8177506"
   },
   "8177548": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4977,7 +4981,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8234161"
   },
   "8234307": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5187,7 +5191,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8243732"
   },
   "8243889": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7390,6 +7394,21 @@
    "reopened": 0,
    "title": "Staff Software Engineer, Field Response",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8396989"
+  },
+  "8397708": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "safety communications manager @ mountain view, ca, usa; san francisco, ca, usa;",
+   "location": "Mountain View, CA, USA; San Francisco, CA, USA; ",
+   "posted_at": "2026-11-23T21:51:30+00:00",
+   "posted_history": [
+    "2026-11-23T21:51:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Safety Communications Manager",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8397708"
   },
   "8401116": {
    "closed_at": null,

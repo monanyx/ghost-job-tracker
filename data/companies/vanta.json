@@ -143,11 +143,15 @@
   {
    "date": "2026-11-23",
    "open": 69
+  },
+  {
+   "date": "2026-11-24",
+   "open": 65
   }
  ],
  "jobs": {
   "021cca9c-f937-4d97-8be7-bc83af8307be": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "Software Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -267,7 +271,7 @@
    "url": "https://jobs.ashbyhq.com/vanta/0eb769bf-5444-491b-8721-2fc579ca4932"
   },
   "0fab2072-8863-42ec-b00d-de367b90d937": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "Finance",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -312,7 +316,7 @@
    "url": "https://jobs.ashbyhq.com/vanta/10098ac6-b0c1-4ba6-9903-6c5ebe85fe1e"
   },
   "102dbbdc-882a-4bcf-bf69-ec9fe9351a29": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1213,17 +1217,18 @@
    "url": "https://jobs.ashbyhq.com/vanta/adcc38ca-79e9-4788-893d-bcdf03db10b2"
   },
   "b01ad813-3dd3-4603-ab81-75b14772b43b": {
-   "closed_at": "2026-11-18T12:16:07+00:00",
+   "closed_at": null,
    "department": "Software Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "senior software engineer vanta for government @ remote u.s.",
    "location": "Remote U.S.",
-   "posted_at": "2026-08-27T19:09:30+00:00",
+   "posted_at": "2026-11-23T17:51:56+00:00",
    "posted_history": [
-    "2026-08-27T19:09:30+00:00"
+    "2026-08-27T19:09:30+00:00",
+    "2026-11-23T17:51:56+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Software Engineer, Vanta for Government",
    "url": "https://jobs.ashbyhq.com/vanta/b01ad813-3dd3-4603-ab81-75b14772b43b"
   },
@@ -1363,7 +1368,7 @@
    "url": "https://jobs.ashbyhq.com/vanta/c27d1d10-9bab-484b-af98-1071c6834d77"
   },
   "c3a34fb5-02e4-430e-83d2-b096363901aa": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "Product Management",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -1514,7 +1519,7 @@
    "url": "https://jobs.ashbyhq.com/vanta/d38e7474-2b44-415c-824a-3debb757c9af"
   },
   "db79e344-6222-4377-b674-8117ea4d1817": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1548,14 +1553,14 @@
    "department": "Marketing",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "creative director @ remote u.s.",
+   "fp": "executive creative director @ remote u.s.",
    "location": "Remote U.S.",
    "posted_at": "2026-09-29T15:04:43+00:00",
    "posted_history": [
     "2026-09-29T15:04:43+00:00"
    ],
    "reopened": 0,
-   "title": "Creative Director",
+   "title": "Executive Creative Director",
    "url": "https://jobs.ashbyhq.com/vanta/e7370d8b-259e-402b-b494-20a0f963b215"
   },
   "e74a395b-0ddd-49c0-8089-0a670a89810e": {

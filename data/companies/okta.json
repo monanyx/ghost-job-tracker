@@ -143,6 +143,10 @@
   {
    "date": "2026-11-23",
    "open": 374
+  },
+  {
+   "date": "2026-11-24",
+   "open": 372
   }
  ],
  "jobs": {
@@ -496,8 +500,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "strategic account executive auth0 @ san francisco, california",
-   "location": "San Francisco, California",
+   "fp": "strategic account executive auth0 @ san francisco, ca, united states",
+   "location": "San Francisco, CA, United States",
    "posted_at": "2026-02-04T19:55:41+00:00",
    "posted_history": [
     "2026-02-04T19:55:41+00:00"
@@ -792,7 +796,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/7681401?gh_jid=7681401"
   },
   "7685798": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -805,6 +809,21 @@
    "reopened": 0,
    "title": "Senior Technical Writer",
    "url": "https://www.okta.com/company/careers/opportunity/7685798?gh_jid=7685798"
+  },
+  "7696955": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "principal software engineer @ bengaluru, india",
+   "location": "Bengaluru, India",
+   "posted_at": "2026-03-10T19:49:29+00:00",
+   "posted_history": [
+    "2026-03-10T19:49:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal Software Engineer",
+   "url": "https://www.okta.com/company/careers/opportunity/7696955?gh_jid=7696955"
   },
   "7703326": {
    "closed_at": "2026-11-12T11:51:19+00:00",
@@ -1812,7 +1831,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8041360?gh_jid=8041360"
   },
   "8041376": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3927,7 +3946,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8201177?gh_jid=8201177"
   },
   "8201507": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4272,7 +4291,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8210924?gh_jid=8210924"
   },
   "8211192": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4437,7 +4456,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8214073?gh_jid=8214073"
   },
   "8220192": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5666,6 +5685,21 @@
    "title": "Senior Site Reliability Engineer (K8s, Terraform, Python)",
    "url": "https://www.okta.com/company/careers/opportunity/8255904?gh_jid=8255904"
   },
+  "8255907": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "senior site reliability engineer kubernetes aws @ bengaluru",
+   "location": "Bengaluru",
+   "posted_at": "2026-11-24T05:58:17+00:00",
+   "posted_history": [
+    "2026-11-24T05:58:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Site Reliability Engineer - Kubernetes & AWS",
+   "url": "https://www.okta.com/company/careers/opportunity/8255907?gh_jid=8255907"
+  },
   "8256066": {
    "closed_at": "2026-11-14T10:56:25+00:00",
    "department": "",
@@ -6536,6 +6570,21 @@
    "title": "Senior Director, Quality Engineering – Performance, Scalability & Reliability",
    "url": "https://www.okta.com/company/careers/opportunity/8287689?gh_jid=8287689"
   },
+  "8287809": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "commercial account executive @ melbourne; sydney, new south wales, australia",
+   "location": "Melbourne; Sydney, New South Wales, Australia",
+   "posted_at": "2026-10-16T06:20:12+00:00",
+   "posted_history": [
+    "2026-10-16T06:20:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Commercial Account Executive",
+   "url": "https://www.okta.com/company/careers/opportunity/8287809?gh_jid=8287809"
+  },
   "8287817": {
    "closed_at": null,
    "department": "",
@@ -6942,7 +6991,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8292612?gh_jid=8292612"
   },
   "8292623": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7602,7 +7651,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8323989?gh_jid=8323989"
   },
   "8324993": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -8401,8 +8450,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-19T12:10:18+00:00",
-   "fp": "staff software engineer @ washington, district of columbia, united states",
-   "location": "Washington, District of Columbia, United States",
+   "fp": "staff software engineer @ bellevue, wa, united states",
+   "location": "Bellevue, WA, United States",
    "posted_at": "2026-11-18T19:56:51+00:00",
    "posted_history": [
     "2026-11-18T19:56:51+00:00"
@@ -8410,6 +8459,21 @@
    "reopened": 0,
    "title": "Staff Software Engineer",
    "url": "https://www.okta.com/company/careers/opportunity/8359871?gh_jid=8359871"
+  },
+  "8359953": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "senior software engineer @ toronto, on, canada",
+   "location": "Toronto, ON, Canada",
+   "posted_at": "2026-11-23T20:08:33+00:00",
+   "posted_history": [
+    "2026-11-23T20:08:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer",
+   "url": "https://www.okta.com/company/careers/opportunity/8359953?gh_jid=8359953"
   },
   "8360107": {
    "closed_at": null,
@@ -8966,6 +9030,21 @@
    "title": "Manager, Enterprise Influencer Relations",
    "url": "https://www.okta.com/company/careers/opportunity/8403496?gh_jid=8403496"
   },
+  "8403501": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "director learning and development @ san francisco, ca, united states",
+   "location": "San Francisco, CA, United States",
+   "posted_at": "2026-11-23T15:25:45+00:00",
+   "posted_history": [
+    "2026-11-23T15:25:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Director, Learning and Development",
+   "url": "https://www.okta.com/company/careers/opportunity/8403501?gh_jid=8403501"
+  },
   "8403862": {
    "closed_at": null,
    "department": "",
@@ -9102,7 +9181,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8405220?gh_jid=8405220"
   },
   "8406236": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-23T13:40:09+00:00",
@@ -9160,6 +9239,21 @@
    "reopened": 0,
    "title": "Senior Manager, Order to Cash & Revenue - Finance Technology",
    "url": "https://www.okta.com/company/careers/opportunity/8407829?gh_jid=8407829"
+  },
+  "8411579": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "senior software engineer @ bengaluru",
+   "location": "Bengaluru",
+   "posted_at": "2026-11-24T05:20:28+00:00",
+   "posted_history": [
+    "2026-11-24T05:20:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer (Java & System design)",
+   "url": "https://www.okta.com/company/careers/opportunity/8411579?gh_jid=8411579"
   }
  }
 }

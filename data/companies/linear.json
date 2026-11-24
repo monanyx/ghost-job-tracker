@@ -143,6 +143,10 @@
   {
    "date": "2026-11-23",
    "open": 32
+  },
+  {
+   "date": "2026-11-24",
+   "open": 30
   }
  ],
  "jobs": {
@@ -537,7 +541,7 @@
    "url": "https://jobs.ashbyhq.com/linear/c0abc97e-b4d7-4ad7-bd13-bc40f4023227"
   },
   "c21af93e-210f-4969-8eaa-90fb16a5b720": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "GTM",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -702,7 +706,7 @@
    "url": "https://jobs.ashbyhq.com/linear/f16dd5e9-ed10-4b8e-b5d7-1b8b5e3f002f"
   },
   "f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "Operations",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

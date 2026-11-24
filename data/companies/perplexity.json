@@ -143,6 +143,10 @@
   {
    "date": "2026-11-23",
    "open": 151
+  },
+  {
+   "date": "2026-11-24",
+   "open": 151
   }
  ],
  "jobs": {
@@ -660,7 +664,7 @@
    "url": "https://jobs.ashbyhq.com/Perplexity/2c6ae16b-d03e-4e33-9d32-362c5388e956"
   },
   "2cfb391c-eaa4-4a97-83da-18ca275d50a5": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-11-17T12:29:08+00:00",
@@ -2001,6 +2005,21 @@
    "title": "Solutions Product Marketing Manager",
    "url": "https://jobs.ashbyhq.com/Perplexity/9e3a4516-b893-4579-9a6a-3720658e4b6d"
   },
+  "9e738c21-f2ab-49d7-b545-b519bb2cf8ae": {
+   "closed_at": null,
+   "department": "Platform & Infrastructure",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "member of technical staff @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-11-23T20:54:59+00:00",
+   "posted_history": [
+    "2026-11-23T20:54:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Member of Technical Staff (Software Engineer, SPACE - Sandbox Platform)",
+   "url": "https://jobs.ashbyhq.com/Perplexity/9e738c21-f2ab-49d7-b545-b519bb2cf8ae"
+  },
   "9ffca709-f4e1-40e7-81bf-270ff73c7a50": {
    "closed_at": null,
    "department": "Recruiting",
@@ -2045,6 +2064,21 @@
    "reopened": 0,
    "title": "Member of Technical Staff (AI Software Engineer, Agents)",
    "url": "https://jobs.ashbyhq.com/perplexity/a172ada5-1a6e-4646-8e0d-26747422af24"
+  },
+  "a2c00e70-8d38-441a-8633-ff1dbfbc94ee": {
+   "closed_at": null,
+   "department": "AI Products",
+   "evergreen": false,
+   "first_seen": "2026-11-24T14:17:17+00:00",
+   "fp": "engineering manager @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-11-23T23:46:42+00:00",
+   "posted_history": [
+    "2026-11-23T23:46:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager (Agent Verticals)",
+   "url": "https://jobs.ashbyhq.com/Perplexity/a2c00e70-8d38-441a-8633-ff1dbfbc94ee"
   },
   "a5316915-559e-4839-8ea7-cb3b16b090ed": {
    "closed_at": null,
@@ -2363,7 +2397,7 @@
    "url": "https://jobs.ashbyhq.com/perplexity/cf99602c-3f06-4443-bc8a-e03d0a67ad4c"
   },
   "d291c382-7252-45e5-8b47-ecec5d6be157": {
-   "closed_at": null,
+   "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "AI Products",
    "evergreen": false,
    "first_seen": "2026-11-21T11:47:59+00:00",
