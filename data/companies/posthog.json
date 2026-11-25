@@ -147,6 +147,10 @@
   {
    "date": "2026-11-24",
    "open": 9
+  },
+  {
+   "date": "2026-11-25",
+   "open": 10
   }
  ],
  "jobs": {
@@ -349,6 +353,21 @@
    "reopened": 1,
    "title": "Technical Support Engineer",
    "url": "https://jobs.ashbyhq.com/PostHog/db808740-242e-4a40-ad43-d41f26c049d7"
+  },
+  "f154781c-0777-4374-8108-5140de5f3871": {
+   "closed_at": null,
+   "department": "Sales & Customer Success",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "data scientist @ remote",
+   "location": "Remote",
+   "posted_at": "2026-11-24T14:38:30+00:00",
+   "posted_history": [
+    "2026-11-24T14:38:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Data Scientist (Sales)",
+   "url": "https://jobs.ashbyhq.com/PostHog/f154781c-0777-4374-8108-5140de5f3871"
   }
  }
 }

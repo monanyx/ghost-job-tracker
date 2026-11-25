@@ -147,6 +147,10 @@
   {
    "date": "2026-11-24",
    "open": 85
+  },
+  {
+   "date": "2026-11-25",
+   "open": 86
   }
  ],
  "jobs": {
@@ -481,7 +485,7 @@
    "url": "https://job-boards.greenhouse.io/gusto/jobs/7942791"
   },
   "7943169": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -680,8 +684,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior staff engineer tax platform @ atlanta, ga - hybrid; austin, tx - remote; chicago, il - remote; denver, co - hybrid; los angeles, ca - remote; miami, fl - remote; new york, ny - hybrid; san francisco, ca - hybrid; seattle, wa - remote",
-   "location": "Atlanta, GA - Hybrid; Austin, TX - Remote; Chicago, IL - Remote; Denver, CO - Hybrid; Los Angeles, CA - Remote; Miami, FL - Remote; New York, NY - Hybrid; San Francisco, CA - Hybrid; Seattle, WA - Remote",
+   "fp": "senior staff engineer tax platform @ boston, ma - remote; denver, co - hybrid; los angeles, ca - remote; maryland, md - remote; new york, ny - hybrid; san diego, ca - remote; san francisco, ca - hybrid; seattle, wa - remote; washington, dc - remote",
+   "location": "Boston, MA - Remote; Denver, CO - Hybrid; Los Angeles, CA - Remote; Maryland, MD - Remote; New York, NY - Hybrid; San Diego, CA - Remote; San Francisco, CA - Hybrid; Seattle, WA - Remote; Washington, DC - Remote",
    "posted_at": "2026-07-02T22:23:21+00:00",
    "posted_history": [
     "2026-07-02T22:23:21+00:00"
@@ -1366,17 +1370,17 @@
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8204403"
   },
   "8205075": {
-   "closed_at": "2026-11-13T11:35:01+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "staff software engineer retirement financial platform @ austin, tx - remote; burlingame, ca - hybrid; chicago, il - remote; denver, co - hybrid; los angeles, ca - remote; miami, fl - remote; new york, ny - hybrid; san francisco, ca - hybrid; seattle, wa - remote",
-   "location": "Austin, TX - Remote; Burlingame, CA - Hybrid; Chicago, IL - Remote; Denver, CO - Hybrid; Los Angeles, CA - Remote; Miami, FL - Remote; New York, NY - Hybrid; San Francisco, CA - Hybrid; Seattle, WA - Remote",
+   "fp": "staff software engineer retirement financial platform @ boston, ma - remote; denver, co - hybrid; los angeles, ca - remote; new york, ny - hybrid; san diego, ca - remote; san francisco, ca - hybrid; seattle, wa - remote; washington, dc - remote",
+   "location": "Boston, MA - Remote; Denver, CO - Hybrid; Los Angeles, CA - Remote; New York, NY - Hybrid; San Diego, CA - Remote; San Francisco, CA - Hybrid; Seattle, WA - Remote; Washington, DC - Remote",
    "posted_at": "2026-10-01T22:51:13+00:00",
    "posted_history": [
     "2026-10-01T22:51:13+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Staff Software Engineer, Retirement Financial Platform",
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8205075"
   },
@@ -2160,6 +2164,21 @@
    "title": "HR Consultant, Ask An Expert",
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8350346"
   },
+  "8351963": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "people insights and operations @ san francisco, ca - hybrid",
+   "location": "San Francisco, CA - Hybrid",
+   "posted_at": "2026-11-25T00:23:32+00:00",
+   "posted_history": [
+    "2026-11-25T00:23:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "People, Insights and Operations",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8351963"
+  },
   "8353774": {
    "closed_at": null,
    "department": "",
@@ -2240,8 +2259,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
-   "fp": "software engineer financial data payments @ denver, co - hybrid; new york, ny - hybrid; san francisco, ca - hybrid; seattle, wa - remote",
-   "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Seattle, WA - Remote",
+   "fp": "software engineer financial data payments @ denver, co - hybrid; new york, ny - hybrid; san francisco, ca - hybrid",
+   "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
    "posted_at": "2026-11-09T20:25:24+00:00",
    "posted_history": [
     "2026-11-09T20:25:24+00:00"

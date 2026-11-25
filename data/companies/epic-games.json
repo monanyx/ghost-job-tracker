@@ -147,6 +147,10 @@
   {
    "date": "2026-11-24",
    "open": 134
+  },
+  {
+   "date": "2026-11-25",
+   "open": 136
   }
  ],
  "jobs": {
@@ -1276,7 +1280,7 @@
    "url": "https://epicgames.com/careers/jobs/6148799004?gh_jid=6148799004"
   },
   "6148974004": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1291,7 +1295,7 @@
    "url": "https://epicgames.com/careers/jobs/6148974004?gh_jid=6148974004"
   },
   "6149331004": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1351,7 +1355,7 @@
    "url": "https://epicgames.com/careers/jobs/6161289004?gh_jid=6161289004"
   },
   "6163851004": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1396,7 +1400,7 @@
    "url": "https://epicgames.com/careers/jobs/6173862004?gh_jid=6173862004"
   },
   "6174265004": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3014,6 +3018,96 @@
    "reopened": 0,
    "title": "Principal Animator",
    "url": "https://epicgames.com/careers/jobs/6266520004?gh_jid=6266520004"
+  },
+  "6268759004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "senior engine programmer verse framework @ cary,north carolina,united states",
+   "location": "Cary,North Carolina,United States",
+   "posted_at": "2026-11-24T16:59:52+00:00",
+   "posted_history": [
+    "2026-11-24T16:59:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Engine Programmer, Verse Framework",
+   "url": "https://epicgames.com/careers/jobs/6268759004?gh_jid=6268759004"
+  },
+  "6268761004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "senior engine programmer verse framework @ blank,blank,multiple locations",
+   "location": "BLANK,BLANK,Multiple Locations",
+   "posted_at": "2026-11-24T16:59:53+00:00",
+   "posted_history": [
+    "2026-11-24T16:59:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Engine Programmer, Verse Framework",
+   "url": "https://epicgames.com/careers/jobs/6268761004?gh_jid=6268761004"
+  },
+  "6268834004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "cyber defense operations director @ cary,north carolina,united states",
+   "location": "Cary,North Carolina,United States",
+   "posted_at": "2026-11-25T00:58:14+00:00",
+   "posted_history": [
+    "2026-11-25T00:58:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Cyber Defense Operations Director",
+   "url": "https://epicgames.com/careers/jobs/6268834004?gh_jid=6268834004"
+  },
+  "6270304004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "senior engine programmer verse framework @ vancouver,british columbia,canada",
+   "location": "Vancouver,British Columbia,Canada",
+   "posted_at": "2026-11-24T16:59:55+00:00",
+   "posted_history": [
+    "2026-11-24T16:59:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Engine Programmer, Verse Framework",
+   "url": "https://epicgames.com/careers/jobs/6270304004?gh_jid=6270304004"
+  },
+  "6270309004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "senior engine programmer verse framework @ london,england,united kingdom",
+   "location": "London,England,United Kingdom",
+   "posted_at": "2026-11-24T16:59:56+00:00",
+   "posted_history": [
+    "2026-11-24T16:59:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Engine Programmer, Verse Framework",
+   "url": "https://epicgames.com/careers/jobs/6270309004?gh_jid=6270309004"
+  },
+  "6270596004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "senior engine programmer verse framework @ montreal,quebec,canada",
+   "location": "Montreal,Quebec,Canada",
+   "posted_at": "2026-11-24T20:27:14+00:00",
+   "posted_history": [
+    "2026-11-24T20:27:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Engine Programmer, Verse Framework",
+   "url": "https://epicgames.com/careers/jobs/6270596004?gh_jid=6270596004"
   }
  }
 }

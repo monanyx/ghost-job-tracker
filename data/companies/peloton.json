@@ -147,6 +147,10 @@
   {
    "date": "2026-11-24",
    "open": 45
+  },
+  {
+   "date": "2026-11-25",
+   "open": 45
   }
  ],
  "jobs": {
@@ -751,7 +755,7 @@
    "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8223422"
   },
   "8223424": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1546,7 +1550,7 @@
    "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8401009"
   },
   "8401055": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-21T11:47:59+00:00",
@@ -1589,6 +1593,36 @@
    "reopened": 0,
    "title": "Peloton Expert (Part-Time) - International Plaza and Bay Street",
    "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8402236"
+  },
+  "8411899": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "join team peloton detroit hiring event @ novi, michigan",
+   "location": "Novi, Michigan",
+   "posted_at": "2026-11-24T20:45:36+00:00",
+   "posted_history": [
+    "2026-11-24T20:45:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Join Team Peloton: Detroit Hiring Event!",
+   "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8411899"
+  },
+  "8411900": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "join team peloton tampa hiring event @ tampa, florida",
+   "location": "Tampa, Florida",
+   "posted_at": "2026-11-24T20:49:00+00:00",
+   "posted_history": [
+    "2026-11-24T20:49:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Join Team Peloton: Tampa Hiring Event!",
+   "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8411900"
   }
  }
 }

@@ -147,6 +147,10 @@
   {
    "date": "2026-11-24",
    "open": 85
+  },
+  {
+   "date": "2026-11-25",
+   "open": 86
   }
  ],
  "jobs": {
@@ -1904,6 +1908,21 @@
    "reopened": 0,
    "title": "Manager, Technical Account Management",
    "url": "https://job-boards.greenhouse.io/vercel/jobs/6269284004"
+  },
+  "6270483004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "developer experiences manager @ hybrid - london",
+   "location": "Hybrid - London",
+   "posted_at": "2026-11-24T19:49:15+00:00",
+   "posted_history": [
+    "2026-11-24T19:49:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Developer Experiences Manager",
+   "url": "https://job-boards.greenhouse.io/vercel/jobs/6270483004"
   }
  }
 }

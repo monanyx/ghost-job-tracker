@@ -147,6 +147,10 @@
   {
    "date": "2026-11-24",
    "open": 50
+  },
+  {
+   "date": "2026-11-25",
+   "open": 49
   }
  ],
  "jobs": {
@@ -361,7 +365,7 @@
    "url": "https://job-boards.greenhouse.io/contentful/jobs/8241814"
   },
   "8257080": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

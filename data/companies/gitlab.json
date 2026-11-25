@@ -147,6 +147,10 @@
   {
    "date": "2026-11-24",
    "open": 252
+  },
+  {
+   "date": "2026-11-25",
+   "open": 247
   }
  ],
  "jobs": {
@@ -601,7 +605,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8628447002"
   },
   "8629019002": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -736,7 +740,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8637995002"
   },
   "8638232002": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1171,7 +1175,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8697043002"
   },
   "8698330002": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1606,7 +1610,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8753656002"
   },
   "8753664002": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1981,7 +1985,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8789857002"
   },
   "8790102002": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4005,6 +4009,21 @@
    "title": "Public Sector Account Executive, Canada - Local Governments",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8891730002"
   },
+  "8891752002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "commercial account executive mid market east @ remote, united states",
+   "location": "Remote, United States",
+   "posted_at": "2026-11-24T17:15:32+00:00",
+   "posted_history": [
+    "2026-11-24T17:15:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Commercial Account Executive - Mid-Market, East",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8891752002"
+  },
   "8891827002": {
    "closed_at": null,
    "department": "",
@@ -4336,7 +4355,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8906915002"
   },
   "8907028002": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -5131,7 +5150,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8929004002"
   },
   "8929253002": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-14T10:56:25+00:00",
@@ -5536,7 +5555,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8937764002"
   },
   "8937797002": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-15T11:30:18+00:00",
@@ -5596,7 +5615,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8937862002"
   },
   "8939857002": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-17T12:29:08+00:00",
@@ -5881,7 +5900,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8948002002"
   },
   "8948050002": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-20T12:11:54+00:00",
@@ -5909,6 +5928,21 @@
    "reopened": 0,
    "title": "Executive Assistant, Product and Marketing",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8948559002"
+  },
+  "8948619002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "senior journey architect @ remote, united states",
+   "location": "Remote, United States",
+   "posted_at": "2026-11-24T16:59:36+00:00",
+   "posted_history": [
+    "2026-11-24T16:59:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Journey Architect",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8948619002"
   },
   "8949468002": {
    "closed_at": null,
@@ -6000,6 +6034,21 @@
    "title": "Senior Executive Assistant, Office of the CRO (EST / CST)",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8954207002"
   },
+  "8955422002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "senior professional services engineer pubsec chantilly va @ remote, united states",
+   "location": "Remote, United States",
+   "posted_at": "2026-11-24T16:45:31+00:00",
+   "posted_history": [
+    "2026-11-24T16:45:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Professional Services Engineer - PubSec - Chantilly, VA",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8955422002"
+  },
   "8955887002": {
    "closed_at": null,
    "department": "",
@@ -6014,6 +6063,21 @@
    "reopened": 0,
    "title": "Principal Executive Recruiter, R&D",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8955887002"
+  },
+  "8956660002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "recruiter r d @ bangalore, india",
+   "location": "Bangalore, India",
+   "posted_at": "2026-11-24T17:24:14+00:00",
+   "posted_history": [
+    "2026-11-24T17:24:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Recruiter, R&D (APJ)",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8956660002"
   },
   "8957054002": {
    "closed_at": null,
@@ -6089,6 +6153,21 @@
    "reopened": 0,
    "title": "Principal Revenue Strategist",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8957104002"
+  },
+  "8959549002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "business development representative australia @ remote, australia",
+   "location": "Remote, Australia",
+   "posted_at": "2026-11-25T05:15:42+00:00",
+   "posted_history": [
+    "2026-11-25T05:15:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Business Development Representative, Australia",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8959549002"
   }
  }
 }

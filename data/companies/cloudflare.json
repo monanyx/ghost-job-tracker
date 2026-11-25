@@ -147,6 +147,10 @@
   {
    "date": "2026-11-24",
    "open": 503
+  },
+  {
+   "date": "2026-11-25",
+   "open": 513
   }
  ],
  "jobs": {
@@ -1456,7 +1460,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/7972135?gh_jid=7972135"
   },
   "7978788": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7321,7 +7325,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8287256?gh_jid=8287256"
   },
   "8288769": {
-   "closed_at": "2026-11-14T10:56:25+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -7331,7 +7335,7 @@
    "posted_history": [
     "2026-10-20T18:59:29+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Principal Engineer",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8288769?gh_jid=8288769"
   },
@@ -7725,6 +7729,21 @@
    "title": "Software Engineer, Agentic Commerce",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8312256?gh_jid=8312256"
   },
+  "8312646": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "senior customer engineer central eastern europe hebrew speaking @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-24T17:08:31+00:00",
+   "posted_history": [
+    "2026-11-24T17:08:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Customer Engineer, Central & Eastern Europe - Hebrew Speaking",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8312646?gh_jid=8312646"
+  },
   "8312664": {
    "closed_at": null,
    "department": "",
@@ -7844,6 +7863,21 @@
    "reopened": 1,
    "title": "Enterprise Architect - Toronto, Canada",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8319377?gh_jid=8319377"
+  },
+  "8323824": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "senior territory account executive korea @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-25T03:18:32+00:00",
+   "posted_history": [
+    "2026-11-25T03:18:32+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Territory Account Executive, Korea",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8323824?gh_jid=8323824"
   },
   "8323918": {
    "closed_at": null,
@@ -8611,7 +8645,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8346327?gh_jid=8346327"
   },
   "8349301": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-11T11:27:30+00:00",
@@ -9230,14 +9264,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-13T11:35:01+00:00",
-   "fp": "senior response engineer cloudflare managed defense center @ hybrid",
+   "fp": "senior response engineer @ hybrid",
    "location": "Hybrid",
    "posted_at": "2026-11-13T04:23:43+00:00",
    "posted_history": [
     "2026-11-13T04:23:43+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Response Engineer - Cloudflare Managed Defense Center (CMDC)",
+   "title": "Senior Response Engineer (Application & network security)",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8376867?gh_jid=8376867"
   },
   "8378849": {
@@ -9690,6 +9724,21 @@
    "title": "Senior Customer Engineer, Digital Native Start ups",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8395705?gh_jid=8395705"
   },
+  "8395882": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "senior customer engineer austin or houston tx @ in-office",
+   "location": "In-Office",
+   "posted_at": "2026-11-24T17:35:43+00:00",
+   "posted_history": [
+    "2026-11-24T17:35:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Customer Engineer - Austin or Houston,TX",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8395882?gh_jid=8395882"
+  },
   "8397865": {
    "closed_at": null,
    "department": "",
@@ -9765,6 +9814,21 @@
    "title": "Software Engineer, Data Primitives",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8398779?gh_jid=8398779"
   },
+  "8399112": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "people operations onboarding specialist @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-24T17:15:16+00:00",
+   "posted_history": [
+    "2026-11-24T17:15:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "People Operations Onboarding Specialist",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8399112?gh_jid=8399112"
+  },
   "8399197": {
    "closed_at": null,
    "department": "",
@@ -9779,6 +9843,36 @@
    "reopened": 0,
    "title": "Incident Response Engineer, SIRT",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8399197?gh_jid=8399197"
+  },
+  "8400327": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "customer engineering manager @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-24T21:11:33+00:00",
+   "posted_history": [
+    "2026-11-24T21:11:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Engineering Manager",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8400327?gh_jid=8400327"
+  },
+  "8400328": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "customer engineering manager @ remote mexico",
+   "location": "Remote Mexico",
+   "posted_at": "2026-11-24T21:11:36+00:00",
+   "posted_history": [
+    "2026-11-24T21:11:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Engineering Manager",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8400328?gh_jid=8400328"
   },
   "8400366": {
    "closed_at": null,
@@ -9975,6 +10069,21 @@
    "title": "Senior Strategic Account Executive, Financials - North Carolina",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8402860?gh_jid=8402860"
   },
+  "8403410": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "oracle epm specialist @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-24T15:54:03+00:00",
+   "posted_history": [
+    "2026-11-24T15:54:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Oracle EPM Specialist",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8403410?gh_jid=8403410"
+  },
   "8403466": {
    "closed_at": null,
    "department": "",
@@ -10050,6 +10159,21 @@
    "title": "HR Operations Specialist, APAC (Full-time)",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8404717?gh_jid=8404717"
   },
+  "8405075": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "senior named account executive melbourne @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-25T10:25:24+00:00",
+   "posted_history": [
+    "2026-11-25T10:25:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Named Account Executive, Melbourne",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8405075?gh_jid=8405075"
+  },
   "8405408": {
    "closed_at": null,
    "department": "",
@@ -10110,6 +10234,21 @@
    "title": "Senior Platform Engineer, Replicate",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8406944?gh_jid=8406944"
   },
+  "8406966": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "product manager self serve growth @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-24T15:35:47+00:00",
+   "posted_history": [
+    "2026-11-24T15:35:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Manager, Self-serve Growth",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8406966?gh_jid=8406966"
+  },
   "8410750": {
    "closed_at": null,
    "department": "",
@@ -10124,6 +10263,36 @@
    "reopened": 0,
    "title": "Marketing Manager, ANZ",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8410750?gh_jid=8410750"
+  },
+  "8411224": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "senior named account executive new business @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-24T18:29:09+00:00",
+   "posted_history": [
+    "2026-11-24T18:29:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Named Account Executive, New Business",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8411224?gh_jid=8411224"
+  },
+  "8412125": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "chief of staff eti @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-24T15:53:38+00:00",
+   "posted_history": [
+    "2026-11-24T15:53:38+00:00"
+   ],
+   "reopened": 0,
+   "title": "Chief of Staff, ETI",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8412125?gh_jid=8412125"
   }
  }
 }

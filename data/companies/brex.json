@@ -147,6 +147,10 @@
   {
    "date": "2026-11-24",
    "open": 263
+  },
+  {
+   "date": "2026-11-25",
+   "open": 261
   }
  ],
  "jobs": {
@@ -2581,7 +2585,7 @@
    "url": "https://www.brex.com/careers/8777953002?gh_jid=8777953002"
   },
   "8780827002": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2596,7 +2600,7 @@
    "url": "https://www.brex.com/careers/8780827002?gh_jid=8780827002"
   },
   "8780828002": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2611,7 +2615,7 @@
    "url": "https://www.brex.com/careers/8780828002?gh_jid=8780828002"
   },
   "8780829002": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3481,7 +3485,7 @@
    "url": "https://www.brex.com/careers/8831517002?gh_jid=8831517002"
   },
   "8831612002": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3571,7 +3575,7 @@
    "url": "https://www.brex.com/careers/8834133002?gh_jid=8834133002"
   },
   "8842315002": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5894,6 +5898,51 @@
    "reopened": 0,
    "title": "Senior Product Manager, Expenses",
    "url": "https://www.brex.com/careers/8959595002?gh_jid=8959595002"
+  },
+  "8960584002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "travel expense manager @ united states",
+   "location": "United States",
+   "posted_at": "2026-11-24T19:12:28+00:00",
+   "posted_history": [
+    "2026-11-24T19:12:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Travel & Expense (T&E) Manager",
+   "url": "https://www.brex.com/careers/8960584002?gh_jid=8960584002"
+  },
+  "8960878002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "field marketing coordinator upmarket @ remote",
+   "location": "Remote",
+   "posted_at": "2026-11-24T18:49:17+00:00",
+   "posted_history": [
+    "2026-11-24T18:49:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Field Marketing Coordinator, Upmarket",
+   "url": "https://www.brex.com/careers/8960878002?gh_jid=8960878002"
+  },
+  "8961072002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "travel expense manager @ united states",
+   "location": "United States",
+   "posted_at": "2026-11-24T19:13:03+00:00",
+   "posted_history": [
+    "2026-11-24T19:13:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Travel & Expense (T&E) Manager",
+   "url": "https://www.brex.com/careers/8961072002?gh_jid=8961072002"
   }
  }
 }

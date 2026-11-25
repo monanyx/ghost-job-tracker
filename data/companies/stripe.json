@@ -147,6 +147,10 @@
   {
    "date": "2026-11-24",
    "open": 769
+  },
+  {
+   "date": "2026-11-25",
+   "open": 771
   }
  ],
  "jobs": {
@@ -586,7 +590,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=7298935"
   },
   "7337544": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -875,14 +879,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "staff product manager ml foundations and genai @ seattle, san francisco, new york, us - remote",
+   "fp": "staff product manager genai and agent foundations @ seattle, san francisco, new york, us - remote",
    "location": "Seattle, San Francisco, New York, US - Remote",
    "posted_at": "2026-01-21T18:00:49+00:00",
    "posted_history": [
     "2026-01-21T18:00:49+00:00"
    ],
    "reopened": 0,
-   "title": "Staff Product Manager, ML Foundations and GenAI",
+   "title": "Staff Product Manager, GenAI and Agent Foundations",
    "url": "https://stripe.com/jobs/search?gh_jid=7517535"
   },
   "7523947": {
@@ -1861,7 +1865,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=7869917"
   },
   "7882492": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1996,7 +2000,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=7913698"
   },
   "7913700": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-28T10:01:46+00:00",
@@ -2296,7 +2300,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=7960875"
   },
   "7961101": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4186,7 +4190,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8093103"
   },
   "8094087": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5281,7 +5285,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8131144"
   },
   "8131339": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7051,7 +7055,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8175647"
   },
   "8175651": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7169,6 +7173,21 @@
    "reopened": 0,
    "title": "Program Manager, Competitive Programs",
    "url": "https://stripe.com/jobs/search?gh_jid=8175673"
+  },
+  "8175816": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "critical support operations associate weekend coverage @ n/a",
+   "location": "N/A",
+   "posted_at": "2026-09-04T06:28:51+00:00",
+   "posted_history": [
+    "2026-09-04T06:28:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Critical Support Operations Associate, Weekend Coverage",
+   "url": "https://stripe.com/jobs/search?gh_jid=8175816"
   },
   "8175818": {
    "closed_at": "2026-10-20T08:53:12+00:00",
@@ -7711,7 +7730,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8181034"
   },
   "8181036": {
-   "closed_at": "2026-10-23T08:50:35+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7721,7 +7740,7 @@
    "posted_history": [
     "2026-09-11T23:43:50+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Sales Manager, Product- Fraud & Risk",
    "url": "https://stripe.com/jobs/search?gh_jid=8181036"
   },
@@ -8056,7 +8075,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8190036"
   },
   "8190038": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-18T12:16:07+00:00",
@@ -8885,14 +8904,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "fraud architect @ sf-hq, chicago, new york, us-remote",
+   "fp": "transaction fraud architect @ sf-hq, chicago, new york, us-remote",
    "location": "SF-HQ, Chicago, New York, US-Remote",
    "posted_at": "2026-10-06T23:50:04+00:00",
    "posted_history": [
     "2026-10-06T23:50:04+00:00"
    ],
    "reopened": 0,
-   "title": "Fraud Architect",
+   "title": "Transaction Fraud Architect",
    "url": "https://stripe.com/jobs/search?gh_jid=8203220"
   },
   "8203649": {
@@ -9136,7 +9155,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8206733"
   },
   "8207708": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -9466,7 +9485,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8212325"
   },
   "8212508": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -10186,7 +10205,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8230306"
   },
   "8230758": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -11010,6 +11029,21 @@
    "title": "Paralegal Litigation",
    "url": "https://stripe.com/jobs/search?gh_jid=8243619"
   },
+  "8243621": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "international employee relations people risk compliance lead @ dublin/london",
+   "location": "Dublin/London",
+   "posted_at": "2026-11-24T17:49:10+00:00",
+   "posted_history": [
+    "2026-11-24T17:49:10+00:00"
+   ],
+   "reopened": 0,
+   "title": "International Employee Relations, People Risk & Compliance Lead",
+   "url": "https://stripe.com/jobs/search?gh_jid=8243621"
+  },
   "8244505": {
    "closed_at": null,
    "department": "",
@@ -11775,6 +11809,21 @@
    "title": "Enterprise Services Manager, Professional Services",
    "url": "https://stripe.com/jobs/search?gh_jid=8265139"
   },
+  "8265144": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "privacy counsel americas @ us remote",
+   "location": "US remote",
+   "posted_at": "2026-10-13T14:15:30+00:00",
+   "posted_history": [
+    "2026-10-13T14:15:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Privacy Counsel, Americas",
+   "url": "https://stripe.com/jobs/search?gh_jid=8265144"
+  },
   "8265151": {
    "closed_at": null,
    "department": "",
@@ -12241,7 +12290,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8275259"
   },
   "8275261": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -12301,7 +12350,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8275556"
   },
   "8275558": {
-   "closed_at": "2026-11-12T11:51:19+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
@@ -12311,7 +12360,7 @@
    "posted_history": [
     "2026-10-28T14:28:34+00:00"
    ],
-   "reopened": 1,
+   "reopened": 2,
    "title": "Customer Support Specialist, Clerky",
    "url": "https://stripe.com/jobs/search?gh_jid=8275558"
   },
@@ -12869,6 +12918,21 @@
    "reopened": 0,
    "title": "Account Executive - Startup SaaS Platforms, Scaled UK Hunter",
    "url": "https://stripe.com/jobs/search?gh_jid=8288876"
+  },
+  "8288879": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "sdc recruiter @ bangalore",
+   "location": "Bangalore",
+   "posted_at": "2026-11-25T10:37:07+00:00",
+   "posted_history": [
+    "2026-11-25T10:37:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "SDC Recruiter",
+   "url": "https://stripe.com/jobs/search?gh_jid=8288879"
   },
   "8289414": {
    "closed_at": "2026-11-12T11:51:19+00:00",
@@ -13486,7 +13550,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8317306"
   },
   "8317310": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-20T12:11:54+00:00",
@@ -15151,7 +15215,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8351589"
   },
   "8352045": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
@@ -16320,6 +16384,21 @@
    "title": "Head of AML/CTF - Ireland",
    "url": "https://stripe.com/jobs/search?gh_jid=8394657"
   },
+  "8394936": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "software engineer experimental projects @ new york city",
+   "location": "New York City ",
+   "posted_at": "2026-11-24T16:32:21+00:00",
+   "posted_history": [
+    "2026-11-24T16:32:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Experimental Projects",
+   "url": "https://stripe.com/jobs/search?gh_jid=8394936"
+  },
   "8395851": {
    "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
@@ -16349,6 +16428,21 @@
    "reopened": 0,
    "title": "Deal Strategist",
    "url": "https://stripe.com/jobs/search?gh_jid=8396168"
+  },
+  "8397257": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "designer web presence platform @ canada",
+   "location": "Canada",
+   "posted_at": "2026-11-24T17:50:29+00:00",
+   "posted_history": [
+    "2026-11-24T17:50:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Designer, Web Presence & Platform",
+   "url": "https://stripe.com/jobs/search?gh_jid=8397257"
   },
   "8397260": {
    "closed_at": "2026-11-24T14:17:17+00:00",
@@ -16394,6 +16488,21 @@
    "reopened": 0,
    "title": "Staff Offensive Security Engineer, Proactive threat",
    "url": "https://stripe.com/jobs/search?gh_jid=8399913"
+  },
+  "8401662": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "accounting analyst @ bengaluru",
+   "location": "Bengaluru",
+   "posted_at": "2026-11-24T17:31:28+00:00",
+   "posted_history": [
+    "2026-11-24T17:31:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Accounting Analyst",
+   "url": "https://stripe.com/jobs/search?gh_jid=8401662"
   },
   "8403659": {
    "closed_at": null,
@@ -16482,7 +16591,7 @@
     "2026-11-20T16:02:37+00:00"
    ],
    "reopened": 0,
-   "title": "Integration Engineer",
+   "title": "Integration Engineer (Client-Facing)",
    "url": "https://stripe.com/jobs/search?gh_jid=8405596"
   },
   "8405746": {
@@ -16590,6 +16699,21 @@
    "title": "Account Executive, Commercial Scaled Grower",
    "url": "https://stripe.com/jobs/search?gh_jid=8411021"
   },
+  "8411217": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "accounts payable analyst @ bengaluru",
+   "location": "Bengaluru",
+   "posted_at": "2026-11-25T04:47:48+00:00",
+   "posted_history": [
+    "2026-11-25T04:47:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "Accounts Payable Analyst",
+   "url": "https://stripe.com/jobs/search?gh_jid=8411217"
+  },
   "8411927": {
    "closed_at": null,
    "department": "",
@@ -16619,6 +16743,96 @@
    "reopened": 0,
    "title": "Software Engineer, Core Technology",
    "url": "https://stripe.com/jobs/search?gh_jid=8411988"
+  },
+  "8412977": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "account executive product crypto stablecoins @ nyc, sf",
+   "location": "NYC, SF",
+   "posted_at": "2026-11-24T20:07:00+00:00",
+   "posted_history": [
+    "2026-11-24T20:07:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, Product Crypto/Stablecoins",
+   "url": "https://stripe.com/jobs/search?gh_jid=8412977"
+  },
+  "8412983": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "account executive product crypto stablecoins @ sf, nyc",
+   "location": "SF, NYC",
+   "posted_at": "2026-11-24T20:08:34+00:00",
+   "posted_history": [
+    "2026-11-24T20:08:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive Product, Crypto/Stablecoins",
+   "url": "https://stripe.com/jobs/search?gh_jid=8412983"
+  },
+  "8414351": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "product manager stripe business network @ nyc, ssf, sea, chicago, toronto, us-remote",
+   "location": "NYC, SSF, SEA, Chicago, Toronto, US-Remote",
+   "posted_at": "2026-11-24T16:41:54+00:00",
+   "posted_history": [
+    "2026-11-24T16:41:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Manager, Stripe Business Network",
+   "url": "https://stripe.com/jobs/search?gh_jid=8414351"
+  },
+  "8414490": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "renewals specialist @ dublin",
+   "location": "Dublin",
+   "posted_at": "2026-11-25T00:09:42+00:00",
+   "posted_history": [
+    "2026-11-25T00:09:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Renewals Specialist",
+   "url": "https://stripe.com/jobs/search?gh_jid=8414490"
+  },
+  "8414532": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "infrastructure engineer workflow engine @ seattle, wa",
+   "location": "Seattle, WA ",
+   "posted_at": "2026-11-24T17:31:26+00:00",
+   "posted_history": [
+    "2026-11-24T17:31:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Infrastructure Engineer, Workflow Engine",
+   "url": "https://stripe.com/jobs/search?gh_jid=8414532"
+  },
+  "8415333": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "analytics engineer @ new york",
+   "location": "New York",
+   "posted_at": "2026-11-24T22:35:42+00:00",
+   "posted_history": [
+    "2026-11-24T22:35:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Analytics Engineer",
+   "url": "https://stripe.com/jobs/search?gh_jid=8415333"
   }
  }
 }

@@ -147,6 +147,10 @@
   {
    "date": "2026-11-24",
    "open": 262
+  },
+  {
+   "date": "2026-11-25",
+   "open": 258
   }
  ],
  "jobs": {
@@ -436,7 +440,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7618724003?gh_jid=7618724003"
   },
   "7627681003": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -451,7 +455,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7627681003?gh_jid=7627681003"
   },
   "7627708003": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2221,7 +2225,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7853304003?gh_jid=7853304003"
   },
   "7853433003": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4276,7 +4280,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8046316003?gh_jid=8046316003"
   },
   "8046331003": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
@@ -5311,7 +5315,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8202426003?gh_jid=8202426003"
   },
   "8202446003": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-13T11:35:01+00:00",
@@ -5341,7 +5345,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8202447003?gh_jid=8202447003"
   },
   "8202449003": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-13T11:35:01+00:00",
@@ -5654,6 +5658,36 @@
    "reopened": 0,
    "title": "Principal Enterprise Architect - AI & Cloud Integrations",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8210402003?gh_jid=8210402003"
+  },
+  "8215145003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "galaxy manager nam @ new york, us, new york",
+   "location": "New York, US, New York",
+   "posted_at": "2026-11-24T15:21:45+00:00",
+   "posted_history": [
+    "2026-11-24T15:21:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Galaxy Manager NAM",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/8215145003?gh_jid=8215145003"
+  },
+  "8216843003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "associate solution consultant orbit program @ munich, germany",
+   "location": "Munich, Germany",
+   "posted_at": "2026-11-25T08:43:39+00:00",
+   "posted_history": [
+    "2026-11-25T08:43:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Associate (AI) Solution Consultant - Orbit Program",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/8216843003?gh_jid=8216843003"
   }
  }
 }

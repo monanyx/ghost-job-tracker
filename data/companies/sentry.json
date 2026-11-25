@@ -147,6 +147,10 @@
   {
    "date": "2026-11-24",
    "open": 42
+  },
+  {
+   "date": "2026-11-25",
+   "open": 41
   }
  ],
  "jobs": {
@@ -542,7 +546,7 @@
    "url": "https://jobs.ashbyhq.com/sentry/92f30f40-9596-4b66-9fd0-7ca5203f629d"
   },
   "9405b1d7-9a4e-424d-b5b2-4bc3cb2ba5cb": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "Design ",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

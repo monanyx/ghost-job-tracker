@@ -147,6 +147,10 @@
   {
    "date": "2026-11-24",
    "open": 419
+  },
+  {
+   "date": "2026-11-25",
+   "open": 420
   }
  ],
  "jobs": {
@@ -1261,7 +1265,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=7628750"
   },
   "7653008": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1304,6 +1308,21 @@
    "reopened": 0,
    "title": "Senior Site Reliability Engineer, Infrastructure Security",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=7668289"
+  },
+  "7669637": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "account development representative @ tysons",
+   "location": "Tysons",
+   "posted_at": "2026-03-03T16:49:39+00:00",
+   "posted_history": [
+    "2026-03-03T16:49:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Development Representative",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=7669637"
   },
   "7687359": {
    "closed_at": null,
@@ -2371,7 +2390,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8049846"
   },
   "8051197": {
-   "closed_at": "2026-10-28T10:01:46+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2381,7 +2400,7 @@
    "posted_history": [
     "2026-07-22T12:56:04+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Enterprise Account Executive, Growth",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8051197"
   },
@@ -2476,17 +2495,17 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8054102"
   },
   "8054272": {
-   "closed_at": "2026-10-22T08:55:54+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior solutions architect @ montreal",
-   "location": "Montreal",
+   "fp": "senior solutions architect @ toronto",
+   "location": "Toronto",
    "posted_at": "2026-07-13T15:33:18+00:00",
    "posted_history": [
     "2026-07-13T15:33:18+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Solutions Architect (Pre-Sales)",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8054272"
   },
@@ -2926,7 +2945,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8089932"
   },
   "8091796": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3946,7 +3965,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8155641"
   },
   "8157127": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4246,7 +4265,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8173399"
   },
   "8173625": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4516,7 +4535,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8178900"
   },
   "8180105": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5495,8 +5514,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior solutions architect @ singapore",
-   "location": "Singapore",
+   "fp": "senior solutions architect @ malaysia; singapore",
+   "location": "Malaysia; Singapore",
    "posted_at": "2026-10-06T04:01:46+00:00",
    "posted_history": [
     "2026-10-06T04:01:46+00:00"
@@ -5626,7 +5645,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8234338"
   },
   "8234520": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7385,8 +7404,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-02T11:41:30+00:00",
-   "fp": "solutions architect thai speaking @ singapore",
-   "location": "Singapore",
+   "fp": "solutions architect thai speaking @ malaysia; singapore",
+   "location": "Malaysia; Singapore",
    "posted_at": "2026-11-02T11:06:36+00:00",
    "posted_history": [
     "2026-11-02T11:06:36+00:00"
@@ -7756,7 +7775,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8352883"
   },
   "8353184": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-05T11:30:12+00:00",
@@ -8640,6 +8659,21 @@
    "title": "Principal GTM Operations Analyst",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8386087"
   },
+  "8386492": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "program manager customer strategy operations @ mexico city",
+   "location": "Mexico City",
+   "posted_at": "2026-11-24T19:37:04+00:00",
+   "posted_history": [
+    "2026-11-24T19:37:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "Program Manager, Customer Strategy & Operations",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8386492"
+  },
   "8386495": {
    "closed_at": null,
    "department": "",
@@ -8729,6 +8763,21 @@
    "reopened": 0,
    "title": "Revenue Marketing Manager",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8395596"
+  },
+  "8395701": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "senior software engineer @ dublin",
+   "location": "Dublin",
+   "posted_at": "2026-11-25T12:52:56+00:00",
+   "posted_history": [
+    "2026-11-25T12:52:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8395701"
   },
   "8395822": {
    "closed_at": null,
@@ -8955,6 +9004,21 @@
    "title": "Technical Recruiter, Contract",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8403216"
   },
+  "8403226": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "senior legal counsel @ singapore",
+   "location": "Singapore",
+   "posted_at": "2026-11-25T03:53:35+00:00",
+   "posted_history": [
+    "2026-11-25T03:53:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Legal Counsel",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8403226"
+  },
   "8403312": {
    "closed_at": null,
    "department": "",
@@ -9090,6 +9154,21 @@
    "title": "Software Engineer 3",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8406857"
   },
+  "8411524": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "manager gtm operations @ gurugram",
+   "location": "Gurugram",
+   "posted_at": "2026-11-25T11:10:13+00:00",
+   "posted_history": [
+    "2026-11-25T11:10:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, GTM Operations",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8411524"
+  },
   "8412006": {
    "closed_at": null,
    "department": "",
@@ -9104,6 +9183,21 @@
    "reopened": 0,
    "title": "GTM Recruiter, Contract",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8412006"
+  },
+  "8412160": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "senior manager workplace operations safety security @ palo alto",
+   "location": "Palo Alto",
+   "posted_at": "2026-11-24T16:35:48+00:00",
+   "posted_history": [
+    "2026-11-24T16:35:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Workplace Operations, Safety & Security",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8412160"
   }
  }
 }

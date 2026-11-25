@@ -147,6 +147,10 @@
   {
    "date": "2026-11-24",
    "open": 53
+  },
+  {
+   "date": "2026-11-25",
+   "open": 53
   }
  ],
  "jobs": {
@@ -616,7 +620,7 @@
    "url": "https://careers.duolingo.com/jobs/8722385002?gh_jid=8722385002"
   },
   "8725638002": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1364,6 +1368,21 @@
    "reopened": 0,
    "title": "Head of Technical Recruiting",
    "url": "https://careers.duolingo.com/jobs/8951657002?gh_jid=8951657002"
+  },
+  "8960882002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "senior data scientist forecasting @ new york, ny; pittsburgh, pa",
+   "location": "New York, NY; Pittsburgh, PA",
+   "posted_at": "2026-11-24T18:47:12+00:00",
+   "posted_history": [
+    "2026-11-24T18:47:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Data Scientist, Forecasting",
+   "url": "https://careers.duolingo.com/jobs/8960882002?gh_jid=8960882002"
   }
  }
 }

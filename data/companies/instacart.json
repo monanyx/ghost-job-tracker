@@ -147,6 +147,10 @@
   {
    "date": "2026-11-24",
    "open": 96
+  },
+  {
+   "date": "2026-11-25",
+   "open": 98
   }
  ],
  "jobs": {
@@ -1411,7 +1415,7 @@
    "url": "https://instacart.careers/job/?gh_jid=8234282"
   },
   "8234552": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2894,6 +2898,51 @@
    "reopened": 0,
    "title": "Product Counsel",
    "url": "https://instacart.careers/job/?gh_jid=8412568"
+  },
+  "8415370": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "senior salesforce developer @ canada - remote (on, ab, bc, or ns only)",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-11-24T23:12:39+00:00",
+   "posted_history": [
+    "2026-11-24T23:12:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Salesforce Developer",
+   "url": "https://instacart.careers/job/?gh_jid=8415370"
+  },
+  "8415557": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "staff software engineer developer experience @ canada - remote (on, ab, bc, or ns only)",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-11-24T22:59:34+00:00",
+   "posted_history": [
+    "2026-11-24T22:59:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer, Developer Experience",
+   "url": "https://instacart.careers/job/?gh_jid=8415557"
+  },
+  "8415777": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "senior staff software engineer ai productivity @ united states - remote",
+   "location": "United States - Remote",
+   "posted_at": "2026-11-25T00:32:00+00:00",
+   "posted_history": [
+    "2026-11-25T00:32:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Staff Software Engineer, AI Productivity",
+   "url": "https://instacart.careers/job/?gh_jid=8415777"
   }
  }
 }

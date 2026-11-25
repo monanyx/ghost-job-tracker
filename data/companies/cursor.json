@@ -147,6 +147,10 @@
   {
    "date": "2026-11-24",
    "open": 87
+  },
+  {
+   "date": "2026-11-25",
+   "open": 87
   }
  ],
  "jobs": {
@@ -719,6 +723,21 @@
    "reopened": 0,
    "title": "Field Engineer, Healthcare",
    "url": "https://jobs.ashbyhq.com/cursor/1cfacf1a-4ba7-4e68-9f65-4fb8e3525bde"
+  },
+  "1d2b496f-c867-40ac-9ca7-cba8436ec2c4": {
+   "closed_at": null,
+   "department": "Marketing",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "integrated campaigns apj @ australia",
+   "location": "Australia",
+   "posted_at": "2026-11-24T17:23:19+00:00",
+   "posted_history": [
+    "2026-11-24T17:23:19+00:00"
+   ],
+   "reopened": 0,
+   "title": "Integrated Campaigns, APJ",
+   "url": "https://jobs.ashbyhq.com/cursor/1d2b496f-c867-40ac-9ca7-cba8436ec2c4"
   },
   "1d3a2047-4739-479b-914d-377046f0fd1a": {
    "closed_at": "2026-11-19T12:10:18+00:00",
@@ -3995,7 +4014,7 @@
    "url": "https://jobs.ashbyhq.com/cursor/f7dd8f73-e204-4e34-bb4a-2e7fccc4f3f8"
   },
   "f7ec7811-a573-42fa-8ade-01e2d07681ef": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "Solutions",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

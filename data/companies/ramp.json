@@ -147,6 +147,10 @@
   {
    "date": "2026-11-24",
    "open": 180
+  },
+  {
+   "date": "2026-11-25",
+   "open": 182
   }
  ],
  "jobs": {
@@ -2584,6 +2588,21 @@
    "title": "Senior Recruiter, Emerging Talent",
    "url": "https://jobs.ashbyhq.com/ramp/b0433f82-e0c0-4dd8-9d41-c6bf2371c2ea"
   },
+  "b15a2f20-a84c-4935-ada7-68e615319e33": {
+   "closed_at": null,
+   "department": "Marketing",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "growth lead new product @ new york, ny (hq)",
+   "location": "New York, NY (HQ)",
+   "posted_at": "2026-11-24T18:58:34+00:00",
+   "posted_history": [
+    "2026-11-24T18:58:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Growth Lead, New Product",
+   "url": "https://jobs.ashbyhq.com/ramp/b15a2f20-a84c-4935-ada7-68e615319e33"
+  },
   "b18f851e-8784-452f-9eb1-43b57e8c2871": {
    "closed_at": null,
    "department": "Finance",
@@ -3145,7 +3164,7 @@
    "url": "https://jobs.ashbyhq.com/ramp/d64609dd-c391-45a2-bfdb-c1bb34e8f93c"
   },
   "d7c117f8-45e4-4212-8bc5-233ff60c7038": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "People & Talent",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3354,6 +3373,36 @@
    "reopened": 0,
    "title": "Product Designer",
    "url": "https://jobs.ashbyhq.com/ramp/eca54d0e-232a-4c3e-bfcc-d6c6add393f5"
+  },
+  "ed1cdf7e-eb48-43bf-abc7-b058224492fc": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "senior partner account manager isv @ new york, ny (hq)",
+   "location": "New York, NY (HQ)",
+   "posted_at": "2026-11-25T00:06:00+00:00",
+   "posted_history": [
+    "2026-11-25T00:06:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Partner Account Manager, ISV",
+   "url": "https://jobs.ashbyhq.com/ramp/ed1cdf7e-eb48-43bf-abc7-b058224492fc"
+  },
+  "ed41c87a-f944-447c-b1aa-7d8a2c005560": {
+   "closed_at": null,
+   "department": "People & Talent",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "people strategy m a lead @ new york, ny (hq)",
+   "location": "New York, NY (HQ)",
+   "posted_at": "2026-11-25T00:36:30+00:00",
+   "posted_history": [
+    "2026-11-25T00:36:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "People Strategy, M&A Lead",
+   "url": "https://jobs.ashbyhq.com/ramp/ed41c87a-f944-447c-b1aa-7d8a2c005560"
   },
   "ee493d8f-c75e-4ca4-b665-1576e835f522": {
    "closed_at": null,

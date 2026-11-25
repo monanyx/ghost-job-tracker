@@ -147,6 +147,10 @@
   {
    "date": "2026-11-24",
    "open": 10
+  },
+  {
+   "date": "2026-11-25",
+   "open": 7
   }
  ],
  "jobs": {
@@ -166,7 +170,7 @@
    "url": "https://job-boards.greenhouse.io/airtable/jobs/7909563002"
   },
   "8368711002": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -181,7 +185,7 @@
    "url": "https://job-boards.greenhouse.io/airtable/jobs/8368711002"
   },
   "8403107002": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -196,7 +200,7 @@
    "url": "https://job-boards.greenhouse.io/airtable/jobs/8403107002"
   },
   "8403127002": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

@@ -147,6 +147,10 @@
   {
    "date": "2026-11-24",
    "open": 50
+  },
+  {
+   "date": "2026-11-25",
+   "open": 51
   }
  ],
  "jobs": {
@@ -1334,6 +1338,21 @@
    "reopened": 0,
    "title": "Software Engineer I, Commerce",
    "url": "https://job-boards.greenhouse.io/twitch/jobs/8949388002"
+  },
+  "8953490002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "data scientist discovery recommendations @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-25T00:35:37+00:00",
+   "posted_history": [
+    "2026-11-25T00:35:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Data Scientist, Discovery & Recommendations",
+   "url": "https://job-boards.greenhouse.io/twitch/jobs/8953490002"
   }
  }
 }

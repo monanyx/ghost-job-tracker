@@ -147,6 +147,10 @@
   {
    "date": "2026-11-24",
    "open": 361
+  },
+  {
+   "date": "2026-11-25",
+   "open": 362
   }
  ],
  "jobs": {
@@ -181,7 +185,7 @@
    "url": "https://careers.hellofresh.com/global/en/job/4410609?gh_jid=4410609"
   },
   "5742556": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": true,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -376,7 +380,7 @@
    "url": "https://careers.hellofresh.com/global/en/job/7454666?gh_jid=7454666"
   },
   "7486803": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -815,14 +819,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-21T11:47:59+00:00",
-   "fp": "creator channel manager @ berlin, berlin, germany",
+   "fp": "senior creator channel manager @ berlin, berlin, germany",
    "location": "Berlin, Berlin, Germany",
    "posted_at": "2026-06-25T11:43:51+00:00",
    "posted_history": [
     "2026-06-25T11:43:51+00:00"
    ],
    "reopened": 0,
-   "title": "Creator Channel Manager (all genders)",
+   "title": "Senior Creator Channel Manager (all genders)",
    "url": "https://careers.hellofresh.com/global/en/job/8020347?gh_jid=8020347"
   },
   "8020349": {
@@ -830,14 +834,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-21T11:47:59+00:00",
-   "fp": "creator channel manager @ berlin, berlin, germany",
+   "fp": "senior creator channel manager @ berlin, berlin, germany",
    "location": "Berlin, Berlin, Germany",
    "posted_at": "2026-06-25T11:43:50+00:00",
    "posted_history": [
     "2026-06-25T11:43:50+00:00"
    ],
    "reopened": 0,
-   "title": "Creator Channel Manager (all genders)",
+   "title": "Senior Creator Channel Manager (all genders)",
    "url": "https://careers.hellofresh.com/global/en/job/8020349?gh_jid=8020349"
   },
   "8020924": {
@@ -1051,7 +1055,7 @@
    "url": "https://careers.hellofresh.com/global/en/job/8037653?gh_jid=8037653"
   },
   "8038010": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1831,7 +1835,7 @@
    "url": "https://careers.hellofresh.com/global/en/job/8105183?gh_jid=8105183"
   },
   "8105320": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3016,7 +3020,7 @@
    "url": "https://careers.hellofresh.com/global/en/job/8159710?gh_jid=8159710"
   },
   "8159769": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4411,7 +4415,7 @@
    "url": "https://careers.hellofresh.com/global/en/job/8207829?gh_jid=8207829"
   },
   "8207835": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5025,6 +5029,21 @@
    "title": "Area Manager II",
    "url": "https://careers.hellofresh.com/global/en/job/8227062?gh_jid=8227062"
   },
+  "8230539": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "data engineer @ toronto, ontario, canada",
+   "location": "Toronto, Ontario, Canada",
+   "posted_at": "2026-10-05T07:50:36+00:00",
+   "posted_history": [
+    "2026-10-05T07:50:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Data Engineer",
+   "url": "https://careers.hellofresh.com/global/en/job/8230539?gh_jid=8230539"
+  },
   "8230615": {
    "closed_at": "2026-11-20T12:11:54+00:00",
    "department": "",
@@ -5191,7 +5210,7 @@
    "url": "https://careers.hellofresh.com/global/en/job/8234237?gh_jid=8234237"
   },
   "8234489": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5519,6 +5538,21 @@
    "reopened": 0,
    "title": "Associate Maintenance Manager",
    "url": "https://careers.hellofresh.com/global/en/job/8242736?gh_jid=8242736"
+  },
+  "8242747": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "production team leader @ derby, england, united kingdom",
+   "location": "Derby, England, United Kingdom",
+   "posted_at": "2026-11-25T08:30:51+00:00",
+   "posted_history": [
+    "2026-11-25T08:30:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Production Team Leader",
+   "url": "https://careers.hellofresh.com/global/en/job/8242747?gh_jid=8242747"
   },
   "8242751": {
    "closed_at": null,
@@ -6436,7 +6470,7 @@
    "url": "https://careers.hellofresh.com/global/en/job/8268133?gh_jid=8268133"
   },
   "8268463": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6646,7 +6680,7 @@
    "url": "https://careers.hellofresh.com/global/en/job/8278761?gh_jid=8278761"
   },
   "8278802": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
@@ -6796,7 +6830,7 @@
    "url": "https://careers.hellofresh.com/global/en/job/8280899?gh_jid=8280899"
   },
   "8280962": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
@@ -6811,7 +6845,7 @@
    "url": "https://careers.hellofresh.com/global/en/job/8280962?gh_jid=8280962"
   },
   "8280995": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
@@ -7906,7 +7940,7 @@
    "url": "https://careers.hellofresh.com/global/en/job/8327068?gh_jid=8327068"
   },
   "8327273": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-28T10:01:46+00:00",
@@ -9210,8 +9244,23 @@
    "title": "FSQA Supervisor (all genders)",
    "url": "https://careers.hellofresh.com/global/en/job/8366259?gh_jid=8366259"
   },
-  "8366714": {
+  "8366501": {
    "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "senior data platform engineer intelligent platforms @ warszawa, masovian voivodeship, poland",
+   "location": "Warszawa, Masovian Voivodeship, Poland",
+   "posted_at": "2026-11-25T13:14:30+00:00",
+   "posted_history": [
+    "2026-11-25T13:14:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Data Platform Engineer, Intelligent Platforms",
+   "url": "https://careers.hellofresh.com/global/en/job/8366501?gh_jid=8366501"
+  },
+  "8366714": {
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
@@ -9615,6 +9664,21 @@
    "title": "Delivery Station Supervisor",
    "url": "https://careers.hellofresh.com/global/en/job/8381818?gh_jid=8381818"
   },
+  "8382590": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "senior machine learning engineer growth alliance @ warszawa, masovian voivodeship, poland",
+   "location": "Warszawa, Masovian Voivodeship, Poland",
+   "posted_at": "2026-11-24T19:42:48+00:00",
+   "posted_history": [
+    "2026-11-24T19:42:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Machine Learning Engineer, Growth Alliance (all genders)",
+   "url": "https://careers.hellofresh.com/global/en/job/8382590?gh_jid=8382590"
+  },
   "8383114": {
    "closed_at": null,
    "department": "",
@@ -9751,7 +9815,7 @@
    "url": "https://careers.hellofresh.com/global/en/job/8385073?gh_jid=8385073"
   },
   "8385324": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-22T11:59:27+00:00",
@@ -9809,6 +9873,36 @@
    "reopened": 0,
    "title": "Office Administrator [AM Shift]",
    "url": "https://careers.hellofresh.com/global/en/job/8393876?gh_jid=8393876"
+  },
+  "8395233": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "senior software engineer @ toronto, ontario, canada",
+   "location": "Toronto, Ontario, Canada",
+   "posted_at": "2026-11-24T19:42:11+00:00",
+   "posted_history": [
+    "2026-11-24T19:42:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer [OPERATIONS TECHNOLOGY]",
+   "url": "https://careers.hellofresh.com/global/en/job/8395233?gh_jid=8395233"
+  },
+  "8395235": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "senior software engineer @ boulder, colorado, united states; chicago, illinois, united states",
+   "location": "Boulder, Colorado, United States; Chicago, Illinois, United States",
+   "posted_at": "2026-11-24T19:42:17+00:00",
+   "posted_history": [
+    "2026-11-24T19:42:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer [OPERATIONS TECHNOLOGY]",
+   "url": "https://careers.hellofresh.com/global/en/job/8395235?gh_jid=8395235"
   },
   "8395865": {
    "closed_at": "2026-11-24T14:17:17+00:00",
@@ -10170,6 +10264,36 @@
    "title": "Senior Manager, Global Direct Procurement",
    "url": "https://careers.hellofresh.com/global/en/job/8401975?gh_jid=8401975"
   },
+  "8402204": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "senior frontend engineer @ warszawa, masovian voivodeship, poland",
+   "location": "Warszawa, Masovian Voivodeship, Poland",
+   "posted_at": "2026-11-24T14:19:54+00:00",
+   "posted_history": [
+    "2026-11-24T14:19:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Frontend Engineer",
+   "url": "https://careers.hellofresh.com/global/en/job/8402204?gh_jid=8402204"
+  },
+  "8402212": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "senior product analyst growth @ warszawa, masovian voivodeship, poland",
+   "location": "Warszawa, Masovian Voivodeship, Poland",
+   "posted_at": "2026-11-24T17:07:07+00:00",
+   "posted_history": [
+    "2026-11-24T17:07:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Analyst, Growth",
+   "url": "https://careers.hellofresh.com/global/en/job/8402212?gh_jid=8402212"
+  },
   "8402837": {
    "closed_at": null,
    "department": "",
@@ -10230,6 +10354,21 @@
    "title": "Area Manager I, Sanitation",
    "url": "https://careers.hellofresh.com/global/en/job/8403121?gh_jid=8403121"
   },
+  "8403378": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "manager growth marketing @ new york, ny, united states",
+   "location": "New York, NY, United States",
+   "posted_at": "2026-11-25T00:56:46+00:00",
+   "posted_history": [
+    "2026-11-25T00:56:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Growth Marketing (Reactivations)",
+   "url": "https://careers.hellofresh.com/global/en/job/8403378?gh_jid=8403378"
+  },
   "8405646": {
    "closed_at": null,
    "department": "",
@@ -10260,6 +10399,66 @@
    "title": "Maintenance Technician II",
    "url": "https://careers.hellofresh.com/global/en/job/8406433?gh_jid=8406433"
   },
+  "8411264": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "senior director hr field operations @ amsterdam, north holland, netherlands; berlin, berlin, germany; london, england, united kingdom; paris, paris, france",
+   "location": "Amsterdam, North Holland, Netherlands; Berlin, Berlin, Germany; London, England, United Kingdom; Paris, Paris, France",
+   "posted_at": "2026-11-25T13:23:29+00:00",
+   "posted_history": [
+    "2026-11-25T13:23:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Director, HR - Field Operations (Europe)",
+   "url": "https://careers.hellofresh.com/global/en/job/8411264?gh_jid=8411264"
+  },
+  "8411446": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "people and culture business partner @ calgary, alberta, canada",
+   "location": "Calgary, Alberta, Canada",
+   "posted_at": "2026-11-24T19:19:37+00:00",
+   "posted_history": [
+    "2026-11-24T19:19:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "People and Culture Business Partner (PM shift)",
+   "url": "https://careers.hellofresh.com/global/en/job/8411446?gh_jid=8411446"
+  },
+  "8411483": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "senior product manager application platform @ warszawa, masovian voivodeship, poland",
+   "location": "Warszawa, Masovian Voivodeship, Poland",
+   "posted_at": "2026-11-24T16:52:44+00:00",
+   "posted_history": [
+    "2026-11-24T16:52:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Product Manager, Application Platform",
+   "url": "https://careers.hellofresh.com/global/en/job/8411483?gh_jid=8411483"
+  },
+  "8412301": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "warehouse associate ii @ abbotsford, british columbia, canada",
+   "location": "Abbotsford, British Columbia, Canada",
+   "posted_at": "2026-11-24T14:25:01+00:00",
+   "posted_history": [
+    "2026-11-24T14:25:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "Warehouse Associate II",
+   "url": "https://careers.hellofresh.com/global/en/job/8412301?gh_jid=8412301"
+  },
   "8413409": {
    "closed_at": null,
    "department": "",
@@ -10289,6 +10488,36 @@
    "reopened": 0,
    "title": "Logistics Coordinator - GBS",
    "url": "https://careers.hellofresh.com/global/en/job/8413719?gh_jid=8413719"
+  },
+  "8414477": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "senior financial analyst @ toronto, ontario, canada",
+   "location": "Toronto, Ontario, Canada",
+   "posted_at": "2026-11-24T17:06:37+00:00",
+   "posted_history": [
+    "2026-11-24T17:06:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Financial Analyst",
+   "url": "https://careers.hellofresh.com/global/en/job/8414477?gh_jid=8414477"
+  },
+  "8416654": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "accounts payable specialist @ manila, manila, philippines",
+   "location": "Manila, Manila, Philippines",
+   "posted_at": "2026-11-25T10:59:35+00:00",
+   "posted_history": [
+    "2026-11-25T10:59:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Accounts Payable Specialist",
+   "url": "https://careers.hellofresh.com/global/en/job/8416654?gh_jid=8416654"
   }
  }
 }

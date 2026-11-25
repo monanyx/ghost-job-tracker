@@ -147,6 +147,10 @@
   {
    "date": "2026-11-24",
    "open": 119
+  },
+  {
+   "date": "2026-11-25",
+   "open": 116
   }
  ],
  "jobs": {
@@ -628,7 +632,7 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/258de005-ab84-4cc7-9a59-1df0c74a12b8"
   },
   "275f43d0-b62d-401d-830c-7c1ac0e688aa": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "Engineering & Product",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -913,7 +917,7 @@
     "2026-10-07T12:03:51+00:00"
    ],
    "reopened": 0,
-   "title": "Full-Stack Engineer (Backend Leaning) - Creative Agents",
+   "title": "Full-Stack Engineer - Creative Agents",
    "url": "https://jobs.ashbyhq.com/ElevenLabs/35813150-a851-4821-b732-a037b4e6c4fe"
   },
   "36b52143-1ed2-4e60-89c4-84e09d856658": {
@@ -1755,19 +1759,20 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/7d01b1ec-511d-40bf-a6ed-88b212932edb"
   },
   "7d29f7f7-158a-42e0-a6be-0ceba630863c": {
-   "closed_at": "2026-11-05T11:30:12+00:00",
+   "closed_at": null,
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
    "fp": "account manager uk i @ united kingdom",
    "location": "United Kingdom",
-   "posted_at": "2026-10-23T13:30:10+00:00",
+   "posted_at": "2026-11-24T17:46:12+00:00",
    "posted_history": [
-    "2026-10-23T13:30:10+00:00"
+    "2026-10-23T13:30:10+00:00",
+    "2026-11-24T17:46:12+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Account Manager - UK/I",
-   "url": "https://jobs.ashbyhq.com/elevenlabs/7d29f7f7-158a-42e0-a6be-0ceba630863c"
+   "url": "https://jobs.ashbyhq.com/ElevenLabs/7d29f7f7-158a-42e0-a6be-0ceba630863c"
   },
   "813f6b98-fa14-4d8f-902d-5d09029be20a": {
    "closed_at": "2026-11-16T12:03:27+00:00",
@@ -1997,7 +2002,7 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/8f37f4e5-83f8-4e7d-b3b6-b5b406bf4eb9"
   },
   "90873fda-95c3-4d21-bae8-c5a30f5b7ac8": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2621,7 +2626,7 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/b89ff518-824e-4736-a4c7-c68ea3b6b62f"
   },
   "b8a111fa-9fd5-44d0-97ed-8fd1280be4ef": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "Growth",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -2909,7 +2914,7 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/cb90c8ba-dc35-4e86-9103-9564751ccaf7"
   },
   "cdcf48bf-b6cf-41ce-88ee-34674768fb0d": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

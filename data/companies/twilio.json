@@ -147,6 +147,10 @@
   {
    "date": "2026-11-24",
    "open": 114
+  },
+  {
+   "date": "2026-11-25",
+   "open": 112
   }
  ],
  "jobs": {
@@ -736,7 +740,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8065028"
   },
   "8065032": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-23T13:40:09+00:00",
@@ -1336,7 +1340,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8177722"
   },
   "8178812": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1906,7 +1910,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8247182"
   },
   "8247185": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2970,6 +2974,21 @@
    "title": "Principal Manager, Procurement Enablement & Contingent Workforce",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8348199"
   },
+  "8350195": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "technical account manager @ remote - us",
+   "location": "Remote - US",
+   "posted_at": "2026-11-24T19:38:25+00:00",
+   "posted_history": [
+    "2026-11-24T19:38:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Account Manager",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8350195"
+  },
   "8350197": {
    "closed_at": null,
    "department": "",
@@ -3271,7 +3290,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8385422"
   },
   "8385593": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-19T12:10:18+00:00",
@@ -3450,6 +3469,21 @@
    "title": "Senior Manager, Strategic Accounts - Asia",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8399190"
   },
+  "8405799": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "sales compensation manager @ remote - us",
+   "location": "Remote - US",
+   "posted_at": "2026-11-24T21:33:49+00:00",
+   "posted_history": [
+    "2026-11-24T21:33:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales Compensation Manager",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8405799"
+  },
   "8405801": {
    "closed_at": null,
    "department": "",
@@ -3616,7 +3650,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8410798"
   },
   "8410800": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-24T14:17:17+00:00",
@@ -3629,6 +3663,21 @@
    "reopened": 0,
    "title": "Strategic Account Executive",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8410800"
+  },
+  "8411651": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "account executive @ remote - us",
+   "location": "Remote - US",
+   "posted_at": "2026-11-24T20:05:17+00:00",
+   "posted_history": [
+    "2026-11-24T20:05:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8411651"
   }
  }
 }

@@ -147,6 +147,10 @@
   {
    "date": "2026-11-24",
    "open": 77
+  },
+  {
+   "date": "2026-11-25",
+   "open": 76
   }
  ],
  "jobs": {
@@ -381,8 +385,8 @@
    "department": "EPD",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "staff principal software engineer security @ stockholm",
-   "location": "Stockholm",
+   "fp": "staff principal software engineer security @ london",
+   "location": "London",
    "posted_at": "2026-05-22T11:31:46+00:00",
    "posted_history": [
     "2026-05-22T11:31:46+00:00"
@@ -1403,7 +1407,7 @@
    "url": "https://jobs.ashbyhq.com/lovable/d15f1a6a-dbba-41d6-b8b4-90fc00de183c"
   },
   "d23a9470-7c53-4a3d-9859-73590db8deee": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "GTM",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -1529,8 +1533,8 @@
    "department": "EPD",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "staff principal software engineer detection and response @ stockholm",
-   "location": "Stockholm",
+   "fp": "staff principal software engineer detection and response @ london",
+   "location": "London",
    "posted_at": "2026-09-14T09:45:02+00:00",
    "posted_history": [
     "2026-09-14T09:45:02+00:00"

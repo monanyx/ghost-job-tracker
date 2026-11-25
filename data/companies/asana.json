@@ -147,6 +147,10 @@
   {
    "date": "2026-11-24",
    "open": 108
+  },
+  {
+   "date": "2026-11-25",
+   "open": 110
   }
  ],
  "jobs": {
@@ -1951,7 +1955,7 @@
    "url": "https://www.asana.com/jobs/apply/8279133?gh_jid=8279133"
   },
   "8282374": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2490,6 +2494,21 @@
    "title": "Customer Success Manager (AI Success Architect)",
    "url": "https://www.asana.com/jobs/apply/8349347?gh_jid=8349347"
   },
+  "8350054": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "experience researcher @ warsaw",
+   "location": "Warsaw",
+   "posted_at": "2026-11-24T15:10:28+00:00",
+   "posted_history": [
+    "2026-11-24T15:10:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Experience Researcher",
+   "url": "https://www.asana.com/jobs/apply/8350054?gh_jid=8350054"
+  },
   "8355820": {
    "closed_at": null,
    "department": "",
@@ -2669,6 +2688,36 @@
    "reopened": 0,
    "title": "Partner Program Operations Manager",
    "url": "https://www.asana.com/jobs/apply/8383870?gh_jid=8383870"
+  },
+  "8386666": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "sec reporting and equity accounting manager @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-11-24T21:56:28+00:00",
+   "posted_history": [
+    "2026-11-24T21:56:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "SEC Reporting and Equity Accounting Manager",
+   "url": "https://www.asana.com/jobs/apply/8386666?gh_jid=8386666"
+  },
+  "8411739": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "workplace lead @ warsaw",
+   "location": "Warsaw",
+   "posted_at": "2026-11-24T17:17:14+00:00",
+   "posted_history": [
+    "2026-11-24T17:17:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Workplace Lead",
+   "url": "https://www.asana.com/jobs/apply/8411739?gh_jid=8411739"
   }
  }
 }

@@ -147,6 +147,10 @@
   {
    "date": "2026-11-24",
    "open": 243
+  },
+  {
+   "date": "2026-11-25",
+   "open": 247
   }
  ],
  "jobs": {
@@ -211,18 +215,18 @@
    "url": "https://jobs.lever.co/zoox/013b341d-8019-431d-bfda-8be411a14d84"
   },
   "0168ad29-2fd8-4c91-865c-b9fff8aa30c1": {
-   "closed_at": "2026-11-17T12:29:08+00:00",
+   "closed_at": null,
    "department": "Safety Policy and Strategy",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",
-   "fp": "ai workflows intern @ foster city, ca",
+   "fp": "ai engineering intern operational safety @ foster city, ca",
    "location": "Foster City, CA",
    "posted_at": "2026-11-07T00:27:55+00:00",
    "posted_history": [
     "2026-11-07T00:27:55+00:00"
    ],
-   "reopened": 0,
-   "title": "AI Workflows Intern [Summer 2027]",
+   "reopened": 1,
+   "title": "AI Engineering Intern, Operational Safety [Summer 2027]",
    "url": "https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1"
   },
   "01ff8f1c-eda8-4c45-9cca-b4461d8757d5": {
@@ -2205,6 +2209,21 @@
    "title": "Procurement Operations Manager",
    "url": "https://jobs.lever.co/zoox/68996f74-85e8-435d-9369-906438670794"
   },
+  "6a06c4b3-a7f3-4726-a64f-6696c25bb45a": {
+   "closed_at": null,
+   "department": "AHMO",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "director advanced hardware manufacturing @ foster city, ca",
+   "location": "Foster City, CA",
+   "posted_at": "2026-11-24T17:02:52+00:00",
+   "posted_history": [
+    "2026-11-24T17:02:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "Director, Advanced Hardware Manufacturing",
+   "url": "https://jobs.lever.co/zoox/6a06c4b3-a7f3-4726-a64f-6696c25bb45a"
+  },
   "6a2a0d85-f466-4177-8236-eac6e2df2e93": {
    "closed_at": null,
    "department": "Product",
@@ -2234,6 +2253,21 @@
    "reopened": 0,
    "title": "Senior Software Engineer, Vehicle Deployment",
    "url": "https://jobs.lever.co/zoox/6d975a67-c0ec-4eb5-99b5-5ba4a455e5bd"
+  },
+  "6da01a1b-2917-478d-8955-d1d1494944a3": {
+   "closed_at": null,
+   "department": "Platform Safety Assurance",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "manager technical lead system safety @ foster city, ca",
+   "location": "Foster City, CA",
+   "posted_at": "2026-11-24T22:38:02+00:00",
+   "posted_history": [
+    "2026-11-24T22:38:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager/Technical Lead, System Safety (Ops & Cloud SW)",
+   "url": "https://jobs.lever.co/zoox/6da01a1b-2917-478d-8955-d1d1494944a3"
   },
   "6da52aa7-0ccb-48d0-af25-0889f41ddee5": {
    "closed_at": null,
@@ -2384,6 +2418,21 @@
    "reopened": 0,
    "title": "Team Lead, Ground Operations (3rd Shift)",
    "url": "https://jobs.lever.co/zoox/6fd07895-b6af-40d8-82ba-fe1d2174982f"
+  },
+  "70df1de6-787b-4aed-834e-897addaddfea": {
+   "closed_at": null,
+   "department": "RiderOps and TeleOps",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "shift team lead fusion center operations @ scottsdale, az",
+   "location": "Scottsdale, AZ",
+   "posted_at": "2026-11-24T23:18:25+00:00",
+   "posted_history": [
+    "2026-11-24T23:18:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Shift / Team Lead, Fusion Center Operations (3rd Shift)",
+   "url": "https://jobs.lever.co/zoox/70df1de6-787b-4aed-834e-897addaddfea"
   },
   "714021f6-b6fe-48c6-bd0c-cc579ee938b9": {
    "closed_at": null,
@@ -2851,7 +2900,7 @@
    "url": "https://jobs.lever.co/zoox/86b340fe-0d63-4f03-9aec-72b958f96c7f"
   },
   "8703109b-1cb5-4e78-999a-7093ca4407e2": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "Software Platforms and Product",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -3329,6 +3378,21 @@
    "reopened": 0,
    "title": "Software Engineer - Pipeline Infrastructure & Integration",
    "url": "https://jobs.lever.co/zoox/978e36ef-e8e9-4874-ade6-f33a80e46309"
+  },
+  "9794061d-dde9-42d1-996a-8e21d5ac2433": {
+   "closed_at": null,
+   "department": "Manufacturing Operations Program Management",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "operations program manager manufacturing operations @ foster city, ca",
+   "location": "Foster City, CA",
+   "posted_at": "2026-11-24T15:30:58+00:00",
+   "posted_history": [
+    "2026-11-24T15:30:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Operations Program Manager, Manufacturing Operations",
+   "url": "https://jobs.lever.co/zoox/9794061d-dde9-42d1-996a-8e21d5ac2433"
   },
   "99113e00-d810-47e5-bb31-997eb6d9afaa": {
    "closed_at": null,
@@ -4917,7 +4981,7 @@
     "2026-11-07T00:20:36+00:00"
    ],
    "reopened": 0,
-   "title": "Process Improvement Intern [ Summer 2027]",
+   "title": "Process Improvement Intern (A) [ Summer 2027]",
    "url": "https://jobs.lever.co/zoox/fbc2a7a6-b916-4f3f-b825-a4b3d5d60852"
   },
   "fc0e28a6-99ba-4298-80b4-a62986363dae": {

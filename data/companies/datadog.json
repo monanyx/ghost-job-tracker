@@ -147,6 +147,10 @@
   {
    "date": "2026-11-24",
    "open": 383
+  },
+  {
+   "date": "2026-11-25",
+   "open": 388
   }
  ],
  "jobs": {
@@ -1591,7 +1595,7 @@
    "url": "https://careers.datadoghq.com/detail/7442122/?gh_jid=7442122"
   },
   "7452669": {
-   "closed_at": "2026-11-19T12:10:18+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1601,7 +1605,7 @@
    "posted_history": [
     "2025-12-10T15:50:57+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Commercial Sales Engineer - Boston",
    "url": "https://careers.datadoghq.com/detail/7452669/?gh_jid=7452669"
   },
@@ -2535,6 +2539,21 @@
    "title": "Recruiter, GTM",
    "url": "https://careers.datadoghq.com/detail/7927485/?gh_jid=7927485"
   },
+  "7939175": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "enterprise sales executive @ mexico city, mexico",
+   "location": "Mexico City, Mexico",
+   "posted_at": "2026-11-24T14:48:47+00:00",
+   "posted_history": [
+    "2026-11-24T14:48:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Sales Executive",
+   "url": "https://careers.datadoghq.com/detail/7939175/?gh_jid=7939175"
+  },
   "7939294": {
    "closed_at": null,
    "department": "",
@@ -2885,8 +2904,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "director technical program management technical solutions operations @ boston, massachusetts, usa; new york, new york, usa; san francisco, california, usa",
-   "location": "Boston, Massachusetts, USA; New York, New York, USA; San Francisco, California, USA",
+   "fp": "director technical program management technical solutions operations @ boston, massachusetts, usa; new york, new york, usa",
+   "location": "Boston, Massachusetts, USA; New York, New York, USA",
    "posted_at": "2026-06-16T18:03:59+00:00",
    "posted_history": [
     "2026-06-16T18:03:59+00:00"
@@ -7621,7 +7640,7 @@
    "url": "https://careers.datadoghq.com/detail/8329282/?gh_jid=8329282"
   },
   "8330344": {
-   "closed_at": "2026-11-24T14:17:17+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-02T11:41:30+00:00",
@@ -7631,7 +7650,7 @@
    "posted_history": [
     "2026-11-02T03:36:27+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Customer Success Manager (Key Accounts)",
    "url": "https://careers.datadoghq.com/detail/8330344/?gh_jid=8330344"
   },
@@ -7730,8 +7749,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
-   "fp": "mid market account executive uki @ dublin, ireland",
-   "location": "Dublin, Ireland",
+   "fp": "mid market account executive uki @ london, united kingdom",
+   "location": "London, United Kingdom",
    "posted_at": "2026-11-02T12:52:18+00:00",
    "posted_history": [
     "2026-11-02T12:52:18+00:00"
@@ -8445,6 +8464,21 @@
    "title": "Director, Technical Support Engineering, Premier - EMEA",
    "url": "https://careers.datadoghq.com/detail/8393631/?gh_jid=8393631"
   },
+  "8394802": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "mid market account executive @ singapore, singapore",
+   "location": "Singapore, Singapore",
+   "posted_at": "2026-11-25T00:57:00+00:00",
+   "posted_history": [
+    "2026-11-25T00:57:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Mid Market Account Executive",
+   "url": "https://careers.datadoghq.com/detail/8394802/?gh_jid=8394802"
+  },
   "8398016": {
    "closed_at": null,
    "department": "",
@@ -8579,6 +8613,21 @@
    "reopened": 0,
    "title": "Group Product Management, Cloud Security and Shared Capabilities",
    "url": "https://careers.datadoghq.com/detail/8405975/?gh_jid=8405975"
+  },
+  "8414413": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "senior platform product manager finops @ new york, new york, usa",
+   "location": "New York, New York, USA",
+   "posted_at": "2026-11-24T17:01:51+00:00",
+   "posted_history": [
+    "2026-11-24T17:01:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Platform Product Manager, FinOps",
+   "url": "https://careers.datadoghq.com/detail/8414413/?gh_jid=8414413"
   }
  }
 }

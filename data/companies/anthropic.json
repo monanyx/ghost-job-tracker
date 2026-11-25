@@ -147,6 +147,10 @@
   {
    "date": "2026-11-24",
    "open": 633
+  },
+  {
+   "date": "2026-11-25",
+   "open": 636
   }
  ],
  "jobs": {
@@ -3091,7 +3095,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5257650008"
   },
   "5257689008": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3601,7 +3605,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5310996008"
   },
   "5311149008": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3616,17 +3620,17 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5311149008"
   },
   "5311159008": {
-   "closed_at": "2026-10-30T10:28:19+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "safeguards enforcement analyst cyber harm @ san francisco, ca | new york city, ny | washington, dc",
-   "location": "San Francisco, CA | New York City, NY | Washington, DC",
+   "fp": "safeguards enforcement analyst cyber harm @ boston, ma; san francisco, ca | seattle, wa | new york city, ny | washington, dc",
+   "location": "Boston, MA; San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC",
    "posted_at": "2026-07-10T23:43:23+00:00",
    "posted_history": [
     "2026-07-10T23:43:23+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Safeguards Enforcement Analyst, Cyber Harm",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5311159008"
   },
@@ -3736,7 +3740,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5319626008"
   },
   "5319696008": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4469,6 +4473,21 @@
    "reopened": 0,
    "title": "Staff Software Engineer, GTM Systems",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5368166008"
+  },
+  "5369102008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "engineering manager labs @ san francisco, ca | new york city, ny",
+   "location": "San Francisco, CA | New York City, NY",
+   "posted_at": "2026-09-18T00:13:04+00:00",
+   "posted_history": [
+    "2026-09-18T00:13:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager, Labs",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5369102008"
   },
   "5369181008": {
    "closed_at": "2026-11-19T12:10:18+00:00",
@@ -5790,6 +5809,21 @@
    "title": "Channel Partner Manager",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391257008"
   },
+  "5391277008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "program operations coordination logistics claude frontier academy @ san francisco, ca | new york city, ny",
+   "location": "San Francisco, CA | New York City, NY",
+   "posted_at": "2026-09-24T18:51:57+00:00",
+   "posted_history": [
+    "2026-09-24T18:51:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "Program Operations, Coordination & Logistics, Claude Frontier Academy",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391277008"
+  },
   "5391289008": {
    "closed_at": "2026-11-02T11:41:30+00:00",
    "department": "",
@@ -6766,7 +6800,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5404725008"
   },
   "5405548008": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -8686,7 +8720,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5432590008"
   },
   "5432845008": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -12631,7 +12665,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5471361008"
   },
   "5471539008": {
-   "closed_at": "2026-11-06T11:30:42+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-05T11:30:12+00:00",
@@ -12641,7 +12675,7 @@
    "posted_history": [
     "2026-11-04T16:39:44+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Accounting Analytics & BI Engineer",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5471539008"
   },
@@ -13635,6 +13669,21 @@
    "title": "AWS Partnerships Lead",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5486656008"
   },
+  "5486776008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "applied ai architect beneficial deployment @ bangalore, india",
+   "location": "Bangalore, India",
+   "posted_at": "2026-11-20T02:32:30+00:00",
+   "posted_history": [
+    "2026-11-20T02:32:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Applied AI Architect, Beneficial Deployment",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5486776008"
+  },
   "5486780008": {
    "closed_at": null,
    "department": "",
@@ -13709,6 +13758,21 @@
    "reopened": 0,
    "title": "Research Engineer, Finetuning",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5489567008"
+  },
+  "5489900008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "manager compliance regulatory operations @ san francisco, ca | new york city, ny | washington, dc",
+   "location": "San Francisco, CA | New York City, NY | Washington, DC",
+   "posted_at": "2026-11-24T22:57:35+00:00",
+   "posted_history": [
+    "2026-11-24T22:57:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Compliance & Regulatory Operations",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5489900008"
   },
   "5490122008": {
    "closed_at": null,
@@ -13919,6 +13983,36 @@
    "reopened": 0,
    "title": "Head of Campaign Operations",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5491578008"
+  },
+  "5494120008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "engineering manager cybersecurity products @ san francisco, ca | new york city, ny",
+   "location": "San Francisco, CA | New York City, NY",
+   "posted_at": "2026-11-24T22:52:11+00:00",
+   "posted_history": [
+    "2026-11-24T22:52:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager, Cybersecurity Products",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5494120008"
+  },
+  "5494145008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "safeguards enforcement analyst targeting tracking surveillance @ boston, ma; san francisco, ca | seattle, wa | new york city, ny | washington, dc",
+   "location": "Boston, MA; San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC",
+   "posted_at": "2026-11-25T01:42:41+00:00",
+   "posted_history": [
+    "2026-11-25T01:42:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Safeguards Enforcement Analyst, Targeting, Tracking & Surveillance",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5494145008"
   }
  }
 }

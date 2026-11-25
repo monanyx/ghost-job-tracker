@@ -147,6 +147,10 @@
   {
    "date": "2026-11-24",
    "open": 8
+  },
+  {
+   "date": "2026-11-25",
+   "open": 9
   }
  ],
  "jobs": {
@@ -242,17 +246,18 @@
    "url": "https://jobs.ashbyhq.com/zapier/7683bf9a-cb86-47de-a15b-4bcc0b70e2e2"
   },
   "79f0aa77-7a24-4246-a623-a37fb2149de6": {
-   "closed_at": "2026-11-19T12:10:18+00:00",
+   "closed_at": null,
    "department": "Customer Operations",
    "evergreen": false,
    "first_seen": "2026-11-14T10:56:25+00:00",
    "fp": "director gtm operations @ namer",
    "location": "NAMER",
-   "posted_at": "2026-11-13T19:31:20+00:00",
+   "posted_at": "2026-11-20T14:10:12+00:00",
    "posted_history": [
-    "2026-11-13T19:31:20+00:00"
+    "2026-11-13T19:31:20+00:00",
+    "2026-11-20T14:10:12+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Director, GTM Operations",
    "url": "https://jobs.ashbyhq.com/zapier/79f0aa77-7a24-4246-a623-a37fb2149de6"
   },

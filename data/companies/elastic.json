@@ -147,6 +147,10 @@
   {
    "date": "2026-11-24",
    "open": 383
+  },
+  {
+   "date": "2026-11-25",
+   "open": 390
   }
  ],
  "jobs": {
@@ -1291,7 +1295,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8065489&gh_jid=8065489"
   },
   "8066491": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1501,7 +1505,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8074844&gh_jid=8074844"
   },
   "8074854": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1516,7 +1520,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8074854&gh_jid=8074854"
   },
   "8074855": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1531,7 +1535,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8074855&gh_jid=8074855"
   },
   "8074886": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1546,7 +1550,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8074886&gh_jid=8074886"
   },
   "8074889": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1561,7 +1565,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8074889&gh_jid=8074889"
   },
   "8074894": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1576,7 +1580,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8074894&gh_jid=8074894"
   },
   "8074895": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1604,6 +1608,21 @@
    "reopened": 0,
    "title": "Principal Software Engineer - Global UX - Application - Platform",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8075239&gh_jid=8075239"
+  },
+  "8079517": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "sr solutions architect mid market west @ united states",
+   "location": "United States",
+   "posted_at": "2026-11-24T22:18:46+00:00",
+   "posted_history": [
+    "2026-11-24T22:18:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Solutions Architect - Mid Market West (Presales)",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8079517&gh_jid=8079517"
   },
   "8079636": {
    "closed_at": "2026-11-10T11:47:05+00:00",
@@ -3796,7 +3815,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8172134&gh_jid=8172134"
   },
   "8172138": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3959,6 +3978,21 @@
    "reopened": 1,
    "title": "Enterprise Account Executive",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8176627&gh_jid=8176627"
+  },
+  "8176967": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "site reliability engineer platform reliability @ spain",
+   "location": "Spain",
+   "posted_at": "2026-09-24T21:25:10+00:00",
+   "posted_history": [
+    "2026-09-24T21:25:10+00:00"
+   ],
+   "reopened": 0,
+   "title": "Site Reliability Engineer - Platform Reliability",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8176967&gh_jid=8176967"
   },
   "8177115": {
    "closed_at": "2026-10-30T10:28:19+00:00",
@@ -4935,6 +4969,81 @@
    "title": "Senior Software Engineer - Streams - Observability",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8229992&gh_jid=8229992"
   },
+  "8232032": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "site reliability engineer platform reliability @ portugal",
+   "location": "Portugal",
+   "posted_at": "2026-09-24T21:25:12+00:00",
+   "posted_history": [
+    "2026-09-24T21:25:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Site Reliability Engineer - Platform Reliability",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8232032&gh_jid=8232032"
+  },
+  "8232033": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "site reliability engineer platform reliability @ greece",
+   "location": "Greece",
+   "posted_at": "2026-09-24T21:25:14+00:00",
+   "posted_history": [
+    "2026-09-24T21:25:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Site Reliability Engineer - Platform Reliability",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8232033&gh_jid=8232033"
+  },
+  "8232037": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "site reliability engineer platform reliability @ ireland",
+   "location": "Ireland",
+   "posted_at": "2026-09-24T21:25:16+00:00",
+   "posted_history": [
+    "2026-09-24T21:25:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Site Reliability Engineer - Platform Reliability",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8232037&gh_jid=8232037"
+  },
+  "8232039": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "site reliability engineer platform reliability @ united kingdom",
+   "location": "United Kingdom",
+   "posted_at": "2026-09-24T21:25:18+00:00",
+   "posted_history": [
+    "2026-09-24T21:25:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Site Reliability Engineer - Platform Reliability",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8232039&gh_jid=8232039"
+  },
+  "8232131": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "site reliability engineer platform reliability @ poland",
+   "location": "Poland",
+   "posted_at": "2026-09-24T22:01:02+00:00",
+   "posted_history": [
+    "2026-09-24T22:01:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Site Reliability Engineer - Platform Reliability",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8232131&gh_jid=8232131"
+  },
   "8232336": {
    "closed_at": "2026-10-19T21:43:50+00:00",
    "department": "",
@@ -5086,18 +5195,18 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8237463&gh_jid=8237463"
   },
   "8237466": {
-   "closed_at": "2026-11-20T12:11:54+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "sr application engineer xactly @ united states",
+   "fp": "sr application developer xactly @ united states",
    "location": "United States",
    "posted_at": "2026-09-29T06:10:29+00:00",
    "posted_history": [
     "2026-09-29T06:10:29+00:00"
    ],
-   "reopened": 0,
-   "title": "Sr. Application Engineer - Xactly",
+   "reopened": 1,
+   "title": "Sr Application Developer - Xactly",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8237466&gh_jid=8237466"
   },
   "8237600": {
@@ -5206,7 +5315,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8239261&gh_jid=8239261"
   },
   "8239266": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5341,7 +5450,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8240098&gh_jid=8240098"
   },
   "8240105": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7550,14 +7659,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-16T12:03:27+00:00",
-   "fp": "consulting architect @ australia",
+   "fp": "consulting architect observability @ australia",
    "location": "Australia",
    "posted_at": "2026-11-16T09:41:45+00:00",
    "posted_history": [
     "2026-11-16T09:41:45+00:00"
    ],
    "reopened": 0,
-   "title": "Consulting Architect (Canberra)",
+   "title": "Consulting Architect - Observability (Canberra)",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8330343&gh_jid=8330343"
   },
   "8332655": {
@@ -8745,6 +8854,21 @@
    "title": "Marketplace Deal Operations Specialist, EMEA",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8379881&gh_jid=8379881"
   },
+  "8381827": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "mid market account executive west @ united states",
+   "location": "United States",
+   "posted_at": "2026-11-24T15:33:02+00:00",
+   "posted_history": [
+    "2026-11-24T15:33:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Mid Market Account Executive - West",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8381827&gh_jid=8381827"
+  },
   "8382571": {
    "closed_at": null,
    "department": "",
@@ -8806,7 +8930,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8382577&gh_jid=8382577"
   },
   "8382582": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-12T11:51:19+00:00",
@@ -8834,6 +8958,21 @@
    "reopened": 0,
    "title": "Renewals Manager (Individual Contributor)",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8382870&gh_jid=8382870"
+  },
+  "8382872": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "security specialist account executive @ singapore",
+   "location": "Singapore",
+   "posted_at": "2026-11-25T04:57:42+00:00",
+   "posted_history": [
+    "2026-11-25T04:57:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Security Specialist Account Executive",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8382872&gh_jid=8382872"
   },
   "8386050": {
    "closed_at": "2026-11-17T12:29:08+00:00",
@@ -8926,7 +9065,7 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8397002&gh_jid=8397002"
   },
   "8397324": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-21T11:47:59+00:00",
@@ -9629,6 +9768,141 @@
    "reopened": 0,
    "title": "Senior Software Engineer - Platform Billing Core",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8411240&gh_jid=8411240"
+  },
+  "8412811": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "vp tax @ united states",
+   "location": "United States",
+   "posted_at": "2026-11-24T21:41:11+00:00",
+   "posted_history": [
+    "2026-11-24T21:41:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "VP Tax",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8412811&gh_jid=8412811"
+  },
+  "8414169": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "mid market account executive california @ california, united states",
+   "location": "California, United States",
+   "posted_at": "2026-11-24T15:33:49+00:00",
+   "posted_history": [
+    "2026-11-24T15:33:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Mid Market Account Executive - California",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8414169&gh_jid=8414169"
+  },
+  "8414170": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "mid market account executive rockies @ united states",
+   "location": "United States",
+   "posted_at": "2026-11-24T15:34:25+00:00",
+   "posted_history": [
+    "2026-11-24T15:34:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Mid Market Account Executive - Rockies",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8414170&gh_jid=8414170"
+  },
+  "8414179": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "mid market account executive atlanta @ georgia, united states",
+   "location": "Georgia, United States",
+   "posted_at": "2026-11-24T15:34:56+00:00",
+   "posted_history": [
+    "2026-11-24T15:34:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Mid Market Account Executive (Expand) - Atlanta",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8414179&gh_jid=8414179"
+  },
+  "8414184": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "mid market account executive southeast @ united states",
+   "location": "United States",
+   "posted_at": "2026-11-24T15:35:48+00:00",
+   "posted_history": [
+    "2026-11-24T15:35:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "Mid Market Account Executive - Southeast",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8414184&gh_jid=8414184"
+  },
+  "8414777": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "sr solutions architect enterprise west @ united states",
+   "location": "United States",
+   "posted_at": "2026-11-24T22:15:31+00:00",
+   "posted_history": [
+    "2026-11-24T22:15:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Solutions Architect, Enterprise West (Presales)",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8414777&gh_jid=8414777"
+  },
+  "8414808": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "manager salesforce revenue cloud @ bangalore, india",
+   "location": "Bangalore, India",
+   "posted_at": "2026-11-24T21:24:01+00:00",
+   "posted_history": [
+    "2026-11-24T21:24:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Salesforce Revenue Cloud",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8414808&gh_jid=8414808"
+  },
+  "8414873": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "sr solutions architect enterprise east @ united states",
+   "location": "United States",
+   "posted_at": "2026-11-24T22:15:29+00:00",
+   "posted_history": [
+    "2026-11-24T22:15:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Solutions Architect, Enterprise East (Presales)",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8414873&gh_jid=8414873"
+  },
+  "8416373": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "sales development representative @ tokyo, japan",
+   "location": "Tokyo, Japan",
+   "posted_at": "2026-11-25T07:47:57+00:00",
+   "posted_history": [
+    "2026-11-25T07:47:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales Development Representative",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8416373&gh_jid=8416373"
   }
  }
 }

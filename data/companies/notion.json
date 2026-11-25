@@ -147,6 +147,10 @@
   {
    "date": "2026-11-24",
    "open": 172
+  },
+  {
+   "date": "2026-11-25",
+   "open": 173
   }
  ],
  "jobs": {
@@ -1205,6 +1209,21 @@
    "title": "Manager, Solutions Consultants, DACH",
    "url": "https://jobs.ashbyhq.com/notion/6140e48c-949d-48a8-a3f0-c826199040fe"
   },
+  "63f3e6dc-d03b-4c7d-a016-e7909e3466a0": {
+   "closed_at": null,
+   "department": "Outcomes Architect",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "outcomes architect @ singapore",
+   "location": "Singapore",
+   "posted_at": "2026-11-25T05:44:54+00:00",
+   "posted_history": [
+    "2026-11-25T05:44:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Outcomes Architect",
+   "url": "https://jobs.ashbyhq.com/notion/63f3e6dc-d03b-4c7d-a016-e7909e3466a0"
+  },
   "6597b600-7781-46e6-b70a-a9af4fb2b61b": {
    "closed_at": null,
    "department": "People",
@@ -1431,7 +1450,7 @@
    "url": "https://jobs.ashbyhq.com/notion/7832514e-f065-4345-9eee-47083880c0a1"
   },
   "785573a1-93b9-4f7e-b84a-c224d1d98b66": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "Outcomes Architect",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2872,17 +2891,18 @@
    "url": "https://jobs.ashbyhq.com/notion/e7c18c11-c8ab-47cf-afb6-6bfc61b5e74f"
   },
   "e95ff317-92fe-4e34-88da-a83fe093f017": {
-   "closed_at": "2026-11-17T12:29:08+00:00",
+   "closed_at": null,
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "solutions consultant manager commercial @ tokyo, japan",
    "location": "Tokyo, Japan ",
-   "posted_at": "2025-10-28T05:29:39+00:00",
+   "posted_at": "2026-11-25T00:14:47+00:00",
    "posted_history": [
-    "2025-10-28T05:29:39+00:00"
+    "2025-10-28T05:29:39+00:00",
+    "2026-11-25T00:14:47+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Solutions Consultant Manager, Commercial (Sales Leadership)",
    "url": "https://jobs.ashbyhq.com/notion/e95ff317-92fe-4e34-88da-a83fe093f017"
   },

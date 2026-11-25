@@ -147,6 +147,10 @@
   {
    "date": "2026-11-24",
    "open": 198
+  },
+  {
+   "date": "2026-11-25",
+   "open": 200
   }
  ],
  "jobs": {
@@ -170,8 +174,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "support specialist premium @ canada",
-   "location": "Canada",
+   "fp": "support specialist premium @ montreal, canada, toronto, canada, vancouver, canada",
+   "location": "Montreal, Canada, Toronto, Canada, Vancouver, Canada",
    "posted_at": "2025-05-01T00:20:40+00:00",
    "posted_history": [
     "2025-05-01T00:20:40+00:00"
@@ -200,8 +204,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "sp cialiste au support premium @ canada",
-   "location": "Canada",
+   "fp": "sp cialiste au support premium @ montreal, canada, toronto, canada, vancouver, canada",
+   "location": "Montreal, Canada, Toronto, Canada, Vancouver, Canada",
    "posted_at": "2025-09-04T21:31:04+00:00",
    "posted_history": [
     "2025-09-04T21:31:04+00:00"
@@ -421,7 +425,7 @@
    "url": "https://careers.airbnb.com/positions/7747259?gh_jid=7747259"
   },
   "7755758": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2086,7 +2090,7 @@
    "url": "https://careers.airbnb.com/positions/8224032?gh_jid=8224032"
   },
   "8225578": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -2099,6 +2103,21 @@
    "reopened": 3,
    "title": "Senior Support Specialist, Premium",
    "url": "https://careers.airbnb.com/positions/8225578?gh_jid=8225578"
+  },
+  "8225785": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "senior analyst advanced analytics @ bangalore, india",
+   "location": "Bangalore, India",
+   "posted_at": "2026-09-23T08:43:24+00:00",
+   "posted_history": [
+    "2026-09-23T08:43:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Analyst, Advanced Analytics",
+   "url": "https://careers.airbnb.com/positions/8225785?gh_jid=8225785"
   },
   "8231416": {
    "closed_at": "2026-11-13T11:35:01+00:00",
@@ -3601,7 +3620,7 @@
    "url": "https://careers.airbnb.com/positions/8306218?gh_jid=8306218"
   },
   "8306554": {
-   "closed_at": "2026-11-19T12:10:18+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
@@ -3611,12 +3630,12 @@
    "posted_history": [
     "2026-10-28T14:52:05+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "AirCover Specialist, Claims Experience",
    "url": "https://careers.airbnb.com/positions/8306554?gh_jid=8306554"
   },
   "8306555": {
-   "closed_at": "2026-11-19T12:10:18+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
@@ -3626,7 +3645,7 @@
    "posted_history": [
     "2026-10-28T14:52:07+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Spécialiste AirCover, Expérience client en réclamations",
    "url": "https://careers.airbnb.com/positions/8306555?gh_jid=8306555"
   },
@@ -4362,7 +4381,7 @@
     "2026-11-04T06:29:28+00:00"
    ],
    "reopened": 0,
-   "title": "Vendor Performance Manager, APAC (Sales focus)",
+   "title": "Vendor Performance Manager, APAC (Sales-Focused)",
    "url": "https://careers.airbnb.com/positions/8349111?gh_jid=8349111"
   },
   "8349121": {
@@ -4516,7 +4535,7 @@
    "url": "https://careers.airbnb.com/positions/8352713?gh_jid=8352713"
   },
   "8354382": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-05T11:30:12+00:00",
@@ -4576,7 +4595,7 @@
    "url": "https://careers.airbnb.com/positions/8356427?gh_jid=8356427"
   },
   "8356428": {
-   "closed_at": "2026-11-16T12:03:27+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
@@ -4586,7 +4605,7 @@
    "posted_history": [
     "2026-11-10T01:57:20+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Superviseur (-e), Soutien Premium",
    "url": "https://careers.airbnb.com/positions/8356428?gh_jid=8356428"
   },
@@ -5160,6 +5179,21 @@
    "title": "Program Manager, North America Policy",
    "url": "https://careers.airbnb.com/positions/8393253?gh_jid=8393253"
   },
+  "8393522": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "senior manager supply tech platform management @ united states",
+   "location": "United States ",
+   "posted_at": "2026-11-24T22:17:18+00:00",
+   "posted_history": [
+    "2026-11-24T22:17:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Supply Tech Platform Management",
+   "url": "https://careers.airbnb.com/positions/8393522?gh_jid=8393522"
+  },
   "8393726": {
    "closed_at": null,
    "department": "",
@@ -5266,7 +5300,7 @@
    "url": "https://careers.airbnb.com/positions/8394471?gh_jid=8394471"
   },
   "8396777": {
-   "closed_at": null,
+   "closed_at": "2026-11-25T13:30:19+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-18T12:16:07+00:00",
@@ -5390,14 +5424,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-21T11:47:59+00:00",
-   "fp": "senior software engineer partner integrations @ remote, usa",
+   "fp": "senior software engineer partner ecosystems @ remote, usa",
    "location": "Remote, USA ",
    "posted_at": "2026-11-20T22:09:11+00:00",
    "posted_history": [
     "2026-11-20T22:09:11+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Software Engineer, Partner Integrations",
+   "title": "Senior Software Engineer, Partner Ecosystems",
    "url": "https://careers.airbnb.com/positions/8406371?gh_jid=8406371"
   },
   "8407159": {
@@ -5474,6 +5508,21 @@
    "reopened": 0,
    "title": "Policy Lead, California",
    "url": "https://careers.airbnb.com/positions/8412322?gh_jid=8412322"
+  },
+  "8413908": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-25T13:30:19+00:00",
+   "fp": "operations associate guest services @ ireland",
+   "location": "Ireland",
+   "posted_at": "2026-11-24T14:26:43+00:00",
+   "posted_history": [
+    "2026-11-24T14:26:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Operations Associate, Guest Services",
+   "url": "https://careers.airbnb.com/positions/8413908?gh_jid=8413908"
   }
  }
 }
