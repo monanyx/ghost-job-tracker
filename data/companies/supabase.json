@@ -151,6 +151,10 @@
   {
    "date": "2026-11-25",
    "open": 81
+  },
+  {
+   "date": "2026-11-26",
+   "open": 83
   }
  ],
  "jobs": {
@@ -365,7 +369,7 @@
    "url": "https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228"
   },
   "30cc053e-33dc-4924-a870-2cf41c296b01": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-11-24T14:17:17+00:00",
@@ -588,6 +592,21 @@
    "reopened": 0,
    "title": "Support Engineer (EMEA - Weekends)",
    "url": "https://jobs.ashbyhq.com/supabase/590a0742-97f1-47f4-81a2-567efc939ae2"
+  },
+  "5c0d8710-98a4-4670-8f4e-008e63236f13": {
+   "closed_at": null,
+   "department": "Operations",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "head of m a @ remote, global",
+   "location": "Remote, Global",
+   "posted_at": "2026-11-24T22:46:09+00:00",
+   "posted_history": [
+    "2026-11-24T22:46:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Head of M&A",
+   "url": "https://jobs.ashbyhq.com/supabase/5c0d8710-98a4-4670-8f4e-008e63236f13"
   },
   "5d09daeb-2d7e-42de-9151-81a1341195c4": {
    "closed_at": null,
@@ -864,8 +883,8 @@
    "department": "Engineering",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "platform engineer managed postgres @ remote, global",
-   "location": "Remote, Global",
+   "fp": "platform engineer managed postgres @ remote, amer",
+   "location": "Remote, AMER",
    "posted_at": "2026-10-09T17:17:39+00:00",
    "posted_history": [
     "2026-10-09T17:17:39+00:00"
@@ -1341,6 +1360,21 @@
    "title": "Account Executive (AU, NZ)",
    "url": "https://jobs.ashbyhq.com/supabase/da17f206-229f-4789-8f11-78df74e24dda"
   },
+  "da282b12-4c4a-4eb1-b983-58543ed58ec5": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "engineering productivity engineer @ remote, global",
+   "location": "Remote, Global",
+   "posted_at": "2026-11-25T22:06:23+00:00",
+   "posted_history": [
+    "2026-11-25T22:06:23+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Productivity Engineer",
+   "url": "https://jobs.ashbyhq.com/supabase/da282b12-4c4a-4eb1-b983-58543ed58ec5"
+  },
   "dca463e6-b6d0-4003-a30b-e0970a8dcee2": {
    "closed_at": null,
    "department": "Success",
@@ -1370,6 +1404,21 @@
    "reopened": 0,
    "title": "Support Engineer (AMER - Weekends)",
    "url": "https://jobs.ashbyhq.com/supabase/dcf09dfe-55bc-44ba-b5db-1a2de7f33216"
+  },
+  "e1880633-5d58-4f38-833e-1bdef24d0bf9": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "platform engineer database @ remote, emea",
+   "location": "Remote, EMEA",
+   "posted_at": "2026-11-26T11:36:59+00:00",
+   "posted_history": [
+    "2026-11-26T11:36:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Platform Engineer - Database",
+   "url": "https://jobs.ashbyhq.com/supabase/e1880633-5d58-4f38-833e-1bdef24d0bf9"
   },
   "e4e3ccb7-7b7d-42a2-be0f-26cbb5ae4abd": {
    "closed_at": null,

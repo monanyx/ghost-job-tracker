@@ -151,6 +151,10 @@
   {
    "date": "2026-11-25",
    "open": 177
+  },
+  {
+   "date": "2026-11-26",
+   "open": 181
   }
  ],
  "jobs": {
@@ -468,7 +472,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/6693771"
   },
   "6693805": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-16T12:03:27+00:00",
@@ -961,7 +965,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/7361901"
   },
   "7367106": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1021,7 +1025,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/7481725"
   },
   "7483616": {
-   "closed_at": "2026-11-03T11:21:29+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -1031,7 +1035,7 @@
    "posted_history": [
     "2026-10-29T13:32:28+00:00"
    ],
-   "reopened": 1,
+   "reopened": 2,
    "title": "Strategy & Operations Manager",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/7483616"
   },
@@ -1741,7 +1745,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8038331"
   },
   "8043179": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1756,7 +1760,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8043179"
   },
   "8045673": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2416,18 +2420,18 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8166865"
   },
   "8166941": {
-   "closed_at": "2026-11-05T11:30:12+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "consumer growth strategy manager emea @ london, united kingdom",
+   "fp": "strategy operations senior manager growth partnerships new audiences @ london, united kingdom",
    "location": "London, United Kingdom",
    "posted_at": "2026-09-01T08:07:29+00:00",
    "posted_history": [
     "2026-09-01T08:07:29+00:00"
    ],
-   "reopened": 1,
-   "title": "Consumer Growth Strategy Manager, EMEA",
+   "reopened": 2,
+   "title": "Strategy & Operations Senior Manager, Growth Partnerships + New Audiences",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8166941"
   },
   "8171321": {
@@ -4126,7 +4130,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8331625"
   },
   "8334055": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
@@ -4306,7 +4310,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8337510"
   },
   "8344596": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-02T11:41:30+00:00",
@@ -5204,6 +5208,126 @@
    "reopened": 0,
    "title": "Merchant Onboarding Associate",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8413517"
+  },
+  "8416715": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "sales manager @ nicosia, cyprus",
+   "location": "Nicosia, Cyprus",
+   "posted_at": "2026-11-25T14:16:41+00:00",
+   "posted_history": [
+    "2026-11-25T14:16:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales Manager",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8416715"
+  },
+  "8416824": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "ads promotions sales manager @ ljubljana, slovenia",
+   "location": "Ljubljana, Slovenia",
+   "posted_at": "2026-11-25T13:35:14+00:00",
+   "posted_history": [
+    "2026-11-25T13:35:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Ads & Promotions Sales Manager",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8416824"
+  },
+  "8417130": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "enterprise sales manager @ copenhagen, denmark",
+   "location": "Copenhagen, Denmark",
+   "posted_at": "2026-11-25T15:54:18+00:00",
+   "posted_history": [
+    "2026-11-25T15:54:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Sales Manager",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8417130"
+  },
+  "8417136": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "marketing specialist @ ljubljana, slovenia",
+   "location": "Ljubljana, Slovenia",
+   "posted_at": "2026-11-26T11:04:17+00:00",
+   "posted_history": [
+    "2026-11-26T11:04:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Marketing Specialist",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8417136"
+  },
+  "8417144": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "support team lead @ ramat gan, israel",
+   "location": "Ramat Gan, Israel",
+   "posted_at": "2026-11-25T17:18:22+00:00",
+   "posted_history": [
+    "2026-11-25T17:18:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Support Team Lead",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8417144"
+  },
+  "8417233": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "sales manager retail @ helsinki, finland",
+   "location": "Helsinki, Finland",
+   "posted_at": "2026-11-26T06:44:31+00:00",
+   "posted_history": [
+    "2026-11-26T06:44:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales Manager, Retail",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8417233"
+  },
+  "8417299": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "dashos sales manager @ helsinki, finland",
+   "location": "Helsinki, Finland",
+   "posted_at": "2026-11-26T12:24:57+00:00",
+   "posted_history": [
+    "2026-11-26T12:24:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "DashOS Sales Manager",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8417299"
+  },
+  "8417660": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "account management specialist retail @ sofia, bulgaria",
+   "location": "Sofia, Bulgaria",
+   "posted_at": "2026-11-25T18:03:11+00:00",
+   "posted_history": [
+    "2026-11-25T18:03:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Management Specialist, Retail",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8417660"
   }
  }
 }

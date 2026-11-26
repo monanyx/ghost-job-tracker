@@ -151,6 +151,10 @@
   {
    "date": "2026-11-25",
    "open": 358
+  },
+  {
+   "date": "2026-11-26",
+   "open": 356
   }
  ],
  "jobs": {
@@ -1569,14 +1573,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "market operations lead san francisco @ san francisco, ca usa",
+   "fp": "autonomous vehicles ride hail market operations manager san francisco @ san francisco, ca usa",
    "location": "San Francisco, CA USA",
    "posted_at": "2026-05-06T21:40:40+00:00",
    "posted_history": [
     "2026-05-06T21:40:40+00:00"
    ],
    "reopened": 0,
-   "title": "Market Operations Lead - San Francisco",
+   "title": "Autonomous Vehicles (AVs), Ride-Hail Market Operations Manager - San Francisco",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=7851972"
   },
   "7852964": {
@@ -2090,7 +2094,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=7981535"
   },
   "7991303": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3320,7 +3324,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8125600"
   },
   "8127006": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3980,7 +3984,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8187386"
   },
   "8188973": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4520,7 +4524,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8212626"
   },
   "8213774": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4625,7 +4629,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8221714"
   },
   "8221724": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6035,7 +6039,7 @@
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8287385"
   },
   "8289592": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6724,6 +6728,21 @@
    "title": "Program Manager, Systems, Tools & BI Enablement",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8348700"
   },
+  "8350109": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "rapid deploy specialist amer east @ new york city, ny, usa; washington, d.c.",
+   "location": "New York City, NY, USA; Washington, D.C.",
+   "posted_at": "2026-11-25T18:19:07+00:00",
+   "posted_history": [
+    "2026-11-25T18:19:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Rapid Deploy Specialist, AMER East",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8350109"
+  },
   "8350276": {
    "closed_at": null,
    "department": "",
@@ -6933,6 +6952,36 @@
    "reopened": 0,
    "title": "Workplace Planning & Strategy Specialist",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8354486"
+  },
+  "8354601": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "rapid deploy specialist amer west @ mountain view, ca, usa",
+   "location": "Mountain View, CA, USA",
+   "posted_at": "2026-11-25T18:16:36+00:00",
+   "posted_history": [
+    "2026-11-25T18:16:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Rapid Deploy Specialist, AMER West",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8354601"
+  },
+  "8354618": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "rapid deploy program manager @ mountain view, ca, usa",
+   "location": "Mountain View, CA, USA",
+   "posted_at": "2026-11-25T18:02:18+00:00",
+   "posted_history": [
+    "2026-11-25T18:02:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Rapid Deploy Program Manager",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8354618"
   },
   "8354804": {
    "closed_at": null,
@@ -7533,6 +7582,21 @@
    "reopened": 0,
    "title": "Systems Engineer",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8407651"
+  },
+  "8415223": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "2027 summer intern phd driver understanding and evaluation large model evaluation @ mountain view, california, usa",
+   "location": "Mountain View, California, USA",
+   "posted_at": "2026-11-25T17:25:05+00:00",
+   "posted_history": [
+    "2026-11-25T17:25:05+00:00"
+   ],
+   "reopened": 0,
+   "title": "2027 Summer Intern, PhD, Driver Understanding and Evaluation, Large Model Evaluation",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8415223"
   }
  }
 }

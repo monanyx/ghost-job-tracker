@@ -151,6 +151,10 @@
   {
    "date": "2026-11-25",
    "open": 391
+  },
+  {
+   "date": "2026-11-26",
+   "open": 390
   }
  ],
  "jobs": {
@@ -2031,7 +2035,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/39d6ae01-e28c-441c-9593-5b1d2923b075"
   },
   "3a17d706-b023-4f83-8250-d6da3151f1c0": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "Customer Success",
    "evergreen": false,
    "first_seen": "2026-11-21T11:47:59+00:00",
@@ -5701,6 +5705,21 @@
    "title": "Legal Engineering Manager, In-House (Litigation/Regulatory)",
    "url": "https://jobs.ashbyhq.com/harvey/acd2604b-426a-4d2f-bcd3-e57f66f8d470"
   },
+  "acfe78ba-48f7-4668-b990-44c39f95a8c0": {
+   "closed_at": null,
+   "department": "Go to Market",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "legal engineer custom solutions @ singapore",
+   "location": "Singapore",
+   "posted_at": "2026-11-26T04:02:29+00:00",
+   "posted_history": [
+    "2026-11-26T04:02:29+00:00"
+   ],
+   "reopened": 0,
+   "title": "Legal Engineer, Custom Solutions",
+   "url": "https://jobs.ashbyhq.com/harvey/acfe78ba-48f7-4668-b990-44c39f95a8c0"
+  },
   "ad1fb947-0858-4e81-a8e0-a7d4a2822201": {
    "closed_at": "2026-11-21T11:47:59+00:00",
    "department": "Human Resources",
@@ -7664,6 +7683,21 @@
    "title": "Legal Engineer (Law Firm, Litigation/Regulatory)",
    "url": "https://jobs.ashbyhq.com/harvey/e8dbf438-3086-42af-810e-4f4459cf7400"
   },
+  "eaa58e64-f64e-4c80-850f-c0bb9972a90b": {
+   "closed_at": null,
+   "department": "Go to Market",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "head of commercial smb apac @ sydney",
+   "location": "Sydney",
+   "posted_at": "2026-11-26T04:49:13+00:00",
+   "posted_history": [
+    "2026-11-26T04:49:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Head of Commercial & SMB, APAC",
+   "url": "https://jobs.ashbyhq.com/harvey/eaa58e64-f64e-4c80-850f-c0bb9972a90b"
+  },
   "eab239f7-11b5-4033-aa51-001a5423e7e1": {
    "closed_at": null,
    "department": "Go to Market",
@@ -7968,7 +8002,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/f2ac5239-c7a1-4b0a-bbf3-c8f6b836a2d6"
   },
   "f30a1b59-279c-43cb-bf56-1745a84dfd82": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "Security",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -8178,7 +8212,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/f9b5a7bc-c872-4206-9201-477034913473"
   },
   "fa02d0c2-4a44-4deb-a409-6a3b3bd05e9c": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "Security",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

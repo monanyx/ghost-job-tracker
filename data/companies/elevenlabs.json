@@ -151,6 +151,10 @@
   {
    "date": "2026-11-25",
    "open": 116
+  },
+  {
+   "date": "2026-11-26",
+   "open": 111
   }
  ],
  "jobs": {
@@ -356,7 +360,7 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/108c99e6-ba2b-44a0-b830-7d535e14a152"
   },
   "10e6475e-67ef-4621-8718-7b087c354651": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "Engineering & Product",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -402,7 +406,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/13fcee94-512f-4229-b7ab-f91d3fdd24e3"
   },
   "14c7802d-8e72-46b0-833c-3f0835363e48": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1696,8 +1700,23 @@
    "title": "Account Manager - Southern Europe",
    "url": "https://jobs.ashbyhq.com/elevenlabs/78c564eb-ee87-46d9-b2fd-4322a223a547"
   },
-  "7a235499-7cee-48f5-9fe4-3f4764b91865": {
+  "78fdf018-aa20-456b-8cc1-66eb7d4fed67": {
    "closed_at": null,
+   "department": "Operations",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "technical recruiter latam @ argentina",
+   "location": "Argentina",
+   "posted_at": "2026-11-25T14:01:57+00:00",
+   "posted_history": [
+    "2026-11-25T14:01:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Recruiter (FDE), LATAM",
+   "url": "https://jobs.ashbyhq.com/ElevenLabs/78fdf018-aa20-456b-8cc1-66eb7d4fed67"
+  },
+  "7a235499-7cee-48f5-9fe4-3f4764b91865": {
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1806,7 +1825,7 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/815547bf-0ade-482d-84b0-4163ab1161e5"
   },
   "820e5023-c637-4b36-91a9-f732f235998e": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
@@ -2397,7 +2416,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/a5a999e3-17f6-4f1f-aef3-bab73518244a"
   },
   "a605e308-0d28-42b6-8cbb-03cc7799cecc": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3560,7 +3579,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/f80d0420-b6e6-4110-940c-293f64b9761e"
   },
   "f82da674-f6c8-4035-86ef-ff61a7f9cf9c": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-11-13T11:35:01+00:00",

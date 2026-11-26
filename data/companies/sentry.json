@@ -151,6 +151,10 @@
   {
    "date": "2026-11-25",
    "open": 41
+  },
+  {
+   "date": "2026-11-26",
+   "open": 40
   }
  ],
  "jobs": {
@@ -516,7 +520,7 @@
    "url": "https://jobs.ashbyhq.com/sentry/889f98a2-07dd-4e7c-9682-3f137c57dc88"
   },
   "8ecd25a9-3f0d-4225-8452-60a3b855c771": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "G&A",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -987,9 +991,10 @@
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "software engineer intern @ vienna, austria",
    "location": "Vienna, Austria",
-   "posted_at": "2026-09-10T15:39:22+00:00",
+   "posted_at": "2026-11-26T12:23:11+00:00",
    "posted_history": [
-    "2026-09-10T15:39:22+00:00"
+    "2026-09-10T15:39:22+00:00",
+    "2026-11-26T12:23:11+00:00"
    ],
    "reopened": 0,
    "title": "Software Engineer, Intern (Summer 2027)",

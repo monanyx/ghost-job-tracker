@@ -151,6 +151,10 @@
   {
    "date": "2026-11-25",
    "open": 112
+  },
+  {
+   "date": "2026-11-26",
+   "open": 113
   }
  ],
  "jobs": {
@@ -1460,7 +1464,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8197775"
   },
   "8201498": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",
@@ -2089,6 +2093,21 @@
    "title": "Senior Executive Business Partner, Strategy & Operations",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8257820"
   },
+  "8258573": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "software engineer @ remote - ireland",
+   "location": "Remote - Ireland",
+   "posted_at": "2026-11-26T09:24:25+00:00",
+   "posted_history": [
+    "2026-11-26T09:24:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8258573"
+  },
   "8258581": {
    "closed_at": null,
    "department": "",
@@ -2540,7 +2559,7 @@
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8292798"
   },
   "8300856": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -3379,6 +3398,21 @@
    "title": "Staff, Fullstack Software Engineer (P4)",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8393931"
   },
+  "8393933": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "staff data engineer @ remote - ireland",
+   "location": "Remote - Ireland",
+   "posted_at": "2026-11-26T07:20:26+00:00",
+   "posted_history": [
+    "2026-11-26T07:20:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Data Engineer",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8393933"
+  },
   "8393935": {
    "closed_at": null,
    "department": "",
@@ -3543,6 +3577,21 @@
    "reopened": 0,
    "title": "Software Engineer (L2) Supernetwork",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8405809"
+  },
+  "8405811": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "senior strategic account executive @ remote - uk, spain, ireland",
+   "location": "Remote - UK, Spain, Ireland",
+   "posted_at": "2026-11-26T09:53:56+00:00",
+   "posted_history": [
+    "2026-11-26T09:53:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Strategic Account Executive (Central EMEA)",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8405811"
   },
   "8405813": {
    "closed_at": null,

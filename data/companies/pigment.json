@@ -151,6 +151,10 @@
   {
    "date": "2026-11-25",
    "open": 128
+  },
+  {
+   "date": "2026-11-26",
+   "open": 129
   }
  ],
  "jobs": {
@@ -204,14 +208,14 @@
    "department": "Growth",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "data engineer @ paris",
+   "fp": "growth engineer @ paris",
    "location": "Paris",
    "posted_at": "2026-02-19T12:35:39+00:00",
    "posted_history": [
     "2026-02-19T12:35:39+00:00"
    ],
    "reopened": 0,
-   "title": "Data Engineer (Growth Team)",
+   "title": "Growth Engineer (Full Stack Engineer)",
    "url": "https://jobs.lever.co/pigment/0aede960-d9cd-45c1-92e4-82e3cb3b2ae2"
   },
   "0b9e12ed-41e2-467b-b4b2-ed372c61ef4b": {
@@ -1503,6 +1507,21 @@
    "reopened": 0,
    "title": "Engineering Program Manager",
    "url": "https://jobs.lever.co/pigment/898bb235-6fa9-43fd-a3e2-00d54a6a39cc"
+  },
+  "89f7a9d0-a339-4cb0-97a9-875694d1e762": {
+   "closed_at": null,
+   "department": "Product",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "application architect supply chain @ london",
+   "location": "London",
+   "posted_at": "2026-11-09T10:57:24+00:00",
+   "posted_history": [
+    "2026-11-09T10:57:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Application Architect - Supply Chain",
+   "url": "https://jobs.lever.co/pigment/89f7a9d0-a339-4cb0-97a9-875694d1e762"
   },
   "8da62da3-fa84-409a-a93b-4fe8a659c156": {
    "closed_at": "2026-10-31T09:57:28+00:00",

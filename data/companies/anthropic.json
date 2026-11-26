@@ -151,6 +151,10 @@
   {
    "date": "2026-11-25",
    "open": 636
+  },
+  {
+   "date": "2026-11-26",
+   "open": 634
   }
  ],
  "jobs": {
@@ -1220,7 +1224,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5076109008"
   },
   "5076754008": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7310,7 +7314,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5415537008"
   },
   "5415822008": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -13580,7 +13584,7 @@
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5484171008"
   },
   "5484875008": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-18T12:16:07+00:00",
@@ -13938,6 +13942,21 @@
    "reopened": 0,
    "title": "Applied AI Architect, Technology Partnerships",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5491480008"
+  },
+  "5491501008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "area lead data center security operations @ new york city, ny",
+   "location": "New York City, NY",
+   "posted_at": "2026-11-25T19:04:37+00:00",
+   "posted_history": [
+    "2026-11-25T19:04:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Area Lead, Data Center Security Operations (NORAM - North East)",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5491501008"
   },
   "5491573008": {
    "closed_at": null,

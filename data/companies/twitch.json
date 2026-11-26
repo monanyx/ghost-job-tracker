@@ -151,6 +151,10 @@
   {
    "date": "2026-11-25",
    "open": 51
+  },
+  {
+   "date": "2026-11-26",
+   "open": 54
   }
  ],
  "jobs": {
@@ -1310,7 +1314,7 @@
    "url": "https://job-boards.greenhouse.io/twitch/jobs/8937278002"
   },
   "8943553002": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-14T10:56:25+00:00",
@@ -1339,6 +1343,21 @@
    "title": "Software Engineer I, Commerce",
    "url": "https://job-boards.greenhouse.io/twitch/jobs/8949388002"
   },
+  "8950947002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "head of music twitch @ los angeles, ca",
+   "location": "Los Angeles, CA",
+   "posted_at": "2026-11-25T16:49:30+00:00",
+   "posted_history": [
+    "2026-11-25T16:49:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Head of Music, Twitch",
+   "url": "https://job-boards.greenhouse.io/twitch/jobs/8950947002"
+  },
   "8953490002": {
    "closed_at": null,
    "department": "",
@@ -1353,6 +1372,51 @@
    "reopened": 0,
    "title": "Data Scientist, Discovery & Recommendations",
    "url": "https://job-boards.greenhouse.io/twitch/jobs/8953490002"
+  },
+  "8962406002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "incident manager @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-26T01:55:22+00:00",
+   "posted_history": [
+    "2026-11-26T01:55:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Incident Manager",
+   "url": "https://job-boards.greenhouse.io/twitch/jobs/8962406002"
+  },
+  "8963188002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "incident manager @ seattle, wa",
+   "location": "Seattle, WA",
+   "posted_at": "2026-11-26T01:55:24+00:00",
+   "posted_history": [
+    "2026-11-26T01:55:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Incident Manager",
+   "url": "https://job-boards.greenhouse.io/twitch/jobs/8963188002"
+  },
+  "8963189002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "incident manager @ irvine, ca",
+   "location": "Irvine, CA",
+   "posted_at": "2026-11-26T01:55:25+00:00",
+   "posted_history": [
+    "2026-11-26T01:55:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Incident Manager",
+   "url": "https://job-boards.greenhouse.io/twitch/jobs/8963189002"
   }
  }
 }

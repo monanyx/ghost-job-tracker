@@ -151,6 +151,10 @@
   {
    "date": "2026-11-25",
    "open": 771
+  },
+  {
+   "date": "2026-11-26",
+   "open": 770
   }
  ],
  "jobs": {
@@ -2795,7 +2799,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8007205"
   },
   "8007692": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3050,7 +3054,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8031782"
   },
   "8031833": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3785,7 +3789,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8075570"
   },
   "8076108": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5135,7 +5139,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8130867"
   },
   "8130876": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-28T10:01:46+00:00",
@@ -5450,7 +5454,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8142077"
   },
   "8142302": {
-   "closed_at": "2026-11-17T12:29:08+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5460,7 +5464,7 @@
    "posted_history": [
     "2026-08-19T20:33:11+00:00"
    ],
-   "reopened": 1,
+   "reopened": 2,
    "title": "Security Analyst",
    "url": "https://stripe.com/jobs/search?gh_jid=8142302"
   },
@@ -5960,7 +5964,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8155376"
   },
   "8155381": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6350,7 +6354,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8164481"
   },
   "8164666": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
@@ -7175,7 +7179,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8175673"
   },
   "8175816": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-25T13:30:19+00:00",
@@ -8259,14 +8263,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "account executive product sales open issuance @ chi, sf,nyc, sea",
+   "fp": "stripe crypto account executive grower @ chi, sf,nyc, sea",
    "location": "CHI, SF,NYC, SEA",
    "posted_at": "2026-10-09T16:06:07+00:00",
    "posted_history": [
     "2026-10-09T16:06:07+00:00"
    ],
    "reopened": 0,
-   "title": "Account Executive, Product Sales - Open Issuance",
+   "title": "Stripe Crypto Account Executive - Grower",
    "url": "https://stripe.com/jobs/search?gh_jid=8191708"
   },
   "8191710": {
@@ -10156,7 +10160,7 @@
     "2026-09-25T06:26:42+00:00"
    ],
    "reopened": 1,
-   "title": "Operations Team Lead (SDC)",
+   "title": "Operations Team Lead (SDC | Legal Ops)",
    "url": "https://stripe.com/jobs/search?gh_jid=8230294"
   },
   "8230296": {
@@ -12170,7 +12174,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8273853"
   },
   "8273855": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -14674,6 +14678,21 @@
    "title": "Operations Manager (FinCrime)",
    "url": "https://stripe.com/jobs/search?gh_jid=8336296"
   },
+  "8336697": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "solutions architect enterprise uk @ n/a",
+   "location": "N/A",
+   "posted_at": "2026-11-25T15:44:22+00:00",
+   "posted_history": [
+    "2026-11-25T15:44:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Solutions Architect, Enterprise, UK",
+   "url": "https://stripe.com/jobs/search?gh_jid=8336697"
+  },
   "8336699": {
    "closed_at": null,
    "department": "",
@@ -16235,7 +16254,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8387804"
   },
   "8387820": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-18T12:16:07+00:00",
@@ -16399,6 +16418,21 @@
    "title": "Software Engineer, Experimental Projects",
    "url": "https://stripe.com/jobs/search?gh_jid=8394936"
   },
+  "8395417": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "account executive new business uk financial services banking @ london",
+   "location": "London",
+   "posted_at": "2026-11-23T13:53:28+00:00",
+   "posted_history": [
+    "2026-11-23T13:53:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive, New Business, UK Financial Services, Banking",
+   "url": "https://stripe.com/jobs/search?gh_jid=8395417"
+  },
   "8395851": {
    "closed_at": "2026-11-19T12:10:18+00:00",
    "department": "",
@@ -16429,6 +16463,21 @@
    "title": "Deal Strategist",
    "url": "https://stripe.com/jobs/search?gh_jid=8396168"
   },
+  "8396176": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "solutions architect platforms @ dublin",
+   "location": "Dublin",
+   "posted_at": "2026-11-25T14:07:24+00:00",
+   "posted_history": [
+    "2026-11-25T14:07:24+00:00"
+   ],
+   "reopened": 0,
+   "title": "Solutions Architect, Platforms",
+   "url": "https://stripe.com/jobs/search?gh_jid=8396176"
+  },
   "8397257": {
    "closed_at": null,
    "department": "",
@@ -16458,6 +16507,21 @@
    "reopened": 0,
    "title": "Administrative Business Partner, Office of the CEO",
    "url": "https://stripe.com/jobs/search?gh_jid=8397260"
+  },
+  "8397987": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "finance strategy analyst @ sea, sf, nyc, chi",
+   "location": "SEA, SF, NYC, CHI",
+   "posted_at": "2026-11-25T17:24:23+00:00",
+   "posted_history": [
+    "2026-11-25T17:24:23+00:00"
+   ],
+   "reopened": 0,
+   "title": "Finance & Strategy Analyst",
+   "url": "https://stripe.com/jobs/search?gh_jid=8397987"
   },
   "8399738": {
    "closed_at": null,
@@ -16759,6 +16823,21 @@
    "title": "Account Executive, Product Crypto/Stablecoins",
    "url": "https://stripe.com/jobs/search?gh_jid=8412977"
   },
+  "8412981": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "head of revenue finance automation finance strategy @ sf, seattle, nyc, chicago",
+   "location": "SF, Seattle, NYC, Chicago ",
+   "posted_at": "2026-11-25T17:23:48+00:00",
+   "posted_history": [
+    "2026-11-25T17:23:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "Head of Revenue Finance Automation, Finance & Strategy",
+   "url": "https://stripe.com/jobs/search?gh_jid=8412981"
+  },
   "8412983": {
    "closed_at": null,
    "department": "",
@@ -16833,6 +16912,36 @@
    "reopened": 0,
    "title": "Analytics Engineer",
    "url": "https://stripe.com/jobs/search?gh_jid=8415333"
+  },
+  "8417785": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "operations insights business partner analyst @ south san francisco, ca",
+   "location": "South San Francisco, CA",
+   "posted_at": "2026-11-25T18:46:13+00:00",
+   "posted_history": [
+    "2026-11-25T18:46:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Operations Insights, Business Partner Analyst",
+   "url": "https://stripe.com/jobs/search?gh_jid=8417785"
+  },
+  "8417797": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "staff software engineer batch compute @ seattle",
+   "location": "Seattle",
+   "posted_at": "2026-11-25T18:51:00+00:00",
+   "posted_history": [
+    "2026-11-25T18:51:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer, Batch Compute",
+   "url": "https://stripe.com/jobs/search?gh_jid=8417797"
   }
  }
 }

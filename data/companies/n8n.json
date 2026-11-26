@@ -151,9 +151,28 @@
   {
    "date": "2026-11-25",
    "open": 69
+  },
+  {
+   "date": "2026-11-26",
+   "open": 74
   }
  ],
  "jobs": {
+  "00cff9dc-f7fc-4f71-836f-ce68acf5fb71": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "strategic account executive rest of region @ spain",
+   "location": "Spain",
+   "posted_at": "2026-11-25T16:29:06+00:00",
+   "posted_history": [
+    "2026-11-25T16:29:06+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Account Executive Rest of Region",
+   "url": "https://jobs.ashbyhq.com/n8n/00cff9dc-f7fc-4f71-836f-ce68acf5fb71"
+  },
   "019b16a4-cd72-4edf-89ca-5d05051a635b": {
    "closed_at": null,
    "department": "Sales",
@@ -189,7 +208,7 @@
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
-   "fp": "enterprise sales leader @ united kingdom",
+   "fp": "sales leader large enterprise @ united kingdom",
    "location": "United Kingdom",
    "posted_at": "2026-11-18T09:32:18+00:00",
    "posted_history": [
@@ -198,7 +217,7 @@
     "2026-11-18T09:32:18+00:00"
    ],
    "reopened": 2,
-   "title": "Enterprise Sales Leader",
+   "title": "Sales Leader, Large Enterprise (ROR)",
    "url": "https://jobs.ashbyhq.com/n8n/01e97911-afbc-4d4b-bdc7-ea6cd5e51662"
   },
   "061c8190-1dbc-4245-9703-31ab2ae1818c": {
@@ -296,8 +315,8 @@
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-11-02T11:41:30+00:00",
-   "fp": "sales development representative north emea @ united kingdom",
-   "location": "United Kingdom",
+   "fp": "sales development representative north emea @ london, united kingdom",
+   "location": "London, United Kingdom",
    "posted_at": "2026-11-02T09:31:31+00:00",
    "posted_history": [
     "2026-11-02T09:31:31+00:00"
@@ -431,6 +450,21 @@
    "reopened": 0,
    "title": "Mid-Market Sales Manager US",
    "url": "https://jobs.ashbyhq.com/n8n/276727f2-5555-4a59-90b7-5423af3dfc48"
+  },
+  "277cb745-3094-457f-ae0b-b5c513d41f9c": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "strategic account executive us west @ california, united states",
+   "location": "California, United States",
+   "posted_at": "2026-11-25T16:29:26+00:00",
+   "posted_history": [
+    "2026-11-25T16:29:26+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Account Executive US West",
+   "url": "https://jobs.ashbyhq.com/n8n/277cb745-3094-457f-ae0b-b5c513d41f9c"
   },
   "2ac306a9-1d24-4b19-8261-32902b7dd423": {
    "closed_at": null,
@@ -796,6 +830,21 @@
    "title": "Strategic Customer Experience & Success Programs Manager",
    "url": "https://jobs.ashbyhq.com/n8n/5d1a70e5-d4f2-4d11-81a6-ee49a333f3d4"
   },
+  "5daace5d-cc5c-49f0-92cf-bd3bbe5dc4e6": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "enterprise sales leader dach @ berlin, germany",
+   "location": "Berlin, Germany",
+   "posted_at": "2026-11-25T16:40:40+00:00",
+   "posted_history": [
+    "2026-11-25T16:40:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Sales Leader, DACH",
+   "url": "https://jobs.ashbyhq.com/n8n/5daace5d-cc5c-49f0-92cf-bd3bbe5dc4e6"
+  },
   "69d7e8c9-84ce-40e3-b3c5-0ba04ab1bdd3": {
    "closed_at": null,
    "department": "Sales",
@@ -1005,6 +1054,21 @@
    "reopened": 0,
    "title": "GTM (German-speaking) Talent Pool",
    "url": "https://jobs.ashbyhq.com/n8n/a259b31d-3df5-4bc0-9feb-865e85016fba"
+  },
+  "a2866907-f32a-4100-a183-d8d0f43e16aa": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "strategic account executive us east @ new york, united states",
+   "location": "New York, United States",
+   "posted_at": "2026-11-25T16:29:16+00:00",
+   "posted_history": [
+    "2026-11-25T16:29:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Account Executive US East",
+   "url": "https://jobs.ashbyhq.com/n8n/a2866907-f32a-4100-a183-d8d0f43e16aa"
   },
   "a74530f1-92df-4487-8239-291f7abb6345": {
    "closed_at": "2026-10-23T08:50:35+00:00",
@@ -1377,14 +1441,14 @@
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "enterprise sales leader dach @ germany",
+   "fp": "sales leader large enterprise @ germany",
    "location": "Germany",
    "posted_at": "2026-10-12T09:58:48+00:00",
    "posted_history": [
     "2026-10-12T09:58:48+00:00"
    ],
    "reopened": 0,
-   "title": "Enterprise Sales Leader, DACH",
+   "title": "Sales Leader, Large Enterprise (DACH)",
    "url": "https://jobs.ashbyhq.com/n8n/da8c6a37-670d-4ad9-b5b3-898c395feee4"
   },
   "dbc78a40-2efd-43ca-bb33-fb7cb0583cb8": {
@@ -1416,6 +1480,21 @@
    "reopened": 0,
    "title": "Enterprise Sales Leader West Coast",
    "url": "https://jobs.ashbyhq.com/n8n/dd44765f-279f-4aff-9568-11c7bc66189a"
+  },
+  "e38fc9a1-7ad8-4b6e-891e-e6941079c6d4": {
+   "closed_at": null,
+   "department": "Sales",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "strategic account executive dach @ berlin",
+   "location": "Berlin",
+   "posted_at": "2026-11-25T16:28:48+00:00",
+   "posted_history": [
+    "2026-11-25T16:28:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Account Executive DACH",
+   "url": "https://jobs.ashbyhq.com/n8n/e38fc9a1-7ad8-4b6e-891e-e6941079c6d4"
   },
   "e61a7d43-0383-464a-b401-11dadc093e5f": {
    "closed_at": null,

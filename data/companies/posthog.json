@@ -151,6 +151,10 @@
   {
    "date": "2026-11-25",
    "open": 10
+  },
+  {
+   "date": "2026-11-26",
+   "open": 9
   }
  ],
  "jobs": {
@@ -176,13 +180,14 @@
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "site reliability engineer @ remote (us)",
    "location": "Remote (US)",
-   "posted_at": "2026-11-16T19:33:02+00:00",
+   "posted_at": "2026-11-26T07:57:44+00:00",
    "posted_history": [
     "2026-08-06T08:48:53+00:00",
-    "2026-11-16T19:33:02+00:00"
+    "2026-11-16T19:33:02+00:00",
+    "2026-11-26T07:57:44+00:00"
    ],
    "reopened": 0,
-   "title": "Site Reliability Engineer (US - Pacific time)",
+   "title": "Site Reliability Engineer (US - Pacific/mountain time)",
    "url": "https://jobs.ashbyhq.com/PostHog/1464036f-94d5-4dbd-aef8-fe99246a26d4"
   },
   "20ab9628-20ff-4ae3-bd6a-46ae7e9dc6b8": {
@@ -355,7 +360,7 @@
    "url": "https://jobs.ashbyhq.com/PostHog/db808740-242e-4a40-ad43-d41f26c049d7"
   },
   "f154781c-0777-4374-8108-5140de5f3871": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "Sales & Customer Success",
    "evergreen": false,
    "first_seen": "2026-11-25T13:30:19+00:00",

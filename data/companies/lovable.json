@@ -151,6 +151,10 @@
   {
    "date": "2026-11-25",
    "open": 76
+  },
+  {
+   "date": "2026-11-26",
+   "open": 77
   }
  ],
  "jobs": {
@@ -1574,17 +1578,18 @@
    "url": "https://jobs.ashbyhq.com/lovable/e8085310-ce77-4412-931c-2cf7297c37ed"
   },
   "e826f9a8-e380-4c6b-a869-4b92e42d3f5a": {
-   "closed_at": "2026-11-17T12:29:08+00:00",
+   "closed_at": null,
    "department": "EPD",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "security engineer corporate @ stockholm",
    "location": "Stockholm",
-   "posted_at": "2026-09-18T08:53:29+00:00",
+   "posted_at": "2026-11-25T16:38:54+00:00",
    "posted_history": [
-    "2026-09-18T08:53:29+00:00"
+    "2026-09-18T08:53:29+00:00",
+    "2026-11-25T16:38:54+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Security Engineer, Corporate",
    "url": "https://jobs.ashbyhq.com/lovable/e826f9a8-e380-4c6b-a869-4b92e42d3f5a"
   },

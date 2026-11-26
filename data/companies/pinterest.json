@@ -151,6 +151,10 @@
   {
    "date": "2026-11-25",
    "open": 167
+  },
+  {
+   "date": "2026-11-26",
+   "open": 167
   }
  ],
  "jobs": {
@@ -2855,7 +2859,7 @@
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8257181"
   },
   "8257653": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3470,7 +3474,7 @@
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8304896"
   },
   "8310949": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -4009,6 +4013,21 @@
    "title": "Administrative Business Partner I - Engineering, Product and Design",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8396724"
   },
+  "8399210": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "client account manager ii travel @ san francisco, ca, us; seattle, wa, us",
+   "location": "San Francisco, CA, US; Seattle, WA, US",
+   "posted_at": "2026-11-25T17:06:40+00:00",
+   "posted_history": [
+    "2026-11-25T17:06:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Client Account Manager II, Travel",
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8399210"
+  },
   "8401528": {
    "closed_at": null,
    "department": "",
@@ -4038,6 +4057,21 @@
    "reopened": 0,
    "title": "Sr. Counsel - Product, Engineering & AI",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8402791"
+  },
+  "8410813": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "sr client partner @ singapore, sg",
+   "location": "Singapore, SG",
+   "posted_at": "2026-11-26T05:10:52+00:00",
+   "posted_history": [
+    "2026-11-26T05:10:52+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Client Partner",
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8410813"
   }
  }
 }

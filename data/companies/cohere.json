@@ -151,6 +151,10 @@
   {
    "date": "2026-11-25",
    "open": 123
+  },
+  {
+   "date": "2026-11-26",
+   "open": 123
   }
  ],
  "jobs": {
@@ -200,7 +204,7 @@
    "url": "https://jobs.ashbyhq.com/cohere/031c2335-db85-4265-8a88-a54b911be36a"
   },
   "0342fd5f-3760-4dcb-b026-333c7b63fc8d": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "Business Operations",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1480,6 +1484,21 @@
    "title": "Chief of Staff",
    "url": "https://jobs.ashbyhq.com/cohere/81450c5f-8495-439b-a1b3-ce7ef9739437"
   },
+  "82bd297a-9fc4-48f7-ac05-ea39e51c74d2": {
+   "closed_at": null,
+   "department": "Revenue",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "account executive korea @ korea",
+   "location": "Korea",
+   "posted_at": "2026-11-26T12:42:50+00:00",
+   "posted_history": [
+    "2026-11-26T12:42:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive Korea",
+   "url": "https://jobs.ashbyhq.com/cohere/82bd297a-9fc4-48f7-ac05-ea39e51c74d2"
+  },
   "82ec1512-5bc3-49dd-b995-b6abc2a958d7": {
    "closed_at": "2026-11-12T11:51:19+00:00",
    "department": "Modeling",
@@ -1601,7 +1620,7 @@
    "url": "https://jobs.ashbyhq.com/cohere/8a73f59d-41b7-42ed-8cc8-99afa0a2ba5f"
   },
   "8ac3ed85-e315-443b-bc13-e7a0b900b922": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "Business Operations",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2367,6 +2386,21 @@
    "reopened": 0,
    "title": "Engineering Manager, Cohere APIs and DevEx",
    "url": "https://jobs.ashbyhq.com/cohere/dca93d1a-9ab8-442b-aa76-950595e8b9c3"
+  },
+  "e0c52579-05a3-4a54-b960-258cf67eb81e": {
+   "closed_at": null,
+   "department": "Business Operations",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "payroll analyst @ united states",
+   "location": "United States",
+   "posted_at": "2026-11-25T22:27:34+00:00",
+   "posted_history": [
+    "2026-11-25T22:27:34+00:00"
+   ],
+   "reopened": 0,
+   "title": "Payroll Analyst",
+   "url": "https://jobs.ashbyhq.com/cohere/e0c52579-05a3-4a54-b960-258cf67eb81e"
   },
   "e2489771-1c24-4ca2-ab5b-03fc961b18b7": {
    "closed_at": null,

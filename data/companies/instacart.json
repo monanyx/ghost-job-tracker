@@ -151,6 +151,10 @@
   {
    "date": "2026-11-25",
    "open": 98
+  },
+  {
+   "date": "2026-11-26",
+   "open": 97
   }
  ],
  "jobs": {
@@ -545,7 +549,7 @@
    "url": "https://instacart.careers/job/?gh_jid=8069983"
   },
   "8077677": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -560,7 +564,7 @@
    "url": "https://instacart.careers/job/?gh_jid=8077677"
   },
   "8077679": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2943,6 +2947,21 @@
    "reopened": 0,
    "title": "Senior Staff Software Engineer, AI Productivity",
    "url": "https://instacart.careers/job/?gh_jid=8415777"
+  },
+  "8417827": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "ads ops off platform manager @ united states - remote",
+   "location": "United States - Remote",
+   "posted_at": "2026-11-25T19:38:02+00:00",
+   "posted_history": [
+    "2026-11-25T19:38:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Ads Ops, Off Platform, Manager",
+   "url": "https://instacart.careers/job/?gh_jid=8417827"
   }
  }
 }

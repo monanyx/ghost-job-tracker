@@ -151,6 +151,10 @@
   {
    "date": "2026-11-25",
    "open": 291
+  },
+  {
+   "date": "2026-11-26",
+   "open": 299
   }
  ],
  "jobs": {
@@ -575,7 +579,7 @@
    "url": "https://www.samsara.com/company/careers/roles/7609156?gh_jid=7609156"
   },
   "7612493": {
-   "closed_at": "2026-11-25T13:30:19+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
@@ -585,7 +589,7 @@
    "posted_history": [
     "2026-07-02T20:49:07+00:00"
    ],
-   "reopened": 1,
+   "reopened": 2,
    "title": "Commercial Account Executive",
    "url": "https://www.samsara.com/company/careers/roles/7612493?gh_jid=7612493"
   },
@@ -2664,8 +2668,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "enterprise customer success manager ii @ remote - austin; remote - ca; remote - chicago; remote - dallas; remote - houston; remote - seattle",
-   "location": "Remote - Austin; Remote - CA; Remote - Chicago; Remote - Dallas; Remote - Houston; Remote - Seattle",
+   "fp": "enterprise customer success manager ii @ remote - ca; remote - chicago; remote - seattle; remote - tx",
+   "location": "Remote - CA; Remote - Chicago; Remote - Seattle; Remote - TX",
    "posted_at": "2026-09-16T18:41:01+00:00",
    "posted_history": [
     "2026-09-16T18:41:01+00:00"
@@ -3650,7 +3654,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8221852?gh_jid=8221852"
   },
   "8223369": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4280,7 +4284,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8263224?gh_jid=8263224"
   },
   "8263226": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4655,7 +4659,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8282629?gh_jid=8282629"
   },
   "8282635": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-28T10:01:46+00:00",
@@ -4670,7 +4674,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8282635?gh_jid=8282635"
   },
   "8287417": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6875,7 +6879,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8359070?gh_jid=8359070"
   },
   "8359072": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",
@@ -7325,7 +7329,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8366056?gh_jid=8366056"
   },
   "8366794": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-12T11:51:19+00:00",
@@ -7459,6 +7463,21 @@
    "title": "Manager II, Software Engineering",
    "url": "https://www.samsara.com/company/careers/roles/8376044?gh_jid=8376044"
   },
+  "8377907": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "regional sales director core enterprise france @ remote - france",
+   "location": "Remote - France",
+   "posted_at": "2026-11-25T14:30:11+00:00",
+   "posted_history": [
+    "2026-11-25T14:30:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Regional Sales Director, Core Enterprise – France",
+   "url": "https://www.samsara.com/company/careers/roles/8377907?gh_jid=8377907"
+  },
   "8379407": {
    "closed_at": null,
    "department": "",
@@ -7518,6 +7537,21 @@
    "reopened": 0,
    "title": "Sr. Program Manager, GTM Programs",
    "url": "https://www.samsara.com/company/careers/roles/8383258?gh_jid=8383258"
+  },
+  "8384192": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "senior global supply manager mechanicals @ remote - us; usa",
+   "location": "Remote - US; USA",
+   "posted_at": "2026-11-25T20:35:12+00:00",
+   "posted_history": [
+    "2026-11-25T20:35:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Global Supply Manager - Mechanicals",
+   "url": "https://www.samsara.com/company/careers/roles/8384192?gh_jid=8384192"
   },
   "8386261": {
    "closed_at": null,
@@ -7879,6 +7913,21 @@
    "title": "Contract and Billing Specialist - USA",
    "url": "https://www.samsara.com/company/careers/roles/8397935?gh_jid=8397935"
   },
+  "8400932": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "regional sales director core enterprise dach @ remote - germany",
+   "location": "Remote - Germany",
+   "posted_at": "2026-11-25T14:27:21+00:00",
+   "posted_history": [
+    "2026-11-25T14:27:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Regional Sales Director, Core Enterprise – DACH",
+   "url": "https://www.samsara.com/company/careers/roles/8400932?gh_jid=8400932"
+  },
   "8400979": {
    "closed_at": null,
    "department": "",
@@ -7893,6 +7942,21 @@
    "reopened": 0,
    "title": "Customer Success Adoption Specialist",
    "url": "https://www.samsara.com/company/careers/roles/8400979?gh_jid=8400979"
+  },
+  "8404531": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "sr sales strategy manager @ remote - az; remote - fl; remote - ga; remote - nc; remote - nv; remote - pa; remote - tx",
+   "location": "Remote - AZ; Remote - FL; Remote - GA; Remote - NC; Remote - NV; Remote - PA; Remote - TX",
+   "posted_at": "2026-11-25T20:58:42+00:00",
+   "posted_history": [
+    "2026-11-25T20:58:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sr. Sales Strategy Manager",
+   "url": "https://www.samsara.com/company/careers/roles/8404531?gh_jid=8404531"
   },
   "8411457": {
    "closed_at": null,
@@ -7923,6 +7987,21 @@
    "reopened": 0,
    "title": "Sr. Marketing Ops Manager I",
    "url": "https://www.samsara.com/company/careers/roles/8411822?gh_jid=8411822"
+  },
+  "8412267": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "solutions integration engineer ii @ remote - ca; remote - chicago; remote - seattle; remote - tx",
+   "location": "Remote - CA; Remote - Chicago; Remote - Seattle; Remote - TX",
+   "posted_at": "2026-11-25T21:14:03+00:00",
+   "posted_history": [
+    "2026-11-25T21:14:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Solutions Integration Engineer II",
+   "url": "https://www.samsara.com/company/careers/roles/8412267?gh_jid=8412267"
   },
   "8412814": {
    "closed_at": null,
@@ -7983,6 +8062,126 @@
    "reopened": 0,
    "title": "Manager, Account Management",
    "url": "https://www.samsara.com/company/careers/roles/8415151?gh_jid=8415151"
+  },
+  "8415782": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "customer success manager scale @ remote - ca; remote - chicago; remote - seattle; remote - tx",
+   "location": "Remote - CA; Remote - Chicago; Remote - Seattle; Remote - TX",
+   "posted_at": "2026-11-25T20:40:07+00:00",
+   "posted_history": [
+    "2026-11-25T20:40:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Success Manager, Scale",
+   "url": "https://www.samsara.com/company/careers/roles/8415782?gh_jid=8415782"
+  },
+  "8417005": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "customer success account manager mid market german @ remote - germany",
+   "location": "Remote - Germany",
+   "posted_at": "2026-11-25T14:32:44+00:00",
+   "posted_history": [
+    "2026-11-25T14:32:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Success Account Manager, Mid-Market - German",
+   "url": "https://www.samsara.com/company/careers/roles/8417005?gh_jid=8417005"
+  },
+  "8417008": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "customer success account manager digital german @ remote - germany",
+   "location": "Remote - Germany",
+   "posted_at": "2026-11-25T14:34:10+00:00",
+   "posted_history": [
+    "2026-11-25T14:34:10+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Success Account Manager, Digital - German",
+   "url": "https://www.samsara.com/company/careers/roles/8417008?gh_jid=8417008"
+  },
+  "8417295": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "enterprise core sales engineer france @ remote - france",
+   "location": "Remote - France",
+   "posted_at": "2026-11-26T11:46:14+00:00",
+   "posted_history": [
+    "2026-11-26T11:46:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Core Sales Engineer - France",
+   "url": "https://www.samsara.com/company/careers/roles/8417295?gh_jid=8417295"
+  },
+  "8417297": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "enterprise core sales engineer dach @ remote - germany",
+   "location": "Remote - Germany",
+   "posted_at": "2026-11-26T11:51:47+00:00",
+   "posted_history": [
+    "2026-11-26T11:51:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Core Sales Engineer - DACH",
+   "url": "https://www.samsara.com/company/careers/roles/8417297?gh_jid=8417297"
+  },
+  "8417306": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "enterprise core sales engineer uk @ remote - uk",
+   "location": "Remote - UK",
+   "posted_at": "2026-11-26T11:57:23+00:00",
+   "posted_history": [
+    "2026-11-26T11:57:23+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Core Sales Engineer - UK",
+   "url": "https://www.samsara.com/company/careers/roles/8417306?gh_jid=8417306"
+  },
+  "8417333": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "senior sales engineer select uk i @ remote - uk",
+   "location": "Remote - UK",
+   "posted_at": "2026-11-25T16:22:05+00:00",
+   "posted_history": [
+    "2026-11-25T16:22:05+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Sales Engineer - Select UK&I",
+   "url": "https://www.samsara.com/company/careers/roles/8417333?gh_jid=8417333"
+  },
+  "8417647": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "marketing ops manager i @ remote - calgary; remote - montreal; remote - toronto",
+   "location": "Remote - Calgary; Remote - Montreal; Remote - Toronto",
+   "posted_at": "2026-11-25T17:39:02+00:00",
+   "posted_history": [
+    "2026-11-25T17:39:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Marketing Ops Manager I",
+   "url": "https://www.samsara.com/company/careers/roles/8417647?gh_jid=8417647"
   }
  }
 }

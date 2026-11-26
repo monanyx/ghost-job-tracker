@@ -151,6 +151,10 @@
   {
    "date": "2026-11-25",
    "open": 246
+  },
+  {
+   "date": "2026-11-26",
+   "open": 257
   }
  ],
  "jobs": {
@@ -1654,6 +1658,21 @@
    "title": "Payments Risk Analyst I",
    "url": "https://www.coinbase.com/careers/positions/8147663?gh_jid=8147663"
   },
+  "8147693": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "edd analyst iii @ dublin, ireland",
+   "location": "Dublin, Ireland",
+   "posted_at": "2026-11-25T20:53:35+00:00",
+   "posted_history": [
+    "2026-11-25T20:53:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "EDD Analyst III",
+   "url": "https://www.coinbase.com/careers/positions/8147693?gh_jid=8147693"
+  },
   "8147696": {
    "closed_at": null,
    "department": "",
@@ -2315,7 +2334,7 @@
    "url": "https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471"
   },
   "8175507": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5604,14 +5623,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-25T13:30:19+00:00",
-   "fp": "product manager ii @ remote - usa",
+   "fp": "product manager ii prime onchain @ remote - usa",
    "location": "Remote - USA",
    "posted_at": "2026-11-24T19:00:32+00:00",
    "posted_history": [
     "2026-11-24T19:00:32+00:00"
    ],
    "reopened": 0,
-   "title": "Product Manager II",
+   "title": "Product Manager II, Prime Onchain",
    "url": "https://www.coinbase.com/careers/positions/8396806?gh_jid=8396806"
   },
   "8397873": {
@@ -5704,19 +5723,94 @@
    "title": "Executive Assistant",
    "url": "https://www.coinbase.com/careers/positions/8412539?gh_jid=8412539"
   },
+  "8414888": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "edd compliance analyst iii @ dublin, ireland",
+   "location": "Dublin, Ireland",
+   "posted_at": "2026-11-25T21:08:42+00:00",
+   "posted_history": [
+    "2026-11-25T21:08:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "EDD Compliance Analyst III",
+   "url": "https://www.coinbase.com/careers/positions/8414888?gh_jid=8414888"
+  },
+  "8414893": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "edd compliance analyst iii @ dublin, ireland",
+   "location": "Dublin, Ireland",
+   "posted_at": "2026-11-25T21:05:53+00:00",
+   "posted_history": [
+    "2026-11-25T21:05:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "EDD Compliance Analyst III",
+   "url": "https://www.coinbase.com/careers/positions/8414893?gh_jid=8414893"
+  },
+  "8414941": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "concierge specialist iii @ remote - uk",
+   "location": "Remote - UK",
+   "posted_at": "2026-11-25T21:12:28+00:00",
+   "posted_history": [
+    "2026-11-25T21:12:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Concierge Specialist III",
+   "url": "https://www.coinbase.com/careers/positions/8414941?gh_jid=8414941"
+  },
+  "8415594": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "risk monitoring analyst iii @ remote - usa",
+   "location": "Remote - USA",
+   "posted_at": "2026-11-25T21:15:53+00:00",
+   "posted_history": [
+    "2026-11-25T21:15:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "Risk & Monitoring Analyst III",
+   "url": "https://www.coinbase.com/careers/positions/8415594?gh_jid=8415594"
+  },
+  "8415597": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "risk monitoring analyst iii @ remote - usa",
+   "location": "Remote - USA",
+   "posted_at": "2026-11-25T21:18:35+00:00",
+   "posted_history": [
+    "2026-11-25T21:18:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Risk & Monitoring Analyst III",
+   "url": "https://www.coinbase.com/careers/positions/8415597?gh_jid=8415597"
+  },
   "8415721": {
    "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-25T13:30:19+00:00",
-   "fp": "senior product manager @ remote - usa",
+   "fp": "senior product manager workforce management @ remote - usa",
    "location": "Remote - USA",
    "posted_at": "2026-11-25T00:03:24+00:00",
    "posted_history": [
     "2026-11-25T00:03:24+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Product Manager",
+   "title": "Senior Product Manager, Workforce Management",
    "url": "https://www.coinbase.com/careers/positions/8415721?gh_jid=8415721"
   },
   "8415764": {
@@ -5733,6 +5827,96 @@
    "reopened": 0,
    "title": "Head of Finance, Canada",
    "url": "https://www.coinbase.com/careers/positions/8415764?gh_jid=8415764"
+  },
+  "8415869": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "security engineer intern @ hybrid - new york, ny",
+   "location": "Hybrid - New York, NY",
+   "posted_at": "2026-11-25T20:22:13+00:00",
+   "posted_history": [
+    "2026-11-25T20:22:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Security Engineer Intern",
+   "url": "https://www.coinbase.com/careers/positions/8415869?gh_jid=8415869"
+  },
+  "8417588": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "senior staff software engineer native mobile @ remote - usa",
+   "location": "Remote - USA",
+   "posted_at": "2026-11-25T22:24:11+00:00",
+   "posted_history": [
+    "2026-11-25T22:24:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Staff Software Engineer, Native Mobile",
+   "url": "https://www.coinbase.com/careers/positions/8417588?gh_jid=8417588"
+  },
+  "8417596": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "staff software engineer native mobile @ remote - usa",
+   "location": "Remote - USA",
+   "posted_at": "2026-11-25T22:29:36+00:00",
+   "posted_history": [
+    "2026-11-25T22:29:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer, Native Mobile",
+   "url": "https://www.coinbase.com/careers/positions/8417596?gh_jid=8417596"
+  },
+  "8417630": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "senior software engineer native mobile @ remote - usa",
+   "location": "Remote - USA",
+   "posted_at": "2026-11-25T22:52:58+00:00",
+   "posted_history": [
+    "2026-11-25T22:52:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Native Mobile",
+   "url": "https://www.coinbase.com/careers/positions/8417630?gh_jid=8417630"
+  },
+  "8417917": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "customer support specialist ll @ hyderabad, india",
+   "location": "Hyderabad, India",
+   "posted_at": "2026-11-25T22:59:42+00:00",
+   "posted_history": [
+    "2026-11-25T22:59:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Support Specialist ll",
+   "url": "https://www.coinbase.com/careers/positions/8417917?gh_jid=8417917"
+  },
+  "8418037": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "risk monitoring analyst iii @ remote - usa",
+   "location": "Remote - USA",
+   "posted_at": "2026-11-25T21:25:50+00:00",
+   "posted_history": [
+    "2026-11-25T21:25:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Risk & Monitoring Analyst III",
+   "url": "https://www.coinbase.com/careers/positions/8418037?gh_jid=8418037"
   }
  }
 }

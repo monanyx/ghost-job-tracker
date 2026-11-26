@@ -151,6 +151,10 @@
   {
    "date": "2026-11-25",
    "open": 255
+  },
+  {
+   "date": "2026-11-26",
+   "open": 254
   }
  ],
  "jobs": {
@@ -3215,7 +3219,7 @@
    "url": "https://careers.roblox.com/jobs/8201883?gh_jid=8201883"
   },
   "8202168": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5540,7 +5544,7 @@
    "url": "https://careers.roblox.com/jobs/8357657?gh_jid=8357657"
   },
   "8357783": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-06T11:30:42+00:00",
@@ -5589,14 +5593,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
-   "fp": "lead strategic partnerships and operations sea and oce @ singapore",
+   "fp": "lead strategic operations partnerships sea and oce @ singapore",
    "location": "Singapore",
    "posted_at": "2026-11-10T06:42:18+00:00",
    "posted_history": [
     "2026-11-10T06:42:18+00:00"
    ],
    "reopened": 0,
-   "title": "Lead - Strategic Partnerships and Operations, SEA and OCE",
+   "title": "Lead – Strategic Operations & Partnerships — SEA and OCE",
    "url": "https://careers.roblox.com/jobs/8359634?gh_jid=8359634"
   },
   "8364312": {
@@ -5793,6 +5797,21 @@
    "reopened": 0,
    "title": "GSOC Manager",
    "url": "https://careers.roblox.com/jobs/8411963?gh_jid=8411963"
+  },
+  "8417328": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "developer engagement team @ remote",
+   "location": "Remote",
+   "posted_at": "2026-11-25T16:18:04+00:00",
+   "posted_history": [
+    "2026-11-25T16:18:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "Developer Engagement Team  (Contract)",
+   "url": "https://careers.roblox.com/jobs/8417328?gh_jid=8417328"
   }
  }
 }

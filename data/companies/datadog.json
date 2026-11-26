@@ -151,6 +151,10 @@
   {
    "date": "2026-11-25",
    "open": 388
+  },
+  {
+   "date": "2026-11-26",
+   "open": 391
   }
  ],
  "jobs": {
@@ -2555,7 +2559,7 @@
    "url": "https://careers.datadoghq.com/detail/7939175/?gh_jid=7939175"
   },
   "7939294": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2690,7 +2694,7 @@
    "url": "https://careers.datadoghq.com/detail/7982288/?gh_jid=7982288"
   },
   "7982644": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6560,7 +6564,7 @@
    "url": "https://careers.datadoghq.com/detail/8257306/?gh_jid=8257306"
   },
   "8257324": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7310,7 +7314,7 @@
    "url": "https://careers.datadoghq.com/detail/8303404/?gh_jid=8303404"
   },
   "8303622": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -7745,7 +7749,7 @@
    "url": "https://careers.datadoghq.com/detail/8334261/?gh_jid=8334261"
   },
   "8334273": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -8105,7 +8109,7 @@
    "url": "https://careers.datadoghq.com/detail/8355189/?gh_jid=8355189"
   },
   "8356637": {
-   "closed_at": "2026-11-20T12:11:54+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-12T11:51:19+00:00",
@@ -8115,7 +8119,7 @@
    "posted_history": [
     "2026-11-11T18:36:19+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Strategic Account Executive",
    "url": "https://careers.datadoghq.com/detail/8356637/?gh_jid=8356637"
   },
@@ -8589,14 +8593,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-20T12:11:54+00:00",
-   "fp": "enterprise automation engineer @ new york, new york, usa",
+   "fp": "senior automation engineer @ new york, new york, usa",
    "location": "New York, New York, USA",
    "posted_at": "2026-11-19T21:37:53+00:00",
    "posted_history": [
     "2026-11-19T21:37:53+00:00"
    ],
    "reopened": 0,
-   "title": "Enterprise Automation Engineer",
+   "title": "Senior Automation Engineer",
    "url": "https://careers.datadoghq.com/detail/8404061/?gh_jid=8404061"
   },
   "8405975": {
@@ -8614,6 +8618,21 @@
    "title": "Group Product Management, Cloud Security and Shared Capabilities",
    "url": "https://careers.datadoghq.com/detail/8405975/?gh_jid=8405975"
   },
+  "8411119": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "commercial account executive @ riyadh, saudi arabia",
+   "location": "Riyadh, Saudi Arabia",
+   "posted_at": "2026-11-25T16:44:37+00:00",
+   "posted_history": [
+    "2026-11-25T16:44:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Commercial Account Executive (Saudi Arabia)",
+   "url": "https://careers.datadoghq.com/detail/8411119/?gh_jid=8411119"
+  },
   "8414413": {
    "closed_at": null,
    "department": "",
@@ -8628,6 +8647,96 @@
    "reopened": 0,
    "title": "Senior Platform Product Manager, FinOps",
    "url": "https://careers.datadoghq.com/detail/8414413/?gh_jid=8414413"
+  },
+  "8414434": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "enterprise sales engineer germany @ germany, remote",
+   "location": "Germany, Remote",
+   "posted_at": "2026-11-26T10:43:59+00:00",
+   "posted_history": [
+    "2026-11-26T10:43:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Sales Engineer - Germany",
+   "url": "https://careers.datadoghq.com/detail/8414434/?gh_jid=8414434"
+  },
+  "8414502": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "vice president technical solutions operations @ san francisco, california, usa",
+   "location": "San Francisco, California, USA",
+   "posted_at": "2026-11-25T19:59:43+00:00",
+   "posted_history": [
+    "2026-11-25T19:59:43+00:00"
+   ],
+   "reopened": 0,
+   "title": "Vice President, Technical Solutions Operations",
+   "url": "https://careers.datadoghq.com/detail/8414502/?gh_jid=8414502"
+  },
+  "8416965": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "senior director growth marketing @ new york, new york, usa; san francisco, california, usa",
+   "location": "New York, New York, USA; San Francisco, California, USA",
+   "posted_at": "2026-11-25T16:24:01+00:00",
+   "posted_history": [
+    "2026-11-25T16:24:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Director, Growth Marketing",
+   "url": "https://careers.datadoghq.com/detail/8416965/?gh_jid=8416965"
+  },
+  "8417250": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "certification program lead @ new york, new york, usa",
+   "location": "New York, New York, USA",
+   "posted_at": "2026-11-25T16:59:39+00:00",
+   "posted_history": [
+    "2026-11-25T16:59:39+00:00"
+   ],
+   "reopened": 0,
+   "title": "Certification Program Lead",
+   "url": "https://careers.datadoghq.com/detail/8417250/?gh_jid=8417250"
+  },
+  "8417469": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "certification program lead @ california, usa, remote; massachusetts, usa, remote; new york, usa, remote; washington, usa, remote",
+   "location": "California, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote; Washington, USA, Remote",
+   "posted_at": "2026-11-25T16:59:41+00:00",
+   "posted_history": [
+    "2026-11-25T16:59:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "Certification Program Lead",
+   "url": "https://careers.datadoghq.com/detail/8417469/?gh_jid=8417469"
+  },
+  "8418089": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "senior developer advocate opentelemetry @ california, usa, remote; massachusetts, usa, remote; new york, usa, remote; washington, usa, remote",
+   "location": "California, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote; Washington, USA, Remote",
+   "posted_at": "2026-11-25T21:41:35+00:00",
+   "posted_history": [
+    "2026-11-25T21:41:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Developer Advocate, OpenTelemetry",
+   "url": "https://careers.datadoghq.com/detail/8418089/?gh_jid=8418089"
   }
  }
 }

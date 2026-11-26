@@ -151,6 +151,10 @@
   {
    "date": "2026-11-25",
    "open": 149
+  },
+  {
+   "date": "2026-11-26",
+   "open": 149
   }
  ],
  "jobs": {
@@ -1775,7 +1779,7 @@
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8180811"
   },
   "8186566": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1865,7 +1869,7 @@
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8189395"
   },
   "8189894": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1880,7 +1884,7 @@
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8189894"
   },
   "8189899": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2855,7 +2859,7 @@
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8319536"
   },
   "8319655": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-25T08:43:53+00:00",
@@ -3078,6 +3082,21 @@
    "reopened": 0,
    "title": "Principal Software Engineer, Infrastructure",
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8350761"
+  },
+  "8350912": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "senior technical solutions manager signals @ chicago, il; los angeles, ca; new york city, ny; san francisco, ca",
+   "location": "Chicago, IL; Los Angeles, CA; New York City, NY; San Francisco, CA",
+   "posted_at": "2026-11-25T17:48:48+00:00",
+   "posted_history": [
+    "2026-11-25T17:48:48+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Technical Solutions Manager, Signals",
+   "url": "https://job-boards.greenhouse.io/reddit/jobs/8350912"
   },
   "8351484": {
    "closed_at": null,
@@ -3439,6 +3458,21 @@
    "title": "Staff Product Manager, Agentic Ads Buying",
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8407162"
   },
+  "8407327": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "creative strategist @ chicago, il; los angeles, ca; new york city, ny; san francisco, ca",
+   "location": "Chicago, IL; Los Angeles, CA; New York City, NY; San Francisco, CA",
+   "posted_at": "2026-11-25T17:48:40+00:00",
+   "posted_history": [
+    "2026-11-25T17:48:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Creative Strategist",
+   "url": "https://job-boards.greenhouse.io/reddit/jobs/8407327"
+  },
   "8407605": {
    "closed_at": null,
    "department": "",
@@ -3469,6 +3503,21 @@
    "title": "Senior Software Engineer, AI & Science Platform",
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8411613"
   },
+  "8411910": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "senior client account manager large customer sales @ new york city, ny",
+   "location": "New York City, NY",
+   "posted_at": "2026-11-26T00:07:28+00:00",
+   "posted_history": [
+    "2026-11-26T00:07:28+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Client Account Manager, Large Customer Sales (Financial Services)",
+   "url": "https://job-boards.greenhouse.io/reddit/jobs/8411910"
+  },
   "8414836": {
    "closed_at": null,
    "department": "",
@@ -3483,6 +3532,21 @@
    "reopened": 0,
    "title": "Lower Funnel Product Adoption Strategist",
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8414836"
+  },
+  "8415553": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "software engineer ads @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-25T17:58:23+00:00",
+   "posted_history": [
+    "2026-11-25T17:58:23+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Ads",
+   "url": "https://job-boards.greenhouse.io/reddit/jobs/8415553"
   }
  }
 }

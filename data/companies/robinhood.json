@@ -151,6 +151,10 @@
   {
    "date": "2026-11-25",
    "open": 162
+  },
+  {
+   "date": "2026-11-26",
+   "open": 163
   }
  ],
  "jobs": {
@@ -890,7 +894,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8060585?t=gh_src=&gh_jid=8060585"
   },
   "8060600": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1700,7 +1704,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8188665?t=gh_src=&gh_jid=8188665"
   },
   "8189213": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2330,7 +2334,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8238565?t=gh_src=&gh_jid=8238565"
   },
   "8240638": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3229,6 +3233,21 @@
    "title": "Product Manager, Regulatory",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8331310?t=gh_src=&gh_jid=8331310"
   },
+  "8331424": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "crypto compliance lead defi @ menlo park, ca; new york, ny",
+   "location": "Menlo Park, CA; New York, NY",
+   "posted_at": "2026-11-26T03:06:16+00:00",
+   "posted_history": [
+    "2026-11-26T03:06:16+00:00"
+   ],
+   "reopened": 0,
+   "title": "Crypto Compliance Lead, DeFi",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8331424?t=gh_src=&gh_jid=8331424"
+  },
   "8331571": {
    "closed_at": null,
    "department": "",
@@ -3484,6 +3503,21 @@
    "title": "Senior Client Platform Engineer",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8354333?t=gh_src=&gh_jid=8354333"
   },
+  "8355577": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "software engineer web government products @ menlo park, ca; new york, ny",
+   "location": "Menlo Park, CA; New York, NY",
+   "posted_at": "2026-11-25T20:42:07+00:00",
+   "posted_history": [
+    "2026-11-25T20:42:07+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Web, Government Products",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8355577?t=gh_src=&gh_jid=8355577"
+  },
   "8355584": {
    "closed_at": null,
    "department": "",
@@ -3679,6 +3713,21 @@
    "title": "Staff MarTech Manager",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8374447?t=gh_src=&gh_jid=8374447"
   },
+  "8375545": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "sourcing manager @ chicago, il; menlo park, ca; new york, ny",
+   "location": "Chicago, IL; Menlo Park, CA; New York, NY",
+   "posted_at": "2026-11-26T03:18:56+00:00",
+   "posted_history": [
+    "2026-11-26T03:18:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sourcing Manager",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8375545?t=gh_src=&gh_jid=8375545"
+  },
   "8379150": {
    "closed_at": null,
    "department": "",
@@ -3723,6 +3772,21 @@
    "reopened": 0,
    "title": "Accounts Receivable Operations Analyst",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8379685?t=gh_src=&gh_jid=8379685"
+  },
+  "8381244": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "staff software engineer customer care platforms @ menlo park, ca",
+   "location": "Menlo Park, CA",
+   "posted_at": "2026-11-25T17:08:09+00:00",
+   "posted_history": [
+    "2026-11-25T17:08:09+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer, Customer Care Platforms (SupportX & Agentic Systems)",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8381244?t=gh_src=&gh_jid=8381244"
   },
   "8383140": {
    "closed_at": null,
@@ -3849,8 +3913,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-25T13:30:19+00:00",
-   "fp": "manager of crypto accounting @ menlo park, ca",
-   "location": "Menlo Park, CA",
+   "fp": "manager of crypto accounting @ chicago, il; menlo park, ca; new york, ny",
+   "location": "Chicago, IL; Menlo Park, CA; New York, NY",
    "posted_at": "2026-11-24T23:57:56+00:00",
    "posted_history": [
     "2026-11-24T23:57:56+00:00"

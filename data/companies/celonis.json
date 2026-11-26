@@ -151,6 +151,10 @@
   {
    "date": "2026-11-25",
    "open": 258
+  },
+  {
+   "date": "2026-11-26",
+   "open": 259
   }
  ],
  "jobs": {
@@ -2274,18 +2278,18 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior value engineer ai process optimization @ copenhagen, denmark",
+   "fp": "senior value engineer life sciences pharmaceutical @ copenhagen, denmark",
    "location": "Copenhagen, Denmark",
    "posted_at": "2026-08-19T08:22:57+00:00",
    "posted_history": [
     "2026-08-19T08:22:57+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Value Engineer (Pharma) - AI & Process Optimization",
+   "title": "Senior Value Engineer - Life Sciences & Pharmaceutical",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7885753003?gh_jid=7885753003"
   },
   "7885800003": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2424,14 +2428,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "staff product analytics engineer @ bangalore, india",
+   "fp": "staff data engineer @ bangalore, india",
    "location": "Bangalore, India",
    "posted_at": "2026-08-31T09:49:04+00:00",
    "posted_history": [
     "2026-08-31T09:49:04+00:00"
    ],
    "reopened": 0,
-   "title": "Staff Product Analytics Engineer",
+   "title": "Staff Data Engineer",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7886054003?gh_jid=7886054003"
   },
   "7886062003": {
@@ -2705,7 +2709,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7981557003?gh_jid=7981557003"
   },
   "7984249003": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4714,6 +4718,36 @@
    "title": "Enterprise Account Executive MEA Oil & Energy",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8197525003?gh_jid=8197525003"
   },
+  "8198058003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "senior data scientist ic3 @ bangalore, india",
+   "location": "Bangalore, India",
+   "posted_at": "2026-11-26T06:51:25+00:00",
+   "posted_history": [
+    "2026-11-26T06:51:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Data Scientist_IC3",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/8198058003?gh_jid=8198058003"
+  },
+  "8198070003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "analytics engineer ic2 @ bangalore, india",
+   "location": "Bangalore, India",
+   "posted_at": "2026-11-25T13:56:01+00:00",
+   "posted_history": [
+    "2026-11-25T13:56:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "Analytics Engineer_IC2",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/8198070003?gh_jid=8198070003"
+  },
   "8198121003": {
    "closed_at": null,
    "department": "",
@@ -5688,6 +5722,21 @@
    "reopened": 0,
    "title": "Associate (AI) Solution Consultant - Orbit Program",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8216843003?gh_jid=8216843003"
+  },
+  "8217043003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "senior solution engineer life sciences pharmaceutical @ copenhagen, denmark",
+   "location": "Copenhagen, Denmark",
+   "posted_at": "2026-11-25T15:18:57+00:00",
+   "posted_history": [
+    "2026-11-25T15:18:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Solution Engineer - Life Sciences & Pharmaceutical",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/8217043003?gh_jid=8217043003"
   }
  }
 }

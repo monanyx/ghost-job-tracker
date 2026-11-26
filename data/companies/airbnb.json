@@ -151,6 +151,10 @@
   {
    "date": "2026-11-25",
    "open": 200
+  },
+  {
+   "date": "2026-11-26",
+   "open": 198
   }
  ],
  "jobs": {
@@ -215,7 +219,7 @@
    "url": "https://careers.airbnb.com/positions/7230257?gh_jid=7230257"
   },
   "7417293": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -230,7 +234,7 @@
    "url": "https://careers.airbnb.com/positions/7417293?gh_jid=7417293"
   },
   "7417294": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1970,7 +1974,7 @@
    "url": "https://careers.airbnb.com/positions/8207084?gh_jid=8207084"
   },
   "8207095": {
-   "closed_at": "2026-11-09T12:08:42+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1980,8 +1984,8 @@
    "posted_history": [
     "2026-09-16T18:23:40+00:00"
    ],
-   "reopened": 0,
-   "title": "Staff Advanced Analytics, Community Blueprint & Quality",
+   "reopened": 1,
+   "title": "Staff Advanced Analytics, Community Blueprint Quality",
    "url": "https://careers.airbnb.com/positions/8207095?gh_jid=8207095"
   },
   "8207342": {
@@ -3290,7 +3294,7 @@
    "url": "https://careers.airbnb.com/positions/8289954?gh_jid=8289954"
   },
   "8290025": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3905,7 +3909,7 @@
    "url": "https://careers.airbnb.com/positions/8327049?gh_jid=8327049"
   },
   "8327439": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -4659,14 +4663,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",
-   "fp": "regulatory operations lead @ london, united kingdom",
+   "fp": "regulatory strategy and operations lead cities @ london, united kingdom",
    "location": "London, United Kingdom",
    "posted_at": "2026-11-06T15:36:11+00:00",
    "posted_history": [
     "2026-11-06T15:36:11+00:00"
    ],
    "reopened": 0,
-   "title": "Regulatory Operations Lead",
+   "title": "Regulatory Strategy and Operations Lead, Cities",
    "url": "https://careers.airbnb.com/positions/8358646?gh_jid=8358646"
   },
   "8358671": {
@@ -4674,14 +4678,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",
-   "fp": "regulatory operations lead @ dublin, ireland",
+   "fp": "regulatory strategy and operations lead cities @ dublin, ireland",
    "location": "Dublin, Ireland",
    "posted_at": "2026-11-06T15:36:13+00:00",
    "posted_history": [
     "2026-11-06T15:36:13+00:00"
    ],
    "reopened": 0,
-   "title": "Regulatory Operations Lead",
+   "title": "Regulatory Strategy and Operations Lead, Cities",
    "url": "https://careers.airbnb.com/positions/8358671?gh_jid=8358671"
   },
   "8360478": {
@@ -4698,6 +4702,21 @@
    "reopened": 0,
    "title": "Software Engineering Intern (BS/MS)",
    "url": "https://careers.airbnb.com/positions/8360478?gh_jid=8360478"
+  },
+  "8360678": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "creative lead design @ san francisco, ca",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-26T00:39:23+00:00",
+   "posted_history": [
+    "2026-11-26T00:39:23+00:00"
+   ],
+   "reopened": 0,
+   "title": "Creative Lead, Design",
+   "url": "https://careers.airbnb.com/positions/8360678?gh_jid=8360678"
   },
   "8364499": {
    "closed_at": null,

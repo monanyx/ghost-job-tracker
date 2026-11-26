@@ -151,9 +151,28 @@
   {
    "date": "2026-11-25",
    "open": 61
+  },
+  {
+   "date": "2026-11-26",
+   "open": 61
   }
  ],
  "jobs": {
+  "00e1dec2-f1a9-40ca-88d2-ff175a63b54d": {
+   "closed_at": null,
+   "department": "Revenue",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "customer success manager upmarket emea @ london, uk",
+   "location": "London, UK",
+   "posted_at": "2026-11-25T16:52:47+00:00",
+   "posted_history": [
+    "2026-11-25T16:52:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Success Manager, Upmarket - EMEA",
+   "url": "https://jobs.ashbyhq.com/vanta/00e1dec2-f1a9-40ca-88d2-ff175a63b54d"
+  },
   "021cca9c-f937-4d97-8be7-bc83af8307be": {
    "closed_at": "2026-11-24T14:17:17+00:00",
    "department": "Software Engineering",
@@ -981,7 +1000,7 @@
    "url": "https://jobs.ashbyhq.com/vanta/7d9922bb-2d0e-4833-bc4e-df65dc57d232"
   },
   "7e3cdfbc-9a72-49e4-8fb6-e8f59364af6d": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

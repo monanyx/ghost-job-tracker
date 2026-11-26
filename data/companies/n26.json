@@ -151,6 +151,10 @@
   {
    "date": "2026-11-25",
    "open": 24
+  },
+  {
+   "date": "2026-11-26",
+   "open": 26
   }
  ],
  "jobs": {
@@ -185,7 +189,7 @@
    "url": "https://n26.com/en-eu/careers/positions/7774526?gh_jid=7774526"
   },
   "7818361": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
@@ -200,7 +204,7 @@
    "url": "https://n26.com/en-eu/careers/positions/7818361?gh_jid=7818361"
   },
   "7841923": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
@@ -245,7 +249,7 @@
    "url": "https://n26.com/en-eu/careers/positions/7992395?gh_jid=7992395"
   },
   "7996650": {
-   "closed_at": "2026-11-10T11:47:05+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -255,12 +259,12 @@
    "posted_history": [
     "2026-06-10T15:35:54+00:00"
    ],
-   "reopened": 1,
+   "reopened": 2,
    "title": "Senior Product Manager - Operations Automation & Enablement (OAE)",
    "url": "https://n26.com/en-eu/careers/positions/7996650?gh_jid=7996650"
   },
   "7996996": {
-   "closed_at": "2026-11-10T11:47:05+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -270,7 +274,7 @@
    "posted_history": [
     "2026-06-10T15:49:19+00:00"
    ],
-   "reopened": 1,
+   "reopened": 2,
    "title": "Senior Product Manager - Operations Automation & Enablement (OAE)",
    "url": "https://n26.com/en-eu/careers/positions/7996996?gh_jid=7996996"
   },
@@ -1104,8 +1108,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-25T13:30:19+00:00",
-   "fp": "associate product designer wealth building and lending @ barcelona",
-   "location": "Barcelona",
+   "fp": "associate product designer wealth building and lending @ berlin",
+   "location": "Berlin",
    "posted_at": "2026-11-25T09:09:11+00:00",
    "posted_history": [
     "2026-11-25T09:09:11+00:00"
@@ -1115,7 +1119,7 @@
    "url": "https://n26.com/en-eu/careers/positions/8355849?gh_jid=8355849"
   },
   "8358521": {
-   "closed_at": "2026-11-25T13:30:19+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-09T12:08:42+00:00",
@@ -1125,7 +1129,7 @@
    "posted_history": [
     "2026-11-09T08:58:30+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Forecasting Expert",
    "url": "https://n26.com/en-eu/careers/positions/8358521?gh_jid=8358521"
   },
@@ -1190,17 +1194,17 @@
    "url": "https://n26.com/en-eu/careers/positions/8377964?gh_jid=8377964"
   },
   "8378357": {
-   "closed_at": "2026-11-17T12:29:08+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-12T11:51:19+00:00",
-   "fp": "site reliability engineer data platform @ barcelona, berlin",
-   "location": "Barcelona, Berlin",
+   "fp": "site reliability engineer data platform @ berlin",
+   "location": "Berlin",
    "posted_at": "2026-11-11T12:33:58+00:00",
    "posted_history": [
     "2026-11-11T12:33:58+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Site Reliability Engineer - Data Platform",
    "url": "https://n26.com/en-eu/careers/positions/8378357?gh_jid=8378357"
   },
@@ -1220,7 +1224,7 @@
    "url": "https://n26.com/en-eu/careers/positions/8378553?gh_jid=8378553"
   },
   "8414039": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-25T13:30:19+00:00",
@@ -1233,6 +1237,21 @@
    "reopened": 0,
    "title": "Senior Product Manager - Investments",
    "url": "https://n26.com/en-eu/careers/positions/8414039?gh_jid=8414039"
+  },
+  "8414044": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "afc senior associate sar delegate @ paris",
+   "location": "Paris",
+   "posted_at": "2026-11-25T14:35:49+00:00",
+   "posted_history": [
+    "2026-11-25T14:35:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "AFC Senior Associate / SAR Delegate",
+   "url": "https://n26.com/en-eu/careers/positions/8414044?gh_jid=8414044"
   },
   "8416464": {
    "closed_at": null,

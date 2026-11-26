@@ -151,6 +151,10 @@
   {
    "date": "2026-11-25",
    "open": 173
+  },
+  {
+   "date": "2026-11-26",
+   "open": 174
   }
  ],
  "jobs": {
@@ -1015,7 +1019,7 @@
    "url": "https://jobs.ashbyhq.com/notion/49bdf081-6e20-4323-8c73-6d6b19544ff5"
   },
   "4b543db7-650d-4fea-a379-7181f65de144": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "Outcomes Architect",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1229,8 +1233,8 @@
    "department": "People",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "people analytics lead recruiting @ san francisco, california",
-   "location": "San Francisco, California",
+   "fp": "people analytics lead recruiting @ new york, new york",
+   "location": "New York, New York",
    "posted_at": "2026-06-11T16:29:05+00:00",
    "posted_history": [
     "2026-06-11T16:29:05+00:00"
@@ -1809,6 +1813,21 @@
    "reopened": 0,
    "title": "Solutions Consultant, Mid-Market, Benelux",
    "url": "https://jobs.ashbyhq.com/notion/9392cc22-547f-4089-8677-54f0d80c77a6"
+  },
+  "939da8ac-3f55-4e23-8b13-ed4867a8f4e0": {
+   "closed_at": null,
+   "department": "Security",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "head of global security assurance @ san francisco, california",
+   "location": "San Francisco, California",
+   "posted_at": "2026-11-25T20:53:40+00:00",
+   "posted_history": [
+    "2026-11-25T20:53:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Head of Global Security Assurance",
+   "url": "https://jobs.ashbyhq.com/notion/939da8ac-3f55-4e23-8b13-ed4867a8f4e0"
   },
   "951a7b72-4cb3-4726-be5e-5359269d4929": {
    "closed_at": null,
@@ -2469,6 +2488,21 @@
    "reopened": 0,
    "title": "Business Development Representative, Benelux",
    "url": "https://jobs.ashbyhq.com/notion/c65b26b9-df54-481a-817b-c6551be2373b"
+  },
+  "c777ed1e-e23f-4b76-bc21-039aaf06c1de": {
+   "closed_at": null,
+   "department": "Engineering",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "staff software engineer ai agents @ san francisco, california",
+   "location": "San Francisco, California",
+   "posted_at": "2026-11-25T21:34:00+00:00",
+   "posted_history": [
+    "2026-11-25T21:34:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Software Engineer, AI Agents",
+   "url": "https://jobs.ashbyhq.com/notion/c777ed1e-e23f-4b76-bc21-039aaf06c1de"
   },
   "ca74504a-9b91-4ce3-b0df-97919b46e749": {
    "closed_at": null,

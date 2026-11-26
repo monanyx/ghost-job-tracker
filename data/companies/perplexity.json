@@ -151,6 +151,10 @@
   {
    "date": "2026-11-25",
    "open": 151
+  },
+  {
+   "date": "2026-11-26",
+   "open": 150
   }
  ],
  "jobs": {
@@ -372,10 +376,11 @@
    "first_seen": "2026-11-15T11:30:18+00:00",
    "fp": "member of technical staff @ san francisco",
    "location": "San Francisco",
-   "posted_at": "2026-11-19T04:36:58+00:00",
+   "posted_at": "2026-11-25T19:20:56+00:00",
    "posted_history": [
     "2026-11-15T01:03:15+00:00",
-    "2026-11-19T04:36:58+00:00"
+    "2026-11-19T04:36:58+00:00",
+    "2026-11-25T19:20:56+00:00"
    ],
    "reopened": 0,
    "title": "Member of Technical Staff (AI Software Engineer, Agent Engine)",
@@ -975,12 +980,13 @@
    "first_seen": "2026-10-27T09:20:56+00:00",
    "fp": "engineering manager @ san francisco",
    "location": "San Francisco",
-   "posted_at": "2026-11-19T04:36:53+00:00",
+   "posted_at": "2026-11-25T19:20:51+00:00",
    "posted_history": [
     "2026-10-27T02:05:54+00:00",
     "2026-10-31T00:47:18+00:00",
     "2026-11-09T19:38:54+00:00",
-    "2026-11-19T04:36:53+00:00"
+    "2026-11-19T04:36:53+00:00",
+    "2026-11-25T19:20:51+00:00"
    ],
    "reopened": 0,
    "title": "Engineering Manager (Agent Engine)",
@@ -1274,7 +1280,7 @@
    "url": "https://jobs.ashbyhq.com/Perplexity/5fe2b80d-9d59-42bb-90e6-9a0b78d7d403"
   },
   "60deb376-51b5-46c6-9e17-55377a5ef34e": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "AI Research & Systems",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1701,9 +1707,10 @@
    "first_seen": "2026-11-17T12:29:08+00:00",
    "fp": "member of technical staff @ new york city",
    "location": "New York City",
-   "posted_at": "2026-11-16T03:43:19+00:00",
+   "posted_at": "2026-11-25T19:22:40+00:00",
    "posted_history": [
-    "2026-11-16T03:43:19+00:00"
+    "2026-11-16T03:43:19+00:00",
+    "2026-11-25T19:22:40+00:00"
    ],
    "reopened": 0,
    "title": "Member of Technical Staff (Perplexity Frontier Research)",
@@ -1836,9 +1843,10 @@
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "member of technical staff @ san francisco",
    "location": "San Francisco",
-   "posted_at": "2026-08-25T20:42:41+00:00",
+   "posted_at": "2026-11-25T19:22:19+00:00",
    "posted_history": [
-    "2026-08-25T20:42:41+00:00"
+    "2026-08-25T20:42:41+00:00",
+    "2026-11-25T19:22:19+00:00"
    ],
    "reopened": 0,
    "title": "Member of Technical Staff (AI Researcher)",
@@ -1994,6 +2002,21 @@
    "title": "Member of Technical Staff (Machine Learning Engineer, Search Agent RL)",
    "url": "https://jobs.ashbyhq.com/Perplexity/9cec9b33-06f2-4ba1-8c9e-20a598361ca2"
   },
+  "9dfec7e8-33eb-490a-af21-263602426826": {
+   "closed_at": null,
+   "department": "Marketing & Communications",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "creator influencer marketing lead @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-11-26T00:26:18+00:00",
+   "posted_history": [
+    "2026-11-26T00:26:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Creator & Influencer Marketing Lead",
+   "url": "https://jobs.ashbyhq.com/Perplexity/9dfec7e8-33eb-490a-af21-263602426826"
+  },
   "9e3a4516-b893-4579-9a6a-3720658e4b6d": {
    "closed_at": null,
    "department": "Marketing & Communications",
@@ -2023,6 +2046,21 @@
    "reopened": 0,
    "title": "Member of Technical Staff (Software Engineer, SPACE - Sandbox Platform)",
    "url": "https://jobs.ashbyhq.com/Perplexity/9e738c21-f2ab-49d7-b545-b519bb2cf8ae"
+  },
+  "9f9f7f1a-df07-4b40-8e2b-bcf453af6c85": {
+   "closed_at": null,
+   "department": "Marketing & Communications",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "customer marketing manager @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-11-26T00:22:47+00:00",
+   "posted_history": [
+    "2026-11-26T00:22:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Customer Marketing Manager",
+   "url": "https://jobs.ashbyhq.com/Perplexity/9f9f7f1a-df07-4b40-8e2b-bcf453af6c85"
   },
   "9ffca709-f4e1-40e7-81bf-270ff73c7a50": {
    "closed_at": null,
@@ -2311,7 +2349,7 @@
    "url": "https://jobs.ashbyhq.com/Perplexity/be94e89b-89d5-4f2a-a58b-7929c8d97f92"
   },
   "bf978d98-404d-48a5-bcf2-a1f70f195c2b": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "Legal",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
@@ -2674,7 +2712,7 @@
    "url": "https://jobs.ashbyhq.com/Perplexity/e916f0c8-5a31-4bb6-b4e3-7c4a64b95fda"
   },
   "ea29039d-3900-43d3-a555-ff790677cbe9": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "Legal",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

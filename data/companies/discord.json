@@ -151,6 +151,10 @@
   {
    "date": "2026-11-25",
    "open": 29
+  },
+  {
+   "date": "2026-11-26",
+   "open": 30
   }
  ],
  "jobs": {
@@ -425,7 +429,7 @@
    "url": "https://job-boards.greenhouse.io/discord/jobs/8659978002"
   },
   "8675185002": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -605,7 +609,7 @@
    "url": "https://job-boards.greenhouse.io/discord/jobs/8771034002"
   },
   "8771059002": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -904,6 +908,21 @@
    "title": "Strategic Finance Analyst",
    "url": "https://job-boards.greenhouse.io/discord/jobs/8865033002"
   },
+  "8871293002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "director of user experience research @ remote (u.s.)",
+   "location": "Remote (U.S.)",
+   "posted_at": "2026-11-25T16:12:13+00:00",
+   "posted_history": [
+    "2026-11-25T16:12:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Director of User Experience (UX) Research",
+   "url": "https://job-boards.greenhouse.io/discord/jobs/8871293002"
+  },
   "8879502002": {
    "closed_at": "2026-10-30T10:28:19+00:00",
    "department": "",
@@ -1054,6 +1073,21 @@
    "title": "Manager, Sales - Tech & Telco",
    "url": "https://job-boards.greenhouse.io/discord/jobs/8935135002"
   },
+  "8942144002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "data engineer @ san francisco bay area",
+   "location": "San Francisco Bay Area",
+   "posted_at": "2026-11-26T01:13:44+00:00",
+   "posted_history": [
+    "2026-11-26T01:13:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Data Engineer",
+   "url": "https://job-boards.greenhouse.io/discord/jobs/8942144002"
+  },
   "8945798002": {
    "closed_at": null,
    "department": "",
@@ -1113,6 +1147,21 @@
    "reopened": 0,
    "title": "Senior Manager, Developer Solutions",
    "url": "https://job-boards.greenhouse.io/discord/jobs/8950137002"
+  },
+  "8958889002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "senior software engineer enterprise platform @ san francisco bay area or remote (west coast)",
+   "location": "San Francisco Bay Area or Remote (West Coast)",
+   "posted_at": "2026-11-26T00:39:44+00:00",
+   "posted_history": [
+    "2026-11-26T00:39:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer, Enterprise Platform",
+   "url": "https://job-boards.greenhouse.io/discord/jobs/8958889002"
   }
  }
 }

@@ -151,6 +151,10 @@
   {
    "date": "2026-11-25",
    "open": 136
+  },
+  {
+   "date": "2026-11-26",
+   "open": 137
   }
  ],
  "jobs": {
@@ -1734,14 +1738,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "principal research engineer epic developer assistant @ cary,north carolina,united states",
+   "fp": "senior research engineer epic developer assistant @ cary,north carolina,united states",
    "location": "Cary,North Carolina,United States",
    "posted_at": "2026-09-25T13:51:16+00:00",
    "posted_history": [
     "2026-09-25T13:51:16+00:00"
    ],
    "reopened": 0,
-   "title": "Principal Research Engineer, Epic Developer Assistant",
+   "title": "Senior Research Engineer, Epic Developer Assistant",
    "url": "https://epicgames.com/careers/jobs/6200780004?gh_jid=6200780004"
   },
   "6200782004": {
@@ -1749,14 +1753,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "principal research engineer epic developer assistant @ blank,blank,multiple locations",
+   "fp": "senior research engineer epic developer assistant @ blank,blank,multiple locations",
    "location": "BLANK,BLANK,Multiple Locations",
    "posted_at": "2026-09-25T13:51:18+00:00",
    "posted_history": [
     "2026-09-25T13:51:18+00:00"
    ],
    "reopened": 0,
-   "title": "Principal Research Engineer, Epic Developer Assistant",
+   "title": "Senior Research Engineer, Epic Developer Assistant",
    "url": "https://epicgames.com/careers/jobs/6200782004?gh_jid=6200782004"
   },
   "6201355004": {
@@ -2019,14 +2023,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "principal research programmer epic developer assistant @ vancouver,british columbia,canada",
+   "fp": "senior research programmer epic developer assistant @ vancouver,british columbia,canada",
    "location": "Vancouver,British Columbia,Canada",
    "posted_at": "2026-09-25T13:51:20+00:00",
    "posted_history": [
     "2026-09-25T13:51:20+00:00"
    ],
    "reopened": 0,
-   "title": "Principal Research Programmer, Epic Developer Assistant",
+   "title": "Senior Research Programmer, Epic Developer Assistant",
    "url": "https://epicgames.com/careers/jobs/6208474004?gh_jid=6208474004"
   },
   "6209681004": {
@@ -2034,14 +2038,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "principal research programmer epic developer assistant @ montreal,quebec,canada",
+   "fp": "senior research programmer epic developer assistant @ montreal,quebec,canada",
    "location": "Montreal,Quebec,Canada",
    "posted_at": "2026-09-28T15:15:31+00:00",
    "posted_history": [
     "2026-09-28T15:15:31+00:00"
    ],
    "reopened": 0,
-   "title": "Principal Research Programmer, Epic Developer Assistant",
+   "title": "Senior Research Programmer, Epic Developer Assistant",
    "url": "https://epicgames.com/careers/jobs/6209681004?gh_jid=6209681004"
   },
   "6210202004": {
@@ -3108,6 +3112,21 @@
    "reopened": 0,
    "title": "Senior Engine Programmer, Verse Framework",
    "url": "https://epicgames.com/careers/jobs/6270596004?gh_jid=6270596004"
+  },
+  "6270779004": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "cyber defense operations director @ montreal,quebec,canada",
+   "location": "Montreal,Quebec,Canada",
+   "posted_at": "2026-11-25T22:23:47+00:00",
+   "posted_history": [
+    "2026-11-25T22:23:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Cyber Defense Operations Director",
+   "url": "https://epicgames.com/careers/jobs/6270779004?gh_jid=6270779004"
   }
  }
 }

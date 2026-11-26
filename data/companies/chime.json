@@ -151,6 +151,10 @@
   {
    "date": "2026-11-25",
    "open": 78
+  },
+  {
+   "date": "2026-11-26",
+   "open": 77
   }
  ],
  "jobs": {
@@ -260,7 +264,7 @@
    "url": "https://boards.greenhouse.io/chime/jobs/8526680002?gh_jid=8526680002"
   },
   "8529549002": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

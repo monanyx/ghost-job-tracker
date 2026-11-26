@@ -151,6 +151,10 @@
   {
    "date": "2026-11-25",
    "open": 300
+  },
+  {
+   "date": "2026-11-26",
+   "open": 300
   }
  ],
  "jobs": {
@@ -1400,7 +1404,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=7979131"
   },
   "7982315": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1520,7 +1524,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=8022867"
   },
   "8026391": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2330,7 +2334,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=8094879"
   },
   "8096160": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-03T11:21:29+00:00",
@@ -2630,17 +2634,17 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=8122273"
   },
   "8122630": {
-   "closed_at": "2026-11-21T11:47:59+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior associate strategic finance @ boston",
-   "location": "Boston",
+   "fp": "senior associate strategic finance @ boston, ma or new york, ny",
+   "location": "Boston, MA Or New York, NY ",
    "posted_at": "2026-08-21T16:01:55+00:00",
    "posted_history": [
     "2026-08-21T16:01:55+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Associate, Strategic Finance (International)",
    "url": "https://careers.toasttab.com/jobs?gh_jid=8122630"
   },
@@ -4955,7 +4959,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=8257129"
   },
   "8258222": {
-   "closed_at": "2026-11-06T11:30:42+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -4965,7 +4969,7 @@
    "posted_history": [
     "2026-10-16T16:05:57+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Product Manager, Team Management",
    "url": "https://careers.toasttab.com/jobs?gh_jid=8258222"
   },
@@ -6245,7 +6249,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=8289167"
   },
   "8289201": {
-   "closed_at": "2026-11-06T11:30:42+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -6255,7 +6259,7 @@
    "posted_history": [
     "2026-10-16T16:06:01+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Product Manager, Team Management",
    "url": "https://careers.toasttab.com/jobs?gh_jid=8289201"
   },
@@ -6654,14 +6658,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
-   "fp": "territory account executive smb wilmington de @ wilmington, de",
+   "fp": "territory account executive smb wilmington rehoboth de @ wilmington, de",
    "location": "Wilmington, DE",
    "posted_at": "2026-10-21T13:49:07+00:00",
    "posted_history": [
     "2026-10-21T13:49:07+00:00"
    ],
    "reopened": 1,
-   "title": "Territory Account Executive , SMB - Wilmington, DE",
+   "title": "Territory Account Executive , SMB - Wilmington / Rehoboth, DE",
    "url": "https://careers.toasttab.com/jobs?gh_jid=8304318"
   },
   "8305972": {
@@ -8270,7 +8274,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=8351242"
   },
   "8352523": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-13T11:35:01+00:00",
@@ -9605,7 +9609,7 @@
    "url": "https://careers.toasttab.com/jobs?gh_jid=8392140"
   },
   "8392339": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-19T12:10:18+00:00",
@@ -10414,6 +10418,21 @@
    "title": "Senior Principal Product Manager - Vision AI Experiences",
    "url": "https://careers.toasttab.com/jobs?gh_jid=8402925"
   },
+  "8402957": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "inside account executive @ london, uk",
+   "location": "London, UK",
+   "posted_at": "2026-11-25T15:58:03+00:00",
+   "posted_history": [
+    "2026-11-25T15:58:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Inside Account Executive",
+   "url": "https://careers.toasttab.com/jobs?gh_jid=8402957"
+  },
   "8406160": {
    "closed_at": null,
    "department": "",
@@ -10443,6 +10462,21 @@
    "reopened": 0,
    "title": "Product Counsel",
    "url": "https://careers.toasttab.com/jobs?gh_jid=8406202"
+  },
+  "8406848": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "manager ii enterprise care @ omaha, ne",
+   "location": "Omaha, NE",
+   "posted_at": "2026-11-25T17:27:18+00:00",
+   "posted_history": [
+    "2026-11-25T17:27:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager II - Enterprise Care",
+   "url": "https://careers.toasttab.com/jobs?gh_jid=8406848"
   },
   "8410699": {
    "closed_at": null,

@@ -151,6 +151,10 @@
   {
    "date": "2026-11-25",
    "open": 110
+  },
+  {
+   "date": "2026-11-26",
+   "open": 110
   }
  ],
  "jobs": {
@@ -1310,7 +1314,7 @@
    "url": "https://www.asana.com/jobs/apply/8189734?gh_jid=8189734"
   },
   "8193555": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2598,6 +2602,21 @@
    "reopened": 0,
    "title": "Staff Product Designer, AI",
    "url": "https://www.asana.com/jobs/apply/8369132?gh_jid=8369132"
+  },
+  "8369137": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "staff product designer @ new york city",
+   "location": "New York City",
+   "posted_at": "2026-11-25T14:11:10+00:00",
+   "posted_history": [
+    "2026-11-25T14:11:10+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Product Designer",
+   "url": "https://www.asana.com/jobs/apply/8369137?gh_jid=8369137"
   },
   "8370078": {
    "closed_at": null,

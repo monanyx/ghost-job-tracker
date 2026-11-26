@@ -151,6 +151,10 @@
   {
    "date": "2026-11-25",
    "open": 247
+  },
+  {
+   "date": "2026-11-26",
+   "open": 242
   }
  ],
  "jobs": {
@@ -485,7 +489,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8620720002"
   },
   "8621733002": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1115,7 +1119,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8692874002"
   },
   "8692880002": {
-   "closed_at": "2026-11-20T12:11:54+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1125,7 +1129,7 @@
    "posted_history": [
     "2026-08-18T15:27:32+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Support Engineer",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8692880002"
   },
@@ -2480,7 +2484,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8843512002"
   },
   "8844846002": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2495,7 +2499,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8844846002"
   },
   "8845277002": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2795,7 +2799,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8859694002"
   },
   "8859960002": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-05T11:30:12+00:00",
@@ -5030,7 +5034,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8927630002"
   },
   "8928253002": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-10T11:47:05+00:00",
@@ -5090,7 +5094,7 @@
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8928552002"
   },
   "8928675002": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",

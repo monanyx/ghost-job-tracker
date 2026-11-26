@@ -151,6 +151,10 @@
   {
    "date": "2026-11-25",
    "open": 247
+  },
+  {
+   "date": "2026-11-26",
+   "open": 246
   }
  ],
  "jobs": {
@@ -723,6 +727,21 @@
    "reopened": 0,
    "title": "Senior Plant Issue Resolution Engineer - Electrical Systems",
    "url": "https://jobs.lever.co/zoox/18f1de8e-0f9f-48a5-aca6-406e1206dc47"
+  },
+  "1a41e141-7e0b-4474-b4eb-bf89032bd7a8": {
+   "closed_at": null,
+   "department": "Information Technology",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "supply chain ai intern @ foster city, ca",
+   "location": "Foster City, CA",
+   "posted_at": "2026-11-20T23:15:03+00:00",
+   "posted_history": [
+    "2026-11-20T23:15:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Supply Chain AI Intern [Summer 2027]",
+   "url": "https://jobs.lever.co/zoox/1a41e141-7e0b-4474-b4eb-bf89032bd7a8"
   },
   "1c9dae67-e486-4e39-b6a5-ccac4d93b2df": {
    "closed_at": "2026-10-21T08:53:29+00:00",
@@ -1464,14 +1483,14 @@
    "department": "Vehicle Integration, Testing & Validation",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior energy engineer @ foster city, ca",
+   "fp": "energy engineer @ foster city, ca",
    "location": "Foster City, CA",
    "posted_at": "2026-06-26T20:36:29+00:00",
    "posted_history": [
     "2026-06-26T20:36:29+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Energy Engineer",
+   "title": "Energy Engineer",
    "url": "https://jobs.lever.co/zoox/3d951aa1-611b-4abd-ae2d-447c5361a679"
   },
   "3e06c948-94f4-4c16-bc2f-a84465868e3e": {
@@ -1805,7 +1824,7 @@
    "url": "https://jobs.lever.co/zoox/4fcf2e08-0703-4246-a8f7-064cc221be3f"
   },
   "51838a63-2dde-44dc-9c3e-757f35b9690f": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "Fleet Operations",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2030,7 +2049,7 @@
    "url": "https://jobs.lever.co/zoox/5de4079e-3365-479b-99ca-4bc0371cb63c"
   },
   "5e03b357-0cc1-4194-9488-14f85044f4f9": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "Software",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3814,6 +3833,21 @@
    "title": "Embedded Software Engineer - Power Systems",
    "url": "https://jobs.lever.co/zoox/b1bba11f-2b04-4a4a-8095-752c04182af1"
   },
+  "b237c9f7-cab4-441b-9fe5-13325016aba5": {
+   "closed_at": null,
+   "department": "Autonomy Software",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "senior staff machine learning engineer generative ai @ tel aviv, il",
+   "location": "Tel Aviv, IL",
+   "posted_at": "2026-11-25T17:58:23+00:00",
+   "posted_history": [
+    "2026-11-25T17:58:23+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior/Staff Machine Learning Engineer, Generative AI",
+   "url": "https://jobs.lever.co/zoox/b237c9f7-cab4-441b-9fe5-13325016aba5"
+  },
   "b2b98b5f-e2c9-47b4-9683-a14c102a83bd": {
    "closed_at": null,
    "department": "Robot Industrial Design",
@@ -4175,7 +4209,7 @@
    "url": "https://jobs.lever.co/zoox/cc074dc6-e1a1-43cc-a02b-164b7b56da74"
   },
   "cc43bf88-ed84-408f-a557-3d1c7263ddff": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "Software",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",

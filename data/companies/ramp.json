@@ -151,6 +151,10 @@
   {
    "date": "2026-11-25",
    "open": 182
+  },
+  {
+   "date": "2026-11-26",
+   "open": 183
   }
  ],
  "jobs": {
@@ -470,17 +474,18 @@
    "url": "https://jobs.ashbyhq.com/ramp/218e3fef-0fa7-4ad4-b401-9ba0c76c0ff0"
   },
   "220e674a-fc70-439f-bacf-687553ca59c9": {
-   "closed_at": "2026-11-20T12:11:54+00:00",
+   "closed_at": null,
    "department": "Sales",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
    "fp": "solutions consultant commercial @ remote (us)",
    "location": "Remote (US)",
-   "posted_at": "2026-11-03T17:04:10+00:00",
+   "posted_at": "2026-11-25T20:23:25+00:00",
    "posted_history": [
-    "2026-11-03T17:04:10+00:00"
+    "2026-11-03T17:04:10+00:00",
+    "2026-11-25T20:23:25+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Solutions Consultant, Commercial",
    "url": "https://jobs.ashbyhq.com/ramp/220e674a-fc70-439f-bacf-687553ca59c9"
   },

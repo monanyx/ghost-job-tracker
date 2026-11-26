@@ -151,6 +151,10 @@
   {
    "date": "2026-11-25",
    "open": 420
+  },
+  {
+   "date": "2026-11-26",
+   "open": 422
   }
  ],
  "jobs": {
@@ -1205,7 +1209,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=7613587"
   },
   "7613665": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1713,6 +1717,21 @@
    "reopened": 0,
    "title": "Engagement Manager",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=7861722"
+  },
+  "7870848": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "senior software engineer @ new york city",
+   "location": "New York City",
+   "posted_at": "2026-11-25T21:36:02+00:00",
+   "posted_history": [
+    "2026-11-25T21:36:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=7870848"
   },
   "7870876": {
    "closed_at": null,
@@ -3605,7 +3624,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8141572"
   },
   "8141592": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5405,7 +5424,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8226040"
   },
   "8227250": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5495,7 +5514,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8229892"
   },
   "8229901": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5960,7 +5979,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8256571"
   },
   "8256905": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6889,6 +6908,21 @@
    "title": "Senior Forward Deployment Engineer",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8304146"
   },
+  "8304154": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "senior staff engineer @ bengaluru",
+   "location": "Bengaluru",
+   "posted_at": "2026-11-26T13:10:49+00:00",
+   "posted_history": [
+    "2026-11-26T13:10:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Staff Engineer",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8304154"
+  },
   "8304447": {
    "closed_at": null,
    "department": "",
@@ -7494,14 +7528,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",
-   "fp": "software engineer 3 @ cork, ireland; dublin; ireland",
+   "fp": "software engineer 3 kubernetes platform @ cork, ireland; dublin; ireland",
    "location": "Cork, Ireland; Dublin; Ireland",
    "posted_at": "2026-11-06T17:31:27+00:00",
    "posted_history": [
     "2026-11-06T17:31:27+00:00"
    ],
    "reopened": 0,
-   "title": "Software Engineer 3",
+   "title": "Software Engineer 3, Kubernetes Platform",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8337438"
   },
   "8337727": {
@@ -7659,14 +7693,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-18T12:16:07+00:00",
-   "fp": "software engineer 3 @ dublin, ireland",
+   "fp": "software engineer 3 enterprise advanced @ dublin, ireland",
    "location": "Dublin, Ireland",
    "posted_at": "2026-11-18T09:51:35+00:00",
    "posted_history": [
     "2026-11-18T09:51:35+00:00"
    ],
    "reopened": 0,
-   "title": "Software Engineer 3",
+   "title": "Software Engineer 3, Enterprise Advanced",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8349256"
   },
   "8349259": {
@@ -7929,14 +7963,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",
-   "fp": "account executive @ dublin, ireland",
-   "location": "Dublin, Ireland",
+   "fp": "account executive mid market @ cork, ireland; dublin, ireland",
+   "location": "Cork, Ireland; Dublin, Ireland",
    "posted_at": "2026-11-06T17:55:49+00:00",
    "posted_history": [
     "2026-11-06T17:55:49+00:00"
    ],
    "reopened": 0,
-   "title": "Account Executive (German Speaker)",
+   "title": "Account Executive - Mid Market (German Speaker)",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8359541"
   },
   "8359903": {
@@ -8694,14 +8728,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-17T12:29:08+00:00",
-   "fp": "associate account executive @ london",
+   "fp": "inside account executive @ london",
    "location": "London",
    "posted_at": "2026-11-16T16:39:39+00:00",
    "posted_history": [
     "2026-11-16T16:39:39+00:00"
    ],
    "reopened": 0,
-   "title": "Associate Account Executive",
+   "title": "Inside Account Executive",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8393203"
   },
   "8393584": {
@@ -8914,6 +8948,21 @@
    "title": "Senior Solutions Architect",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8399277"
   },
+  "8400945": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "compensation analyst @ austin",
+   "location": "Austin",
+   "posted_at": "2026-11-25T14:59:33+00:00",
+   "posted_history": [
+    "2026-11-25T14:59:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Compensation Analyst",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8400945"
+  },
   "8401388": {
    "closed_at": null,
    "department": "",
@@ -9024,18 +9073,18 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-23T13:40:09+00:00",
-   "fp": "software engineer 3 @ cork, ireland; dublin, ireland",
+   "fp": "software engineer 3 cloud payments @ cork, ireland; dublin, ireland",
    "location": "Cork, Ireland; Dublin, Ireland",
    "posted_at": "2026-11-23T11:44:42+00:00",
    "posted_history": [
     "2026-11-23T11:44:42+00:00"
    ],
    "reopened": 0,
-   "title": "Software Engineer 3",
+   "title": "Software Engineer 3 , Cloud Payments",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8403312"
   },
   "8403315": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-24T14:17:17+00:00",
@@ -9169,6 +9218,21 @@
    "title": "Manager, GTM Operations",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8411524"
   },
+  "8411720": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "relationship account manager @ sydney",
+   "location": "Sydney",
+   "posted_at": "2026-11-25T23:43:22+00:00",
+   "posted_history": [
+    "2026-11-25T23:43:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Relationship Account Manager",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8411720"
+  },
   "8412006": {
    "closed_at": null,
    "department": "",
@@ -9198,6 +9262,66 @@
    "reopened": 0,
    "title": "Senior Manager, Workplace Operations, Safety & Security",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8412160"
+  },
+  "8414057": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "software engineer 3 @ dublin, ireland",
+   "location": "Dublin, Ireland",
+   "posted_at": "2026-11-25T15:48:46+00:00",
+   "posted_history": [
+    "2026-11-25T15:48:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer 3",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8414057"
+  },
+  "8414731": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "manager engineering @ dublin, ireland",
+   "location": "Dublin, Ireland",
+   "posted_at": "2026-11-25T15:48:17+00:00",
+   "posted_history": [
+    "2026-11-25T15:48:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager, Engineering",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8414731"
+  },
+  "8418729": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "solutions architect @ bengaluru; gurugram; mumbai",
+   "location": "Bengaluru; Gurugram; Mumbai",
+   "posted_at": "2026-11-26T11:53:54+00:00",
+   "posted_history": [
+    "2026-11-26T11:53:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Solutions Architect",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8418729"
+  },
+  "8418808": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "account executive mid market @ cork, ireland; dublin, ireland",
+   "location": "Cork, Ireland; Dublin, Ireland",
+   "posted_at": "2026-11-26T09:50:40+00:00",
+   "posted_history": [
+    "2026-11-26T09:50:40+00:00"
+   ],
+   "reopened": 0,
+   "title": "Account Executive - Mid Market (Spanish Speaker)",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8418808"
   }
  }
 }

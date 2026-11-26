@@ -151,6 +151,10 @@
   {
    "date": "2026-11-25",
    "open": 53
+  },
+  {
+   "date": "2026-11-26",
+   "open": 54
   }
  ],
  "jobs": {
@@ -1383,6 +1387,21 @@
    "reopened": 0,
    "title": "Senior Data Scientist, Forecasting",
    "url": "https://careers.duolingo.com/jobs/8960882002?gh_jid=8960882002"
+  },
+  "8962924002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "principal ai research engineer @ new york, ny; pittsburgh, pa",
+   "location": "New York, NY; Pittsburgh, PA",
+   "posted_at": "2026-11-25T19:55:55+00:00",
+   "posted_history": [
+    "2026-11-25T19:55:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Principal AI Research Engineer",
+   "url": "https://careers.duolingo.com/jobs/8962924002?gh_jid=8962924002"
   }
  }
 }

@@ -151,6 +151,10 @@
   {
    "date": "2026-11-25",
    "open": 513
+  },
+  {
+   "date": "2026-11-26",
+   "open": 522
   }
  ],
  "jobs": {
@@ -3635,7 +3639,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8158920?gh_jid=8158920"
   },
   "8159206": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-28T10:01:46+00:00",
@@ -4100,7 +4104,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8172404?gh_jid=8172404"
   },
   "8172411": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4850,7 +4854,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8200786?gh_jid=8200786"
   },
   "8201404": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5120,7 +5124,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8207864?gh_jid=8207864"
   },
   "8210019": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5840,7 +5844,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8234073?gh_jid=8234073"
   },
   "8234130": {
-   "closed_at": "2026-11-05T11:30:12+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5850,7 +5854,7 @@
    "posted_history": [
     "2026-09-29T17:32:58+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Data Center Site Selection - Hyperscale",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8234130?gh_jid=8234130"
   },
@@ -7025,7 +7029,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8275434?gh_jid=8275434"
   },
   "8275611": {
-   "closed_at": "2026-11-20T12:11:54+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7035,7 +7039,7 @@
    "posted_history": [
     "2026-10-13T22:27:48+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Business Development Representative - Korea",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8275611?gh_jid=8275611"
   },
@@ -7385,7 +7389,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8300499?gh_jid=8300499"
   },
   "8300518": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -7659,14 +7663,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-28T10:01:46+00:00",
-   "fp": "data center network operations engineer @ hybrid",
+   "fp": "network operations engineer @ hybrid",
    "location": "Hybrid",
    "posted_at": "2026-10-28T09:19:35+00:00",
    "posted_history": [
     "2026-10-28T09:19:35+00:00"
    ],
    "reopened": 0,
-   "title": "Data Center Network Operations Engineer",
+   "title": "Network Operations Engineer",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8311376?gh_jid=8311376"
   },
   "8311378": {
@@ -8090,18 +8094,18 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8327958?gh_jid=8327958"
   },
   "8327965": {
-   "closed_at": "2026-11-20T12:11:54+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
-   "fp": "senior customer engineer vancouver bc @ distributed",
+   "fp": "senior customer engineer saskatchewan manitoba @ distributed",
    "location": "Distributed",
    "posted_at": "2026-10-28T13:34:41+00:00",
    "posted_history": [
     "2026-10-28T13:34:41+00:00"
    ],
-   "reopened": 0,
-   "title": "Senior Customer Engineer - Vancouver BC",
+   "reopened": 1,
+   "title": "Senior Customer Engineer - Saskatchewan / Manitoba",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8327965?gh_jid=8327965"
   },
   "8328089": {
@@ -8675,7 +8679,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8349425?gh_jid=8349425"
   },
   "8350166": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",
@@ -8769,14 +8773,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-05T11:30:12+00:00",
-   "fp": "hr operations specialist tokyo @ hybrid",
+   "fp": "hr operations specialist japanese speaker @ hybrid",
    "location": "Hybrid",
    "posted_at": "2026-11-05T03:33:00+00:00",
    "posted_history": [
     "2026-11-05T03:33:00+00:00"
    ],
    "reopened": 1,
-   "title": "HR Operations Specialist, Tokyo (12-months contract)",
+   "title": "HR Operations Specialist, Japanese Speaker (12-months contract)",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8354678?gh_jid=8354678"
   },
   "8354680": {
@@ -8784,14 +8788,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-05T11:30:12+00:00",
-   "fp": "people operations specialist tokyo @ hybrid",
+   "fp": "people operations specialist japanese speaker @ hybrid",
    "location": "Hybrid",
    "posted_at": "2026-11-05T03:34:20+00:00",
    "posted_history": [
     "2026-11-05T03:34:20+00:00"
    ],
    "reopened": 1,
-   "title": "People Operations Specialist, Tokyo (12-months contract)",
+   "title": "People Operations Specialist, Japanese Speaker (12-months contract)",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8354680?gh_jid=8354680"
   },
   "8354692": {
@@ -9129,14 +9133,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-12T11:51:19+00:00",
-   "fp": "senior territory account executive grand rapids mi @ hybrid",
+   "fp": "senior territory account executive detroit or grand rapids mi @ hybrid",
    "location": "Hybrid",
    "posted_at": "2026-11-11T15:00:02+00:00",
    "posted_history": [
     "2026-11-11T15:00:02+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Territory Account Executive- Grand Rapids, MI",
+   "title": "Senior Territory Account Executive-Detroit OR Grand Rapids, MI",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8372322?gh_jid=8372322"
   },
   "8372387": {
@@ -9545,7 +9549,7 @@
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8391880?gh_jid=8391880"
   },
   "8392302": {
-   "closed_at": null,
+   "closed_at": "2026-11-26T13:10:16+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-24T14:17:17+00:00",
@@ -10189,6 +10193,51 @@
    "title": "Senior Named Account Executive, Czechia",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8405408?gh_jid=8405408"
   },
+  "8406109": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "business development representative spanish and portuguese speaking @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-25T13:41:00+00:00",
+   "posted_history": [
+    "2026-11-25T13:41:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Business Development Representative - Spanish and Portuguese Speaking",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8406109?gh_jid=8406109"
+  },
+  "8406129": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "business development representative spanish and italian speaking @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-25T13:40:58+00:00",
+   "posted_history": [
+    "2026-11-25T13:40:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Business Development Representative - Spanish and Italian Speaking",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8406129?gh_jid=8406129"
+  },
+  "8406133": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "business development representative spanish speaking @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-25T13:41:02+00:00",
+   "posted_history": [
+    "2026-11-25T13:41:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Business Development Representative - Spanish Speaking",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8406133?gh_jid=8406133"
+  },
   "8406156": {
    "closed_at": null,
    "department": "",
@@ -10249,6 +10298,21 @@
    "title": "Product Manager, Self-serve Growth",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8406966?gh_jid=8406966"
   },
+  "8407666": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "network engineer @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-25T15:32:49+00:00",
+   "posted_history": [
+    "2026-11-25T15:32:49+00:00"
+   ],
+   "reopened": 0,
+   "title": "Network Engineer",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8407666?gh_jid=8407666"
+  },
   "8410750": {
    "closed_at": null,
    "department": "",
@@ -10293,6 +10357,141 @@
    "reopened": 0,
    "title": "Chief of Staff, ETI",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8412125?gh_jid=8412125"
+  },
+  "8414218": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "senior strategic account executive central eastern europe @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-26T11:20:47+00:00",
+   "posted_history": [
+    "2026-11-26T11:20:47+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Strategic Account Executive, Central Eastern Europe",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8414218?gh_jid=8414218"
+  },
+  "8415399": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "senior solutions engineer cloudflare one brazil @ distributed",
+   "location": "Distributed",
+   "posted_at": "2026-11-24T21:58:33+00:00",
+   "posted_history": [
+    "2026-11-24T21:58:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Solutions Engineer, Cloudflare One (SASE/SSE) - Brazil",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8415399?gh_jid=8415399"
+  },
+  "8417964": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "enterprise account executive @ distributed",
+   "location": "Distributed",
+   "posted_at": "2026-11-25T20:02:15+00:00",
+   "posted_history": [
+    "2026-11-25T20:02:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Account Executive",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8417964?gh_jid=8417964"
+  },
+  "8417967": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "enterprise account executive @ hybrid",
+   "location": "Hybrid",
+   "posted_at": "2026-11-25T20:02:19+00:00",
+   "posted_history": [
+    "2026-11-25T20:02:19+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Account Executive",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8417967?gh_jid=8417967"
+  },
+  "8417970": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "enterprise account executive @ distributed",
+   "location": "Distributed",
+   "posted_at": "2026-11-25T20:02:35+00:00",
+   "posted_history": [
+    "2026-11-25T20:02:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Account Executive",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8417970?gh_jid=8417970"
+  },
+  "8417977": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "enterprise account executive @ distributed",
+   "location": "Distributed",
+   "posted_at": "2026-11-25T20:02:30+00:00",
+   "posted_history": [
+    "2026-11-25T20:02:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Account Executive",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8417977?gh_jid=8417977"
+  },
+  "8417979": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "enterprise account executive @ distributed",
+   "location": "Distributed",
+   "posted_at": "2026-11-25T20:02:25+00:00",
+   "posted_history": [
+    "2026-11-25T20:02:25+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Account Executive",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8417979?gh_jid=8417979"
+  },
+  "8417981": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "enterprise account executive @ distributed",
+   "location": "Distributed",
+   "posted_at": "2026-11-25T20:03:54+00:00",
+   "posted_history": [
+    "2026-11-25T20:03:54+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Account Executive",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8417981?gh_jid=8417981"
+  },
+  "8417984": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-26T13:10:16+00:00",
+   "fp": "enterprise account executive @ distributed",
+   "location": "Distributed",
+   "posted_at": "2026-11-25T20:04:57+00:00",
+   "posted_history": [
+    "2026-11-25T20:04:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Account Executive",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8417984?gh_jid=8417984"
   }
  }
 }
