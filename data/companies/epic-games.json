@@ -155,6 +155,10 @@
   {
    "date": "2026-11-26",
    "open": 137
+  },
+  {
+   "date": "2026-11-27",
+   "open": 138
   }
  ],
  "jobs": {
@@ -1194,7 +1198,7 @@
    "url": "https://epicgames.com/careers/jobs/6143677004?gh_jid=6143677004"
   },
   "6144315004": {
-   "closed_at": "2026-11-23T13:40:09+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1204,7 +1208,7 @@
    "posted_history": [
     "2026-10-15T16:13:24+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Senior Tester II",
    "url": "https://epicgames.com/careers/jobs/6144315004?gh_jid=6144315004"
   },

@@ -155,6 +155,10 @@
   {
    "date": "2026-11-26",
    "open": 111
+  },
+  {
+   "date": "2026-11-27",
+   "open": 108
   }
  ],
  "jobs": {
@@ -253,7 +257,7 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/062dba92-e25b-47ee-b119-aeca540f515f"
   },
   "084978b8-b63d-4c61-8a15-362da4348ef4": {
-   "closed_at": null,
+   "closed_at": "2026-11-27T13:07:58+00:00",
    "department": "Growth",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -620,7 +624,7 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/257f24da-83db-4bad-a6dc-37793a1a0bac"
   },
   "258de005-ab84-4cc7-9a59-1df0c74a12b8": {
-   "closed_at": null,
+   "closed_at": "2026-11-27T13:07:58+00:00",
    "department": "Growth",
    "evergreen": false,
    "first_seen": "2026-10-30T10:28:19+00:00",
@@ -667,7 +671,7 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/277de6ad-3db5-4b96-afb5-cec3d797e788"
   },
   "27e92957-374f-409a-b787-166b10e0f042": {
-   "closed_at": null,
+   "closed_at": "2026-11-27T13:07:58+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
@@ -1205,11 +1209,12 @@
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "company operations lead @ london",
    "location": "London",
-   "posted_at": "2026-11-12T12:54:33+00:00",
+   "posted_at": "2026-11-27T10:45:09+00:00",
    "posted_history": [
     "2026-10-14T17:46:56+00:00",
     "2026-11-03T14:37:01+00:00",
-    "2026-11-12T12:54:33+00:00"
+    "2026-11-12T12:54:33+00:00",
+    "2026-11-27T10:45:09+00:00"
    ],
    "reopened": 2,
    "title": "Company Operations Lead",
@@ -1622,6 +1627,21 @@
    "reopened": 1,
    "title": "Head of Financial Services - US Enterprise",
    "url": "https://jobs.ashbyhq.com/ElevenLabs/7209ce9f-3c69-4dbb-adbb-6c6c068ebad0"
+  },
+  "73818bfa-8a36-4b28-b250-5acaf72e099e": {
+   "closed_at": null,
+   "department": "Growth",
+   "evergreen": false,
+   "first_seen": "2026-11-27T13:07:58+00:00",
+   "fp": "field marketing manager digital natives @ united states",
+   "location": "United States",
+   "posted_at": "2026-11-26T15:11:42+00:00",
+   "posted_history": [
+    "2026-11-26T15:11:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Field Marketing Manager, Digital Natives",
+   "url": "https://jobs.ashbyhq.com/ElevenLabs/73818bfa-8a36-4b28-b250-5acaf72e099e"
   },
   "7389c057-3e25-4e7a-8a03-5e80f40a15a0": {
    "closed_at": "2026-11-10T11:47:05+00:00",
@@ -2125,6 +2145,21 @@
    "title": "Deployment Strategist - Argentina",
    "url": "https://jobs.ashbyhq.com/ElevenLabs/93a9916a-1fd7-48aa-937e-bc086d95f4e1"
   },
+  "945abd50-09e6-4adb-b59b-0f0d17b9d507": {
+   "closed_at": null,
+   "department": "Growth",
+   "evergreen": false,
+   "first_seen": "2026-11-27T13:07:58+00:00",
+   "fp": "product marketing agents @ united states",
+   "location": "United States",
+   "posted_at": "2026-11-26T18:07:08+00:00",
+   "posted_history": [
+    "2026-11-26T18:07:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Marketing - Agents",
+   "url": "https://jobs.ashbyhq.com/ElevenLabs/945abd50-09e6-4adb-b59b-0f0d17b9d507"
+  },
   "969bbf7d-037c-4965-812e-442105ce58c1": {
    "closed_at": "2026-11-07T10:41:11+00:00",
    "department": "Growth",
@@ -2218,7 +2253,7 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/9c44055f-3246-42ab-8bb6-d89258a8c43a"
   },
   "9ce2cd02-c7f2-4705-8b70-accab2f863e1": {
-   "closed_at": null,
+   "closed_at": "2026-11-27T13:07:58+00:00",
    "department": "Growth",
    "evergreen": false,
    "first_seen": "2026-11-11T11:27:30+00:00",
@@ -2462,7 +2497,7 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/a89a7892-3d9d-40ab-a3f1-1c6ed1f7b84f"
   },
   "aac94946-449f-4822-8299-2c0c19cf6a7d": {
-   "closed_at": null,
+   "closed_at": "2026-11-27T13:07:58+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2477,17 +2512,18 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/aac94946-449f-4822-8299-2c0c19cf6a7d"
   },
   "ab51c926-63fe-43ff-b7f1-7859e6032b12": {
-   "closed_at": "2026-11-24T14:17:17+00:00",
+   "closed_at": null,
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-11-20T12:11:54+00:00",
    "fp": "sales development uk i @ united kingdom",
    "location": "United Kingdom",
-   "posted_at": "2026-11-19T15:54:52+00:00",
+   "posted_at": "2026-11-26T16:31:01+00:00",
    "posted_history": [
-    "2026-11-19T15:54:52+00:00"
+    "2026-11-19T15:54:52+00:00",
+    "2026-11-26T16:31:01+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Sales Development - UK/I",
    "url": "https://jobs.ashbyhq.com/ElevenLabs/ab51c926-63fe-43ff-b7f1-7859e6032b12"
   },
@@ -3032,10 +3068,11 @@
    "first_seen": "2026-11-03T11:21:29+00:00",
    "fp": "workplace experience new york @ new york",
    "location": "New York",
-   "posted_at": "2026-11-12T13:06:13+00:00",
+   "posted_at": "2026-11-27T11:01:06+00:00",
    "posted_history": [
     "2026-11-02T16:03:00+00:00",
-    "2026-11-12T13:06:13+00:00"
+    "2026-11-12T13:06:13+00:00",
+    "2026-11-27T11:01:06+00:00"
    ],
    "reopened": 1,
    "title": "Workplace Experience - New York",
@@ -3119,7 +3156,7 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/db8e1ff9-5a5a-49ed-89ea-93f993e5a65f"
   },
   "dc9950e5-88da-4070-8fa2-c1813f24fe94": {
-   "closed_at": null,
+   "closed_at": "2026-11-27T13:07:58+00:00",
    "department": "Revenue",
    "evergreen": false,
    "first_seen": "2026-11-17T12:29:08+00:00",

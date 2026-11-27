@@ -155,6 +155,10 @@
   {
    "date": "2026-11-26",
    "open": 391
+  },
+  {
+   "date": "2026-11-27",
+   "open": 391
   }
  ],
  "jobs": {
@@ -1539,7 +1543,7 @@
    "url": "https://careers.datadoghq.com/detail/7439149/?gh_jid=7439149"
   },
   "7439152": {
-   "closed_at": null,
+   "closed_at": "2026-11-27T13:07:58+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1569,7 +1573,7 @@
    "url": "https://careers.datadoghq.com/detail/7439569/?gh_jid=7439569"
   },
   "7439573": {
-   "closed_at": null,
+   "closed_at": "2026-11-27T13:07:58+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1584,7 +1588,7 @@
    "url": "https://careers.datadoghq.com/detail/7439573/?gh_jid=7439573"
   },
   "7442122": {
-   "closed_at": "2026-11-16T12:03:27+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1594,7 +1598,7 @@
    "posted_history": [
     "2025-12-29T01:20:04+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Strategic Account Executive (Hong Kong Market)",
    "url": "https://careers.datadoghq.com/detail/7442122/?gh_jid=7442122"
   },
@@ -1869,7 +1873,7 @@
    "url": "https://careers.datadoghq.com/detail/7530418/?gh_jid=7530418"
   },
   "7531575": {
-   "closed_at": null,
+   "closed_at": "2026-11-27T13:07:58+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-20T08:53:12+00:00",
@@ -8558,6 +8562,21 @@
    "title": "Manager, Corporate Security",
    "url": "https://careers.datadoghq.com/detail/8400860/?gh_jid=8400860"
   },
+  "8401334": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-27T13:07:58+00:00",
+   "fp": "senior sales engineer @ tokyo, japan",
+   "location": "Tokyo, Japan",
+   "posted_at": "2026-11-27T10:15:53+00:00",
+   "posted_history": [
+    "2026-11-27T10:15:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Sales Engineer",
+   "url": "https://careers.datadoghq.com/detail/8401334/?gh_jid=8401334"
+  },
   "8402937": {
    "closed_at": null,
    "department": "",
@@ -8632,6 +8651,21 @@
    "reopened": 0,
    "title": "Commercial Account Executive (Saudi Arabia)",
    "url": "https://careers.datadoghq.com/detail/8411119/?gh_jid=8411119"
+  },
+  "8413335": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-27T13:07:58+00:00",
+   "fp": "strategic account executive @ tokyo, japan",
+   "location": "Tokyo, Japan",
+   "posted_at": "2026-11-26T23:15:30+00:00",
+   "posted_history": [
+    "2026-11-26T23:15:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Strategic Account Executive",
+   "url": "https://careers.datadoghq.com/detail/8413335/?gh_jid=8413335"
   },
   "8414413": {
    "closed_at": null,

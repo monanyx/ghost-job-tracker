@@ -155,6 +155,10 @@
   {
    "date": "2026-11-26",
    "open": 21
+  },
+  {
+   "date": "2026-11-27",
+   "open": 22
   }
  ],
  "jobs": {
@@ -952,6 +956,21 @@
    "reopened": 0,
    "title": "LernQuadrat - Standortleitung (w/m/d) in Dornbirn (Vorarlberg)",
    "url": "https://www.gostudent.org/en-gb/job-position/?gh_jid=5041489101"
+  },
+  "5049716101": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-27T13:07:58+00:00",
+   "fp": "lernquadrat center manager in w hring @ währing, vienna, austria",
+   "location": "Währing, Vienna, Austria",
+   "posted_at": "2026-11-26T15:57:41+00:00",
+   "posted_history": [
+    "2026-11-26T15:57:41+00:00"
+   ],
+   "reopened": 0,
+   "title": "LernQuadrat - Center Manager (w/m/d) in Währing (Wien)",
+   "url": "https://www.gostudent.org/en-gb/job-position/?gh_jid=5049716101"
   }
  }
 }

@@ -155,6 +155,10 @@
   {
    "date": "2026-11-26",
    "open": 355
+  },
+  {
+   "date": "2026-11-27",
+   "open": 356
   }
  ],
  "jobs": {
@@ -309,7 +313,7 @@
    "url": "https://careers.hellofresh.com/global/en/job/6613727?gh_jid=6613727"
   },
   "6751993": {
-   "closed_at": null,
+   "closed_at": "2026-11-27T13:07:58+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -343,14 +347,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "product data analyst gbs @ manila, manila, philippines",
+   "fp": "product data analyst @ manila, manila, philippines",
    "location": "Manila, Manila, Philippines",
    "posted_at": "2025-11-11T05:37:13+00:00",
    "posted_history": [
     "2025-11-11T05:37:13+00:00"
    ],
    "reopened": 0,
-   "title": "[HelloConnect] Product Data Analyst (SQL/Python) - GBS",
+   "title": "[HelloConnect] Product Data Analyst (SQL/Python)",
    "url": "https://careers.hellofresh.com/global/en/job/7387627?gh_jid=7387627"
   },
   "7408822": {
@@ -553,14 +557,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-13T11:35:01+00:00",
-   "fp": "senior backend product engineer consumer @ toronto, ontario, canada",
+   "fp": "senior backend product engineer menu personalization @ toronto, ontario, canada",
    "location": "Toronto, Ontario, Canada",
    "posted_at": "2026-11-12T20:16:00+00:00",
    "posted_history": [
     "2026-11-12T20:16:00+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Backend Product Engineer, Consumer",
+   "title": "Senior Backend Product Engineer, Menu Personalization",
    "url": "https://careers.hellofresh.com/global/en/job/7921470?gh_jid=7921470"
   },
   "7926685": {
@@ -4688,8 +4692,23 @@
    "title": "Site Director",
    "url": "https://careers.hellofresh.com/global/en/job/8214181?gh_jid=8214181"
   },
+  "8214656": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-27T13:07:58+00:00",
+   "fp": "quality control associate @ calgary, alberta, canada",
+   "location": "Calgary, Alberta, Canada",
+   "posted_at": "2026-09-21T14:44:58+00:00",
+   "posted_history": [
+    "2026-09-21T14:44:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Quality Control Associate",
+   "url": "https://careers.hellofresh.com/global/en/job/8214656?gh_jid=8214656"
+  },
   "8214658": {
-   "closed_at": "2026-11-17T12:29:08+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4699,7 +4718,7 @@
    "posted_history": [
     "2026-09-21T14:45:03+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Quality Control Associate (PM Shift)",
    "url": "https://careers.hellofresh.com/global/en/job/8214658?gh_jid=8214658"
   },
@@ -4794,7 +4813,7 @@
    "url": "https://careers.hellofresh.com/global/en/job/8222658?gh_jid=8222658"
   },
   "8222713": {
-   "closed_at": null,
+   "closed_at": "2026-11-27T13:07:58+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5454,7 +5473,7 @@
    "url": "https://careers.hellofresh.com/global/en/job/8239228?gh_jid=8239228"
   },
   "8239238": {
-   "closed_at": null,
+   "closed_at": "2026-11-27T13:07:58+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5799,7 +5818,7 @@
    "url": "https://careers.hellofresh.com/global/en/job/8247486?gh_jid=8247486"
   },
   "8248452": {
-   "closed_at": null,
+   "closed_at": "2026-11-27T13:07:58+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -8724,7 +8743,7 @@
    "url": "https://careers.hellofresh.com/global/en/job/8348252?gh_jid=8348252"
   },
   "8349401": {
-   "closed_at": null,
+   "closed_at": "2026-11-27T13:07:58+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-04T11:35:04+00:00",
@@ -9313,14 +9332,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-11T11:27:30+00:00",
-   "fp": "print and packaging designer gbs @ manila, manila, philippines",
+   "fp": "print and packaging designer @ manila, manila, philippines",
    "location": "Manila, Manila, Philippines",
    "posted_at": "2026-11-10T12:41:17+00:00",
    "posted_history": [
     "2026-11-10T12:41:17+00:00"
    ],
    "reopened": 0,
-   "title": "Print and Packaging Designer -GBS",
+   "title": "Print and Packaging Designer",
    "url": "https://careers.hellofresh.com/global/en/job/8370917?gh_jid=8370917"
   },
   "8370988": {
@@ -10553,6 +10572,21 @@
    "title": "Accounts Payable Specialist",
    "url": "https://careers.hellofresh.com/global/en/job/8416654?gh_jid=8416654"
   },
+  "8417163": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-27T13:07:58+00:00",
+   "fp": "culinary excellence manager @ mississauga, ontario, canada",
+   "location": "Mississauga, Ontario, Canada",
+   "posted_at": "2026-11-26T18:52:08+00:00",
+   "posted_history": [
+    "2026-11-26T18:52:08+00:00"
+   ],
+   "reopened": 0,
+   "title": "Culinary Excellence Manager",
+   "url": "https://careers.hellofresh.com/global/en/job/8417163?gh_jid=8417163"
+  },
   "8418837": {
    "closed_at": null,
    "department": "",
@@ -10582,6 +10616,51 @@
    "reopened": 0,
    "title": "Culinary Assistant - Temporary Contract (f/m/x)",
    "url": "https://careers.hellofresh.com/global/en/job/8419071?gh_jid=8419071"
+  },
+  "8419574": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-27T13:07:58+00:00",
+   "fp": "fsqa technician @ calgary, alberta, canada",
+   "location": "Calgary, Alberta, Canada",
+   "posted_at": "2026-11-26T19:56:46+00:00",
+   "posted_history": [
+    "2026-11-26T19:56:46+00:00"
+   ],
+   "reopened": 0,
+   "title": "FSQA Technician",
+   "url": "https://careers.hellofresh.com/global/en/job/8419574?gh_jid=8419574"
+  },
+  "8419615": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-27T13:07:58+00:00",
+   "fp": "maintenance technician ii @ calgary, alberta, canada",
+   "location": "Calgary, Alberta, Canada",
+   "posted_at": "2026-11-26T21:11:12+00:00",
+   "posted_history": [
+    "2026-11-26T21:11:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "Maintenance Technician II",
+   "url": "https://careers.hellofresh.com/global/en/job/8419615?gh_jid=8419615"
+  },
+  "8420027": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-27T13:07:58+00:00",
+   "fp": "senior safety officer ih @ manila, manila, philippines",
+   "location": "Manila, Manila, Philippines",
+   "posted_at": "2026-11-27T05:49:58+00:00",
+   "posted_history": [
+    "2026-11-27T05:49:58+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Safety Officer - IH",
+   "url": "https://careers.hellofresh.com/global/en/job/8420027?gh_jid=8420027"
   }
  }
 }

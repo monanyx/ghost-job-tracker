@@ -155,6 +155,10 @@
   {
    "date": "2026-11-26",
    "open": 228
+  },
+  {
+   "date": "2026-11-27",
+   "open": 225
   }
  ],
  "jobs": {
@@ -4839,7 +4843,7 @@
    "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000155981104"
   },
   "744000156005133": {
-   "closed_at": null,
+   "closed_at": "2026-11-27T13:07:58+00:00",
    "department": "Ubisoft",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6159,7 +6163,7 @@
    "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000158059759"
   },
   "744000158064694": {
-   "closed_at": null,
+   "closed_at": "2026-11-27T13:07:58+00:00",
    "department": "Ubisoft",
    "evergreen": false,
    "first_seen": "2026-10-28T10:01:46+00:00",
@@ -8994,7 +8998,7 @@
    "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000160213029"
   },
   "744000160215749": {
-   "closed_at": null,
+   "closed_at": "2026-11-27T13:07:58+00:00",
    "department": "Ubisoft",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",
@@ -10374,7 +10378,7 @@
    "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000163166571"
   },
   "744000163191265": {
-   "closed_at": null,
+   "closed_at": "2026-11-27T13:07:58+00:00",
    "department": "Ubisoft",
    "evergreen": false,
    "first_seen": "2026-11-23T13:40:09+00:00",
@@ -10869,7 +10873,7 @@
    "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000163733078"
   },
   "744000163747410": {
-   "closed_at": null,
+   "closed_at": "2026-11-27T13:07:58+00:00",
    "department": "Ubisoft",
    "evergreen": false,
    "first_seen": "2026-11-26T13:10:16+00:00",
@@ -10884,7 +10888,7 @@
    "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000163747410"
   },
   "744000163747959": {
-   "closed_at": null,
+   "closed_at": "2026-11-27T13:07:58+00:00",
    "department": "Ubisoft",
    "evergreen": false,
    "first_seen": "2026-11-26T13:10:16+00:00",
@@ -10899,7 +10903,7 @@
    "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000163747959"
   },
   "744000163748182": {
-   "closed_at": null,
+   "closed_at": "2026-11-27T13:07:58+00:00",
    "department": "Ubisoft",
    "evergreen": false,
    "first_seen": "2026-11-26T13:10:16+00:00",
@@ -10914,7 +10918,7 @@
    "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000163748182"
   },
   "744000163748259": {
-   "closed_at": null,
+   "closed_at": "2026-11-27T13:07:58+00:00",
    "department": "Ubisoft",
    "evergreen": false,
    "first_seen": "2026-11-26T13:10:16+00:00",
@@ -10987,6 +10991,81 @@
    "reopened": 0,
    "title": "Stage - 6 mois - Level Designer (F/H/NB) [AAA Project]  - Janvier 2027",
    "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000163855239"
+  },
+  "744000163886979": {
+   "closed_at": null,
+   "department": "Ubisoft",
+   "evergreen": false,
+   "first_seen": "2026-11-27T13:07:58+00:00",
+   "fp": "data scientist @ barcelona, ct, spain",
+   "location": "Barcelona, CT, Spain",
+   "posted_at": "2026-11-26T14:47:57+00:00",
+   "posted_history": [
+    "2026-11-26T14:47:57+00:00"
+   ],
+   "reopened": 0,
+   "title": "Data Scientist",
+   "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000163886979"
+  },
+  "744000163888699": {
+   "closed_at": null,
+   "department": "Ubisoft",
+   "evergreen": false,
+   "first_seen": "2026-11-27T13:07:58+00:00",
+   "fp": "product manager marketing @ montreal, qc, canada",
+   "location": "Montreal, QC, Canada",
+   "posted_at": "2026-11-26T14:54:36+00:00",
+   "posted_history": [
+    "2026-11-26T14:54:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Manager - Marketing",
+   "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000163888699"
+  },
+  "744000163889029": {
+   "closed_at": null,
+   "department": "Ubisoft",
+   "evergreen": false,
+   "first_seen": "2026-11-27T13:07:58+00:00",
+   "fp": "chef fe de produit marketing @ montreal, qc, canada",
+   "location": "Montreal, QC, Canada",
+   "posted_at": "2026-11-26T14:55:13+00:00",
+   "posted_history": [
+    "2026-11-26T14:55:13+00:00"
+   ],
+   "reopened": 0,
+   "title": "Chef.fe de Produit - Marketing",
+   "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000163889029"
+  },
+  "744000163904431": {
+   "closed_at": null,
+   "department": "Ubisoft",
+   "evergreen": false,
+   "first_seen": "2026-11-27T13:07:58+00:00",
+   "fp": "sp cialiste s curit @ montreal, qc, canada",
+   "location": "Montreal, QC, Canada",
+   "posted_at": "2026-11-26T16:29:15+00:00",
+   "posted_history": [
+    "2026-11-26T16:29:15+00:00"
+   ],
+   "reopened": 0,
+   "title": "Spécialiste sécurité",
+   "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000163904431"
+  },
+  "744000163906029": {
+   "closed_at": null,
+   "department": "Ubisoft",
+   "evergreen": false,
+   "first_seen": "2026-11-27T13:07:58+00:00",
+   "fp": "security specialist @ montreal, qc, canada",
+   "location": "Montreal, QC, Canada",
+   "posted_at": "2026-11-26T16:29:45+00:00",
+   "posted_history": [
+    "2026-11-26T16:29:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Security Specialist",
+   "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000163906029"
   }
  }
 }

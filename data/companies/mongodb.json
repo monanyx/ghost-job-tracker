@@ -155,6 +155,10 @@
   {
    "date": "2026-11-26",
    "open": 422
+  },
+  {
+   "date": "2026-11-27",
+   "open": 426
   }
  ],
  "jobs": {
@@ -1689,7 +1693,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=7821316"
   },
   "7831454": {
-   "closed_at": null,
+   "closed_at": "2026-11-27T13:07:58+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3924,7 +3928,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8153137"
   },
   "8153173": {
-   "closed_at": null,
+   "closed_at": "2026-11-27T13:07:58+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6264,7 +6268,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8265973"
   },
   "8266013": {
-   "closed_at": null,
+   "closed_at": "2026-11-27T13:07:58+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6913,14 +6917,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-26T13:10:16+00:00",
-   "fp": "senior staff engineer @ bengaluru",
+   "fp": "staff forward deployed ai engineer @ bengaluru",
    "location": "Bengaluru",
    "posted_at": "2026-11-26T13:10:49+00:00",
    "posted_history": [
     "2026-11-26T13:10:49+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Staff Engineer",
+   "title": "Staff Forward Deployed AI Engineer",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8304154"
   },
   "8304447": {
@@ -7708,14 +7712,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-18T12:16:07+00:00",
-   "fp": "software engineer 3 @ dublin, ireland",
+   "fp": "software engineer 3 kubernetes @ dublin, ireland",
    "location": "Dublin, Ireland",
    "posted_at": "2026-11-17T14:43:51+00:00",
    "posted_history": [
     "2026-11-17T14:43:51+00:00"
    ],
    "reopened": 0,
-   "title": "Software Engineer 3",
+   "title": "Software Engineer 3, Kubernetes",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8349259"
   },
   "8349265": {
@@ -8948,6 +8952,21 @@
    "title": "Senior Solutions Architect",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8399277"
   },
+  "8400062": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-27T13:07:58+00:00",
+   "fp": "regional director enterprise growth @ bengaluru",
+   "location": "Bengaluru",
+   "posted_at": "2026-11-26T16:51:04+00:00",
+   "posted_history": [
+    "2026-11-26T16:51:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "Regional Director, Enterprise, Growth",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8400062"
+  },
   "8400945": {
    "closed_at": null,
    "department": "",
@@ -9143,6 +9162,36 @@
    "title": "Senior Solutions Architect - Application Modernisation",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8404811"
   },
+  "8406014": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-27T13:07:58+00:00",
+   "fp": "eae ai sales specialist uki @ london",
+   "location": "London",
+   "posted_at": "2026-11-27T09:16:01+00:00",
+   "posted_history": [
+    "2026-11-27T09:16:01+00:00"
+   ],
+   "reopened": 0,
+   "title": "EAE AI Sales Specialist - UKI",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8406014"
+  },
+  "8406025": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-27T13:07:58+00:00",
+   "fp": "eae ai sales specialist dach @ berlin; frankfurt; munich",
+   "location": "Berlin; Frankfurt; Munich",
+   "posted_at": "2026-11-27T09:19:35+00:00",
+   "posted_history": [
+    "2026-11-27T09:19:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "EAE AI Sales Specialist - DACH",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8406025"
+  },
   "8406130": {
    "closed_at": null,
    "department": "",
@@ -9322,6 +9371,66 @@
    "reopened": 0,
    "title": "Account Executive - Mid Market (Spanish Speaker)",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8418808"
+  },
+  "8419289": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-27T13:07:58+00:00",
+   "fp": "senior solutions architect @ london",
+   "location": "London",
+   "posted_at": "2026-11-27T12:20:10+00:00",
+   "posted_history": [
+    "2026-11-27T12:20:10+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Solutions Architect",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8419289"
+  },
+  "8419294": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-27T13:07:58+00:00",
+   "fp": "senior solutions architect @ tel aviv",
+   "location": "Tel Aviv",
+   "posted_at": "2026-11-27T11:54:55+00:00",
+   "posted_history": [
+    "2026-11-27T11:54:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Solutions Architect",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8419294"
+  },
+  "8419310": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-27T13:07:58+00:00",
+   "fp": "senior solutions architect @ london",
+   "location": "London",
+   "posted_at": "2026-11-27T10:08:27+00:00",
+   "posted_history": [
+    "2026-11-27T10:08:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Solutions Architect",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8419310"
+  },
+  "8419313": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-27T13:07:58+00:00",
+   "fp": "senior solutions architect @ paris",
+   "location": "Paris",
+   "posted_at": "2026-11-27T10:16:50+00:00",
+   "posted_history": [
+    "2026-11-27T10:16:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Solutions Architect",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8419313"
   }
  }
 }

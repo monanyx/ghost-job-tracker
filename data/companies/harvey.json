@@ -155,21 +155,26 @@
   {
    "date": "2026-11-26",
    "open": 390
+  },
+  {
+   "date": "2026-11-27",
+   "open": 389
   }
  ],
  "jobs": {
   "0078cf37-4076-47ac-acaa-37a83334b43c": {
-   "closed_at": "2026-11-20T12:11:54+00:00",
+   "closed_at": null,
    "department": "Customer Success",
    "evergreen": false,
    "first_seen": "2026-11-16T12:03:27+00:00",
    "fp": "customer success leader singapore @ singapore",
    "location": "Singapore",
-   "posted_at": "2026-11-16T11:19:51+00:00",
+   "posted_at": "2026-11-26T22:55:08+00:00",
    "posted_history": [
-    "2026-11-16T11:19:51+00:00"
+    "2026-11-16T11:19:51+00:00",
+    "2026-11-26T22:55:08+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Customer Success Leader, Singapore",
    "url": "https://jobs.ashbyhq.com/harvey/0078cf37-4076-47ac-acaa-37a83334b43c"
   },
@@ -1915,7 +1920,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/35bd9daf-d303-4312-8145-e9be409485f5"
   },
   "3607421b-990f-480d-afff-eab99432a01f": {
-   "closed_at": null,
+   "closed_at": "2026-11-27T13:07:58+00:00",
    "department": "Go to Market",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2342,14 +2347,14 @@
    "department": "Recruiting",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior technical recruiter product design @ san francisco",
+   "fp": "senior technical recruiter product @ san francisco",
    "location": "San Francisco",
    "posted_at": "2026-10-09T15:21:00+00:00",
    "posted_history": [
     "2026-10-09T15:21:00+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Technical Recruiter, Product & Design",
+   "title": "Senior Technical Recruiter, Product",
    "url": "https://jobs.ashbyhq.com/harvey/45f16834-5b6a-469d-b7ac-94e4e0773e0a"
   },
   "463bac67-20c1-49c5-8835-a64ca0e94c73": {
@@ -3113,14 +3118,14 @@
    "department": "IT",
    "evergreen": false,
    "first_seen": "2026-11-25T13:30:19+00:00",
-   "fp": "manager enterprise application engineering emea @ london",
+   "fp": "manager gtm platform engineering @ london",
    "location": "London",
    "posted_at": "2026-11-24T14:36:07+00:00",
    "posted_history": [
     "2026-11-24T14:36:07+00:00"
    ],
    "reopened": 0,
-   "title": "Manager, Enterprise Application Engineering, EMEA",
+   "title": "Manager, GTM Platform Engineering",
    "url": "https://jobs.ashbyhq.com/harvey/5c9f4afc-2758-4852-88dd-698485c23618"
   },
   "5ce5fe86-8e2f-4003-b88a-77fbbdeaecad": {
@@ -4198,7 +4203,7 @@
    "url": "https://jobs.ashbyhq.com/harvey/7e75a1a6-1884-4772-86c2-2ea4d6a7a08d"
   },
   "7ef2c12e-dd17-4d8c-a445-bd4ebf559484": {
-   "closed_at": null,
+   "closed_at": "2026-11-27T13:07:58+00:00",
    "department": "Legal",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6250,14 +6255,14 @@
    "department": "IT",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "manager enterprise application engineering emea @ dublin",
+   "fp": "manager gtm platform engineering @ dublin",
    "location": "Dublin",
    "posted_at": "2026-10-09T10:53:41+00:00",
    "posted_history": [
     "2026-10-09T10:53:41+00:00"
    ],
    "reopened": 0,
-   "title": "Manager, Enterprise Application Engineering, EMEA",
+   "title": "Manager, GTM Platform Engineering",
    "url": "https://jobs.ashbyhq.com/harvey/bc479bb5-445f-4e9f-a0bc-d2e1bab03947"
   },
   "bc94becd-102e-49a1-abdc-5ce42076a68d": {
@@ -6462,13 +6467,14 @@
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "strategic account executive dach @ munich",
    "location": "Munich",
-   "posted_at": "2026-11-19T09:08:22+00:00",
+   "posted_at": "2026-11-27T11:02:23+00:00",
    "posted_history": [
     "2026-10-07T16:03:20+00:00",
     "2026-10-26T10:18:35+00:00",
     "2026-10-27T18:36:54+00:00",
     "2026-11-02T08:38:24+00:00",
-    "2026-11-19T09:08:22+00:00"
+    "2026-11-19T09:08:22+00:00",
+    "2026-11-27T11:02:23+00:00"
    ],
    "reopened": 0,
    "title": "Strategic Account Executive, DACH",

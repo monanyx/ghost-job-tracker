@@ -155,6 +155,10 @@
   {
    "date": "2026-11-26",
    "open": 299
+  },
+  {
+   "date": "2026-11-27",
+   "open": 294
   }
  ],
  "jobs": {
@@ -1254,7 +1258,7 @@
    "url": "https://www.samsara.com/company/careers/roles/7922805?gh_jid=7922805"
   },
   "7926750": {
-   "closed_at": null,
+   "closed_at": "2026-11-27T13:07:58+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1854,7 +1858,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8036863?gh_jid=8036863"
   },
   "8038153": {
-   "closed_at": "2026-11-25T13:30:19+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1864,7 +1868,7 @@
    "posted_history": [
     "2026-07-13T10:48:37+00:00"
    ],
-   "reopened": 1,
+   "reopened": 2,
    "title": "Senior Security Operations Engineer",
    "url": "https://www.samsara.com/company/careers/roles/8038153?gh_jid=8038153"
   },
@@ -1918,14 +1922,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "sr software engineer cloud platform @ remote - london; remote - uk",
+   "fp": "staff software engineer cloud platform @ remote - london; remote - uk",
    "location": "Remote - London; Remote - UK",
    "posted_at": "2026-07-09T10:54:48+00:00",
    "posted_history": [
     "2026-07-09T10:54:48+00:00"
    ],
    "reopened": 3,
-   "title": "Sr. Software Engineer, Cloud Platform",
+   "title": "Staff Software Engineer, Cloud Platform",
    "url": "https://www.samsara.com/company/careers/roles/8042387?gh_jid=8042387"
   },
   "8050373": {
@@ -1944,7 +1948,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8050373?gh_jid=8050373"
   },
   "8052685": {
-   "closed_at": null,
+   "closed_at": "2026-11-27T13:07:58+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3654,7 +3658,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8221852?gh_jid=8221852"
   },
   "8223369": {
-   "closed_at": "2026-11-26T13:10:16+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3664,7 +3668,7 @@
    "posted_history": [
     "2026-09-28T16:27:36+00:00"
    ],
-   "reopened": 1,
+   "reopened": 2,
    "title": "Senior Security Engineer - Enterprise Security",
    "url": "https://www.samsara.com/company/careers/roles/8223369?gh_jid=8223369"
   },
@@ -4284,7 +4288,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8263224?gh_jid=8263224"
   },
   "8263226": {
-   "closed_at": "2026-11-26T13:10:16+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4294,7 +4298,7 @@
    "posted_history": [
     "2026-10-13T14:19:08+00:00"
    ],
-   "reopened": 1,
+   "reopened": 2,
    "title": "Installation Coordinator",
    "url": "https://www.samsara.com/company/careers/roles/8263226?gh_jid=8263226"
   },
@@ -4569,7 +4573,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8281491?gh_jid=8281491"
   },
   "8281636": {
-   "closed_at": null,
+   "closed_at": "2026-11-27T13:07:58+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4584,7 +4588,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8281636?gh_jid=8281636"
   },
   "8281650": {
-   "closed_at": null,
+   "closed_at": "2026-11-27T13:07:58+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4659,7 +4663,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8282629?gh_jid=8282629"
   },
   "8282635": {
-   "closed_at": "2026-11-26T13:10:16+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-28T10:01:46+00:00",
@@ -4669,7 +4673,7 @@
    "posted_history": [
     "2026-10-27T21:42:00+00:00"
    ],
-   "reopened": 1,
+   "reopened": 2,
    "title": "Technical Account Manager",
    "url": "https://www.samsara.com/company/careers/roles/8282635?gh_jid=8282635"
   },
@@ -5248,14 +5252,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
-   "fp": "senior customer success manager @ remote - mexico",
+   "fp": "customer success manager @ remote - mexico",
    "location": "Remote - Mexico",
    "posted_at": "2026-10-23T17:32:02+00:00",
    "posted_history": [
     "2026-10-23T17:32:02+00:00"
    ],
    "reopened": 2,
-   "title": "Senior Customer Success Manager",
+   "title": "Customer Success Manager",
    "url": "https://www.samsara.com/company/careers/roles/8311584?gh_jid=8311584"
   },
   "8315122": {
@@ -5304,7 +5308,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8315202?gh_jid=8315202"
   },
   "8318831": {
-   "closed_at": null,
+   "closed_at": "2026-11-27T13:07:58+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-06T11:30:42+00:00",
@@ -6114,7 +6118,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8331538?gh_jid=8331538"
   },
   "8332749": {
-   "closed_at": null,
+   "closed_at": "2026-11-27T13:07:58+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
@@ -6129,7 +6133,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8332749?gh_jid=8332749"
   },
   "8332753": {
-   "closed_at": null,
+   "closed_at": "2026-11-27T13:07:58+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-29T10:25:29+00:00",
@@ -6399,7 +6403,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8353153?gh_jid=8353153"
   },
   "8353156": {
-   "closed_at": null,
+   "closed_at": "2026-11-27T13:07:58+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",
@@ -6414,7 +6418,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8353156?gh_jid=8353156"
   },
   "8353158": {
-   "closed_at": null,
+   "closed_at": "2026-11-27T13:07:58+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",
@@ -7044,7 +7048,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8359221?gh_jid=8359221"
   },
   "8359294": {
-   "closed_at": null,
+   "closed_at": "2026-11-27T13:07:58+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-07T10:41:11+00:00",
@@ -7329,7 +7333,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8366056?gh_jid=8366056"
   },
   "8366794": {
-   "closed_at": "2026-11-26T13:10:16+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-12T11:51:19+00:00",
@@ -7339,7 +7343,7 @@
    "posted_history": [
     "2026-11-11T18:21:09+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Sr. Product Marketing Manager",
    "url": "https://www.samsara.com/company/careers/roles/8366794?gh_jid=8366794"
   },
@@ -7552,6 +7556,21 @@
    "reopened": 0,
    "title": "Senior Global Supply Manager - Mechanicals",
    "url": "https://www.samsara.com/company/careers/roles/8384192?gh_jid=8384192"
+  },
+  "8386022": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-27T13:07:58+00:00",
+   "fp": "manager i inside sales engineering @ remote - mexico",
+   "location": "Remote - Mexico",
+   "posted_at": "2026-11-26T16:26:53+00:00",
+   "posted_history": [
+    "2026-11-26T16:26:53+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager I, Inside Sales Engineering",
+   "url": "https://www.samsara.com/company/careers/roles/8386022?gh_jid=8386022"
   },
   "8386261": {
    "closed_at": null,
@@ -7989,7 +8008,7 @@
    "url": "https://www.samsara.com/company/careers/roles/8411822?gh_jid=8411822"
   },
   "8412267": {
-   "closed_at": null,
+   "closed_at": "2026-11-27T13:07:58+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-26T13:10:16+00:00",
@@ -8143,14 +8162,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-26T13:10:16+00:00",
-   "fp": "enterprise core sales engineer uk @ remote - uk",
+   "fp": "senior sales engineer uk @ remote - uk",
    "location": "Remote - UK",
    "posted_at": "2026-11-26T11:57:23+00:00",
    "posted_history": [
     "2026-11-26T11:57:23+00:00"
    ],
    "reopened": 0,
-   "title": "Enterprise Core Sales Engineer - UK",
+   "title": "Senior Sales Engineer - UK",
    "url": "https://www.samsara.com/company/careers/roles/8417306?gh_jid=8417306"
   },
   "8417333": {
@@ -8158,14 +8177,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-26T13:10:16+00:00",
-   "fp": "senior sales engineer select uk i @ remote - uk",
+   "fp": "senior sales engineer enterprise uk i @ remote - uk",
    "location": "Remote - UK",
    "posted_at": "2026-11-25T16:22:05+00:00",
    "posted_history": [
     "2026-11-25T16:22:05+00:00"
    ],
    "reopened": 0,
-   "title": "Senior Sales Engineer - Select UK&I",
+   "title": "Senior Sales Engineer - Enterprise UK&I",
    "url": "https://www.samsara.com/company/careers/roles/8417333?gh_jid=8417333"
   },
   "8417647": {

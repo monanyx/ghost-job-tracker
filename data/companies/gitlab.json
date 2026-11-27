@@ -155,6 +155,10 @@
   {
    "date": "2026-11-26",
    "open": 242
+  },
+  {
+   "date": "2026-11-27",
+   "open": 243
   }
  ],
  "jobs": {
@@ -4723,14 +4727,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
-   "fp": "data scientist enterprise analytics @ remote, canada; remote, united states",
+   "fp": "senior data scientist enterprise analytics @ remote, canada; remote, united states",
    "location": "Remote, Canada; Remote, United States",
    "posted_at": "2026-10-30T19:59:39+00:00",
    "posted_history": [
     "2026-10-30T19:59:39+00:00"
    ],
    "reopened": 0,
-   "title": "Data Scientist, Enterprise Analytics",
+   "title": "Senior Data Scientist, Enterprise Analytics",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8922013002"
   },
   "8922062002": {
@@ -6172,6 +6176,21 @@
    "reopened": 0,
    "title": "Business Development Representative, Australia",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8959549002"
+  },
+  "8961167002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-27T13:07:58+00:00",
+   "fp": "enterprise applications engineer zendesk @ remote, united states",
+   "location": "Remote, United States",
+   "posted_at": "2026-11-26T23:18:03+00:00",
+   "posted_history": [
+    "2026-11-26T23:18:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Enterprise Applications Engineer, Zendesk",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8961167002"
   }
  }
 }

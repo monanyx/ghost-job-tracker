@@ -155,6 +155,10 @@
   {
    "date": "2026-11-26",
    "open": 26
+  },
+  {
+   "date": "2026-11-27",
+   "open": 27
   }
  ],
  "jobs": {
@@ -669,17 +673,17 @@
    "url": "https://n26.com/en-eu/careers/positions/8211088?gh_jid=8211088"
   },
   "8219953": {
-   "closed_at": "2026-11-17T12:29:08+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
-   "fp": "senior site reliability engineer connectivity @ berlin, barcelona",
-   "location": "Berlin, Barcelona",
+   "fp": "senior site reliability engineer connectivity @ berlin",
+   "location": "Berlin",
    "posted_at": "2026-10-23T16:06:57+00:00",
    "posted_history": [
     "2026-10-23T16:06:57+00:00"
    ],
-   "reopened": 1,
+   "reopened": 2,
    "title": "Senior Site Reliability Engineer - Connectivity",
    "url": "https://n26.com/en-eu/careers/positions/8219953?gh_jid=8219953"
   },

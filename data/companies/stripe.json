@@ -155,6 +155,10 @@
   {
    "date": "2026-11-26",
    "open": 770
+  },
+  {
+   "date": "2026-11-27",
+   "open": 766
   }
  ],
  "jobs": {
@@ -2469,7 +2473,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=7977745"
   },
   "7978915": {
-   "closed_at": null,
+   "closed_at": "2026-11-27T13:07:58+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3414,7 +3418,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8048266"
   },
   "8049722": {
-   "closed_at": null,
+   "closed_at": "2026-11-27T13:07:58+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5034,7 +5038,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8129954"
   },
   "8129956": {
-   "closed_at": null,
+   "closed_at": "2026-11-27T13:07:58+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6568,14 +6572,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-28T10:01:46+00:00",
-   "fp": "fraud operations associate bridge @ mexico city",
+   "fp": "fraud operations associate @ mexico city",
    "location": "Mexico City",
    "posted_at": "2026-10-28T02:30:21+00:00",
    "posted_history": [
     "2026-10-28T02:30:21+00:00"
    ],
    "reopened": 0,
-   "title": "Fraud Operations Associate, Bridge (CDMX)",
+   "title": "Fraud Operations Associate (CDMX)",
    "url": "https://stripe.com/jobs/search?gh_jid=8168550"
   },
   "8168813": {
@@ -6609,7 +6613,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8170772"
   },
   "8170920": {
-   "closed_at": null,
+   "closed_at": "2026-11-27T13:07:58+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -9819,7 +9823,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8222459"
   },
   "8222642": {
-   "closed_at": null,
+   "closed_at": "2026-11-27T13:07:58+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-06T11:30:42+00:00",
@@ -10479,7 +10483,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8234357"
   },
   "8234703": {
-   "closed_at": null,
+   "closed_at": "2026-11-27T13:07:58+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -15294,7 +15298,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8352154"
   },
   "8352238": {
-   "closed_at": null,
+   "closed_at": "2026-11-27T13:07:58+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-05T11:30:12+00:00",
@@ -15553,14 +15557,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-18T12:16:07+00:00",
-   "fp": "account executive product radar @ australia",
+   "fp": "account executive product fraud risk @ australia",
    "location": "Australia",
    "posted_at": "2026-11-18T00:28:35+00:00",
    "posted_history": [
     "2026-11-18T00:28:35+00:00"
    ],
    "reopened": 0,
-   "title": "Account Executive Product - Radar (AUNZ)",
+   "title": "Account Executive Product, Fraud & Risk (AUNZ)",
    "url": "https://stripe.com/jobs/search?gh_jid=8355353"
   },
   "8355357": {
@@ -15568,14 +15572,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-12T11:51:19+00:00",
-   "fp": "account executive radar @ singapore",
+   "fp": "account executive product fraud risk @ singapore",
    "location": "Singapore",
    "posted_at": "2026-11-12T02:32:16+00:00",
    "posted_history": [
     "2026-11-12T02:32:16+00:00"
    ],
    "reopened": 0,
-   "title": "Account Executive, Radar (Mandarin-speaking)",
+   "title": "Account Executive Product, Fraud & Risk (Mandarin-speaking)",
    "url": "https://stripe.com/jobs/search?gh_jid=8355357"
   },
   "8355371": {
@@ -16853,6 +16857,21 @@
    "title": "Account Executive Product, Crypto/Stablecoins",
    "url": "https://stripe.com/jobs/search?gh_jid=8412983"
   },
+  "8414067": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-27T13:07:58+00:00",
+   "fp": "sales development representative @ dublin",
+   "location": "Dublin",
+   "posted_at": "2026-11-26T17:15:27+00:00",
+   "posted_history": [
+    "2026-11-26T17:15:27+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales Development Representative (Dutch Fluency)",
+   "url": "https://stripe.com/jobs/search?gh_jid=8414067"
+  },
   "8414351": {
    "closed_at": null,
    "department": "",
@@ -16913,6 +16932,21 @@
    "title": "Analytics Engineer",
    "url": "https://stripe.com/jobs/search?gh_jid=8415333"
   },
+  "8417067": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-27T13:07:58+00:00",
+   "fp": "solutions architect velocity @ dublin",
+   "location": "Dublin",
+   "posted_at": "2026-11-26T13:56:37+00:00",
+   "posted_history": [
+    "2026-11-26T13:56:37+00:00"
+   ],
+   "reopened": 0,
+   "title": "Solutions Architect, Velocity",
+   "url": "https://stripe.com/jobs/search?gh_jid=8417067"
+  },
   "8417785": {
    "closed_at": null,
    "department": "",
@@ -16942,6 +16976,21 @@
    "reopened": 0,
    "title": "Staff Software Engineer, Batch Compute",
    "url": "https://stripe.com/jobs/search?gh_jid=8417797"
+  },
+  "8419418": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-27T13:07:58+00:00",
+   "fp": "sales development representative @ dublin",
+   "location": "Dublin",
+   "posted_at": "2026-11-26T17:21:42+00:00",
+   "posted_history": [
+    "2026-11-26T17:21:42+00:00"
+   ],
+   "reopened": 0,
+   "title": "Sales Development Representative (Swedish Fluency)",
+   "url": "https://stripe.com/jobs/search?gh_jid=8419418"
   }
  }
 }

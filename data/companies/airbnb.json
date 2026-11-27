@@ -155,6 +155,10 @@
   {
    "date": "2026-11-26",
    "open": 198
+  },
+  {
+   "date": "2026-11-27",
+   "open": 200
   }
  ],
  "jobs": {
@@ -1303,8 +1307,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "senior support specialist premium support @ british columbia, alberta",
-   "location": "British Columbia, Alberta",
+   "fp": "senior support specialist premium support @ british columbia",
+   "location": "British Columbia",
    "posted_at": "2026-08-05T15:03:52+00:00",
    "posted_history": [
     "2026-08-05T15:03:52+00:00"
@@ -1318,8 +1322,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "sp cialiste principal soutien premium @ british columbia, alberta",
-   "location": "British Columbia, Alberta",
+   "fp": "sp cialiste principal soutien premium @ british columbia",
+   "location": "British Columbia",
    "posted_at": "2026-08-05T15:03:54+00:00",
    "posted_history": [
     "2026-08-05T15:03:54+00:00"
@@ -2818,8 +2822,8 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "market manager spain @ barcelona",
-   "location": "Barcelona",
+   "fp": "market manager spain @ barcelona, madrid",
+   "location": "Barcelona, Madrid",
    "posted_at": "2026-10-13T10:08:00+00:00",
    "posted_history": [
     "2026-10-13T10:08:00+00:00"
@@ -3189,7 +3193,7 @@
    "url": "https://careers.airbnb.com/positions/8283664?gh_jid=8283664"
   },
   "8283730": {
-   "closed_at": "2026-11-03T11:21:29+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -3199,7 +3203,7 @@
    "posted_history": [
     "2026-10-20T13:58:10+00:00"
    ],
-   "reopened": 1,
+   "reopened": 2,
    "title": "Supervisor, Hotels",
    "url": "https://careers.airbnb.com/positions/8283730?gh_jid=8283730"
   },
@@ -4179,7 +4183,7 @@
    "url": "https://careers.airbnb.com/positions/8335541?gh_jid=8335541"
   },
   "8336191": {
-   "closed_at": null,
+   "closed_at": "2026-11-27T13:07:58+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-16T12:03:27+00:00",
@@ -4509,7 +4513,7 @@
    "url": "https://careers.airbnb.com/positions/8351488?gh_jid=8351488"
   },
   "8351513": {
-   "closed_at": null,
+   "closed_at": "2026-11-27T13:07:58+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-18T12:16:07+00:00",
@@ -5542,6 +5546,51 @@
    "reopened": 0,
    "title": "Operations Associate, Guest Services",
    "url": "https://careers.airbnb.com/positions/8413908?gh_jid=8413908"
+  },
+  "8417974": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-27T13:07:58+00:00",
+   "fp": "support specialist premium @ montréal, canada / toronto, canada / vancouver, canada",
+   "location": "Montréal, Canada / Toronto, Canada / Vancouver, Canada",
+   "posted_at": "2026-11-26T16:05:21+00:00",
+   "posted_history": [
+    "2026-11-26T16:05:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Support Specialist, Premium (Italian)",
+   "url": "https://careers.airbnb.com/positions/8417974?gh_jid=8417974"
+  },
+  "8417975": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-27T13:07:58+00:00",
+   "fp": "sp cialiste au support premium @ montréal, canada / toronto, canada / vancouver, canada",
+   "location": "Montréal, Canada / Toronto, Canada / Vancouver, Canada",
+   "posted_at": "2026-11-26T16:05:18+00:00",
+   "posted_history": [
+    "2026-11-26T16:05:18+00:00"
+   ],
+   "reopened": 0,
+   "title": "Spécialiste au Support Premium (Italien)",
+   "url": "https://careers.airbnb.com/positions/8417975?gh_jid=8417975"
+  },
+  "8418573": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-27T13:07:58+00:00",
+   "fp": "manager supply operations gurugram @ gurgaon, india",
+   "location": "Gurgaon, India",
+   "posted_at": "2026-11-26T13:29:21+00:00",
+   "posted_history": [
+    "2026-11-26T13:29:21+00:00"
+   ],
+   "reopened": 0,
+   "title": "Manager - Supply Operations, Gurugram",
+   "url": "https://careers.airbnb.com/positions/8418573?gh_jid=8418573"
   }
  }
 }

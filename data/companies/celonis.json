@@ -155,6 +155,10 @@
   {
    "date": "2026-11-26",
    "open": 259
+  },
+  {
+   "date": "2026-11-27",
+   "open": 258
   }
  ],
  "jobs": {
@@ -2394,7 +2398,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7885977003?gh_jid=7885977003"
   },
   "7885993003": {
-   "closed_at": null,
+   "closed_at": "2026-11-27T13:07:58+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3414,7 +3418,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8010193003?gh_jid=8010193003"
   },
   "8014300003": {
-   "closed_at": null,
+   "closed_at": "2026-11-27T13:07:58+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4269,7 +4273,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8044261003?gh_jid=8044261003"
   },
   "8046316003": {
-   "closed_at": null,
+   "closed_at": "2026-11-27T13:07:58+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-21T11:47:59+00:00",
@@ -5618,6 +5622,21 @@
    "title": "Account Executive - Cross Industries",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8208041003?gh_jid=8208041003"
   },
+  "8208057003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-27T13:07:58+00:00",
+   "fp": "intern demo experience applied ai @ madrid, spain",
+   "location": "Madrid, Spain",
+   "posted_at": "2026-11-26T16:46:30+00:00",
+   "posted_history": [
+    "2026-11-26T16:46:30+00:00"
+   ],
+   "reopened": 0,
+   "title": "Intern Demo Experience & Applied AI",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/8208057003?gh_jid=8208057003"
+  },
   "8209080003": {
    "closed_at": null,
    "department": "",
@@ -5737,6 +5756,21 @@
    "reopened": 0,
    "title": "Senior Solution Engineer - Life Sciences & Pharmaceutical",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8217043003?gh_jid=8217043003"
+  },
+  "8218125003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-27T13:07:58+00:00",
+   "fp": "senior account executive life sciences pharma @ paris, france",
+   "location": "Paris, France",
+   "posted_at": "2026-11-27T12:08:11+00:00",
+   "posted_history": [
+    "2026-11-27T12:08:11+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Account Executive Life Sciences & Pharma",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/8218125003?gh_jid=8218125003"
   }
  }
 }

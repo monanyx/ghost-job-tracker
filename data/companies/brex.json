@@ -155,6 +155,10 @@
   {
    "date": "2026-11-26",
    "open": 266
+  },
+  {
+   "date": "2026-11-27",
+   "open": 266
   }
  ],
  "jobs": {
@@ -2754,7 +2758,7 @@
    "url": "https://www.brex.com/careers/8782450002?gh_jid=8782450002"
   },
   "8782795002": {
-   "closed_at": null,
+   "closed_at": "2026-11-27T13:07:58+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2964,7 +2968,7 @@
    "url": "https://www.brex.com/careers/8795500002?gh_jid=8795500002"
   },
   "8797769002": {
-   "closed_at": null,
+   "closed_at": "2026-11-27T13:07:58+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2979,7 +2983,7 @@
    "url": "https://www.brex.com/careers/8797769002?gh_jid=8797769002"
   },
   "8797770002": {
-   "closed_at": null,
+   "closed_at": "2026-11-27T13:07:58+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2994,7 +2998,7 @@
    "url": "https://www.brex.com/careers/8797770002?gh_jid=8797770002"
   },
   "8797771002": {
-   "closed_at": null,
+   "closed_at": "2026-11-27T13:07:58+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6142,6 +6146,66 @@
    "reopened": 0,
    "title": "Revenue Operations Senior Analyst",
    "url": "https://www.brex.com/careers/8963009002?gh_jid=8963009002"
+  },
+  "8963608002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-27T13:07:58+00:00",
+   "fp": "engineering manager fincrime risk @ san francisco, california, united states",
+   "location": "San Francisco, California, United States",
+   "posted_at": "2026-11-26T16:49:04+00:00",
+   "posted_history": [
+    "2026-11-26T16:49:04+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager, FinCrime Risk",
+   "url": "https://www.brex.com/careers/8963608002?gh_jid=8963608002"
+  },
+  "8963609002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-27T13:07:58+00:00",
+   "fp": "engineering manager fincrime risk @ seattle, washington, united states",
+   "location": "Seattle, Washington, United States",
+   "posted_at": "2026-11-26T16:49:02+00:00",
+   "posted_history": [
+    "2026-11-26T16:49:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager, FinCrime Risk",
+   "url": "https://www.brex.com/careers/8963609002?gh_jid=8963609002"
+  },
+  "8963610002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-27T13:07:58+00:00",
+   "fp": "engineering manager fincrime risk @ new york, new york, united states",
+   "location": "New York, New York, United States",
+   "posted_at": "2026-11-26T16:48:59+00:00",
+   "posted_history": [
+    "2026-11-26T16:48:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager, FinCrime Risk",
+   "url": "https://www.brex.com/careers/8963610002?gh_jid=8963610002"
+  },
+  "8963611002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-27T13:07:58+00:00",
+   "fp": "engineering manager fincrime risk @ vancouver, british columbia, canada",
+   "location": "Vancouver, British Columbia, Canada",
+   "posted_at": "2026-11-26T16:48:56+00:00",
+   "posted_history": [
+    "2026-11-26T16:48:56+00:00"
+   ],
+   "reopened": 0,
+   "title": "Engineering Manager, FinCrime Risk",
+   "url": "https://www.brex.com/careers/8963611002?gh_jid=8963611002"
   }
  }
 }
