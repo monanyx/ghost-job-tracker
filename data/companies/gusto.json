@@ -159,6 +159,10 @@
   {
    "date": "2026-11-27",
    "open": 86
+  },
+  {
+   "date": "2026-11-28",
+   "open": 85
   }
  ],
  "jobs": {
@@ -1003,7 +1007,7 @@
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8120017"
   },
   "8128422": {
-   "closed_at": null,
+   "closed_at": "2026-11-28T12:22:48+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",

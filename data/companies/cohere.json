@@ -159,6 +159,10 @@
   {
    "date": "2026-11-27",
    "open": 123
+  },
+  {
+   "date": "2026-11-28",
+   "open": 121
   }
  ],
  "jobs": {
@@ -583,7 +587,7 @@
    "url": "https://jobs.ashbyhq.com/cohere/2d4d224f-94d4-40ce-88d5-5d340bc0da4e"
   },
   "2dc422bb-6759-4867-afb6-dc074af9ae58": {
-   "closed_at": null,
+   "closed_at": "2026-11-28T12:22:48+00:00",
    "department": "Business Operations",
    "evergreen": false,
    "first_seen": "2026-11-14T10:56:25+00:00",
@@ -801,8 +805,8 @@
    "department": "Inference",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "staff software engineer inference infrastructure @ san francisco",
-   "location": "San Francisco",
+   "fp": "staff software engineer inference infrastructure @ united states",
+   "location": "United States",
    "posted_at": "2026-01-12T22:53:17+00:00",
    "posted_history": [
     "2026-01-12T22:53:17+00:00"
@@ -907,8 +911,8 @@
    "department": "Analytics & Data Insights",
    "evergreen": false,
    "first_seen": "2026-10-23T08:50:35+00:00",
-   "fp": "senior staff data engineer @ toronto",
-   "location": "Toronto",
+   "fp": "senior staff data engineer @ united states",
+   "location": "United States",
    "posted_at": "2026-10-22T10:15:04+00:00",
    "posted_history": [
     "2026-10-22T10:15:04+00:00"
@@ -1253,8 +1257,8 @@
    "department": "Engineering & Infra",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "software engineer data infrastructure @ new york",
-   "location": "New York",
+   "fp": "software engineer data infrastructure @ united states",
+   "location": "United States",
    "posted_at": "2026-05-14T19:24:12+00:00",
    "posted_history": [
     "2026-05-14T19:24:12+00:00"
@@ -1369,7 +1373,7 @@
    "url": "https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785"
   },
   "74373c60-3ce9-48fd-ae8d-5235fa24c682": {
-   "closed_at": null,
+   "closed_at": "2026-11-28T12:22:48+00:00",
    "department": "People Operations",
    "evergreen": false,
    "first_seen": "2026-11-18T12:16:07+00:00",
@@ -1865,7 +1869,7 @@
    "url": "https://jobs.ashbyhq.com/cohere/a13207e7-dc82-473f-8ca4-e832452fe8c3"
   },
   "a3a69960-3c85-4b11-b9b7-d4056d406c2e": {
-   "closed_at": null,
+   "closed_at": "2026-11-28T12:22:48+00:00",
    "department": "Business Operations",
    "evergreen": false,
    "first_seen": "2026-10-31T09:57:28+00:00",
@@ -2169,8 +2173,8 @@
    "department": "Engineering & Infra",
    "evergreen": false,
    "first_seen": "2026-11-16T12:03:27+00:00",
-   "fp": "staff software engineer data infrastructure @ new york",
-   "location": "New York",
+   "fp": "staff software engineer data infrastructure @ united states",
+   "location": "United States",
    "posted_at": "2026-11-16T10:31:16+00:00",
    "posted_history": [
     "2026-11-16T10:31:16+00:00"
@@ -2269,6 +2273,21 @@
    "reopened": 0,
    "title": "Enterprise B2B Communications Manager",
    "url": "https://jobs.ashbyhq.com/cohere/d164d567-58d9-42fc-9e14-68d1dd2cb5a7"
+  },
+  "d24de9b2-35b6-456a-843e-a9e01d2facf2": {
+   "closed_at": null,
+   "department": "Product & Design",
+   "evergreen": false,
+   "first_seen": "2026-11-28T12:22:48+00:00",
+   "fp": "technical program manager model delivery @ toronto",
+   "location": "Toronto",
+   "posted_at": "2026-11-27T20:28:59+00:00",
+   "posted_history": [
+    "2026-11-27T20:28:59+00:00"
+   ],
+   "reopened": 0,
+   "title": "Technical Program Manager, Model Delivery",
+   "url": "https://jobs.ashbyhq.com/cohere/d24de9b2-35b6-456a-843e-a9e01d2facf2"
   },
   "d28fbc03-cb09-49da-84b9-e12c16182695": {
    "closed_at": null,

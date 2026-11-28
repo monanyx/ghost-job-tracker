@@ -159,6 +159,10 @@
   {
    "date": "2026-11-27",
    "open": 161
+  },
+  {
+   "date": "2026-11-28",
+   "open": 162
   }
  ],
  "jobs": {
@@ -2173,7 +2177,7 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8224764?t=gh_src=&gh_jid=8224764"
   },
   "8224805": {
-   "closed_at": "2026-11-27T13:07:58+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -2183,7 +2187,7 @@
    "posted_history": [
     "2026-09-22T23:17:12+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Overnight Customer Experience Representative, Concierge",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8224805?t=gh_src=&gh_jid=8224805"
   },

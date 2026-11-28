@@ -159,6 +159,10 @@
   {
    "date": "2026-11-27",
    "open": 97
+  },
+  {
+   "date": "2026-11-28",
+   "open": 98
   }
  ],
  "jobs": {
@@ -898,7 +902,7 @@
    "url": "https://jobs.lever.co/spotify/56ea6f2e-f20b-4e46-ab94-d3eb0a89482d"
   },
   "5861816e-7ac4-4921-8e90-8e093707e27d": {
-   "closed_at": "2026-11-18T12:16:07+00:00",
+   "closed_at": null,
    "department": "Experience",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -908,7 +912,7 @@
    "posted_history": [
     "2026-09-09T11:01:39+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Director of Engineering - Content Platform (Catalog)",
    "url": "https://jobs.lever.co/spotify/5861816e-7ac4-4921-8e90-8e093707e27d"
   },

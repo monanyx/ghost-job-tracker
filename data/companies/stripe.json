@@ -159,6 +159,10 @@
   {
    "date": "2026-11-27",
    "open": 766
+  },
+  {
+   "date": "2026-11-28",
+   "open": 771
   }
  ],
  "jobs": {
@@ -7378,7 +7382,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8176726"
   },
   "8176728": {
-   "closed_at": "2026-11-18T12:16:07+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -7388,7 +7392,7 @@
    "posted_history": [
     "2026-09-16T15:59:54+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Sales Manager, SMB, UKI",
    "url": "https://stripe.com/jobs/search?gh_jid=8176728"
   },
@@ -12028,7 +12032,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8267847"
   },
   "8267851": {
-   "closed_at": null,
+   "closed_at": "2026-11-28T12:22:48+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -13798,7 +13802,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8322584"
   },
   "8322588": {
-   "closed_at": null,
+   "closed_at": "2026-11-28T12:22:48+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-17T12:29:08+00:00",
@@ -16783,7 +16787,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8411217"
   },
   "8411927": {
-   "closed_at": null,
+   "closed_at": "2026-11-28T12:22:48+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-24T14:17:17+00:00",
@@ -16798,7 +16802,7 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8411927"
   },
   "8411988": {
-   "closed_at": null,
+   "closed_at": "2026-11-28T12:22:48+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-24T14:17:17+00:00",
@@ -16991,6 +16995,126 @@
    "reopened": 0,
    "title": "Sales Development Representative (Swedish Fluency)",
    "url": "https://stripe.com/jobs/search?gh_jid=8419418"
+  },
+  "8421000": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-28T12:22:48+00:00",
+   "fp": "software engineer full stack atlas @ south san francisco, ca",
+   "location": "South San Francisco, CA",
+   "posted_at": "2026-11-27T16:39:02+00:00",
+   "posted_history": [
+    "2026-11-27T16:39:02+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Full Stack Atlas",
+   "url": "https://stripe.com/jobs/search?gh_jid=8421000"
+  },
+  "8421091": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-28T12:22:48+00:00",
+   "fp": "software engineer backend @ seattle, wa",
+   "location": "Seattle, WA",
+   "posted_at": "2026-11-27T17:11:31+00:00",
+   "posted_history": [
+    "2026-11-27T17:11:31+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Backend",
+   "url": "https://stripe.com/jobs/search?gh_jid=8421091"
+  },
+  "8421263": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-28T12:22:48+00:00",
+   "fp": "product strategy operations crypto s o @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-11-27T18:26:45+00:00",
+   "posted_history": [
+    "2026-11-27T18:26:45+00:00"
+   ],
+   "reopened": 0,
+   "title": "Product Strategy & Operations, Crypto S&O",
+   "url": "https://stripe.com/jobs/search?gh_jid=8421263"
+  },
+  "8421367": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-28T12:22:48+00:00",
+   "fp": "software engineer reporting platform @ new york, ny",
+   "location": "New York, NY",
+   "posted_at": "2026-11-27T19:44:36+00:00",
+   "posted_history": [
+    "2026-11-27T19:44:36+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Reporting Platform",
+   "url": "https://stripe.com/jobs/search?gh_jid=8421367"
+  },
+  "8421387": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-28T12:22:48+00:00",
+   "fp": "software engineer backend @ south san francisco, ca",
+   "location": "South San Francisco, CA",
+   "posted_at": "2026-11-27T19:57:35+00:00",
+   "posted_history": [
+    "2026-11-27T19:57:35+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer, Backend",
+   "url": "https://stripe.com/jobs/search?gh_jid=8421387"
+  },
+  "8421413": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-28T12:22:48+00:00",
+   "fp": "business operations @ san francisco, ca",
+   "location": "San Francisco, CA ",
+   "posted_at": "2026-11-27T20:16:14+00:00",
+   "posted_history": [
+    "2026-11-27T20:16:14+00:00"
+   ],
+   "reopened": 0,
+   "title": "Business Operations",
+   "url": "https://stripe.com/jobs/search?gh_jid=8421413"
+  },
+  "8421434": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-28T12:22:48+00:00",
+   "fp": "software engineer @ south san francisco, ca",
+   "location": "South San Francisco, CA",
+   "posted_at": "2026-11-27T20:33:03+00:00",
+   "posted_history": [
+    "2026-11-27T20:33:03+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer",
+   "url": "https://stripe.com/jobs/search?gh_jid=8421434"
+  },
+  "8421452": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-28T12:22:48+00:00",
+   "fp": "software engineer @ south san francisco, ca",
+   "location": "South San Francisco, CA ",
+   "posted_at": "2026-11-27T20:56:05+00:00",
+   "posted_history": [
+    "2026-11-27T20:56:05+00:00"
+   ],
+   "reopened": 0,
+   "title": "Software Engineer",
+   "url": "https://stripe.com/jobs/search?gh_jid=8421452"
   }
  }
 }

@@ -159,6 +159,10 @@
   {
    "date": "2026-11-27",
    "open": 258
+  },
+  {
+   "date": "2026-11-28",
+   "open": 256
   }
  ],
  "jobs": {
@@ -1828,7 +1832,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7817279003?gh_jid=7817279003"
   },
   "7817305003": {
-   "closed_at": null,
+   "closed_at": "2026-11-28T12:22:48+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1888,7 +1892,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7817387003?gh_jid=7817387003"
   },
   "7817391003": {
-   "closed_at": null,
+   "closed_at": "2026-11-28T12:22:48+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -1903,7 +1907,7 @@
    "url": "https://job-boards.greenhouse.io/celonis/jobs/7817391003?gh_jid=7817391003"
   },
   "7817395003": {
-   "closed_at": null,
+   "closed_at": "2026-11-28T12:22:48+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5711,6 +5715,21 @@
    "reopened": 0,
    "title": "Principal Enterprise Architect - AI & Cloud Integrations",
    "url": "https://job-boards.greenhouse.io/celonis/jobs/8210402003?gh_jid=8210402003"
+  },
+  "8213877003": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-28T12:22:48+00:00",
+   "fp": "intern ai solutions value engineering @ madrid, spain",
+   "location": "Madrid, Spain",
+   "posted_at": "2026-11-27T16:32:51+00:00",
+   "posted_history": [
+    "2026-11-27T16:32:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Intern AI Solutions & Value Engineering (Agentic Customer Journey)",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/8213877003?gh_jid=8213877003"
   },
   "8215145003": {
    "closed_at": null,

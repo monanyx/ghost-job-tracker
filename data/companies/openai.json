@@ -159,6 +159,10 @@
   {
    "date": "2026-11-27",
    "open": 876
+  },
+  {
+   "date": "2026-11-28",
+   "open": 876
   }
  ],
  "jobs": {
@@ -2361,6 +2365,21 @@
    "title": "Product Data Scientist - Youth, Families and Learning",
    "url": "https://jobs.ashbyhq.com/openai/1f148786-2e00-472a-96b9-0b29015980e1"
   },
+  "1f1ea997-283b-4d49-b25b-e8dbe2491938": {
+   "closed_at": null,
+   "department": "People",
+   "evergreen": false,
+   "first_seen": "2026-11-28T12:22:48+00:00",
+   "fp": "program manager recruiting events @ san francisco",
+   "location": "San Francisco",
+   "posted_at": "2026-11-27T18:00:20+00:00",
+   "posted_history": [
+    "2026-11-27T18:00:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Program Manager, Recruiting Events",
+   "url": "https://jobs.ashbyhq.com/openai/1f1ea997-283b-4d49-b25b-e8dbe2491938"
+  },
   "1f247dd3-5c54-49a7-83f5-ca6cf6ed7717": {
    "closed_at": "2026-11-11T11:27:30+00:00",
    "department": "Scaling",
@@ -4466,7 +4485,7 @@
    "url": "https://jobs.ashbyhq.com/openai/3b34eb10-25b0-4a97-bd6d-05fc90ad4981"
   },
   "3b85fc17-403b-4ca0-81e3-21c2aec9c052": {
-   "closed_at": null,
+   "closed_at": "2026-11-28T12:22:48+00:00",
    "department": "Go To Market",
    "evergreen": false,
    "first_seen": "2026-11-06T11:30:42+00:00",

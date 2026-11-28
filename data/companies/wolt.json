@@ -159,6 +159,10 @@
   {
    "date": "2026-11-27",
    "open": 183
+  },
+  {
+   "date": "2026-11-28",
+   "open": 184
   }
  ],
  "jobs": {
@@ -1104,7 +1108,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/7547321"
   },
   "7559951": {
-   "closed_at": "2026-11-11T11:27:30+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -1114,7 +1118,7 @@
    "posted_history": [
     "2026-01-28T15:55:07+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Grocery Shift Lead",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/7559951"
   },
@@ -3204,7 +3208,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8237035"
   },
   "8237053": {
-   "closed_at": "2026-11-11T11:27:30+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-21T08:53:29+00:00",
@@ -3214,7 +3218,7 @@
    "posted_history": [
     "2026-10-14T16:16:53+00:00"
    ],
-   "reopened": 0,
+   "reopened": 1,
    "title": "Grocery Shift Lead",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8237053"
   },
@@ -3279,7 +3283,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8245396"
   },
   "8245851": {
-   "closed_at": null,
+   "closed_at": "2026-11-28T12:22:48+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3414,7 +3418,7 @@
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8258732"
   },
   "8259568": {
-   "closed_at": null,
+   "closed_at": "2026-11-28T12:22:48+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -4738,14 +4742,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-12T11:51:19+00:00",
-   "fp": "support team lead @ tirana, albania",
+   "fp": "customer support lead @ tirana, albania",
    "location": "Tirana, Albania",
    "posted_at": "2026-11-11T15:28:26+00:00",
    "posted_history": [
     "2026-11-11T15:28:26+00:00"
    ],
    "reopened": 0,
-   "title": "Support Team Lead",
+   "title": "Customer Support Lead",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8378862"
   },
   "8378863": {
@@ -5377,6 +5381,21 @@
    "reopened": 0,
    "title": "Payroll Specialist",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8417864"
+  },
+  "8418791": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-28T12:22:48+00:00",
+   "fp": "dashos associate @ athens, greece",
+   "location": "Athens, Greece",
+   "posted_at": "2026-11-26T09:29:33+00:00",
+   "posted_history": [
+    "2026-11-26T09:29:33+00:00"
+   ],
+   "reopened": 0,
+   "title": "DashOS Associate",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8418791"
   },
   "8419084": {
    "closed_at": null,

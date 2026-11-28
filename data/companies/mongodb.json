@@ -159,6 +159,10 @@
   {
    "date": "2026-11-27",
    "open": 426
+  },
+  {
+   "date": "2026-11-28",
+   "open": 424
   }
  ],
  "jobs": {
@@ -2792,14 +2796,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
-   "fp": "critical situation manager @ dublin, ireland",
+   "fp": "senior escalation manager @ dublin, ireland",
    "location": "Dublin, Ireland",
    "posted_at": "2026-07-23T16:26:55+00:00",
    "posted_history": [
     "2026-07-23T16:26:55+00:00"
    ],
    "reopened": 0,
-   "title": "Critical Situation Manager (Escalation Manager)",
+   "title": "Senior Escalation Manager",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8073670"
   },
   "8075467": {
@@ -2908,7 +2912,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8082623"
   },
   "8083366": {
-   "closed_at": null,
+   "closed_at": "2026-11-28T12:22:48+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -3298,7 +3302,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8120181"
   },
   "8120184": {
-   "closed_at": null,
+   "closed_at": "2026-11-28T12:22:48+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -5188,7 +5192,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8212133"
   },
   "8213069": {
-   "closed_at": null,
+   "closed_at": "2026-11-28T12:22:48+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6853,7 +6857,7 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8300746"
   },
   "8300961": {
-   "closed_at": null,
+   "closed_at": "2026-11-28T12:22:48+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-22T08:55:54+00:00",
@@ -9312,6 +9316,21 @@
    "title": "Senior Manager, Workplace Operations, Safety & Security",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8412160"
   },
+  "8412394": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-28T12:22:48+00:00",
+   "fp": "senior software engineer @ dublin, ireland",
+   "location": "Dublin, Ireland",
+   "posted_at": "2026-11-27T17:58:51+00:00",
+   "posted_history": [
+    "2026-11-27T17:58:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Software Engineer",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8412394"
+  },
   "8414057": {
    "closed_at": null,
    "department": "",
@@ -9401,6 +9420,21 @@
    "reopened": 0,
    "title": "Senior Solutions Architect",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8419294"
+  },
+  "8419307": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-28T12:22:48+00:00",
+   "fp": "senior solutions architect @ germany",
+   "location": "Germany",
+   "posted_at": "2026-11-27T13:27:20+00:00",
+   "posted_history": [
+    "2026-11-27T13:27:20+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Solutions Architect",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8419307"
   },
   "8419310": {
    "closed_at": null,

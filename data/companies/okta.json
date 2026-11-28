@@ -159,6 +159,10 @@
   {
    "date": "2026-11-27",
    "open": 362
+  },
+  {
+   "date": "2026-11-28",
+   "open": 360
   }
  ],
  "jobs": {
@@ -1348,7 +1352,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/7936541?gh_jid=7936541"
   },
   "7941715": {
-   "closed_at": null,
+   "closed_at": "2026-11-28T12:22:48+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6028,7 +6032,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8263827?gh_jid=8263827"
   },
   "8263916": {
-   "closed_at": null,
+   "closed_at": "2026-11-28T12:22:48+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -6343,7 +6347,7 @@
    "url": "https://www.okta.com/company/careers/opportunity/8281409?gh_jid=8281409"
   },
   "8281740": {
-   "closed_at": null,
+   "closed_at": "2026-11-28T12:22:48+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -9431,6 +9435,21 @@
    "reopened": 0,
    "title": "Customer Success Manager (Tokyo)",
    "url": "https://www.okta.com/company/careers/opportunity/8419201?gh_jid=8419201"
+  },
+  "8420236": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-28T12:22:48+00:00",
+   "fp": "staff analyst workday techno functional consultant @ bengaluru",
+   "location": "Bengaluru",
+   "posted_at": "2026-11-27T13:23:50+00:00",
+   "posted_history": [
+    "2026-11-27T13:23:50+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Analyst - Workday Techno-Functional Consultant",
+   "url": "https://www.okta.com/company/careers/opportunity/8420236?gh_jid=8420236"
   }
  }
 }

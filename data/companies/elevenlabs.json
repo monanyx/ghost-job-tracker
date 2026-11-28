@@ -159,6 +159,10 @@
   {
    "date": "2026-11-27",
    "open": 108
+  },
+  {
+   "date": "2026-11-28",
+   "open": 109
   }
  ],
  "jobs": {
@@ -2161,20 +2165,21 @@
    "url": "https://jobs.ashbyhq.com/ElevenLabs/945abd50-09e6-4adb-b59b-0f0d17b9d507"
   },
   "969bbf7d-037c-4965-812e-442105ce58c1": {
-   "closed_at": "2026-11-07T10:41:11+00:00",
+   "closed_at": null,
    "department": "Growth",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
    "fp": "developer advocate @ united kingdom",
    "location": "United Kingdom",
-   "posted_at": "2026-10-28T13:39:17+00:00",
+   "posted_at": "2026-11-27T17:15:29+00:00",
    "posted_history": [
     "2026-10-15T10:41:50+00:00",
-    "2026-10-28T13:39:17+00:00"
+    "2026-10-28T13:39:17+00:00",
+    "2026-11-27T17:15:29+00:00"
    ],
-   "reopened": 1,
+   "reopened": 2,
    "title": "Developer Advocate",
-   "url": "https://jobs.ashbyhq.com/elevenlabs/969bbf7d-037c-4965-812e-442105ce58c1"
+   "url": "https://jobs.ashbyhq.com/ElevenLabs/969bbf7d-037c-4965-812e-442105ce58c1"
   },
   "974c2288-d49d-4f05-8d74-0feb08445637": {
    "closed_at": null,
@@ -3279,7 +3284,7 @@
    "url": "https://jobs.ashbyhq.com/elevenlabs/e5c45832-a952-4584-9874-25580b5b4993"
   },
   "e5cca48b-1f34-48fe-9ebf-3c6ff526f9ba": {
-   "closed_at": null,
+   "closed_at": "2026-11-28T12:22:48+00:00",
    "department": "Legal",
    "evergreen": false,
    "first_seen": "2026-11-20T12:11:54+00:00",
@@ -3415,6 +3420,21 @@
    "reopened": 0,
    "title": "Global GTM Talent Lead",
    "url": "https://jobs.ashbyhq.com/elevenlabs/ec07a96a-35c1-491e-8184-4c19c999a120"
+  },
+  "ec95ed66-4bf5-4821-bc69-96e0b1b54c16": {
+   "closed_at": null,
+   "department": "Growth",
+   "evergreen": false,
+   "first_seen": "2026-11-28T12:22:48+00:00",
+   "fp": "b2b marketing france @ france",
+   "location": "France",
+   "posted_at": "2026-11-28T10:30:12+00:00",
+   "posted_history": [
+    "2026-11-28T10:30:12+00:00"
+   ],
+   "reopened": 0,
+   "title": "B2B Marketing - France",
+   "url": "https://jobs.ashbyhq.com/ElevenLabs/ec95ed66-4bf5-4821-bc69-96e0b1b54c16"
   },
   "ed5d50eb-e41a-48e4-bea0-3686176f0461": {
    "closed_at": null,

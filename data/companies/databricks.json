@@ -159,6 +159,10 @@
   {
    "date": "2026-11-27",
    "open": 881
+  },
+  {
+   "date": "2026-11-28",
+   "open": 888
   }
  ],
  "jobs": {
@@ -9373,7 +9377,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8657549002"
   },
   "8657553002": {
-   "closed_at": "2026-11-24T14:17:17+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -9383,8 +9387,8 @@
    "posted_history": [
     "2026-09-03T14:44:42+00:00"
    ],
-   "reopened": 1,
-   "title": "Senior Specialist Solutions Engineer (Infrastructure & Platform)",
+   "reopened": 2,
+   "title": "Senior Specialist Solutions Engineer (Security, Networking, Cloud Platform)",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8657553002"
   },
   "8657746002": {
@@ -10288,7 +10292,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8716730002"
   },
   "8717004002": {
-   "closed_at": null,
+   "closed_at": "2026-11-28T12:22:48+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-19T21:35:52+00:00",
@@ -15062,14 +15066,14 @@
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-20T12:11:54+00:00",
-   "fp": "solutions architect public sector @ united states",
+   "fp": "sr solutions architect public sector @ united states",
    "location": "United States",
    "posted_at": "2026-11-19T22:26:57+00:00",
    "posted_history": [
     "2026-11-19T22:26:57+00:00"
    ],
    "reopened": 0,
-   "title": "Solutions Architect - Public Sector (Manufacturing / Supply Chain)",
+   "title": "Sr. Solutions Architect - Public Sector (Manufacturing / Supply Chain)",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8893767002"
   },
   "8893772002": {
@@ -15838,7 +15842,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8910842002"
   },
   "8910846002": {
-   "closed_at": "2026-11-25T13:30:19+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-24T08:24:32+00:00",
@@ -15848,23 +15852,23 @@
    "posted_history": [
     "2026-10-23T15:19:31+00:00"
    ],
-   "reopened": 2,
+   "reopened": 3,
    "title": "Associate Forward Deployed Engineer",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8910846002"
   },
   "8910850002": {
-   "closed_at": "2026-11-22T11:59:27+00:00",
+   "closed_at": null,
    "department": "",
    "evergreen": false,
    "first_seen": "2026-10-27T09:20:56+00:00",
-   "fp": "forward deployed engineering manager @ london, united kingdom",
+   "fp": "forward deployed software engineering manager @ london, united kingdom",
    "location": "London, United Kingdom",
    "posted_at": "2026-10-26T17:09:00+00:00",
    "posted_history": [
     "2026-10-26T17:09:00+00:00"
    ],
-   "reopened": 0,
-   "title": "Forward Deployed Engineering Manager",
+   "reopened": 1,
+   "title": "Forward Deployed Software Engineering Manager",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8910850002"
   },
   "8910854002": {
@@ -16468,7 +16472,7 @@
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8923831002"
   },
   "8923866002": {
-   "closed_at": null,
+   "closed_at": "2026-11-28T12:22:48+00:00",
    "department": "",
    "evergreen": false,
    "first_seen": "2026-11-05T11:30:12+00:00",
@@ -17817,6 +17821,36 @@
    "title": "Deployment Strategist",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8960958002"
   },
+  "8960960002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-28T12:22:48+00:00",
+   "fp": "deployment strategist @ amsterdam, netherlands",
+   "location": "Amsterdam, Netherlands",
+   "posted_at": "2026-11-27T17:33:22+00:00",
+   "posted_history": [
+    "2026-11-27T17:33:22+00:00"
+   ],
+   "reopened": 0,
+   "title": "Deployment Strategist",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8960960002"
+  },
+  "8960967002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-28T12:22:48+00:00",
+   "fp": "staff forward deployment strategist @ paris, france",
+   "location": "Paris, France",
+   "posted_at": "2026-11-27T15:20:55+00:00",
+   "posted_history": [
+    "2026-11-27T15:20:55+00:00"
+   ],
+   "reopened": 0,
+   "title": "Staff Forward Deployment Strategist",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8960967002"
+  },
   "8960976002": {
    "closed_at": null,
    "department": "",
@@ -17862,6 +17896,21 @@
    "title": "Manager, Field Engineering (Greater China)",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8963204002"
   },
+  "8963388002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-28T12:22:48+00:00",
+   "fp": "senior manager capability engineering customer training emea @ london, united kingdom",
+   "location": "London, United Kingdom",
+   "posted_at": "2026-11-27T11:46:51+00:00",
+   "posted_history": [
+    "2026-11-27T11:46:51+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Capability Engineering & Customer Training, EMEA",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8963388002"
+  },
   "8963506002": {
    "closed_at": null,
    "department": "",
@@ -17876,6 +17925,51 @@
    "reopened": 0,
    "title": "Manager, Delivery Solutions Architects",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8963506002"
+  },
+  "8964086002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-28T12:22:48+00:00",
+   "fp": "senior manager capability engineering customer training emea @ paris, france",
+   "location": "Paris, France",
+   "posted_at": "2026-11-27T15:41:17+00:00",
+   "posted_history": [
+    "2026-11-27T15:41:17+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Capability Engineering & Customer Training, EMEA",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8964086002"
+  },
+  "8964093002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-28T12:22:48+00:00",
+   "fp": "senior manager capability engineering customer training emea @ amsterdam, netherlands",
+   "location": "Amsterdam, Netherlands",
+   "posted_at": "2026-11-27T15:44:00+00:00",
+   "posted_history": [
+    "2026-11-27T15:44:00+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Capability Engineering & Customer Training, EMEA",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8964093002"
+  },
+  "8964095002": {
+   "closed_at": null,
+   "department": "",
+   "evergreen": false,
+   "first_seen": "2026-11-28T12:22:48+00:00",
+   "fp": "senior manager capability engineering customer training emea @ munich, germany",
+   "location": "Munich, Germany",
+   "posted_at": "2026-11-27T15:44:44+00:00",
+   "posted_history": [
+    "2026-11-27T15:44:44+00:00"
+   ],
+   "reopened": 0,
+   "title": "Senior Manager, Capability Engineering & Customer Training, EMEA",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8964095002"
   }
  }
 }
